@@ -6,14 +6,14 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
 
   Les candidats à cet examen sont des architectes en solutions Azure qui conseillent les parties prenantes et traduisent les exigences des entreprises en solutions sécurisées, évolutives et fiables. Les candidats doivent posséder une expérience et des connaissances avancées dans divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la gestion des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale. Les candidats doivent maîtriser l'administration Azure, la mise au point Azure et DevOps et avoir des compétences de niveau expert dans au moins un de ces domaines.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : déployer et configurer des infrastructures, mettre en œuvre des charges de travail et la sécurité, créer et déployer des applications, mettre en œuvre l’authentification et sécuriser les données et mettre au point pour le cloud et le stockage Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-300&examname=Examen%20AZ-300:%20Technologies%20Microsoft%20Azure%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - en
 - ja

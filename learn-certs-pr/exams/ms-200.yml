@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
 
   Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent des destinataires, des autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud.
 
@@ -19,7 +19,7 @@ subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-200&examname=Examen%20MS-200:%20Planifier%20et%20configurer%20une%20plateforme%20de%20messagerie&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ Les solutions de formation et de certification de Microsoft aident les entrepris
 Les solutions de formation et de certification Microsoft sont disponibles par le biais des programmes d’octroi de licence en volume Microsoft suivants:
 
 * **Octroi de licences en volume Microsoft**. Un programme d'achat de logiciels Microsoft personnalisable qui garantit un accès à prix réduit aux solutions de formation et de certification de Microsoft.
-**[Octroi de licences en volume Microsoft pour l’assurance logicielle](https://www.microsoft.com/fr-fr/learning/software-assurance-benefits.aspx)**. Un programme rentable qui garantit l’accès à une formation précise en assurance logiciell autonome ou menée par un instructeur grâce à votre couverture assurance logicielle existante.
+* **[Octroi de licences en volume Microsoft pour l’assurance logicielle](https://www.microsoft.com/fr-fr/learning/software-assurance-benefits.aspx)**. Un programme rentable qui garantit l’accès à une formation précise en assurance logiciell autonome ou menée par un instructeur grâce à votre couverture assurance logicielle existante.
 
 En consolidant l’achat, la budgétisation et le suivi des produits de solutions de formation et de certification Microsoft décrits sur cette page grâce à l’achat d'autres technologies Microsoft par le biais de l’octroi de licences en volume, votre organisation peut obtenir 20 à 80% d’économies en moyenne (en fonction du produit et du niveau de contrat d'octroi de licences en volume).
 

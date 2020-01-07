@@ -47,7 +47,7 @@ Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professi
 
 [**En savoir plus**](/learn/certifications/certification-exam-policies)
 
-## Questions fréquemment posées
+## <a name="frequently-ask-questions"> Questions fréquemment posées
 
 **Q. Qu'est-ce qu'un Exam Replay ?**
 

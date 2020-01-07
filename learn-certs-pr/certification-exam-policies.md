@@ -1072,7 +1072,7 @@ Si vous avez des questions générales liées à l'inscription aux examens, cont
 
 **Comment puis-je demander un aménagement ?**
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section [Aménagements spéciaux lors d’un examen](#special-accommodations-when-taking-exams) ci-dessus.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section Aménagements spéciaux lors d’un examen ci-dessus.
 
 **Pour quelle raison dois-je présenter des documents ?**
 

@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Dans le monde entier, nos partenaires et clients attendent de Microsoft des examens et certifications de la plus haute qualité. Les règles applicables aux examens de certification Microsoft ont été conçues pour prendre en charge les objectifs du programme de certification, notamment :
 
-## Les politiques en matière de sécurité et de rattrapage
+## <a name="security-policies"></a> Les politiques en matière de sécurité et de rattrapage
 
 Microsoft a mis en œuvre des stratégies spécifiques se rapportant aux domaines de sécurité appropriés aux examens Microsoft Certified Professional (MCP).
 
@@ -517,7 +517,7 @@ Pour ample informations, visitez : [Crédit NCCRS pour les certifications Micro
 
 Téléchargez : [Application du service de relevés de notes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Contestation d'un sujet d'examen de certification Microsoft
+## <a name="policies-5"></a> Contestation d'un sujet d'examen de certification Microsoft
 
 [Chaque question d’examen est soigneusement révisée](https://www.microsoft.com/fr-fr/learning/certification-exams.aspx) par un panel d'experts techniques et de spécialistes des postes de travail afin d'évaluer l'exactitude technique, la clarté et la pertinence de chaque question. Si vous estimez qu'une question spécifique d'un examen de certification Microsoft n'est pas valide, vous pouvez demander une évaluation de la question en suivant les étapes décrites ci-dessous. Vous devez soumettre un formulaire de Exam Item Challenge dans les 30 jours qui suivent l'examen.
 
@@ -553,7 +553,7 @@ Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vo
 
 Si vous avez besoin de plus de temps parce que votre examen n’est pas disponible dans votre langue maternelle, si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement par le biais de Certiport en suivant le processus décrit [ici](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Règlement relatif aux annulations et aux reports:
+### <a name="cancellation-and-reschedule-policy"></a> Règlement relatif aux annulations et aux reports:
 
 - Aucun frais n’est exigé si vous reprogrammez ou si vous annulez un rendez-vous d'examen au moins 6 jours ouvrables avant votre rendez-vous.
 - Si vous annulez ou si vous reprogrammez votre examen dans les 5 jours ouvrables suivant votre heure d'examen, des frais seront appliqués.

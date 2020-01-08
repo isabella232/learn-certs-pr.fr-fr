@@ -26,7 +26,7 @@ De plus, vous aurez accès à [MCT Central](https://www.microsoft.com/en-us/lear
 
 [Découvrez tous les avantages pour les MCT](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## Exigences
+## <a name="mctinfoheading-3"></a> Exigences
 
 Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en continu des formations sur les technologies Microsoft. Si vous possédez une certification et que donner une formation sur les technologies Microsoft vous passionne, nous vous encourageons à faire une demande.
 

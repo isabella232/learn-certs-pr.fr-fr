@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Migration des données et préparation à la mise en ligne avec Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-300T03-A: Migration des données et préparation à la mise en ligne avec Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-300T03-A: Migration des données et préparation à la mise en ligne avec Dynamics 365 for Finance and Operations'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour réduire les coûts opérationnels et répondre rapidement aux besoins changeants de l’entreprise. Cette solution permet aux organisations de réaliser ces objectifs.
+
+  Cette formation discute de la migration des données et de la préparation de mise en ligne de Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Préparer les données pour la migration et faire migrer les données
+  Cette unité explore les modèles, scénarios et solutions d'intégration pour Finance and Operations Bien que cette unité ne contienne pas de détails techniques sur la manière d’utiliser ou de configurer chaque modèle d’intégration ou de travailler avec le modèle de code, il est toujours bon de connaître les outils d'intégration disponibles.
+  #### Leçons
+  - Introduction
+  - Comprendre la fonctionnalité BYOD.
+  - Effectuer un test de migration et valider le résultat
+  - Résumé du module
+  
+
+  Lorsqu’il est temps de migrer les données, le fait d'avoir des connaissances supplémentaires facilite le contrôle de la complexité opérationnelle et réduit les coûts. La continuité opérationnelle du client doit être une priorité. Dans ce module, les étudiants apprendront à préparer les données pour une migration réussie en identifiant les facteurs importants tels que les systèmes existants et les données statiques et communes.
+  
+  
+  Dans ce module, les étudiants ont appris à&#58;
+  - choisir une stratégie d’intégration de données (import/export)
+  - identifier des scénarios et des outils de migration communs dans Finance and Operations
+  - comprendre la fonctionnalité << bring your own database (BYOD) >>
+  - identifier les systèmes pertinents (existants)
+  - identifier et importer des données statiques communes aux secteurs
+  - créer et passer en revue les plans d’essais de la migration des données
+  - identifier et extraire des données source
+  - identifier les entités et les éléments de données pertinents
+  - générer la cartographie de champs entre les structures de données sources et cibles
+  - Effectuer un test de migration et valider le résultat
+  - prendre en charge la transition entre le système existant et le système migré
+
+
+  ### Module 2&#58; Utiliser la gestion des données
+  Dans ce module, les étudiants auront un aperçu des concepts de base de la plateforme de gestion des données. Les étudiants apprendront également à importer et exporter des données dans Dynamics 365 for Finance and Operations à l’aide de l’espace de travail de la gestion des données.
+
+  Finalement, ils apprendront à utiliser les fonctionnalités d’intégration récurrentes asynchrones de la plateforme de gestion des données. Le cadre de gestion des données peut être utilisé pour gérer les entités de données et les progiciels d’entités de données dans Finance and Operations.
+  #### Leçons
+  - Introduction
+  - Comprendre la gestion et l’intégration des données
+  - Espace de travail de la gestion des données
+  - Modèles de gestion des données
+  - Importer, exporter et copier des données dans une entité légale
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - Identifier le modèle correct pour un scénario donné pour utiliser la plateforme de gestion de données pour l’intégration à l’aide des entités de données
+  - Travailler avec l’espace de travail de la gestion des données
+  - Exporter des données à partir d’une entité légale
+  - Importer des données dans une entité légale
+  - Travailler avec des fonctions d'importation et d'exportation de données
+  - Nettoyer les tableaux à étapes
+
+
+  ### Module 3&#58; Effectuer les tests d'acceptation de l’utilisateur
+  Pour tester et évaluer la solution client avant la mise en ligne, il faut avoir un environnement Dynamics 365 for Finance and Operations qui ait toutes les configurations et personnalisations possibles par le biais d’extensions.
+
+  Il est toujours bénéfique d'avoir une méthodologie pour s'assurer que la création et les tests soient correctement organisés et planifiés afin d'avoir des scénarios de tests courts et efficaces axés sur le rôle.
+  #### Leçons
+  - Introduction
+  - Créer et effectuer des cas de test pour l’acceptation de l’utilisateur
+  - Laboratoire pratique
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont découvert&#58;
+  - comment comprendre la corrélation entre les cas tests et les exigences de l’entreprise
+  - les meilleures pratiques d’enregistrement des cas tests
+  - l’enregistreur de tâches
+  - comment synchroniser une bibliothèque de scénarios de tests d'acceptation BPM
+  - comment synchroniser et configurer votre plan de test dans Azure DevOps
+  - comment exécuter des tests
+
+
+  ### Module 4&#58; Se préparer à aller en ligne
+  Tout le travail difficile devient un succès en déplaçant la solution mise en œuvre dans Dynamics 365 for Finance and Operations vers l’environnement de production. C’est une étape cruciale et finale de cette expérience excitante de réalisation de la mise en œuvre.
+
+  Le but est d'avoir un client satisfait, une solution de qualité et la tranquillité d’esprit durant cette phase importante, qui est la mise en ligne. Il n’est pas possible de garantir le succès sans savoir comment se préparer à la mise en ligne de la finance et des opérations et l’étape finale de la mise en œuvre.
+
+  #### Leçons
+  - Introduction
+  - Se préparer à aller en ligne
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants auront appris à&#58;
+  - Se préparer à aller en ligne
+  - Compléter la méthodologie des services du cycle de vie
+  - Effectuer les tests d'acceptation de l’utilisateur (UAT) pour votre solution
+  - Comprendre l’évaluation FastTrack de la mise en ligne
+  - Demander l’environnement de production
+
+
+  ### Module 5&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+  
+
+  Les étudiants auront terminé la formation.

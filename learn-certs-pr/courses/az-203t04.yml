@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Mettre en œuvre la sécurité Azure
+metadata:
+  title: 'Formation AZ-203T04-A: Mise en oeuvre de la sécurité Azure'
+  description: 'Formation AZ-203T04-A: Mise en oeuvre de la sécurité Azure'
+uid: course.az-203t04
+courseNumber: 'AZ-203T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Au cours de cette formation, les étudiants gagneront les connaissances et les compétences nécessaires pour inclure les services d'authentification et d'autorisation de Azure dans leurs solutions de mise au point. Les étudiants apprendront comment l’identité est gérée et utilisée dans les solutions Azure en utilisant la plateforme d'identité de Microsoft. Les étudiants découvriront également le contrôle de l’accès (autorisation basée sur les plaintes et contrôle de l’accès basé sur le rôle) et la façon de mettre en œuvre des solutions de données sécurisées. Pendant la formation, les étudiants apprendront à créer et à intégrer ces ressources en utilisant Azure CLI, REST et le code d'application.
+
+  #### Profil de l’audience
+  - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
+outlineSection: |-
+  ### Module 1&#58; Implémenter l'authentification
+  La plateforme d'identité de Microsoft est une évolution de la plateforme du service d’identité et de développeurs de Azure Active Directory (Azure AD) Elle permet aux développeurs de construire une application qui enregistre toutes les identités de Microsoft, obtiennent des jetons pour appeler Microsoft Graph, d'autres API de Microsoft ou des API que les développeurs ont construit.
+  #### Leçons
+  - Plateforme d’identité Microsoft
+  - Mise en œuvre de l’authentification OAuth2
+  - Mise en œuvre des identités gérées pour les ressources Azure
+  - Mise en œuvre de l’authentification en utilisant des certificats, l’authentification basée sur les formes ou des jetons
+  - Mise en œuvre de l’authentification à plusieurs facteurs
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre l’architecture de la plateforme d’identité de Microsoft
+  - de mettre en œuvre une authentification OAuth2 dans leurs solutions
+  - d'utiliser Azure Key Vault pour stocker et récupérer les informations d'authentification
+
+
+  ### Module 2&#58; Mise en œuvre du contrôle d'accès
+  Ce module couvre le contrôle d’accès basé sur les plaintes et sur les rôles.
+  #### Leçons
+  - Autorisation basée sur les plaintes
+  - Autorisation du contrôle d'accès basé sur les rôles (RBAC)
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'utiliser l’autorisation basée sur les plaintes dans leurs solutions de mise au point
+  - de gérer l’accès aux ressources en utilisant RBAC par le biais de REST API
+
+
+  ### Module 3&#58; Mise en œuvre de solutions de données sécurisées
+  Ce module couvre la sécurisation des données au repos et pendant la transmission.
+  #### Leçons
+  - Options cryptées
+  - Cryptage de bout en bout
+  - Mise en œuvre du calcul confidentiel Azure
+  - Gestion des clés cryptographiques dans Azure Key Vault
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre des options de cryptage
+  - de crypter les données avec un cryptage de données transparent
+  - de gérer et utiliser des clés de cryptage en utilisant Azure Key Vault

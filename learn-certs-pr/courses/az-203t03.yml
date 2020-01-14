@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Mettre au point pour le stockage Azure
+metadata:
+  title: 'Formation AZ-203T03-A: Mise au point pour le stockage Azure'
+  description: 'Formation AZ-203T03-A: Mise au point pour le stockage Azure'
+uid: course.az-203t03
+courseNumber: 'AZ-203T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Au cours de cette formation, les étudiants gagneront les connaissances et les compétences nécessaires pour tirer parti des services et fonctionnalités de stockage Azure dans leurs solutions de mise au point. Elle couvre le stockage de tableaux Azure, Azure Cosmos DB, Azure Blob et la mise au point par rapport aux bases de données relationnelles dans Azure.
+
+  #### Profil de l’audience
+  - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
+outlineSection: |-
+  ### Module 1&#58; Développer des solutions qui utilisent le stockage Azure Table
+  Le stockage de tableaux Azure est un service qui stocke des données NoSQL structurées dans le cloud, fournissant un stockage clé/d'attribut avec une conception sans schéma. Étant donné que le stockage de tableaux est sans schéma, il est aisé d'adapter vos données au fur et à mesure de l’évolution des besoins de votre application.
+  #### Leçons
+  - Aperçu du stockage de tableaux Azure
+  - Autorisation du stockage de tableaux
+  - Service de tableaux REST API
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les fonctionnalités et les utilisations de stockage de tableaux Azure
+  - de savoir utiliser l’autorisation Shared Key
+  - de savoir utiliser le service REST de stockage de tableaux Azure pour gérer les données
+
+
+  ### Module 2&#58; Mise au point de solutions qui utilisent le stockage Azure Cosmos DB
+  Ce module couvre le stockage Azure Cosmos DB. Elle explique aux étudiants comment il fonctionne, comment gérer les conteneurs et les éléments et créent et mettent à jour des documents en utilisant le code.
+  #### Leçons
+  - Introduction à Azure Cosmos DB
+  - Gestion des conteneurs et des éléments
+  - Création et mise à jour de documents grâce à l’utilisation du code
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les paramètres et les fonctionnalités de base de Azure Cosmos DB
+  - de gérer les conteneurs et les éléments
+  - de créer et mettre à jour des documents
+
+
+  ### Module 3&#58; Mise au point de solutions qui utilisent une base de données relationnelle
+  La base de données SQL est un service géré par une base de données relationnelle au but général dans Microsoft Azure qui prend en charge des structures telles que des données relationnelles, JSON, spatial et XML.
+  #### Leçons
+  - Introduction à SQL Azure
+  - Création, lecture, mise à jour et suppression de tableaux de base de données en utilisant le code
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de savoir comment le service de base de données SQL Azure fonctionne
+  - d’effectuer des opérations de base de données en utilisant le code
+
+
+  ### Module 4&#58; Mise au point de solutions qui utilisent le stockage Azure Blob
+  Le stockage Azure Blob est la solution de stockage d'objets de Microsoft pour le cloud. Le stockage Blob est optimiser pour le stockage de quantités massives de données non structurées. Des données non structurées sont des données qui ne répondent pas à un modèle ou une définition de données particulières, tels que du texte ou des données binaires.
+  #### Leçons
+  - Introduction au stockage Azure Blob
+  - Travail avec le stockage Azure Blob
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre quand et comment utiliser le stockage Azure Blob
+  - de définir et récupérer les propriétés et les métadonnées du stockage Blob
+  - de dupliquer et copier des blobs

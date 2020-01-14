@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'Microsoft PowerApps + Dynamics 365 Developer'
+metadata:
+  title: 'Formation MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
+  description: 'Formation MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
+uid: course.mb-400t00
+courseNumber: 'MB-400T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Créer et documenter un modèle de données
+- skill: Mettre en œuvre des entités et des champs
+- skill: Créer et gérer des solutions
+- skill: Automatiser les processus métier
+- skill: Étendre l’expérience utilisateur
+- skill: Mettre au point des intégrations
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-400
+summary: |-
+  Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques professionnelles des entreprises. Un développeur PowerApps est un développeur professionnel de logiciels qui étend la Power Platform pour résoudre des problèmes professionnels complexes. Dans cette formation, les développeurs PowerApps mettront au point sur la base de leurs connaissance de Power Platform, Microsoft stack et des outils et pratiques de mise au point standard. Les développeurs PowerApps apprendront à estimer les efforts et la portée, à valider les exigences et l’architecture de conception technique, à créer des modèles de données, à déterminer les outils de mise en œuvre et à documenter leur conception technique. Les grands thèmes incluront la mise en œuvre de la sécurité et de l’accessibilité de l’utilisateur, la gestion des environnements, l’extension du service des données communes, la création et l’utilisation des ressources Web et le travail avec les plug-ins.
+
+  #### Profil de l’audience
+  
+  Un développeur PowerApps est responsable de la conception, du développement, de la sécurisation, de l’extension et de l’intégration d’une mise en œuvre de plateforme. Le développeur met en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.   
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  
+  - une compréhension de base de Power Platform.
+  - de l’expérience dans la mise au point de logiciels par rapport à Microsoft stack et Visual Studio.
+  - de l’expérience dans l’administration de solutions dans Azure (de préférence).
+outlineSection: |-
+  ### Module 1&#58; Introduction au développement avec Power Platform
+  
+  Dans ce module, les étudiants découvriront les ressources des développeurs et comment en tirer parti pour étendre Power Platform.
+
+  #### Leçons
+  - Introduction aux ressources du développeur de Power Platform
+  - Utiliser les outils du développeur pour étendre Power Platform
+  - Introduction à l’extension de Power Platform
+  
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  
+  - d'identifier la fonctionnalité des outils du développeur,
+  - d'utiliser les outils du développeur.
+
+  ### Module 2&#58; Étendre le service de données communes de Power Platform
+  
+  Dans ce module, les étudiants apprendront comment et quand utiliser les plug-ins ou d'autres outils pour étendre le service de données communes.
+  
+  #### Leçons
+  - Introduction du service de données communes pour les développeurs
+  - Extension des plug-ins
+  
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  
+  - Écrire des plug-ins
+  - Utiliser un plug-in pour étendre le service de données communes
+
+  ### Module 3&#58; Étendre l’expérience utilisateur de Power Platform
+  
+  Dans ce module, les étudiants apprendront à profiter des ressources web et du script client pour étendre l’expérience utilisateur de Power Platform.
+  
+  #### Leçons
+  - Introduction aux ressources web
+  - Effectuer des actions communes avec le script client
+  - Automatiser les processus métier avec le script client
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+
+  - d'utiliser les ressources web
+  - d'écrire le script client
+  - d'étendre les flux de processus métier

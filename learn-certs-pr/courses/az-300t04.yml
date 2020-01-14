@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Créer et déployer des applications
+metadata:
+  title: "Formation AZ-300T04-A: Création et déploiement d'applications"
+  description: "Formation AZ-300T04-A: Création et déploiement d'applications"
+uid: course.az-300t04
+courseNumber: 'AZ-300T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utiliser les commandes de boîtier afin de créer une application web de services d'applications
+- skill: Création de tâches d'arrière-plan
+- skill: Utilisation de Swagger pour enregistrer un API
+- skill: Création d'un service fiable
+- skill: Création d'une application d'acteurs fiable
+- skill: Pratique avec des collectes fiables
+- skill: Compréhension du registre de conteneurs Azure
+- skill: Utilisation des instances de conteneurs Azure
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Cette formation enseigne aux professionnels de l'informatique comment construire des solutions d'applications logiques qui intègrent des applications, des données, des systèmes et des services dans les entreprises ou les organisations en automatisant les tâches et les processus professionnels sous forme de flux de travail. Les applications logiques sont le service de cloud dans Azure qui simplifie la façon de concevoir et de créer des solutions évolutives pour l'intégration d'applications, l'intégration de données, l'intégration de systèmes, l’intégration d'applications d’entreprise (EAI) et la communication professionnelle (B2B), que ce soit dans le cloud, sur site ou les deux.
+
+  Les étudiants découvriront également comment Azure Service Fabric est une plateforme de systèmes distribués qui facilite le conditionnement, le déploiement et la gestion des microservices et des conteneurs évolutifs et fiables. Service Fabric traitement également les défis importants de la mise au point et de la gestion des applications natives du cloud. Les développeurs et les administrateurs peuvent éviter des problèmes d'infrastructure complexes et se concentrer sur la mise en œuvre de charges de travail exigeantes et essentielles à la mission qui sont évolutives, fiables et gérables. Service Fabric représente la plateforme de nouvelle génération pour la construction et la gestion de ces applications d’entreprise, évolutives du cloud de tier-1 qui sont exécutées dans des conteneurs.
+
+  Enfin, vous verrez comment les services Kubernetes d’Azure (AKS) simplifient le déploiement d'un cluster Kubernetes géré dans Azure. AKS réduit la complexité et la charge opérationnelle de la gestion de Kubernetes en déchargeant une importante partie de cette responsabilité à Azure. En tant que service Kubernetes hébergé, Azure gère les tâches critiques telles que la surveillance de la santé et la maintenance pour vous.
+
+  #### Profil de l’audience
+  Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
+outlineSection: |-
+  ### Module 1&#58; Création d'applications web à l’aide de PaaS
+  Ce module donne un aperçu des applications web de service d'applications Azure pour l’hébergement d'applications web, les API REST et un arrière-plan mobile. Les sujets incluent les éléments suivants&#58; l’utilisation des commandes de boîtier pour créer une application web de services d'applications, création de tâches en arrière-plan, utilisation de Swagger pour enregistrer un API ainsi qu'une explication de la façon dont les applications logiques aident à construire des solutions qui intègrent des applications, des données, des systèmes et des services dans des entreprises ou des organisations en automatisant des tâches et des procédures d'affaires en tant que flux de travail.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'utiliser des commandes de boîtier pour créer une application web de services d'applications
+  - de créer des tâches d’arrière-plan
+  - d'utiliser Swagger pour enregistrer un API
+
+
+  ### Module 2&#58; Création d'applications et de services qui exécutent Service Fabric
+  Ce module donne un aperçu de Azure Service Fabrique en tant que plateforme de systèmes distribués qui facilite le conditionnement, le déploiement et la gestion de microservices et de conteneurs évolutifs et fiables. Ce module fait également face aux défis dans la mise au point et la gestion des applications natives du cloud.
+  Des sujets supplémentaires incluent la création d'un service fiable, la création d'une application d'acteurs fiables et le travail avec des collections fiables.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer un service fiable
+  - de créer une application d’acteurs fiables
+  - de travailler de façon pratique avec des collections fiables
+
+
+  ### Module 3&#58; Utilisation des services Kubernetes d’Azure Ce module se concentre sur les
+  Services Kubernetes d’Azure (AKS) pour le déploiement et la gestion d'un groupement Kubernetes dans Azure. Les sujets incluent la réduction de la charge opérationnelle de la gestion de Kubernetes en déchargeant une bonne partie de la responsabilité à Azure, comme la surveillance de la santé et la maintenance.
+  Des sujets supplémentaires incluent le registre de conteneurs Azure et des instances de conteneurs Azure.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre le registre de conteneurs Azure
+  - d’utiliser des instances de conteneurs Azure

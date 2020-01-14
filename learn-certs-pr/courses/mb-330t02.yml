@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Utiliser la gestion de la qualité, les opérations intersociétés et la planification principale dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-330T02-A: Utiliser la gestion de la qualité, les opérations intersociétés et la planification principale dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-330T02-A: Utiliser la gestion de la qualité, les opérations intersociétés et la planification principale dans Dynamics 365 for Finance and Operations'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour automatiser et rationaliser leur chaîne logistique en modernisant la logistique d’entreprise, en délivrant des réponses rapides au client, en anticipant avec des indications prédictives, en rationalisant l’approvisionnement et en unifiant les processus des ventes à l'accomplissement. Cette formation discute de la manière d’utiliser la gestion de la qualité, les opérations intersociétés et la planification principale dans Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Configurer et utiliser des processus de contrôle et de gestion de la qualité
+  Nous décrivons dans ce module la manière de configurer et d’utiliser le contrôle de la qualité dans Finance and Operations, la manière d'utiliser la fonctionnalité de contrôle de la qualité, la manière de définir et de maintenir le manque de conformité et la manière de gérer les corrections. Mais familiarisons-nous d'abord avec les processus généraux de gestion de la qualité.
+  #### Leçons
+  - Introduction
+  - Effectuer les processus de contrôle et de gestion de la qualité
+  - Appliquer le blocage d'inventaire
+  - Effectuer la gestion de la quarantaine
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - effectuer les processus de contrôle et de gestion de la qualité
+  - Appliquer le blocage d'inventaire
+  - Effectuer la gestion de la quarantaine
+
+
+  ### Module 2&#58; Configurer et utiliser les relations commerciales intersociétés
+  La fonctionnalité intersociété dans Dynamics 365 for Finance and Operations fournit un mécanisme pour la consolidation des données statiques et dynamiques de plusieurs entreprises en tant qu’entités légales séparées dans une seule base de données. Le commerce intersociété permet de fournir des sites de fabrication, des centres de distribution et des filiales de vente dispersés dans le monde pour agir en qualité d’organisation unifiée. Ce sujet explique comment configurer et utiliser les relations commerciales intersociétés et les commandes de processus intersociétés dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Comprendre le commerce intersociété
+  - Établir des relations commerciales intersociétés
+  - Traiter des ordres en chaîne intersociétés
+  - Établir des accords et des livraisons directes intersociétés
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - configurer des produits pour les relations commerciales intersociétés
+  - configurer des relations commerciales intersociétés
+  - configurer des accords intersociétés
+  - traiter des ordres intersociétés
+  - traiter des livraisons directes intersociétés
+  - traiter des frais intersociétés
+  - comprendre la chaîne de retours d'ordres intersociétés
+
+
+  ### Module 3&#58; Configurer et utiliser la planification principale
+  Ce sujet explique comment configurer et utiliser la planification principale dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Considérations et mise en place de la planification principale
+  - Créer des plans maîtres
+  - Découvrir les prévisions de la demande et de l’approvisionnement
+  - Configurer la couverture d'un article
+  - Brève introduction à la planification intersociété
+  - Exécuter des plans et des ordres planifiés fermes
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - définir les politiques de planification principale
+  - Découvrir les prévisions de la demande et de l’approvisionnement
+  - configurer les délais calculés
+  - Configurer la couverture d'un article
+  - comprendre la brève introduction à la planification intersociété principale
+  - Exécuter des plans et des ordres planifiés fermes
+
+
+  ### Module 4&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+
+  Les étudiants auront terminé la formation.

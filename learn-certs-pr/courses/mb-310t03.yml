@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Configurer et utiliser la budgétisation, les actifs immobilisés et les fonctionnalités supplémentaires dans Finance and Operations
+metadata:
+  title: 'Formation MB-310T03-A: Configurer et utiliser la budgétisation, les actifs immobilisés et les fonctionnalités supplémentaires dans Finance and Operations'
+  description: 'Formation MB-310T03-A: Configurer et utiliser la budgétisation, les actifs immobilisés et les fonctionnalités supplémentaires dans Finance and Operations'
+uid: course.mb-310t03
+courseNumber: 'MB-310T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour rehausser leur performance financière en accroissant leur rentabilité, en optimisant la productivité de la main d’œuvre, en réduisant les dépenses opérationnelles, en s'adaptant rapidement aux changements des exigences et en rationalisant la gestion des actifs. Cette formation discute de la manière de configurer et d'utiliser la budgétisation, les actifs immobilisés et les fonctionnalités supplémentaires dans Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Configurer les chèques postdatés
+  Les chèques postdatés sont des chèques qui sont émis pour effectuer ou recevoir des paiements à des dates futures. Ainsi, le chèque ne peut être encaissé jusqu’à la date indiquée. Microsoft Dynamics 365 for Finance and Operations prend en charge le cycle de gestion complet des chèques postdatés dans les comptes débiteurs et créditeurs. Ce sujet explique comment définir et traiter les chèques postdatés.
+
+  #### Leçons
+  - Introduction
+  - Gérer les chèques postdatés
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - traiter les chèques postdatés
+  - définir les chèques postdatés
+  - enregistrer et comptabiliser un chèque postdaté pour un client
+  - régler un chèque postdaté de la part d’un client
+  - enregistrer et comptabiliser un chèque postdaté pour un fournisseur
+  - régler un chèque postdaté à un fournisseur
+
+
+  ### Module 2&#58; Configurer et utiliser la budgétisation de base et le contrôle budgétaire
+  Chaque organisation, qu’elle soit privée ou publique, fixe des objectifs financiers et opérationnels en créant des budgets. Lorsque le budget est défini, la direction surveille les activités dans le cadre du budget. Ce module fournit des informations sur la manière de configurer et d'utiliser la budgétisation de base et le contrôle budgétaire.
+  #### Leçons
+  - Introduction
+  - Configurer les composants de base de la budgétisation
+  - Configurer les composants de contrôle budgétaire
+  - Créer et tester les entrées de registre budgétaire
+  - Utiliser les demandes et les rapports
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - Configurer les composants de base de la budgétisation
+  - Configurer les composants de contrôle budgétaire
+  - utiliser les demandes et les rapports
+  - créer et utiliser les entrées de registre budgétaire
+
+
+  ### Module 3&#58; Configurer et utiliser les processus de planification budgétaire
+  Avec la fonctionnalité de la planification budgétaire, il est possible de consolider plusieurs plans budgétaires d’un niveau inférieur en un plan budgétaire parent unique à un niveau supérieur de l’organisation. On appelle cela l’approche ascendante de planification budgétaire qui permet à un planificateur de budget d'agréger d'autres plans dans un niveau supérieur ou dans un plan d’entreprise pour la budgétisation. Il est également aussi possible d'adopter l’approche descendante qui nécessite le développement d’un plan budgétaire unique à un niveau supérieur de l’organisation et l’allocation du budget à des niveaux inférieurs de l’organisation. Utiliser cette méthode lorsqu’on se fonde sur les transactions financières historiques de l’entreprise et créer un plan centralisé qui peut être attribué à plusieurs unités opérationnelles définies par une hiérarchie organisationnelle avec un objectif de planification budgétaire. Le planificateur de budget génère une entrée de registre budgétaire basée sur le plan budgétaire, comme étape finale de la planification budgétaire. Une organisation peut configurer une planification budgétaire et ensuite définir des processus collaboratifs de planification budgétaire pour répondre à ses politiques, procédures et exigences pour la préparation du budget. Ce module explique comment configurer et tester les processus de planification budgétaire.
+
+  #### Leçons
+  - Introduction
+  - Configurer les composants de planification budgétaire
+  - Laboratoire pratique
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - Configurer les composants de planification budgétaire
+  - créer un modèle du plan budgétaire
+  - configurer les processus de budgétisation
+  - créer un plan budgétaire à l’aide de l’assistant du plan budgétaire
+
+
+  ### Module 4&#58; Configurer la gestion des actifs immobilisés
+  Ce module débute par l’explication des concepts des actifs immobilisés et montre ensuite aux étudiants comment configurer et utiliser le module des actifs immobilisés dans Dynamics 365 for Finance and Operations.
+
+  #### Leçons
+  - Introduction
+  - Configurer des composants d’actifs immobilisés
+  - Permettre une intégration des actifs immobilisés
+  - Créer des actifs immobilisés
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - configurer des composants d’actifs immobilisés
+  - configurer des paramètres d’actifs immobilisés
+  - permettre une intégration des actifs immobilisés avec les achats
+  - Créer des actifs immobilisés
+
+
+  ### Module 5&#58; Gérer les actifs immobilisés
+  Pour enregistrer les transactions d'actifs immobilisés en utilisant des journaux, il faut créer au moins un nom de journal en utilisant le type de journal « comptabilisation des actifs immobilisés » dans la définition du module du grand livre. Si des budgets d’actifs immobilisés sont exigés, il faut également créer un nom de journal qui utilise le type de journal « budget d'actifs immobilisés ». Ce module explique comment traiter et gérer les actifs immobilisés.
+
+  #### Leçons
+  - Introduction
+  - Effectuer des tâches liées aux actifs immobilisés
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - effectuer une acquisition liée aux actifs immobilisés
+  - effectuer une dépréciation liée aux actifs immobilisés
+  - effectuer une cession liée aux actifs immobilisés
+
+
+  ### Module 6&#58; Configurer et utiliser la comptabilité des coûts
+  La comptabilité des coûts vous permet de recueillir des données de sources variées, telles que le grand livre, les grands livres auxiliaires, les budgets et les informations statistiques. Il est alors possible d'analyser, de résumer et d’évaluer les données des coûts, afin que la direction puisse prendre les meilleures décisions possibles pour les mises à jour des prix, les budgets, le contrôle de coûts et ainsi de suite. La donnée source utilisée pour l’analyse des coûts est traitée indépendamment dans la comptabilité des coûts. Par conséquent, les mises à jour de la comptabilité des coûts n’affectent pas la donnée source.
+
+  #### Leçons
+  - Introduction
+  - Espace de travail du contrôle des coûts
+  - Laboratoire pratique
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont découvert&#58;
+  - Espace de travail du contrôle des coûts
+  - comment créer un rapport comptable des coûts à l’aide de l’assistant de début des services de comptabilité des coûts
+
+
+  ### Module 7&#58; Configurer et utiliser les processus périodiques
+  Dans le grand livre, les procédures de clôture peuvent être complétées au cours d’une période ou d'une année. Les processus de clôture préparent le système pour une nouvelle période. Il y a de nombreuses tâches telles que la préparation des déclarations, la clôture de l’inventaire, la consolidation et de nombreux autres besoins doivent être complétés avant. Pour préparer le système pour une nouvelle année, le processus de clôture de fin d'année doit être exécuté. Chaque organisation possède des processus différents et des étapes qu’elle effectue à la fin d’une période.
+  #### Leçons
+  - Introduction
+  - Réconciliations bancaires
+  - Configurer la clôture d’une période financière
+  - Préparer des déclarations périodiques
+  - Exécuter des processus de réévaluation des devises étrangères
+  - Effectuer des consolidations financières
+  - Procéder à la clôture de fin d'année
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - Configurer la clôture d’une période financière
+  - réconcilier les banques
+  - effectuer la clôture périodique et les processus de clôture de fin d'année
+  - Préparer des déclarations périodiques
+  configurer et tester le processus 1099 du fournisseur
+  - Exécuter des processus de réévaluation des devises étrangères
+  - effectuer la consolidation financière et les processus d’élimination
+  - utiliser des rapports financiers pour créer des relevés financiers
+  - procéder au rapport de taxe de fin d'année
+
+
+  ### Module 8&#58; Configurer le cadre de notification électronique
+  La notification électronique générique (GER) ou simplement la notification électronique (ER) est un outil configurable pour la notification réglementaire, les paiements et la facturation électronique. L’engin de notification électronique cible les utilisateurs professionnels plutôt que les développeurs. Comme les formats sont configurés à la place du code, les processus de création et d’ajustement des formats pour les documents électroniques sont plus rapides et plus faciles. La notification électronique prend en charge les formats TEXT, XML, PDF, document Microsoft Word et les feuilles de calcul OPENXML. Toutefois, une extension d'interface fournit une prise en charge pour des formats supplémentaires.
+
+  #### Leçons
+  - Introduction
+  - Configurer la notification électronique
+  - Le concepteur de formules dans la notification électronique
+  - Laboratoire pratique
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - configurer la notification électronique
+  - créer des configurations de notification électronique
+  - effectuer la clôture périodique et les processus de clôture de fin d'année
+  - concepteur de formules dans la notification électronique
+
+
+  ### Module 9&#58; Configurer les fonctionnalités localisées
+  Dynamics 365 for Finance and Operations comprend des fonctionnalités pour les pays et les régions, documentées dans la localisation du produit et le guide de disponibilité de la traduction. Ce module explique comment configurer certains exemples de fonctionnalités régionales dans Finance and Operations Veuillez lire les informations sur la page des fonctionnalités de localisation et de réglementation pour rester à jour avec la fonctionnalité régionale Finance and Operations pour tous les pays et toutes les régions.
+  #### Leçons
+  - Introduction
+  - Fonctionnalités de localisation et de réglementation
+  - Classification des fonctionnalités de localisation mexicaines
+  - Comprendre l’engin de taxe globale
+  - Comprendre les fonctionnalités des établissements fiscaux et des documents pour la localisation pour le Brésil
+  - Lettre de change
+  - Factures électroniques
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont découvert&#58;
+  - Fonctionnalités de localisation et de réglementation
+  - la classification des fonctionnalités de localisation
+  - comment appliquer le contexte du pays et de la région
+  - comment configurer et démontrer les fonctionnalités des établissements fiscaux et des documents fiscaux pour une localisation pour le Brésil
+  - comment tester le processus de la lettre de change
+  - comment configurer et utiliser les billets à ordre
+  - comment configurer et tester les factures électroniques pour une localisation pour le Mexique
+
+
+  ### Module 10&#58; Configurer la gestion financière pour le secteur public
+  Le secteur public, également désigné par l’état ou le secteur local, est essentiellement un secteur de services qui gère le bien-être des citoyens. Le secteur local comprend des organisations dans les domaines des municipalités, de l'éducation, des soins de santé, de la sécurité publique, des travaux publics et des infrastructures, de la défense nationale, de la taxationet de divers programmes sociaux.
+  #### Leçons
+  - Introduction
+  - Établir des fonds pour le secteur public
+  - Configurer des hiérarchies financières dérivées
+  - Configurer les codes de facturations pour les factures à texte libre
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants ont appris ce qui suit&#58;
+  - Établir des fonds pour le secteur public
+  - Comprendre les méthodes de réconciliation bancaire
+  - Définir des dimensions dérivées
+  - Configurer des hiérarchies financières dérivées pour le secteur public
+  - Fonctionnalité avancée des entrées du grand livre pour le secteur public
+  - Configurer les codes de facturations pour les factures à texte libre
+
+
+  ### Module 11&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+  
+
+  Les étudiants auront terminé la formation.

@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Configurer et utiliser la fabrication allégée dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-320T02-A: Configurer et utiliser la fabrication allégée dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-320T02-A: Configurer et utiliser la fabrication allégée dans Dynamics 365 for Finance and Operations'
+uid: course.mb-320t02
+courseNumber: 'MB-320T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour gérer les opérations liées de manière plus intelligente en sélectionnant les processus de fabrication les plus adaptés, en améliorant les procédures opérationnelles, en simplifiant la gestion de ressources, en accélérant la livraison du produit et en rehaussant la qualité et la satisfaction du client. 
+
+  Cette formation discute de la manière de configurer et d'utiliser la fabrication allégée dans Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Débuter avec la fabrication allégée
+  Ce sujet explique comment débuter avec la fabrication allégée dans Finance and Operations
+
+  #### Leçons
+  - Introduction
+  - Concepts et terminologie
+  - Résumé du module
+
+
+  Dans cette leçon, les étudiants ont appris à&#58;
+  - comprendre la fabrication allégée
+  - comprendre les concepts et la terminologie allégés
+
+
+  ### Module 2&#58; Configurer la fabrication allégée
+  Ce sujet explique comment configurer la fabrication allégée dans Finance and Operations Un scénario de fabrication allégée est généralement plus qu'une accumulation de règles de kanban indépendantes ou de politiques d’approvisionnement en matériaux. Le flux de matériaux et de produits dans les cellules de travail et les emplacements d’une production spécifique ou d’un scénario d’approvisionnement peut être décrit comme une séquence ou un petit réseau de processus ou d'activités de transfert, appelés flux de production. Les flux de production axés sur l’activité sont introduits dans Finance and Operations pour établir un contexte de production et de coûts pour divers scénarios de kanban. Toutes les règles de kanban sont directement connectées à cette structure prédéfinie. Le modèle axé sur l’activité permet aux utilisateurs de définir un éventail plus large de scénarios que celui qui était pris en charge par les versions précédentes de la fabrication allégée pour Finance and Operations, sans ajouter de complexité pour les travailleurs de l’atelier de fabrication, car tous les scénarios utilisent la même interface utilisateur axée sur les activités.
+  #### Leçons
+  - Introduction
+  - Configurer des paramètres
+  - Créer des modèles de chaînes de valeur et de flux de production
+  - Créer des flux de production
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - Configurer des paramètres
+  - configurer des chaînes de valeur
+  - Créer des flux de production
+  - configurer les cellules de travail de la fabrication allégée
+
+
+  ### Module 3&#58; Créer et traiter les règles fixes du kanban
+  Dans Dynamics 365 for Finance and Operations, un kanban est mis en œuvre comme un cadre de travail pour planifier, suivre et traiter sur la base de signaux « tirés ». Un kanban est une partie essentielle d’un système d'approvisionnement par traction, qui représente un élément critique de la production/de l’approvisionnement allégé. Lorsqu’un kanban est consommé, il doit être passé (déclenché) à la source d'approvisionnement pour le réapprovisionner. Cette source d'approvisionnement est définie par les activités du flux de production auxquelles le kanban est lié. Les règles de kanban dans Finance and Operations sont liées aux flux de production, car c’est la base qui définit les activités d’un kanban. Les règles de kanban peuvent être établies pour prendre en charge différents scénarios de fabrication pour le stock ou de fabrication sur commande.
+  #### Leçons
+  - Introduction
+  - Les tableaux de kanban
+  - Configurer une règle de kanban fixe
+  - Traiter des kanbans fixes
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Les étudiants ont découvert un aperçu des kanbans et des types de kanban et ont appris à configurer et à traiter les règles de kanban fixes.
+
+
+  Les étudiants ont appris à configurer et à travailler avec&#58;
+  - les règles du kanban
+  - les kanban de fabrication
+  - les kanban d’annulation
+  - les kanban de quantités fixes
+
+
+  ### Module 4&#58; Créer et traiter les règles d’événement de kanban
+  Dans ce module, nous discuterons des kanbans d'événement et des différentes manières de les déclencher.
+  #### Leçons
+  - Introduction
+  - Configurer des règles de kanbans d'événement
+  - Configurer des événements de ventes, des kanbans, le réapprovisionnement des stocks et des lignes de nomenclature
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Les étudiants ont appris à configurer et traiter les règles de kanbans d'événements.
+
+
+  Les étudiants ont appris à configurer et à travailler avec&#58;
+  - les règles du kanban
+  - les kanban de fabrication
+  - les kanban d’annulation
+  - la création et la gestion de kanbans d'événements de ligne de vente
+  - la créatin et la gestion de kanbans d'événements de ligne de nomenclature
+  - Les étudiants ont également compris les scénarios types des processus des kanbans d'événements et des différents types de kanbans d'événements.
+
+
+  ### Module 5&#58; Créer et traiter les règles kanban programmées
+  Les commandes programmées de type kanban sont créées sur la base de la règle des kanbans et appliquent la logique et les horizons de planification avancée standard. Les paramètres de couverture des articles de planification avancée déterminent comment les commandes programmées sont créées et si elles sont appliquées automatiquement ou manuellement. Nous discuterons dans ce module des kanbans programmés dans Dynamics 365 for Finance and Operations.
+  #### Leçons
+  - Introduction
+  - Configurer des règles de kanbans programmées
+  - Comprendre les calculs de quantité de kanbans et les kanbans de circulation
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Les étudiants ont appris à configurer et à travailler avec&#58;
+  - les règles du kanban
+  - les kanban de fabrication
+  - les kanban d’annulation
+  - la création et la gestion de kanbans programmés
+  - le programme d’approvisionnement
+  - les calculs de quantité de kanbans
+
+
+  ### Module 6&#58; Configurer la sous-traitance basée sur l’activité et les coûts des flux de production
+  Le principe de base d'un flux de production ne change pas lorsque les activités sont sous-traitées en utilisant Finance and Operations. Les matériaux se déplacent encore entre les emplacements, les activités du processus convertissent les matériaux en produits et les activités de transfert déplacent les matériaux ou les produits d’un emplacement à un autre. Dynamics 365 for Finance and Operations comprend deux approches en matière de sous-traitance&#58; les ordres de production et la fabrication allégée. La première approche présente le travail de sous-traitance comme un service lié à une activité d'un flux de production. Un type de groupe de coûts, la sous-traitance directe, doit être configuré afin que les services de sous-traitance ne fassent pas partie de la nomenclature. La comptabilisation des coûts des travaux de sous-traitance est complètement intégrée dans les nouveaux coûts de fabrication dans Microsoft Dynamics 365 for Finance and Operations.
+  #### Leçons
+  - Introduction
+  - Configurer une sous-traitance basée sur l’activité
+  - Comprendre les coûts du flux de production
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans cette leçon, les étudiants ont appris à&#58;
+  - Configurer une sous-traitance basée sur l’activité
+  - configurer une programmation et une sous-traitance de la production
+  - désigner des fournisseurs comme des sous-traitants
+  - configurer les coûts du flux de production
+
+
+  ### Module 7&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+
+  Les étudiants auront terminé la formation.

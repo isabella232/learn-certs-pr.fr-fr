@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: "Mise en œuvre d'une intégration continue"
+metadata:
+  title: "Formation AZ-400T02-A: Mise en œuvre d'une intégration continue"
+  description: "Formation AZ-400T02-A: Mise en œuvre d'une intégration continue"
+uid: course.az-400t02
+courseNumber: 'AZ-400T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explication de l'importance de l'intégration continue
+- skill: Mise en œuvre de l’intégration continue à l’aide d’Azure DevOps
+- skill: Configuration des constructions et des options disponibles
+- skill: Création d'un flux de travail de construction automatisé
+- skill: Intégration d'autres outils de construction avec Azure DevOps
+- skill: Création de processus de construction hybrides
+- skill: Description de ce que la qualité du code signifie et de sa mesure
+- skill: Détection des odeurs des codes
+- skill: Intégration des tests automatisés pour la qualité des codes
+- skill: Rapport sur la couverture du code pendant le test
+- skill: Ajout d'outils pour mesurer la dette technique
+- skill: Détection de Open Source et d’autres problèmes de licence
+- skill: Mettre en œuvre une stratégie de construction de conteneur
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre de pratiques DevOps d'intégration continue. Les étudiants apprendront à mettre en œuvre une intégration continue dans le pipeline Azure DevOps, à gérer les principes de qualité et de sécurité des codes et à mettre en œuvre une stratégie de construction de conteneur.
+
+  #### Profil de l’audience
+  Les étudiants qui suivent cette formation sont intéressés par les procédures d’intégration DevOps ou la réussite de l’examen de certification de Solutions Microsoft Azure DevOps.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir des connaissances de base d’Azure, du contrôle des version, de la mise au point du logiciel Agile et des principes de mise au point de logiciels de base. Il peut être utile d'avoir de l’expérience dans une organisation qui fournit des logiciels.
+  - Il est recommandé d’avoir de l’expérience dans le travail dans un IDE, ainsi que des connaissances du portail Azure. Cependant, les étudiants qui n’ont pas de connaissances techniques de ces technologies, mais qui souhaitent découvrir les pratiques DevOps dans le cadre d'un changement de culture, doivent avoir la possibilité de suivre les explication de procédure et de présentation de l’intégration continue malgré tout.
+outlineSection: |-
+  ### Module 1&#58; Mise en œuvre d'une intégration continue dans le pipeline Azure DevOps
+  Dans ce module, vous découvrirez les principes d'intégration continue, ce qui inclut les avantages, les défis, la construction des meilleures pratiques et les étapes de mise en œuvre. Vous découvrirez également la mise en œuvre d'une stratégie de construction avec des flux de travail, des déclencheurs, des agents et des outils.
+  #### Leçons
+  - Introduction à l’intégration continue
+  - Mise en œuvre d'une stratégie de construction
+
+
+  #### Laboratoire&#58; Autorisation de l’intégration continue avec des pipelines Azure
+
+  #### Laboratoire&#58; Création d’une construction Jenkins et déclenchement de CI
+  Après avoir terminé ce module, les étudiants&#58;
+  - seront capables d’expliquer l’importance de l'intégration continue
+  - seront capables de mettre en œuvre une intégration continue à l’aide d’Azure DevOps
+
+
+  ### Module 2&#58; Gestion de la qualité du code et des politiques de sécurité
+  Dans ce module, vous apprendrez à gérer la qualité du code, ce qui inclut la dette techniques, SonarCloud et d’autres solutions d'outillage. Vous apprendrez également à gérer les politiques de sécurité avec Open Source, OWASP et WhiteSource Bolt.
+  #### Leçons
+  - Gestion de la qualité du code
+  - Gestion des politiques de sécurité
+
+
+  #### Laboratoire&#58; Gestion de la dette technique avec Azure DevOps et SonarCloud
+
+  #### Laboratoire&#58; Vérification des vulnérabilités à l’aide de WhiteSource Bolt et de Azure DevOps
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage
+  - de gérer les politiques de sécurité avec Open Source, OWASP et WhiteSource Bolt
+  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage
+
+
+  ### Module 3&#58; Mise en œuvre d'une stratégie de construction de conteneurs
+  Dans ce module, vous apprendrez à mettre en œuvre une stratégie de conteneurs qui inclut les différences entre les conteneurs et les machines virtuelles et la façon dont les microservices utilisent les conteneurs. Vous apprendrez également à mettre des conteneurs en œuvre à l’aide de Docker.
+  #### Leçons
+  - Mise en œuvre d’une stratégie de construction de conteneurs
+
+
+  #### Laboratoire&#58; Existence des applications .NET avec Azure et Docker Images
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre en œuvre une stratégie de conteneurs qui inclut les différences entre les conteneurs et les machines virtuelles et la façon dont les microservices utilisent les conteneurs.
+  - de mettre en œuvre des conteneurs à l’aide de Docker.

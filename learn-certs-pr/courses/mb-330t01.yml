@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Configurer et utiliser la gestion de la chaîne logistique dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-330T01-A: Configurer et utiliser la gestion de la chaîne logistique dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-330T01-A: Configurer et utiliser la gestion de la chaîne logistique dans Dynamics 365 for Finance and Operations'
+uid: course.mb-330t01
+courseNumber: 'MB-330T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour automatiser et rationaliser leur chaîne logistique en modernisant la logistique d’entreprise, en délivrant des réponses rapides au client, en anticipant avec des indications prédictives, en rationalisant l’approvisionnement et en unifiant les processus des ventes à l'accomplissement. Cette formation discute de la manière de configurer et d'utiliser la chaîne logistique dans Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Gestion de l’approvisionnement
+  Pour configurer l'inventaire, il faut d'abord comprendre les opérations quotidiennes de l’inventaire. Dans cette leçon, nous discuterons d'abord des opérations d'inventaire entrantes et sortantes.
+
+  Ce module explique comment configurer les composants de l’inventaire pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Configurer des numéros de série et de lots
+  - Configurer la répartition de l’inventaire
+  - Configurer les journaux de l’inventaire et de l’entrepôt
+  - Configurer les dimensions de l’inventaire
+  - Clôture et ajustements de l’inventaire
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - effectuer des opération d'inventaire entrantes et sortantes
+  - configurer les paramètres de l’inventaire
+  - configurer les groupes des numéros de suivi
+  - Configurer la répartition de l’inventaire
+  - Configurer les journaux de l’inventaire et de l’entrepôt
+  - configurer les unités
+  - Configurer les dimensions de l’inventaire
+  - configurer les coûts de l'inventaire
+  - organiser la distribution
+  - comprendre la clôture et les ajustements d’inventaire
+
+
+  ### Module 2&#58; Utiliser les journaux d'inventaire
+  Ce sujet explique comment utiliser les journaux d’inventaire dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Utiliser les journaux d'inventaire
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - utiliser les journaux de mouvement
+  - utiliser les journaux d’ajustement d'inventaire
+  - utiliser les journaux de transfert
+  - utiliser les journaux de comptage et de comptage de balises
+  - utiliser les journaux d’arrivée des articles
+  - utiliser les journaux de consignation
+
+
+  ### Module 3&#58; Utiliser les rapports d'inventaire
+  Ce sujet explique comment utiliser les rapports d’inventaire pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Comprendre la classification ABC
+  - Utiliser d'autres demandes et rapports d’inventaire
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - Comprendre la classification ABC
+  - utiliser les demandes et les rapports d’inventaire
+
+
+  ### Module 4&#58; Créer produits et des références de produits
+  La gestion des informations du produit dans Dynamics 365 for Finance and Operations sert à la création et à la maintenance d’un référentiel des produits de l’entreprise. Il prend en charge les grandes organisations avec une approche centralisée et structurée en créant et en maintenant des données de référence essentielles telles que les définitions de produits. Les petites organisations qui exigent une approche moins centralisée peuvent créer et maintenir leurs produits respectifs, avec quelques restrictions, tandis que leurs produits sont automatiquement ajoutés au référentiel de produits partagés.
+
+  Ce sujet explique comment configurer les produits pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Créer des produits
+  - Créer des références de produits avec des variantes
+  - Créer et configurer des attributs et des hiérarchies de catégories
+  - Configurer la tarification des articles
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - créer des produits en tant qu’articles et services types
+  - configurer les paramètres des commandes par défaut
+  - créer des références de produits avec des variantes prédéfinies
+  - créer et configurer des hiérarchies de catégories
+  - créer des attributs de produits
+
+
+  ### Module 5&#58; Créer une nomenclature
+  Une nomenclature est une liste globale de tous les composants, éléments, matières premières, assemblages et des quantités requises pour obtenir un produit fini. Ce module explique comment créer une nomenclature et des versions de nomenclatures à l’aide du concepteur de nomenclatures dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Utiliser le concepteur de nomenclature
+  - Laboratoire pratique
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - créer une nomenclature et des versions de nomenclature à l’aide du concepteur de nomenclature
+
+
+  ### Module 6&#58; Configurer et effectuer des processus Procure-to-Purchase
+  Ce sujet explique comment configurer et réaliser les processus de Procure-to-Purchase dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Scénario de gestion des achats et de détermination des sources d'approvisionnement
+  - Créer un flux des demandes d'achat
+  - Créer des demandes d'achat
+  - Créer des demandes de devis
+  - Utiliser des politiques d’achat
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - appliquer les processus d'achat et d'approvisionnement dans un scénario d’entreprise
+  - Utiliser des politiques d’achat
+  - Créer et gérer les fournisseurs
+  - Créer des demandes d'achat
+  - créer des demandes de devis
+
+
+  ### Module 7&#58; Configurer les collaborations avec les fournisseurs
+  Ce sujet explique comment configurer les collaborations avec les fournisseurs dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Configurer les collaborations avec les fournisseurs
+  - Utiliser la collaboration avec le fournisseur
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - configurer les collaborations avec les fournisseurs
+  - travailler avec l’espace de travail de la collaboration avec le fournisseur
+  - utiliser la collaboration avec le fournisseur dans le cadre d’un processus Procure-to-Pay
+
+
+  ### Module 8&#58; Configurer et effectuer des processus Purchase-to-Pay
+  Le module des bons d’achat passe en revue les processus exigés pour créer et gérer les bons d'achat dans Dynamics 365 for Finance and Operations. Une entreprise utilise des ordres d’achat pour enregistrer les informations sur les marchandises et les services qu’elle a achetés de divers fournisseurs.
+  #### Leçons
+  - Introduction
+  - Créer des bons d'achat
+  - Utiliser la gestion de la modification du bon d’achat
+  - Utiliser les commandes et arrivées des articles
+  - Gérer les sur-livraisons et les sous-livraisons et les frais
+  - Créer des retours aux fournisseurs
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - comprendre un aperçu des scénarios Purchase-to-Pay
+  - Utiliser la gestion de la modification du bon d’achat
+  - créer un bon d'achat
+  - utiliser les arrivées d’articles et l’aperçu des arrivées
+  - générer et comptabiliser la facture
+  - créer le journal de factures
+  - générer et comptabiliser les paiements aux fournisseurs
+  - Créer des retours aux fournisseurs
+
+
+  ### Module 9&#58; Configurer et utiliser des accords
+  Ce sujet explique comment configurer et utiliser des accords dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Maintenir des accords commerciaux
+  - Créer des accords de vente
+  - Créer des accords d'achat
+  - Configurer des allocations commerciales
+  - Configurer le courtage
+  - Configurer les redevances
+  - Configurer les remises
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - Maintenir des accords commerciaux
+  - configurer des règles judicieuses
+  - Créer des accords de vente
+  - Utiliser des politiques d’achat
+  - Créer des accords d'achat
+  - Configurer des allocations commerciales
+  - Configurer le courtage
+  - Configurer les redevances
+  - Configurer les remises
+
+
+  ### Module 10&#58; Configurer et utiliser des processus Order-to-Cash
+  Ce sujet explique comment configurer et utiliser les processus Order-to-Cash dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Comprendre le scénario Order-to-Cash
+  - Configurer et utiliser des commissions
+  - Configurer les recherches de clients et d’articles
+  - Créer et confirmer des devis et commandes
+  - Configurer la remise de délais
+  - Configurer les codes de blocage d’ordre
+  - Imprimer et publier des listes de prélèvement
+  - Effectuer les retours de la part des clients
+  - Laboratoire pratique
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - effectuer le processus Order-to-Cash
+  - Configurer et utiliser des commissions
+  - Configurer les recherches de clients et d’articles
+  - créer et confirmer des devis
+  - créer et confirmer des commandes
+  - Imprimer et publier des listes de prélèvement
+  - générer et comptabiliser la facture
+  - Configurer les codes de blocage d’ordre
+  - Effectuer les retours de la part des clients
+
+
+  ### Module 11&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+
+  Les étudiants auront terminé la formation.

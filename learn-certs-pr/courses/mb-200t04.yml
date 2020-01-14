@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Test et déploiement de Power Platform'
+metadata:
+  title: 'Formation MB-200T04-A: Dynamics 365: Test et déploiement de Power Platform'
+  description: 'Formation MB-200T04-A: Dynamics 365: Test et déploiement de Power Platform'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Permettre et mettre à jour des applications de première partie.
+- skill: Installer des applications tierces.
+- skill: Configurer des solutions gérées et non-gérées.
+- skill: Mettre à jour et réparer des solutions.
+- skill: Distribuer des solutions.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques. Cette formation donne un aperçu approfondi des capacités de Microsoft Dynamics 365 et de Power Platform et fournit une base pour d'autres offres de formation de Microsoft Dynamics 365 et Power Platform.
+
+  Dans cette formation, nos experts internationalement reconnus guident les étudiants à travers la gestion des solutions et leur déploiement.
+
+  #### Profil de l’audience
+  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Familiarité avec les applications d'entreprise et désir de les personnaliser et de les mettre en œuvre dans l’entreprise.
+outlineSection: |-
+  ### Module 1&#58; Gérer des instances et des applications
+  Dans ce module, les étudiants apprendront à permettre et mettre à jour des applications de première partie, installer des applications de tiers et configurer l’utilisation des portails des administrateurs.
+  #### Leçons
+  - Aperçu
+  - Gérer des applications
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de permettre et de mettre à jour des applications de première partie
+  - d'installer des applications tierces
+
+
+  ### Module 2&#58; Gérer des solutions
+  Dans ce module, les étudiants apprendront à créer, gérer et déployer des solutions.
+  #### Leçons
+  - Concepts des solutions
+  - Planifier et créer des solutions
+  - Travailler avec des composants des solutions
+  - Distribuer des solutions
+  - Travailler avec des solutions gérées
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer, de gérer et de déployer des personnalisations avec des solutions
+
+
+  ### Module 3&#58; Considérations de déploiement supplémentaires
+  Dans ce module, les étudiants apprendront à configurer pour des appareils mobiles et à déployer des composants tels que Microsoft Flow.
+  #### Leçons
+  - Configurer
+  - Paramètres de configuration des appareils mobiles
+  - Configuration des appareils mobiles
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de configurer pour les appareils mobiles
+  - de déployer des composants
+
+
+  ### Module 4&#58; Documentation et essais
+  Dans ce module, les étudiants apprendront à concevoir des plans de tests et à effectuer un réglage de la performance.
+  #### Leçons
+  - Créer des plans de tests
+  - Tester l’interface utilisateur
+  - Optimiser et régler la performance
+  - Documentation
+  - Établir le contact avec le client
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et d'utiliser des plans de tests
+  - de localiser les outils de réglage de la performance

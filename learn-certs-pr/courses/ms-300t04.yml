@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Permettre les charges de travail Office 365 pour la collaboration
+metadata:
+  title: 'Formation MS-300T04-A: Permettre les charges de travail Office 365 pour la collaboration'
+  description: 'Formation MS-300T04-A: Permettre les charges de travail Office 365 pour la collaboration'
+uid: course.ms-300t04
+courseNumber: 'MS-300T04-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Évaluer les outils technologiques disponibles
+- skill: Analyser les exigences de l’entreprise
+- skill: Mettre au point la gouvernance pour la transformation numérique
+- skill: Mettre en œuvre la gouvernance de la gestion des applications
+- skill: Gérer l’adoption et les modifications des utilisateurs
+- skill: Surveiller les solutions de collaboration
+- skill: Évaluer les charges de travail d’Office 365 pour la collaboration
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  La transformation du travail d’équipe et de la collaboration à l’intérieur et à l’extérieur de l’organisation devient plus critique dans un espace de travail moderne. Vous apprendrez dans cette formation à profiter des charges de travail d’Office 365 pour la collaboration pour améliorer la productivité de votre organisation, comme Yammer, Stream, PowerApps et Flow. Nous évaluerons les ensembles d’outils collaboratifs et analyserons les exigences de l’entreprise. Vous apprendrez également à planifier et mettre au point la gouvernance pour la transformation numérique, notamment avec l’adoption de l’utilisateur et la gestion des modifications. 
+  
+  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation. 
+  
+  C’est la dernière d'une série de quatre formations pour le d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-300&#58; Déployer Microsoft 365 Teamwork.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
+
+  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams. 
+  
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir de l’expérience avec Windows PowerShell
+  - Avoir une compréhension de base d’Active Directory et Azure AD
+  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)
+outlineSection: |-
+  ### Module 1&#58; Évaluer les charges de travail d’Office 365 pour la collaboration
+  Office 365 comprend de nombreuses fonctionnalités qui peuvent être utilisées pour bâtir des solutions de collaboration. Le composant de base pour bâtir des solutions de collaboration est SharePoint Online, mais il est également possible d’utiliser d'autres fonctionnalités telles que Yammer et Stream. Vous devez comprendre comment SharePoint Online et d'autres fonctionnalités d’Office 365 se comparent avec des solutions de partie tierce quand vous concevez votre solution. Vous devez également être capable d'analyser les exigences de l’entreprise pour vous assurer que votre solution réponde aux besoins de l’entreprise.
+  #### Leçons
+  - Évaluation des outils technologiques disponibles
+  - Analyse des exigences de l’entreprise
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'évaluer les outils technologiques disponibles
+  - d'analyser les exigences de l’entreprise
+
+
+  ### Module 2&#58; Gouvernance de la planification et du développement
+  Un déploiement et une gestion informatiques réussis exigent une méthodologie homogène et bien définie. La gouvernance, ce sont les processus à suivre pour définir les politiques et procédures pour le déploiement et la gestion informatiques, ce qui inclut les solutions de collaboration. Vous devez prendre en considération la gouvernance dans la gestion des applications, l’adoption des utilisateurs, la gestion des modifications et la surveillance.
+  #### Leçons
+  - Développement de la gouvernance pour la transformation numérique
+  - Mise en œuvre de la gouvernance de la gestion des applications
+  - Adoption des utilisateurs et gestion des modifications
+  - Surveillance des solutions de collaboration
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre au point la gouvernance pour la transformation numérique
+  - de mettre en œuvre la gouvernance de la gestion des applications
+  - de gérer l’adoption et les modifications des utilisateurs
+  - de surveiller les solutions de collaborations
+
+
+  ### Module 3&#58; Gestion des charges du travail d’Office 365 pour la collaboration
+  Office 365 comprend de nombreuses applications et fonctionnalités qu’il est possible d'utiliser pour la collaboration. Vous devez comprendre comment configurer ces applications et fonctionnalités pour répondre aux besoins de votre organisation. Dans ce module, vous apprendrez la gestion des groupes Office 365, Power BI, Microsoft Stream, Yammers, Flox et PowerApps.
+  #### Leçons
+  - Gestion des charges du travail d’Office 365 pour la collaboration
+  - Gestion des capacités de Stream
+  - Gestion des capacités de Yammer
+  - Gestion des capacités de Flow et de PowerApps
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de gérer les charges du travail d’Office 365 pour la collaboration
+  - de gérer les capacités de Stream
+  - de gérer les capacités de Yammer
+  - de gérer les capacité de Flow et de PowerApps

@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Gestion des identités Microsoft 365
+metadata:
+  title: 'Formation MS-100T03-A: Gestion des identités Microsoft 365'
+  description: 'Formation MS-100T03-A: Gestion des identités Microsoft 365'
+uid: course.ms-100t03
+courseNumber: 'MS-100T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gérer les comptes utilisateurs et les licences dans Microsoft 365
+- skill: Gérer des rôles d’administrateur et les groupes de sécurité dans Microsoft 365
+- skill: Planifier et mettre en œuvre la gestion des mots de passe
+- skill: Gérer les options d’authentification et d'approvisionnement de Microsoft 365
+- skill: Planifier la synchronisation des répertoires
+- skill: Planifier et mettre en œuvre Azure AD Connect
+- skill: Gérer les identités synchronisées
+- skill: Planifier et mettre en œuvre le déploiement ADFS
+- skill: Mettre en œuvre les applications dans Azure AD
+- skill: Configurer le proxy de l’application Azure AD
+- skill: Concevoir des solutions pour l’accès externe
+- skill: Gérer leur santé et les services locataires de Microsoft 365
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Découvrez la gestion des identités dans Microsoft 365, notamment la gestion des groupes de sécurité des utilisateurs et les licences pour les identités dans le cloud et comment planifier et mettre en œuvre la synchronisation des identités, les identités fédérées, les applications et l'accès externe.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
+prerequisitesSection: |-
+  - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
+  - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension parfaite des pratiques informatiques générales.
+outlineSection: |-
+  ### Module 1&#58; Gérer les groupes de sécurité des utilisateurs et les licences pour les identités dans le cloud
+  #### Leçons
+  - Comptes utilisateurs et licences dans Microsoft 365
+  - Rôles d’administrateur et groupes de sécurité dans Microsoft 365
+  - Gestion des mots de passe dans Microsoft 365
+
+
+  #### Laboratoire&#58; Gérer votre environnement d’identités Microsoft 365
+  - Exercice 1 - Configurer votre environnement de laboratoire
+  - Exercice 2 - Gérer votre environnement d’identités Microsoft 365 à l’aide du centre d'administration de Microsoft 365
+  - Exercice 3 - Gérer votre environnement d’identités Microsoft 365 à l’aide de Windows PowerShell
+
+
+  ### Module 2&#58; Planifier et mettre en œuvre la synchronisation des identités
+  #### Leçons
+  - Introduction à la synchronisation des identités
+  - Planifier pour Azure AD Connect
+  - Mettre en œuvre Azure AD Connect
+  - Gérer les identités synchronisées
+
+
+  #### Laboratoire&#58; Mise en œuvre de la synchronisation des identités
+  - Exercice 1 - Configurer votre organisation pour la synchronisation des identités
+  - Exercice 2 - Mettre en œuvre la synchronisation des identités
+
+
+  ### Module 3&#58; Planifier et mettre en œuvre les identités fédérées
+  #### Leçons
+  - Introduction aux identités fédérées
+  - Planifier un déploiement AD FS
+  - Mettre en œuvre AD FS
+
+
+  ### Module 4&#58; Mettre en œuvre les applications et l’accès externe
+  #### Leçons
+  - Mettre en œuvre les applications dans Azure AD
+  - Configurer le proxy de l’application Azure AD
+  - Concevoir des solutions pour l’accès externe

@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: Gestion des périphériques Microsoft 365
+metadata:
+  title: 'Formation MS-101T03-A: Gestion des périphériques Microsoft 365'
+  description: 'Formation MS-101T03-A: Gestion des périphériques Microsoft 365'
+uid: course.ms-101t03
+courseNumber: 'MS-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifier la cogestion
+- skill: Préparer les périphériques Windows 10 pour la cogestion
+- skill: Transition du gestionnaire de configuration à Intune
+- skill: Configurer Microsoft Store for Business
+- skill: Planifier la gestion des applications mobiles
+- skill: Planifier la stratégie de déploiement de votre Windows 10
+- skill: Planifier la stratégie d'activation de l’abonnement de votre Windows 10
+- skill: Résoudre les erreurs de mise à niveau de Windows 10
+- skill: Mettre en œuvre Windows 10 Analytics
+- skill: Déployer la gestion de périphériques mobiles
+- skill: Gérer les périphériques avec la gestion de périphériques mobiles
+- skill: Enregistrer des périphériques dans la gestion de périphériques mobiles
+- skill: Gérer la conformité des périphériques
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Cette formation est une introduction au monde de la gestion des périphériques Microsoft 365, en commençant par l’établissement de Microsoft Intune, jusqu’à l’enregistrement des périphériques dans Intune, en passant par la surveillance des périphériques, le contrôle de ce que les utilisateurs peuvent faire à partir des périphériques enregistrés en utilisant les politiques d'accès conditionnel. Si une personne gère déjà des périphériques en utilisant un outil de gestion de périphériques traditionnel comme le gestionnaire de configuration, elle sera intéressée de savoir qu’elle pourra passer harmonieusement à la gestion moderne où les périphériques sont gérés par Intune et où il est possible de profiter des nouvelles capacités de gestion des périphériques, telles que la conformité, l’accès conditionnel et Windows autopilot pour déployer de nouveaux périphériques à partir du cloud.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
+prerequisitesSection: |-
+  - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
+  - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension parfaite des pratiques informatiques générales.
+outlineSection: |-
+  ### Module 1&#58; Planification de la gestion des périphériques
+  #### Leçons
+  - Introduction à la cogestion
+  - Préparer les périphériques de votre Windows 10 pour la cogestion
+  - Transition du gestionnaire de configuration à Intune
+  - Introduction au Microsoft Store for Business
+  - Planifier la gestion des applications mobiles
+
+
+  ### Module 2&#58; Planifier la stratégie de déploiement de votre Windows 10
+  #### Leçons
+  - Scénarios de déploiement de Windows 10
+  - Planifier la stratégie d'activation de l’abonnement de votre Windows 10
+  - Résoudre les erreurs de mise à niveau de Windows 10
+  - Introduction à Windows Analytics
+
+
+  ### Module 3&#58; Mettre en œuvre la gestion des périphériques mobiles
+  #### Leçons
+  - Planifier la gestion des périphériques mobiles
+  - Déployer la gestion des périphériques mobiles
+  - Enregistrer des périphériques dans la gestion des périphériques mobiles
+  - Gérer la conformité des périphériques
+
+
+  ### Module 4&#58; Laboratoire pratique
+
+  #### Laboratoire&#58; Travailler avec Microsoft Store for Business
+  - Exercice 1&#58; Approvisionner et gérer Microsoft Store for Business
+  - Exercice 2&#58; Utiliser Microsoft Store for Business
+
+
+  #### Laboratoire&#58; Gérer les périphériques à l’aide de Intune
+  - Exercice 1&#58; Obtenir Intune et permettre la gestion des périphériques
+  - Exercice 2&#58; Configurer Azure AD pour Intune
+  - Exercice 3&#58; Créer des politiques Intune
+  - Exercice 4&#58; Enregistrer un périphérique Windows 10
+  - Exercice 5&#58; Gérer et surveiller un périphérique dans Intune

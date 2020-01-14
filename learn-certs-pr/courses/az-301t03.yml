@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: "Conception pour le déploiement, la migration et l'intégration"
+metadata:
+  title: "Formation AZ-301T03-A: Conception pour le déploiement, la migration et l'intégration"
+  description: "Formation AZ-301T03-A: Conception pour le déploiement, la migration et l'intégration"
+uid: course.az-301t03
+courseNumber: 'AZ-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Création d'un groupe de ressources.
+- skill: Ajout de ressources à un groupe de ressources.
+- skill: Déploiement d'un modèles ARM dans un groupe de ressources.
+- skill: Intégration d'un API ou d'une application logique avec le service de gestion de l’API.
+- skill: Conception d'un plan de service d'applications ou d'un déploiement dans plusieurs régions pour des performances et une évolution élevées.
+- skill: Intégration d'un API ou d'une application logique avec le service de gestion de l’API.
+- skill: Conception d'un plan de service d'applications ou d'un déploiement dans plusieurs régions pour des performances et une évolution élevées.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Apprendre à déployer un modèle Azure Resource Manager (ARM) dans un groupe de ressources, être l’auteur d'un déploiement complexe à l’aide des outils Azure Building Blocs et intégrer un API ou une application logique avec le service de gestion API.
+
+  #### Profil de l’audience
+  Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
+outlineSection: |-
+  ### Module 1&#58; Déploiement de ressources avec Azure Resource Manager
+  Ce module permet une compréhension de base de Azure Resource Manager (ARM) et les concepts de base des déploiements, ressources, modèles, groupes de ressources et étiquettes. Ce module plongera profondément dans le déploiement automatisé de ressources à l’aide de modèles ARM.
+
+  #### Laboratoire&#58; Déploiement de ressources avec le Azure Resource Manager
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer un groupe de ressources.
+  - d'ajouter des ressources à un groupe de ressources.
+  - de déployer un modèle ARM dans un groupe de ressources.
+  - de filtrer des ressources à l’aide d’étiquettes.
+  - de créer un déploiement complexe à l’aide des outils Azure Building Blocks.
+
+
+  ### Module 2&#58; Création d'applications de services gérés dans Azure
+  Ce module décrit la façon dont des solutions peuvent tirer parti de services d’hébergement d’applications sans serveurs dans Azure pour
+  héberger des applications web, des API REST, des flux de travail d'intégration et des charges de travail HPC sans l’exigence de gérer des ressources de serveurs spécifiques. Ce module se concentre sur les composants liés aux services d'applications tels que les applications web, les applications API, les applications mobiles, les applications logiques et les fonctions.
+
+  #### Laboratoire&#58; Déploiement de charges de travail en conteneurs gérées dans Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de sélectionner l’hébergement d'un code d'application ou de conteneur dans une instance de service d'applications.
+  - de décrire les différences entre API, les applications mobiles et les applications web.
+  - d’intégrer un API ou une application mobile avec le service de gestion d’API.
+  - de concevoir un plan de service d'applications ou un déploiement dans plusieurs régions pour des hautes performances et évolutivité.
+
+
+  ### Module 3&#58; Autorisation des applications sans serveur dans Azure
+  Ce module décrit la façon dont des solutions peuvent tirer parti de services d’hébergement d’applications sans serveurs dans Azure pour
+  héberger des applications web, des API REST, des flux de travail d'intégration et des charges de travail HPC sans l’exigence de gérer des ressources de serveurs spécifiques. Ce module se concentre sur les composants liés aux services d'applications tels que les applications web, les applications API, les applications mobiles, les applications logiques et les fonctions.
+
+  #### Laboratoire&#58; Déploiement de charges de travail sans serveur dans Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de sélectionner l’hébergement d'un code d'application ou de conteneur dans une instance de service d'applications.
+  - de décrire les différences entre API, les applications mobiles et les applications web.
+  - d’intégrer un API ou une application mobile avec le service de gestion d’API.
+  - de concevoir un plan de service d'applications ou un déploiement dans plusieurs régions pour des hautes performances et évolutivité.

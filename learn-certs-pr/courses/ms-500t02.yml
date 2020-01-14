@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Mettre en œuvre la protection contre les menaces sur Microsoft 365
+metadata:
+  title: 'Formation MS-500T02-A: Mettre en œuvre la protection contre les menaces sur Microsoft 365'
+  description: 'Formation MS-500T02-A: Mettre en œuvre la protection contre les menaces sur Microsoft 365'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les vecteurs de menaces des cyberattaques.
+- skill: Décrire les solutions de sécurité dans Microsoft 365
+- skill: Utiliser la notation sécurisée Microsoft pour évaluer votre posture de sécurité.
+- skill: Utiliser le tableau de bord de sécurité dans le centre de sécurité et de conformité Microsoft.
+- skill: Configurer les services de protection avancée contre les diverses menaces pour Microsoft 365.
+- skill: Configurer Advanced Threat Analytics.
+- skill: Planifier et déployer la gestion des périphériques mobiles.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  La protection contre les menaces aide à mettre fin aux attaques qui causent des dommages à une sécurité intégrée et automatisée. Cette formation vous enseignera les technologies de protection contre les menaces qui aident à protéger votre environnement Microsoft 365. Vous découvrirez spécifiquement les vecteurs de menaces et les solutions de sécurité de Microsoft contre eux. Vous serez informé sur la notation sécurisée, la protection d’Exchange Online, la protection avancée contre les menaces d’Azure, la protection avancée contre les menaces de Windows Defender et comment utiliser Microsoft 365 Threat Intelligence. Cette formation discute également de la sécurisation des périphériques et applications mobiles. L'objectif de cette formation est de vous aider à configurer votre déploiement Microsoft 365 pour réaliser votre posture de sécurité désirée.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur de la sécurité sur Microsoft 365. Ce rôle collabore avec l’administrateur d’entreprise Microsoft 365, avec les parties prenantes de l’entreprise et d'autres administrateurs de charges de travail pour planifier et mettre en œuvre les stratégies de sécurité et s'assurer que les solutions sont conformes aux politiques et réglementations de l’organisation. 
+  
+  Ce rôle sécurise de manière proactive les environnements d’entreprise de Microsoft 365. Les responsabilités englobent la réponse aux menaces, la mise en œuvre, la gestion et la surveillance des solutions de sécurité et de conformité de l’environnement Microsoft 365. Elles répondent aux incidents, aux enquêtes et à l'application de la gouvernance des données.
+  
+  L’administrateur de la sécurité de Microsoft 365 est habitué aux charges de travail de Microsoft 365 et possède des compétences solides et de l’expérience dans la protection de l’identité, la protection des informations, la protection contre les menaces, la gestion de la sécurité et la gouvernance des données. Ce rôle se concentre sur l’environnement Microsoft 365 et comprend des environnements hybrides.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir une compréhension conceptuelle de base de Microsoft Azure.
+  - De l’expérience avec les périphériques Windows 10.
+  - De l’expérience avec Office 365.
+  - Avoir une compréhension de base des autorisations et de l’authentification.
+  - Avoir une compréhension de base des réseaux informatiques.
+  - Avoir une connaissance pratique de la gestion des périphériques mobiles.
+outlineSection: |-
+  ### Module 1&#58; La sécurité dans Microsoft 365
+  Ce module commence par expliquer les diverses menaces de cyberattaques existantes.  Il présente ensuite les solutions Microsoft pour déjouer ces menaces.  Le module se termine par une explication sur la notation sécurisée de Microsoft et comment elle peut être utilisée pour évaluer et établir des rapports sur la posture de sécurité de votre organisation.
+  #### Leçons
+  - Vecteurs de menaces et violations des données
+  - Solutions de sécurité pour Microsoft 365
+  - Notation sécurisée Microsoft
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire plusieurs techniques utilisées par les pirates informatiques pour compromettre les comptes utilisateurs par le biais des messages électroniques.
+  - de décrire les techniques utilisées par les pirates informatiques pour prendre le contrôle des ressources.
+  - d'énumérer le type de menaces qui peuvent être évitées en utilisant la protection d’Exchange Online et Office 365 ATP.
+  - de décrire comment Microsoft 365 Threat Intelligence peut être bénéfique aux officiers et administrateurs de sécurité de votre organisation.
+  - de décrire les avantages de la notation sécurisée et le genre de services qu’il est possible d'analyser.
+  - de décrire comment utiliser l’outil pour identifier les écarts entre votre état actuel et l’état que vous désirez atteindre en matière de sécurité.
+
+
+  ### Module 2&#58; Protection avancée contre les menaces
+  Ce module explique les diverses technologies et les différents services de protection contre les menaces disponibles dans Microsoft 365. Ce module couvre spécifiquement la protection contre les messages par le biais de la protection d’Exchange Online, la protection avancée contre les menaces d’Azure et la protection avancée contre les menaces de Windows Defender.
+  #### Leçons
+  - Protection d’Exchange Online
+  - Protection avancée contre les menaces d’Office 365
+  - Gestion des pièces jointes sécurisées
+  - Gestion des liens sécurisés
+  - Protection avancée contre les menaces d’Azure
+  - Protection avancée contre les menaces de Windows Defender
+
+
+  #### Laboratoire&#58; Protection avancée contre les menaces
+  - Configurer votre environnement de laboratoire
+  Modifier une politique de liens sécurisés ATP et créer une politique de pièce jointe sécurisée
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire un pipeline de maliciel comme le message électronique qui est analysé par la protection d’Exchange Online.
+  - de décrire comment les pièces jointes sécurisées sont utilisées pour bloquer les maliciels zero-day dans les pièces jointes aux messages électroniques et documents.
+  - de décrire comment les liens sécurisés protègent les utilisateurs contre les URL malveillants intégrés dans les courriers électroniques et les documents qui pointent vers les sites Web malveillants.
+  - de configurer la protection avancée contre les menaces d’Azure.
+  - de configurer Windows Defender ATP.
+  - d'intégrer Windows Defender ATP avec Azure ATP.
+
+
+  ### Module 3&#58; Intelligence contre les menaces
+  Ce module décrit Microsoft Threat Intelligence, qui vous fournit les outils pour évaluer et traiter les cybermenaces. Vous apprendrez à utiliser le tableau de bord de la sécurité dans le centre de sécurité et de conformité de Microsoft 365. Il explique également et configure Microsoft Advanced Threat Analytics.
+  #### Leçons
+  - Microsoft 365 Threat Intelligence
+  - Utilisation du tableau de bord de sécurité
+  - Configuration d’Advanced Threat Analytics
+
+
+  #### Laboratoire&#58; Advanced Threat Analytics
+  - Permettre et installer le centre ATA
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire comment l’intelligence des menaces dans Microsoft 365 est motorisée par Microsoft Intelligent Security Graph.
+  - de décrire comment utiliser Threat Explorer pour examiner les menaces et aider à protéger votre locataire.
+  - de décrire comment le tableau de bord de la sécurité fournit aux directeurs de niveau C des informations sur les principaux risques, les tendances mondiales, la qualité de la protection et l’exposition de l’organisation aux menaces.
+  - de décrire comment le tableau de bord de la sécurité peut être utilisé comme point de départ pour permettre aux analystes de sécurité de découvrir des détails supplémentaires à l’aide de Threat Explorer.
+  - de décrire Advanced Threat Analytics (ATA) et les exigences nécessaires pour le déployer.
+  - de configurer Advanced Threat Analytics.
+
+
+  ### Module 4&#58; Mobilité
+  Ce module concerne la sécurisation des périphériques et des applications mobiles. Les étudiants découvriront la gestion des périphériques mobiles et leur fonctionnement avec Intune. Ils découvriront également comment utiliser Intune et Azure AD pour sécuriser les applications mobiles.
+  #### Leçons
+  - Planifier la gestion des applications mobiles
+  - Planifier la gestion des périphériques mobiles
+  - Déployer la gestion des périphériques mobiles
+  - Enregistrer des périphériques dans la gestion des périphériques mobiles
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les considérations relatives aux applications mobiles
+  - d'utiliser Intune pour gérer les applications mobiles
+  - e gérer les périphériques avec la gestion des périphériques mobiles
+  - de comparer MDM for Office 365 et Intune
+  - de configurer des domaines pour la gestion des périphériques mobiles
+  - de gérer les politiques de sécurité des périphériques
+  - de définir la politique d’enregistrement des périphériques d’entreprise
+  - d'enregistrer des périphériques dans la gestion des périphériques mobiles
+  - de configurer le rôle de directeur d’enregistrement des périphériques

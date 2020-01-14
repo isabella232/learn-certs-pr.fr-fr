@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: "Gérer l'accès client et le flux de messagerie"
+metadata:
+  title: "Formation MS-200T02-A: Gérer l'accès client et le flux de messagerie"
+  description: "Formation MS-200T02-A: Gérer l'accès client et le flux de messagerie"
+uid: course.ms-200t02
+courseNumber: 'MS-200T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: "Mettre en œuvre des services d'accès client"
+- skill: Gérer les périphériques clients
+- skill: Configurer Outlook sur le Web
+- skill: Résolution des problèmes d’accès client
+- skill: Configurer les politiques des boîtes aux lettres des périphériques mobiles
+- skill: Gérer les politiques des boîtes aux lettres des périphériques mobiles
+- skill: Configurer le transport des messages
+- skill: Gérer les règles de transport
+- skill: Gérer le flux de messagerie
+- skill: Dépanner le flux de messagerie
+- skill: Résolution des problèmes de transport
+- skill: Dépanner les journaux
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Dans cette formation, vous apprendrez comment Microsoft Exchange Server fournit l’accès aux boîtes aux lettres des utilisateurs à de nombreux clients différents. Comme tous les clients de la messagerie accèdent aux boîtes aux lettres d’Exchange Server par le biais des services d'accès client, nous examinerons comment planifier, configurer et gérer les services d’accès client dans Exchange Server. Depuis que l’utilisation des smartphones et des tablettes pour la messagerie est devenue très populaire et comme de nombreux utilisateurs de smartphones utilisent leurs périphériques de façon intensive pour la messagerie, le calendrier, les tâches et d'autres objets de collaboration, vous apprendrez également à gérer les périphériques mobiles. Cette formation décrit également la planification et la configuration du transport des messages dans une organisation d’Exchange Server. Vous apprendrez à planifier, configurer et gérer les services de transport pour fournir une communication efficace entre vos Exchange Servers, Exchange Online et les autres serveurs de messagerie sur Internet. Finalement, vous apprendrez à résoudre les problèmes des services de transports dans différents scénarios afin de pouvoir fournir une infrastructure de messagerie saine et fiable à votre organisation.
+
+  #### Profil de l’audience
+  L’administrateur de messagerie déploie, configure, gère et
+  dépanne les destinataires, les autorisations, la protection des messages, le flux des messages et les dossiers publics dans des environnements d’entreprise sur site et dans le cloud. Ses responsabilités englobent la gestion de l’hygiène des messages, l’infrastructure de la messagerie et la configuration hybride et la migration. L'administrateur de messagerie met également en œuvre et gère la récupération après sinistre, la haute disponibilité et l’accès des clients. Pour mettre en œuvre une topologie hybride sécurisée qui réponde aux besoins professionnels d’une organisation moderne, l’administrateur de messagerie doit collaborer avec l’administrateur de la sécurité et l’administrateur d’entreprise Microsoft 365. L'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
+prerequisitesSection: |-
+  - Une compréhension parfaite du DNS.
+  - Une compréhension de base de la messagerie dans le cadre d’Exchange Server ou d’Exchange Online.
+  - Une compréhension de base d’Active Directory et de l’infrastructure du contrôleur de domaines ainsi que de la gestion des identités.
+  - Une expérience pratique de base des services Microsoft 365 et de la synchronisation des répertoires.
+  - Au moins cinq ans d’expérience en informatique générale.
+outlineSection: |-
+  ### Module 1&#58; Gérer l’accès client
+  #### Leçons
+  - Mettre en œuvre des services d'accès client
+  - Gérer les périphériques clients
+  - Configurer Outlook sur le Web
+  - Résolution des problèmes d’accès client
+
+
+  ### Module 2&#58; Gérer les périphériques mobiles
+  #### Leçons
+  - Politiques des boîtes aux lettres des périphériques mobiles
+  - Gérer l’accès aux périphériques mobiles
+
+
+  ### Module 3&#58; Gérer le pipeline de transport
+  #### Leçons
+  - Aperçu des services de transport
+  - Configurer le transport des messages
+  - Gérer les règles de transport
+
+
+  ### Module 4&#58; Gérer et dépanner le flux de messagerie
+  #### Leçons
+  - Gérer le flux de messagerie
+  - Dépanner le flux de messagerie
+  - Résolution des problèmes de transport
+  - Dépanner les journaux
+
+
+  ### Module 5&#58; Conclusion de la formation
+
+  #### Laboratoire&#58; Gérer l'accès client et le flux de messagerie
+  - Créer un connecteur de réception personnalisé
+  - Créer un connecteur d’envoi personnalisé
+  - Activer et désactiver ActiveSync pour une boîte aux lettres unique
+  - Activer et désactiver ActiveSync pour plusieurs boîtes aux lettres
+  - Activer et désactiver l’accès MAPI à une boîte aux lettres unique
+  - Activer et désactiver l’accès MAPI à plusieurs boîtes aux lettres

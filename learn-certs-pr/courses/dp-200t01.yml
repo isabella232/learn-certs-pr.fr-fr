@@ -1,0 +1,234 @@
+### YamlMime:Course
+title: Mettre en œuvre une solution de données Azure
+metadata:
+  title: 'Formation DP-200T01-A: Mettre en œuvre une solution de données Azure'
+  description: 'Formation DP-200T01-A: Mettre en œuvre une solution de données Azure'
+uid: course.dp-200t01
+courseNumber: 'DP-200T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-200
+summary: |-
+  Dans cette formation, les étudiants mettront en œuvre différentes technologies de plateformes de données dans des solutions alignées aux exigences des entreprises et techniques, ce qui inclut des scénarios de données sur site, de cloud et hybrides qui incluent des données relationnelles et NoSQL. Ils découvriront également comment traiter des données en utilisant une gamme de technologies et de langues pour la diffusion et la mise en lots de données.
+
+  Les étudiants découvriront également comment mettre en œuvre la sécurité des données, ce qui inclut l’authentification, l’autorisation, les politiques de données et les normes. Ils définiront et mettront également en œuvre la surveillance des solutions de données pour les activités de stockage des données et le traitement des données. Enfin, ils géreront et dépanneront dépanner des solutions de données Azure, ce qui inclut l’optimisation et la reprise après sinistre de big data, le traitement de lots et la diffusions de solutions de données.
+
+  #### Profil de l’audience
+  L'audience principale de cette formation est les professionnels des données, les architectes en données et les professionnels en solutions décisionnelles qui souhaitent découvrir les technologies des plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est les personnes qui mettent au point des applications qui fournissent du contenu des technologies de plateformes de données qui existent sur Microsoft Azure.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
+outlineSection: |-
+  ### Module 1&#58; Azure pour l’ingénieur en données
+  Ce module explore l’évolution du monde des données et la façon dont les technologies de plateformes de données dans le cloud offrent de nouvelles possibilités aux entreprises d’explorer leurs données de différentes façons. Les étudiants obtiendront un aperçu des différentes technologies de plateformes de données disponibles et de la façon dont le rôle et les responsabilités d’une ingénieur en données ont évolué pour travailler dans ce nouveau monde pour le bénéfice d'une organisation.
+  #### Leçons
+  - Explication de l’évolution du monde des données
+  - Étude des services de la plateforme de données Azure
+  - Identification des tâches réalisées par un ingénieur en données
+  - Description des cas d'utilisation pour le cloud dans une études de cas
+
+
+  #### Laboratoire&#58; Azure pour l’ingénieur en données
+  - Identification de l’évolution du monde des données
+  - Détermination des services de plateformes de données Azure
+  - Identification des tâches qu’un ingénieur en données doit remplir
+  - Finalisation des produits de l’ingénierie des données
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Explication de l’évolution du monde des données
+  - Étude des services de la plateforme de données Azure
+  - Identification des tâches réalisées par un ingénieur en données
+  - Description des cas d'utilisation pour le cloud dans une études de cas
+
+
+  ### Module 2&#58; Travailler avec le stockage de données
+  Ce module enseigne plusieurs façons de stocker des données dans Azure. Les étudiants découvriront les bases de la gestion du stockage dans Azure, la création d'un compte de stockage et le choix du bon modèle pour les données qui souhaitent être stockées dans le cloud. Ils comprendront également comment le stockage de Data Lake peut être créé pour prendre en charge une large gamme de solutions d'analyse de big data avec un minimum d’efforts.
+  #### Leçons
+  - Choix d'une approche de stockage de données dans Azure
+  - Création d’un compte de stockage Azure
+  - Explication du stockage de Data Lake dans Azure
+  - Chargement de données dans le lac de données Azure
+
+
+  #### Laboratoire&#58; Travail avec le stockage de données
+  - Choix d'une approche de stockage de données dans Azure
+  - Création d’un compte de stockage
+  - Explication du stockage de Data Lake
+  - Chargement de données dans le lac de données
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Choix d'une approche de stockage de données dans Azure
+  - Création d’un compte de stockage Azure
+  - Explication du stockage de Data Lake dans Azure
+  - Chargement de données dans le lac de données Azure
+
+
+  ### Module 3&#58; Autorisation de la science des données basée sur les équipes avec Azure Databricks
+  Ce module présente aux étudiants Azure Databricks et la façon dont un ingénieur en données travail avec Azure Databricks pour permettre à une organisation de réaliser des projets de science des données en équipe. Ils découvriront les bases de Azure Databricks et des carnets Apache Spark, la fourniture de services et d'espaces de travail et la réalisation de la tâche de préparation des données qui peuvent contribuer au projet de science des données.
+  #### Leçons
+  - Explication de Azure Databricks
+  - Travail avec Azure Databricks
+  - Lecture de données avec Azure Databricks
+  - Réalisation des transformations avec Azure Databricks
+
+
+  #### Laboratoire&#58; Autorisation de la science des données basée sur les équipes avec Azure Databricks
+  - Explication de Azure Databricks
+  - Travail avec Azure Databricks
+  - Lecture de données avec Azure Databricks
+  - Réalisation des transformations avec Azure Databricks
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Explication de Azure Databricks
+  - Travail avec Azure Databricks
+  - Lecture de données avec Azure Databricks
+  - Réalisation des transformations avec Azure Databricks
+
+
+  ### Module 4&#58; Construction de bases de données distribuées globalement avec Cosmos DB
+  Dans ce module, les étudiants apprendront à travailler avec des données non SQL à l’aide de Azure Cosmos DB. Ils découvriront comment fournir le service, comment ils peuvent charger et interroger des données dans le service en utilisant les extensions de code de Visual Studio et Azure Cosmos DB .NET Core SDK. Ils découvriront également comment configurer les options de disponibilité pour que les utilisateur puissent accéder aux données partout dans le monde.
+  #### Leçons
+  - Création d'une base de données Azure Cosmos DB construite pour être évolutive
+  - Insertion et questionnement des données dans votre base de données Azure Cosmos DB
+  - Construction d'une application .NET Core pour Cosmos DB dans le code Visual Studio
+  - Distribution de données dans le monde avec Azure Cosmos DB
+
+
+  #### Laboratoire&#58; Construction de bases de données distribuées dans le monde avec Cosmos DB
+  - Création d'une base de données Azure Cosmos
+  - Insertion et questionnement des données dans Azure Cosmos DB
+  - Construction d'une application .NET Core pour Cosmos DB à l’aide du code VS
+  - Distribution de données dans le monde avec Azure Cosmos DB
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Création d'une base de données Azure Cosmos DB construite pour être évolutive
+  - Insertion et questionnement des données dans votre base de données Azure Cosmos DB
+  - de construire une application .NET Core pour Cosmos DB dans le code Visual Studio,
+  - Distribution de données dans le monde avec Azure Cosmos DB
+
+
+  ### Module 5&#58; Travail avec des entrepôts de données relationnelles dans le cloud
+  Dans ce module, les étudiants découvriront des options de plateformes de données relationnelles Azure, ce qui inclut la base de données SQL et l’entrepôt de données SQL. Les étudiants seront capables d’expliquer pourquoi ils choisiraient un service plutôt qu’un autre et comment fournir, connecter et gérer chacun de ces services.
+  #### Leçons
+  - Utilisation d'une base de données SQL Azure
+  - Description d'un entrepôt de données SQL Azure
+  - Création et demande d'un entrepôt de données SQL Azure
+  - Utilisation de PolyBase pour charger des données dans l’entrepôt de données SQL Azure
+
+
+  #### Laboratoire&#58; Travail avec des entrepôts de données relationnelles dans le cloud
+  - Utilisation d'une base de données SQL Azure
+  - Description d'un entrepôt de données SQL Azure
+  - Création et demande d'un entrepôt de données SQL Azure
+  - Utilisation de PolyBase pour charger des données dans l’entrepôt de données SQL Azure
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Utilisation d'une base de données SQL Azure
+  - de décrire un entrepôt de données Azure,
+  - de créer et de demander un entrepôt de données SQL Azure,
+  - Utilisation de PolyBase pour charger des données dans l’entrepôt de données SQL Azure
+
+
+  ### Module 6&#58; Réalisation d'une analyse en temps réel avec Stream Analytics
+  Dans ce module, les étudiants découvriront les concepts de traitement des événements et de diffusion de données et la façon dont ils s'appliquent aux hubs d’événement et à Azure Stream Analytics. Les étudiants créeront ensuite une tâche d’analyse de diffusion pour diffuser des données et apprendre à poser des questions aux données entrantes afin de procéder à l’analyse des données. Enfin, ils découvriront comment gérer et surveiller l’exécution des tâches.
+  #### Leçons
+  - Explication des flux de données et le traitement des événements
+  - Ingestion des données avec des hubs d’événements
+  - Traitement des données avec des tâches Stream Analytics
+
+
+  #### Laboratoire&#58; Exécution d'une analyse en temps réel avec Stream Analytics
+  - Explication des flux de données et le traitement des événements
+  - Ingestion des données avec des hubs d’événements
+  - Traitement des données avec des tâches Stream Analytics
+
+  Après avoir terminé ce module, les étudiants&#58;
+  - seront capables d’expliquer les flux de données et le traitement des événements,
+  - comprendront l’ingestion des données avec des hubs d’événements
+  - comprendront le traitement des données avec des tâches Stream Analytics
+
+
+  ### Module 7&#58; Orchestration du mouvement des données avec Azure Data Factory
+  Dans ce module, les étudiants découvriront comment Azure Data Factory peut servir à orchestre le mouvement et la transformation des données à partir d'une large gamme de technologies de plateformes de données. Ils seront capables d’expliquer les capacités de cette technologie et seront capables de définir un pipeline de données de bout en bout qui ingère et transforme les données.
+  #### Leçons
+  - Explication du fonctionnement de Azure Data Factory
+  - Composants de Azure Data Factory
+  - Azure Data Factory et Databricks
+
+
+  #### Laboratoire&#58; Orchestration du mouvement des données avec Azure Data Factory
+  - Explication du fonctionnement de Data Factory
+  - Composants de Azure Data Factory
+  - Azure Data Factory et Databricks
+
+  Après avoir terminé ce module, les étudiants&#58;
+  - comprendront Azure Data Factory et Databricks
+  - comprendront les composants de Azure Data Factory
+  - seront capables d’expliquer le fonctionnement de Azure Data Factory
+
+
+  ### Module 8&#58; Sécurisation des plateformes de données Azure
+  Dans ce module, les étudiants découvriront la façon dont Azure fournit un modèle de sécurité en plusieurs couche pour protéger les données. Les étudiants découvriront la façon dont la sécurité peut aller de définir des réseaux sécurisés et des clés d'accès à la définition de permission en passant par la surveillance d'un ensemble d’entrepôts de données.
+  #### Leçons
+  - Une introduction à la sécurité
+  - Composants clés de la sécurité
+  - Sécurisation des comptes de stockage et du stockage Data Lake
+  - Sécurisation des entrepôts de données
+  - Sécurisation des données de diffusion
+
+
+  #### Laboratoire&#58; Sécurisation des plateformes de données Azure
+  - Une introduction à la sécurité
+  - Composants clés de la sécurité
+  - Sécurisation des comptes de stockage et du stockage Data Lake
+  - Sécurisation des entrepôts de données
+  - Sécurisation des données de diffusion
+
+  Après avoir terminé ce module, les étudiants&#58;
+  - auront une introduction à la sécurité
+  - comprendront les composants clés de la sécurité
+  - comprendront la sécurisation des comptes de stockage et du stockage Data Lake
+  - comprendront la sécurisation des entrepôts de données
+  - comprendront la sécurisation des données de diffusion
+
+
+  ### Module 9&#58; Surveillance et dépannage du stockage et du traitement des données
+  Dans ce module, les étudiants auront un aperçu de la gamme de capacités de surveillance disponibles pour offrir un soutien opérationnel en cas de problème avec une architecture de plateforme de données. Ils découvriront les problèmes de stockage de données et de traitement des données courants. Enfin, les options de reprise après sinistre seront révélées pour assurer la continuité des affaires.
+  #### Leçons
+  - Explication des capacités de surveillance disponibles
+  - Dépannage des problèmes courants de stockage des données
+  - Dépannage des problèmes courants de traitement des données
+  - Gestion de la reprise après sinistre
+
+
+  #### Laboratoire&#58; Surveillance et dépannage du stockage et du traitement des données
+  - Explication des capacités de surveillance disponibles
+  - Dépannage des problèmes courants de stockage des données
+  - Dépannage des problèmes courants de traitement des données
+  - Gestion de la reprise après sinistre
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Explication des capacités de surveillance disponibles
+  - Dépannage des problèmes courants de stockage des données
+  - Dépannage des problèmes courants de traitement des données
+  - Gestion de la reprise après sinistre

@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Mise en œuvre des processus de mise au point DevOps
+metadata:
+  title: 'Formation AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
+  description: 'Formation AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les avantages de l’utilisation du contrôle de la source
+- skill: Migration de TFVC vers Git
+- skill: Évolution de Git for Enterprise DevOps
+- skill: Mettre en œuvre et gérer l’infrastructure de construction
+- skill: Gestion de la configuration et des secrets des applications
+- skill: Mettre en œuvre une stratégie DevOps mobile
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre des procédures DevOps. Les étudiants apprendront à utiliser le contrôle de la source, l’évolution Git pour une entreprise et la mise en œuvre et la gestion de l’infrastructure de construction.
+
+  #### Profil de l’audience
+  Les étudiants qui suivent cette formation sont intéressés par la mise au point de procédures DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Connaissances de base de Azure, contrôle des versions, mise au point du logiciel Agile et principes de mise au point de logiciels de base. Il peut être utile d'avoir de l’expérience dans une organisation qui fournit des logiciels.
+outlineSection: |-
+  ### Module 1&#58; Démarrage avec le contrôle des sources
+  #### Leçons
+  - Qu’est-ce que le contrôle des sources ?
+  - Avantage du contrôle des sources
+  - Types de systèmes de contrôle des sources
+  - Introduction à Azure Repos
+  - Migration du contrôle de la version de base des équipes (TFVC) vers Git
+  - Authentification de votre Git Repos
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les avantages de l’utilisation du contrôle des sources,
+  - de migrer de TFVC vers Git
+
+
+  ### Module 2&#58; Évolutivité de git pour l’entreprise DevOps
+  #### Leçons
+  - Comment structurer votre Git Repos
+  - Flux de travail des branchements de Git
+  - Collaboration avec les demandes de déchargement
+  - Pourquoi se tracasse des GitHooks ?
+  - Encouragement de Open Source interne
+  - Version de Git
+  - Projets publics
+  - Fichiers dans Git
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de faire évoluer Git pour l’entreprise DevOps
+
+
+  ### Module 3&#58; Mise en œuvre et gestion de l’infrastructure de construction
+  #### Leçons
+  - Le concept de pipelines dans DevOps
+  - Pipelines Azure
+  - Évaluation de l’utilisation des agents hébergés par rapport aux agents privés
+  - Groupements d'agents
+  - Pipelines et correspondance
+  - Projets Azure DevOps et Open Source
+  - Pipeline YAML Azure vs Visual Designer
+  - Réglage des agents privés
+  - Intégration de Jenkins aux pipelines Azure
+  - Intégration du contrôle de source externe avec les pipelines Azure
+  - Analyse et intégration des constructions à étapes multiples Docker
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre en œuvre et gérer l’infrastructure de construction
+
+
+  ### Module 4&#58; Gestion des configuration et des secrets des applications
+  #### Leçons
+  - Introduction à la sécurité
+  - Mise en œuvre d’un processus de développement sécurisé et conforme
+  - Nouvelle réflexion sur les données de configuration des applications
+  - Gestion des secrets, des jetons et des certificats
+  - Mise en œuvre des outils pour la gestion de la sécurité et de la conformité dans le pipeline
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de gérer la configuration et les secrets des applications
+
+
+  ### Module 5&#58; mise en œuvre d'une stratégie DevOps mobile
+  #### Leçons
+  - Introduction à DevOps mobile
+  - Introduction au centre d'applications de Visual Studio
+  - Gestion des ensembles de périphériques cibles mobiles et des groupes de distribution
+  - Gestion des ensembles de périphériques de test UI cibles
+  - Fourniture des périphériques de test pour le déploiement
+  - Création de groupes de distribution publics et privés
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre en œuvre une stratégie DevOps mobile

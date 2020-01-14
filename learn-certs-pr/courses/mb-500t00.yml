@@ -1,0 +1,96 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
+metadata:
+  title: 'Formation MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'Formation MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  Formation de développeur. Les Microsoft Dynamics 365 Finance and Operations Apps Developers mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise. Les candidats fournissent des solutions pleinement réalisées en utilisant des patrons de codage d’application standardisés, des fonctionnalités extensibles et des intégrations externes.
+
+  #### Profil de l’audience
+  
+  Microsoft Dynamics 365 Finance and Operations Apps Developers   
+
+outlineSection: |-
+  ### Présentation de la formation
+  
+  ### Module 1&#58; Aperçu et architecture
+  
+  Décrire l’écosystème de Dynamics 365 et les principaux composants du logiciel Dynamics 365 for Finance and Operations (FO), décrire l’architecture de D365FO, décrire les considérations de conception et de développement pertinentes à D365FO
+  
+  #### Laboratoire&#58; Configuration de l’environnement de développement et création de projet/modèle
+  
+  ### Module 2&#58; Outils de développement
+
+  Gérer les mises en œuvre du système à l’aide des services de cycle de vie, personnaliser D365FO à l’aide de Visual Studio, gérer le code source et les artefacts à l’aide du contrôle de version, travailler avec d'autres outils de développement pour compléter les tâches
+  
+  #### Laboratoire&#58; Contrôle de la source à l’aide de DevOps
+
+  ### Module 3&#58; Conception de la solution
+  Déterminer la pile requise des composants de l’application et l’architecture du serveur, mettre en œuvre l’application de gestion du cycle de vie, concevoir une solution pour D365FO
+
+  #### Laboratoire&#58; Mise au point de la structure de données
+  
+  ### Module 4&#58; Éléments AOT
+  
+  Créer des formulaires, créer et étendre des tableaux, créer des types de données étendues (EDT) et des énumérations, créer des classes et étendre des éléments AOT
+  
+  #### Laboratoire&#58; Extension et développement des métadonnées
+  
+  ### Module 5&#58; Développement et essais du code
+  
+  Mettre au point le code X++, mettre au point le code axé sur l'objet, étendre la fonctionnalité de finances et des opérations de D365, décrire le cadre et les outils de l’essai, effectuer des tests d’unités
+  
+  #### Laboratoire&#58; Extension et développement de code
+  
+  ### Module 6&#58; Migration des données
+  
+  Décrire les outils et méthodologies de la migration, planifier une stratégie de migration, préparer les données pour la migration et faire migrer les données
+
+  #### Laboratoire&#58; Exporter/importer des données à l’aide de l’entité de données
+  
+  #### Laboratoire&#58; Transfert récurrent des données
+  
+  ### Module 7&#58; Cadres
+  
+  Mettre en œuvre la fonctionnalité de D365 FO
+  
+  #### Laboratoire&#58; Cadre SysExtension
+  
+  ### Module 8&#58; Intégration
+  
+  Identifier les modèles et les scénarios d'intégration des données, mettre en œuvre les concepts et les solutions d’intégration des données, mettre en œuvre les intégrations récurrentes, intégrer D365FO à Microsoft Azure, dépanner les erreurs d'intégration, mettre en œuvre le progiciel API de gestion des données
+  
+  #### Laboratoire&#58; Intégration OData
+
+  #### Laboratoire&#58; Intégration Logic App
+  
+  #### Laboratoire&#58; Faire appel à un service web externe
+
+  ### Module 9&#58; Génération de rapports
+  
+  Décrire les capacités et limitations des outils de génération de rapports dans D365FO, concevoir, créer et réviser les rapports Dynamics, concevoir, créer et réviser
+  les espaces de travail Dynamics, concevoir, créer et réviser les sources de données connectées aux magasins de données externes à D365FO
+
+  #### Laboratoire&#58; Génération de rapports Power BI à partir de F&O
+  
+  ### Module 10&#58; Sécurité et performance
+  
+  Décrire et mettre en œuvre les outils de performance et les outils de surveillance de l’environnement LCS, mettre en œuvre les politiques et les exigences de sécurité basées sur les rôles, appliquer les techniques fondamentales d’optimisation de la performance, optimiser la performance pour les processus en lots, optimiser la performance de l’interface utilisateur, améliorer la performance d’intégration, optimiser la performance des rapports
+  
+  #### Laboratoire&#58; Fonctionnalité Async et Sandbox

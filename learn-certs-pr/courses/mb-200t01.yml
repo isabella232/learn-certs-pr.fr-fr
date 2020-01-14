@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 'Dynamics 365: Applications de Power Platform'
+metadata:
+  title: 'Formation MB-200T01-A: Dynamics 365: Applications de Power Platform'
+  description: 'Formation MB-200T01-A: Dynamics 365: Applications de Power Platform'
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifier les composants de la plateforme.
+- skill: Comprendre les options de l’administrateur.
+- skill: Modéliser les données efficacement.
+- skill: Mettre au point une application axée sur un modèle de base sur Power Platform.
+- skill: Mettre au point une application de toile de base sur Power Platform.
+- skill: Gérer l’accès de l’utilisateur aux données et aux fonctionnalités à l’aide de la sécurité.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques. Cette formation donne un aperçu approfondi des capacités de Microsoft Dynamics 365 et de Power Platform et fournit une base pour d'autres offres de formation de Microsoft Dynamics 365 et Power Platform.
+
+  Dans cette formation, nos experts internationalement reconnus partagent des connaissances de bases avec les étudiants pour les préparer à mettre au point des applications sur Power Platform.
+
+  #### Profil de l’audience
+  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé un des chemins de certification d'administrateur de charges de travail Microsoft 365.
+outlineSection: |-
+  ### Module 1&#58;Aperçu de Platform
+  Dans ce module, les étudiants découvriront les bases de Power Platform.  Ils visiteront les différents portails et options de l'administrateur et installeront également des applications.
+  #### Leçons
+  - Aperçu
+  - Configurer les environnements de Power Platform
+  - Créer des applications
+  - Découvrir et planifier
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'identifier les composants communs de la plateforme et leurs utilisations
+
+
+  ### Module 2&#58; Modélisation des données
+  Dans ce module, les étudiants apprendront à modéliser les données efficacement à l’aide des entités, attributs et relations de la plateforme.
+  #### Leçons
+  - Bases des modèles de données
+  - Relations
+  - Autres options de l’entité
+  - Autres options du site
+  - Internationalisation
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - créer et d'utiliser les relations et les entités
+
+
+  ### Module 3&#58; Applications axées sur les modèles
+  Dans ce module, les étudiants découvriront des applications axées sur les modèles et la façon de les configurer et des utiliser.
+  #### Leçons
+  - Configurer des applications axées sur les modèles
+  - Configurer des formulaires axés sur les modèles
+  - Configurer des vues
+  - Configurer des graphiques axés sur les modèles
+  - Configurer des tableaux de bord axés sur les modèles
+  - Configurer des rapports
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - créer et de modifier des formulaires, des vues, des tableaux de bord et d'autres composants de l’expérience utilisateur
+
+
+  ### Module 4&#58;Applications de toile
+  Dans ce module, les étudiants apprendront à créer et utiliser les applications de toile et apprendront également la différence entre les applications de toile et les applications axées sur les modèles.
+  #### Leçons
+  - Bases fondamentales des applications
+  - Travailler avec des données et des services
+  - Personnaliser l’expérience utilisateur
+  - Intégration à des applications axées sur les modèles
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - créer une application de toile
+  - travailler avec les données communes (CDS)
+
+
+  ### Module 5&#58;Sécurité
+  Dans ce module, les étudiants découvriront comment le modèle de sécurité de la plateforme gère les expériences et accès de l’utilisateur aux données et aux fonctionnalités.
+  #### Leçons
+  - Aperçu sur la sécurité
+  - Unités commerciales
+  - Gérer des rôles de sécurité
+  - Gérer des équipes
+  - Configurer la sécurité hiérarchique
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - créer et d'utiliser des unités commerciales
+  - créer, de modifier et d'utiliser des rôles de sécurité

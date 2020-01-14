@@ -1,0 +1,60 @@
+### YamlMime:Course
+title: Configurer Dynamics 365 pour le service sur site
+metadata:
+  title: 'Formation MB-240T01-A: Configurer Dynamics 365 pour le service sur site'
+  description: 'Formation MB-240T01-A: Configurer Dynamics 365 pour le service sur site'
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifier les composants clés impliqués dans la mises en œuvre du service sur site.
+- skill: Définir les produits et les services qui seront livrés aux clients.
+- skill: Déterminer les options de prix à utiliser dans des scénarios spécifiques.
+- skill: Déterminer les ressources requises.
+- skill: Configurer le système pour soutenir les besoins en matière de ressources.
+- skill: Définir les problèmes couramment rapportés et les modéliser pour une consommation plus facile.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 pour le service sur site aide les organisations à mieux se positionner dans le marché en leur fournissant une gamme d’outils pour identifier et programmer les ressources et gérer les charges de travail pour les travailleurs mobiles. Cette formation équipera les étudiants avec les compétences nécessaires pour identifier et configurer les composants essentiels qui sont utilisés pour fournir les services sur site et les solutions mobiles. Les sujets clés comprennent l’identification des considérations organisationnelles qui mèneront aux décisions de configuration et aux aspects de configuration communs. 
+
+  Cette formation aidera les étudiants à mieux comprendre le contexte général et les objectifs finaux axés sur les mises en œuvre qui aident à concevoir des solutions plus efficaces qui s'alignent avec les objectifs des clients et de l'organisation.
+prerequisitesSection: |-
+  Compréhension de base des caractéristiques, des fonctionnalités et de la navigation de Dynamics 365.
+outlineSection: |-
+  ### Module 1&#58; Configurer le service sur site
+  #### Leçons
+  - Introduction au service sur site
+  - Définir les produits et les services
+  - Définir les codes de taxe
+
+
+  ### Module 2&#58; Configuration de la programmation des ressources
+  #### Leçons
+  - Informations sur le mappage et l’emplacement
+  - Configurer les composants des ressources
+  - Définir les préférences du compte
+
+
+  ### Module 3&#58; Définir et configurer les ressources qui peuvent être réservées
+  #### Leçons
+  - Définir les ressources qui peuvent être réservées
+  - Pools de ressources, équipes et facilités
+
+
+  ### Module 4&#58; Travailler avec les incidents et les configurer
+  #### Leçons
+  - Créer des incidents
+  - Utiliser des tâches de service
+  - Définir des produits, des services et des compétences

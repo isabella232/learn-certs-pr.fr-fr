@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Mettre au point des solutions de calcul de l’infrastructure en tant que service Azure
+metadata:
+  title: 'Formation AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
+  description: 'Formation AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Au cours de cette formation, les étudiants gagneront des connaissances et des compétences nécessaires à la mise en œuvre des services IaaS Azure et des fonctionnalités de leurs solutions de mise au point. Cette formation couvre la fourniture de machines virtuelles, l’utilisation du service de lots pour déployer/maintenir des ressources et la façon de créer des solutions conteneurisées en utilisant le services Kubernetes d’Azure.
+
+  #### Profil de l’audience
+  - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
+outlineSection: |-
+  ### Module 1&#58; Mise en œuvre de solutions qui utilisent des machines virtuelles
+  Les étudiants apprendront comment planifier correctement le déploiement des VM. Elle couvre la création de VM en utilisant le portail Azure, PowerShell et le code. Elle couvre également la création et l’utilisation de modèles de gestionnaires de ressources Azure (ARM) pour des déploiements reproductibles et la façon d'utiliser Azure Disk Encryption pour sécuriser les informations sur les VM.
+  #### Leçons
+  - Fourniture des VM
+  - Création de modèles ARM
+  - Configuration de Azure Disk Encryption pour les VM
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’apprendre à créer et déployer des machines virtuelles en utilisant le portail Azure, PowerShell et le code.
+  - d’apprendre à créer et déployer ARM en utilisant le portail Azure et Visual Studio.
+  - de comprendre les différentes options de cryptage et d'apprendre à crypter de nouveaux déploiement et des déploiements existants.
+
+
+  ### Module 2&#58; Mise en œuvre de travaux par lots à l’aide des services de Azure Batch
+  Azure Batch crée et gère un groupement de nœuds de calcul (machines virtuelles), installe les applications que vous souhaitez exécuter et planifie les tâches à exécuter sur les nœuds.
+  #### Leçons
+  - Aperçu de Azure Batch
+  - Exécution d'un travail par lot en utilisant Azure CLI et le portail Azure
+  - Exécution de travaux par lots en utilisant un code
+  - Gestion de travaux par lots à l’aide de Batch Service API
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre comment le service Azure Batch fonctionne.
+  - d'apprendre à créer et exécuter des travaux par lot en utilisant Azure CLI.
+  - d'apprendre à créer et exécuter des travaux par lot en utilisant le code.
+  - d'apprendre à utiliser Azure Batch Service API pour gérer les tâches.
+
+
+  ### Module 3&#58; Création de solutions conteneurisées
+  Vous pouvez construire et exécuter des applications modernes, portables, basées sur des microservices qui tirent parti de l’orchestration de Kubernetes et de la gestion de la disponibilité des composants de ces applications. Kubernetes prend en charge les applications apatrides et en couche au fur et à mesure que les équipes progressent dans l’adoption des applications basées sur les microservices.
+  #### Leçons
+  - Création d'un cluster du service Azure Managed Kubernetes (AKS)
+  - Création d’images de conteneurs pour les solutions
+  - Publication d'une image dans le registre Azure Container Registry
+  - Exécution de conteneurs à l’aide de l'instance de conteneurs Azure ou AKS
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'apprendre les concepts de base de AKS
+  - d'apprendre à déployer des clusters AKS
+  - Publication d'une image dans le registre Azure Container Registry
+  - de découvrir les instances de conteneurs Azure et la façon de les déployer

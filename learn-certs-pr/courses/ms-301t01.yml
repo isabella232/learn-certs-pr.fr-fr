@@ -1,0 +1,105 @@
+### YamlMime:Course
+title: Mettre en œuvre l’infrastructure SharePoint 2019
+metadata:
+  title: 'Formation MS-301T01-A: Mettre en œuvre l’infrastructure SharePoint 2019'
+  description: 'Formation MS-301T01-A: Mettre en œuvre l’infrastructure SharePoint 2019'
+uid: course.ms-301t01
+courseNumber: 'MS-301T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire la fonctionnalité MinRole de SharePoint 2019
+- skill: Décrire comment installer et configurer SharePoint 2019
+- skill: Décrire comment mettre en œuvre une haute disponibilité pour SharePoint
+- skill: Décrire l’infrastructure d'authentification dans SharePoint 2019
+- skill: Expliquer les concepts de l’identité fédérée
+- skill: Décrire comment créer des regroupements de sites
+- skill: Décrire comment planifier l’autorisation dans SharePoint 2019
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 est conçu pour répondre aux exigences des styles de vie modernes. Il fournit aux utilisateurs de nouvelles expériences modernes, à la fois intuitives et familières dans SharePoint Online. Vous apprendrez dans cette formation à déployer et configurer SharePoint Server 2019. Nous discuterons également de la planification et de la configuration de l’authentification sur site et la sécurité de SharePoint pour protéger l’environnement. Vous apprendrez également à gérer le contenu de SharePoint pour l'aligner à l’architecture informatique moderne. 
+  
+  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation. 
+  
+  C’est la première d'une série de quatre formations pour l’administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-301&#58; Déployer SharePoint Server hybride.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service. 
+  
+  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams. 
+  
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir de l’expérience avec Windows PowerShell
+  - Avoir une compréhension de base de la gestion d’un SQL Server
+  - Avoir une compréhension de base de la mise en réseau, notamment le DNS
+  - Avoir une connaissance pratique de l’administration des serveurs Windows
+  - Avoir une compréhension de base d’Active Directory et Azure AD
+  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)
+outlineSection: |-
+  ### Module 1&#58; Infrastructure SharePoint
+  Ce module concerne l'infrastructure fondamentale de SharePoint. Il décrit les composants d’une batterie de serveurs SharePoint et discute de la manière d’installer et de configurer une batterie de serveurs SharePoint.
+
+  #### Leçons
+  - Planifier une batterie de serveurs SharePoint
+  - SharePoint 2019
+  - Installer et gérer une batterie de serveurs SharePoint
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la fonctionnalité MinRole de SharePoint 2019
+  - de décrire comment installer et configurer SharePoint 2019
+  - de décrire comment mettre en œuvre une haute disponibilité pour SharePoint
+  - e planifier la sauvegarde et la restauration d’une batterie de serveurs
+
+
+  ### Module 2&#58; Authentification et sécurité de SharePoint
+  Ce module concerne l’authentification et la sécurité de SharePoint. Il introduit différentes méthodes d’authentification dans SharePoint 2019.
+
+  #### Leçons
+  - Planification d'une authentification
+  - Configurer l'authentification fédérée.
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’infrastructure d'authentification dans SharePoint 2019
+  - de décrire l’authentification NTLM et Kerberos
+  - de décrire l’authentification serveur-à-serveur
+  - d'expliquer les concepts de l’identité fédérée
+
+
+  ### Module 3&#58; Configurer le contenu de SharePoint
+  Ce module concerne la gestion du contenu de SharePoint. Il discute de la structure du contenu dans SharePoint et fournit des détails sur les autorisations et l’accès au contenu dans SharePoint.
+
+  #### Leçons
+  - Aperçu de la structure du contenu de SharePoint
+  - Gérer l’accès au contenu
+  - Gérer les regroupements de sites
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'expliquer les concepts de regroupement de sites
+  - de décrire comment créer des regroupements de sites
+  - de décrire comment planifier l’autorisation dans SharePoint 2019
+  - de décrire comment gérer des niveaux d’autorisations dans SharePoint 2019
+  - de décrire comment gérer les groupes SharePoint dans SharePoint 2019
+
+
+  ### Module 4&#58; Conclusion de la formation
+
+  #### Laboratoire&#58; Créer et configurer des applications web

@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: Configurer et utiliser la fabrication en processus dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-320T03-A: Configurer et utiliser la fabrication en processus dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-320T03-A: Configurer et utiliser la fabrication en processus dans Dynamics 365 for Finance and Operations'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour gérer les opérations liées de manière plus intelligente en sélectionnant les processus de fabrication les plus adaptés, en améliorant les procédures opérationnelles, en simplifiant la gestion de ressources, en accélérant la livraison du produit et en rehaussant la qualité et la satisfaction du client.
+  Cette formation discute de la manière de configurer et d'utiliser la fabrication en processus dans Dynamics 365 for Finance and Operations.
+
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Débuter avec la fabrication en processus
+  Ce sujet explique comment débuter avec la fabrication en processus dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Comprendre la fabrication en processus
+  - Comprendre la gestion des formules
+  - Comprendre les coproduits et les sous-produits
+  - Configurer les fournisseurs approuvés
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris ce qui suit&#58;
+  - Comprendre la fabrication en processus
+  - Comprendre la gestion des formules
+  - Comprendre les coproduits et les sous-produits
+  - Comprendre les fournisseurs approuvés
+
+
+  ### Module 2&#58; Identifier et configurer les attributs des lots pour la fabrication en processus
+  Ce sujet explique comment configurer les attributs des lots dans Finance and Operations
+
+  #### Leçons
+  - Introduction
+  - Identifier et configurer les attributs des lots
+  - Créer et configurer des articles au poids
+  - Définir une gestion de puissance
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - Comprendre les attributs des lots
+  - Identifier et configurer les attributs des lots
+  - Comprendre des processus de contrôle de lots et de grandes quantités
+  - Configurer le remaniement de lot
+
+
+  ### Module 3&#58; Configurer la tarification des commodités et la conformité des produits
+  Ce sujet explique comment travailler avec la tarification des commodités et la conformité dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Configurer la tarification des commodités
+  - Configurer la conformité des produits
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - Configurer la tarification des commodités
+  - Configurer la conformité des produits
+
+
+  ### Module 4&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+
+  Les étudiants auront terminé la formation.

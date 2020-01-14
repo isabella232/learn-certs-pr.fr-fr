@@ -1,0 +1,177 @@
+### YamlMime:Course
+title: Concevoir une solution de données Azure
+metadata:
+  title: 'Formation DP-201T01-A: Concevoir une solution de données Azure'
+  description: 'Formation DP-201T01-A: Concevoir une solution de données Azure'
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+  Dans cette formation, les étudiants concevront différentes technologies de plateformes de données dans des solutions qui sont alignées aux exigences des entreprises et techniques. Cela peut inclure des scénarios de données sur site, dans le cloud et hybrides qui incluent des données relationnelles, non SQL ou d’entrepôts de données. Ils découvriront également comment concevoir des architectures de données en utilisant une gamme de technologies pour la diffusion et la mise en lots de données. Les étudiants découvriront également comment concevoir la sécurité des données, ce qui inclut l’accès aux données, les politiques de données et les normes. Ils concevront également des solutions de données Azure, ce qui inclut l’optimisation, la disponibilité et la reprise après sinistre de big data, le traitement de lots et la diffusions de solutions de données.
+
+  #### Profil de l’audience
+  L'audience de cette formation sont des professionnels des données, des architectes en données et des professionnels des solutions décisionnelles qui souhaitent découvrir les technologies de plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est des personnes qui mettent au point des applications qui fournissent du contenu à partir des technologies des plateformes de données qui existent sur Microsoft Azure.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Mise en œuvre d'une solution de données Azure
+outlineSection: |-
+  ### Module 1&#58; Considérations d'une architecture de plateforme de données
+  Dans ce module, les étudiants découvriront comment concevoir et construire des solutions sécurisées, évolutives et performantes dans Azure en examinant les principes de base qui se trouvent dans toute bonne architecture. Ils découvriront comment l’utilisation de ces principes clés dans l’architecture, peu importe le choix de la technologie, peut vous aider à concevoir, construire et continuellement améliorer l’architecture pour le bénéfice d'une organisation.
+  #### Leçons
+  - Principes de base de la création d'architectures
+  - Conception avec la sécurité à l’esprit
+  - Performance et évolutivité
+  - Conception prévue pour la disponibilité et la récupérabilité
+  - Conception pour l’efficacité et les opérations
+  - Étude de cas
+
+
+  #### Laboratoire&#58; Étude de cas
+  - Conception avec la sécurité à l’esprit
+  - Prise en compte de la performance et de l’évolutivité
+  - Conception prévue pour la disponibilité et la récupérabilité
+  - Conception pour l’efficacité et les opérations
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Conception avec la sécurité à l’esprit
+  - Prise en compte de la performance et de l’évolutivité
+  - Conception prévue pour la disponibilité et la récupérabilité
+  - Conception pour l’efficacité et les opérations
+
+
+  ### Module 2&#58; Architectures de référence du traitement par lots Azure
+  Dans ce module, les étudiants découvriront les schémas de référence en matière de conception et d’architecture pour la gestion du traitement de données en lots. Les étudiants seront exposés à cette gestion avec le mouvement des données de systèmes sur site vers un entrepôt de données dans le cloud et de la façon dont ils peuvent être automatisés. Les étudiants seront également exposés à une architecture en IA et à la façon dont la plateforme de données peut être intégrée à une solution d’IA.
+  #### Leçons
+  - Architectures lambda d’un point de vue du mode lot
+  - Conception d’une solution décisionnelle d’entreprise dans Azure.
+  - Automatisation de solutions décisionnelles d’entreprise dans Azure
+  - Création d'un bot de conversation au niveau de l’entreprise dans Azure
+
+
+  #### Laboratoire&#58; Conception d'un bot de conversation au niveau de l’entreprise dans Azure
+  - Conception d’une solution décisionnelle d’entreprise dans Azure.
+  - Automatisation d’une solution décisionnelle d’entreprise dans Azure.
+  - Automatisation d’une solution décisionnelle d’entreprise dans Azure.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les principes de base de la création d’architectures
+  - de décrire des architectures lambda d’un point de vue du mode lot
+  - Conception d’une solution décisionnelle d’entreprise dans Azure
+  - Automatisation de solutions décisionnelles d’entreprise dans Azure
+  - Création d'un bot de conversation au niveau de l’entreprise dans Azure
+
+
+
+  ### Module 3&#58; Architectures de référence en temps réel Azure
+  Dans ce module, les étudiants découvriront les schémas de référence en matière de conception et d’architecture pour la gestion de la diffusion des données. Ils découvriront également comment la diffusion des données peut être ingérée par des hubs d’événement et Stream Analytics pour fournir une analyse en temps réel des données. Ils étudieront également une architecture de la science des données qui diffuse des données dans Azure Databricks pour procéder à une analyse des tendances. Ils apprendront enfin comment une architecture de l’Internet des objets (IoT) requerra des technologies de plateformes de données pour stocker des données.
+  #### Leçons
+  - Description d'architectures lambda pour un point de vue en temps réel
+  - Création d'un pipeline de traitement de flux avec Azure Stream Analytics
+  - Conception d'un pipeline de traitement des flux avec Azure Databricks
+  - Création d’une architecture de référence Azure IoT
+
+
+  #### Laboratoire&#58; Architectures de référence en temps réel Azure
+  - Création d'un pipeline de traitement de flux avec Azure Stream Analytics
+  - Conception d'un pipeline de traitement des flux avec Azure Databricks
+  - Création d’une architecture de référence Azure IoT
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire des architectures lambda pour un point de vue du mode en temps réel
+  - Création d'un pipeline de traitement de flux avec Azure Stream Analytics
+  - Conception d'un pipeline de traitement des flux avec Azure Databricks
+  - Création d’une architecture de référence Azure IoT
+
+
+  ### Module 4&#58; Considérations de la conception de la sécurité d’une plateforme de données
+  Dans ce module, les étudiants apprendront comment intégrer la sécurité à une conception d’architecture et découvriront les points décisionnels clés dans Azure fournis pour aider à créer un environnement sécurisé grâce à toutes les couches de l’architecture.
+  #### Leçons
+  - Défense dans l’approche en profondeur de la sécurité
+  - Gestion des identités
+  - Protection des infrastructures
+  - Utilisation du cryptage
+  - Protection au niveau du réseau
+  - Sécurité des applications
+
+
+  #### Laboratoire&#58; Considérations de conception de la sécurité de la plateforme de données
+  - Défense dans l’approche en profondeur de la sécurité
+  - Protection des identités
+
+  Après avoir terminé ce module, les étudiants comprendront les éléments suivants&#58;
+  - Défense dans l’approche en profondeur de la sécurité
+  - Gestion des identités
+  - Protection des infrastructures
+  - Utilisation du cryptage
+  - Protection au niveau du réseau
+  - Sécurité des applicationss
+
+
+  ### Module 5&#58; Conception pour la résilience et l’évolution
+  Dans ce module, les étudiants découvriront les services d’évolution pour gérer la charge. Ils apprendront en quoi l’identification des goulots d’étranglement du réseau et l'optimisation des performances de stockage sont importantes afin de s’assurer que les utilisateurs ont la meilleure expérience. Ils découvriront également comment gérer les défaillances de l’infrastructure et du service, récupérer d'une perte de données et récupérer après un sinistre en concevant la disponibilité et la récupérabilité dans l’architecture.
+  #### Leçons
+  - Ajustement de la capacité de la charge de travail grâce à l’évolutivité
+  - Optimisation des performances du réseau
+  - Conception pour des performances de stockage et de bases de données optimisées
+  - Identification des goulots d’étranglement des performances
+  - Conception d'une solution hautement disponible
+  - Inclusion de la reprise après sinistre dans les architectures
+  - Conception de stratégies de sauvegarde et de restauration
+
+
+  #### Laboratoire&#58; Conception pour la résilience et l’évolution
+  - Ajustement de la capacité de la charge de travail grâce à l’évolutivité
+  - Conception pour des performances de stockage et de bases de données optimisées
+  - Conception d'une solution hautement disponible
+  - Inclusion de la reprise après sinistre dans les architectures
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Ajustement de la capacité de la charge de travail grâce à l’évolutivité
+  - Optimisation des performances du réseau
+  - Conception pour des performances de stockage et de bases de données optimisées
+  - Identification des goulots d’étranglement des performances
+  - Conception d'une solution hautement disponible
+  - Inclusion de la reprise après sinistre dans les architectures
+  - Conception de stratégies de sauvegarde et de restauration
+
+
+  ### Module 6&#58; Conception de l’efficacité et des opérations
+  Dans ce module, les étudiants apprendront à concevoir une architecture Azure qui est efficace du point de vue opérationnel et minimise les coûts en réduisant les frais et ils comprendront comment concevoir des architectures qui éliminent les déchets et lui donnent une importante visibilité sur ce qui est utilisé dans l’environnement Azure de l’organisation.
+  #### Leçons
+  - Maximisation de l’efficacité de votre environnement de cloud
+  - Utilisation de la surveillance et de l’analyse pour obtenir des informations opérationnelles
+  - Utilisation de l’automatisation pour réduire les efforts et les erreurs
+
+
+  #### Laboratoire&#58; Conception de l’efficacité et des opérations
+  - Maximisation de l’efficacité de votre environnement de cloud
+  - Utilisation de la surveillance et de l’analyse pour obtenir des informations opérationnelles
+  - Utilisation de l’automatisation pour réduire les efforts et les erreurs
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Maximisation de l’efficacité de votre environnement de cloud
+  - Utilisation de la surveillance et de l’analyse pour obtenir des informations opérationnelles
+  - Utilisation de l’automatisation pour réduire les efforts et les erreurs

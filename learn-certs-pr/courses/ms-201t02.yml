@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: "Gestion de la sécurité, de l'hygiène et de la conformité des messages"
+metadata:
+  title: "Formation MS-201T02-A: Gestion de la sécurité, de l'hygiène et de la conformité des messages"
+  description: "Formation MS-201T02-A: Gestion de la sécurité, de l'hygiène et de la conformité des messages"
+uid: course.ms-201t02
+courseNumber: 'MS-201T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifier l’hygiène des messages
+- skill: Gérer les politiques de logiciel antimaliciel et antispam
+- skill: Gérer la protection avancée contre les menaces
+- skill: Planifier la conformité de la messagerie dans le SCC
+- skill: Planifier la conformité de la messagerie dans Exchange
+- skill: Gérer l’archivage et l’audit d’Exchange Online
+- skill: Gérer la recherche de contenu
+- skill: Gérer les autorisations d'administrateurs basées sur les rôles
+- skill: Gérer les autorisations des utilisateurs basées sur les rôles
+- skill: Planifier la configuration d’Exchange - les autorisations de fractionnement RBAC et AD
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  Dans cette formation, vous découvrirez les différentes configurations des services de sécurité et de conformité liées à la messagerie et les paramètres avec Exchange Server et Exchange Online. Vous commencerez par examiner les bases fondamentales de l’hygiène des messages avec la protection Exchange Online et la protection avancée contre les menaces Exchange, ainsi que le filtrage de la connexion et du spam avec Exchange. Vous examinerez ensuite les solutions de conformité de la messagerie, telles que les politiques de conservation et de prévention de la perte des données, ainsi que les mécanismes d’audit des enquêtes du journal et de recherche eDiscovery à partir de la perspective de conformité de la messagerie. Vous apprendrez à planifier un déploiement adéquat et à effectuer le processus de mise en œuvre de base pour chaque solution. Vous terminerez la formation en examinant la manière de gérer les permissions attribuées à des rôles utilisateur et administrateur.
+
+  #### Profil de l’audience
+  L'administrateur de messagerie déploie, configure, gère, surveille et dépanne les destinataires, les autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud. Ses responsabilités englobent la gestion de l’hygiène des messages, l’infrastructure de la messagerie et la configuration hybride et la migration. L'administrateur de messagerie met également en œuvre et gère la récupération après sinistre, la haute disponibilité et l’accès des clients. Pour mettre en œuvre une topologie hybride sécurisée qui réponde aux besoins professionnels d’une organisation moderne, l’administrateur de messagerie doit collaborer avec l’administrateur de la sécurité et l’administrateur d’entreprise Microsoft 365. L'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
+prerequisitesSection: |-
+  - Une compréhension parfaite du DNS.
+  - Une compréhension de base de la messagerie dans le cadre d’Exchange Server ou d’Exchange Online.
+  - Une compréhension de base d’Active Directory et de l’infrastructure du contrôleur de domaines ainsi que de la gestion des identités.
+  - Une expérience pratique de base des services Microsoft 365 et de la synchronisation des répertoires.
+  - Au moins cinq ans d’expérience en informatique générale.
+outlineSection: |-
+  ### Module 1&#58; Gérer l’hygiène des messages
+  #### Leçons
+  - Planifier l’hygiène des messages
+  - Gérer les politiques de logiciel antimaliciel et antispam
+  - Gérer la protection avancée contre les menaces
+
+
+  ### Module 2&#58; Gérer la conformité
+  #### Leçons
+  - Conformité de la messagerie dans le SCC
+  - Conformité de la messagerie dans Exchange
+  - Gérer l’archivage et l’audit d’Exchange Online
+  - Gérer la recherche de contenu
+
+
+  ### Module 3&#58; Autorisations basées sur les rôles
+  #### Leçons
+  - Gérer des rôles d’administrateur
+  - Gérer des rôles d’utilisateur
+  - Configuration d’Exchange - Les autorisations de fractionnement RBAC et AD
+
+
+  ### Module 4&#58; Laboratoire - Gérer l’hygiène des messages
+
+  #### Laboratoire&#58; Gérer l’hygiène des messages
+  - Exercice 1&#58; Gérer l'hygiène des messages dans une solution sur site
+  - Exercice 2&#58; Gérer l'hygiène des messages dans une solution dans le cloud
+  - Exercice 3&#58; Gérer l'hygiène des messages dans une solution hybride

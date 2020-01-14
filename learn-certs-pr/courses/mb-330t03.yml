@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Configurer et utiliser la gestion des entrepôts et du transport dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-330T03-A: Configurer et utiliser la gestion des entrepôts et du transport dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-330T03-A: Configurer et utiliser la gestion des entrepôts et du transport dans Dynamics 365 for Finance and Operations'
+uid: course.mb-330t03
+courseNumber: 'MB-330T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour automatiser et rationaliser leur chaîne logistique en modernisant la logistique d’entreprise, en délivrant des réponses rapides au client, en anticipant avec des indications prédictives, en rationalisant l’approvisionnement et en unifiant les processus des ventes à l'accomplissement. Cette formation discute de la manière de configurer et d'utiliser la gestion des entrepôts et des transports dans Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Configurer la gestion des entrepôts
+  Le module de gestion des entrepôts pour Dynamics 365 for Finance and Operations aide à gérer les processus de l’entrepôt dans la fabrication, la distribution et les sociétés de vente au détail.
+
+  Il comprend une vaste gamme de fonctionnalités pour prendre en charge les installations d’un entrepôt à un niveau optimal, à tout moment. La gestion des entrepôts est complètement intégrée aux autres processus métier dans Finance and Operations, tels que le transport, la fabrication, le contrôle de la qualité, les achats, les transferts, le ventes et les retours.
+  #### Leçons
+  - Introduction
+  - Configurer la gestion des entrepôts
+  - Comprendre les hiérarchies de réservation
+  - Directives liées à l’emplacement et modèles de travail
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à&#58;
+  - configurer les paramètres de gestion des entrepôts
+  - créer des entrepôts et des emplacements
+  - configurer les pools de travail, les zones, les formats d’emplacements et les profils
+  - créer les hiérarchies de réservation
+  - configurer les directives d’emplacement
+  - configurer des vagues
+  - configurer des charges
+  - configurer les statuts d’inventaire
+  - configurer le compte des cycles
+  - configurer l’emballage et la mise en conteneurs
+  - définir et générer des étiquettes
+
+
+  ### Module 2&#58; Configurer des périphériques mobiles pour la gestion des entrepôts
+  Ce sujet explique comment configurer des périphériques mobiles dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Configurer des périphériques mobiles
+  - Laboratoire pratique
+  - Résumé du module
+
+
+  Dans ce module les étudiants ont appris à&#58;
+  - créer des nouvelles classes de travail
+  - Configurer des périphériques mobiles
+  - configurer des articles de menu pour les activités et les demandes
+  - configurer des articles de menu pour créer du travail pour un autre travailleur ou processus
+  - configurer des articles de menu pour traiter le travail existant
+  - définir la mise en page des menus des périphériques mobiles
+  - configurer le look et le caractère de base des périphériques mobiles
+  - créer des utilisateurs de périphériques mobiles
+  - préparer la mise en page des étiquettes et définir des paramètres pour l’impression des étiquettes
+
+
+  ### Module 3&#58; Utiliser la gestion des entrepôts
+  Il faut installer l’application avant d’utiliser le périphérique mobile pour la gestion des entrepôts. Ce sujet explique comment utiliser les processus de gestion des entrepôts dans Finance and Operations
+  #### Leçons
+  - Introduction
+  - Configurer le périphérique mobile
+  - Les opérations entrantes
+  - Le comptage de cycles
+  - Les transferts et le réapprovisionnement
+  - Les opérations sortantes
+  - Choix en clusters
+  - Emballage et mise en conteneurs
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à effectuer&#58;
+  - Les opérations entrantes
+  - Les opérations sortantes
+  - Choix en clusters
+  - Emballage et mise en conteneurs
+  - Le comptage de cycles
+  - Les transferts et le réapprovisionnement
+
+
+  ### Module 4&#58; Configurer la gestion des transports
+  Ce module donne un aperçu de la fonctionnalité de gestion des transports dans Microsoft Dynamics 365 for Finance and Operations et enseigne à configurer et utiliser la gestion des transports.
+  #### Leçons
+  - Introduction
+  - Planification et configuration de la gestion des transports
+  - Procédures
+  - Routage et flux de transports
+  - Engins de transport et gestion du fret
+  - Laboratoires pratiques
+  - Résumé du module
+
+
+  Dans ce module, les étudiants ont appris à effectuer&#58;
+  - la planification des transports
+  - le routage
+  - la cotation
+  - Les opérations entrantes
+  - les processus de chargement
+  - Les opérations sortantes
+
+
+  ### Module 5&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+
+  Les étudiants auront terminé la formation.

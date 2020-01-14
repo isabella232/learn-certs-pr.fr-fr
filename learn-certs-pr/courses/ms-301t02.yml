@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Mettre en œuvre les applications de service SharePoint 2019
+metadata:
+  title: 'Formation MS-301T02-A: Mettre en œuvre les applications de service SharePoint 2019'
+  description: 'Formation MS-301T02-A: Mettre en œuvre les applications de service SharePoint 2019'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Approvisionner une instance d'application de service BDC.
+- skill: Configurer une application du service de magasin sécurisé.
+- skill: Décrire comment configurer Mes sites dans SharePoint 2019.
+- skill: Décrire comment configurer l’application du service de profil utilisateur.
+- skill: Décrire comment planifier l’importation et la synchronisation de SharePoint Active Directory.
+- skill: Expliquer comment créer et publier un type de contenu à travers les regroupements de sites.
+- skill: Identifier les capacités du service de métadonnées gérées.
+- skill: Configurer des ensembles de termes et des termes pour la navigation gérée.
+- skill: Décrire la fonction des composants de recherche.
+- skill: Expliquer comment planifier et configurer une topologie de recherche.
+- skill: Décrire comment configurer un centre de recherches.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 est conçu pour répondre aux exigences des styles de vie modernes. Il fournit aux utilisateurs de nouvelles expériences modernes, à la fois intuitives et familières dans SharePoint Online. Dans cette formation, vous apprendrez à planifier, configurer et gérer des applications de service dans SharePoint 2019, telles que les métadonnées gérées, les services de connectivité d’entreprise et la recherche d’entreprises.
+  
+  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation.
+  
+  C’est la deuxième formation d'une série de quatre formations pour l’administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-301&#58; Déployer SharePoint Server hybride.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
+  
+  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
+  
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir de l’expérience avec Windows PowerShell.
+  - Avoir une compréhension de base de la gestion d’un SQL Server.
+  - Avoir une compréhension de base de la mise en réseau, notamment le DNS.
+  - Avoir une connaissance pratique de l’administration des serveurs Windows.
+  - Avoir une compréhension de base d’Active Directory et Azure AD.
+  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS).
+outlineSection: |-
+  ### Module 1&#58; Applications de service SharePoint
+  Ce module concerne les applications et le flux de travail du service SharePoint. Il décrit comment approvisionner et gérer une application de services BCS et une application de services de profil utilisateur. Nous discutons spécifiquement de la manière d’importer et d’exporter des modèles BDC ainsi que d’importer les propriétés de l’utilisateur vers SharePoint.
+  #### Leçons
+  - Applications et flux de travail du service SharePoint.
+  - Planifier et configurer un service de connectivité d'entreprise (BCS) et un magasin sécurisé
+  - Planifier et configurer des profils utilisateur
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'expliquer les composants essentiels d’un modèle BDC.
+  - de décrire l’architecture de haut niveau d'un BCS.
+  - d'approvisionner une instance d'application de service BDC.
+  - de configurer une application du service de magasin sécurisé.
+  - d'expliquer l’objectif du service de magasin sécurisé.
+  - de gérer des autorisations pour une instance d'application de service BDC.
+  - de décrire comment configurer les propriétés du profil utilisateur.
+  - de décrire comment gérer les audiences dans SharePoint 2019.
+  - de décrire comment configurer Mes sites dans SharePoint 2019.
+  - de décrire comment configurer l’application du service de profil utilisateur.
+  - de décrire comment planifier l’importation et la synchronisation de SharePoint Active Directory.
+
+
+  ### Module 2&#58; Planifier et configurer les métadonnées gérées
+  Ce module comporte les fonctionnalités intégrales, telles que le service de métadonnées gérées, les types de contenu et les ensembles de termes, qui vous permettent de créer et de disséminer une architecture informatique. Il introduit l’objectif des types de contenu ainsi que les concepts du service des métadonnées gérées, notamment les taxonomies, les ensembles de termes et les mots clés de l’entreprise.
+
+  #### Leçons
+  - Gérer les types de contenu
+  - Métadonnées gérées
+  - Configurer le service de métadonnées gérées
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'expliquer la fonction et l’utilisation des types de contenu.
+  - de décrire les fonctions du service des métadonnées gérées.
+  - d'expliquer comment créer et publier un type de contenu à travers les regroupements de sites.
+  - d'identifier les capacités du service de métadonnées gérées.
+  - de créer et de gérer des groupes de termes, des ensembles de termes et des termes.
+  - de configurer des ensembles de termes et des termes pour la navigation gérée.
+
+
+  ### Module 3&#58; Planifier et configurer la recherche
+  Ce module concerne l’application du service de recherche d’entreprise. Il fournit les détails sur la planification et la configuration des sources de contenu, des programmes d'analyse et des règles d'analyse. Il discute également de la manière d'approvisionner la gestion de la recherche d’une gamme de composants de recherche, tels que les règles de requête, les types de résultats et les modèles d'affichage.
+  #### Leçons
+  - Planifier la recherche d’entreprise
+  - Configurer la recherche d’entreprise
+  - Gérer la recherche d’entreprise
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la fonction des composants de recherche.
+  - d'expliquer comment planifier et configurer une topologie de recherche.
+  - de décrire comment planifier et configurer les sources de contenu.
+  - de décrire comment planifier et configurer les programmes d’analyses.
+  - de décrire comment planifier et configurer les règles d'analyse.
+  - de décrire comment gérer le schéma de recherche.
+  - de décrire comment configurer le centre de recherches.
+  - d'expliquer l’utilisation et le déploiement des règles de requête.
+  - d'expliquer l’utilisation et le déploiement de la source de résultats.
+
+
+  ### Module 4&#58; Conclusion de la formation
+
+  #### Laboratoire&#58; Configurer la recherche d’entreprise

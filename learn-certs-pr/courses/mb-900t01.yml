@@ -1,0 +1,65 @@
+### YamlMime:Course
+title: Dynamics 365 Fundamentals
+metadata:
+  title: 'Formation MB-900T01-A: Dynamics 365 Fundamentals'
+  description: 'Formation MB-900T01-A: Dynamics 365 Fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifier les fonctionnalités et modules principaux de Dynamics 365
+- skill: Décrire les concepts du cloud
+- skill: Décrire le modèle de sécurité de Dynamics 365
+- skill: Expliquer l’octroi de licences et les considérations de déploiement
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365 est un outil polyvalent pour l’engagement client, les opérations unifiées, le marketing, la vente au détail et la gestion des talents. Cette formation familiarisera l’apprenant aux fonctionnalités et valeurs professionnelles de Dynamics 365. Cette formation couvrira les applications de Dynamics 365, la Power Platform, les concepts du cloud, le modèle de sécurité et les considérations d'octroi de licence.
+
+prerequisitesSection: |-
+  Une compréhension de base des principes informatiques et un intérêt à Dynamics 365.
+outlineSection: |-
+  ### Module 1&#58; Introduction aux applications d’entreprise
+  Ce module introduira tous les modules et fonctionnalités des applications d’entreprise en se concentrant sur l’engagement client, les opérations unifiées, la Power Platform et les applications d’entreprise correspondantes.
+  #### Leçons
+  - Aperçu des applications
+  - Applications pour l’engagement client
+  - Applications pour les opérations unifiées
+  - La Power Platform
+  - Les bases des applications
+
+
+  ### Module 2&#58; Concepts du cloud
+  Nous discuterons dans ce module des concepts du cloud approfondis et introduirons les offres de Microsoft en matière de cloud, d'Azure et nous examinerons sa relation avec Dynamics 365.
+  #### Leçons
+  - Présentation générale de l’architecture du cloud
+  - Les différents types de services de cloud disponibles
+  - Comparer les offres du cloud avec les offres sur site correspondantes
+
+
+  ### Module 3&#58; Gérer les déploiements et les publications
+  Nous couvrirons dans ce modules d’importantes considérations de mise en œuvre, notamment les types de déploiement, les cadences des publications et la conception du modèle de sécurité.
+  #### Leçons
+  - Types de déploiement
+  - Types de publication
+  - Concepts et rôles de sécurité
+  - Rôles et équipes
+  - RGPD
+
+
+  ### Module 4&#58; Octroi de licences, intégration et support
+  Ce module permet à l’apprenant de débuter avec Dynamics 365 en explorant les options d’octroi de licences et en découvrant le support pour la mise en œuvre.
+  #### Leçons
+  - Découvrir un partenaire et travailler avec lui
+  - Les options d’octroi de licences
+  - Mise en place

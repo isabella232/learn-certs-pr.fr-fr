@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: "Comprendre l'infrastructure de messagerie moderne"
+metadata:
+  title: "Formation MS-200T01-A: Comprendre l'infrastructure de messagerie moderne"
+  description: "Formation MS-200T01-A: Comprendre l'infrastructure de messagerie moderne"
+uid: course.ms-200t01
+courseNumber: 'MS-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre l'architecture de messagerie moderne
+- skill: Déployer et gérer une architecture de messagerie moderne
+- skill: Créer et gérer des destinataires d’Exchange
+- skill: Gérer les adresses électroniques, les listes et les ressources
+- skill: Planifier pour les bases de données des boîtes aux lettres
+- skill: Créer et gérer des bases de données de boîtes aux lettres
+- skill: Gérer l’authentification pour la messagerie
+- skill: Configurer les paramètres de l'organisation
+- skill: Configurer le partage de l'organisation
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Dans cette formation, les étudiants découvriront l’architecture de l’infrastructure de messagerie moderne avec Exchange Server et Exchange Online et la façon de déployer la messagerie dans divers scénarios et organisations. Ils seront guidés dans tout le processus de déploiement initial et découvriront les outils de gestion de la messagerie. Les étudiants apprendront à créer et à gérer des types différents de destinataires et à créer et à gérer les bases de données de boîtes aux lettres d’Exchange Server, qui servent d’emplacement de stockage pour toutes les données échangées par message. Finalement, ils découvriront les paramètres organisationnels de l’infrastructure de la messagerie, comme le fait de gérer l’authentification de votre environnement de messagerie, comment configurer des quotas pour les utilisateurs de l’organisation et comment configurer le partage de l’organisation avec la fédération.
+
+  #### Profil de l’audience
+  L’administrateur de messagerie déploie, configure, gère et
+  dépanne les destinataires, les autorisations, la protection des messages, le flux des messages et les dossiers publics
+  dans des environnements d’entreprise sur site et dans le cloud. Ses responsabilités englobent la gestion de l’hygiène des messages, l’infrastructure de la messagerie, la configuration hybride
+  et la migration. L'administrateur de messagerie met également en œuvre et gère la récupération après sinistre, la haute disponibilité et l’accès des clients. Pour mettre en œuvre une topologie hybride sécurisée qui réponde aux besoins professionnels d’une organisation moderne, l’administrateur de messagerie doit collaborer avec l’administrateur de la sécurité et l’administrateur de Microsoft 365 Enterprise.
+  L'administrateur de messagerie doit posséder des connaissances pratiques dans les types d'authentification, l’octroi des licences et l'intégration aux applications Microsoft 365.
+prerequisitesSection: |-
+  - Une compréhension parfaite du DNS.
+  - Une compréhension de base de la messagerie dans le cadre d’Exchange Server ou d’Exchange Online.
+  - Une compréhension de base d’Active Directory et de l’infrastructure du contrôleur de domaines ainsi que de la gestion des identités.
+  - Une expérience pratique de base des services Microsoft 365 et de la synchronisation des répertoires.
+  - Au moins cinq ans d’expérience en informatique générale.
+outlineSection: |-
+  ### Module 1&#58; Gérer l’infrastructure de la messagerie moderne
+  #### Leçons
+  - Aperçu de l’architecture de la messagerie moderne
+  - Déployer l’infrastructure de la messagerie moderne
+  - Gérer l’infrastructure de la messagerie moderne
+
+
+  ### Module 2&#58; Gérer les objets et les ressources des destinataires
+  #### Leçons
+  - Destinataires d’Exchange
+  - Créer et gérer des destinataires d’Exchange
+  - Gérer les adresses électroniques, les listes et les ressources
+
+
+  ### Module 3&#58; Gérer les bases de données des boîtes aux lettres
+  #### Leçons
+  - Les bases de données des boîtes aux lettres dans Exchange Server
+  - Planifier pour les bases de données des boîtes aux lettres
+  - Créer et gérer des bases de données de boîtes aux lettres
+  - Dépanner les bases de données des boîtes aux lettres
+
+
+  ### Module 4&#58; Gérer les paramètres d'organisation
+  #### Leçons
+  - Gérer l’authentification pour la messagerie
+  - Configurer les paramètres de l'organisation
+  - Concevoir des solutions pour l’accès externe
+
+
+  ### Module 5&#58; Conclusion de la formation
+
+  #### Laboratoire&#58; Gérer l’infrastructure des destinataires
+  - Créer un destinataire sur site
+  - Créer un destinataire dans le cloud
+  - Créer un groupe de distribution sur site
+  - Créer un groupe de distribution dans le cloud
+  - Créer un groupe Office 365

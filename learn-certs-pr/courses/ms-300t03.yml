@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Activer Microsoft Teams pour la collaboration
+metadata:
+  title: 'Formation MS-300T03-A: Activer Microsoft Teams pour la collaboration'
+  description: 'Formation MS-300T03-A: Activer Microsoft Teams pour la collaboration'
+uid: course.ms-300t03
+courseNumber: 'MS-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifier le déploiement de Microsoft 365 Teams
+- skill: Configurer Office 365 pour Teams
+- skill: Configurer les équipes et les canaux dans Microsoft Teams
+- skill: Gérer l’accès utilisateur à Teams
+- skill: Configurer Teams pour des réunions
+- skill: Établir une stratégie de gouvernance de données pour les données de Teams
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Microsoft Teams est le noyau de Teamwork dans Microsoft 365. Vous apprendrez dans cette formation à planifier, déployer et gérer Microsoft Teams. Cette formation discute spécifiquement de la relation entre Teams et les groupes de SharePoint, OneDrive, Office 365. Elle fournit les meilleures pratiques pour l’adoption et le déploiement de Teams dans votre organisation. Elle comprend également la manière de définir des politiques d'invités et de gouvernance de données pour vos données Teams.
+
+  Cette formation est conçue pour les professionnels de l'informatique qui gèrent et déploient Microsoft Teams dans leur organisation. 
+  
+  C’est la troisième formation d'une série de quatre formations pour le rôle d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-300&#58; Déployer Microsoft 365 Teamwork.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
+
+  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
+
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir une compréhension de base d’Active Directory et Azure AD
+  - Une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)
+  - Avoir de l’expérience avec Windows PowerShell
+outlineSection: |-
+  ### Module 1&#58; Planifier un déploiement Microsoft Teams
+  Ce module concerne la planification pour Microsoft Teams.  Il discute de la manière par laquelle les utilisateurs authentifieront l’utilisation de Teams et des meilleures pratiques pour déployer des équipes dans votre organisation.
+  #### Leçons
+  - Premier pas avec Teams
+  - Déployer Teams
+  - Équipes et canaux
+  - Authentification et accès
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'expliquer l’interaction de Teams avec SharePoint Online, Exchange Online et OneDrive
+  - de décrire les différents clients de Teams et comment les utiliser
+  - de décrire comment préparer votre réseau au trafic de Teams
+  - de décrire les étapes des meilleures pratiques pour déployer Microsoft Teams
+  - de définir les objectifs, les risques et les résultats clés de votre déploiement Teams
+  - de décrire les différentes capacités des différents rôles dans Teams
+  - de décrire comment les équipes et les canaux sont utilisés pour organiser le contenu dans Microsoft Teams
+
+
+  ### Module 2&#58; Configurer Microsoft Teams
+  Ce module explique comment installer et configurer Microsoft Teams.  Il discute de l’utilisation des onglets, des bots et des connecteurs dans Teams. In introduit les concepts liés à la gestion des réunions dans Teams.
+  #### Leçons
+  - Installer Microsoft Teams dans Office 365
+  - Les applications dans Microsoft Teams
+  - Les réunions dans Teams
+
+
+  #### Laboratoire&#58; Configurer Microsoft Teams
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Installer Microsoft Teams dans Office 365
+  - de décrire et d'administrer les applications dans Microsoft Teams
+  - d'utiliser des bots et des onglets dans Teams
+  - de décrire et d'utiliser les connecteurs dans Teams
+  - de décrire les concepts de réunion dans Teams
+  - de décrire les périphériques disponibles pour faciliter les réunions dans Teams
+
+
+  ### Module 3&#58; Gérer l’environnement Teams
+  Ce module est axé sur la gestion de Microsoft Teams.  Nous discutons spécifiquement de la sécurité et de la conformité, ainsi que de la confidentialité et de la gouvernance des données.  Bien que cette formation ne couvre pas explicitement les appels vocaux, ce module discute de la qualité des sujets liés aux services.
+
+  #### Leçons
+  - Confidentialité et gouvernance
+  - Sécurité et conformité
+  - Gestion et émission de rapports
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les fonctionnalités de sécurité et de conformité disponibles dans Teams
+  - de décrire comment il est possible d’utiliser Microsoft Intune pour sécuriser les données Teams sur les périphériques mobiles
+  - de mener un journal d'audit et des recherches de contenu pour Teams
+  - de décrire l’approche de Microsoft par rapport à la confidentialité des données dans Office 365
+  - d'afficher des rapports d’Office 365 qui mesurent l’usage de Teams
+  - de favoriser la qualité du service pour Microsoft Teams.

@@ -1,0 +1,70 @@
+### YamlMime:Course
+title: Gestion de la sécurité Microsoft 365
+metadata:
+  title: 'Formation MS-101T01-A: Gestion de la sécurité Microsoft 365'
+  description: 'Formation MS-101T01-A: Gestion de la sécurité Microsoft 365'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gérer les métriques de sécurité
+- skill: Mettre en œuvre les solutions de sécurité dans Microsoft 365
+- skill: Planifier et configurer la protection de l'identité Azure AD
+- skill: Mettre en œuvre la notation sécurisée Microsoft
+- skill: Mettre en œuvre la protection Exchange Online
+- skill: Mettre en œuvre la protection avancée contre les menaces
+- skill: Gérer les pièces jointes sécurisées et les liens sécurisés
+- skill: Mettre en œuvre Microsoft 365 Threat Intelligence
+- skill: Utiliser le tableau de bord de sécurité de Microsoft 365
+- skill: Configurer Advanced Threat Analytics
+- skill: Mettre en œuvre la sécurité des applications dans le cloud
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Découvrez la gestion de la sécurité Microsoft 365, y compris la gestion des mesures de sécurité, comment permettre la protection de l'identité Azure AD, comment configurer les services de sécurité Microsoft 365 et l’utilisateur Microsoft 365 Threat Intelligence.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
+prerequisitesSection: |-
+  - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
+  - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension parfaite des pratiques informatiques générales.
+outlineSection: |-
+  ### Module 1&#58; Concevoir votre locataire Microsoft 365
+  #### Leçons
+  - Planifier une infrastructure sur site de Microsoft 365
+  - Planifier votre solution d'identité et d’authentification
+
+
+  ### Module 2&#58; Configurer votre locataire Microsoft 365
+  #### Leçons
+  - Planifier votre expérience Microsoft 365
+  - Configurer votre expérience Microsoft 365
+  - Profiter de FastTrack et des services de partenaires
+  - Mettre en œuvre vos services de domaine
+
+
+  ### Module 3&#58; Gérer votre locataire Microsoft 365
+  #### Leçons
+  - Configurer les rôles du locataire
+  - Configurer la santé et les services du locataire
+
+
+  ### Module 4&#58; Laboratoire pratique
+
+  #### Laboratoire&#58; Gérer la sécurité Microsoft 365
+  - Exercice 1&#58; Configurer votre environnement de laboratoire
+  - Exercice 2&#58; Modifier une politique de liens sécurisés ATP et créer une politique de pièces jointes sécurisées
+  - Exercice 3&#58; Permettre et installer le centre ATA

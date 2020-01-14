@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: Dynamics 365 pour l’engagement client pour les ventes
+metadata:
+  title: 'Formation MB-210T01-A: Dynamics 365 pour l’engagement client pour les ventes'
+  description: 'Formation MB-210T01-A: Dynamics 365 pour l’engagement client pour les ventes'
+uid: course.mb-210t01
+courseNumber: 'MB-210T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installer et configurer l’application
+- skill: Identifier les scénarios de vente communs
+- skill: Compléter un cycle de vente
+- skill: Configurer le catalogue de produits
+- skill: Gérer des dossiers clients
+- skill: Utiliser des outils d'analyse avec des données clients
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+exams:
+- uid: exam.mb-210
+summary: |-
+  Microsoft Dynamics 365 pour les ventes est une application de bout en bout pour gérer le traitement des clients et des clients potentiels. Elle permet de suivre les données par rapport aux objectifs de vente, d'automatiser les meilleures pratiques, d'apprendre à partir des données et plus encore.
+
+  Notre équipe d’experts internationalement reconnus guide les étudiants pas à pas, du prospect à l’opportunité, à l’accord conclu. Les étudiants utiliseront les options disponibles en matière d'automatisation et de personnalisation pour apprendre à permettre au personnel de vente à être le plus productif possible.
+
+  #### Profil de l’audience
+  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Familiarité avec les applications d'entreprise et désir de les personnaliser et de les mettre en œuvre dans l’entreprise.
+outlineSection: |-
+  ### Module 1&#58; Aperçu de ventes
+  Dans ce module, les étudiants apprendront les bases des ventes dans Dynamics 365. Ils installeront et configureront l’application et découvriront également les rôles de sécurité, les mots clés et le modèle de données.
+  #### Leçons
+  - Aperçu des ventes
+  - Configuration des ventes
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'installer et de configurer l’application des ventes
+  - d'identifier les scénarios de vente communs
+
+
+  ### Module 2&#58; Travailler avec des opportunités
+  Dans ce module, les étudiants apprendront à gérer des dossiers de données des clients, à utiliser les outils de vente intégrés et à prendre l’initiative des opportunités.
+  #### Leçons
+  - Gérer les clients
+  - Travailler avec des opportunités
+  - Intelligence incorporée
+  - Livres de lecture
+  - Outils de vente intégrés
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer des dossiers clients
+  - d'utiliser des outils de vente
+
+
+  ### Module 3&#58; Des devis aux commandes
+  Dans ce module, les étudiants apprendront à utiliser les devis et les commandes pour profiter davantage de Dynamics 365 pour les ventes afin de gérer les opportunités de ventes jusqu’aux accords conclus.
+  #### Leçons
+  - Aperçu sur le traitement des commandes
+  - Gérer le catalogue de produits
+  - Créer et gérer des devis
+  - Créer et gérer des commandes et des factures
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de Créer et d'utiliser le catalogue de produits
+  - d'ajjouter des devis aux opportunités
+  - de conclure une vente avec une commande
+
+
+  ### Module 4&#58; Analyses et perspectives de vente
+  Dans ce module, les étudiants apprendront à créer et utiliser des objectifs, à intégrer à PowerBI et à permettre l’IA des ventes.
+  #### Leçons
+  - Aperçu
+  - Power BI
+  - IA pour les ventes
+  - Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et d'utiliser des objectifs
+  - d'intégrer à PowerBI
+  - de permettre la fonctionnalité IA des ventes

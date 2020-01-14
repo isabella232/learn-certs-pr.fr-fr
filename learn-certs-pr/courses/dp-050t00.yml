@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Migrer des charges de travail SQL vers Azure
+metadata:
+  title: 'Formation DP-050T00-A: Migrer des charges de travail SQL vers Azure'
+  description: 'Formation DP-050T00-A: Migrer des charges de travail SQL vers Azure'
+uid: course.dp-050t00
+courseNumber: 'DP-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compréhension de la modernisation des plateformes de données
+- skill: Choix des bons outils pour la migration des données
+- skill: Migration des charges de travail SQL vers les machines virtuelles Azure
+- skill: Migration des charges de travail SQL vers les bases de données Azure
+- skill: Migration des charges de travail SQL vers l’instance gérée des bases de données SQL Azure
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dans cette formation, les étudiants étudieront les objectifs de la modernisation des plateformes de données et sa pertinence pour les exigences d’entreprise données. Ils exploreront également chaque étape du processus de modernisation des plateformes de données et définiront les tâches impliquées à chaque étape, telles que la phase d’évaluation et de planification. Les étudiants découvriront également les outils de migration disponibles et leur pertinence pour chaque étape du processus de migration des données.
+  L’étudiant découvrira comment migrer vers les trois plateformes cibles pour les charges de travail basées sur SQL&#58; les machines virtuelles Azure, les bases de données SQL Azure et les instances gérées de bases de données SQL Azure. Les étudiants découvriront les avantages et les limites de chaque plateforme cible et la façon dont ils peuvent les utiliser pour répondre aux exigences de l’entreprise et techniques pour les charges de travail SQL modernes. Les étudiants étudieront les modifications qui peuvent être apportées aux applications basées dans SQL existante, de sorte qu’ils peuvent tirer le meilleure parti des plateformes de données modernes dans Azure.
+
+  #### Profil de l’audience
+  L’audience de cette formation est des professionnels des données et des architectes en données qui souhaitent connaître la migration des technologies des plateformes de migration qui existent sur Microsoft Azure et en quoi l’existence des charges de travail basées sur SQL peuvent migrer et être modernisées.
+  L’audience secondaire de cette formation est des personnes qui gèrent des plateformes de données ou mettent au point des applications qui fournissent du contenu des technologies des plateformes de données existantes.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle en matière de serveur SQL, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
+  - Azure fundamentals
+outlineSection: |-
+  ### Module 1&#58; Introduction à la modernisation des plateformes de données
+  Dans ce module, les étudiants découvriront l’objectif de la modernisation des plateformes de données et auront un aperçu des avantages que la modernisation des plateformes de données peut apporter à une organisation. Les étudiants découvriront ensuite les différentes étapes des projets de migration des plateformes de données afin de comprendre ce que chaque étape implique dans le but de maximiser les changes de réussite des projets de modernisation des plateformes de données. Enfin, les étudiants étudieront les différents chemins de migration des données afin de comprendre en quoi chaque approche est différente et la raison pour laquelle vous devriez choisir une approche de migration plutôt qu'une autre.
+  #### Leçons
+  - Compréhension de la modernisation des plateformes de données
+  - Compréhension des étapes de la migration
+  - Chemins de migration des données
+
+
+  #### Laboratoire&#58; Introduction à la modernisation des plateformes de données
+  - Compréhension de la modernisation des plateformes de données
+  - Compréhension des étapes de la migration
+  - Chemins de migration des données
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Compréhension de la modernisation des plateformes de données
+  - Compréhension des étapes de la migration
+  - Chemins de migration des données
+
+
+  ### Module 2&#58; Choix des bons outils pour la migration des données
+  Dans ce module, les étudiants découvriront le guide de migration des données en tant que point de départ de la source d'informations que votre organisation doit utiliser pour le guidage étape par étape de la modernisation de votre plateforme de données existante. Ils découvriront ensuite la valeur de la boîte à outils d’évaluation et de planification de Microsoft qui aide à découvrir les actifs de données qui existent actuellement dans leurs environnements.
+  Les étudiants découvriront ensuite les outils qui peuvent être utilisés pour les aider à évaluer la compatibilité ou les problèmes des charges de travail à l’aide de l’assistant de migration des données et d’expérimentation des données. Les étudiants découvriront ensuite comment le service de migration des bases de données Azure peut servir à aider à la migration en ligne des bases de données afin de réduire la durée du temps d’arrêt. Enfin, un aperçu de l’assistant de migration SQL est fourni pour aider les étudiants à migrer des charges de travail de serveurs non SQL.
+
+  #### Leçons
+  - Découverte du guide de migration des bases de données
+  - Construction de votre inventaire de domaine de données à l’aide de la boîte à outil de cartographie
+  - Identification des candidats à la migration à l’aide de l’assistant de migration des données
+  - Évaluation d'une charge de travail de données à l’aide de l’assistant d’expérimentation des bases de données
+  - Migration des données à l’aide du service de migration des bases de données Azure
+  - Migration des charges de travail de serveurs non SQL vers Azure à l’aide de l’assistant de migration SQL
+
+
+  #### Laboratoire&#58; Choix des bons outils pour la migration des données
+  - Identification des candidats à la migration à l’aide de l’assistant de migration des données
+  - Évaluation d'une charge de travail de données à l’aide de l’assistant d’expérimentation des bases de données
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Identification des candidats à la migration à l’aide de l’assistant de migration des données
+  - Évaluation d'une charge de travail de données à l’aide de l’assistant d’expérimentation des bases de données
+
+
+  ### Module 3&#58; Migration des charges de travail SQL vers les machines virtuelles Azure
+  Dans ce module, l’étudiant apprendra à migrer des charges de travail SQL sur site vers les machines virtuelles Azure qui exécutent le serveur SQL. Les étudiants étudieront d’abord les considérations de migration lors de la migration de serveur SQL sur site vers les machines virtuelles Azure et les avantages qu’elles peuvent obtenir en procédant à la migration.
+
+  Ils découvriront ensuite les différentes options de migration possibles lors de la migration vers des machines virtuelles Azure. Cela inclura un coup d'œil aux avantages et aux limites de chaque approche. Les étudiants étudieront finalement les charges de travail des serveurs SQL qui incluent la haute disponibilité et la reprise après sinistre pour assurer la continuité du service.
+
+  #### Leçons
+  - Considérations des migrations des serveurs SQL vers les VM Azure
+  - Options de migration des charges de travail SQL vers les VM Azure
+  - Mise en œuvre de scénarios de haute disponibilité et de reprise après sinistre
+
+
+  #### Laboratoire&#58; Migration de charges de travail SQL vers les machines virtuelles Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Considérations des migrations des serveurs SQL vers les VM Azure
+  - Options de migration des charges de travail SQL vers les VM Azure
+  - Mise en œuvre de scénarios de haute disponibilité et de reprise après sinistre
+
+
+  ### Module 4&#58; Migration des charges de travail SQL vers les bases de données SQL Azure
+  Dans ce module, les étudiants étudieront ce qu’est une base de données SQL Azure et pourquoi elle est une cible adaptée aux charges de travail basées dans SQL. Il enseigne aux étudiants comment choisir l’option d'instance de serveur SQL adaptée et pourquoi elle peut répondre aux exigences de l’entreprise en matière de modernisation des plateformes de données.
+
+  Ces modules montrent également aux étudiants comment ils peuvent procéder aux migrations hors ligne et en ligne vers la base de données SQL Azure. De ce fait, ils peuvent évaluer la méthode adaptée à leurs scénarios au travail. Il leur montrera également les outils qui peuvent servir à permettre le processus de migration des données. Enfin, ils exploreront les méthodes qui peuvent servir à charger des données dans la base de données SQL Azure à partir d'une instance sur site.
+
+  #### Leçons
+  - Choix de la bonne option d’instance de serveur SQL dans Azure
+  - Migration du serveur SQL vers une base de données SQL Azure hors ligne
+  - Migration du serveur SQL vers une base de données SQL Azure en ligne
+  - Chargement et déplacement de données vers la base de données SQL Azure
+
+
+  #### Laboratoire&#58; Migration de travail SQL vers des bases de données SQL Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Choix de la bonne option d’instance de serveur SQL dans Azure
+  - Migration du serveur SQL vers une base de données SQL Azure hors ligne
+  - Migration du serveur SQL vers une base de données SQL Azure en ligne
+  - Chargement et déplacement de données vers la base de données SQL Azure
+
+
+  ### Module 5&#58; Migrer des charges de travail SQL vers une instance gérée de base de données SQL Azure
+  Ce module étudiera une instance gérée de base de données SQL Azure et la raison pour laquelle elle est une cible adéquate pour les charges de travail basées dans SQL. Il étudiera également la façon dont l’instance gérée de base de données SQL Azure peut répondre aux exigences d’entreprise pour la modernisation des plateformes de données. Les étudiants découvriront ensuite les outils qui peuvent servir à permettre le processus de migration des données vers l’instance gérée des bases de données SQL Azure.
+  Ils étudieront ensuite les méthodes et les outils qui peuvent être utilisés pour charger des données dans l’instance gérée de base de données SQL Azure à partir d'une instance sur site. Enfin, ils découvriront une partie des modifications qu’il est possible de devoir apporter aux applications basées sur SQL pour pouvoir utiliser l’instance gérée de base de données SQL Azure.
+
+  #### Leçons
+  - Évaluation des scénarios de migration vers une instance gérée de base de données Azure
+  - Migration vers une instance gérée de bases de données Azure SQL
+  - Chargement et déplacement des données vers l’instance gérée de base de données SQL
+  - Configuration et optimisation des applications
+
+
+  #### Laboratoire&#58; Migration des charges de travail SQL vers l’instance gérée des bases de données SQL Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Évaluation des scénarios de migration vers une instance gérée de base de données Azure
+  - Migration vers une instance gérée de bases de données Azure SQL
+  - Chargement et déplacement des données vers l’instance gérée de base de données SQL
+  - Configuration et optimisation des applications

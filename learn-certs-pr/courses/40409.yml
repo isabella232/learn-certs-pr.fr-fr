@@ -1,0 +1,331 @@
+### YamlMime:Course
+title: Déploiement de charges de travail vocales pour Skype pour entreprise en ligne et Server 2015
+metadata:
+  title: 'Formation 40409-A: Déploiement de charges de travail vocales pour Skype pour entreprise en ligne et Server 2015'
+  description: 'Formation 40409-A: Déploiement de charges de travail vocales pour Skype pour entreprise en ligne et Server 2015'
+uid: course.40409
+courseNumber: '40409-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des différentes charges de travail vocales disponibles dans Skype pour et sur le Skype for Business Server 2015.
+- skill: Évaluation d'un réseau pour préparer une solution vocale pour Skype for Business Server 2015 ou Skype pour entreprise en ligne.
+- skill: Déploiement et configuration d'une solution vocale Skype pour entreprise qui associe Skype pour entreprise en ligne et Skype pour entreprise Voice.
+- skill: Déploiement et configuration de Cloud PBX avec l’appel RTPC.
+- skill: Configuration de la fonctionnalité vocale pour entreprise sur site.
+- skill: Déploiement et configuration de Cloud PBX avec la connectivité RTPC sur site.
+- skill: Intégration du Skype for Business Server 2015 avec des infrastructures vocales non Microsoft.
+- skill: Planification et déploiement de Cloud Connector Edition.
+- skill: Configuration des fonctionnalités qui étendent la fonctionnalité Skype for Business Enterprise Voice (sur site), comme les serveurs d'informations d’emplacement et les groupes de réponse.
+- skill: Optimisation des communications vocales sur un réseau TCP/IP.
+- skill: Utilisation de la méthodologie de qualité des appels et des outils et rapports de surveillance du Skype for Business Server 2015.
+- skill: Dépannage de Skype pour entreprise en ligne et des communications vocales Skype for Business Server 2015 Enterprise Voice (sur site).
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-333
+summary: |-
+  Cette formation de cinq jours dispensée par un formateur explique comment concevoir, planifier et déployer les différentes solutions vocales disponibles pour Skype pour entreprise en ligne et le Skype for Business Server 2015. Cette formation vous donne les connaissances et les compétences nécessaires à la configuration et à la gestion de Cloud PBX avec l'appel RTPC, Cloud PBC avec la connectivité RTPC sur site, Cloud Connector Edition et Enterprise Voice sur site. Cette formation vous fournira également les procédures, les lignes directrices, les meilleures pratiques et d'autres considérations importantes qui vous aideront à mettre en œuvre, optimiser et dépanner les solutions vocales de Skype pour entreprise en ligne et du Skype for Business Server 2015. Cette formation aide les étudiants à se préparer à l’examen Microsoft 70-333 "Déploiement de Enterprise Voice avec Skype Entreprise 2015".
+
+  #### Profil de l’audience
+  Cette formation est destinée aux consultants en informatique et aux professionnels des télécommunications qui conçoivent, planifient, déploient et maintiennent des solutions pour des communications unifiées (UC) et doivent traduire des exigences d’entreprise en des architectures et des conceptions techniques pour des solutions de UC. Elle est également destinée au personnel de soutien en charge de l’entretien des solutions de UC. L’étudiant doit être familiarisé aux technologies du Skype for Business Server 2015 ou aux technologies Lync Server 2013 et aux normes de télécommunications et aux composants des réseaux qui prennent en charge la configuration et le déploiement des architectures de Skype pour entreprise.
+prerequisitesSection: |-
+  - Expérience avec les technologies du Skype for Business Server 2015 ou Lync Server 2013 et familiarisation aux scénarios de migration pris en charge.
+  - Maîtrise de la planification et du déploiement de solutions Skype for Business Server 2015 et Skype for Business Online pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, les conférences audio/vidéo et Web, la sécurité, la haute disponibilité ainsi que la reprise après sinistre.
+  - Capacité à surveiller et dépanner Skype for Business Server 2015 à un niveau de base en utilisant les outils de surveillance et de dépannage de Microsoft (Snooper, service d’enregistrement centralisé (CLS), indicateurs clés de santé (KHI)).
+  - Maîtrise des services de domaine Active Directory, des réseaux de données, des services de domaine Azure Active Directory, de la synchronisation des directoires et des normes de télécommunications et des composants des réseaux qui prennent en charge la configuration et le déploiement des architectures Skype for Business.
+  - Familiarisation aux exigences et à la procédure d'intégration de Skype for Business Server 2015 à Microsoft Exchange Server et Office 365.
+  - Connaissances des technologies suivantes&#58; Windows, Windows Server et Hyper-V, QoS, TCP/IP, équilibrage de la charge du réseau, PowerShell, compréhension du Session Initiation Protocol (SIP) (concepts de téléphonie de base comprenant les liaisons SIP, la passerelle et les interconnexions Session Border Controller (SBC) et les architectures de déploiement communs de centrales téléphoniques (PBX).
+outlineSection: |-
+  ### Module  1&#58; Introduction aux charges de travail vocales
+  La conception d'une solution vocale Skype for Business requiert la compréhension de nombreuses technologies. Grâce aux derniers services vocaux basés sur le cloud de Microsoft, les clients ont encore plus de flexibilité dans le déploiement d'une solution vocale pour leur entreprise, mais cette flexibilité entraîne une complexité accrue qui doit être comprise. Dans ce module, vous découvrirez les concepts VoIP de base, comment ils ont évolués depuis les premières technologies en matière de téléphonie ainsi que les services de Office 365 et l’entrée de Microsoft dans le monde vocal. Vous découvrirez également les offres vocales sur site et basées sur le cloud qui sont maintenant disponibles dans le cadre de l’ensemble de produits Skype for Business.
+  #### Leçons
+  - Aperçu de Voice
+  - Conception des charges de travail de Voice
+  - Écosystème de Skype for Business
+  - Bases et itinéraire de SIP
+
+
+  #### Laboratoire&#58; Personnalisation de votre environnement de laboratoire
+  - Configuration de l’organisation sur site
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les différentes options disponibles dans les différentes architectures vocales disponibles avec Skype for Business Server 2015 et Skype for Business Online.
+  - d’expliquer comment les technologies du cloud modifient la conception, le déploiement et la gestion des architectures vocales.
+  - de relier leur expérience antérieure à ce qu'ils ont appris pendant la formation.
+
+
+  ### Module 2&#58; Évaluation des options de déploiement vocal et du réseau
+  Dans ce module, vous apprendrez comment procéder à une évaluation de la préparation du réseau pour une mise en œuvre de Skype for Business Server 2015 ou de Skype for Business Online. Ce module coïncide avec la phase de planification du cadre d'opérations de Skype (SOF). Ce module aligne précisément les étapes Imagination, Évaluation et Conception. Vous découvrirez les paramètres et fonctionnalités de Skype for Business Online et de Skype for Business Server 2015. Vous découvrirez également les architectures prises en charge pour Skype for Business Online et Skype for Business Server 2015.
+  #### Leçons
+  - Planification et évaluation du réseau
+  - Paramètres et fonctionnalités de Skype for Business
+  - Planification de votre solution Cloud PBX
+
+
+  #### Laboratoire&#58; Configuration de la fédération de l’identité avec Office 365
+  - Ajout d'un domaine personnalisé et autorisation de la synchronisation du directoire dans Office 365
+  - Exécution de la synchronisation du directoire
+  - Installation et configuration des services de fédération Active Directory
+  - Autorisation de la connexion unique avec Office 365
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les phases de l’évaluation du réseau.
+  - d'identifier les plans de Skype for Business.
+  - de décrire les architectures vocales prises en charge.
+  - de choisir une architecture vocale pour un scénario donné.
+
+
+  ### Module 3&#58; Division de la configuration du domaine
+  Dans ce module, vous découvrirez ce que « division du domaine » signifie et ce que cela décrire par rapport au produit Skype for Business. Vous découvrirez également les avantages de la division du domaine, les prérequis nécessaire pour déployer cet environnement et la façon de fournir les utilisateurs quand il a été configuré. Enfin, vous apprendrez à résoudre les problèmes courants.
+
+  #### Leçons
+  - Aperçu du domaine divisé
+  - Exigences du domaine divisé
+  - Déploiements du domaine divisé
+  - Fournitures et migration des utilisateurs
+  - Résolution des problèmes liés au domaine divisé
+
+
+  #### Laboratoire &#58; Mise en place du domaine divisé avec Skype for Business Online
+  - Mise en place du domaine divisé avec Skype for Business Online
+  - Déplacement des utilisateurs de Skype for Business Online
+  - Vérification de l’expérience utilisateur du domaine divisé de Skype for Business
+  - Gestion des utilisateurs dans Skype for Business Online
+
+  Après avoir terminé ce module, les étudiants seront capables de déployer et de configurer un environnement où les utilisateurs d'un domaine sont divisés entre Skype for Business Server 2015 et Skype for Business Online.
+
+  ### Module 4&#58; Cloud PBX avec appel RTPC et conférence
+  Cloud PBX est une solution PBX basée sur Microsoft proposée dans Office 365. Cloud PBX permet aux organisations de supprimer leur infrastructure PBX existante et de migrer la fonctionnalité PBX, ainsi que les numéros de téléphone existants, vers Office 365. L'appel d’un réseau téléphonique public commuté (RTPC) offre une connexion RTPC aux utilisateurs via les plans d’appel Microsoft. La conférence RTPC a été intégrée à la fonctionnalité de réunions de Skype for Business Online dans Office 365, ce qui permet aux utilisateurs de créer, gérer et accueillir leurs propres réunions en ligne avec une intégration RTPC pour un accès facile à la numérotation.
+  #### Leçons
+  - Cloud PBX avec des fonctionnalités d'appel RTPC
+  - Fonctionnalités de conférence et de réunion RTPC
+  - Conférence avec numérotation dans Skype for Business Server 2015
+
+
+  #### Laboratoire&#58; Configuration de Cloud PBX avec l’appel RTPC
+  - Autorisation des utilisateurs pour l’appel RTPC dans Skype for Business Online
+  - Utilisation des fonctionnalités d'appel en ligne RTPC
+  - Autorisation des utilisateurs pour la conférence RTPC dans le cloud
+  - Utilisation de la conférence RTPC dans Skype for Business Online
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire Cloud PBX avec les fonctionnalités et la conférence RTPC
+  - de déployer et de configurer des fonctionnalités de conférence et de réunion
+  - de déployer et de configurer la conférence RTPC
+
+
+  ### Module 5&#58; Enterprise Voice (sur site)
+  Dans ce module, vous découvrirez Skype for Business Server 2015 Enterprise Voice. Enterprise Voice est une solution de communication unifiée fournie par Skype for Business Server 2015. Enterprise Voice permet aux organisations de passer et de recevoir des appels par le biais du réseau téléphonique public commuté (RTPC). Vous découvrirez comment configurer les composants vocaux tels que les plans de numérotation, les politiques vocales et les itinéraires qui font partie intégrante de la solution Enterprise Voice.
+  #### Leçons
+  - Conception de Enterprise Voice
+  - Configuration de Enterprise Voice
+  - Itinéraire de Voice
+  - Attribution de numéros de téléphone
+  - Configuration des clients
+  - Messagerie unifiée
+
+
+  #### Laboratoire&#58; Configuration de Enterprise Voice
+  - Construction d'une expression régulière
+  - Configuration des plans de numérotation
+  - Configuration d'une politique vocale, de l’utilisation du RTPC et de l’itinéraire
+  - Attribution des plans et des politiques de numérotation pour l’utilisateur
+  - Test de l’itinéraire vocal
+  - Configuration du plan de numérotation London
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de concevoir et de mettre en œuvre Skype for Business Enterprise Voice.
+  - de configurer les paramètres Enterprise Voice, y compris des plans de numérotation, la politique vocale, l’utilisation du RTPC, les itinéraires vocaux, les tronçons et les plans de numérotation pour DID et les extensions.
+  - de décrire l’itinéraire de Skype for Business Voice.
+  - d'intégrer la messagerie unifiée de Exchange à Skype for Business Server 2015.
+  - de configurer les fonctionnalités vocales des clients de Skype for Business.
+
+
+  ### Module 6&#58; Connectivité du RTPC
+  Un composant clé d'une organisation réussie est la capacité de communication des employés internes et des clients et associés. Pour que cela soit possible, les organisations doivent faire le pont entre les communications, c’est-à-dire entre leurs systèmes de communication internes tels que Skype for Business Server 2015 et le réseau téléphonique public commuté en utilisant un commutateur téléphonique privé (PBX), une passerelle ou un fournisseur de services Internet (ISP). La connexion au RTPC permet aux utilisateurs de l’entreprise de passer et de recevoir des appels de numéros externes en utilisant le même client Skype for Business que celui utilisé pour les appels internes. En outre, les employés peuvent tirer parti de la large gamme de fonctionnalités de Skype for Busines afin d'améliorer leurs interactions de communications avec les utilisateurs externes connectés par le biais du RTPC.
+  #### Leçons
+  - Connexion au RTPC
+  - Connexion au PBX existant
+  - Itinéraire de l'interréseau MN
+  - Fiabilité de l’itinéraire des appels
+  - Appel par le biais de Work
+  - Aspect de la ligne partagée
+  - Téléphones IP
+  - Systèmes de pièces
+  - Portable
+
+
+  #### Laboratoire&#58; Configuration de l’intégration à un IP-PBX
+  - Configuration des paramètres de Enterprise Voice pour London
+  - Configuration de l’itinéraire intertronçons
+  - Recherche des paramètres d'intégration de Skype for Business Server 2015
+  - Configuration des paramètres d'intégration IP-PBX
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de planifier le rôle du serveur de médiation.
+  - de connecter Skype for Business Server 2015 au RTPC.
+  - de mettre en œuvre l’itinéraire d’interréseau MN.
+  - de définir une route fiable pour les appels en utilisant le RTPC.
+  - de décrire l’appel via Work.
+  - de décrire l’aspect de la ligne partagée.
+
+
+  ### Module 7&#58; Cloud PBX avec la connectivité du RTPC sur site en utilisant un déploiement existant
+  Ce module discute de la mise en œuvre et de la configuration de Cloud PBX avec un RTPC sur site avec un déploiement existant. Avec de nombreuses options de mise en œuvre, les étudiants doivent être familiarisés aux différentes méthodes et options de connectivité. La mise en œuvre de Cloud PBX requiert un locataire avec Office 365 et une infrastructure réseau qui peut être utilisée par les utilisateurs dans un bureau ou sur une connexion Internet publique. Il est important de se souvenir que la conférence avec numérotation doit être mise en œuvre par le biais de la conférence par RTPC ou un prestataire de conférence audio (ACP). La connectivité du RTPC sur site avec le Cloud Connector Edition sera vue dans le prochain module.
+
+  #### Leçons
+  - Flux et maniabilité des appels
+
+
+  #### Laboratoire&#58; Flux et maniabilité des appels
+  - * Exercice 1&#58; Test de la solution d'appel PBX actuelle
+  - * Exercice 2&#58; Autorisation de Cloud PBX avec une connectivité RTPC sur site
+  - * Exercice 3&#58; Test de Cloud PBX avec une connectivité RTPC sur site
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - * d’expliquer les architectures et scénarios de Cloud PBX avec une connectivité RTPC sur site
+
+
+  ### Module 8&#58; Cloud PBX avec la connectivité RTPC sur site en utilisant Cloud Connector Edition
+  Les entreprises qui ont une solution vocale sur site qui n’inclut pas Skype for Business Server 2015 ou Lync Server 2013 peuvent toujours intégrer leur solution actuelle à Skype for Business Online en tirant parti de Cloud Connector Edition (CCE). Il est important de choisir la bonne topologie pour CCE afin de prendre en charge les exigences vocales d'une organisation. Ce module révisera les différentes topologies prises en charge et sera un guide pour le processus de déploiement.
+  #### Leçons
+  - Introduction à Cloud Connector Edition
+  - Planification de la connectivité du RTPC par le biais de Cloud Connector Edition
+  - Déploiement de Cloud Connector Edition
+
+
+  #### Laboratoire&#58; Déploiement de Cloud Connector Edition
+  - Configuration de l’organisation du laboratoire
+  - Préparation de la première application à haute disponibilité de Cloud Connector Edition
+  - Préparation de la deuxième application à haute disponibilité de Cloud Connector Edition
+  - Création de Base VHDX pour les machines virtuelles de Cloud Connector Edition
+  - Déploiement de la première application à haute disponibilité de Cloud Connector Edition
+  - Configuration du locataire Office 365
+  - Test de Cloud PBX avec la connectivité du RTPC sur site
+  - Déploiement de la deuxième application à haute disponibilité de Cloud Connector Edition
+  - Achèvement et test de la haute disponibilité de Cloud Connector Edition
+  - Test de la récupération automatique du service de gestion de Cloud Connector Edition
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de savoir quand Cloud Connector Edition est la bonne solution pour une organisation.
+  - d'identifier les exigences de Cloud Connector Edition.
+  - de déployer et gérer Cloud Connector Edition.
+
+
+  ### Module 9&#58; Fonctionnalités d'appel améliorées et exigences en matière de dispositifs
+  Enterprise Voice offre plusieurs fonctionnalités précises sur site telles qu’un parcage d'appels, des numéros non attribués, la conférence par RTPC et les groupes de réponse. Il construit également le scénario de déploiement de base d’Enterprise Voice présenté plus tôt dans cette formation.
+
+  Pour utiliser Enterprise Voice, vous devez connaître les différentes applications de Enterprise Voice et savoir comment les mettre en œuvre et les configurer. Vous découvrirez plus en détail le Skype for Business Server Response Group Service (RGS), ce qui inclut des composants tels que des groupes d'agents RGS, les files RGS, les groupes de recherche ou les flux de travail de base et les flux de travail de réponse vocale interactifs. En outre, vous devriez être capable de décrire la méthode d'itinéraire du préposé.
+
+  #### Leçons
+  - Appel du service de parcage
+  - Gestion des appels à des numéros non attribués
+  - Délégation et lignes privées
+  - Réponse aux services de groupes
+  - Services d’informations d’emplacement et E9-1-1
+
+
+  #### Laboratoire&#58; Configuration des groupes de réponse
+  - Configuration des groupes et files d'agents
+  - Configuration des flux de travail
+  - Vérification du comportement du service de groupes de réponses
+
+
+  #### Laboratoire&#58; Configuration des services d’informations d’emplacement et gestion des dispositifs
+  - Création des itinéraires d'urgence et utilisations du RTPC
+  - Configuration de la manipulation des numéros sur les tronçons pour les numéros d’urgence
+  - Définition des emplacements LIS
+  - Expérience des fonctionnalités LIS
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer les différentes fonctionnalités vocales.
+  - de configurer les fonctionnalités d'appels qui étendent la fonctionnalité Skype for Business Enterprise Voice.
+  - de configurer la distribution des appels avec les groupes de réponses.
+  - de rendre l’emplacement des dispositifs connu avec le service d'informations sur les emplacements.
+  - de gérer les dispositifs dans Skype for Business Server 2015.
+
+
+  ### Module 10&#58; Exigences de réseau
+  Dans ce module, vous apprendrez à optimiser les communications vocales sur un réseau en planifiant la consommation du réseau et à mettre en œuvre des technologies d’optimisation de la bande passante telles que le contrôle d'admission des appels (CAC), la qualité du service (QoS) et les réseaux définis par le logiciel (SDN). Vous découvrirez également les piles de moyens de communication pour Skype for Business Server 2015 et Skype for Business Online.
+
+  #### Leçons
+  - Piles de moyens de communication
+  - Modélisation du trafic
+  - Qualité du service
+  - Mise en réseau définie par le logiciel
+  - Aperçu du contrôle d'admission des appels
+  - Mise en œuvre du contrôle d'admission des appels
+  - Mise en réseau définie par le logiciel
+
+
+  #### Laboratoire&#58; Gestion de la qualité vocale
+  - Saisie des informations dans le calculateur de bande passante de Skype for Business
+  - Révision des résultats du calcul
+  - Configuration de la qualité du service
+  - Vérification de l’application pour la qualité du service
+  - Configuration du contrôle d'admission des appels afin de gérer la bande passante
+  - Analyse des valeurs du RTPC et des gammes de port pour la priorisation du trafic du réseau (Exercice en bonus)
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer les piles de moyens de communication disponibles pour Skype for Business Server 2015 et Skype for Business Online,
+  - de planifier la consommation du réseau,
+  - d'optimiser les communications vocales sur un réseau,
+  - de mettre en œuvre les technologies d’optimisation de la bande passante telles qu'un contrôle d'admission des appels (CAC), la qualité du service (QoS) et les réseaux définis par un logiciel (SDN).
+
+
+  ### Module 11&#58; Surveillance et maintien de la qualité vocale
+  L’affirmation, l’obtention et le maintien de la qualité des appels sont essentielles à un déploiement réussi de Skype for Business, surtout pour les charges de travail vocales et de conférence. Ce module précisera la méthodologie relative à la qualité des appels de Microsoft tant en tant que processus et boîte à outils qui peuvent être utilisés pour atteindre ces objectifs. La carte de pointage de qualité des appels, ainsi que son script d'accompagnement, et le tableau de bord de la qualité des appels seront décrits en tant qu’outils visant à mesurer et maintenir les objectifs de qualité des appels définis par une organisation. Ce module montrera comment tirer parti des outils et ensembles de données natifs de Skype for Business afin d'aider à résoudre les problèmes et à affiner davantage la qualité du déploiement.
+  #### Leçons
+  - Méthodologie de qualité des appels
+  - Tableau de bord de la qualité des appels
+  - Outils de surveillance
+  - Rapports et surveillance de l’utilisation
+
+
+  #### Laboratoire&#58; Déploiement du tableau de bord de la qualité des appels, analyse des rapports et capture de KHI
+  - Installation du tableau de bord de la qualité des appels Skype
+  - Utilisation du tableau de bord de la qualité des appels Skype
+  - Analyse des rapports sur les informations des sessions homologues
+  - Dépannage des rapports sur la qualité des outils de communication
+  - Surveillance des transactions synthétiques
+  - Surveillance de la santé des serveurs
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de tirer parti de la méthodologie de qualité des appels et des outils de surveillance.
+  - de définir efficacement et d’évaluer la qualité des appels.
+
+
+  ### Module 12&#58; Dépannage vocal
+  Le dépannage est une compétence de base qui est requise pour prendre en charge les déploiements Skype for Business Server. L'infrastructure Skype for Business peut être déployée dans une variété de topologies, tel que décrit au cours de cette formation. Les administrateurs de Skype for Business doivent être familiarisés aux deux outils de bases et aux méthodes de dépannage qui s'appliquent spécifiquement à Skype for Business Online et à Skype for Business Server 2015. Ce module introduira des outils et des méthodologies pour le dépannage du client Skype for Business, Skype for Business Server 2015 et Skype for Business Online. Différents scénarios seront explorés pour vous familiariser à certains des problèmes courants rencontrés par les administrateurs.
+  #### Leçons
+  - Dépannage relatif à la qualité des appels
+  - Dépannage des scénarios
+  - Dépannage de Skype for Business Online Voice
+  - Dépannage des téléphones IP
+
+
+  #### Laboratoire&#58; Dépannage des plans de numérotation, de l’itinéraire et des tronçons
+  - Révision des composants du service de journal centralisé
+  - Utilisation de l’outil collecteur CLS
+  - Bases du traçage
+  - Identification de la mauvaise configuration du plan de numérotation
+  - Dépannage des problèmes de l’itinéraire de Voice
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de dépanner la qualité des appels.
+  - d'identifier les outils de dépannage.
+  - d'identifier les scénarios de dépannage.
+  - d'utiliser la méthodologie pour chercher, diagnostiquer et réparer les problèmes de qualité des appels.
+  - de dépanner les problèmes courants des clients de Skype for Business Online.
+  - de dépanner les téléphones IP.
+
+  #### Lecture supplémentaire
+  Aucun

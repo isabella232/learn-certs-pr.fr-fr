@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Mise en oeuvre de la gestion de la dépendance
+metadata:
+  title: 'Formation AZ-400T04-A: Mise en œuvre de la gestion de la dépendance'
+  description: 'Formation AZ-400T04-A: Mise en œuvre de la gestion de la dépendance'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recommander des outils et pratiques de gestion d'artefacts
+- skill: Progiciels communs abstraits pour activer le partage et la réutilisation
+- skill: Inspecter les bases de code pour identifier les dépendances de code qui peuvent être convertis en progiciels
+- skill: Identifier et recommander des types et des versions de progiciels standard à travers la solution
+- skill: Refactoriser les pipelines de construction existants pour mettre en œuvre une stratégie de version qui publie les progiciels
+- skill: Gérer la sécurité et la conformité
+- skill: Inspection des progiciels de logiciels open source pour la conformité de sécurité et de licence à aligner avec les normes corporatives
+- skill: Configuration du pipeline de construction pour accéder à la sécurité de progiciel et la cote de licence
+- skill: Configurer un accès sécurisé aux flux de progiciel
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre de la gestion de la dépendance. Les étudiants apprendront à concevoir une stratégie de gestion de la dépendance et à gérer la sécurité et la conformité.
+
+  #### Profil de l’audience
+  Les étudiants qui suivent cette formation sont intéressés par la mise au point de la gestion de la dépendance ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Connaissances de base de Azure, contrôle des versions, mise au point du logiciel Agile et principes de mise au point de logiciels de base. Il peut être utile d'avoir de l’expérience dans une organisation qui fournit des logiciels.
+outlineSection: |-
+  ### Module 1&#58; Conception d'une stratégie de gestion de la dépendance
+  #### Leçons
+  - Introduction
+  - Dépendances du conditionnement
+  - Gestion du conditionnement
+  - Mise en œuvre d'une stratégie de version
+
+
+  #### Laboratoire&#58; Mise à jour du conditionnement
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de recommander les outils et pratiques de gestion d'artefacts
+  - de concevoir des conditionnement communs pour activer le partage et la réutilisation
+  - d’inspecter les bases de code pour identifier les dépendances de code qui peuvent être convertis en progiciels
+  - d’identifier et de recommander des types et des versions de progiciels standard à travers la solution
+  - de refactoriser les pipelines de construction existants pour mettre en œuvre une stratégie de version qui publie les progiciels
+  - de gérer la sécurité et la conformité
+
+
+  ### Module 2&#58; Gestion de la sécurité et de la conformité
+  #### Leçons
+  - Introduction
+  - Sécurité du conditionnement
+  - Logiciel Open Source
+  - Intégration des scans de licence et de vulnérabilité
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'inspecter les progiciels de logiciels open source pour la conformité de sécurité et de licence à aligner avec les normes corporatives
+  - de configurer la construction du pipeline pour accéder à la sécurité du conditionnement et à la notation de la licence
+  - de configurer l’accès sécurisé aux flux de conditionnements

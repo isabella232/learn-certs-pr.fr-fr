@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Surveiller, dépanner et optimiser les Azure solutions
+metadata:
+  title: 'Formation AZ-203T05-A: Surveillance, dépannage et optimisation de solutions Azure'
+  description: 'Formation AZ-203T05-A: Surveillance, dépannage et optimisation de solutions Azure'
+uid: course.az-203t05
+courseNumber: 'AZ-203T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Au cours de cette formation, les étudiants gagneront les connaissances et les compétences nécessaires pour s’assurer que les applications hébergées dans Azure sont exécutées efficacement et tel que prévu. Les étudiants découvriront le fonctionnement de Azure Monitor et l’utilisation des outils tels que Log Analytics et Application Insights pour mieux comprendre ce qui se passe dans leur application. Les étudiants découvriront également comment mettre au point l’étalement automatique, instrumenter leurs solutions pour prendre en charge la surveillance et le journal et utiliser les options Azure Cache et CDN afin d’améliorer l’expérience de l’utilisateur final.
+
+  #### Profil de l’audience
+  - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Azure Monitor
+  Azure Monitor est le service central qui inclut tous les outils dont vous avez besoin pour surveiller et optimiser votre solution.
+  #### Leçons
+  - Introduction à Azure Monitor
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre comment Azure Monitor fonctionne
+  - de savoir où et comment Azure Monitor collecte des données
+
+
+  ### Module 2&#58; Mise au point du code pour soutenir l’extensibilité des applications et des services
+  Ce module couvre comment les applications sont mises à l’échelle et comment gérer le dépannage.
+  #### Leçons
+  - Mise en œuvre de la mise à l’échelle automatique
+  - Mise en œuvre du code qui répond aux instances simples des applications
+  - Mise en œuvre du code qui gère les défauts transitoires
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les schémas de mise à l’échelle automatique et les meilleures pratiques pour la mise à l’échelle de leurs solutions
+  - d'utiliser Azure CLI pour communiquer avec une copie spécifique d'une ressource
+  - de gérer les défauts transitoires de votre solution.
+
+
+  ### Module 3&#58; Instrumentation des solutions pour permettre la surveillance et la journalisation
+  Ce module couvre l’ajout du code à votre application pour envoyer des données à Azure Monitor.
+  #### Leçons
+  - Configuration de l’instrumentation dans une application ou un service à l’aide d’Application Insights
+  - Analyse et dépannage des solutions à l’aide d’Azure Monitor
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'ajouter le code par défaut pour des pages web, des applications de console et des applications de bureau Windows afin de prendre en charge la télémétrie
+  - d'utiliser des tableaux de bord et d’autres outils afin de surveiller et dépanner leur application
+
+
+  ### Module 4&#58; Intégration de la mise en cache et de la livraison de contenu dans le cadre des solutions
+  Ce module montre aux étudiants comment tirer parti de la mise en cache Azure pour Redis et les CDN Azure afin de fournir des actifs aux utilisateurs plus rapidement.
+  #### Leçons
+  - Mise en cache Azure pour Redis
+  - Mise au point pour le stockage sur les CDN
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre comment la mise en cache Azure pour Redis fonctionne et comment la configurer et interagir avec elle
+  - de gérer les CDN Azure

@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Mettre en œuvre des scénarios hybrides SharePoint
+metadata:
+  title: 'Formation MS-301T03-A: Mettre en œuvre des scénarios hybrides SharePoint'
+  description: 'Formation MS-301T03-A: Mettre en œuvre des scénarios hybrides SharePoint'
+uid: course.ms-301t03
+courseNumber: 'MS-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les scénarios hybrides disponibles sur SharePoint.
+- skill: Décrire les exigences de la configuration hybride de SharePoint.
+- skill: Planifier SharePoint Server hybride.
+- skill: Configurer les scénarios hybrides sur SharePoint.
+- skill: Configurer une passerelle de données sur site.
+- skill: Décrire la différence entre la recherche hybride dans le cloud et la recherche fédérée hybride.
+- skill: Évaluer les différents types de recherche hybride.
+- skill: Configurer la recherche hybride dans le cloud.
+- skill: Configurer les résultats de recherche hybride.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  Le climat des entreprises a changé. Les gens souhaitent collaborer sans barrières collaboratives. Les entreprises veulent des décisions à la fois rentables et flexibles. Un environnement hybride permet aux utilisateurs d’entreprise d’être connectés de presque partout aux ressources et au contenu dont ils ont besoin. Cette formation vous apprendra à planifier et mettre en œuvre des scénarios hybrides SharePoint qui fournissent une expérience utilisateur harmonieuse. Nous discuterons également de la recherche hybride sur SharePoint qui fournit aux utilisateurs un accès facile aux fichiers dont ils ont besoin.
+  
+  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation.
+  
+  C’est la troisième formation d'une série de quatre formations pour l’administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-301&#58; Déployer SharePoint Server hybride.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
+  
+  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
+  
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Avoir de l’expérience avec Windows PowerShell.
+  - Avoir une compréhension de base de la gestion d’un SQL Server.
+  - Avoir une compréhension de base de la mise en réseau, notamment le DNS.
+  - Avoir une connaissance pratique de l’administration des serveurs Windows.
+  - Avoir une compréhension de base d’Active Directory et Azure AD.
+  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS).
+outlineSection: |-
+  ### Module 1&#58; Aperçu des scénarios hybrides SharePoint
+  Ce module concerne la planification SharePoint Server hybride. Il fournit un aperçu des scénarios hybrides sur SharePoint ainsi que des exigences de configuration.
+
+  #### Leçons
+  - Aperçu des scénarios hybrides SharePoint
+  - Planifier SharePoint Server hybride
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les scénarios hybrides disponibles sur SharePoint.
+  - de décrire les exigences de la configuration hybride de SharePoint.
+  - de planifier SharePoint Server hybride.
+
+
+  ### Module 2&#58; Mettre en œuvre les scénarios hybrides SharePoint
+  Ce module est axé sur la mise en œuvre des scénarios hybrides SharePoint. Il discute spécifiquement des feuilles de route de configuration hybride, notamment la configuration d'une infrastructure hybride et d’un sélecteur hybride. Il introduit également la passerelle de données sur site pour permettre l’utilisation des fonctionnalités Office 365 dans SharePoint Server 2019.
+
+  #### Leçons
+  - Mettre en œuvre les scénarios hybrides SharePoint
+  - Configurer une passerelle de données sur site
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de configurer les scénarios hybrides sur SharePoint.
+  - de configurer une passerelle de données sur site.
+
+
+  ### Module 3&#58; Mettre en œuvre la recherche hybride SharePoint
+  Ce module est axé sur la recherche hybride sur SharePoint. Il introduit plusieurs types de recherche hybride, notamment la recherche hybride dans le cloud et la recherche fédérée hybride. Il explique comment définir une recherche hybride et comment configurer les résultats de la recherche.
+  #### Leçons
+  - Aperçu de la recherche hybride sur SharePoint
+  - Configurer la recherche hybride sur SharePoint.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la différence entre la recherche hybride dans le cloud et la recherche fédérée hybride.
+  - d'évaluer les différents types de recherche hybride.
+  - de configurer la recherche hybride dans le cloud.
+  - de configurer les résultats de la recherche hybride.
+
+
+  ### Module 4&#58; Conclusion de la formation
+
+  #### Laboratoire&#58; Configurer SharePoint hybride

@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: "Conception d'une stratégie DevOps"
+metadata:
+  title: "Formation AZ-400T07-A: Conception d'une stratégie DevOps"
+  description: "Formation AZ-400T07-A: Conception d'une stratégie DevOps"
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planification de la transformation avec des objectifs et des lignes directrices partagées.
+- skill: Sélection d'un projet et identification des mesures et des KPI du projet.
+- skill: Création d'une équipe et structure organisationnelle agile.
+- skill: Mise au point d'une stratégie de qualité de projet.
+- skill: Planification de pratiques de mise au point sécurisées et de règles de conformité.
+- skill: Migration et consolidation d’artéfacts.
+- skill: Migration et intégration de mesures de contrôle des sources.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Cette formation apporte les connaissances et les compétences nécessaires à la conception d’une stratégie DevOps. Les étudiants apprendront à planifier la transformation, à sélectionner un projet et à créer des structures d’équipe. Ils apprendront également à mettre au point des stratégies de qualité et de sécurité. La planification de la migration et la consolidation des artéfacts et le contrôle des sources seront également couverts.
+
+  #### Profil de l’audience
+  Les étudiants qui suivent cette formation sont intéressés par la planification de projets DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
+prerequisitesSection: |-
+  - Connaissances de base de Azure, contrôle des versions, mise au point du logiciel Agile et principes de mise au point de logiciels de base. Il peut être utile d'avoir de l’expérience dans une organisation qui fournit des logiciels.
+  - Il est également recommandé d’avoir de l’expérience dans le travail dans un IDE, ainsi que des connaissances du portail Azure. Cependant, les étudiants qui n’ont pas de connaissances techniques de ces technologies, mais qui souhaitent découvrir les pratiques DevOps dans le cadre d'un changement de culture, doivent avoir la possibilité de suivre les explication de procédure et de présentation de l’intégration continue malgré tout.
+outlineSection: |-
+  ### Module 1&#58; Planification pour DevOps
+  Dans ce module, les étudiants découvriront la planification de la transformation, la sélection de projets et les structures des équipes.
+  #### Leçons
+  - Planification de la transformation
+  - Sélection de projets
+  - Structures des équipes
+
+
+  #### Laboratoire&#58; Planification agile et gestion de portefeuille avec les tableaux Azure
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de planifier la transformation avec des objectifs et des lignes du temps partagées
+  - de sélectionner un projet et d’identifier les mesures et les KPI du projet
+  - de créer une équipe et une structure organisationnelle agile
+
+
+  ### Module 2&#58; Planification de la qualité et de la sécurité
+  Dans ce module, les étudiants découvriront la mise au point d'une stratégie de qualité et la planification de la mise au point sécurisée.
+  #### Leçons
+  - Planification d'une stratégie de qualité
+  - Planification de la mise au point sécurisée
+
+
+  #### Laboratoire&#58; Gestion des drapeaux des fonctionnalités avec LaunchDarkly et Azure DevOps
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre au point une stratégie de qualité pour un projet,
+  - de planifier des stratégies de mise au point sécurisées et des règles de conformité.
+
+
+  ### Module 3&#58; Migration et consolidation des artéfacts et des outils
+  Dans ce module, les étudiants découvriront la migration et la consolidation des artéfacts ainsi que la migration et l’intégration de mesures de contrôle des sources.
+  #### Leçons
+  - Migration et consolidation des artéfacts
+  - Migration et intégration du contrôle des sources
+
+
+  #### Laboratoire&#58; Intégration d’Azure Report et des pipelines Azure à Eclipe
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de migrer et consolider des artéfacts
+  - de migrer et intégrer des mesures de contrôle des sources

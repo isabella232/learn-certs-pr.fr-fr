@@ -1,0 +1,78 @@
+### YamlMime:Course
+title: Technologies de sécurité de Microsoft Azure
+metadata:
+  title: 'Formation AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
+  description: 'Formation AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des classifications de données spécialisées dans Azure
+- skill: Identification des mécanismes de protection des données d’Azure
+- skill: Mise en œuvre des méthodes de cryptage des données d’Azure
+- skill: Sécurisation des protocoles Internet et de leur mise en œuvre dans Azure
+- skill: Description des services et fonctionnalités de la sécurité d’Azure
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  Dans cette formation, les étudiants obtiendront les connaissances et
+  les compétences nécessaires à la mise en œuvre de contrôle de sécurité, au maintient d’une posture de sécurité
+  et à l’identification et à la correction des vulnérabilités grâce à l’utilisation d'un ensemble d’outils
+  de sécurité. Cette formation couvre le scriptage et l’automatisation, la virtualisation et l’architecture
+  N-tiers du cloud.
+
+  #### Profil de l’audience
+  Les étudiants doivent avoir au moins un an d’expérience pratique dans la sécurisation des charges de travail Azure et de l’expérience dans les contrôles de sécurité pour les charges de travail sur Azure.
+prerequisitesSection: |-  
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/fr-fr/learn/certifications/azure-administrator)
+outlineSection: |-
+  ### Module 1&#58; Identité et accès
+  #### Leçons
+  - Configuration de Azure Active Directory pour les charges de travail et les abonnements Azure
+  - Configuration de la gestion de l’identité privilégiée Azure AD
+  - Configuration de la sécurité pour un abonnement Azure
+
+
+  ### Module 2&#58; Protection des plateformes
+  #### Leçons
+  - Compréhension des concepts du cloud
+  - Construction d'un réseau
+  - Sécurisation du réseau
+  - Mise en œuvre de la sécurité des hôtes
+  - Mise en œuvre de la sécurité des plateformes
+  - Mise en œuvre de la sécurité des abonnements
+
+
+  ### Module 3&#58; Opérations de sécurité
+  #### Leçons
+  - Configuration des services de sécurité
+  - Configuration de stratégies de sécurité à l’aide du centre de sécurité Azure
+  - Gestion des alertes de sécurité
+  - Réponse à et correction des problèmes de sécurité
+  - Création de références de sécurité
+
+
+  ### Module 4&#58; Données et applications
+  #### Leçons
+  - Configuration de stratégies de sécurité pour gérer les données
+  - Configuration de la sécurité pour l’infrastructure des données
+  - Configuration du cryptage pour les données au repos
+  - Compréhension de la sécurité des applications
+  - Mise en œuvre de la sécurité pour le cycle de vie des applications
+  - Sécurisation des applications
+  - Configuration et gestion de Azure Key Vault

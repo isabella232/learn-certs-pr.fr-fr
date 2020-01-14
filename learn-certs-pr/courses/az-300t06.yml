@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Développer le cloud
+metadata:
+  title: 'Formation AZ-300T06-A: Mise au point pour le cloud'
+  description: 'Formation AZ-300T06-A: Mise au point pour le cloud'
+uid: course.az-300t06
+courseNumber: 'AZ-300T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configuration d'une architecture d'intégration basée sur les messages
+- skill: Compréhension de la façon de mettre au point pour le traitement asynchrone
+- skill: Début de la création d'applications pour l’évolutivité automatique
+- skill: Compréhension des solutions de services cognitifs Azure
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Apprendre à configuration d'une architecture d'intégration basée sur les messages, mettre au point pour le traitement asynchrone, créer des applications pour l’évolutivité automatique et mieux comprendre les solutions de services cognitifs Azure.
+
+  #### Profil de l’audience
+  Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
+outlineSection: |-
+  ### Module 1&#58; Développement de tâches de longue durée et de transactions distribuées
+  Les sujets de ce module incluent la mise en œuvre à grande échelle en parallèle d'applications à haute performance à l’aide de lots, HPC à l’aide des machines virtuelles Microsoft Azure, la mise en œuvre d'applications résilientes à l'aide de files d'attente ainsi que la mise en œuvre du code pour traiter les événements des applications à l’aide de crochets web. La mise en œuvre d'un crochet web donne à une ressource externe un URL pour une application. La ressource externe émet ensuite une demande HTTP pour cet URL dès qu'un changement est apporté et qu'il requiert une action de l’application.
+
+
+  ### Module 2&#58; Configuration d'une architecture d'intégration basée sur les messages
+
+  #### Leçons
+  - Configuration d'une application ou d'un service pour envoyer des courriers électroniques
+  - Configuration d'un modèle de publication et d'abonnement d’événements
+  - Configuration du service de relais Azure
+  - Configuration des applications et des services avec Microsoft Graph
+  
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de configurer une architecture d’intégration basée sur les messages
+
+
+  ### Module 3&#58; Mise au point pour le traitement asynchrone
+  #### Leçons
+  - Mise en œuvre du parallélisme, du multithreading et du traitement
+  - Mise en œuvre des fonctions Azure et des applications logiques d’Azure
+  - Mise en œuvre des interfaces pour le stockage ou l’accès aux données
+  - Mise en œuvre des modèles de calcul asynchrone adaptés
+  - Mise en œuvre des règles et des modèles d’évolutivité automatique
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre comment mettre au point le traitement asynchrone
+
+
+  ### Module 4&#58; Mise au point de l’évolutivité automatique
+  #### Leçons
+  - Mise en œuvre des règles et des modèles d’évolutivité automatique
+  - Mise en œuvre du code qui répond aux instances simples des applications
+  - Mise en œuvre du code qui s’occupe d’un état transitoire
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de commencer à créer des applications pour l’évolutivité automatique
+
+
+  ### Module 5&#58; Mise au point des solutions de services cognitifs Azure
+  #### Leçons
+  - Mise au point de solutions à l’aide de la vision informatique
+  - Mise au point de solutions à l’aide de la recherche web Bing
+  - Mise au point de solutions à l’aide du service de parole personnalisé
+  - Mise au point de solutions à l’aide de QnA Maker
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre des solutions de services cognitifs Azure
+
+
+  ### Module 6&#58; Mise au point pour le stockage Azure
+  #### Leçons
+  - Mise au point de solutions qui utilisent le stockage Azure Cosmos DB
+  - Mise au point de solutions qui utilisent une base de données relationnelles
+  - Modélisation d'une base de données à l’aide de Entity Framework Core
+  - Mise au point de solutions qui utilisent le stockage de blobs Microsoft Azure
+  - Manipulation de propriétés de conteneurs de blobs dans .NET.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre des services de stockage Azure tels que blobs et Cosmos DB

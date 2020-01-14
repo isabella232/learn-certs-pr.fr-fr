@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Mettre au point des solutions de calcul de Plateforme en tant que service Azure
+metadata:
+  title: 'Formation AZ-203T02-A: Mise au point de solutions de calcul Azure Platform en tant que service'
+  description: 'Formation AZ-203T02-A: Mise au point de solutions de calcul Azure Platform en tant que service'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Dans cette formation, les étudiants obtiendront les connaissances et les compétences nécessaires à la mise en œuvre des fonctionnalités et des services de la plateforme Azure en tant que service dans la mise au point de leurs solutions. Les étudiants apprendront à créer et gérer des ressources du service d'applications Azure, à intégrer la synchronisation push et hors ligne à leurs applications mobiles et la façon de documenter un API. Les étudiants apprendront également à créer et tester des fonctions d’Azure.
+
+  #### Profil de l’audience
+  - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+prerequisitesSection: |-
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
+outlineSection: |-
+  ### Module  1&#58; Créer des applications Web App Service
+  Les applications web du service d'applications Azure (ou simplement les applications web) sont un service d’hébergement des applications web, des API REST et des backs ends mobiles. Les applications web ajoutent la puissance de Microsoft Azure à votre application, par le biais de la sécurité, de l’équilibrage des charge, la mise au point automatique et la gestion automatisée.
+  #### Leçons
+  - Concepts de base du service d'applications Azure
+  - Création d’une application web du service d'applications Azure
+  - Création de tâches d'arrière-plan en utilisant WebJobs dans le service d'applications Azure
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les concepts et fonctionnalités de base du service d'applications
+  - de créer des applications web du service d'applications en utilisant Azure CLI, le portail Azure et PowerShell
+  - de créer des WebJobs continus et déclenchés
+
+
+  ### Module 2&#58; Création d'applications mobiles Azure App Service
+  La fonctionnalité des applications mobiles du service d'applications Azure donne aux développeurs des entreprises et aux intégrateurs de systèmes une plateforme de mise au point d'applications mobiles qui est hautement évolutive et disponible dans le monde.
+  #### Leçons
+  - Démarrage des applications mobiles dans le service d'applications
+  - Autorisation des notifications push pour votre application
+  - Autorisation de la synchronisation hors ligne pour votre application
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de pousser leur application sur le service d'applications mobiles
+  - d’enregistrer les applications pour les notifications push
+
+
+  ### Module 3&#58; Créer des applications API Azure App Service
+  Ce module couvre la création et l’enregistrement du service d'applications Azure API.
+  #### Leçons
+  - Création d’API
+  - Utilisation de Swagger pour enregistrer un API
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer une instance APIM et de créer un nouvel API
+  - d'utiliser Swashbuckle pour créer des objets Swagger dans ASP.NET Core
+
+
+  ### Module 4&#58; Mise en œuvre des fonctions Azure
+  Les fonctions d’Azure sont une solution qui permet d’exécuter facilement de petites pièces de code (ou « fonctions ») dans le cloud. Vous pouvez simplement écrire le code dont vous avez besoin pour résoudre le problème posé sans s’inquiéter de créer une application complète ou l’infrastructure pour l’exécuter.
+  #### Leçons
+  - Aperçu des fonctions d’Azure
+  - Mise au point de fonctions d’Azure à l’aide de Visual Studio
+  - Mise en œuvre de fonctions durables
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de comprendre les paramètres et les fonctionnalités de base des fonctions d’Azure
+  - de créer des fonctions, des liens et des déclenchements
+  - de connaître les schémas communs pour des fonctions durables et de les créer

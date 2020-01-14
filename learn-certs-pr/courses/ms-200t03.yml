@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Gestion de la haute disponibilité de la messagerie et de la reprise après sinistre
+metadata:
+  title: 'Formation MS-200T03-A: Gestion de la haute disponibilité de la messagerie et de la reprise après sinistre'
+  description: 'Formation MS-200T03-A: Gestion de la haute disponibilité de la messagerie et de la reprise après sinistre'
+uid: course.ms-200t03
+courseNumber: 'MS-200T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifier la haute disponibilité pour les serveurs des boîtes aux lettres
+- skill: Planifier la haute disponibilité pour le service d’accès clients
+- skill: Planifier la haute disponibilité pour le transport
+- skill: Mettre en œuvre la résilience de site
+- skill: Planifier une récupération après sinistre
+- skill: Mettre en œuvre des stratégies de sauvegarde
+- skill: Restaurer les boîtes aux lettres, les bases de données et les serveurs
+- skill: Planifier la hiérarchie du dossier public
+- skill: Mettre en œuvre et gérer les dossiers publics
+- skill: Dépanner les dossiers publics
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Dans cette formation, les étudiants découvriront les solutions traditionnelles et les solutions modernes pour la haute disponibilité de la messagerie et la récupération après sinistre. Les systèmes de messagerie sont devenus de plus en plus complexes, avec l’abondance des nouvelles fonctionnalités qui ont été ajoutées au cours des dernières années, ainsi qu’avec l’importance accrue de la disponibilité et de la récupération après sinistre. Les approches traditionnelles de la haute disponibilité et la récupération après sinistre sont toujours présentes et existent principalement sur la couche matérielle, comme les systèmes RAID pour le stockage, la réplication des dispositifs en blocs et les solutions d'archivage à l’aide d’un stockage externe. Bien que Microsoft Exchange prenne en charge ces approches traditionnelles, elle propose également des solutions qui modernisent la haute disponibilité et la récupération après sinistre en fournissant des solutions directement intégrées dans les systèmes de messagerie. Cela comprend une réplication continue et des solutions de conservation qui sont directement intégrées dans les bases de données des messages. Cela économise beaucoup de temps et d’efforts aux administrateurs pour maintenir les différentes couches de solutions étrangères sur le matériel et les logiciels.
+  
+  Dans cette formation, les étudiants découvriront chacune de ces solutions, ils apprendront quand utiliser l’une ou l’autre, comment planifier un déploiement et comment effectuer la mise en œuvre effective.
+
+  #### Profil de l’audience
+  L’administrateur de messagerie déploie, configure, gère et
+  dépanne les destinataires, les autorisations, la protection des messages, le flux des messages et les dossiers publics
+  dans des environnements d’entreprise sur site et dans le cloud. Ses responsabilités englobent la gestion de l’hygiène des messages, l’infrastructure de la messagerie, la configuration hybride
+  et la migration. L'administrateur de messagerie met également en œuvre et gère la récupération après sinistre, la haute disponibilité et l’accès des clients. Pour mettre en œuvre une topologie hybride sécurisée qui réponde aux besoins professionnels d’une organisation moderne, l’administrateur de messagerie doit collaborer avec l’administrateur de la sécurité et l’administrateur de Microsoft 365 Enterprise.
+  L'administrateur de messagerie doit posséder des connaissances pratiques dans les types d'authentification, l’octroi des licences et l'intégration aux applications Microsoft 365.
+prerequisitesSection: |-
+  - Une compréhension parfaite du DNS.
+  - Une compréhension de base de la messagerie dans le cadre d’Exchange Server ou d’Exchange Online.
+  - Une compréhension de base d’Active Directory et de l’infrastructure du contrôleur de domaines ainsi que de la gestion des identités.
+  - Une expérience pratique de base des services Microsoft 365 et de la synchronisation des répertoires.
+  - Au moins cinq ans d’expérience en informatique générale.
+outlineSection: |-
+  ### Module 1&#58; Haute disponibilité pour les Exchange Servers
+  #### Leçons
+  - Planifier la haute disponibilité pour les serveurs des boîtes aux lettres
+  - Planifier la haute disponibilité pour le service d’accès clients
+  - Planifier la haute disponibilité pour le transport
+  - Mettre en œuvre la résilience du site
+
+
+  ### Module 2&#58; Gérer la récupération après sinistre
+  #### Leçons
+  - Planifier une récupération après sinistre
+  - Mettre en œuvre des stratégies de sauvegarde
+  - Restaurer les boîtes aux lettres, les bases de données et les serveurs
+
+
+  ### Module 3&#58; Gérer les dossiers publics
+  #### Leçons
+  - Planifier la hiérarchie du dossier public
+  - Mettre en œuvre et gérer les dossiers publics
+  - Dépanner les dossiers publics
+
+
+  ### Module 4&#58; Laboratoire - Gestion des dossiers publics et récupération après sinistre
+
+  #### Laboratoire&#58; Gestion des dossiers publics et récupération après sinistre
+  - Exercice 1&#58; Résoudre les problèmes du flux de messagerie et de la connectivité
+  - Exercice 2&#58; Récupération après sinistre en utilisant eDiscovery et In-place Holds

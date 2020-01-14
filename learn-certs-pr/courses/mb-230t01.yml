@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Dynamics 365 pour l’engagement client pour le service client
+metadata:
+  title: 'Formation MB-230T01-A: Dynamics 365 pour l’engagement client pour le service client'
+  description: 'Formation MB-230T01-A: Dynamics 365 pour l’engagement client pour le service client'
+uid: course.mb-230t01
+courseNumber: 'MB-230T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installer et configurer l'application pour le service client
+- skill: Identifier les scénarios communs du service client
+- skill: Compléter un processus de résolution des cas
+- skill: Analyser les données du service client
+- skill: Automatiser le traitement des enregistrements de gestion des cas
+- skill: Créer et utiliser des articles de connaissances
+- skill: Créer et utiliser des droits et des accords de niveau de service
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-customer-service
+exams:
+- uid: exam.mb-230
+summary: |-
+  Microsoft Dynamics 365 pour le service client offre à toute organisation une possibilité de succès auprès des clients. L’utilisation d’outils tels que la création automatique de cas et la gestion de la file d'attente libère du temps à consacrer là où il est possible d'avoir un impact plus important, directement auprès des clients.
+
+  Notre équipe d’experts internationalement reconnus guide les étudiants pas à pas, de la création des cas à l’interaction avec les clients, jusqu’à la résolution des cas. Une fois que les cas sont résolus, les étudiants apprendront de l’analyse des cas les détails essentiels qui les aideront à résoudre des cas similaires plus rapidement ou même éviter de nouveaux problèmes.
+
+  #### Profil de l’audience
+  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé un des chemins de certification d'administrateur de charges de travail Microsoft 365.
+outlineSection: |-
+  ### Module 1&#58; Aperçu sur le service clients
+  Dans ce module, les étudiants découvriront les bases du service client dans Dynamics 365.  Les étudiants installeront et configureront l’application et découvriront également les rôles de sécurité, les applications liées et les analyses.
+  #### Leçons
+  - Leçon 1&#58; Créer des enregistrements de cas
+  - Leçon 2&#58; Applications de service liées
+  - Leçon 3&#58; Analyses pour le service
+  - Leçon 4&#58; IA pour le service
+  - Leçon 5&#58; Configurer le service client
+  - Leçon 6&#58; Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'installer et de configurer l'application du service client
+  - identifier les scénarios communs du service clients
+
+
+  ### Module 2&#58; Gestion des cas
+  Dans ce module, les étudiants apprendront à ouvrir et résoudre les cas du service client, à la fois manuellement et avec l’automatisation.
+  #### Leçons
+  - Leçon 1&#58; Aperçu de la gestion des cas
+  - Leçon 2&#58; Créer des enregistrements de cas
+  - Leçon 3&#58; Gestion de la file d'attente
+  - Leçon 4&#58; Routage des cas
+  - Leçon 5&#58; Résoudre des cas
+  - Leçon 6&#58; Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'ouvrir et de résoudre des cas du service client
+  - automatiser la création des cas et le routage
+
+
+  ### Module 3&#58; Accords de niveau de service et droits
+  Dans ce module, les étudiants apprendront à définir et utiliser les droits et les modèles de droits, ainsi que les accords de niveau de service et la façon de résoudre des cas grâce à ces outils.
+  #### Leçons
+  - Leçon 1&#58; Aperçu des accords de niveau de service et des droits
+  - Leçon 2&#58; Créer et gérer des droits
+  - Leçon 3&#58; Créer et gérer des accords de niveau de service
+  - Leçon 4&#58; Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et d'utiliser des accords de niveau de service
+  - de créer et d'utiliser des droits
+
+
+  ### Module 4&#58; Gestion des connaissances
+  Dans ce module, les étudiants apprendront à créer et à utiliser la gestion des connaissances.  De plus, les étudiants découvriront le cycle de vie des articles sur les connaissances.
+  #### Leçons
+  - Leçon 1&#58;Aperçu de la gestion des connaissances
+  - Leçon 2&#58; Créer et organiser
+  - Leçon 3&#58; Utiliser le contenu des connaissances
+  - Leçon 4&#58; Gérer le contenu des connaissances
+  - Leçon 5&#58; Résumé du module
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et de gérer le contenu des connaissances

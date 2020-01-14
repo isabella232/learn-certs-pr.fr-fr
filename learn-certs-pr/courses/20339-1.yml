@@ -1,0 +1,371 @@
+### YamlMime:Course
+title: Planification et administration de SharePoint 2016
+metadata:
+  title: 'Formation 20339-1-A: Planification et administration de SharePoint 2016'
+  description: 'Formation 20339-1-A: Planification et administration de SharePoint 2016'
+uid: course.20339-1
+courseNumber: '20339-1A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des fonctionnalités clés de SharePoint 2016.
+- skill: Conception d’une architecture de l’information pour un déploiement SharePoint 2016.
+- skill: Conception d’une architecture logique pour un déploiement SharePoint 2016.
+- skill: Conception de l’architecture physique pour un déploiement SharePoint 2016.
+- skill: Installation et configuration de SharePoint 2016.
+- skill: Création et configuration d'application web et de regroupements de sites.
+- skill: Planification et configuration des applications de service pour un déploiement SharePoint 2016.
+- skill: Gestion des utilisateurs et des permissions et sécurisation du contenu dans un déploiement SharePoint 2016.
+- skill: Configuration de l’authentification dans un déploiement SharePoint 2016.
+- skill: Configuration de la sécurité au niveau de la plateforme et au niveau du regroupement dans un déploiement SharePoint 2016.
+- skill: Gestion de la taxonomie des informations dans des applications web et des regroupements de sites SharePoint.
+- skill: Configuration et gestion des profils d'utilisateurs et des audiences.
+- skill: Configuration et gestion de l’expérience de recherche dans SharePoint 2016.
+- skill: Surveillance, maintien et dépannage d'une déploiement SharePoint 2016.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-339
+summary: |-
+  La première formation en cinq jours vous donne les compétences et les connaissances pour planifier et administrer un environnement Microsoft SharePoint 2016. Cette formation vous apprendre à déployer, administrer et dépanner votre environnement SharePoint. Ce cours fournit aussi les directives d’utilisation, meilleurs pratiques et considérations qui vous aident à optimiser votre déploiement SharePoint.
+
+  C’est la première formation d'une séquence de deux formations pour les professionnels de l'informatique. Elle est alignée à la certification SharePoint 2016 IT Pro.
+
+  #### Profil de l’audience
+  Cette formation s'adresse aux professionnels de l'informatique expérimentés qui souhaitent apprendre à installer, configurer, déployer et gérer des installations SharePoint 2016 dans un centre de données ou dans le cloud.
+  
+  Les étudiants disposent généralement de plus d'un an d'expérience pratique * dans la planification et la maintenance de SharePoint et de deux ans d’expérience dans d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2012 R2 ou version ultérieure, Internet Information Services (IIS), Microsoft SQL Server 2014 ou version ultérieure, Active Directory Domain Services (AD DS) et les services d'infrastructure réseau.
+  
+  Le candidat doit avoir le profil minimal suivant&#58;
+  - Un professionnel de l’informatique qui planifie, met en œuvre et maintient un déploiement multiserveur de SharePoint 2016.
+  - A une connaissance professionnelle de et, de préférence, une expérience pratique avec SharePoint en ligne.
+  - Est familiarisé aux charges de travail de SharePoint.
+  - A de l’expérience dans la gestion de la continuité des affaires, ce qui inclut la sauvegarde, la récupération et la haute disponibilité des données.
+  - A de l’expérience dans les technologies d’authentification et de sécurité.
+  - A de l’expérience avec Windows PowerShell.
+
+  * L’expérience pratique ou l’expérience professionnelle doit venir d'un rôle basé sur les solutions où le candidat a travaillé avec plusieurs solutions dans l’espace SharePoint, ce qui inclut la gestion de documents, la gestion de contenu et la recherche.
+prerequisitesSection: |-
+  Avant de suivre cette formation,
+  les étudiants doivent avoir des connaissances dans&#58;
+  - la gestion de logiciels dans un environnement de serveurs d’entreprise Windows Server 2012 ou Windows Server 2012 R2.
+  - Déployer et gérer des applications de façon native, virtuelle et dans le cloud.
+  - l’administration d’IIS.
+  - la configuration AD/DS pour une utilisation lors de l’authentification, l’autorisation et en tant que stockage pour l’utilisateur.
+  - la gestion d'une application à distance en utilisant Windows PowerShell 4.0.
+  - la gestion de rôle de bases de données et de serveurs dans SQL Server.
+  - Connecter des applications à SQL Server.
+  - Mettre en œuvre la sécurité basée sur les plaintes.
+  - l’utilisation de machines virtuelles Microsoft Hyper-V.
+
+  Un candidat idéal à cette formation doit avoir au moins un an d’expérience dans le déploiement et l’administration de plusieurs groupements SharePoint 2013 dans une grande entreprise. Étant donné que de nombreux clients n’ont pas fait la mise à niveau de SharePoint 2010, un candidat peut également avoir deux ans d’expérience avec SharePoint 2010. Cependant, il doit également comprendre les différences entre SharePoint 2010 et SharePoint 2013, surtout en termes d’hybridation.
+outlineSection: |-
+  ### Module 1&#58; Introduction à SharePoint 2016
+  Ce module décrit la structure et les capacités d'un environnement SharePoint, et les changements importants pour les professionnels de l'informatique dans SharePoint 2016. Ce module décrit également les options disponibles pour le déploiement de SharePoint 2016.
+  #### Leçons
+  - Composants clés d'un déploiement SharePoint
+  - Nouvelles fonctionnalités dans SharePoint 2016
+  - Options de déploiement de SharePoint 2016
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d'identifier l’architecture et les fonctionnalités de SharePoint 2016.
+  - d'identifier les nouvelles fonctionnalités et les fonctionnalités obsolètes dans SharePoint 2016.
+  - d'identifier les options de déploiement pour SharePoint 2016.
+
+
+  ### Module 2&#58; Conception d'une architecture de l’information
+  Ce module décrit comment rassembler des exigences professionnelles et les éléments clés d’un projet d’architecture de l’information réussie. Ce module explique également comment structurer les informations dans un déploiement SharePoint 2016 et les rendre faciles à retrouver et à récupérer.
+  #### Leçons
+  - Identification des exigences professionnelles
+  - Compréhension des exigences professionnelles
+  - Organisation des informations dans SharePoint 2016
+  - Planification de l’accessibilité
+
+
+  #### Laboratoire&#58; Conception d'une architecture de l’information - Première partie
+  - Identification des colonnes du site et des types de contenu
+
+
+  #### Laboratoire&#58; Création d'une architecture de l’information - Deuxième partie
+  - Conception d'une taxonomie d’entreprise
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer comment la compréhension des exigences des entreprises entraîne la conception d'un architecture de l’information organisationnelle.
+  - décrire les composants clés disponibles dans SharePoint 2016 pour déployer une architecture de l’information.
+  - planifier l’accessibilité dans le cadre du déploiement d'une architecture de l’information.
+
+
+  ### Module 3&#58; Conception d'une architecture logique
+  Ce module explique l’approche de la conception d'une architecture logique et la façon de la consigner.
+  #### Leçons
+  - Aperçu d'une architecture logique SharePoint 2016
+  - Documentation de votre architecture logique
+
+
+  #### Laboratoire&#58; Conception d'une architecture logique
+  - Planification d'une architecture logique
+  - Production du diagramme d'une architecture logique
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de cartographier les exigences d'une entreprise concernant les composants de l’architecture de SharePoint 2016.
+  - d’expliquer l’importance de la documentation et de décrire les options pour consigner l’architecture logique.
+
+
+  ### Module 4&#58; Conception d'une architecture physique
+  Ce module décrit les exigences de conception physique pour SharePoint 2016 et les composants physiques nécessaires à la conception de l’architecture physique. Il explique également les topologiques des groupements de SharePoint et décrit comment cartographier le design d'une architecture logique dans la conception d'une architecture physique.
+  #### Leçons
+  - Conception des composants physiques pour les déploiements SharePoint
+  - Conception des composants de soutient pour les déploiements SharePoint
+  - Topologies des groupements SharePoint
+  - Cartographie de la conception d'une architecture logique dans la conception d'une architecture physique
+
+
+  #### Laboratoire&#58;Conception d'une architecture physique
+  - Conception d'une architecture physique
+  - Mise au point du diagramme de la conception d'une architecture physique
+
+  Après
+  avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire les exigences des composants physiques nécessaires au déploiement de SharePoint 2016.
+  - de décrire les exigences de prise en charge des composants nécessaire au déploiement de SharePoint 2016.
+  - d'identifier les topologies de groupement de SharePoint.
+  - de cartographier la conception d'une architecture logique dans la conception d'une architecture physique.
+
+
+  ### Module 5&#58; Installation et configuration de SharePoint 2016
+  Ce module explique comment installer SharePoint 2016 dans différentes topologies, d’écrire l'installation et de configurer un environnement SharePoint 2016. Ce module explique également comment configurer les paramètres de base au niveau du groupement dans un déploiement SharePoint 2016.
+  #### Leçons
+  - Installation de SharePoint 2016
+  - Écriture de l’installation et de la configuration de SharePoint
+  - Configuration des paramètres de groupement SharePoint 2016
+
+
+  #### Laboratoire&#58; Déploiement et configuration de SharePoint 2016 - Première partie
+  - Approvisionnement d'un groupement SharePoint 2016
+
+
+  #### Laboratoire&#58; Déploiement et configuration de SharePoint 2016 - Deuxième partie
+  - Configuration des e-mails entrants
+  - Configuration des e-mails sortants
+  - Configuration de l’intégration au serveur Office en ligne
+
+  Après
+  avoir terminé ce module, les étudiants seront capables&#58;
+  - d'installer SharePoint 2016.
+  - de déployer et configure SharePoint 2016.
+  - d’écrire l’installation et la configuration de SharePoint 2016.
+  - de configurer les paramètres de groupement de SharePoint 2016.
+
+
+  ### Module 6&#58; Création d'applications web et de regroupements de sites.
+  Ce module explique comment créer des applications web dans SharePoint 2016 et comment les configurer. Il explique également comment créer et configurer des collections de sites dans SharePoint 2016 et SharePoint Online.
+  #### Leçons
+  - Création d'applications Web
+  - Configuration d'applications Web
+  - Création et configuration de regroupements de sites
+
+
+  #### Laboratoire&#58; Créer et configurer des applications web
+  - Création d'une application web
+  - Configuration d'une application web
+
+
+  #### Laboratoire&#58; Création et configuration de regroupements de sites
+  - Création et configuration de regroupements de sites
+  - Création d’un regroupement de sites dans une nouvelle base de données
+  - Utilisation de la création rapide de regroupements de sites
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer des applications web.
+  - de configurer des applications web.
+  - de créer et configurer des regroupements de sites.
+
+
+  ### Module 7&#58; Planification et configuration des applications de services
+  Ce module décrit l’architecture des applications de service dans SharePoint 2016 et la façon d'approvisionner et de gérer les applications de services.
+  #### Leçons
+  - Introduction à l’architecture des applications de service
+  - Création et configuration des applications de services
+
+
+  #### Laboratoire&#58; Planification et configuration des applications de services
+  - Approvisionnement d’une application de services de métadonnées gérées avec une administration centrale
+  - Approvisionnement d’une application de services de métadonnées gérées avec Windows PowerShell
+  - Configuration de l’application de service des services d'automatisation de Word pour la conversion de documents
+  - Configuration des groupes proxy des applications de services
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer les composants et topologies clés d'une architecture d'applications de services SharePoint 2016.
+  - de planifier des comptes de services et des dépendances d'applications de services.
+  - De comprendre l’objectif de la cartographie des applications de services pour les exigences des entreprises.
+  - de décrire comment approvisionner et gérer les applications de service SharePoint 2016.
+
+
+  ### Module 8&#58; Gestion des utilisateurs et des permissions et sécurisation du contenu
+  Ce module explique comment configurer une autorisation dans SharePoint 2016. Il explique également comment configurer la sécurité des regroupements de sites dans SharePoint 2016.
+  #### Leçons
+  - Configuration de l’autorisation dans SharePoint 2016
+  - Gestion de l'accès au contenu
+
+
+  #### Laboratoire&#58; Gestion des utilisateurs et des groupes
+  - Création d'une politique d'applications web
+  - Création et gestion de groupes SharePoint
+  - Création de niveaux de permission personnalisés
+
+
+  #### Laboratoire&#58; Sécurisation du contenu sur les sites SharePoint
+  - Gestion des permissions et de l’héritage
+  - Gestion de la sécurité des regroupements de sites
+  - Autorisation de l’accès anonyme à un site
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de gérer les utilisateurs et les permissions dans SharePoint 2016.
+  - de gérer l’accès au contenu dans SharePoint 2016.
+
+
+  ### Module 9&#58; Configuration de l’authentification pour SharePoint 2016
+  Ce module décrit l’infrastructure d'authentification SharePoint 2016 et comment configurer les plaintes, les fournisseurs et la fédération de l’identité pour SharePoint 2016. Il explique également comment configurer l’authentification de serveur à serveur pour SharePoint 2016.
+  #### Leçons
+  - Aperçu de l’authentification
+  - Configuration de l’authentification fédérée
+  - Configuration de l’authentification de serveur à serveur
+
+
+  #### Laboratoire&#58; Extension de SharePoint 2016 pour prendre en charge Secure Sockets Layer (SSL)
+  - Configuration de Microsoft SharePoint 2016 pour utiliser des entités fédérées
+  - Configuration de Active Directory Federation Services (AD FS) pour autoriser une application web à une partie intéressée
+  - Configuration de SharePoint pour faire confiance à AD FS en tant que fournisseur d'identité
+  - Configuration d'une application web pour utiliser le fournisseur d’identité d’AD FS
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer l’infrastructure d'authentification de SharePoint 2016.
+  - de configurer les fournisseurs de plainte et la fédération des identités pour SharePoint 2016.
+  - de configurer l’authentification serveur à serveur pour SharePoint 2016.
+
+
+  ### Module 10&#58; Sécurisation du déploiement de SharePoint 2016
+  Ce module explique comment sécurité le déploiement de SharePoint 2016 au niveau de la plateforme et comment configurer les paramètres de sécurité au niveau des groupements pour un déploiement SharePoint 2016.
+  #### Leçons
+  - Sécurisation de la plateforme
+  - Configuration de la sécurité au niveau du groupement
+
+
+  #### Laboratoire&#58; Sécurisation d’un déploiement SharePoint 2016
+  - Configuration de la sécurité de la communication d'un serveur SharePoint
+  - Durcissement d'un groupement de serveurs SharePoint
+  - Configuration des types de fichiers bloqués
+  - Configuration de la sécurité des parties web
+  - Mise en œuvre de l’audit de la sécurité
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de sécuriser un déploiement SharePoint 2016 au niveau de la plateforme.
+  - de configurer des paramètres de sécurité au niveau du groupement pour un déploiement SharePoint 2016.
+
+
+  ### Module 11&#58; Gestion de la taxonomie
+  Ce module explique comment créer et gérer des types de contenus et la propagation des types de contenus. En outre, il explique comment mettre en oeuvre des métadonnées gérées dans des applications web SharePoint et des regroupements de sites. Il explique également comment configurer l’application de services de métadonnées gérée dans SharePoint 2016.
+  #### Leçons
+  - Gestion des types de contenus
+  - Compréhension des métadonnées gérées
+  - Configuration du service de métadonnées gérées
+
+
+  #### Laboratoire&#58; Configuration de la propagation du type de contenu
+  - Création des types de contenu pour la propagation
+  - Publication des types de contenu dans les regroupements de sites
+
+
+  #### Laboratoire&#58; Configuration et utilisation du service de métadonnées gérées
+  - Configuration du service de métadonnées gérées
+  - Création des ensembles de termes et des termes
+  - Consommation des ensembles de termes
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et gérer des types de contenue et la propagation des types de contenus.
+  - d’expliquer comment mettre en œuvre les métadonnées gérées dans les applications web SharePoint et les regroupements de sites.
+  - de configurer l’application de services de métadonnées gérées dans SharePoint 2016.
+
+
+  ### Module 12&#58; Configuration des profils utilisateur
+  Ce module explique comment configurer l’application de service des profils utilisateur et comment gérer des profils utilisateur et les audiences.
+  #### Leçons
+  - Configuration de l’application de service des profils utilisateur
+  - Gestion des profils utilisateur et des audiences
+
+
+  #### Laboratoire&#58; Configuration des profils utilisateur
+  - Configuration de l’application de service des profils utilisateur
+  - Configuration de l’importation et de la synchronisation du directoire
+
+
+  #### Laboratoire&#58; Configuration de Mes Sites et des audiences
+  - Configuration de Mes Sites
+  - Configuration des audiences
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de configurer l’application de service des profils utilisateurs.
+  - de gérer des profils utilisateur et les audiences.
+
+
+  ### Module 13&#58; Configuration de la recherche d’entreprises
+  Ce module décrit l’application de service de recherche et explique comment configurer le service de recherche dans SharePoint 2016. Il explique également comment gérer l’expérience de recherche dans SharePoint 2016.
+  #### Leçons
+  - Compréhension de l’architecture de l’application de service de recherche
+  - Configuration de la recherche d’entreprises
+  - Gestion de la recherche d’entreprises
+
+
+  #### Laboratoire&#58; Configurer la recherche d’entreprise
+  - Configuration de l’application de service de recherche
+  - Configuration de la source du contenu de partage de fichiers
+  - Configuration de la source de contenu de SharePoint local
+  - Création d'un centre de recherche
+
+
+  #### Laboratoire&#58; Optimisation de l’expérience de recherche
+  - Configuration d'une source de résultats et d'une règle de requêtes
+  - Personnalisation de l’expérience de recherche
+  - Création et déploiement d'un thésaurus
+  - Configuration des extracteurs et des raffineurs d’entités
+  - Gestion des requêtes de correction orthographique
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’architecture du service de recherche dans SharePoint 2016.
+  - de configurer le service de recherche dans SharePoint 2016.
+  - de gérer l’expérience de recherche dans SharePoint 2016.
+
+
+  ### Module 14&#58; Surveillance et maintenance d'un environnement SharePoint 2016
+  Ce module explique comment mettre en œuvre une surveillance pour SharePoint 2016 et comment optimiser la performance d’un déploiement de SharePoint 2016. Il explique également comment planifier et configurer la mise en cache de SharePoint. En outre, il explique comment identifier et résoudre les problèmes dans un environnement SharePoint 2016.
+  #### Leçons
+  - Surveillance d'un environnement SharePoint 2016
+  - Ajustement et optimisation d'un environnement SharePoint 2016
+  - Planification et configuration de la mise en cache
+  - Résolution des problèmes d'un environnement SharePoint 2016
+
+
+  #### Laboratoire&#58; Surveillance d'un déploiement SharePoint 2016
+  - Configuration de la collecte de données d'utilisation et de santé
+  - Configuration de la connexion de diagnostic SharePoint
+  - Configuration des règles de l’analyseur de santé
+  - Vérification des données d'utilisation et de santé
+
+
+  #### Laboratoire&#58; Examen du temps de chargement des pages
+  - Analyse du trafic réseau
+  - Analyse des performances des pages SharePoint
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre au point et de mettre en œuvre un plan de surveillance pour un environnement SharePoint 2016.
+  - d’affiner et d’optimiser un groupement de serveurs SharePoint 2016 de façon continue.
+  - de planifier et de configurer la mise en cache pour améliorer la performance d'un déploiement SharePoint 2016.
+  
+  de dépanner les erreurs et autres problèmes dans un déploiement SharePoint 2016.

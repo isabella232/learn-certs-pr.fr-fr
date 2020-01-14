@@ -1,0 +1,141 @@
+### YamlMime:Course
+title: Identité et services de Microsoft 365
+metadata:
+  title: 'Formation MS-100T00-A: Identité et services de Microsoft 365'
+  description: 'Formation MS-100T00-A: Identité et services de Microsoft 365'
+uid: course.ms-100t00
+courseNumber: 'MS-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir, configurer et gérer votre locataire Microsoft 365
+- skill: Fonctionnalité du produit Office 365
+- skill: Configurer Office 365
+- skill: Gérer les déploiements d’Office 365 ProPlus
+- skill: Planifier et mettre en œuvre la synchronisation des identités
+- skill: Mettre en œuvre l’application et l’accès externe
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Cette formation couvre trois éléments centraux de l’administration d’entreprise de Microsoft 365 - la gestion du locataire et du service de Microsoft 365, la gestion d’Office 365 et la gestion des identités Microsoft 365.
+  Dans la gestion du locataire et du service de Microsoft 365, vous examinerez tous les composants essentiels qui doivent être planifiés lors de la conception de votre locataire Microsoft 365. Une fois que cette phase de planification est terminée, vous apprendrez à configurer votre locataire Microsoft 365, notamment votre profil organisationnel, les options d’abonnement du locataire, les services du composant, les comptes utilisateurs et les licences et les groupes de sécurité. Finalement, vous apprendrez à gérer votre locataire, ce qui comprend la configuration des rôles de locataire et la gestion de la santé et des services de votre locataire.
+  Maintenant que votre locataire Microsoft 365 est bien en place, vous examinerez les composants essentiels de la gestion d'Office 365. Cela débute par un aperçu de la fonctionnalité du produit Office 365, y compris Exchange Online, SharePoint Online, Microsoft Teams, les ressources supplémentaires des produits et la gestion des périphériques. Vous passerez ensuite à la configuration d’Office 365, en mettant l'accent sur la configuration de la connectivité du client Office à Office 365. Finalement, vous examinerez comment gérer les déploiements d’Office 365 ProPlus à partir des installations client axées sur l’utilisateur jusqu’aux déploiement centralisés d’Office 365 ProPlus. Vous terminerez cette partie en apprenant à configurer Office Telemetry et Microsoft Analytics.
+  Cette formation se conclut par un examen en profondeur de la synchronisation des identités Microsoft 365, en mettant l'accent sur Azure Active Directory Connect. Vous apprendrez à planifier et à mettre en œuvre Azure AD Connect, à gérer les identités synchronisées et à mettre en œuvre la gestion des mots de passe dans Microsoft 365 en utilisant une authentification à plusieurs facteurs et une gestion des mots de passe en libre-service. Cette section se termine par un coup d’œil général sur la mise en œuvre de l’application et de l’accès externe. Vous apprendrez à ajouter et à gérer des applications dans Azure Active Directory, dont la configuration des applications à locataires multiples. Vous examinerez alors comment configurer le proxy de l’application Azure AD, y compris comment installer et enregistrer un connecteur et comment publier une application sur site pour un accès à distance. Finalement, vous examinerez comment concevoir et gérer des solutions pour un accès externe. Cela comprend des conseils sur l'octroi des licences pour la collaboration Azure AD B2B, la création d'un utilisateur collaboratif et le dépannage de la collaboration B2B.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
+prerequisitesSection: |-
+  - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
+  - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension parfaite des pratiques informatiques générales.
+outlineSection: |-
+  ### Module 1&#58; Concevoir votre locataire Microsoft 365
+  #### Leçons
+  - Planifier Microsoft 365 dans votre infrastructure sur site
+  - Planifier votre solution d'identité et d’authentification
+  - Planifier la configuration de votre service
+  - Planifier votre environnement hybride
+  - Planifier votre migration vers Office 365
+
+
+  ### Module 2&#58; Configurer votre locataire Microsoft 365
+  #### Leçons
+  - Planifier votre expérience Microsoft 365
+  - Configurer votre expérience Microsoft 365
+  - Gérer les comptes utilisateurs et les licences dans Microsoft 365
+  - Gérer les groupes de sécurité dans Microsoft 365
+  - Mettre en œuvre vos services de domaine
+  - Profiter de FastTrack et des services de partenaires
+
+
+  ### Module 3&#58; Laboratoire 1 - Configurer votre locataire Microsoft 365
+
+  #### Laboratoire&#58; Configurer votre locataire Microsoft 365
+  - Exercice 1 - Définir un locataire Microsoft 365 test
+
+
+  ### Module 4&#58; Gérer votre locataire Microsoft 365
+  #### Leçons
+  - Configurer les rôles du locataire
+  - Configurer la santé et les services du locataire
+
+
+  ### Module 5&#58; Laboratoire 2 - Gérer votre locataire Microsoft 365
+
+  #### Laboratoire&#58; Gérer votre locataire Microsoft 365
+  - Exercice 1 - Gérer la délégation de l’administration
+  - Exercice 2 - Configurer le cryptage des messages dans Office 365 (OME)
+  - Exercice 3 - Surveiller et dépanner Office 365
+
+
+  ### Module 6&#58; Aperçu d’Office 365
+  #### Leçons
+  - Aperçu d’Exchange Online
+  - Aperçu de SharePoint Online
+  - Aperçu de Teams
+  - Aperçu des ressources supplémentaires
+  - Aperçu de la gestion de périphériques
+
+
+  ### Module 7&#58; Laboratoire 3 - Aperçu d’Office 365
+
+  #### Laboratoire&#58; Aperçu d’Office 365
+  - Exercice 1 - Aperçu d’Exchange Online
+  - Exercice 2 - Aperçu de SharePoint Online
+  - Exercice 3 - Aperçu de Teams
+
+
+  ### Module 8&#58; Configurer Office 365
+  #### Leçons
+  - Aperçu des clients d’Office 365
+  - Configurer la connectivité client d’Office vers Office 365
+
+
+  ### Module 9&#58; Gérer les déploiements d’Office 365 ProPlus
+  #### Leçons
+  - Gérer des installations de clients axées sur l'utilisateur
+  - Gérer les déploiements centralisés Office 365 ProPlus
+  - Configurer la télémétrie d’Office
+  - Configurer Microsoft Analytics
+
+
+  ### Module 10&#58; Laboratoire 4 - Gérer les installations d’Office 365 ProPlus
+
+  #### Laboratoire&#58; Gérer les installations d’Office 365 ProPlus
+  - Exercice 1 - Préparer une installation gérée d’Office 365 ProPlus
+  - Exercice 2 - Gérer une installation centralisée d’Office 365 ProPlus
+  - Exercice 3 - Déployer et configurer les composants de télémétrie d’Office
+
+
+  ### Module 11&#58; Planifier et mettre en œuvre la synchronisation des identités
+  #### Leçons
+  - Introduction à la synchronisation des identités
+  - Planifier pour Azure AD Connect
+  - Mettre en œuvre Azure AD Connect
+  - Gérer les identités synchronisées
+  - Gestion des mots de passe dans Microsoft 365
+
+
+  ### Module 12&#58; Laboratoire 5 - Mise en œuvre de la synchronisation des identités
+
+  #### Laboratoire&#58; Mise en œuvre de la synchronisation des identités
+  - Exercice 1 - Configurer votre organisation pour la synchronisation des identités
+  - Exercice 2 - Mettre en œuvre la synchronisation des identités
+
+
+  ### Module 13&#58; Mettre en œuvre l’application et l’accès externe
+  #### Leçons
+  - Mettre en œuvre les applications dans Azure AD
+  - Configurer le proxy de l’application Azure AD
+  - Concevoir des solutions pour l’accès externe

@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Configuration essentielle dans Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Formation MB-300T02-A: Configuration essentielle dans Dynamics 365 for Finance and Operations'
+  description: 'Formation MB-300T02-A: Configuration essentielle dans Dynamics 365 for Finance and Operations'
+uid: course.mb-300t02
+courseNumber: 'MB-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour réduire les coûts opérationnels et répondre rapidement aux besoins changeants de l’entreprise. Cette solution permet aux organisations de réaliser ces objectifs. 
+
+  Cette formation discute de la manière de configurer les composants de base de Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Une compréhension de base des concepts d’ERP et de CRM.
+outlineSection: |-
+  ### Module 1&#58; Définir et configurer des entités légales
+  Ce module explique comment définir et configurer des entités légales et des séquences de nombres dans Dynamics 365 for Finance and Operations.
+  #### Leçons
+  - Créer une entité légale et générer de séquences de nombres
+  - Créer une séquence de nombres
+  - Créer des hiérarchies organisationnelles
+  - Appliquer des objectifs et des stratégies
+  - Configurer des calendriers et des intervalles de dates
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Les étudiants ont appris à créer une entité légale et générer de séquences de nombres, manuellement ou en utilisant un assistant. Les étudiants ont également configuré des calendriers et des intervalles de dates. De plus, ils ont appris à créer des hiérarchies organisationnelles, à appliquer des objectifs et des stratégieset à définir des politiques afin de rationaliser les politiques d’entreprise et les structures de rapport.
+
+  ### Module 2&#58; Gérer les utilisateurs et la sécurité
+  Microsoft Dynamics 365 for Finance and Operations comprend une gamme d’options de sécurité et de configurations pour conserver les données sensibles en toute sécurité. Tout cela signifie que les utilisateurs peuvent rester concentrés sur leur rôle, tandis que le système reste aussi rationalisé que possible.
+  Savoir mettre en œuvre les différentes options de sécurité aidera les entreprises à couvrir leurs exigences de sécurité. Lorsque l’architecture de sécurité de la Finance et opérations est bien comprise, il est plus facile de personnaliser la sécurité pour répondre aux exigences d'une entreprise.
+  #### Leçons
+  - Comprendre l’architecture de la sécurité
+  - Gérer les utilisateurs et la sécurité
+  - Configurer et appliquer la ségrégation des devoirs
+  - Exécuter des rapports sur la sécurité
+  - Configurer des travaux en lots et des alertes
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants auront acquis&#58;
+  - Une compréhension de l’architecture de la sécurité de la Finance et des opérations
+  - La gestion des utilisateurs
+  - La gestion de la sécurité
+  - L'application de la ségrégation des devoirs
+  - Exécuter des rapports sur la sécurité
+
+
+  ### Module 3&#58; Effectuer la personnalisation
+  La personnalisation économise du temps et des efforts lors de l’utilisation du système.
+  #### Leçons
+  - Décrire et appliquer les options d'utilisateur
+  - Créer, exporter et importer des personnalisations
+  - Créer et maintenir des modèles d’enregistrements
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Les étudiants ont maintenant appris à utiliser et appliquer les options d'utilisateur, à créer une personnalisation et à l’exporter pour qu’elle soit utilisée par d’autres utilisateurs, à l’aide de la fonctionnalité de personnalisation de la Finance et des opérations. Ils ont également appris à reconnaître la différence entre l’adaptation et la personnalisation. En particulier, comment la personnalisation aide à économiser du temps en personnalisant les valeurs des champs souvent utilisés et permet la création et la maintenance des modèles d’enregistrements.
+
+  ### Module 4&#58; Mettre en œuvre des fonctionnalités d'intégration communes
+  Microsoft Dynamics 365 s’intègre avec de nombreux autres programmes communs, comme par exemple le courrier électronique, Microsoft Officeet Power BI.
+  #### Leçons
+  - Intégration de Microsoft Office
+  - Configurer la messagerie électronique
+  - Créer et maintenir des modèles de messagerie électronique
+  - Utiliser Power BI
+  - Configurer l’impression sur réseau
+  - Intégrer des données dans les services de données communes pour les applications
+  - Laboratoires pratiques
+  - Résumé du module
+  
+
+  Dans ce module, les étudiants auront appris à utiliser l’intégration de Microsoft Office dans Dynamics 365 for Finance and Operations, à configurer la messagerie électronique (SMTP/Exchange) et créer et maintenir des modèles de messagerie électronique pour standardiser les messages lors de l’envoi de courriers électroniques aux clients. En configurant les fonctionnalités d’impression sur réseau, les imprimantes réseau d’entreprises peuvent être utilisées à distance. Finalement, ce module a fourni un aperçu de la manière d'intégrer des données issues de plusieurs sources dans le service de données communes pour les applicationset d’intégrer des données dans Dynamics 365 for Finance and Operations à l’aide de l’espace de travail de gestion des données.
+
+  ### Module 5&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+  
+
+  Les étudiants auront terminé la formation.

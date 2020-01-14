@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Mettre en œuvre la protection des Informations sur Microsoft 365
+metadata:
+  title: 'Formation MS-500T03-A: Mettre en œuvre la protection des Informations sur Microsoft 365'
+  description: 'Formation MS-500T03-A: Mettre en œuvre la protection des Informations sur Microsoft 365'
+uid: course.ms-500t03
+courseNumber: 'MS-500T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Mettre en œuvre la gestion des droits à l'information.
+- skill: Sécuriser les messages sur Office 365.
+- skill: Configurer les politiques de prévention de pertes des données.
+- skill: Déployer et gérer la sécurité des applications dans le cloud.
+- skill: Mettre en œuvre la protection des informations Azure pour Microsoft 365.
+- skill: Mettre en œuvre la protection des informations Windows pour les périphériques.
+learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  La protection des informations est le concept de localisation et de classification des données là où elles se trouvent. Cette formation vous enseignera les technologies de protection des informations qui aident à sécuriser votre environnement Microsoft 365. Cette formation discute spécifiquement du contenu géré des droits à l’information, du cryptage des messages, ainsi que des étiquettes, des politiques et des règles qui soutiennent la prévention de la perte des données et la protection des informations. En dernier lieu, la formation explique le déploiement de la sécurité des applications Microsoft dans le cloud.
+
+  #### Profil de l’audience
+  Cette formation est destinée au rôle d'administrateur de la sécurité sur Microsoft 365. Ce rôle collabore avec l’administrateur d’entreprise Microsoft 365, avec les parties prenantes de l’entreprise et d'autres administrateurs de charges de travail pour planifier et mettre en œuvre les stratégies de sécurité et s'assurer que les solutions sont conformes aux politiques et réglementations de l’organisation. 
+  
+  Ce rôle sécurise de manière proactive les environnements d’entreprise de Microsoft 365. Les responsabilités englobent la réponse aux menaces, la mise en œuvre, la gestion et la surveillance des solutions de sécurité et de conformité de l’environnement Microsoft 365. Elles répondent aux incidents, aux enquêtes et à l'application de la gouvernance des données.
+
+  L’administrateur de la sécurité de Microsoft 365 est habitué aux charges de travail de Microsoft 365 et possède des compétences solides et de l’expérience dans la protection de l’identité, la protection des informations, la protection contre les menaces, la gestion de la sécurité et la gouvernance des données. Ce rôle se concentre sur l’environnement Microsoft 365 et comprend des environnements hybrides.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Une compréhension conceptuelle de base de Microsoft Azure
+  - De l’expérience avec les périphériques Windows 10
+  - De l’expérience avec Office 365
+  - Une compréhension de base des autorisations et de l’authentification
+  - Une compréhension de base des réseaux informatiques
+  - Une connaissance pratique de la gestion des périphériques mobiles
+outlineSection: |-
+  ### Module 1&#58; Protection des informations
+  Ce module explique la gestion des droits relatifs à l'information dans Exchange et SharePoint. Il décrit aussi les technologies de cryptage utilisées pour sécuriser les messages. Le module présente la manière de mettre en œuvre la protection des informations dans Azure et la protection des informations dans Windows.
+  #### Leçons
+  - Gestion des droits relatifs à des informations
+  - Multipurpose Internet Mail Extension sécurisée
+  - Cryptage des messages dans Office 365
+  - Protection des informations dans Azure
+  - Protection avancée des informations
+  - Protection des informations Windows
+
+
+  #### Laboratoire&#58; Prévention de la perte des données
+  - Créer et octroyer des licences aux utilisateurs de votre organisation
+  - Confirmer l’enregistrement automatique MDM
+  - Configurer AIP et WIP
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les différentes options de cryptage de Microsoft 365.
+  - de décrire l’utilisation de S/MIME.
+  - de décrire le fonctionnement du cryptage des messages dans Office 365.
+  - de configurer les étiquettes et les politiques pour la protection des informations dans Azure.
+  - de configurer les paramètres de service AIP avancés pour les modèles des services de gestion des droits (RMS).
+  - de planifier un déploiement des politiques de protection des informations Windows.
+
+
+  ### Module 2&#58; Prévention de la perte de données
+  Le modèle concerne la prévention de la perte de données dans Microsoft 365.  Vous apprendrez comment créer des politiques, modifier les règles et personnaliser les notifications d’utilisateur.
+  #### Leçons
+  - La prévention de la perte de données expliquée
+  - Politiques de prévention de pertes de données
+  - Politiques DLP personnalisées.
+  - Créer une politique DLP pour protéger les documents
+  - Conseils sur les politiques
+
+
+  #### Laboratoire&#58; Prévention de la perte des données
+  - Créer et octroyer des licences aux utilisateurs de votre organisation
+  - Créer une politique DLP
+  - Tester les politiques DLP
+
+  À la fin de ce module, les apprenants devront être capables&#58;
+  - de décrire la prévention de la perte des données (DLP).
+  - de reconnaître comment les actions et les conditions travaillent ensemble pour le DLP.
+  - d'utiliser les modèles de politiques pour mettre en œuvre des politiques DLP pour les informations couramment utilisées.
+  - de décrire les différents modèles intégrés pour les politiques DLP.
+  - de configurer les règles correctes pour protéger le contenu.
+  - de décrire comment modifier les règles existantes des politiques DLP.
+  - de configurer l’option de dérogation des utilisateurs aux politiques DLP.
+  - de décrire comment travailler avec politiques gérées pour les politiques DLP.
+  - d'expliquer comment SharePoint Online crée des propriétés analysées à partir des documents.
+  - de décrire l’expérience utilisateur lorsqu’un utilisateur crée un message électronique qui contient des informations sensibles.
+
+
+  ### Module 3&#58; Sécurité de l’application dans le cloud
+  Ce modèle concerne la sécurité des applications dans le cloud pour Microsoft 365.  Le module expliquera la découverte dans le cloud, les connecteurs des applications, les politiques et les alertes.
+  #### Leçons
+  - Sécurité des applications dans le cloud expliquée
+  - Utiliser les informations de sécurité des applications dans le cloud
+  - Sécurité des applications dans le cloud dans Office 365
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la sécurité des applications dans le cloud.
+  - d'expliquer comment déployer la sécurité des applications dans le cloud.
+  - de contrôler vos applications dans le cloud grâce à des politiques.
+  - de dépanner la sécurité des applications dans le cloud.
+  - d'utiliser le catalogue des applications dans le cloud.
+  - d'utiliser le tableau de bord de la découverte dans le cloud.
+  - de préparer pour la sécurité des application dans le cloud pour Office 365.
+  - de gérer les permissions des applications dans le cloud.

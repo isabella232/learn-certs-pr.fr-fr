@@ -20,13 +20,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Créer un design technique(10 à 15 %)
-- Configurer Common Data Service (CDS) (15 à 20 %)
-- Créer et configurer des applications Power Apps (10 à 15 %)
-- Configurer l'automatisation du processus d'affaires (10 à 15 %)
-- Étendre l'expérience utilisateur (15 à 20 %)
-- Étendre la plateforme (15 à 20 %)
-- Mettre au point des intégrations (10 à 15 %)
+- Créer un design technique(10 à 15%)
+- Configurer Common Data Service (CDS) (15 à 20%)
+- Créer et configurer des applications Power Apps (10 à 15%)
+- Configurer l'automatisation du processus d'affaires (10 à 15%)
+- Étendre l'expérience utilisateur (15 à 20%)
+- Étendre la plateforme (15 à 20%)
+- Mettre au point des intégrations (10 à 15%)
 roles:
 - developer
 products:

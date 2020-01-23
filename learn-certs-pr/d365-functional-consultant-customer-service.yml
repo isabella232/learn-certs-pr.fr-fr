@@ -51,7 +51,7 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

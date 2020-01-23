@@ -6,8 +6,9 @@ metadata:
 uid: exam.ms-302
 displayName: MS-302
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> CET EXAMEN A ÉTÉ RETIRÉ LE 30 SEPTEMBRE 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)</div>
-  <br/>  
+  <div style='color&#58; red; font-weight&#58; bold;'> CET EXAMEN A ÉTÉ RETIRÉ LE 30 SEPTEMBRE 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/>  </div>
+  
+  
   Cet examen est destiné uniquement aux candidats qui ont passé l'[examen 70-339&#58](https://www.microsoft.com/fr-fr/learning/exam-70-345.aspx) Gérer Microsoft SharePoint Server 2016 Si vous n'avez pas passé l'examen 339, vous ne pourrez pas obtenir une certification en passant cet examen.
 
   Les candidats à cet examen sont des administrateurs Teamwork responsables de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Les administrateurs Teamwork gèrent des applications, des services et prennent en charge l’infrastructure pour répondre aux exigences de l’entreprise. L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.

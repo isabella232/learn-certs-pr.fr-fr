@@ -87,4 +87,4 @@ Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professi
 
 **Q. À qui dois-je m’adresser si je rencontre des difficultés lors de l'achat ou l’utilisation d’une promotion de d'Exam Replay ou Exam Replay avec test d'essai?**
 
-**R.** Si vous rencontrez des difficultés lors de l'achat ou de l' échange d' un exam replay ou d'un Exam Replay avec test d'essai, , envoyez un [courriel à l'équipe de Pearson VUE](mailto:mindhub@pearson.com).
+**R.** Si vous rencontrez des difficultés lors de l'achat ou de l' échange d' un exam replay ou d'un Exam Replay avec test d'essai, envoyez un [courriel à l'équipe de Pearson VUE](mailto:mindhub@pearson.com).

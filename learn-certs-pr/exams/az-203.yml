@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 6 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-  
   Les candidats à cet examen sont des développeurs Azure qui conçoivent et mettent au point des solutions dans le cloud telles que des applications et des services. Ils participent à toutes les phases de la mise au point, de la conception de la solution à la mise au point et au déploiement, en passant par les tests et la maintenance. Ils collaborent avec des architectes en solutions de cloud, des bases de données dans le cloud, des administrateurs du cloud et des clients pour mettre en œuvre la solution.
   <br/>
 
@@ -27,7 +25,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 6 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Mettre au point des solutions de calcul de l’infrastructure Azure en tant que service (10 à 15%)
 - Mettre au point des solutions de calcul de la plateforme Azure en tant que service (20 à 25%)
 - Mettre au point pour le stockage Azure (15 à 20%)

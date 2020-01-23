@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-
   Les candidats à cet examen sont des ingénieurs en sécurité de Microsoft Azure qui mettent en œuvre les contrôles de sécurité, maintiennent la posture de sécurité, gèrent les identités et les accès et protègent les données, les applications et les réseaux. Les candidats identifient et corrigent les vulnérabilités à l'aide de divers outils de sécurité, mettent en œuvre une protection contre les menaces et répondent aux incidents de sécurité. En tant qu'ingénieurs en sécurité de Microsoft Azure, les candidats font souvent partie d'une grande équipe dédiée à la gestion et la sécurité basées sur le cloud et peuvent également sécuriser des environnements hybrides dans le cadre d'une infrastructure de bout en bout.
 
   Les candidats à cet examen doivent posséder de solides compétences en scripts et en automatisation, une compréhension approfondie du réseau, de la virtualisation et de l'architecture du cloud en couches, ainsi qu'une connaissance approfondie des fonctionnalités du cloud, des produits et services de Microsoft Azure et d'autres produits et services Microsoft.
@@ -24,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Gérer l’identité et l’accès (20 à 25%)
 - Mettre en œuvre une protection de la plateforme (35 à 40%)
 - Gérer les opérations de sécurité (15 à 20%)

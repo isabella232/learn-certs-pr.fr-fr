@@ -1,14 +1,14 @@
 ### YamlMime:Examination
 title: 'Microsoft Fondamentaux de la Power Plateforme (bêta)'
 metadata:
-  title: 'Examen PL-900 : Microsoft Fondamentaux de la Power Plateforme (bêta)'
-  description: 'Examen PL-900 : Microsoft Fondamentaux de la Power Plateforme (bêta)'
+  title: 'Examen PL-900: Microsoft Fondamentaux de la Power Plateforme (bêta)'
+  description: 'Examen PL-900: Microsoft Fondamentaux de la Power Plateforme (bêta)'
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
   Les candidats à cet examen sont des utilisateurs qui cherchent à améliorer leur productivité en automatisant les processus d'affaires, en analysant des données pour avoir des perspectives du marché et en agissant plus efficacement en créant des expériences d'application simples.
   
-  Cet examen couvre les compétences suivantes : décrire les composants de Power Platform, Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), les connecteurs et AI Builder, décrire les scénarios transcloud avec une représentation dans Microsoft 365, Dynamics 365, Microsoft Azure et des services de tiers, identifier les avantages et les capacités de la Power Platform, identifier les composants fonctionnels et de valeur commerciale de base de Power Platform, mettre en oeuvre des solutions simples avec Microsoft Flow, Power BI et AI Builder et créer une application simple dans un environnement sans code.
+  Cet examen couvre les compétences suivantes: décrire les composants de Power Platform, Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), les connecteurs et AI Builder, décrire les scénarios transcloud avec une représentation dans Microsoft 365, Dynamics 365, Microsoft Azure et des services de tiers, identifier les avantages et les capacités de la Power Platform, identifier les composants fonctionnels et de valeur commerciale de base de Power Platform, mettre en oeuvre des solutions simples avec Microsoft Flow, Power BI et AI Builder et créer une application simple dans un environnement sans code.
 subTitle: Cet examen évalue votre capacité à comprendre la valeur commerciale de Power Platform, à comprendre les élémentss essentiels de Power Platform, à prouver la valeur commerciale de Power BI et à prouver la valeur commerciale de Microsoft Flow.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -18,11 +18,11 @@ locales:
 levels:
 - beginner
 skills:
-- Comprendre la valeur commerciale de Power Platform (20 à 25 %)
-- Comprendre les éléments essentiels de Power Platform( 25 à 30 %)
-- Prouver la valeur commerciale de Power BI (15 à 20 %)
-- Prouver la valeur commerciale de Power Apps (15 à 20 %)
-- Prouver la valeur commerciale de Microsoft Flow (15 à 20 %)
+- Comprendre la valeur commerciale de Power Platform (20 à 25%)
+- Comprendre les éléments essentiels de Power Platform( 25 à 30%)
+- Prouver la valeur commerciale de Power BI (15 à 20%)
+- Prouver la valeur commerciale de Power Apps (15 à 20%)
+- Prouver la valeur commerciale de Microsoft Flow (15 à 20%)
 roles:
 - developer
 products:

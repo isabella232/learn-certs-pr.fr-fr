@@ -6,8 +6,6 @@ metadata:
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-
   Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent des destinataires, des autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud.
 
   Les administrateurs de messagerie sont responsables de la gestion de l'hygiène, de l'infrastructure de messagerie, de la configuration hybride, de la migration, de la reprise après sinistre, de la haute disponibilité et de l'accès des clients.
@@ -25,7 +23,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 4 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Gérer une infrastructure de messagerie moderne (45 à 50%)
 - Gérer la topologie du flux de courrier électronique (35 à 40%)
 - Gérer les destinataires et les périphériques (15 à 20%)

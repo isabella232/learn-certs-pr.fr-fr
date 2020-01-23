@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certifier : Administrateur des équipes associé'
+title: 'Microsoft 365 Certifier: Administrateur des équipes associé'
 metadata:
-  title: 'Microsoft 365 Certifier : Administrateur des équipes associé'
+  title: 'Microsoft 365 Certifier: Administrateur des équipes associé'
   description: Le Microsoft Administrateur des équipes configure, déploie et gère les charges de travail d’Office 365 pour les équipes Microsoft qui se concentrent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise.
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrir les ressources de formation pour devenir Microsoft Certified : Administrateur des équipes associé.'
+  description: 'Découvrir les ressources de formation pour devenir Microsoft Certified: Administrateur des équipes associé.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

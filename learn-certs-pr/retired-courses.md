@@ -16,6 +16,7 @@ Les tableaux suivants répertorient les didacticiels qui ont déjà été retir�
 ## Didacticiels retirés : Formations dispensées par un instructeur
 
 * Retrait de didacticiels au 31 décembre 2019
+
     | Numéro de formation | Version | Titre | Langue | Date de retrait |
     | --- | --- | --- | --- | --- |
     | 10992 | B | Intégration de l'infrastructure de base sur site avec Microsoft Azure | Anglais | 31/12/2019 |

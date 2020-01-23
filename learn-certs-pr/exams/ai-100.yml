@@ -5,9 +5,7 @@ metadata:
   description: 'Examen AI-100: Concevoir et mettre en œuvre une solution IA Azure'
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 26 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-  
+summary: |-   
   Les candidats à cet examen analysent les exigences des solutions d'intelligence artificielle (IA), recommandent les technologies et outils appropriés et mettent en œuvre des solutions répondant aux exigences d'évolutivité et de performances.
   <br/>
 
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 26 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Analyser les exigences des solutions (25 à 30%)
 - Concevoir des solutions en intelligence artificielle (40 à 45%)
 - Mettre en œuvre et surveiller des solutions en intelligence artificielle (25 à 30%)

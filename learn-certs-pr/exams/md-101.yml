@@ -6,10 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 22 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/></div>
-  <br/>
-  
-  Si vous avez passé l' [Examen 70-698](https://www.microsoft.com/fr-fr/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ». Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
+  Si vous avez passé l' [Examen 70-698](https://www.microsoft.com/fr-fr/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification Ordinateur de bureau moderne. Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
   <br/>
 
   En tant qu'administrateurs, les candidats collaborent typiquement avec l'administrateur Microsoft 365 Entreprise pour concevoir et mettre en œuvre une stratégie de périphériques à la hauteur des attentes d'une organisation moderne.
@@ -26,7 +23,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 22 novembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Déployer et mettre à jour des systèmes d’exploitation (15 à 20%)
 - Gérer des politiques et des profils (35 à 40%)
 - Gérer et protéger des périphériques (15 à 20%)

@@ -26,13 +26,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Planifier la conception de l’architecture et de la solution (10 à 15 %)
-- Appliquer les outils du développeur (10 à 15 %)
-- Concevoir et mettre au point des éléments AOT (20 à 25 %)
-- Mettre au point et tester le code (10 à 15  %)
-- Mettre en œuvre le rapport (10 à 15 %)
-- Intégrer et gérer des solutions de données (10 à 15 %)
-- Mettre la sécurité en œuvre et optimiser les performances (10 à 15 %)
+- Planifier la conception de l’architecture et de la solution (10 à 15%)
+- Appliquer les outils du développeur (10 à 15%)
+- Concevoir et mettre au point des éléments AOT (20 à 25%)
+- Mettre au point et tester le code (10 à 15%)
+- Mettre en œuvre le rapport (10 à 15%)
+- Intégrer et gérer des solutions de données (10 à 15%)
+- Mettre la sécurité en œuvre et optimiser les performances (10 à 15%)
 roles:
 - developer
 products:

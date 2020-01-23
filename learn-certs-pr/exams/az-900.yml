@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 23 octobre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-
   Cet examen est conçu pour les candidats qui souhaitent démontrer avoir des connaissances de base dans les services du cloud et la manière dont ces services sont fournis avec Microsoft Azure. Cet examen est destiné aux candidats ayant une formation non technique, tels que ceux qui vendent ou achètent des solutions et services de cloud ou qui sont impliqués dans des solutions et services de cloud, ainsi que ceux qui ont une formation technique et qui doivent valider leurs connaissances de base dans les services de cloud. Aucune expérience technique en informatique n’est requise, mais des connaissances ou une expérience générales en informatique seront utiles.
 
   Cet examen peut constituer une première étape facultative de l'apprentissage des services du cloud et de la façon dont ces concepts sont illustrés par Microsoft Azure. Il peut être utilisé comme un précurseur aux examens Microsoft Azure ou Microsoft Cloud Services. Bien qu'il soit bénéfique comme première étape, car il valide les connaissances de base, cet examen n'est pas un prérequis pour les autres certifications basées sur Azure.
@@ -24,7 +22,6 @@ locales:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen a été mis à jour le 23 octobre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Comprendre les concepts du cloud (15 à 20%)
 - Comprendre les services essentiels d’Azure (30 à 35%)
 - Comprendre la sécurité, la confidentialité, la conformité et la confiance (25 à 30%)

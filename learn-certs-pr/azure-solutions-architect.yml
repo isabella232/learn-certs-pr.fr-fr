@@ -2,26 +2,26 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: 'Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.'
+  description: 'Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.
-subTitle: Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.
+  Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
+subTitle: Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
 levels:
 - advanced
 skills:
-- Deploy and configure infrastructure
-- Implement workloads and security
-- Create and deploy apps
-- Implement authentication and secure data
-- Develop for the cloud and for Azure storage
-- Determine workload requirements
-- Design for identity and security
-- Design a data platform solution
-- Design a business continuity strategy
-- Design for deployment, migration, and integration
-- Design an infrastructure strategy
+- Déployer et configurer des infrastructures
+- Mettre en œuvre des charges de travail et la sécurité
+- Créer et déployer des applications
+- Implémenter l'authentification et sécuriser les données
+- Développer le cloud et le stockage d'Azure
+- Déterminer les exigences de la charge de travail
+- Concevoir l'identité et la sécurité
+- Concevoir une solution de plateforme de données
+- Concevoir une stratégie de continuité d'activité
+- Concevoir pour le déploiement, la migration et l'intégration
+- Concevoir une stratégie d'infrastructure
 roles:
 - solution-architect
 type: role-based

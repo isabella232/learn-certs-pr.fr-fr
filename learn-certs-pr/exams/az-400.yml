@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen a été mis à jour le 3 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
-
   Les candidats à cet examen sont des professionnels de DevOps qui associent ressources humaines, processus et technologies pour fournir en permanence des produits et des services de qualité qui répondent aux besoins de l'utilisateur final et aux objectifs de l'entreprise. Les professionnels de DevOps rationalisent la livraison en optimisant les pratiques, en améliorant les communications et la collaboration et en créant une automatisation. Ils conçoivent et mettent en œuvre des stratégies pour le code d'application et l’infrastructure qui permettent une intégration, des tests, une livraison et une surveillance et des commentaires continus.
 
   Les candidats doivent maîtriser les pratiques Agile. Ils doivent être à la fois habitués à l’administration Azure et à la mise au point Azure et experts dans au moins un de ces domaines. Les professionnels Azure DevOps doivent être en mesure de concevoir et de mettre en œuvre des pratiques DevOps pour le contrôle de la version, la conformité, l'infrastructure en tant que code, la gestion de la configuration, la création, la publication et les tests à l'aide des technologies Azure.
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour le 3 décembre 2019. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
 - Concevoir une stratégie DevOps (20 à 25%)
 - Mettre en œuvre des processus de mise au point DevOps (20 à 25%)
 - Mettre en œuvre une intégration continue (10 à 15%)
@@ -45,6 +42,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

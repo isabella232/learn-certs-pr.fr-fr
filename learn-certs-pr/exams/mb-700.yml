@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 : Architecte en solutions pour applications pour les finances et les opérations (bêta)'
+title: 'Microsoft Dynamics 365: Architecte en solutions pour applications pour les finances et les opérations (bêta)'
 metadata:
-  title: 'Examen MB-700 : Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
-  description: 'Examen MB-700 : Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
+  title: 'Examen MB-700: Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
+  description: 'Examen MB-700: Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -10,10 +10,10 @@ summary: |-
 
   Un architecte en solutions est responsable de l’intégrité et de la bonne livraison de la conception de la solution complète. L’architecte offre des conseils essentiels pendant la période avant la mise sur le marché et la conception et donne des conseils pendant le reste du projet pour régler les problèmes qui se présentent tout au long de la mise en œuvre.
 
-  L’architecte en solutions doit avoir d'importantes connaissance et expérience qui couvrent les besoins de l’entreprise et les capacités des produits. L’architecte en solutions doivent avoir une importante expertise fonctionnelle et technique en tant que développeur ou en tant que consultant fonctionnel dans un des domaines suivants : finances, production ou gestion de la chaîne logistique. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
+  L’architecte en solutions doit avoir d'importantes connaissance et expérience qui couvrent les besoins de l’entreprise et les capacités des produits. L’architecte en solutions doivent avoir une importante expertise fonctionnelle et technique en tant que développeur ou en tant que consultant fonctionnel dans un des domaines suivants: finances, production ou gestion de la chaîne logistique. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
   
-  <div style="color&#58;red"><br/><strong>REMARQUE &#58; Cet examen ne sera pas disponible avant le 27 janvier 2020</strong></div>
-subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes : identifier les exigences des solutions, concevoir les composants des solutions et définir le test des solutions et des stratégies de gestion.'
+  <div style="color&#58;red"><br/><strong>REMARQUE&#58; Cet examen ne sera pas disponible avant le 27 janvier 2020</strong></div>
+subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: identifier les exigences des solutions, concevoir les composants des solutions et définir le test des solutions et des stratégies de gestion.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365.%20Architecte%20en%20solutions%20pour%20applications%20pour%20les%20finances%20et%20les%20opérations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -22,9 +22,9 @@ locales:
 levels:
 - advanced
 skills:
-- Identifier les exigences des solutions (30 à 35 %)
-- Concevoir les composants des solutions (40 à 45 %)
-- Définir le test des solutions et des stratégies de gestion (25 à 30 %)
+- Identifier les exigences des solutions (30 à 35%)
+- Concevoir les composants des solutions (40 à 45%)
+- Définir le test des solutions et des stratégies de gestion (25 à 30%)
 roles:
 - solution-architect
 products:

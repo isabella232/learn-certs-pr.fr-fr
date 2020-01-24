@@ -2,7 +2,6 @@
 title: Formation aux logiciels pour l’octroi de licences en volume pour clients | Documents Microsoft
 description: Formation aux logiciels pour l’octroi de licences en volume pour clients
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

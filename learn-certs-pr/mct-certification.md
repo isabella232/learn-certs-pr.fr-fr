@@ -2,7 +2,6 @@
 title: Devenir un formateur certifié Microsoft | Docs Microsoft
 description : Devenir un formateur certifié Microsoft 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

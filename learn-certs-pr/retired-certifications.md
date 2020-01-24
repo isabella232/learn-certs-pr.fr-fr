@@ -2,7 +2,6 @@
 title: Examen Microsoft Certifications | Docs Microsoft
 description : Certofocatop,s Microsoft retirées
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

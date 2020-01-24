@@ -2,7 +2,6 @@
 title: certification-exam-policies | Docs Microsoft
 description : Règles applicables aux examens de certification
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Offres | Docs Microsoft
 description : Offres 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

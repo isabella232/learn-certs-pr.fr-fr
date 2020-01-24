@@ -2,7 +2,6 @@
 title: Aide sur la formation et la certification Microsoft | Microsoft
 description : Aide à la formation et à la certification Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

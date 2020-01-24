@@ -2,7 +2,6 @@
 title: Examen Microsoft retiré | Docs Microsoft
 description : Examen Microsoft retiré
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

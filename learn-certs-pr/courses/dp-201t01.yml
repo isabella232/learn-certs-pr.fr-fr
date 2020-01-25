@@ -7,7 +7,7 @@ uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -35,7 +35,7 @@ summary: |-
   L'audience de cette formation sont des professionnels des données, des architectes en données et des professionnels des solutions décisionnelles qui souhaitent découvrir les technologies de plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est des personnes qui mettent au point des applications qui fournissent du contenu à partir des technologies des plateformes de données qui existent sur Microsoft Azure.
 prerequisitesSection: |-
   Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
   - DP-200&#58; Mise en œuvre d'une solution de données Azure
 outlineSection: |-
   ### Module 1&#58; Considérations d'une architecture de plateforme de données

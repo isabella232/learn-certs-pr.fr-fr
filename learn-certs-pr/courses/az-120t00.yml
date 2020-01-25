@@ -12,7 +12,7 @@ skillsGained:
 - skill: Tirer parti du portail Azure, de Cloud Shell, de Azure PowerShall, de CLI et du gestionnaire de ressources.
 - skill: Utilisation des fonctionnalités de connectivité intersite, ce qui inclut VNet Peering et les connexions VNet à VNet
 - skill: Travail avec Azure Active Directory (AAD) et Azure AD Connect
-learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

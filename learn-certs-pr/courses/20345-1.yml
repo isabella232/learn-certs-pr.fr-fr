@@ -20,7 +20,7 @@ skillsGained:
 - skill: Surveillance et dépannage de Exchange Server.
 - skill: Configuration des permissions de contrôle d'accès basés sur les rôles de Exchange Server et configuration du journal de l'audit pour les administrateurs et les utilisateurs.
 - skill: Mise en œuvre et gestion de l’intégration avec Exchange Online.
-learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

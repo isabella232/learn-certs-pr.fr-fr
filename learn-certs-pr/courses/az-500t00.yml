@@ -13,7 +13,7 @@ skillsGained:
 - skill: Mise en œuvre des méthodes de cryptage des données d’Azure
 - skill: Sécurisation des protocoles Internet et de leur mise en œuvre dans Azure
 - skill: Description des services et fonctionnalités de la sécurité d’Azure
-learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,7 +39,7 @@ summary: |-
   #### Profil de l’audience
   Les étudiants doivent avoir au moins un an d’expérience pratique dans la sécurisation des charges de travail Azure et de l’expérience dans les contrôles de sécurité pour les charges de travail sur Azure.
 prerequisitesSection: |-  
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/fr-fr/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Module 1&#58; Identité et accès
   #### Leçons

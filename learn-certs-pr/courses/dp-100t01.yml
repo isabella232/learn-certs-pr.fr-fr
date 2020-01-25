@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/fr-fr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -26,7 +26,7 @@ summary: |-
   Cette formation est destinée aux scientifiques des données qui ont des responsabilités importantes en matière de formation et de déploiement des modèles d'apprentissage machine.
 prerequisitesSection: |-
   Avant d'assister à cette formation, les étudiants doivent avoir&#58;
-  - avoir obtenu [Azure Fundamentals certification](https://docs.microsoft.com/fr-fr/learn/certifications/azure-fundamentals).
+  - avoir obtenu [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - comprendre la science des données, y compris la préparation des données, la formation des modèles et l’évaluation des modèles en compétition pour choisir le meilleur.
   - programmer dans la langue de programmation python et utiliser les bibliothèques python&#58; pandas, scikit-learn, matplotlib et seaborn.
 outlineSection: |-

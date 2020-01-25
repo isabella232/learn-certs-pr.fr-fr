@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  Si vous avez réussi l’[examen 70-698](https://www.microsoft.com/fr-fr/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ». Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
+  Si vous avez réussi l’[examen 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ». Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
 
   En tant qu'administrateurs, les candidats collaborent typiquement avec l’administrateur Microsoft 365 Entreprise pour concevoir et mettre en œuvre une stratégie de périphériques qui est à la hauteur des attentes d'une organisation moderne.
 
@@ -55,7 +55,7 @@ resources:
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
-  href: https://www.microsoft.com/fr-fr/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

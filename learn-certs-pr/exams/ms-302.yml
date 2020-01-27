@@ -10,7 +10,7 @@ summary: >-
 
 
 
-  Cet examen est destiné uniquement aux candidats qui ont passé l'[examen 70-339&#58](https://www.microsoft.com/learning/exam-70-345.aspx) Gérer Microsoft SharePoint Server 2016 Si vous n'avez pas passé l'examen 339, vous ne pourrez pas obtenir une certification en passant cet examen.
+  Cet examen est destiné uniquement aux candidats qui ont passé l'[examen 70-339&#58](https://www.microsoft.com/learning/exam-70-345.aspx) Managing Microsoft SharePoint Server 2016. Si vous n'avez pas passé l'examen 339, vous ne pourrez pas obtenir une certification en passant cet examen.
 
 
   Les candidats à cet examen sont des administrateurs Teamwork responsables de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Les administrateurs Teamwork gèrent des applications, des services et prennent en charge l’infrastructure pour répondre aux exigences de l’entreprise. L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
@@ -20,7 +20,7 @@ summary: >-
 
 
   Les candidats à cet examen comprennent les points d'intégration dans les applications et services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et services tiers y compris les applications du secteur d'activité. Les candidats doivent aussi comprendre les concepts de gestion de SQL Server, Azure Active Directory, PowerShell, le réseautage, l’administration du serveur Windows, le système de noms de domaine (DNS), la gestion des périphériques mobiles Active Directory, et les systèmes d’exploitation alternatifs.
-subTitle: "Cet examen est destiné uniquement aux candidats qui ont passé l'examen 70-339: Gérer Microsoft SharePoint Server 2016. Si vous n'avez pas passé l'examen 339, vous ne pourrez pas obtenir une certification en passant cet examen."
+subTitle: "Cet examen est destiné uniquement aux candidats qui ont passé l'examen 70-339: Managing Microsoft SharePoint Server 2016. Si vous n'avez pas passé l'examen 339, vous ne pourrez pas obtenir une certification en passant cet examen."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
 locales:

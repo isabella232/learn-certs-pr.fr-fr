@@ -23,7 +23,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 levels:
 - intermediate
 skills:

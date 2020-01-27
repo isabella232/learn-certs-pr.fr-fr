@@ -9,6 +9,9 @@ summary: "Les candidats qui réussissent l’examen maîtrisent les principes de
 subTitle: Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -18,10 +21,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

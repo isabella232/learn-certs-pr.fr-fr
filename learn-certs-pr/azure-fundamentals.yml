@@ -28,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: Parcours de formation en vue de la certification
-  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Fundamentals.
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

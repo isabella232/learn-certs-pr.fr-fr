@@ -24,7 +24,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-203&examname=Examen%20AZ-203:%20Mettre%20au%20point%20des%20solutions%20pour%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-203&examname=Examen%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 metadata:
-  title: 'Examen MB-700: Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
-  description: 'Examen MB-700: Microsoft Dynamics 365. Architecte en solutions pour applications pour les finances et les opérations (bêta)'
+  title: 'Examen MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  description: 'Examen MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 uid: exam.mb-700
 displayName: MB-700
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365.%20Architecte%20en%20solutions%20pour%20applications%20pour%20les%20finances%20et%20les%20opérations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-700
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 levels:
 - advanced
 skills:

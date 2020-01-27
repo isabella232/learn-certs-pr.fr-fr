@@ -37,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: Parcours de formation en vue de la certification
-  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Administrator Associate.
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

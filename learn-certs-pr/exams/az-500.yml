@@ -19,7 +19,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&examname=Examen%20AZ-500:%20Technologies%20de%20sécurité%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&examname=Examen%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-500
 levels:
 - intermediate
 skills:

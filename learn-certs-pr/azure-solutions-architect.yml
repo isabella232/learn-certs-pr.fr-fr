@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: 'Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.'
+  description: Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
+summary: Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
 subTitle: Les architectes en solutions Microsoft Azure doivent être spécialisés dans le calcul, le réseau, le stockage et la sécurité pour pouvoir concevoir des solutions qui fonctionnent sur Azure.
 levels:
 - advanced

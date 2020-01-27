@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: 'Les développeurs de Microsoft Azure conçoivent, construisent, testent et maintiennent des solutions dans le cloud, telles que des applications et des services, en collaboration avec des architectes en solutions du cloud, des administrateurs de bases de données du cloud, des administrateurs du cloud et des clients pour mettre ces solutions en œuvre.'
+  description: Les développeurs de Microsoft Azure conçoivent, construisent, testent et maintiennent des solutions dans le cloud, telles que des applications et des services, en collaboration avec des architectes en solutions du cloud, des administrateurs de bases de données du cloud, des administrateurs du cloud et des clients pour mettre ces solutions en œuvre.
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les développeurs de Microsoft Azure conçoivent, construisent, testent et maintiennent des solutions dans le cloud, telles que des applications et des services, en collaboration avec des architectes en solutions du cloud, des administrateurs de bases de données du cloud, des administrateurs du cloud et des clients pour mettre ces solutions en œuvre.
+summary: Les développeurs de Microsoft Azure conçoivent, construisent, testent et maintiennent des solutions dans le cloud, telles que des applications et des services, en collaboration avec des architectes en solutions du cloud, des administrateurs de bases de données du cloud, des administrateurs du cloud et des clients pour mettre ces solutions en œuvre.
 subTitle: Les développeurs de Microsoft Azure conçoivent, construisent, testent et maintiennent des solutions dans le cloud, telles que des applications et des services, en collaboration avec des architectes en solutions du cloud, des administrateurs de bases de données du cloud, des administrateurs du cloud et des clients pour mettre ces solutions en œuvre.
 levels:
 - intermediate
@@ -73,4 +72,3 @@ resources:
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

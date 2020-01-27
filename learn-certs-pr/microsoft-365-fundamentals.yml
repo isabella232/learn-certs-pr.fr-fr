@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Les bases fondamentales de Microsoft 365 Certified
+title: Microsoft 365 Certified Fundamentals
 metadata:
-  title: Les bases fondamentales de Microsoft 365 Certified
-  description: "Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services du cloud, du Software as a Service (SaaS) et de la mise en œuvre du service de cloud de Microsoft 365."
+  title: Microsoft 365 Certified Fundamentals
+  description: Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services du cloud, du Software as a Service (SaaS) et de la mise en œuvre du service de cloud de Microsoft 365.
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services du cloud, du Software as a Service (SaaS) et de la mise en œuvre du service de cloud de Microsoft 365.
+summary: Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services du cloud, du Software as a Service (SaaS) et de la mise en œuvre du service de cloud de Microsoft 365.
 subTitle: Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services du cloud, du Software as a Service (SaaS) et de la mise en œuvre du service de cloud de Microsoft 365.
 levels:
 - beginner
@@ -32,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Fundamentals.'
+  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

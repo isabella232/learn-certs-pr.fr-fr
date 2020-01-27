@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: "Les ingénieurs de données Azure conçoivent et mettent en œuvre la gestion, la surveillance, la sécurité et la confidentialité des données en utilisant toute la pile de services de données Azure pour répondre aux besoins de l'entreprise."
+  description: Les ingénieurs de données Azure conçoivent et mettent en œuvre la gestion, la surveillance, la sécurité et la confidentialité des données en utilisant toute la pile de services de données Azure pour répondre aux besoins de l'entreprise.
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les ingénieurs de données Azure conçoivent et mettent en œuvre la gestion, la surveillance, la sécurité et la confidentialité des données en utilisant toute la pile de services de données Azure pour répondre aux besoins de l'entreprise.
+summary: Les ingénieurs de données Azure conçoivent et mettent en œuvre la gestion, la surveillance, la sécurité et la confidentialité des données en utilisant toute la pile de services de données Azure pour répondre aux besoins de l'entreprise.
 subTitle: Les ingénieurs de données Azure conçoivent et mettent en œuvre la gestion, la surveillance, la sécurité et la confidentialité des données en utilisant toute la pile de services de données Azure pour répondre aux besoins de l'entreprise.
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.dp-201
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Data Engineer Associate.'
+  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Data Engineer Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

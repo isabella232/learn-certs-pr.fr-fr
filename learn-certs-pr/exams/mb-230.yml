@@ -5,21 +5,25 @@ metadata:
   description: 'Examen MB-230: Microsoft Dynamics 365 Customer Service'
 uid: exam.mb-230
 displayName: MB-230
-summary: |-
+summary: >-
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise du service client. Les candidats sont responsables de la mise en œuvre de solutions omnicanal axées sur le service, la qualité, la fiabilité, l'efficacité et la satisfaction de la clientèle.
+
   <br/>
 
+
   Les candidats conçoivent et mettent en œuvre des visualisations et des rapports de gestion de services fournis par et en collaboration avec l’architecte de solutions. Les candidats collaborent avec l'administrateur Dynamics 365 pour mettre en œuvre et mettre à niveau les composants de Power Platform, y compris la base de connaissances et Forms Pro.
-  
+
+
   Les candidats doivent posséder de solides connaissances appliquées répondant aux besoins des utilisateurs via le service client Dynamics 365, y compris une compréhension approfondie des cas, de la base de connaissances, des files d'attente, des droits, des accords de niveau de service (SLA), des visualisations et de Unified Service Desk.
-  
+
+
   Les candidats doivent comprendre la terminologie, les priorités, les normes, les méthodologies, les activités du service clientèle et les meilleures pratiques de l'industrie. Les candidats doivent comprendre parfaitement le rôle de l'application de service clientèle en relation avec la suite d'applications Dynamics 365, ainsi qu'avoir une compréhension de base de l'architecture de la solution et de l'assurance de la qualité.
 subTitle: "Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : effectuer la configuration, gérer les cas et la base de connaissances, gérer les files d'attente, les attributions et les SLA et configurer la voix du client."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Configurer la voix du client (15 à 20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-customer-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-customer-service
 courses:
 - uid: course.mb-230t01
 paths:

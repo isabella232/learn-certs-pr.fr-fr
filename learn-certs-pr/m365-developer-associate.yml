@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certifier: Developeur Associe'
+title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
-  title: 'Microsoft 365 Certifier: Developeur Associe'
+  title: 'Microsoft 365 Certified: Developer Associate'
   description: Les Microsoft 365 Developer Associates conçoivent, construisent, testent et conservent des applications et des solutions optimisées pour répondre aux besoins de productivité et de collaboration des organisations qui utilisent la plateforme Microsoft 365.
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Les Microsoft 365 Developer Associates conçoivent, construisent, testent et conservent des applications et des solutions optimisées pour répondre aux besoins de productivité et de collaboration des organisations qui utilisent la plateforme Microsoft 365.
-  
+
+
   Les Microsoft 365 Developers maîtrisent l’identité Microsoft et Microsoft Graph. Ils ont des connaissances générales des éléments UI (y compris Adaptive Cards et UI Fabric), des points d’intégration (y compris des équipes Microsoft, des extensions Office, du cadre SharePoint, des messages efficaces) et de la détermination des objectifs de charge de travail de la plateforme.
 subTitle: Les Microsoft 365 Developer Associates conçoivent, construisent, testent et conservent des applications et des solutions optimisées pour répondre aux besoins de productivité et de collaboration des organisations qui utilisent la plateforme Microsoft 365.
 levels:

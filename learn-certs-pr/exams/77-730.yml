@@ -1,23 +1,14 @@
 ### YamlMime:Examination
-title: 'Access 2016: Compétences de base en gestion, manipulation et interrogation de bases de données'
+title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
 metadata:
-  title: 'Examen 77-730: Access 2016: Compétences de base en gestion, manipulation et interrogation de bases de données'
-  description: 'Examen 77-730: Access 2016: Compétences de base en gestion, manipulation et interrogation de bases de données'
+  title: 'Examen 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: 'Examen 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |
-  Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.
-
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
-  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. 
-  - Le format d'examen MOS 2016 intègre plusieurs projets.
+summary: "Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.\n\nLes examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;\n- Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. \n- Le format d'examen MOS 2016 intègre plusieurs projets.\n"
 subTitle: Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +18,11 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Créer et gérer une base de données (20 à 25%)

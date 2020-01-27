@@ -2,12 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
-  description: "Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients."
+  description: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
-subTitle: "Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients."
+summary: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
+subTitle: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
 levels:
 - intermediate
 skills:
@@ -17,7 +16,7 @@ skills:
 - Valider et soutenir la solution
 - Configurer la gestion financière
 - Gérer et appliquer les processus communs
-- Mettre en œuvre et gérer lles comptes débiteurs et créditeurs 
+- Mettre en œuvre et gérer lles comptes débiteurs et créditeurs
 - Gérer la budgétisation et les actifs immobilisés
 roles:
 - functional-consultant

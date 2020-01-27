@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Maîtrise technologique pour les formateurs
+title: Technology Literacy for Educators
 metadata:
-  title: 'Examen 62-193: Maîtrise technologique pour les formateurs'
-  description: 'Examen 62-193: Maîtrise technologique pour les formateurs'
+  title: 'Examen 62-193: Technology Literacy for Educators'
+  description: 'Examen 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: |-
+summary: >-
   Les candidats à cet examen sont des personnes qui se préparent à devenir formateurs, des éducateurs actuels, des professeurs de formation pédagogique ou des collèges de formation initiale, des administrateurs de l'éducation ou d'autres professionnels qui cherchent à valider leurs compétences.
+
 
   Le MCE&#58; Le test de certification de maîtrise technologique pour les formateurs est un examen de niveau intermédiaire conçu comme une mesure valide et fiable des compétences, telles que mesurées par le cadre de la conception d’apprentissage du XXIe siècle (21th Century Learning Design (21CLD)).
 subTitle: CLes candidats à cet examen sont des personnes qui se préparent à devenir formateurs, des éducateurs actuels, des professeurs de formation pédagogique ou des collèges de formation initiale, des administrateurs de l'éducation ou d'autres professionnels qui cherchent à valider leurs compétences.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=62-193&examname=Maîtrise%20technologique%20pour%20les%20formateurs&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F62-193
 locales:
 - en
 - de
@@ -22,7 +22,8 @@ locales:
 - ru
 - pl
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=62-193&examname=Maîtrise%20technologique%20pour%20les%20formateurs&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F62-193
+levels:
 - beginner
 skills:
 - Facilitation de la collaboration avec les étudiants

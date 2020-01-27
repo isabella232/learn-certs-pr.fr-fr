@@ -1,22 +1,14 @@
 ### YamlMime:Examination
-title: 'Word 2016 Expert : Création de documents pour une communication efficace'
+title: 'Word 2016 Expert: Creating Documents for Effective Communication'
 metadata:
-  title: 'Examen 77-726: Word 2016 Expert : Création de documents pour une communication efficace'
-  description: 'Examen 77-726: Word 2016 Expert : Création de documents pour une communication efficace'
+  title: 'Examen 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
+  description: 'Examen 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |
-  Les candidats de niveau expert à l'examen Word 2016 utilisent couramment les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé. 
-
-  Les candidats créent et gèrent des documents professionnels de quatre pages ou plus pour une variété d'objectifs et de situations spécialisés. Ils personnalisent leurs environnements Word en fonction de leurs besoins et pour améliorer la productivité. Les documents de niveau expert incluent notamment un plan commercial, un document de recherche, un livre, une brochure spécialisée et le publipostage. Les candidats peuvent inclure des éditeurs, des gestionnaires de projets, des travailleurs de l'information commerciale, des éducateurs et autres. 
-
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
-  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. 
-  - Le format d'examen MOS 2016 intègre plusieurs projets.
+summary: "Les candidats de niveau expert à l'examen Word 2016 utilisent couramment les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé. \n\nLes candidats créent et gèrent des documents professionnels de quatre pages ou plus pour une variété d'objectifs et de situations spécialisés. Ils personnalisent leurs environnements Word en fonction de leurs besoins et pour améliorer la productivité. Les documents de niveau expert incluent notamment un plan commercial, un document de recherche, un livre, une brochure spécialisée et le publipostage. Les candidats peuvent inclure des éditeurs, des gestionnaires de projets, des travailleurs de l'information commerciale, des éducateurs et autres. \n\nLes examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;\n- Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. \n- Le format d'examen MOS 2016 intègre plusieurs projets.\n"
 subTitle: Les candidats de niveau expert à l'examen Word 2016 utilisent couramment les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +19,8 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gérer les options et les paramètres de document (35 à 40%)

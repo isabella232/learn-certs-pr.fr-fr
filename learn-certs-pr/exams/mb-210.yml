@@ -5,19 +5,22 @@ metadata:
   description: 'Examen MB-210: Microsoft Dynamics 365 Sales'
 uid: exam.mb-210
 displayName: MB-210
-summary: |-
+summary: >-
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise des ventes. Les candidats sont responsables de la mise en œuvre de solutions prenant en charge un cycle de vie des ventes afin de fonctionner efficacement afin de respecter les objectifs de revenus, les stratégies commerciales et les objectifs de l'entreprise.
+
   <br/>
 
+
   Les candidats sont responsables de la configuration et de l’extension des fonctionnalités essentielles des prospects, des contacts, des comptes, des opportunités et des entités d’appui afin de les adapter aux processus de vente en place au sein de la société. Ils identifient les opportunités d'utilisation de Power Apps pour mettre au point des expériences unifiées pour tous les appareils, de Power Automate pour l'intégration d'applications, de flux de processus métier et d'autres outils d'automatisation pour concevoir une application qui prenne en charge et accélère "la gestion des flux de trésorerie".
+
 
   Les candidats doivent avoir de solides connaissances en commerce et, de préférence, une expérience personnelle dans le monde de la vente dans un ou plusieurs postes de vente.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la configuration, gérer les principales entités de vente et gérer les entités de vente.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-210&examname=Examen%20MB-210:%20Microsoft%20Dynamics%20365%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-210&examname=Examen%20MB-210:%20Microsoft%20Dynamics%20365%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
@@ -26,11 +29,11 @@ skills:
 - Gérer les entités de vente (35 à 40%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-sales
 courses:
 - uid: course.mb-210t01
 paths:

@@ -2,11 +2,10 @@
 title: Microsoft Certified Azure Fundamentals
 metadata:
   title: Microsoft Certified Azure Fundamentals
-  description: "Démontrez que vous comprenez les concepts de cloud, les services de base d'Azure, la tarification et le support d'Azure et les bases de la sécurité, de la confidentialité, de la conformité et de la confiance du cloud."
+  description: Démontrez que vous comprenez les concepts de cloud, les services de base d'Azure, la tarification et le support d'Azure et les bases de la sécurité, de la confidentialité, de la conformité et de la confiance du cloud.
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Démontrez que vous comprenez les concepts de cloud, les services de base d'Azure, la tarification et le support d'Azure et les bases de la sécurité, de la confidentialité, de la conformité et de la confiance du cloud.
+summary: Démontrez que vous comprenez les concepts de cloud, les services de base d'Azure, la tarification et le support d'Azure et les bases de la sécurité, de la confidentialité, de la conformité et de la confiance du cloud.
 subTitle: Démontrez que vous comprenez les concepts de cloud, les services de base d'Azure, la tarification et le support d'Azure et les bases de la sécurité, de la confidentialité, de la conformité et de la confiance du cloud.
 levels:
 - beginner
@@ -29,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Fundamentals.'
+  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Azure Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

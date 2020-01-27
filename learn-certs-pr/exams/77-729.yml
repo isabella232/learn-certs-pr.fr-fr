@@ -1,20 +1,14 @@
 ### YamlMime:Examination
-title: 'PowerPoint 2016 : Compétences en conception et en fourniture de présentation de base'
+title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
 metadata:
-  title: 'Examen 77-729: PowerPoint 2016 : Compétences en conception et en fourniture de présentation de base'
-  description: 'Examen 77-729: PowerPoint 2016 : Compétences en conception et en fourniture de présentation de base'
+  title: 'Examen 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  description: 'Examen 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |
-  Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
-
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
-  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. 
-  - Le format d'examen MOS 2016 intègre plusieurs projets.
+summary: "Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.\n\nLes examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;\n- Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. \n- Le format d'examen MOS 2016 intègre plusieurs projets.\n"
 subTitle: Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +27,8 @@ locales:
 - ru
 - th
 - tr
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Créer et gérer des présentations (30 à 35%)

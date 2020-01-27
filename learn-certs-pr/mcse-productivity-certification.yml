@@ -5,10 +5,12 @@ metadata:
   description: MCSE Productivity Solutions Expert
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: |-
+summary: >-
   Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire aux exigences pour devenir [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
-  
+
+
   Pour devenir MCSE Productivity Solutions Expert, vous devez satisfaire aux exigences suivantes&#58;
+
   - Obtenir une certification prérequise
     - Option de prérequis 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - Option de prérequis 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)

@@ -5,18 +5,19 @@ metadata:
   description: 'Examen MS-100: Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
-summary: |-
+summary: >-
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils réalisent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
+
 
   Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype Entreprise, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l'administration de serveur et des bases de l’informatique (IT) tels que DNS, Active Directory et PowerShell.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-100&examname=Examen%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-100&examname=Examen%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
@@ -26,12 +27,12 @@ skills:
 - Planifier les charges de travail et les applications d’Office 365 (10 à 15%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-101
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02

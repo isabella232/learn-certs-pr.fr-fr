@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: 'Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.'
+  description: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
+summary: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
 subTitle: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
 levels:
 - intermediate

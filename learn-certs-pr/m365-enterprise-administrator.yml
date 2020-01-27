@@ -2,18 +2,17 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.'
+  description: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
+summary: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 subTitle: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 levels:
 - advanced
 skills:
 - Concevoir et mettre en œuvre les services Microsoft 365
 - Gérer l’identité et les rôles des utilisateurs
-- Gérer l’accès et l’authentification 
+- Gérer l’accès et l’authentification
 - Planifier les charges de travail et les applications d’Office 365
 - Mettre en œuvre des services des périphériques modernes
 - Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365

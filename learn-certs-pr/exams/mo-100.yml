@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word et Word 2019) 
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word et Word 2019)'
-  description: 'MO-100: Microsoft Word (Word et Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de Word et peut compléter les tâches de manière indépendante.
+summary: Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de Word et peut compléter les tâches de manière indépendante.
 subTitle: Cette application évalue les compétence de l’utilisation correcte des principales fonctionnalités de Word en créant et en modifiant des documents à diverses fins et dans diverses situations. L’examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gérer des documents (20 à 25%)
@@ -25,7 +24,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

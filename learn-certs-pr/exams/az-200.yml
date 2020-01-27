@@ -1,24 +1,18 @@
 ### YamlMime:Examination
-title: Solutions Microsoft Azure Developer Core (beta)
-metadata: 
-  title: 'Examen AZ-200: Solutions Microsoft Azure Developer Core (beta)'
+title: Microsoft Azure Developer Core Solutions (beta)
+metadata:
+  title: 'Examen AZ-200: Microsoft Azure Developer Core Solutions (beta)'
   description: 'Examen AZ-200: Microsoft Azure Developer Core Solutions (beta)'
 uid: exam.az-200
 displayName: AZ-200
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>CET EXAMEN A ÉTÉ RETIRÉ le 03 JANVIER 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)</div>
-  <br/>   
-  Les candidats à cet examen sont des développeurs Azure qui conçoivent et développent des solutions Cloud telles que des applications et des services. Ils participent à toutes les phases du développement, de la conception de la solution au développement et au déploiement, en passant par les tests et la maintenance. Ils collaborent avec des architectes de solutions de Cloud, des DBA de Cloud, des administrateurs de Cloud et des clients pour mettre en œuvre la solution.
-
-  Les candidats doivent maîtriser le développement d'applications et de services en utilisant les outils et les technologies Azure, notamment le stockage, la sécurité, le calcul et les communications.
-
-  Les candidats doivent avoir au moins un an d'expérience dans le développement de solutions évolutives au cours de toutes les phases du développement de logiciels et maîtriser au moins un langage de programmation compatible avec le Cloud.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>CET EXAMEN A ÉTÉ RETIRÉ le 03 JANVIER 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)</div>\n<br/>   \nLes candidats à cet examen sont des développeurs Azure qui conçoivent et développent des solutions Cloud telles que des applications et des services. Ils participent à toutes les phases du développement, de la conception de la solution au développement et au déploiement, en passant par les tests et la maintenance. Ils collaborent avec des architectes de solutions de Cloud, des DBA de Cloud, des administrateurs de Cloud et des clients pour mettre en œuvre la solution.\n\nLes candidats doivent maîtriser le développement d'applications et de services en utilisant les outils et les technologies Azure, notamment le stockage, la sécurité, le calcul et les communications.\n\nLes candidats doivent avoir au moins un an d'expérience dans le développement de solutions évolutives au cours de toutes les phases du développement de logiciels et maîtriser au moins un langage de programmation compatible avec le Cloud."
 subTitle: Les candidats à cet examen sont des développeurs Azure qui conçoivent et développent des solutions Cloud telles que des applications et des services. Ils participent à toutes les phases du développement, de la conception de la solution au développement et au déploiement, en passant par les tests et la maintenance. Ils collaborent avec des architectes de solutions de Cloud, des DBA de Cloud, des administrateurs de Cloud et des clients pour mettre en œuvre la solution.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHB
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 01/03/2019
 levels:
 - beginner
 skills:
@@ -26,7 +20,6 @@ skills:
 - Développement du stockage dans le Cloud (30 à 35%)
 - Création des solutions Platform as a Service (PaaS) (35 à 40%)
 - Sécurisation des solutions Cloud (15 - 20%)
-retirementDate: 01/03/2019
 roles:
 - developer
 products:

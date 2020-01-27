@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certifier: Power Apps + Dynamics 365 Developer Associate'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
-  title: 'Microsoft Certifier: Power Apps + Dynamics 365 Developer Associate'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, de la mise au point, de la sécurisation et de l’extension d'une mise en œuvre Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, de la mise au point, de la sécurisation et de l’extension d'une mise en œuvre Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+summary: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, de la mise au point, de la sécurisation et de l’extension d'une mise en œuvre Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 subTitle: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, de la mise au point, de la sécurisation et de l’extension d'une mise en œuvre Dynamics 365.
 levels:
 - intermediate

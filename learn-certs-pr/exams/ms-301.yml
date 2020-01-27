@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Examen%20MS-301:%20Déployer%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Examen%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:

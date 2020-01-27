@@ -43,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Parcours de formation en vue de la certification
-  description: Découvrez les ressources de formation pour devenir Microsoft Certified : Teamwork Administrator Associate.
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified : Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

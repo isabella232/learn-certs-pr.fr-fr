@@ -32,7 +32,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrir les ressources de formation pour devenir Microsoft Certified: Administrateur des équipes associé.'
+  description: 'Découvrir les ressources de formation pour devenir Microsoft Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

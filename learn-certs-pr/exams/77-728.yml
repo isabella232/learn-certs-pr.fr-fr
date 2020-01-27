@@ -9,6 +9,9 @@ summary: "Les candidats de niveau expert à l'examen Excel 2016 possèdent une c
 subTitle: Les candidats de niveau expert à l'examen Excel 2016 possèdent une connaissance avancée de l'environnement Excel et ont la capacité de guider les autres vers l'utilisation appropriée des fonctionnalités du programme.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

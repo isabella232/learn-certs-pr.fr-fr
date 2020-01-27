@@ -22,7 +22,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-200&examname=Examen%20DP-200:%20Mettre%20en%20œuvre%20une%20solution%20de%20données%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-200&examname=Examen%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:

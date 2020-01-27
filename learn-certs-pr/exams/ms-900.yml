@@ -18,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-900&examname=Examen%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-900&examname=Examen%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:

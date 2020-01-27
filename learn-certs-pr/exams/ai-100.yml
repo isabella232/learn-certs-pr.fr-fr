@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Examen AI-100: Concevoir et mettre en œuvre une solution IA Azure'
-  description: 'Examen AI-100: Concevoir et mettre en œuvre une solution IA Azure'
+  title: 'Examen AI-100: Designing and Implementing an Azure AI Solution'
+  description: 'Examen AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
 summary: >-
@@ -26,7 +26,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AI-100&examname=Examen%20AI-100:%20Concevoir%20et%20mettre%20en%20œuvre%20une%20solution%20IA%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AI-100&examname=Examen%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:

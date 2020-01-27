@@ -9,6 +9,9 @@ summary: "Les candidats qui réussissent l'examen maîtrisent les principes de b
 subTitle: Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -17,6 +17,9 @@ summary: >
 subTitle: Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers. Les candidats utiliseront Outlook 2016 pour améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d'application incluent la coordination de la construction des ressources, l'envoi de messages pour des campagnes marketing, la planification de réunions du personnel et l'affectation d'éléments de la réunion.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

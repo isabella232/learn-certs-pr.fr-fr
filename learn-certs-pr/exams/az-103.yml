@@ -5,22 +5,24 @@ metadata:
   description: 'Examen AZ-103: Microsoft Azure Administrator'
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   À partir du 1er mai 2019, la réussite du seul examen AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100.
 
+
   Les candidats à cet examen sont des administrateurs Azure qui gèrent les services de cloud couvrant le stockage, la sécurité, le réseau et les capacités de l'informatique du cloud. Les candidats ont une connaissance approfondie de chaque service tout au long du cycle de vie informatique et prennent en charge les demandes de services d'infrastructure, d'applications et d'environnements. Ils formulent des recommandations sur les services à utiliser pour optimiser les performances et l'évolutivité et fournissent, dimensionnent, surveillent et ajustent les ressources, le cas échéant.
+
 
   Les candidats à cet examen doivent maîtriser PowerShell, l'interface de la ligne de commande, le portail Azure, les modèles ARM, les systèmes d'exploitation, la virtualisation, l'infrastructure du cloud, les structures de stockage et les réseaux.
 subTitle: 'À partir du 1er mai 2019, la réussite de l’examen AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : gérer des abonnements et des ressources Azure, mettre en œuvre et gérer le stockage, déployer et gérer des machines virtuelles (VM), configurer et gérer les réseaux virtuels et gérer les identités.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-103&examname=Examen%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-103&examname=Examen%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Faz-103
 levels:
 - intermediate
 skills:

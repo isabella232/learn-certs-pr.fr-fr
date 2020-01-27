@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Les administrateurs Azure mettent en œuvre, suivent et maintiennent les solutions Microsoft Azure, y compris les principaux services liés au calcul, au stockage, au réseau et à la sécurité.'
+  description: Les administrateurs Azure mettent en œuvre, suivent et maintiennent les solutions Microsoft Azure, y compris les principaux services liés au calcul, au stockage, au réseau et à la sécurité.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les administrateurs Azure mettent en œuvre, suivent et maintiennent les solutions Microsoft Azure, y compris les principaux services liés au calcul, au stockage, au réseau et à la sécurité. [En savoir plus sur les modifications à cette certification entrées en vigueur à partir du 1er mai 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Les administrateurs Azure mettent en œuvre, suivent et maintiennent les solutions Microsoft Azure, y compris les principaux services liés au calcul, au stockage, au réseau et à la sécurité. [En savoir plus sur les modifications à cette certification entrées en vigueur à partir du 1er mai 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Les administrateurs Azure mettent en œuvre, suivent et maintiennent les solutions Microsoft Azure, y compris les principaux services liés au calcul, au stockage, au réseau et à la sécurité.
 levels:
 - intermediate

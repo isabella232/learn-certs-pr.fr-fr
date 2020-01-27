@@ -2,11 +2,10 @@
 title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Security Administrator Associate'
-  description: "Les administrateurs de la sécurité de Microsoft 365 sécurisent de manière proactive les environnements d'entreprise et hybrides M365, mettent en œuvre et gèrent les solutions de sécurité et de conformité, répondent aux menaces et font appliquer la gouvernance des données."
+  description: Les administrateurs de la sécurité de Microsoft 365 sécurisent de manière proactive les environnements d'entreprise et hybrides M365, mettent en œuvre et gèrent les solutions de sécurité et de conformité, répondent aux menaces et font appliquer la gouvernance des données.
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Les administrateurs de la sécurité de Microsoft 365 sécurisent de manière proactive les environnements d'entreprise et hybrides M365, mettent en œuvre et gèrent les solutions de sécurité et de conformité, répondent aux menaces et font appliquer la gouvernance des données.
+summary: Les administrateurs de la sécurité de Microsoft 365 sécurisent de manière proactive les environnements d'entreprise et hybrides M365, mettent en œuvre et gèrent les solutions de sécurité et de conformité, répondent aux menaces et font appliquer la gouvernance des données.
 subTitle: Les administrateurs de la sécurité de Microsoft 365 sécurisent de manière proactive les environnements d'entreprise et hybrides M365, mettent en œuvre et gèrent les solutions de sécurité et de conformité, répondent aux menaces et font appliquer la gouvernance des données.
 levels:
 - intermediate

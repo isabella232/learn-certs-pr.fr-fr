@@ -1,21 +1,20 @@
 ### YamlMime:Examination
-title: Déploiement de Voix Entreprise avec Skype Entreprise 2015
+title: Deploying Enterprise Voice with Skype for Business 2015
 metadata:
-  title: 'Examen 70-333: Déploiement de Voix Entreprise avec Skype Entreprise 2015'
-  description: 'Examen 70-333: Déploiement de Voix Entreprise avec Skype Entreprise 2015'
+  title: 'Examen 70-333: Deploying Enterprise Voice with Skype for Business 2015'
+  description: 'Examen 70-333: Deploying Enterprise Voice with Skype for Business 2015'
 uid: exam.70-333
 displayName: 70-333
-summary: |-
-  Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience en matière de technologies Skype Entreprise et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype Entreprise Server et Skype Entreprise Online pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, les conférences audio/vidéo et Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype Entreprise en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype Entreprise. Les candidats doivent connaître les spécifications d'intégration de Skype Entreprise avec Microsoft Exchange Server et Office 365.
+summary: Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience en matière de technologies Skype Entreprise et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype Entreprise Server et Skype Entreprise Online pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, les conférences audio/vidéo et Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype Entreprise en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype Entreprise. Les candidats doivent connaître les spécifications d'intégration de Skype Entreprise avec Microsoft Exchange Server et Office 365.
 subTitle: Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience en matière de technologies Skype Entreprise et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype Entreprise Server et Skype Entreprise Online pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, les conférences audio/vidéo et Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype Entreprise en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype Entreprise. Les candidats doivent connaître les spécifications d'intégration de Skype Entreprise avec Microsoft Exchange Server et Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dq
 practiceTestUrl: https://www.mindhub.com/product-p/mu-70-333_p.htm&utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=333&examname=Déploiement%20de%20Voix%20Entreprise%20avec%20Skype%20Entreprise%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F70-333
 locales:
 - en
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=333&examname=Deploying%20Enterprise%20Voice%20with%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F70-333
+levels:
 - advanced
 skills:
 - Planification et conception de Skype Entreprise avec Voix Entreprise (30 à 35%)

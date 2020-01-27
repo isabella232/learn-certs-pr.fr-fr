@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: Déployer SharePoint Server Hybrid
+title: Deploying SharePoint Server Hybrid
 metadata:
-  title: 'Examen MS-301: Déployer SharePoint Server Hybrid'
-  description: 'Examen MS-301: Déployer SharePoint Server Hybrid'
+  title: 'Examen MS-301: Deploying SharePoint Server Hybrid'
+  description: 'Examen MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
-summary: |-
+summary: >-
   Les candidats à cet examen sont des administrateurs Teamwork responsables de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Les administrateurs Teamwork gèrent des applications, des services et prennent en charge l’infrastructure pour répondre aux exigences de l’entreprise. L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
+
   <br/>
 
+
   L'administrateur Teamwork est impliqué dans les décisions de la gouvernance et des travaux avec d'autres administrateurs pour mettre en œuvre de nombreuses décisions prises par les organes dirigeants. L'administrateur Teamwork collabore avec l’administrateur de messagerie pour configurer les options et la sécurité relatives aux tâches de courrier électronique, avec l’administrateur de la voix pour intégrer les capacités vocales dans les organisations et avec l’administrateur de la sécurité pour assurer la sécurité de bout en bout.
+
 
   Les candidats à cet examen comprennent les points d'intégration dans les applications et services suivants&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et services tiers y compris les applications du secteur d'activité. Les candidats doivent aussi comprendre les concepts de gestion de SQL Server, Azure Active Directory, PowerShell, le réseautage, l’administration du serveur Windows, le système de noms de domaine (DNS), la gestion des périphériques mobiles Active Directory, et les systèmes d’exploitation alternatifs.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: configurer et gérer SharePoint sur site, configurer et gérer les scénarios hybrides et migrer vers SharePoint Online.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Examen%20MS-301:%20Déployer%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Examen%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
@@ -27,14 +30,14 @@ skills:
 - Migrer vers SharePoint Online (5 à 10%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-300
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
-exams:
-- uid: exam.ms-300
 courses:
 - uid: course.ms-301t01
 - uid: course.ms-301t02

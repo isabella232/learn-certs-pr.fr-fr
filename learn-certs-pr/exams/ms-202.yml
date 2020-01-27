@@ -1,30 +1,18 @@
 ### YamlMime:Examination
-title: Transition de certification pour l'administrateur de messagerie Microsoft 365
+title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
-  title: "Examen MS-202: Transition de certification pour l'administrateur de messagerie Microsoft 365"
-  description: "Examen MS-202: Transition de certification pour l'administrateur de messagerie Microsoft 365"
+  title: 'Examen MS-202: Microsoft 365 Messaging Administrator Certification Transition'
+  description: 'Examen MS-202: Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> CET EXAMEN A ÉTÉ RETIRÉ le 30 SEPTEMBRE 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/> <br/> </div>
-    
-
-
-  Cet examen est destiné uniquement aux candidats qui ont passé l'[examen 70-345&#58](https://www.microsoft.com/learning/exam-70-345.aspx) Concevoir et déployer Microsoft Exchange Server 2016. Si vous n'avez pas passé l'examen 345, vous ne pourrez pas obtenir une certification en passant cet examen.
-
-  Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent des destinataires, des autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud.
-
-  Les administrateurs de messagerie sont responsables de la gestion de l'hygiène, de l'infrastructure de messagerie, de la configuration hybride, de la migration, de la reprise après sinistre, de la haute disponibilité et de l'accès des clients.
-
-  Les administrateurs de messagerie collaborent avec l'administrateur de sécurité et l'administrateur Microsoft 365 Enterprise pour mettre en œuvre une topologie hybride sécurisée qui répond aux besoins de l'entreprise dans une organisation moderne.
-
-  L'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
-subTitle: "Cet examen est destiné uniquement aux candidats qui ont passé l'examen 70-345: Concevoir et déployer Microsoft Exchange Server 2016. Si vous n'avez pas passé l'examen 345, vous ne pourrez pas obtenir une certification en passant cet examen."
+summary: "<div style='color&#58; red; font-weight&#58; bold;'> CET EXAMEN A ÉTÉ RETIRÉ le 30 SEPTEMBRE 2019. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/> <br/> </div>\n  \n\n\nCet examen est destiné uniquement aux candidats qui ont passé l'[examen 70-345&#58](https://www.microsoft.com/learning/exam-70-345.aspx) Designing and Deploying Microsoft Exchange Server 2016. Si vous n'avez pas passé l'examen 345, vous ne pourrez pas obtenir une certification en passant cet examen.\n\nLes candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent des destinataires, des autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud.\n\nLes administrateurs de messagerie sont responsables de la gestion de l'hygiène, de l'infrastructure de messagerie, de la configuration hybride, de la migration, de la reprise après sinistre, de la haute disponibilité et de l'accès des clients.\n\nLes administrateurs de messagerie collaborent avec l'administrateur de sécurité et l'administrateur Microsoft 365 Enterprise pour mettre en œuvre une topologie hybride sécurisée qui répond aux besoins de l'entreprise dans une organisation moderne.\n\nL'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365."
+subTitle: "Cet examen est destiné uniquement aux candidats qui ont passé l'examen 70-345: Designing and Deploying Microsoft Exchange Server 2016. Si vous n'avez pas passé l'examen 345, vous ne pourrez pas obtenir une certification en passant cet examen."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
@@ -33,14 +21,13 @@ skills:
 - Gérer les destinataires et les périphériques (10 à 15%)
 - Planifier et implémenter une configuration et une migration hybrides (20 à 25%)
 - Sécuriser l'environnement de messagerie (35 à 40%)
-retirementDate: 09/30/2019
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
+products:
+- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

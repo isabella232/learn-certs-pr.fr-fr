@@ -64,7 +64,7 @@ Cette offre inclut tous les examens de certification Microsoft Fundamentals, bas
 - Cette offre d’examen n’est pas transférable et ne sera pas valide si vous la modifiez, l’adaptez ou la transférez de quelque manière que ce soit.
 - Cette offre d’examen n’est offerte qu’aux personnes qui se sont inscrites à un événement officiel Microsoft Ignite 2019 ou Microsoft Ignite The Tour 2019 - 2020 et qui y ont participé.
 
-Pour obtenir de plus amples informations, veuillez lire la totalité des [Conditions d'utilisation de Microsoft](https://www.microsoft.com/fr-fr/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+Pour obtenir de plus amples informations, veuillez lire la totalité des [Conditions d'utilisation de Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## FAQ externes - Offre d’examen gratuit au MS Ignite et The Tour
 
@@ -111,7 +111,7 @@ Pour obtenir de plus amples informations, veuillez lire la totalité des [Condit
 **Q: Puis-je choisir de passer l’examen programmé personnellement ou en ligne ?**
 
 **R:** Oui, vous avez la possibilité de passer l’examen programmé personnellement dans un centre de test de Pearson Vue ou de passer un examen surveillé en ligne (OP). Pour en savoir plus sur les examens en ligne, veuillez vous rendre sur
-[https://www.microsoft.com/fr-fr/learning/online-exams.aspx](https://www.microsoft.com/fr-fr/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Règlement relatif aux annulations et à la reprogrammation:
 
@@ -121,14 +121,14 @@ Pour obtenir de plus amples informations, veuillez lire la totalité des [Condit
 
 **Q: Y a-t-il des frais à payer lors de la reprogrammation ou de l’annulation d’un examen?**
 
-**R:** Aucun frais n’est exigé si vous reprogrammez ou si vous annulez votre examen au moins six jours ouvrables avant votre rendez-vous. Si vous devez reprogrammer votre examen dans une période de cinq jours ouvrables avant la date prévue, vous devrez payer des frais de reprogrammation. S’il vous reste deux jours avant votre examen, vous ne pouvez ni reprogrammer ni annuler votre examen. Si vous ne vous présentez pas à l’examen, vous renoncez à votre examen gratuit dans le cadre de cette offre. Pour obtenir de plus amples informations, consultez le [règlement relatif aux annulations et à la reprogrammation](https://docs.microsoft.com/fr-fr/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Aucun frais n’est exigé si vous reprogrammez ou si vous annulez votre examen au moins six jours ouvrables avant votre rendez-vous. Si vous devez reprogrammer votre examen dans une période de cinq jours ouvrables avant la date prévue, vous devrez payer des frais de reprogrammation. S’il vous reste deux jours avant votre examen, vous ne pouvez ni reprogrammer ni annuler votre examen. Si vous ne vous présentez pas à l’examen, vous renoncez à votre examen gratuit dans le cadre de cette offre. Pour obtenir de plus amples informations, consultez le [règlement relatif aux annulations et à la reprogrammation](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **Q: Que se passe-t-il si je manque l’examen sans le reprogrammer ni l’annuler ?**
 
-**R:** Si vous manquez votre examen et que vous ne le reprogrammez pas ou que vous n’annulez pas votre rendez-vous au moins 24 heures avant votre rendez-vous programmé, vous renoncez à votre examen gratuit dans le cadre de cette offre. Pour obtenir de plus amples informations, consultez le [règlement relatif aux annulations et à la reprogrammation](https://docs.microsoft.com/fr-fr/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Si vous manquez votre examen et que vous ne le reprogrammez pas ou que vous n’annulez pas votre rendez-vous au moins 24 heures avant votre rendez-vous programmé, vous renoncez à votre examen gratuit dans le cadre de cette offre. Pour obtenir de plus amples informations, consultez le [règlement relatif aux annulations et à la reprogrammation](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### Règlement concernant le rattrapage d’examens
 
 **Q: Puis-je repasser un examen gratuitement si j’ai initialement échoué à l’examen de certification gratuit offert ?**
 
-**R:** Non, cette offre est valide pour un seul examen et les sessions de rattrapage doivent être planifiées séparément. Pour plus d'informations sur le rattrapage des examens de certifications, veuillez consulter notre [règlement relatif au rattrapage d'examens](https://www.microsoft.com/fr-fr/learning/certification-exam-policies.aspx#policies-1).
+**R:** Non, cette offre est valide pour un seul examen et les sessions de rattrapage doivent être planifiées séparément. Pour plus d'informations sur le rattrapage des examens de certifications, veuillez consulter notre [règlement relatif au rattrapage d'examens](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

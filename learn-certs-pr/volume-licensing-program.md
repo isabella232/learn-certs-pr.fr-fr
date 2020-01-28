@@ -15,7 +15,7 @@ Les solutions de formation et de certification de Microsoft aident les entrepris
 Les solutions de formation et de certification Microsoft sont disponibles par le biais des programmes d’octroi de licence en volume Microsoft suivants:
 
 * **Octroi de licences en volume Microsoft**. Un programme d'achat de logiciels Microsoft personnalisable qui garantit un accès à prix réduit aux solutions de formation et de certification de Microsoft.
-* **[Octroi de licences en volume Microsoft pour l’assurance logicielle](https://www.microsoft.com/fr-fr/learning/software-assurance-benefits.aspx)**. Un programme rentable qui garantit l’accès à une formation précise en assurance logiciell autonome ou menée par un instructeur grâce à votre couverture assurance logicielle existante.
+* **[Octroi de licences en volume Microsoft pour l’assurance logicielle](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. Un programme rentable qui garantit l’accès à une formation précise en assurance logiciell autonome ou menée par un instructeur grâce à votre couverture assurance logicielle existante.
 
 En consolidant l’achat, la budgétisation et le suivi des produits de solutions de formation et de certification Microsoft décrits sur cette page grâce à l’achat d'autres technologies Microsoft par le biais de l’octroi de licences en volume, votre organisation peut obtenir 20 à 80% d’économies en moyenne (en fonction du produit et du niveau de contrat d'octroi de licences en volume).
 
@@ -94,7 +94,7 @@ En consolidant l’achat, la budgétisation et le suivi des produits de solution
 
 ## Foire aux questions
 
-Les questions suivantes concernent précisément l'octroi de licences en volume pour des solutions de formation et de certification Microsoft. Rendez-vous sur la page [aperçu des certifications](https://www.microsoft.com/fr-fr/learning/certification-overview.aspx) ou [découvrir les règles et les FAQ](https://www.microsoft.com/fr-fr/learning/certification-exam-policies.aspx) pour obtenir des réponses aux questions générales relatives à la certification Microsoft ou aux examens.
+Les questions suivantes concernent précisément l'octroi de licences en volume pour des solutions de formation et de certification Microsoft. Rendez-vous sur la page [aperçu des certifications](https://www.microsoft.com/learning/certification-overview.aspx) ou [découvrir les règles et les FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx) pour obtenir des réponses aux questions générales relatives à la certification Microsoft ou aux examens.
 
 ### **Solutions pour la formation et la certification Microsoft**
 
@@ -154,7 +154,7 @@ Les solutions de formation et de certification Microsoft proposent une tarificat
 Plus votre organisation achète de codes, plus la remise est élevée. Nous vous recommandons d'utiliser l' une des ressources suivantes pour déterminer les besoins de formation de votre organisation et mettre au point un plan d'apprentissage en harmonie avec les  objectifs commerciaux de votre entreprise.
 
 - [Envoyer un courriel à l’octroi de licences en volume pour les solutions de formation et de certification Microsoft](mailto:mslvlhlp@microsoft.com)
-- [Trouvez votre partenaire certifié Microsoft local pour les solutions de formation et de certification Microsoft](https://www.microsoft.com/fr-fr/learning/find-partner.aspx)
+- [Trouvez votre partenaire certifié Microsoft local pour les solutions de formation et de certification Microsoft](https://www.microsoft.com/learning/find-partner.aspx)
 
 **Q : Combien de bons pour des examens dois-je commander?**
 
@@ -172,7 +172,7 @@ N'oubliez pas qu’il est important que les membres de votre personnel obtiennen
 
 **Q : Quelles options de programme sont disponibles pour se préparer aux examens inclus dans le package de classe Microsoft Certified Professional (MCP), le package de site Microsoft Office Specialist (MOS) et le package de site Microsoft Technology Associate (MTA) ?**
 
-Chaque examen dispose de  matériels de préparation  Choisissez l’examen dans la [liste des nouveaux examens](https://www.microsoft.com/fr-fr/learning/exam-list.aspx), puis cherchez les options disponibles. de préparation à l’examen 
+Chaque examen dispose de  matériels de préparation  Choisissez l’examen dans la [liste des nouveaux examens](https://www.microsoft.com/learning/exam-list.aspx), puis cherchez les options disponibles. de préparation à l’examen 
 
 **Q : Mon établissement doit-il être une Microsoft Imagine Academy pour commander un package de classe ou de site d’examens de certification Microsoft par le biais de l’octroi de licences en volume ?**
   

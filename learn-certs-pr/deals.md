@@ -70,11 +70,11 @@ Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professi
 
 **Q. Puis-je passer un examen en ligne avec le bon de présentation dans un Exam Replay ?**
 
-**R.** Oui, vous pouvez passer les examens en ligne avec un bon de présentation à un examen compris dans unExam Replay. [Découvrez les examens en ligne](https://www.microsoft.com/fr-fr/learning/online-proctored-exams.aspx) de la certification Microsoft.
+**R.** Oui, vous pouvez passer les examens en ligne avec un bon de présentation à un examen compris dans unExam Replay. [Découvrez les examens en ligne](https://www.microsoft.com/learning/online-proctored-exams.aspx) de la certification Microsoft.
 
 **Q. Puis-je planifier mon examen initial et la session de rattrapage en même temps ?**
 
-**R.** Non, vous ne pouvez pas vous inscrire à une session de rattrapage tant que vous n'avez pas passé et échoué à l'examen initial. Pour plus d'informations, consultez le [règlement concernant le rattrapage d'examens de certification Microsoft](https://www.microsoft.com/fr-fr/learning/certification-exam-policies.aspx).
+**R.** Non, vous ne pouvez pas vous inscrire à une session de rattrapage tant que vous n'avez pas passé et échoué à l'examen initial. Pour plus d'informations, consultez le [règlement concernant le rattrapage d'examens de certification Microsoft](https://www.microsoft.com/learning/certification-exam-policies.aspx).
 
 **Q. Comment puis-je activer le test d'entraînement et combien de temps est-il valide ?**
 

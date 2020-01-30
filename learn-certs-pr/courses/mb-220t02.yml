@@ -44,12 +44,12 @@ outlineSection: |-
   - Gérer l'exécution des événements
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de créer des événements en personne ou des webinaires,
-  - d'organiser les caractéristiques de planification d’événements, telles que les sessions, les conférenciers, les passages des événements, les listes d'attente, les emplacements et les sponsors,
-  - de créer et de gérer des événements récurrents,
-  - de créer des champs d’inscription personnalisés,
-  - de créer une messagerie sortante sur l’événement,
-  - de configurer et de gérer le portail de l’événement, l’inscription et la fonctionnalité d’enregistrement.
+  - de créer des événements en personne ou des webinaires
+  - d'organiser les caractéristiques de planification d’événements, telles que les sessions, les conférenciers, les passages des événements, les listes d'attente, les emplacements et les sponsors
+  - de créer et de gérer des événements récurrents
+  - de créer des champs d’inscription personnalisés
+  - de créer une messagerie sortante sur l’événement
+  - de configurer et de gérer le portail de l’événement, l’inscription et la fonctionnalité d’enregistrement
 
 
   ### Module 2&#58; Voice du client
@@ -58,10 +58,10 @@ outlineSection: |-
   - Créer des sondages
 
   Après avoir terminé ce module, les étudiants seront capables &#58;
-  - de créer un thème de sondage réutilisable,
-  - de créer, de concevoir, de prévisualiser et de publier un sondage,
-  - 'apprendre à distribuer un sondage par le biais des canaux de Dynamics 365 pour le marketing,
-  - de cloner, d'importer, de traduire, de fermer, d'arrêter ou de supprimer un sondage.
+  - de créer un thème de sondage réutilisable
+  - de créer, de concevoir, de prévisualiser et de publier un sondage
+  - apprendre à distribuer un sondage par le biais des canaux de Dynamics 365 pour le marketing
+  - de cloner, d'importer, de traduire, de fermer, d'arrêter ou de supprimer un sondage
 
 
   ### Module 3&#58; Résultats
@@ -70,6 +70,6 @@ outlineSection: |-
   - Passer en revue les résultats de l’événement et du sondage
 
   Après avoir terminé ce module, les étudiants seront capables &#58;
-  - d'utiliser le tableau de bord de l’événement pour évaluer le résultats des événements,
-  - e voir les résultats des sondages.
+  - d'utiliser le tableau de bord de l’événement pour évaluer le résultats des événements
+  - e voir les résultats des sondages
 

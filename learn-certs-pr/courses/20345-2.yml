@@ -15,7 +15,7 @@ skillsGained:
 - skill: Conception et mise en œuvre d'un environnement hautement disponible Exchange Server.
 - skill: Maintien de Exchange Server en utilisant la disponibilité gérée et la configuration de l’état souhaité (DSC).
 - skill: Planification de la sécurité des messages et conception et mise en œuvre des services Active Directory Rights Management Services (AD RMS) et de Microsoft Azure RMS dans Exchange Server.
-- skill: Conception et mise en œuvre de la rétention et de l’archivage de messages.
+- skill: Conception et mise en œuvre de la rétention et de l'archivage de messages.
 - skill: Conception et mise en œuvre de politiques de prévention de la perte de données, de In-Place Hold et de eDiscovery.
 - skill: Conception et mise en œuvre de la coexistence de messagerie dans les organisations Exchange Server.
 - skill: Planification et mise en œuvre de la mise à niveau de versions antérieures de Exchange Server vers Exchange Server 2019.
@@ -263,7 +263,7 @@ outlineSection: |-
   - de mettre en œuvre la mise à niveau vers Exchange Server 2019
 
 
-  ### Module 12&#58; Planification d’un déploiement hybride de ### Module
+  ### Module 12&#58; Planification d’un déploiement hybride de
   Ce module décrit les bases d'un déploiement hybride et la planification de l’authentification dans un déploiement hybride. Il explique également comment mettre en œuvre Microsoft Azure Active Directory (Azure AD) Connect, une mise au point hybride et une fonctionnalité avancée pour les déploiements hybrides.
   #### Leçons
   - Bases d'un déploiement hybride

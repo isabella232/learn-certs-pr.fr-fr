@@ -67,7 +67,7 @@ outlineSection: |-
     
   Contient des leçons sur les méthodologies de déploiement des VM Azure, la mise en œuvre d'instances uniques (2-tiers ou 3-tiers), la mise en œuvre de HA SAP NetWeaver avec AnyDB sur les VM Azure, la mise en œuvre de HA SAP HANA sur les VM Azure, la configuration de l’extension de la surveillance étendue Azure pour SAP et la mise en œuvre de l’authentification de AD et de Azure basée sur AD.
   
-  ### Module 8&#58; Module 8 - Déploiement d’importantes instances HANA (HLI)
+  ### Module 8&#58; Déploiement d’importantes instances HANA (HLI)
     
   Contient une leçon sur la mise en œuvre d'importantes instances HANA (HLI)
   

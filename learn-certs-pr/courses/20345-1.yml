@@ -19,7 +19,7 @@ skillsGained:
 - skill: Configuration de la sécurité des messages sur Exchange Server.
 - skill: Surveillance et dépannage de Exchange Server.
 - skill: Configuration des permissions de contrôle d'accès basés sur les rôles de Exchange Server et configuration du journal de l'audit pour les administrateurs et les utilisateurs.
-- skill: Mise en œuvre et gestion de l’intégration avec Exchange Online.
+- skill: Mise en œuvre et gestion de l'intégration avec Exchange Online.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -37,7 +37,7 @@ summary: |-
   #### Profil de l’audience
   L'audience de cette formation inclut des administrateurs de messagerie au niveau de l’entreprise sur Exchange Server. Des professionnels de l’informatique généralistes et de services d'assistance qui souhaitent découvrir Exchange Server peuvent également suivre cette formation. Les étudiants qui suivent cette formation doivent avoir au moins deux ans d’expérience professionnelle dans le secteur informatique, généralement dans les domaines de l’administration de serveurs Windows, l’administration de réseaux, les services d'assistance ou l’administration de systèmes. Il doivent également avoir de l’expérience dans les concepts de Exchange Server, mais une expérience préalable dans la gestion de Exchange Server n’est pas une obligation.
 prerequisitesSection: |-
-  - En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
   - Minimum deux ans d’expérience dans l’administration de Windows Server.
   - Minimum deux ans d’expérience professionnelle dans Active Directory Domain Services (AD DS).
   - Minimum deux ans d’expérience professionnelle dans la résolution des noms, y compris le Domain Name System (DNS).

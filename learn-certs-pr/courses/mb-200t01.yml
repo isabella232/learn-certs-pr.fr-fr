@@ -39,7 +39,7 @@ summary: |-
 prerequisitesSection: |-
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé un des chemins de certification d'administrateur de charges de travail Microsoft 365.
 outlineSection: |-
-  ### Module 1&#58;Aperçu de Platform
+  ### Module 1&#58; Aperçu de Platform
   Dans ce module, les étudiants découvriront les bases de Power Platform.  Ils visiteront les différents portails et options de l'administrateur et installeront également des applications.
   #### Leçons
   - Aperçu
@@ -81,7 +81,7 @@ outlineSection: |-
   - créer et de modifier des formulaires, des vues, des tableaux de bord et d'autres composants de l’expérience utilisateur
 
 
-  ### Module 4&#58;Applications de toile
+  ### Module 4&#58; Applications de toile
   Dans ce module, les étudiants apprendront à créer et utiliser les applications de toile et apprendront également la différence entre les applications de toile et les applications axées sur les modèles.
   #### Leçons
   - Bases fondamentales des applications
@@ -95,7 +95,7 @@ outlineSection: |-
   - travailler avec les données communes (CDS)
 
 
-  ### Module 5&#58;Sécurité
+  ### Module 5&#58; Sécurité
   Dans ce module, les étudiants découvriront comment le modèle de sécurité de la plateforme gère les expériences et accès de l’utilisateur aux données et aux fonctionnalités.
   #### Leçons
   - Aperçu sur la sécurité

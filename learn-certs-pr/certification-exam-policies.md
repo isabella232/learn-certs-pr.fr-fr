@@ -60,7 +60,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
         - Numéro d'examen
     4. Si un candidat obtient la note de réussite requise pour un examen, il ne peut plus le repasser. Microsoft se réserve le droit de permettre de repasser certains examens. Pour obtenir la liste complète des examens pouvant être repassés chaque année, cliquez [ici](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
-2. Règles relatives daux examens de rattrapage Microsoft Technology Associate (MTA) et Microsoft Certified Educator (MCE)
+2. Règles relatives aux examens de rattrapage Microsoft Technology Associate (MTA) et Microsoft Certified Educator (MCE)
     1. Si un candidat n'obtient pas la note de réussite requise pour un examen la première fois, il doit attendre 24 heures avant de repasser cet examen.
     2. Si un candidat n'obtient pas la note de réussite requise la deuxième fois, il doit attendre au moins sept jours avant de repasser l'examen pour la troisième fois.
     3. Un délai d'attente de sept jours est imposé pour chaque session de rattrapage ultérieure.
@@ -74,10 +74,10 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
     4. Il n'y a aucune limite annuelle du nombre de tentatives du même examen. 
     5. Si un candidat obtient une note de réussite à un examen Office, il peut le repasser.
 
-4. Règle relative aux d examens de rattrapage MCP bêta
-    1. Les examens bêta ne peuvent être passés qu'une seule fois au cours de la période bêta. Si un candidat réussit l'examen, cette réussite donne droit a un crédit pour la certification. Si le candidat échoue à l’examen, il peut le repasser conformément aux politiques ci-dessus.
+4. Règle relative aux examens de rattrapage MCP bêta
+    1. Les examens bêta ne peuvent être passés qu'une seule fois au cours de la période bêta. Si un candidat réussit l'examen, cette réussite donne droit à un crédit pour la certification. Si le candidat échoue à l’examen, il peut le repasser conformément aux politiques ci-dessus.
     2. Cette politique remplace la règle générale relative aux examens de rattrapage.
-5. Exceptions à la règle relative a un examen de rattrapage spécifique
+5. Exceptions à la règle relative à un examen de rattrapage spécifique
     1. Dans certains cas, Microsoft peut appliquer des politiques particulières pour des examens spécifiques.
     2. Microsoft se réserve le droit de rendre certains examens disponibles au rattrapage. Pour obtenir la liste complète des examens pouvant être repassés chaque année, cliquez [ici](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
@@ -120,9 +120,9 @@ Pour des raisons de sécurité et d'intégrité, Microsoft se réserve le droit 
 Environ 400 personnes peuvent passer l’examen bêta à un taux réduit. Afin de profiter de ce taux réduit, vous avez besoin d’un code bêta qui doit être inséré comme faisant partie de votre paiement durant l’enregistrement. Pour obtenir ce code, vous pouvez :
 
 1. Rejoindre notre base de données de profils de SME. Les membres dont les aptitudes s'alignent au contenu de l’examen recevront un courrier électronique contenant ce code ; ce code est unique pour ce groupe. (À partir de mars 2018, le programme de base de données de profils d’experts techniques (SME) est hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter l’article de blog [Aidez-nous à créer du contenu d’examen et de formation ](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) Rejoignez notre base de données SME aujourd'hui !
-2. Lirnotre blog communautaire pour obtenir des informations sur les prochains examens bêta. Ces messages contiendront un code qui pourra être utilisé pour bénéficier d’une réduction sur un examen. Ces publications sont généralement publiées le jour de l’inscription pour un examen bêta. Ce code est différent de celui qui est envoyé aux experts techniques (SME) qui font partie de notre base de données.
+2. Lire notre blog communautaire pour obtenir des informations sur les prochains examens bêta. Ces messages contiendront un code qui pourra être utilisé pour bénéficier d’une réduction sur un examen. Ces publications sont généralement publiées le jour de l’inscription pour un examen bêta. Ce code est différent de celui qui est envoyé aux experts techniques (SME) qui font partie de notre base de données.
 
-Veuillez noter que les places sont limites et que la règle applicable est « premier arrivé, premier servi ».
+Veuillez noter que les places sont limitées et que la règle applicable est « premier arrivé, premier servi ».
 
 En guise de remerciement pour votre participation au processus bêta, vous recevrez un bon de réduction de 25% de Pearson VUE environ 6 semaines après la mise en ligne de l’examen. Ces bons sont fournis par VUE et sont envoyés à l’adresse électronique que vous avez utilisée lors de votre inscription à l’examen. Si vous ne recevez pas de bon de réduction de 25 % dans les 6 semaines suivant la date de mise en ligne de l’examen, veuillez envoyer un courriel à [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
 
@@ -195,7 +195,7 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
 
     Vous êtes seul responsable de la compréhension et du respect des politiques et des procédures relatives aux examens de certification Microsoft qui se trouvent sur [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx), ainsi que de celles du prestataire de services d'examen.
 
-    Vous pouvez consulter les règles relatives au aux examens de rattrapage de Microsoft ainsi que toutes les autres procédures de test et d'examen sur [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx). Vous pouvez obtenir de plus amples informations sur les règles et procédures du prestataire de services d'examen sur le site Internet de ce dernier.
+    Vous pouvez consulter les règles relatives aux examens de rattrapage de Microsoft ainsi que toutes les autres procédures de test et d'examen sur [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx). Vous pouvez obtenir de plus amples informations sur les règles et procédures du prestataire de services d'examen sur le site Internet de ce dernier.
 
     Vous avez un délai de trente (30) jours à compter de la date de l'examen pour contester le résultat de votre examen.
 
@@ -213,7 +213,7 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
     2. Vous contacter concernant les certificats qui prouvent que Vous avez réussi l'examen ou des informations concernant le programme de certification Microsoft,
     3. partager vos informations personnelles et les résultats de l'examen avec d'autres programmes de Microsoft, par exemple, le programme Microsoft Partner Network, dans le but de vérifier Votre conformité ou celle de Votre employeur aux exigences du programme,
     4. partager Vos informations avec des comités de normes et de certifications affiliés à l'établissement d'enseignement, la société ou l'organisation gouvernementale qui Vous a remis un coupon pour l'examen,
-    5. partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes :
+    5. partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes:
         - une entreprise ou une organisation gouvernementale a acheté des coupons, puis les a remis à ses employés ou sous-traitants,
         - un établissement d'enseignement a acheté des coupons, puis les a remis à ses étudiants ou employés,
         - un établissement d'enseignement ou une organisation gouvernementale a géré un centre d'examens et ne vous a pas demandé de frais distincts pour passer l'examen.
@@ -540,10 +540,10 @@ Vos commentaires sont essentiels et nous aident à rendre les examens de certifi
 
 Si vous avez besoin de plus de temps parce que votre examen n’est pas disponible dans votre langue maternelle, vous pouvez le demander en remettant le [formulaire concernant l’anglais en tant que deuxième langue](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Suivez les instructions du formulaire. 
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Le Système de demande d'ajustements raisonnables est un système sécurisé en ligne pour demander des aménagements et présenter les documents justificatifs.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Le Système de demande d'ajustements raisonnables est un système sécurisé en ligne pour demander des aménagements et présenter les documents justificatifs.
 
 - Si vous utilisez ce système de demande pour la première fois, vous devez créer un nom d'utilisateur et un mot de passe. Pour créer un nom d’utilisateur, cliquez sur le lien « S’inscrire » sur l’écran de connexion. Veuillez noter que le système exige un compte e-mail actif.
-- Pearson VUE utilise ce système sécurisé parce que vous devrez télécharger des documents justificatifs. Si vous ne l’avez pas encore fait, présentez à votre évaluateur (médecin, psychologue) une copie des [directives pour les évaluateurs](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) pour votre handicap. Votre évaluateur doit s'assurer que les documents qu’il/elle fournit respectent nos directives. Dans la plupart des cas, votre évaluateur sera un médecin ou un psychologue qui a fait passer une série de tests psychologiques, éducatifs ou médicaux et vous a fourni une copie du rapport du diagnostic ou une lettre détaillée.
+- Pearson VUE utilise ce système sécurisé parce que vous devrez télécharger des documents justificatifs. Si vous ne l’avez pas encore fait, présentez à votre évaluateur (médecin, psychologue) une copie des [directives pour les évaluateurs](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) pour votre handicap. Votre évaluateur doit s'assurer que les documents qu’il/elle fournit respectent nos directives. Dans la plupart des cas, votre évaluateur sera un médecin ou un psychologue qui a fait passer une série de tests psychologiques, éducatifs ou médicaux et vous a fourni une copie du rapport du diagnostic ou une lettre détaillée.
 - **Veuillez prévoir 10 jours ouvrables pour que Pearson VUE examine vos documents. Veuillez planifier votre demande en conséquence.**
 - Après avoir examiné votre demande, vous recevrez un e-mail indiquant qu’une décision a été prise. La lettre de décision apparaîtra dans la section « Mes documents » dans le « Système de demande d’ajustements raisonnables ». Si votre demande est approuvée, la lettre de décision vous donnera des instructions pour prévoir votre examen aménagé.
 - Si la décision d'aménagement des tests ne vous satisfait pas, vous pouvez présenter un appel contre la décision en cliquant sur le bouton de « Demande d'appel » dans la section où la lettre de décision apparaît, dans le « Système de demande d’ajustements raisonnables ».  Veuillez compléter et télécharger le formulaire d'appel qui apparaît quand vous cliquez sur le bouton. Des experts en handicap examinent toutes les demandes en appel.
@@ -621,7 +621,7 @@ Les formateurs certifiés de Microsoft travaillent avec plusieurs candidats qui 
 
 Vous pourriez aussi demander à d’autres personnes comment elles font ces exercices, lire des livres blancs, MSDN ou TechNet pour obtenir des informations supplémentaires sur les tâches qui sont incluses dans l’examen et/ou explorer les ressources fournies dans la section « Matériel de préparation » sur la page des détails des examens qui fera le lien vers toute formation en ligne, tout micro-apprentissage, toute option disponibles et un portail où vous pourrez trouver des options de formations dispensées par un instructeur dans votre région.
 
-En outre, les [tests d’entraînement Microsoft officiels](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
+En outre, les [tests d’entraînement Microsoft officiels](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 
 Si vous avez pris l’examen sans toutefois le réussir, classez par ordre d'importance les compétences que vous devez améliorer en vous concentrant sur les zones de contenu d'examen dans lesquelles vos performances ont été les plus faibles ainsi que sur les zones de contenu ayant le pourcentage de questions le plus élevé.
 
@@ -631,17 +631,17 @@ Rendez-vous sur la [page d'inscription à l’examen](https://www.microsoft.com/
 
 **Suis-je obligé de passer un examen en anglais ?**
 
-Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L'octroi de temps supplémentaire est alloué au cas par cas. Demandez des aménagements de l’examen à [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L'octroi de temps supplémentaire est alloué au cas par cas. Demandez des aménagements de l’examen à [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
 
 **Quels sont les aménagements possibles pour les personnes handicapées ?**
 
-Microsoft s'engage à rendre ses examens accessibles à tous, y compris aux personnes handicapées. Pour obtenir une liste des aménagements possibles, referez-vous à la [page Aménagements](http://www.pearsonvue.com/accommodations/).
+Microsoft s'engage à rendre ses examens accessibles à tous, y compris aux personnes handicapées. Pour obtenir une liste des aménagements possibles, referez-vous à la [page Aménagements](https://www.pearsonvue.com/accommodations/).
 
 **Combien coûtent les examens ?**
 
 Les examens Expert et Associate coûtent généralement 165 USD, mais le tarif est établi en fonction du taux de change dans les pays et régions spécifiques. Les frais d' examen sont susceptibles d'être modifiés. Dans certains pays et régions, des taxes supplémentaires peuvent s'appliquer.
 
-- Pour obtenir les frais exact pour l'examen Microsoft Office Specialist (MOS), veuillez contacter [Certiport](http://www.certiport.com/).
+- Pour obtenir les frais exact pour l'examen Microsoft Office Specialist (MOS), veuillez contacter [Certiport](https://www.certiport.com/).
 
 - Pour tous les autres examens, [parcourez tous les examens](https://www.microsoft.com/learning/exam-list.aspx) pour trouver la page de l'examen, qui inclut le prix de l'examen.
 
@@ -653,7 +653,7 @@ Si vous avez des commentaires sur un cours de formation Microsoft dispensé par 
 
 Si vous avez une question concernant l'exactitude technique d'un élément particulier, suivez le processus de [demande de révision d'une question d’examen](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
 
-Pour signaler un problème se rapportant au centre de tests ou à des difficultés techniques rencontrées au cours de l'examen, contactez le service clientèle de [Pearson VUE](http://www.pearsonvue.com/microsoft/) ou [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
+Pour signaler un problème se rapportant au centre de tests ou à des difficultés techniques rencontrées au cours de l'examen, contactez le service clientèle de [Pearson VUE](https://www.pearsonvue.com/microsoft/) ou [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
 Pour faire d'autres types de commentaires, veuillez contacter votre [centre de service régional Microsoft](https://www.microsoft.com/learning/help.aspx).
 
@@ -846,7 +846,7 @@ Lorsque vous êtes prêt à repasser l'examen, programmez un rendez-vous comme v
 
 Bien que les examens de certification Microsoft fournissent des remarques sur les domaines dans lesquels les candidats doivent améliorer leurs compétences, les examens ne sont pas conçus pour fournir un diagnostic ou un rapport détaillé. Nous vous encourageons à consulter la section « Compétences évaluées » de la page de détails de l'examen afin d'évaluer en toute honnêteté vos compétences par rapport à celles évaluées à l'examen. La meilleure façon de procéder consiste à exécuter les tâches énumérées, en notant les difficultés que vous rencontrez. Entraînez-vous jusqu'à ce que vous n'ayez plus de difficultés. Vous pouvez également demander à d'autres personnes comment elles effectuent ces tâches. Procèdent-elles différemment ? Essayez d'en comprendre les raisons. Lisez les livres blancs, consultez les docs, etc. pour obtenir des informations supplémentaires sur les tâches figurant dans l'examen. Explorez les ressources répertoriées dans la section « Options de préparation » de la page de détails de l'examen et les groupes d'étude, que vous pouvez trouver au bas de la page des détails de l'examen individuel.
 
-En outre, des [tests d’entraînement Microsoft officiels](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
+En outre, des [tests d’entraînement Microsoft officiels](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 
 **Quel est le règlement en matière d'examens de rattrapage ?**
 
@@ -1071,7 +1071,7 @@ Si vous avez des questions générales liées à l'inscription aux examens, cont
 
 **Comment puis-je demander un aménagement ?**
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section Aménagements spéciaux lors d’un examen ci-dessus.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section Aménagements spéciaux lors d’un examen ci-dessus.
 
 **Pour quelle raison dois-je présenter des documents ?**
 

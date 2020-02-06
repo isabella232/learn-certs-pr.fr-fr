@@ -16,7 +16,7 @@ providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
   - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+    examUrl: https://www.certiport.com/locator
 locales:
 - en
 - de
@@ -50,7 +50,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md

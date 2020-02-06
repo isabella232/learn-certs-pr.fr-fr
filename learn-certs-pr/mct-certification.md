@@ -13,7 +13,7 @@ ms.author: micsullivan
 Les Microsoft Certified Trainers (MCT) sont des experts de premier plan en technique et formation sur les technologies Microsoft. Rejoignez ce groupe exclusif de professionnels, spécialistes de la formation technique Microsoft et bénéficiez de tous les avantages de la formation et de l'adhésion MCT.
 Vous aurez accès à des avantages exclusifs en tant que MCT, y compris l’accès à toute la bibliothèque de produits de formation et de certification officiels Microsoft, des remises substantielles sur le prix des examens, des livres et des produits Microsoft. De plus, vous pourrez utiliser les ressources Microsoft pour vous préparer, ce qui vous aidera à solidifier votre carrière de formateur et à interagir avec d'autres membres MCT dans un forum de la communauté en ligne. Vous recevrez également des invitations pour assister à des événements exclusifs Microsoft et de la communauté MCT locale.
 En tant que formateur certifié Microsoft, vous devez obtenir une certification Microsoft attestant de votre expérience et de vos connaissances dans les produits et solutions Microsoft traités dans les cours que vous dispensez.
-Le programme de formateur certifié Microsoft est un programme d'adhésion annuelle. Vous devez satisfaire aux exigences du programme, remplir un formulaire de demande en ligne et vous acquitter des frais annuels pour renouveler votre certification de formation pour l’année prochaine.
+Le programme de formateur certifié Microsoft est un programme d'adhésion annuelle. Vous devez satisfaire les exigences du programme, remplir un formulaire de demande en ligne et vous acquitter des frais annuels pour renouveler votre certification de formation pour l’année prochaine.
 
 L’[équipe d’aide MCT](https://aka.ms/mctforum) (MCT) peut répondre à vos questions concernant le processus de certification MCT et les conditions du programme.
 
@@ -27,7 +27,7 @@ De plus, vous aurez accès à [MCT Central](https://www.microsoft.com/en-us/lear
 
 ## <a name="mctinfoheading-3"></a> Exigences
 
-Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en continu des formations sur les technologies Microsoft. Si vous possédez une certification et que donner une formation sur les technologies Microsoft vous passionne, nous vous encourageons à faire une demande.
+Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en continue des formations sur les technologies Microsoft. Si vous possédez une certification et que donner une formation sur les technologies Microsoft vous passionne, nous vous encourageons à faire une demande.
 
 Pour en savoir plus sur les conditions liées au programme MCT, consultez le guide du programme MCT et l'accord du programme MCT dans la section [Procédure de candidature](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de cette page.
 
@@ -54,14 +54,14 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 
   - Fournir des références attestant d'au moins une année d'expérience en tant qu'instructeur 
 
-**Remarque** Pour renouveler votre statut de MCT, vous devez satisfaire aux exigences de renouvellement du programme MCT avant la date anniversaire de votre certificat.
+**Remarque** Pour renouveler votre statut de MCT, vous devez satisfaire les exigences de renouvellement du programme MCT avant la date anniversaire de votre certificat.
 
 ### Exigences en matière de renouvellement du programme MCT
 
 - Posséder une qualification ou une certification Microsoft donnant accès au programme MCT.
 (Voir ci-dessous pour obtenir une liste des certifications éligibles).
 
-- Satisfaire aux exigences minimales en matière d'enseignement, à savoir un minimum d' un cours \, validé par [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) OU tout autre outil de sondage sera accepté.
+- Satisfaire les exigences minimales en matière d'enseignement, à savoir un minimum d' un cours \, validé par [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) OU tout autre outil de sondage sera accepté.
 
 **Remarque** Les conditions de renouvellement sont sujettes à modification.
 
@@ -142,7 +142,7 @@ Après le dépôt de votre candidature et le paiement, vous recevrez un courrier
 
 ## Le programme alumni MCT
 
-Depuis plus de vingt ans, les MCT sont à l'avant-garde de l'adoption et de la formation à la technologie Microsoft. En reconnaissance de leurs importantes contributions, nous proposons désormais le programme Élèves MCT. Ce programme est destiné à tous les MCT certifiés par Microsoft qui ne suivent plus de formation dans le cadre du programme MCT et qui souhaitent maintenir leurs relations avec la communauté MCT.
+Depuis plus de vingt ans, les MCT sont à l'avant-garde de l'adoption et de la formation à la technologie Microsoft. En reconnaissance de leurs importantes contributions, nous proposons désormais le prorgamme Alumni MCT. Ce programme est destiné à tous les MCT certifiés par Microsoft qui ne suivent plus de formation dans le cadre du programme MCT et qui souhaitent maintenir leurs relations avec la communauté MCT.
 
 Conditions du programme Élèves MCT :
 
@@ -178,7 +178,7 @@ Les membres du programme Élèves MCT sont invités à rejoindre le programme MC
 
 Pour revenir au programme MCT:
 
-- **Assurez-vous de satisfaire aux exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les certifications et qualifications Microsoft donnant actuellement accès au programme MCT.
+- **Assurez-vous de satisfaire les exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les certifications et qualifications Microsoft donnant actuellement accès au programme MCT.
 - **Inscrivez-vous au programme MCT.** Les membres du programme Élèves MCT peuvent au choix : fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
 
 ## Service d' assistance MCT

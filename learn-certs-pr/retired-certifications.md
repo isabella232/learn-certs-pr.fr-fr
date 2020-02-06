@@ -14,7 +14,7 @@ Afin de garder le programme Microsoft Certified Professional à jour, Microsoft 
 
 ## Certifications dont le retrait est prévu
 
-Rechercher les certifications devant être retirées au cours des 12 prochains mois. (Les informations ci-dessous sont sujettes à modification.) 
+Trouvez les certifications qui seront retirées au cours des 12 prochains mois. (Les informations ci-dessous sont sujettes à modification.) 
 [MCSA : Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retrait le 30 juin 2020  
 
 [MCSE : Applications d’entreprise](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retrait le 31 décembre 2019  

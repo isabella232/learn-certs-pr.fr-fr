@@ -10,7 +10,7 @@ ms.author: micsullivan
 ---
 # Examens dont le retrait est prévu
 
-Rechercher les examens devant être retirés au cours des 12 prochains mois, répertoriés par technologie. (Les informations ci-dessous sont sujettes à modification.)
+Trouvez les examens qui doivent être retirés au cours des 12 prochains mois, ces examens sont classés par technologie. (Les informations ci-dessous sont sujettes à modification.)
 
 | Retrait le 30 juin 2020 | |
 | --- | --- |

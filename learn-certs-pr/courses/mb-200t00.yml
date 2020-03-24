@@ -1,0 +1,234 @@
+### YamlMime:Course
+title: Microsoft Power Platform + Dynamics 365 Core
+metadata:
+  title: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+uid: course.mb-200t00
+courseNumber: 'MB-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifier les composants de la plateforme.
+- skill: Comprendre les options de l’administrateur.
+- skill: Modéliser les données efficacement.
+- skill: Créer une application fondamentale dirigée par le modèle ou canevas.
+- skill: Identifier les stratégies et les méthodologies des examens.
+- skill: Identifier les opportunités d’intégration.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques. Cette formation donne un aperçu approfondi des capacités de Microsoft Dynamics 365 et de Power Platform et fournit une base pour d'autres offres de formation de Microsoft Dynamics 365 et Power Platform. Les sujets de haut niveau comprennent la configuration d’applications, les opportunités d’automatisation, l’intégration, le contrôle, et le déploiement.
+
+  #### Profil de l’audience
+  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+outlineSection: |-
+  ### Module 1&#58; Présentation de Power Platform
+  Dans ce module, vous apprendrez les principes de base de Power Platform. Vous ferez le tour des divers portails d’administrateur et vous installerez des applications.
+  #### Leçons
+  - Aperçu
+  - Configurer les environnements de Power Platform
+  - Créer des applications
+  - Découvrir et planifier
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - d'identifier les composants communs de la plateforme et leurs utilisations.
+
+
+  ### Module 2&#58; Modélisation des données
+  Dans ce module, vous apprendront à modéliser les données efficacement à l’aide des entités, attributs et relations de la plateforme.
+  #### Leçons
+  - Bases des modèles de données
+  - Relations
+  - Autres options de l’entité
+  - Autres options du site
+  - Internationalisation
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - créer et d'utiliser les relations et les entités.
+
+
+  ### Module 3&#58;  Applications axées sur les modèles
+  Dans ce module, vous découvrirez les applications dirigées par des modèles et la manière de les configurer et de les utiliser.
+  #### Leçons
+  - Configurer des applications axées sur les modèles
+  - Configurer des formulaires axés sur les modèles
+  - Configurer des vues
+  - Configurer des graphiques axés sur les modèles
+  - Configurer des tableaux de bord axés sur les modèles
+  - Configurer des rapports
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  – Créer et modifier des formulaires.
+  – Créer et modifier les affichages et les tableaux de bord.
+  – Identifier et utiliser les composants des expériences d’autres utilisateurs.
+
+
+  ### Module 4&#58; Applications de toile
+  Dans ce module, vous apprendrez à créer et utiliser des applications canevas, et vous découvrirez la différence entre les applications canevas et celles qui sont dirigées par des modèles.
+  #### Leçons
+  - Bases fondamentales des applications
+  - Travailler avec des données et des services
+  - Personnaliser l’expérience utilisateur
+  - Intégration à des applications axées sur les modèles
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - créer une application de toile.
+  - travailler avec les données communes (CDS).
+
+
+  ### Module 5&#58; Sécurité
+  Dans ce module, vous découvriront comment le modèle de sécurité de la plateforme gère les expériences et accès de l’utilisateur aux données et aux fonctionnalités.
+  #### Leçons
+  - Aperçu sur la sécurité
+  - Unités commerciales
+  - Gérer des rôles de sécurité
+  - Gérer des équipes
+  - Configurer la sécurité hiérarchique
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  – Créer et utiliser des unités métiers.
+  – Créer, modifier et utiliser des rôles de sécurité.
+
+
+  ### Module 6&#58; Aperçu de l’automatisation de Platform
+  Dans ce module, vous apprendrez les principes de base des capacités d’automatisation de Power Platform.
+  #### Leçons
+  – Présentation de l’automatisation.
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  – Identifier les capacités d’automatisation communes des plateformes.
+
+
+  ### Module 7&#58; Règles métier
+  Dans ce module, vous apprendrez à créer et à utiliser des règles métiers, et vous découvrirez leur fonctionnement avec d’autres automatisations de plateformes.
+  #### Leçons
+  - Introduction aux règles métiers
+  - Détail supplémentaires sur les règles métiers
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - créer et d'utiliser des règles métiers.
+
+
+  ### Module 8&#58; Flux de travail
+  Dans ce module, vous apprendrez à créer et à utiliser des flux de travail, et vous découvrirez leur fonctionnement avec d’autres automatisations de plateformes.
+  #### Leçons
+  - Introduction aux flux de travail
+  - Développement des flux de travail
+  – Flux de travail avancés.
+
+  Après avoir terminé ce module, vous seront capables &#58;
+  - de créer et d'utiliser des flux de travail.
+
+
+  ### Module 9&#58; Microsoft Flows
+  Dans ce module, vous apprendrez à créer et à utiliser Microsoft Flows, et vous découvrirez leur fonctionnement avec d’autres automatisations de plateformes.
+  #### Leçons
+  - Introduction à Microsoft Flows
+  - Autres concepts de flux
+  - Travailler avec les données communes (CDS)
+  - Mettre au point des flux d'approbation
+  - Commencer à partir des applications
+  - Considérations de déploiement de flux
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer et d'utiliser Microsoft Flows.
+
+
+  ### Module 10&#58; Flux des processus métier
+  Dans ce module, vous apprendrez à créer et à utiliser des flux de processus, et vous découvrirez leur fonctionnement avec d’autres automatisations de plateformes.
+  #### Leçons
+  - Introduction aux flux de processus métier
+  - Configurer les flux de processus métier
+  – Détails supplémentaires sur les flux de processus métier.
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer et d'utiliser des flux de processus métier.
+
+
+  ### Module 11&#58; Introduction aux intégrations
+  Dans ce module, vous apprendrez les principes de base des capacités d’intégration de Power Platform.  Vous apprendrez à configurer et à utiliser les intégrations de courrier électronique.
+  #### Leçons
+  - Aperçu des scénarios communs
+  - Intégration du courrier électronique
+  - Intégration d’Outlook
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - d'identifier les intégrations communes,
+  – Configurer et utiliser les intégrations de courrier électronique.
+
+
+  ### Module 12&#58;  Intégration avec Office
+  Dans ce module, vous apprendrez l’intégration avec les produits communs Office, notamment OneNote, Word et Excel.
+  #### Leçons
+  - Modèles
+  - SharePoint
+  - Microsoft Teams
+  – Intégrations supplémentaires.
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de configurer et d'utiliser des intégrations avec les produits Office.
+
+
+  ### Module 13&#58; Gérer des données
+  Dans ce module, vous apprendrez à importer et exporter des données pour Power Platform et à créer et utiliser des cartes de données.
+  #### Leçons
+  - Aperçu de la gestion des données
+  - Détection des doubles
+  - Importer des données
+  - Exporter des données
+  - Supprimer en bloc
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - Importer et exporter des données.
+  - Créer et utiliser des cartes de données.
+  - Effectuer des suppressions en bloc.
+
+
+  ### Module 14&#58;  Gérer des instances et des applications
+  Dans ce module, vous apprendrez à activer et mettre à jour les applications de première partie ; à installer des applications de troisième partie et configurer l’utilisation des portails d’administration.
+  #### Leçons
+  - Aperçu
+  - Gérer des applications
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de permettre et de mettre à jour des applications de première partie.
+  - d'installer des applications tierces.
+
+
+  ### Module 15&#58; Gérer des solutions
+  Dans ce module, vous apprendrez à créer, gérer et déployer des solutions.
+  #### Leçons
+  - Concepts des solutions
+  - Planifier et créer des solutions
+  - Travailler avec des composants des solutions
+  - Distribuer des solutions
+  - Travailler avec des solutions gérées
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  – Créer des solutions.
+  – Déployer des personnalisations.
+
+
+  ### Module 16&#58;  Considérations de déploiement supplémentaires
+  Dans ce module, vous apprendrez les configurations de mobile et déploierez des composants tels que Microsoft Flow.
+  #### Leçons
+  – Configurer les paramètres.
+  - Paramètres de configuration des appareils mobiles
+  - Configuration des appareils mobiles
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de configurer pour les appareils mobiles.
+  - de déployer des composants.

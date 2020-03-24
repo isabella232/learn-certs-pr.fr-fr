@@ -1,0 +1,190 @@
+### YamlMime:Course
+title: Managing Modern Desktops
+metadata:
+  title: 'Course MD-101T00-A: Managing Modern Desktops'
+  description: 'Course MD-101T00-A: Managing Modern Desktops'
+uid: course.md-101t00
+courseNumber: 'MD-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifier, mettre au point et mettre en œuvre la stratégie de mise au point, de mise à niveau et de mise à jour d'un système d’exploitation.
+- skill: Comprendre les avantages et les méthodes des stratégies de cogestion.
+- skill: Planifier et mettre en œuvre l’inscription et la configuration du dispositif.
+- skill: Gérer et déployer des applications et planifier une stratégie de gestion des applications mobiles.
+- skill: Gérer les utilisateurs et l’authentification à l’aide d’Azure AD et d’Active Directory DS.
+- skill: Décrire et mettre en œuvre des méthodes qui servent à protéger les dispositifs et les données.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Dans cette formation, les étudiants découvriront comment planifier et mettre en œuvre une stratégie de mise en œuvre d'un système d’exploitation à l’aide de méthodes de mise en œuvre modernes ainsi que la façon de mettre en œuvre une stratégie de mise à jour. Les étudiants découvriront les composants clés de la gestion moderne et des stratégies de cogestion. Cette formation couvre également les éléments nécessaires à l’incorporation de Microsoft Intune dans votre organisation. Les étudiants découvriront également les méthodes de mise en œuvre et de gestion des applications et des applications basées sur des navigateurs. Les étudiants découvriront les concepts clés de la sécurité dans la gestion moderne, ce qui inclut l’authentification, les identités, l’accès et les politiques de conformité. Les étudiants découvriront des technologies telles qu'Azure Active Directory, Azure Information Protection et Windows Defender Advanced Threat Protection ainsi que comment en tirer parti afin de protéger les dispositifs et les données.
+
+  #### Profil de l’audience
+  L’administrateur de Modern Desktop déploie, configure, sécurise, gère et surveille des périphériques et des applications clients dans un environnement d'entreprise. Ses responsabilités incluent la gestion des identités, l’accès, les politiques, les mises à jour et les applications. L'administrateur de l'ordinateur de bureau moderne collabore avec l’administrateur M365 Enterprise pour concevoir et mettre en œuvre une stratégie de périphériques à la hauteur des attentes d'une organisation moderne. 
+  
+  L’administrateur de Modern Desktop doit être familiarisé aux charges de travail M365 et doit avoir de solides compétences et de l’expérience dans le déploiement, la configuration et le maintien de dispositifs Windows 10 et non Windows. Le rôle du MDA se concentre sur les services dans le cloud plutôt que sur les technologies de gestion sur site.
+prerequisitesSection: |-
+  L’administrateur de Modern Desktop doit être familiarisé aux charges de travail M365 et doit avoir de solides compétences et de l’expérience dans le déploiement, la configuration et le maintien de dispositifs Windows 10 et non Windows. Le rôle du MDA se concentre sur les services dans le cloud plutôt que sur les technologies de gestion sur site. Il est recommandé que les étudiants terminent la formation MD-100 Windows 10 avant de suivre cette formation.
+outlineSection: |-
+  ### Module 1&#58;  Planifier une stratégie de déploiement d'un système d’exploitation
+  Ce module explique comment planifier et mettre en œuvre une stratégie de déploiement. Les étudiants découvriront les concepts de soutien à l’ordinateur de bureau pendant tout son cycle de vie. Ce module couvre également l’évaluation d'un environnement existant et les outils utilisés pour préparer une stratégie de déploiement. Enfin, les étudiants découvriront les outils et les stratégies utilisées pour le déploiement de l’ordinateur de bureau.
+  #### Leçons
+  - Desktop pour entreprise
+  - Évaluer la préparation du déploiement
+  - Outils et stratégies de déploiement
+
+
+  #### Laboratoire pratique&#58; Planifier le déploiement de Windows 10
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire le cycle de vie de l’ordinateur de bureau en entreprise.
+  - Décrire comment évaluer un environnement existant.
+  - Décrire les méthodes d'atténuation des inhibiteurs du déploiement.
+  - Décrire les différents outils et méthodes de déploiement.
+
+
+  ### Module 2&#58;  Mise en œuvre de Windows 10
+  Ce module couvre les méthodes modernes de déploiement Windows utilisées dans des scénarios communs tels que la mise à niveau et la migration vers Windows 10 ainsi que le déploiement de nouveaux dispositifs et le rafraîchissement des dispositifs existants.  Les étudiants découvriront également d’autres méthodes de déploiement de systèmes d’exploitation ainsi que des considérations relatives au choix des méthodes de déploiement.
+  #### Leçons
+  - Mettre à niveau les périphériques vers Windows 10
+  - Déployer de nouveaux dispositifs et rafraîchir
+  - Migrer des périphériques vers Windows 10
+  - Autres méthodes de déploiement
+  - Considérations d’imagerie
+
+
+  #### Laboratoire pratique&#58; Mettre en œuvre Windows 10
+  - Créer et déployer un ensemble d’approvisionnement
+  - Faire migrer les paramètres utilisateur
+  - Déployer Windows 10 à l’aide d’AutoPilot
+
+  À la fin de cette formation, les apprenants seront capables&#58;
+  - de mettre au point une stratégie de déploiement et de mise à niveau d’un système d’exploitation.
+  - de comprendre les différents méthodes de déploiement,
+  - de comprendre quels scénarios de solutions sur site et dans le cloud sont disponibles,
+  - de déployer et faire migrer des ordinateurs de bureau vers Windows 10,
+
+
+  ### Module 3&#58;  Gérer les mises à jour pour Windows 10
+  Ce module couvre la gestion des mises à jour de Windows. Il introduit les options de service pour Windows 10. Les étudiants découvriront les différentes méthodes pour déployer les mises à jour et la manière de configurer les politiques de mise à jour de Windows. Enfin, les étudiants apprendront comment s’assurer de la conformité de la mise à jour et la surveiller à l’aide de Windows Analytics.
+  #### Leçons
+  - Mise à jour de Windows 10
+  - Mise à jour de Windows pour les entreprises
+  - Introduction à Windows Analytics
+
+
+  #### Laboratoire pratique&#58; Gérer les mises à jour de Windows 10
+  - Configurer manuellement les paramètres de mise à jour de Windows
+  - Configurer la Windows Update à l’aide des GPO
+
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire le canaux de service Windows 10,
+  - de configurer la politique de mise à jour de Windows à l’aide des paramètres de la politique de groupe,
+  - de configurer la mise à jour Windows pour les entreprises pour déployer les mise à jour du système d’exploitation,
+  - d'utiliser Windows Analytics pour évaluer la préparation à la mise à niveau et la conformité de la mise à jour.
+
+
+  ### Module 4&#58;  Enregistrement des périphériques
+  Dans ce module, les étudiants étudieront les avantages et les prérequis de la cogestion et découvriront comment la planifier. Ce module couvrira également Azure AD Join et présentera Microsoft Intune et enseignera à configurer des politiques pour l’inscription des dispositifs. Il se terminera par un aperçu de l’inventaire des périphériques dans Intune et l’émission de rapports à l’aide de la console Intune Power BI et Microsoft Graph.
+  #### Leçons
+  - Options de gestion de périphériques
+  - Aperçu de Microsoft Intune
+  - Gérer l’inscription et l’inventaire des périphériques dans Intune
+  - Gérer les périphériques avec Intune
+
+
+  #### Laboratoire pratique &#58;  Enregistrement et gestion des périphériques
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les avantages et les méthodes de la migration vers la cogestion.
+  - de déployer un MDM avec Microsoft Intune.
+  - de configurer l’enregistrement des périphériques.
+  - d'enregistrer les périphériques de bureau et mobiles dans Windows Intune.
+  - de configurer et de télécharger les rapports d'inventaire.
+
+
+  ### Module 5&#58;  Configurer des profils
+  Ce module plonge plus profondément dans les profils des périphériques Intune, notamment les types de profils des périphériques et la différence entre les profils intégrés et les profils personnalisés. L’étudiant découvrira l’attribution des profils aux groupes d’Azure AD et la surveillance des périphériques et des profils dans Intune. Ce module se terminera avec un aperçu de l’utilisation de Windows Analytics pour la santé et l’émission de rapports de conformité.
+  #### Leçons
+  - Configurer les profils des périphériques
+  - Gérer des profils utilisateur
+  - Surveiller les périphériques
+
+
+  #### Laboratoire pratique&#58; Gérer les profils
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les types de profils des périphériques.
+  - de créer et d'attribuer des profils aux périphériques.
+  - de configurer un profil utilisateur et la redirection des dossiers.
+  - de surveiller et d'émettre des rapports sur les périphériques à l’aide d’Intune et de Windows Analytics.
+
+
+  ### Module 6&#58; Gestion des applications
+  Dans ce module, les étudiants découvriront les solutions de gestion des applications sur site et dans le cloud. Ce module couvrira la manière de gérer les déploiements d’Office 365 ProPlus dans Intune ainsi que la gestion des applications des périphériques non-enregistrés. Le module se terminera par un aperçu du mode entreprise avec Internet Explorer et Microsoft Edge et par un suivi des applications installées, des licences et des applications attribuées à l’aide d’Intune.
+  #### Leçons
+  - Mettre en œuvre la gestion des applications mobiles (MAM)
+  - Déployer et mettre à jour les applications
+  - Administration des applications
+
+
+  #### Laboratoire pratique&#58; Gérer les applications
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les méthodes de la gestion des applications.
+  - de déployer des applications à l’aide d’Intune et de la politique de groupe.
+  - de configurer Microsoft Store for Business.
+  - de déployer Office365 ProPlus en utilisant Intune.
+  - de gérer et de créer des rapports d’inventaire et de licences des applications.
+
+
+  ### Module 7&#58;  Gérer l’authentification dans Azure AD
+  Dans ce module, les étudiants découvriront le concept de répertoire dans le cloud avec Azure AD. Ils découvriront les similarités et les différences entre Azure AD et Active Directory DS et comment synchroniser les deux. Les étudiants exploreront la gestion de l'identité dans Azure AD et découvriront la protection de l'identité à l’aide de Windows Hello pour les entreprises, ainsi que la Azure AD Identity Protection et l’authentification à plusieurs facteurs.
+  #### Leçons
+  - Aperçu d’Azure AD
+  - Gérer les identités dans Azure AD
+  - Protéger les identités dans Azure AD
+  - Gérer l'authentification des périphériques
+
+
+  - Laboratoire pratique&#58;  Gérer des objets et authentification dans Azure AD
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les capacités d’Azure AD,
+  - de gérer les utilisateurs à l’aide d’Azure AD avec Active Directory DS,
+  - de mettre en œuvre Windows Hello pour les entreprises,
+  - de lier les périphériques à Azure AD,
+
+
+  ### Module 8&#58; Gérer l’accès et la conformité des dispositifs
+  Dans ce module, les étudiants découvriront la gestion de la sécurité des dispositifs. Ce module couvrira l’accès sécurisé aux ressources d’entreprise et présentera des concepts tels que Always On VPN et la connectivité à distance dans Windows 10. Les étudiants apprendront à créer et à déployer des politiques de conformité et à les utiliser pour l’accès conditionnel. Le module se termine avec la surveillance des périphériques enregistrés dans Intune.
+  #### Leçons
+  - Aperçu de Microsoft Intune
+  - Mettre en œuvre les politiques de conformité des périphériques
+
+
+  #### Laboratoire &#58; Laboratoire pratique - Gérer l’accès et la conformité
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire des méthodes pour permettre l’accès à partir de réseaux externes.
+  - de déployer des politiques de conformité et d'accès conditionnel,
+  - d'utiliser Intune pour surveiller la conformité des périphériques.
+
+
+  ### Module 9&#58; Gérer la sécurité
+  Dans ce module, les étudiants découvriront la protection des données. Les sujets comprendront la Windows & Azure Information Protection et diverses technologies de cryptage prises en charge dans Windows 10. Ce module couvrira également les capacités essentielles de Windows Defender Advanced Threat Protection et comment mettre en œuvre ces capacités sur des dispositifs de votre organisation. Le module se termine par l’utilisation de Windows Defender et des fonctionnalités telles que l’antivirus, le pare-feu et Credential Guard.
+  #### Leçons
+  - Mettre en œuvre une protection des données sur les périphériques
+  - Gérer Windows Defender ATP
+  - Gérer Windows Defender dans Windows 10
+
+
+  #### Laboratoire pratique&#58; Gérer la sécurité dans Windows 10
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les méthodes de protections des données sur les périphériques,
+  - Décrire les capacités et les avantages de Windows ATP.
+  - de déployer et de gérer la configuration des clients de Windows Defender.

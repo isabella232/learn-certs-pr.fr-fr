@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Qu’est-ce que Microsoft Teams et comment les composants fonctionnent-ils ensemble
+- skill: Comment mettre en œuvre la gouvernance, la sécurité et la conformité pour Microsoft Teams
+- skill: Comment préparer l’environnement d'une organisation pour le déploiement de Microsoft Teams
+- skill: Comment déployer et gérer Teams
+- skill: Façons de gérer la collaboration dans Microsoft Teams
+- skill: Techniques de gestion et de dépannage de la communication dans Microsoft Teams
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid : exam.ms-700
+summary: |-
+  La formation « Gérer Microsoft Teams » est conçue pour les personnes qui aspirent à la fonction d'administrateur de Microsoft 365 Teams.
+  Microsoft Teams Administrators configure, déploie et gère les charges de travail d’Office 365 pour les Microsoft Teams qui se concentrent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise
+  Cette formation couvre six éléments centraux - aperçu de Microsoft Teams, mise en œuvre de la gouvernance, de la sécurité et de la conformité pour Microsoft Teams, préparation de l’environnement pour le déploiement de Microsoft Teams, déploiement et gestion de Teams, gestion de la collaboration et gestion de la communication dans Microsoft Teams.
+  Dans l’aperçu de Microsoft Teams, vous obtiendrez un aperçu de Microsoft Teams, ce qui inclut l’architecture de Teams et les charges de travail Office 365 liées. Vous aurez un aperçu de la sécurité et de la conformité dans Microsoft Teams et aurez enfin un aperçu de la gestion de Microsoft Teams.
+  Lors de la mise en œuvre de la gouvernance, de la sécurité et de la conformité pour Microsoft Teams, vous planifierez et configurerez la gouvernance pour des groupes Office 365, ce qui inclut les politiques d’expiration et de désignation. Vous mettrez ensuite en œuvre la sécurité en configurant l’accès conditionnel, le MFA ou la gestion des menaces pour Microsoft Teams. Enfin, vous mettrez en œuvre la conformité pour Teams en utilisant les politiques DLP, les cas eDiscovery ou les politiques de supervision.
+  Lors de la préparation de l’environnement pour le déploiement de Microsoft Teams, vous planifiez une mise à niveau de Skype for Business vers Microsoft Teams en évaluant les chemins de mise à niveau avec des modes de coexistence et de mise à niveau, vous gérez la migration des réunions et la configuration des paramètres de coexistence et de mise à niveau. Vous planifiez et configurez les paramètres du réseau pour Microsoft Teams et enfin, vous déploierez et gérerez les extrémités de Microsoft Teams.
+  Lors du déploiement et de la gestion de Teams, vous apprendrez comment créer et gérer Teams, gérer l’adhésion et l’accès aux utilisateurs externes et internes.
+  Lors de la gestion de la collaboration dans Microsoft Teams, vous gérerez les expériences de chat et de collaboration, telles que les paramètres ou les politiques de création de canaux privés de Teams. Enfin, vous gérerez les paramètres des applications Tems, tels que les politiques de réglage des applications, les applications, les bots et les connecteurs dans Microsoft Teams ou la publication d’une application personnalisée dans Microsoft Teams.
+  Cette formation conclut avec la gestion de la communication dans Microsoft Teams. Vous apprendrez à gérer les expériences des événements et des réunions Live, vous gérerez les numéros de téléphone ou le système téléphonique pour Microsoft Teams et enfin, vous apprendrez à dépanner les problèmes audios, vidéos et clients.
+
+  #### Profil de l’audience
+  Les étudiants de cette formation s'intéressent à Microsoft Teams ou à la réussite de l’examen de certification Microsoft Teams Associate.
+prerequisitesSection: |-
+  - Une compréhension parfaite du une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension approfondie des pratiques informatiques générales, ce qui inclut PowerShell.
+outlineSection: |-
+  ### Module 1&#58; Aperçu de Microsoft Teams
+  Dans l’aperçu de Microsoft Teams, vous obtiendrez un aperçu de Microsoft Teams, ce qui inclut l’architecture de Teams et les charges de travail Office 365 liées. Vous aurez un aperçu de la sécurité et de la conformité dans Microsoft Teams et aurez enfin un aperçu de la gestion de Microsoft Teams.
+  #### Leçons
+  - Aperçu de Microsoft Teams
+  - Aperçu de la sécurité et de la conformité dans Microsoft Teams
+  - Aperçu de la gestion de Microsoft Teams
+
+
+  #### Laboratoire &#58; Gérer les rôles et créer des équipes
+  - Préparer les rôles et les licences des équipes
+  - Créer une nouvelle équipe
+
+
+  ### Module 2&#58; Mettre en œuvre la gouvernance, la sécurité et la conformité de Microsoft Teams
+  Lors de la mise en œuvre de la gouvernance, de la sécurité et de la conformité pour Microsoft Teams, vous planifierez et configurerez la gouvernance pour des groupes Office 365, ce qui inclut les politiques d’expiration et de désignation. Vous mettrez ensuite en œuvre la sécurité en configurant l’accès conditionnel, le MFA ou la gestion des menaces pour Microsoft Teams. Enfin, vous mettrez en œuvre la conformité pour Teams en utilisant les politiques DLP, les cas eDiscovery ou les politiques de supervision.
+  #### Leçons
+  - Mettre en œuvre la gestion de la gouvernance et du cycle de vie pour Microsoft Teams
+  - Mettre en œuvre la sécurité pour Microsoft Teams
+  - Mettre en œuvre la conformité pour Microsoft Teams
+
+
+  #### Laboratoire &#58; Configurer la sécurité et la conformité pour les équipes et le contenu
+  - Mettre en œuvre la gestion de la gouvernance et du cycle de vie pour Microsoft Teams
+  - Mettre en œuvre la sécurité pour Microsoft Teams
+  - Mettre en œuvre la conformité pour Microsoft Teams
+
+
+  ### Module 3&#58; Préparer l’environnement pour le déploiement de Microsoft Teams
+  Lors de la préparation de l’environnement pour le déploiement de Microsoft Teams, vous planifiez une mise à niveau de Skype for Business vers Microsoft Teams en évaluant les chemins de mise à niveau avec des modes de coexistence et de mise à niveau, vous gérez la migration des réunions et la configuration des paramètres de coexistence et de mise à niveau. Vous planifiez et configurez les paramètres du réseau pour Microsoft Teams et enfin, vous déploierez et gérerez les extrémités de Microsoft Teams.
+  #### Leçons
+  - Mettre à niveau Skype for Business vers Microsoft Teams
+  - Planifier et configurer les paramètres du réseau pour Microsoft Teams
+  - Déployer et gérer les extrémités de Microsoft Teams
+
+
+  #### Laboratoire &#58; Préparation de l’environnement de Teams
+  - Calculer les capacités de mise en réseau
+  - Évaluer les profils de configuration
+  - Fournir des ressources aux équipes
+
+
+  ### Module 4&#58; Déployer et gérer des équipes
+  Lors du déploiement et de la gestion de Teams, vous apprendrez comment créer et gérer Teams, gérer l’adhésion et l’accès aux utilisateurs externes et internes.
+  #### Leçons
+  - Créer et gérer des équipes
+  - Gérer les adhésions
+  - Gérer l’accès aux utilisateurs externes
+
+
+  #### Laboratoire &#58; Gérer les équipes
+  - Gérer les ressources des équipes
+  - Gérer le partage et l’accès
+
+
+  ### Module 5&#58; Gérer la collaboration dans Microsoft Teams
+  Lors de la gestion de la collaboration dans Microsoft Teams, vous gérerez les expériences de chat et de collaboration, telles que les paramètres ou les politiques de création de canaux privés de Teams. Enfin, vous gérerez les paramètres des applications Tems, tels que les politiques de réglage des applications, les applications, les bots et les connecteurs dans Microsoft Teams ou la publication d’une application personnalisée dans Microsoft Teams.
+  #### Leçons
+  - Gérer les expériences de chat et de collaboration
+  - Gérer les paramètres pour les applications Teams
+
+
+  #### Laboratoire &#58; Modifier les paramètres de collaboration pour Teams
+  - Configurer les politiques en matière de canaux et de messages
+  - Gérer les paramètres des applications pour l’équipe
+
+
+  ### Module 6&#58; Gérer la communication dans Microsoft Teams
+  Cette formation conclut avec la gestion de la communication dans Microsoft Teams. Vous apprendrez à gérer les expériences des événements et des réunions Live, vous gérerez les numéros de téléphone ou le système téléphonique pour Microsoft Teams et enfin, vous apprendrez à dépanner les problèmes audios, vidéos et clients.
+  #### Leçons
+  - Gérer les expériences liées aux événements et les réunions de Live
+  - Gérer les numéros de téléphone
+  - Gérer le système téléphonique pour Microsoft Teams
+  - Dépanner les problèmes audios, vidéos et des clients
+
+
+  #### Laboratoire &#58; Modifier les paramètres de communication pour Teams
+  - Configurer les politiques de réunion
+  - Gérer le système téléphonique pour Microsoft Teams
+  - Dépanner les problèmes audios, vidéos et des clients

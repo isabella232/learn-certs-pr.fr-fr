@@ -26,7 +26,7 @@ products:
 - azure-active-directory
 - office-365
 exams:
-- uid : exam.ms-700
+- uid: exam.ms-700
 summary: |-
   La formation « Gérer Microsoft Teams » est conçue pour les personnes qui aspirent à la fonction d'administrateur de Microsoft 365 Teams.
   Microsoft Teams Administrators configure, déploie et gère les charges de travail d’Office 365 pour les Microsoft Teams qui se concentrent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise

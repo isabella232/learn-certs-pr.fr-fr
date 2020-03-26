@@ -30,7 +30,7 @@ products:
 - azure-active-directory
 - office-365
 exams:
-- uid : exam.ms-101
+- uid: exam.ms-101
 summary: |-
   Cette formation couvre trois éléments centraux de Microsoft 365 Enterprise Administration - la gestion de la sécurité de Microsoft 365, la gestion de la conformité de Microsoft 365 et la gestion des dispositifs Microsoft 365.
   Dans la gestion de la sécurité de Microsoft 365, vous examinerez tous les types courants de vecteurs de menaces et de violation des données auxquels les organisations font face à l’heure actuelle. Vous découvrirez également comment les solutions de sécurité de Microsoft 365 répondent à ces menaces de sécurité. Vous découvrirez le Microsoft Secure Score, ainsi qu'à la Azure Active Directory Identity Protection. Vous découvrirez ensuite comment gérer les services de sécurité de Microsoft 365, ce qui inclut Exchange Online Protection, Advanced Threat Protection, Safe Attachments et Safe Links. Enfin, vous découvrirez les différents rapports qui surveillent la santé de votre sécurité. Vous passerez ensuite des services de sécurité à des services de renseignements sur les menaces, précisément, en utilisant le tableau de bord de sécurité et Advanced Threat Analytics pour garder une longueur d'avance sur les violations de sécurité potentielles.

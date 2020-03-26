@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 30/07/2019
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Aide à la formation et à la certification Microsoft
@@ -19,8 +19,8 @@ Vous avez encore des questions ? Veuillez consulter nos options de soutien ci-de
 
 | Service d'aide | Coordonnées |
 | ------------- | --- |
-| **Certification Microsoft** | Une réponse à votre question existe peut-être déjà dans notre [Aperçu des certifications techniques](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/> **Forums d'aide à la certification :** <br/>Obtenez de l’aide grâce à nos [forums d'aide à la certification](https://aka.ms/MCPForum) modérés. <br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
-| **Programme Microsoft Certified Trainer (MCT)** | Une réponse à votre question existe peut-être déjà dans notre [aperçu du programme MCT](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **Forums d'aide MCT :** <br/> Obtenez de l’aide grâce à nos [forums d'aide MCT](https://aka.ms/MCTForum).<br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
+| **Certification Microsoft** | Une réponse à votre question existe peut-être déjà dans notre [Aperçu des certifications techniques](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/> **Forums d'aide à la certification :** <br/>Obtenez de l'aide grâce à nos [forums d'aide à la certification](https://aka.ms/MCPForum) modérés. <br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
+| **Programme Microsoft Certified Trainer (MCT)** | Une réponse à votre question existe peut-être déjà dans notre [aperçu du programme MCT](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **Forums d'aide MCT :** <br/> Obtenez de l'aide grâce à nos [forums d'aide MCT](https://aka.ms/MCTForum).<br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
 
 ## Assistance à la formation
 

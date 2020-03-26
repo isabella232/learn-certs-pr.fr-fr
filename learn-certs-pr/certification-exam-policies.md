@@ -6,14 +6,14 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 14/10/2019
+ms.date: 10/14/2019
 ms.author: micsullivan
 ---
 # Règles applicables aux examens et FAQ
 
 Dans le monde entier, nos partenaires et clients attendent de Microsoft des examens et certifications de la plus haute qualité. Les règles applicables aux examens de certification Microsoft ont été conçues pour prendre en charge les objectifs du programme de certification, notamment :
 
-## Les politiques en matière de sécurité et de rattrapage
+## <a name="security-policies"></a> Les politiques en matière de sécurité et de rattrapage
 
 Microsoft a mis en œuvre des stratégies spécifiques se rapportant aux domaines de sécurité appropriés aux examens Microsoft Certified Professional (MCP).
 
@@ -25,7 +25,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
 
 - Falsification de relevés de notes, en modifiant et/ou falsifiant les résultats/notes originaux pour tout relevé de notes d'examen
 - Tricherie pendant l'examen (par exemple, en regardant les écrans des autres candidats, en utilisant un appareil non autorisé ou en regardant des notes)
-- Offre ou acceptation d’une aide inappropriée
+- Offre ou acceptation d'une aide inappropriée
 - Utilisation d'éléments non autorisés dans le centre de tests au cours d'une session d'examen (par exemple, des notes ou des documents non autorisés et des appareils électroniques, tels que des téléphones portables)
 - Utilisation de matériel non autorisé pour tenter de satisfaire aux exigences de la certification (cela inclut l'utilisation de matériel provenant d'un « brain-dump» et/ou la publication non autorisée des questions d'examen avec ou sans réponses)
 - Falsification ou usurpation d'identité d'une autre personne pour accéder à un examen
@@ -54,7 +54,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
 1. Règles relatives d aux examens de rattrapage Microsoft Certified Professional (MCP)
     1. Si un candidat n'obtient pas la note de réussite requise pour un examen la première fois, il doit attendre au minimum 24 heures avant de repasser cet examen.
     2. Si un candidat n'obtient pas la note de passage requise la deuxième fois, il doit attendre au moins 14 jours avant de repasser cet examen pour la troisième fois.
-    3. Un délai d'attente de 14 jours est également imposé pour les quatrième et cinquième sessions de rattrapage de cet examen. Un candidat ne peut pas passer un examen donné plus de cinq fois par an (12 mois). Cette période de 12 mois démarre le jour du cinquième essai infructueux. Le candidat peut alors repasser l'examen dans un délai de 12 mois à compter de cette date. Pour passer un examen donné plus de cinq fois par an ou pour que le délai d'attente entre les tentatives soit annulé, un candidat doit soumettre une demande et obtenir l’autorisation de Microsoft au préalable. Les demandes doivent être envoyées à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Ces demandes doivent comprendre les informations suivantes :
+    3. Un délai d'attente de 14 jours est également imposé pour les quatrième et cinquième sessions de rattrapage de cet examen. Un candidat ne peut pas passer un examen donné plus de cinq fois par an (12 mois). Cette période de 12 mois démarre le jour du cinquième essai infructueux. Le candidat peut alors repasser l'examen dans un délai de 12 mois à compter de cette date. Pour passer un examen donné plus de cinq fois par an ou pour que le délai d'attente entre les tentatives soit annulé, un candidat doit soumettre une demande et obtenir l'autorisation de Microsoft au préalable. Les demandes doivent être envoyées à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Ces demandes doivent comprendre les informations suivantes :
         - MCID
         - Nom
         - Adresse e-mail
@@ -76,7 +76,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
     5. Si un candidat obtient une note de réussite à un examen Office, il peut le repasser.
 
 4. Règle relative aux d examens de rattrapage MCP bêta
-    1. Les examens bêta ne peuvent être passés qu'une seule fois au cours de la période bêta. Si un candidat réussit l'examen, cette réussite donne droit a un crédit pour la certification. Si le candidat échoue à l’examen, il peut le repasser conformément aux politiques ci-dessus.
+    1. Les examens bêta ne peuvent être passés qu'une seule fois au cours de la période bêta. Si un candidat réussit l'examen, cette réussite donne droit a un crédit pour la certification. Si le candidat échoue à l'examen, il peut le repasser conformément aux politiques ci-dessus.
     2. Cette politique remplace la règle générale relative aux examens de rattrapage.
 5. Exceptions à la règle relative a un examen de rattrapage spécifique
     1. Dans certains cas, Microsoft peut appliquer des politiques particulières pour des examens spécifiques.
@@ -118,14 +118,14 @@ Pour des raisons de sécurité et d'intégrité, Microsoft se réserve le droit 
 
 ## Les examens bêta
 
-Environ 400 personnes peuvent passer l’examen bêta à un taux réduit. Afin de profiter de ce taux réduit, vous avez besoin d’un code bêta qui doit être inséré comme faisant partie de votre paiement durant l’enregistrement. Pour obtenir ce code, vous pouvez :
+Environ 400 personnes peuvent passer l'examen bêta à un taux réduit. Afin de profiter de ce taux réduit, vous avez besoin d'un code bêta qui doit être inséré comme faisant partie de votre paiement durant l'enregistrement. Pour obtenir ce code, vous pouvez :
 
-1. Rejoindre notre base de données de profils de SME. Les membres dont les aptitudes s'alignent au contenu de l’examen recevront un courrier électronique contenant ce code ; ce code est unique pour ce groupe. Si vous êtes un membre de notre base de données SME, un accès précoce à la formule beta requiert que vous gardiez votre profil à jour pendant que nous ciblons la distribution de ces codes à ceux qui ont des compétences liées au nouvel examen. (Le programme de base de données de profil d’expert technique est hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter l’article de blog [Aidez-nous à créer du contenu d’examen et de formation!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) Rejoignez notre base de données SME aujourd'hui !)
-2. Regardez les annonces sur Microsoft Learn ou votre [blog communautaire](https://www.microsoft.com/en-us/learning/community-blog.aspx) pour obtenir des informations sur les examens bêta à venir. Ces messages contiendront un code qui pourra être utilisé pour bénéficier d’une réduction sur un examen. Ces publications sont généralement publiées le jour de l’inscription pour un examen bêta. Ce code est différent de celui qui est envoyé aux experts techniques (SME) qui font partie de notre base de données.
+1. Rejoindre notre base de données de profils de SME. Les membres dont les aptitudes s'alignent au contenu de l'examen recevront un courrier électronique contenant ce code ; ce code est unique pour ce groupe. Si vous êtes un membre de notre base de données SME, un accès précoce à la formule beta requiert que vous gardiez votre profil à jour pendant que nous ciblons la distribution de ces codes à ceux qui ont des compétences liées au nouvel examen. (Le programme de base de données de profil d'expert technique est hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter l'article de blog [Aidez-nous à créer du contenu d'examen et de formation!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) Rejoignez notre base de données SME aujourd'hui !)
+2. Regardez les annonces sur Microsoft Learn ou votre [blog communautaire](https://www.microsoft.com/en-us/learning/community-blog.aspx) pour obtenir des informations sur les examens bêta à venir. Ces messages contiendront un code qui pourra être utilisé pour bénéficier d'une réduction sur un examen. Ces publications sont généralement publiées le jour de l'inscription pour un examen bêta. Ce code est différent de celui qui est envoyé aux experts techniques (SME) qui font partie de notre base de données.
 
 Veuillez noter que les places sont limitées et disponibles sur une base de premier arrivé, premier servi et que les examens bêta ne sont pas fournis en Chine, en Inde, au Pakistan ou en Turquie pour des raisons de sécurité.
 
-En guise de remerciement pour votre participation au processus bêta, vous recevrez un bon de réduction de 25% de Pearson VUE environ 6 semaines après la mise en ligne de l’examen. Ces bons sont fournis par VUE et sont envoyés à l’adresse électronique que vous avez utilisée lors de votre inscription à l’examen. Si vous ne recevez pas de bon de réduction de 25 % dans les 6 semaines suivant la date de mise en ligne de l’examen, veuillez envoyer un courriel à [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+En guise de remerciement pour votre participation au processus bêta, vous recevrez un bon de réduction de 25% de Pearson VUE environ 6 semaines après la mise en ligne de l'examen. Ces bons sont fournis par VUE et sont envoyés à l'adresse électronique que vous avez utilisée lors de votre inscription à l'examen. Si vous ne recevez pas de bon de réduction de 25 % dans les 6 semaines suivant la date de mise en ligne de l'examen, veuillez envoyer un courriel à [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
 
 ## Tarif universitaire des examens
 
@@ -150,7 +150,7 @@ Vous devez confirmer votre statut d'étudiant avant de planifier votre examen, a
 
 Sélectionnez la méthode de vérification du statut que vous souhaitez utiliser. Les méthodes incluent :
 
-1. Compte de messagerie électronique émis par l’établissement
+1. Compte de messagerie électronique émis par l'établissement
 2. Les informations d'identification au réseau de l'établissement
 3. Une carte étudiante internationale (ISIC)
 4. Un code de vérification d'un représentant Microsoft ou de l'administrateur de votre institution
@@ -183,7 +183,7 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
     - Modifier ou changer l'examen, le résultat de l'examen ou tout dossier de l'examen.
     - Remettre un travail ou des réponses qui ne Vous appartiennent pas.
     - Fournir ou recevoir une assistance indue au cours de l'examen.
-    - Chercher ou obtenir un accès non autorisé aux examens de certification Microsoft ou à des Informations relatives à l'examen (cela inclut l'utilisation de matériel provenant d'un « brain dump » ou d’une publication non autorisée des questions d'examen avec ou sans réponses).
+    - Chercher ou obtenir un accès non autorisé aux examens de certification Microsoft ou à des Informations relatives à l'examen (cela inclut l'utilisation de matériel provenant d'un « brain dump » ou d'une publication non autorisée des questions d'examen avec ou sans réponses).
     - Posséder des éléments non autorisés lors du passage de l'examen, ce qui inclut téléphone portable, appareil électronique, ordinateur portable, montre, notes, documents ou contenu.
     - Écart de conduite, tel que déterminé par une analyse statistique.
     - Tenter de procéder à une ingénierie inverse, de décompiler ou désassembler un examen.
@@ -260,7 +260,7 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
    3. *Violation des dispositions du contrat d'examen*
 
-        1. Tous les examens de certification Microsoft, y compris les questions/réponses, sont des informations confidentielles de Microsoft protégées par la loi relative aux secrets commerciaux et par l’accord de confidentialité et les conditions générales d'utilisation des examens de certification Microsoft (« ***Contrat d'examen*** »). Ces informations ne doivent en aucun cas être divulguées ou mentionnées à des tiers, affichées ou publiées dans un forum ou par tout autre moyen.
+        1. Tous les examens de certification Microsoft, y compris les questions/réponses, sont des informations confidentielles de Microsoft protégées par la loi relative aux secrets commerciaux et par l'accord de confidentialité et les conditions générales d'utilisation des examens de certification Microsoft (« ***Contrat d'examen*** »). Ces informations ne doivent en aucun cas être divulguées ou mentionnées à des tiers, affichées ou publiées dans un forum ou par tout autre moyen.
 
         2. Si Microsoft estime que vous avez enfreint les dispositions du Contrat d'examen ou que vous êtes impliqué dans tout acte frauduleux ou faute qui pourrait diminuer ou compromettre la sécurité ou l'intégrité du programme d'une manière ou d'une autre, votre certification peut vous être retirée et vous pouvez être exclu du Programme, et ce de manière définitive.
 
@@ -429,7 +429,7 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
 Mise à jour : Décembre 2013
 
-## Constitution d’une demande de crédit universitaire pour certaines certifications et certains programmes professionnels
+## Constitution d'une demande de crédit universitaire pour certaines certifications et certains programmes professionnels
 
 Il est possible que vous soyez éligible pour recevoir des crédits universitaires via Excelsior College, une institution accréditée régionalement. Le Service national de recommandation de crédit des collèges (NCCRS) a établi des recommandations en matière de crédit pour les examens de certification Microsoft suivants :
 
@@ -457,30 +457,30 @@ AZ-201: Microsoft Azure Developer Advanced Solutions
 
 Pour demander un crédit, procédez comme suit :
 
-Étape 1 : Complétez la [demande](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) et envoyez-la par **e-mail à** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) avec la vérification de vos qualifications (les options sont fournies ci-dessous). **N’envoyez PAS de demande ou de courriel à Microsoft**.
+Étape 1 : Complétez la [demande](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) et envoyez-la par **e-mail à** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) avec la vérification de vos qualifications (les options sont fournies ci-dessous). **N'envoyez PAS de demande ou de courriel à Microsoft**.
 
 **Vérification de la certification Option 1 - Partager un badge :**
 
 - Étape 2 : Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
 
-- Étape 3 : Accédez à la section Badge du tableau de bord et suivez les étapes pour demander votre badge (si ce n’est déjà fait)
+- Étape 3 : Accédez à la section Badge du tableau de bord et suivez les étapes pour demander votre badge (si ce n'est déjà fait)
 
 - Étape 4 : Suivez les étapes pour partager votre badge par courriel à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
 - Pour de plus amples informations, voir : [Examen et badges de certification Microsoft](https://www.microsoft.com/learning/badges.aspx)
 
-**Vérification de l’option de certification 2 - Partager un relevé de notes :**
+**Vérification de l'option de certification 2 - Partager un relevé de notes :**
 
 - Étape 2 : Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
 
 - Étape 3 : Accédez à la section de relevé de notes « Partagez ou Télécharger»
 
-- Étape 4 : Sélectionnez l’option «Partager»; Entrez un code d’accès personnel et activez «Inclure les détails de l’adresse»; Sélectionnez «Partager»
+- Étape 4 : Sélectionnez l'option «Partager»; Entrez un code d'accès personnel et activez «Inclure les détails de l'adresse»; Sélectionnez «Partager»
 
 - Étape 5 : Copiez et collez les informations suivantes fournies sur le site :
 
   - ID du relevé de notes <nnnnnnn>  
-  - Code d’accès<nnnnnnnn>
+  - Code d'accès<nnnnnnnn>
   - Page de visualisation du relevé de notes : <URL>
 
 - Étape 6 : Collez les informations dans un courriel et envoyez-les à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
@@ -491,47 +491,47 @@ Pour ample informations, visitez : [Crédit NCCRS pour les certifications Micro
 
 Téléchargez : [Application du service de relevés de notes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Contestation d'un sujet d'examen de certification Microsoft
+## <a name="policies-5"></a> Contestation d'un sujet d'examen de certification Microsoft
 
-[Chaque question d’examen est soigneusement révisée](https://www.microsoft.com/learning/certification-exams.aspx) par un panel d'experts techniques et de spécialistes des postes de travail afin d'évaluer l'exactitude technique, la clarté et la pertinence de chaque question. Si vous estimez qu'une question spécifique d'un examen de certification Microsoft n'est pas valide, vous pouvez demander une évaluation de la question en suivant les étapes décrites ci-dessous. Vous devez soumettre un formulaire de Exam Item Challenge dans les 30 jours qui suivent l'examen.
+[Chaque question d'examen est soigneusement révisée](https://www.microsoft.com/learning/certification-exams.aspx) par un panel d'experts techniques et de spécialistes des postes de travail afin d'évaluer l'exactitude technique, la clarté et la pertinence de chaque question. Si vous estimez qu'une question spécifique d'un examen de certification Microsoft n'est pas valide, vous pouvez demander une évaluation de la question en suivant les étapes décrites ci-dessous. Vous devez soumettre un formulaire de Exam Item Challenge dans les 30 jours qui suivent l'examen.
 
-**Remarque :** N’utilisez pas le processus de contestation d'examen pour faire part de vos commentaires sur les questions de l'examen bêta. Les questions de l’examen bêta sont souvent modifiées d’une manière ou d’une autre en fonction des commentaires reçus au cours de ce processus et peuvent être supprimées du groupe de questions. Si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la période de commentaires, veuillez envoyer vos commentaires à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+**Remarque :** N'utilisez pas le processus de contestation d'examen pour faire part de vos commentaires sur les questions de l'examen bêta. Les questions de l'examen bêta sont souvent modifiées d'une manière ou d'une autre en fonction des commentaires reçus au cours de ce processus et peuvent être supprimées du groupe de questions. Si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la période de commentaires, veuillez envoyer vos commentaires à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
 
 ### Étapes pour contester des questions d'examen
 
-1. Publiez vos contestations d’examen sur le [forum d'aide à la certification Microsoft](https://aka.ms/MCPForum).
-2. Dans un délai de 1 à 2 jours ouvrables, l’agent du forum vous fournira un **formulaire de contestation d’examen** à remplir. Le formulaire inclut des informations spécifiques sur la façon d'envoyer votre contestation.
-   - Les contestations d’examen ne sont acceptées que si vous soumettez à l’agent du forum un formulaire rempli au plus tard 30 jours après l’examen.
-   - Les contestations d’examen ne sont pas acceptées pour les examens qui seront supprimés dans un délai de 6 mois.
-3. Dans un délai de 4 à 6 semaines, l’agent du forum fournira les résultats de votre contestation d’examen.
+1. Publiez vos contestations d'examen sur le [forum d'aide à la certification Microsoft](https://aka.ms/MCPForum).
+2. Dans un délai de 1 à 2 jours ouvrables, l'agent du forum vous fournira un **formulaire de contestation d'examen** à remplir. Le formulaire inclut des informations spécifiques sur la façon d'envoyer votre contestation.
+   - Les contestations d'examen ne sont acceptées que si vous soumettez à l'agent du forum un formulaire rempli au plus tard 30 jours après l'examen.
+   - Les contestations d'examen ne sont pas acceptées pour les examens qui seront supprimés dans un délai de 6 mois.
+3. Dans un délai de 4 à 6 semaines, l'agent du forum fournira les résultats de votre contestation d'examen.
 
-Le processus de contestation existe pour faciliter l’identification et la correction des questions problématiques. Toutefois, dans la plupart des cas, les examens ne sont pas redéfinis, car Microsoft doit veiller à ce que les candidats réussissant leurs examens et obtenant nos certifications aient démontré le ou les niveaux de compétence requis dans tous les domaines de compétences. Même si une question est posée d'une certaine manière incorrecte, nous ne pouvons pas supposer que vous auriez répondu correctement si elle ne l'avait pas été. Dans ce cas, nous offrons aux candidats la possibilité de repasser l'examen gratuitement.
+Le processus de contestation existe pour faciliter l'identification et la correction des questions problématiques. Toutefois, dans la plupart des cas, les examens ne sont pas redéfinis, car Microsoft doit veiller à ce que les candidats réussissant leurs examens et obtenant nos certifications aient démontré le ou les niveaux de compétence requis dans tous les domaines de compétences. Même si une question est posée d'une certaine manière incorrecte, nous ne pouvons pas supposer que vous auriez répondu correctement si elle ne l'avait pas été. Dans ce cas, nous offrons aux candidats la possibilité de repasser l'examen gratuitement.
 
 Vos commentaires sont essentiels et nous aident à rendre les examens de certification Microsoft aussi valides et pertinents que possible.
 
-## Aménagements particuliers lors d'examens
+## <a name="#special-accommodations-when-taking-exams"></a> Aménagements particuliers lors d'examens
 
 ### Examens fournis par Pearson VUE :
 
-Si vous avez besoin de plus de temps parce que votre examen n’est pas disponible dans votre langue maternelle, vous pouvez le demander en remettant le [formulaire concernant l’anglais en tant que deuxième langue](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Suivez les instructions du formulaire. 
+Si vous avez besoin de plus de temps parce que votre examen n'est pas disponible dans votre langue maternelle, vous pouvez le demander en remettant le [formulaire concernant l'anglais en tant que deuxième langue](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Suivez les instructions du formulaire. 
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Le Système de demande d'ajustements raisonnables est un système sécurisé en ligne pour demander des aménagements et présenter les documents justificatifs.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l'aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Le Système de demande d'ajustements raisonnables est un système sécurisé en ligne pour demander des aménagements et présenter les documents justificatifs.
 
-- Si vous utilisez ce système de demande pour la première fois, vous devez créer un nom d'utilisateur et un mot de passe. Pour créer un nom d’utilisateur, cliquez sur le lien « S’inscrire » sur l’écran de connexion. Veuillez noter que le système exige un compte e-mail actif.
-- Pearson VUE utilise ce système sécurisé parce que vous devrez télécharger des documents justificatifs. Si vous ne l’avez pas encore fait, présentez à votre évaluateur (médecin, psychologue) une copie des [directives pour les évaluateurs](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) pour votre handicap. Votre évaluateur doit s'assurer que les documents qu’il/elle fournit respectent nos directives. Dans la plupart des cas, votre évaluateur sera un médecin ou un psychologue qui a fait passer une série de tests psychologiques, éducatifs ou médicaux et vous a fourni une copie du rapport du diagnostic ou une lettre détaillée.
+- Si vous utilisez ce système de demande pour la première fois, vous devez créer un nom d'utilisateur et un mot de passe. Pour créer un nom d'utilisateur, cliquez sur le lien « S'inscrire » sur l'écran de connexion. Veuillez noter que le système exige un compte e-mail actif.
+- Pearson VUE utilise ce système sécurisé parce que vous devrez télécharger des documents justificatifs. Si vous ne l'avez pas encore fait, présentez à votre évaluateur (médecin, psychologue) une copie des [directives pour les évaluateurs](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) pour votre handicap. Votre évaluateur doit s'assurer que les documents qu'il/elle fournit respectent nos directives. Dans la plupart des cas, votre évaluateur sera un médecin ou un psychologue qui a fait passer une série de tests psychologiques, éducatifs ou médicaux et vous a fourni une copie du rapport du diagnostic ou une lettre détaillée.
 - **Veuillez prévoir 10 jours ouvrables pour que Pearson VUE examine vos documents. Veuillez planifier votre demande en conséquence.**
-- Après avoir examiné votre demande, vous recevrez un e-mail indiquant qu’une décision a été prise. La lettre de décision apparaîtra dans la section « Mes documents » dans le « Système de demande d’ajustements raisonnables ». Si votre demande est approuvée, la lettre de décision vous donnera des instructions pour prévoir votre examen aménagé.
-- Si la décision d'aménagement des tests ne vous satisfait pas, vous pouvez présenter un appel contre la décision en cliquant sur le bouton de « Demande d'appel » dans la section où la lettre de décision apparaît, dans le « Système de demande d’ajustements raisonnables ». Veuillez compléter et télécharger le formulaire d'appel qui apparaît quand vous cliquez sur le bouton. Des experts en handicap examinent toutes les demandes en appel.
+- Après avoir examiné votre demande, vous recevrez un e-mail indiquant qu'une décision a été prise. La lettre de décision apparaîtra dans la section « Mes documents » dans le « Système de demande d'ajustements raisonnables ». Si votre demande est approuvée, la lettre de décision vous donnera des instructions pour prévoir votre examen aménagé.
+- Si la décision d'aménagement des tests ne vous satisfait pas, vous pouvez présenter un appel contre la décision en cliquant sur le bouton de « Demande d'appel » dans la section où la lettre de décision apparaît, dans le « Système de demande d'ajustements raisonnables ». Veuillez compléter et télécharger le formulaire d'appel qui apparaît quand vous cliquez sur le bouton. Des experts en handicap examinent toutes les demandes en appel.
 
 ### Examens fournis par Certiport :
 
-Si vous avez besoin de plus de temps parce que votre examen n’est pas disponible dans votre langue maternelle, si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement par le biais de Certiport en suivant le processus décrit [ici](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
+Si vous avez besoin de plus de temps parce que votre examen n'est pas disponible dans votre langue maternelle, si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement par le biais de Certiport en suivant le processus décrit [ici](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Règlement relatif aux annulations et à la reprogrammation :
+### <a name="cancellation-and-reschedule-policy"></a> Règlement relatif aux annulations et à la reprogrammation:
 
-- Aucun frais n’est exigé si vous reprogrammez ou si vous annulez un rendez-vous d'examen au moins 6 jours ouvrables avant votre rendez-vous.
+- Aucun frais n'est exigé si vous reprogrammez ou si vous annulez un rendez-vous d'examen au moins 6 jours ouvrables avant votre rendez-vous.
 - Si vous annulez ou si vous reprogrammez votre examen dans les 5 jours ouvrables suivant votre heure d'examen, des frais seront appliqués.
-- Si vous ne vous présentez pas à votre horaire d'examen, que vous ne reprogrammez pas ou que vous n’annulez pas votre rendez-vous au moins 24 heures avant votre rendez-vous programmé, vous renoncez à tous les frais d'examen. Les jours ouvrables sont du lundi au vendredi, sans compter les congés de Pearson VUE.
+- Si vous ne vous présentez pas à votre horaire d'examen, que vous ne reprogrammez pas ou que vous n'annulez pas votre rendez-vous au moins 24 heures avant votre rendez-vous programmé, vous renoncez à tous les frais d'examen. Les jours ouvrables sont du lundi au vendredi, sans compter les congés de Pearson VUE.
 
 ## Questions fréquemment posées
 
@@ -544,7 +544,7 @@ Trouvez des réponses aux questions fréquemment posées sur les examens de cert
 - Test basé sur les performances
 - Certifications basées sur les rôles
 - Tarif universitaire des examens
-- Demandes d’aménagement
+- Demandes d'aménagement
 
 ### Principes de base des examens
 
@@ -554,13 +554,13 @@ Le nombre de questions d'un examen est susceptible de changer, car nous le metto
 
 **Quels sont les formats de test et les types de questions utilisés dans l'examen que je passe ?**
 
-Étant donné que Microsoft introduit continuellement des technologiques de test et des types de questions innovants, nous ne donnons pas les types d'éléments spécifiques qui apparaîtront sur un examen donné. Pour avoir un aperçu du contenu possible d'un examen, nous vous encourageons à passer en revue certains [formats d’examens et types de questions](https://www.microsoft.com/learning/certification-exams.aspx).
+Étant donné que Microsoft introduit continuellement des technologiques de test et des types de questions innovants, nous ne donnons pas les types d'éléments spécifiques qui apparaîtront sur un examen donné. Pour avoir un aperçu du contenu possible d'un examen, nous vous encourageons à passer en revue certains [formats d'examens et types de questions](https://www.microsoft.com/learning/certification-exams.aspx).
 
 **De combien de temps est-ce que je dispose pour passer l'examen ?**
 
 La durée de l'examen varie en fonction du type d'examen que vous passez.
 
-|     | Durée de l’examen*      | Durée de l’épreuve* |
+|     | Durée de l'examen*      | Durée de l'épreuve* |
 | ------------- |:-------------: | -----: |
 | Examens pour les rôles « Associate » et « Expert » | 150 minutes | 180 minutes
 | Examens de base pour une fonction | 60 minutes | 90 minutes
@@ -584,29 +584,29 @@ Tout le matériel d'apprentissage lié à une fonction donnée est obtenu à par
 
 **Comment dois-je préparer un examen ?**
 
-La meilleure façon de se préparer à un examen est de mettre en pratique les compétences répertoriées dans la page des détails de l'examen. [Parcourez tous les examens](https://www.microsoft.com/learning/exam-list.aspx) pour trouver l’examen qui vous intéresse. Une expérience pratique des technologies est nécessaire pour réussir les examens de certification Microsoft. Le micro-apprentissage, les formations en ligne et les formations données par un instructeur connexes visent à former l'apprenant aux compétences nécessaires pour bien remplir une fonction, un sous-ensemble qui sera évalué au cours de l'examen. Toutefois, étant donné que l'examen se concentre sur l'application de ces compétences au-delà de ce qui a été enseigné au cours des formations, l'expérience ou la pratique au-delà de la formation est vivement recommandée avant de passer l'examen. Pour commencer la préparation à l'examen, consulter la section « Compétences évaluées » de la page de détails de l'examen afin d'évaluer vos compétences par rapport à celles évaluées lors de l'examen. La meilleure façon de procéder consiste à faire les exercices énumérées, en notant les difficultés que vous rencontrez. Entraînez-vous jusqu'à ce que vous n'ayez plus de difficultés.
+La meilleure façon de se préparer à un examen est de mettre en pratique les compétences répertoriées dans la page des détails de l'examen. [Parcourez tous les examens](https://www.microsoft.com/learning/exam-list.aspx) pour trouver l'examen qui vous intéresse. Une expérience pratique des technologies est nécessaire pour réussir les examens de certification Microsoft. Le micro-apprentissage, les formations en ligne et les formations données par un instructeur connexes visent à former l'apprenant aux compétences nécessaires pour bien remplir une fonction, un sous-ensemble qui sera évalué au cours de l'examen. Toutefois, étant donné que l'examen se concentre sur l'application de ces compétences au-delà de ce qui a été enseigné au cours des formations, l'expérience ou la pratique au-delà de la formation est vivement recommandée avant de passer l'examen. Pour commencer la préparation à l'examen, consulter la section « Compétences évaluées » de la page de détails de l'examen afin d'évaluer vos compétences par rapport à celles évaluées lors de l'examen. La meilleure façon de procéder consiste à faire les exercices énumérées, en notant les difficultés que vous rencontrez. Entraînez-vous jusqu'à ce que vous n'ayez plus de difficultés.
 
 Microsoft Certified Trainers travaillent avec plusieurs candidats qui se préparent pour les certifications. Ils recommandent souvent les étapes suivantes pour aider les candidats à se concentrer dans leurs études :
 
-- [Parcourez tous les examens](https://www.microsoft.com/learning/exam-list.aspx) pour trouver l’examen qui vous intéresse.
+- [Parcourez tous les examens](https://www.microsoft.com/learning/exam-list.aspx) pour trouver l'examen qui vous intéresse.
 - Imprimez la section des compétences évaluées de la page. 
 - Révisez toute la liste. Réfléchissez à chaque sujet. Si vous êtes très bien informé sur un sujet spécifique, soulignez-le ou barrez-le. 
-- Regardez ce qui reste. À présent, commencez une recherche ciblée. Pour chaque sujet que vous n’avez pas souligné, cherchez des articles spécifiques sur le web.
-    - Utilisez des sources autorisées telles que docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com et le centre de support d’Office 365.
+- Regardez ce qui reste. À présent, commencez une recherche ciblée. Pour chaque sujet que vous n'avez pas souligné, cherchez des articles spécifiques sur le web.
+    - Utilisez des sources autorisées telles que docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com et le centre de support d'Office 365.
 
-Vous pourriez aussi demander à d’autres personnes comment elles font ces exercices, lire des livres blancs, MSDN ou TechNet pour obtenir des informations supplémentaires sur les tâches qui sont incluses dans l’examen et/ou explorer les ressources fournies dans la section « Matériel de préparation » sur la page des détails des examens qui fera le lien vers toute formation en ligne, tout micro-apprentissage, toute option disponibles et un portail où vous pourrez trouver des options de formations dispensées par un instructeur dans votre région.
+Vous pourriez aussi demander à d'autres personnes comment elles font ces exercices, lire des livres blancs, MSDN ou TechNet pour obtenir des informations supplémentaires sur les tâches qui sont incluses dans l'examen et/ou explorer les ressources fournies dans la section « Matériel de préparation » sur la page des détails des examens qui fera le lien vers toute formation en ligne, tout micro-apprentissage, toute option disponibles et un portail où vous pourrez trouver des options de formations dispensées par un instructeur dans votre région.
 
-En outre, les [Microsoft Official Practice Tests (tests d’entraînement Microsoft officiels)](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
+En outre, les [Microsoft Official Practice Tests (tests d'entraînement Microsoft officiels)](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 
-Si vous avez pris l’examen sans toutefois le réussir, classez par ordre d'importance les compétences que vous devez améliorer en vous concentrant sur les zones de contenu d'examen dans lesquelles vos performances ont été les plus faibles ainsi que sur les zones de contenu ayant le pourcentage de questions le plus élevé.
+Si vous avez pris l'examen sans toutefois le réussir, classez par ordre d'importance les compétences que vous devez améliorer en vous concentrant sur les zones de contenu d'examen dans lesquelles vos performances ont été les plus faibles ainsi que sur les zones de contenu ayant le pourcentage de questions le plus élevé.
 
 **Comment puis-je m'inscrire à un examen de certification Microsoft ?**
 
-Rendez-vous sur la [page d'inscription à l’examen](https://www.microsoft.com/learning/certification-exams.aspx) pour trouver les instructions complètes.
+Rendez-vous sur la [page d'inscription à l'examen](https://www.microsoft.com/learning/certification-exams.aspx) pour trouver les instructions complètes.
 
 **Suis-je obligé de passer un examen en anglais ?**
 
-Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L'octroi de temps supplémentaire est alloué au cas par cas. Demandez des aménagements de l’examen à [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L'octroi de temps supplémentaire est alloué au cas par cas. Demandez des aménagements de l'examen à [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
 
 **Quels sont les aménagements possibles pour les personnes handicapées ?**
 
@@ -626,7 +626,7 @@ Si vous avez des commentaires sur un cours de formation Microsoft dispensé par 
 
 **Comment puis-je fournir des commentaires à propos d'une question d'examen ou du déroulement d'un examen ?**
 
-Si vous avez une question concernant l'exactitude technique d'un élément particulier, suivez le processus de [Exam Item Challenge](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
+Si vous avez une question concernant l'exactitude technique d'un élément particulier, suivez le processus de [Exam Item Challenge](#policies-5).
 
 Pour signaler un problème se rapportant au centre de tests ou à des difficultés techniques rencontrées au cours de l'examen, contactez le service clientèle de [Pearson VUE](http://www.pearsonvue.com/microsoft/) ou [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
@@ -638,7 +638,7 @@ Pour signaler un problème de sécurité, contactez [mlsecure@microsoft.com](mai
 
 **Quels types de questions les examens de certification Microsoft contiennent-ils ?**
 
-Étant donné que Microsoft introduit continuellement des technologiques de test et des types de questions innovants, nous ne donnons pas les types d'éléments spécifiques qui apparaîtront sur un examen donné. Pour avoir un aperçu du contenu possible d'un examen, nous vous encourageons à passer en revue certains [formats d’examens et types de questions](https://www.microsoft.com/learning/certification-exams.aspx).
+Étant donné que Microsoft introduit continuellement des technologiques de test et des types de questions innovants, nous ne donnons pas les types d'éléments spécifiques qui apparaîtront sur un examen donné. Pour avoir un aperçu du contenu possible d'un examen, nous vous encourageons à passer en revue certains [formats d'examens et types de questions](https://www.microsoft.com/learning/certification-exams.aspx).
 
 **Pourquoi le format d'étude de cas est-il utilisé dans les examens ?**
 
@@ -656,7 +656,7 @@ Nous révisons nos examens basés sur le cloud tous les deux mois. Toute modific
 
 Microsoft se réserve le droit de mettre à jour le contenu, pour quel que motif que ce soit et à tout moment, afin de préserver la validité et la pertinence de ses certifications. Cela inclut, mais sans s'y limiter, l'ajout de fonctionnalités ou de paramètres liés à des modifications de la technologie, la modification de compétences nécessaires à une fonction, etc.
 
-REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l’examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu’il s'agit d'une DG (disponibilité générale).
+REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
 
 **Comment saurai-je que l'examen a été mis à jour lorsqu'un nouveau paramètre ou une nouvelle fonction sont ajoutés ou lorsque quelque chose a été modifié dans la technologie associée ?**
 
@@ -668,7 +668,7 @@ Si vous vous préparez à un examen basé sur le cloud, nous vous conseillons vi
 
 Microsoft se réserve le droit de mettre à jour le contenu, pour quel que motif que ce soit et à tout moment, afin de préserver la validité et la pertinence de ses certifications. Cela inclut, mais sans s'y limiter, l'ajout de fonctionnalités ou de paramètres liés à des modifications de la technologie, la modification de compétences nécessaires à une fonction, etc.
 
-REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l’examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu’il s'agit d'une DG (disponibilité générale).
+REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
 
 **Les kits de formation, les livres, les didacticiels et tout autre matériel de préparation à l'examen seront-ils mis à jour lors de modifications de l'examen ?**
 
@@ -711,9 +711,9 @@ Avant de quitter une section ou de terminer l'examen, vous avez la possibilité 
 
 Étant donné que vous n'êtes pas pénalisé pour les mauvaises réponses et que l'examen contient des éléments que vous ne pouvez pas réviser et pour lesquels vous ne pouvez pas modifier votre réponse, la meilleure méthode est de répondre à chaque question avant de passer à la question suivante. Marquez les questions à réviser pour y revenir si vous en avez la possibilité.
 
-**Puis-je utiliser le même examen pour satisfaire aux exigences de base d’une certification MCSA et aux exigences en option pour les certifications associées MCSE ou MCSD ?**
+**Puis-je utiliser le même examen pour satisfaire aux exigences de base d'une certification MCSA et aux exigences en option pour les certifications associées MCSE ou MCSD ?**
 
-Non. Un même examen ne peut pas être utilisé pour satisfaire aux exigences d'une certification MCSA et d’une exigence en option pour le même chemin MCSE ou MCSD.
+Non. Un même examen ne peut pas être utilisé pour satisfaire aux exigences d'une certification MCSA et d'une exigence en option pour le même chemin MCSE ou MCSD.
 
 ### Notation et résultats
 
@@ -731,7 +731,7 @@ Si vous ne voyez pas votre relevé de notes en ligne ou ne le recevez pas dans u
 
 **Qui dois-je contacter si je ne reçois pas mon bon de réduction de 25 % pour passer un examen bêta ?**
 
-Ces bons sont fournis par VUE et sont envoyés à l’adresse électronique que vous avez utilisée lors de votre inscription à l’examen. Les bons sont envoyés environ 4 à 6 semaines après la mise en ligne de l'examen. Si vous ne recevez pas de bon de réduction de 25 % dans les 64 semaines suivant la date de mise en ligne de l’examen, veuillez envoyer un courriel à [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+Ces bons sont fournis par VUE et sont envoyés à l'adresse électronique que vous avez utilisée lors de votre inscription à l'examen. Les bons sont envoyés environ 4 à 6 semaines après la mise en ligne de l'examen. Si vous ne recevez pas de bon de réduction de 25 % dans les 64 semaines suivant la date de mise en ligne de l'examen, veuillez envoyer un courriel à [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
 
 **Comment se présente le relevé de notes ?**
 
@@ -825,11 +825,11 @@ Lorsque vous êtes prêt à repasser l'examen, programmez un rendez-vous comme v
 
 Bien que les examens de certification Microsoft fournissent des remarques sur les domaines dans lesquels les candidats doivent améliorer leurs compétences, les examens ne sont pas conçus pour fournir un diagnostic ou un rapport détaillé. Nous vous encourageons à consulter la section « Compétences évaluées » de la page de détails de l'examen afin d'évaluer en toute honnêteté vos compétences par rapport à celles évaluées à l'examen. La meilleure façon de procéder consiste à exécuter les tâches énumérées, en notant les difficultés que vous rencontrez. Entraînez-vous jusqu'à ce que vous n'ayez plus de difficultés. Vous pouvez également demander à d'autres personnes comment elles effectuent ces tâches. Procèdent-elles différemment ? Essayez d'en comprendre les raisons. Lisez les livres blancs, consultez les docs, etc. pour obtenir des informations supplémentaires sur les tâches figurant dans l'examen. Explorez les ressources répertoriées dans la section « Options de préparation » de la page de détails de l'examen et les groupes d'étude, que vous pouvez trouver au bas de la page des détails de l'examen individuel.
 
-En outre, des [Microsoft Official Practice Tests (tests d’entraînement Microsoft officiels)](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
+En outre, des [Microsoft Official Practice Tests (tests d'entraînement Microsoft officiels)](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 
 **Quel est le règlement en matière d'examens de rattrapage ?**
 
-Consultez les [Security and retake policies (règles relatives à la sécurité et aux examens de rattrapage)](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) pour plus d'informations sur le règlement concernant le examens de rattrapage.
+Consultez les [Security and retake policies (règles relatives à la sécurité et aux examens de rattrapage)](#security-policies) pour plus d'informations sur le règlement concernant le examens de rattrapage.
 
 **Puis-je demander une réévaluation de ma note ?**
 
@@ -837,7 +837,7 @@ Il est peu probable qu'une réévaluation de votre note modifie votre statut de 
 
 **Comment puis-je contester une question d'examen ?**
 
-Si vous pensez qu'une question d'examen de certification Microsoft est inexacte, vous pouvez demander l'évaluation de la question en utilisant le [Exam Item Challenge process (processus de contestation d’une question d’examen)](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) dans les 30 jours calendaires suivant l’examen. Le processus d'évaluation nous permet d'identifier et de corriger les questions susceptibles de poser problème et d'amender comme requis les examens concernés.
+Si vous pensez qu'une question d'examen de certification Microsoft est inexacte, vous pouvez demander l'évaluation de la question en utilisant le [Exam Item Challenge process (processus de contestation d'une question d'examen)](#policies-5) dans les 30 jours calendaires suivant l'examen. Le processus d'évaluation nous permet d'identifier et de corriger les questions susceptibles de poser problème et d'amender comme requis les examens concernés.
 
 **Un employé de Microsoft va-t-il examiner et évaluer la question d'examen que je conteste ?**
 
@@ -940,17 +940,17 @@ Quand vous aurez quitté le laboratoire, vous ne pourrez plus y revenir, car la 
 
 **De quelle manière l'examen est-il structuré quand il y a des laboratoires ?**
 
-Lorsque vous démarrerez l’examen, vous verrez un écran qui vous donne le nombre d’éléments, d’études de cas et de laboratoires, ce qui inclut le nombre de tâches, inclus dans l’examen. Veuillez noter ces informations pour planifier votre temps d’examen en conséquence.
+Lorsque vous démarrerez l'examen, vous verrez un écran qui vous donne le nombre d'éléments, d'études de cas et de laboratoires, ce qui inclut le nombre de tâches, inclus dans l'examen. Veuillez noter ces informations pour planifier votre temps d'examen en conséquence.
 
-Quand vous démarrez l'examen, vous devez répondre à des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) pendant que les tâches de laboratoire chargent. Le(s) laboratoire(s) seront la dernière section de l’examen. Veuillez noter les points suivants :
+Quand vous démarrez l'examen, vous devez répondre à des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) pendant que les tâches de laboratoire chargent. Le(s) laboratoire(s) seront la dernière section de l'examen. Veuillez noter les points suivants :
 
-- Après avoir quitté une section de l’examen (par exemple, étude de cas ou laboratoire), vous ne pourrez pas y revenir. Cependant, à la fin de la plupart des sections, vous aurez la possibilité de réviser vos réponses (votre examen peut inclure une section qui ne peut pas être révisée, c’est noté au début de la section). **La durée de l’examen NE s’arrête PAS pendant que vous examinez vos réponses. Assurez-vous de gérer votre temps**, Faites attention au temps ET au nombre de questions restantes.
+- Après avoir quitté une section de l'examen (par exemple, étude de cas ou laboratoire), vous ne pourrez pas y revenir. Cependant, à la fin de la plupart des sections, vous aurez la possibilité de réviser vos réponses (votre examen peut inclure une section qui ne peut pas être révisée, c'est noté au début de la section). **La durée de l'examen NE s'arrête PAS pendant que vous examinez vos réponses. Assurez-vous de gérer votre temps**, Faites attention au temps ET au nombre de questions restantes.
 
-- Chaque examen comprend une ou deux sections/laboratoires de performance avec plusieurs tâches à effectuer. Les recherches montrent que les tâches prennent environ 4 fois plus longtemps qu’un élément traditionnel. Veuillez gérer votre temps pour qu’il vous reste suffisamment de temps pour remplir les laboratoires. Nous nous sommes assurés que les candidats qui gèrent leur temps correctement auront largement suffisamment de temps pour réaliser le(s) laboratoire(s).
+- Chaque examen comprend une ou deux sections/laboratoires de performance avec plusieurs tâches à effectuer. Les recherches montrent que les tâches prennent environ 4 fois plus longtemps qu'un élément traditionnel. Veuillez gérer votre temps pour qu'il vous reste suffisamment de temps pour remplir les laboratoires. Nous nous sommes assurés que les candidats qui gèrent leur temps correctement auront largement suffisamment de temps pour réaliser le(s) laboratoire(s).
 
-- Le nombre de laboratoires et de tâches de l’examen est donné sur la page d’aperçu précédant le premier laboratoire. Veuillez la lire ! Et par la suite, gérez votre temps en conséquence.
+- Le nombre de laboratoires et de tâches de l'examen est donné sur la page d'aperçu précédant le premier laboratoire. Veuillez la lire ! Et par la suite, gérez votre temps en conséquence.
 
-- N’attendez PAS que les tâches soient exécutées avant de passer à une autre tâche. Dans certains cas, vous devez avoir quelque chose à exécuter avant de pouvoir remplir une autre tâche, mais cela sera noté dans la tâche et il y aura d'autres tâches sur lesquelles vous pourrez travailler pendant que la tâche s’exécute. **Ne perdez pas de temps à attendre que les tâches soient** exécutées . Passez à une activité ne dépendant pas de cette tâche afin de maximiser votre temps d’examen. Dans certains cas, le démarrage d’une tâche peut être suffisant pour le score (par exemple, la création d’une ressource dans Azure). Vous pouvez laisser la tâche s’exécuter en arrière-plan pendant que vous travaillez sur d’autres tâches. Nous incluons une note dans la liste des tâches vous indiquant que vous devez uniquement démarrer la tâche. Vous pouvez passer à d'autres tâches ou même quitter la section (passer au prochain laboratoire le cas échéant ou à la fin de l’examen) sans être pénalisé. **Veuillez lire attentivement l’exercice. Faites ce qui est nécessaire pour résoudre le problème posé dans la tâche.**
+- N'attendez PAS que les tâches soient exécutées avant de passer à une autre tâche. Dans certains cas, vous devez avoir quelque chose à exécuter avant de pouvoir remplir une autre tâche, mais cela sera noté dans la tâche et il y aura d'autres tâches sur lesquelles vous pourrez travailler pendant que la tâche s'exécute. **Ne perdez pas de temps à attendre que les tâches soient** exécutées . Passez à une activité ne dépendant pas de cette tâche afin de maximiser votre temps d'examen. Dans certains cas, le démarrage d'une tâche peut être suffisant pour le score (par exemple, la création d'une ressource dans Azure). Vous pouvez laisser la tâche s'exécuter en arrière-plan pendant que vous travaillez sur d'autres tâches. Nous incluons une note dans la liste des tâches vous indiquant que vous devez uniquement démarrer la tâche. Vous pouvez passer à d'autres tâches ou même quitter la section (passer au prochain laboratoire le cas échéant ou à la fin de l'examen) sans être pénalisé. **Veuillez lire attentivement l'exercice. Faites ce qui est nécessaire pour résoudre le problème posé dans la tâche.**
 
 
 **Pourquoi un examen avec des tâches de laboratoire contient-il des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) ?**
@@ -965,7 +965,7 @@ Si un examen contient des laboratoires, il y aura au moins 1 laboratoire. Chaqu
 
 Les tâches sont évaluées en fonction du résultat final. La façon dont vous faites ces exercices n'a pas d'importance (par exemple, via le UI ou en utilisant les commandes PowerShell), vous devez uniquement réussir à remplir la tâche. Faites l'exercice de la façon dont vous le feriez normalement. Le script de notation évalue le résultat final en fonction des caractéristiques clés afin de définir si la tâche a été remplie correctement. Par exemple, si l'exercice était d'ajouter un utilisateur, le script de notation s'assure que vous avez ajouté cet utilisateur.
 
-Nous NE vous demandons PAS d’utiliser une méthode spécifique pour faire les exercices. Si vous êtes plus à l’aise avec PowerShell ou la CLI au lieu d’utiliser un GUI, nous souhaitons que vous utilisiez l’un des précédents. Nous vous évaluons en fonction du résultat final de votre exercice - l’avez-vous fait correctement? - Non sur la méthode que vous utilisez pour faire un exercice.
+Nous NE vous demandons PAS d'utiliser une méthode spécifique pour faire les exercices. Si vous êtes plus à l'aise avec PowerShell ou la CLI au lieu d'utiliser un GUI, nous souhaitons que vous utilisiez l'un des précédents. Nous vous évaluons en fonction du résultat final de votre exercice - l'avez-vous fait correctement? - Non sur la méthode que vous utilisez pour faire un exercice.
 
 **Combien de points sont attribués à chaque tâche ?**
 
@@ -981,27 +981,27 @@ Les tâches de laboratoire sont conçues pour être remplies pendant la durée d
 
 **Comment déterminez-vous les tâches à inclure dans les laboratoires ?**
 
-Comme toutes les questions de l’examen, les tâches de laboratoire représentent le domaine de l'objectif. Nous sélectionnons les tâches qui se prêtent le mieux à une évaluation basée sur le laboratoire, qui ne requièrent pas un long délai d'exécution ni de ressources et peuvent être terminées dans le délai considéré nécessaire pour que les participants terminent l'examen.
+Comme toutes les questions de l'examen, les tâches de laboratoire représentent le domaine de l'objectif. Nous sélectionnons les tâches qui se prêtent le mieux à une évaluation basée sur le laboratoire, qui ne requièrent pas un long délai d'exécution ni de ressources et peuvent être terminées dans le délai considéré nécessaire pour que les participants terminent l'examen.
 
 **Pourquoi devais-je attendre avant de pouvoir commencer mon laboratoire?**
 
-La mise en service de l’environnement dans le cloud prend du temps et l’environnement auquel vous aurez accès pour faire les exercices n’est approvisionné que lorsque les ressources sont entièrement fournies. En conséquence, l’examen commence par une série de questions classiques (choix multiples, glisser-déposer, faire des listes, etc.) qui laissent le temps de provisionner les travaux pratiques et de les charger dans l’environnement. Si vous répondez trop rapidement à ces questions, vous devrez attendre la fin du chargement des laboratoires.
+La mise en service de l'environnement dans le cloud prend du temps et l'environnement auquel vous aurez accès pour faire les exercices n'est approvisionné que lorsque les ressources sont entièrement fournies. En conséquence, l'examen commence par une série de questions classiques (choix multiples, glisser-déposer, faire des listes, etc.) qui laissent le temps de provisionner les travaux pratiques et de les charger dans l'environnement. Si vous répondez trop rapidement à ces questions, vous devrez attendre la fin du chargement des laboratoires.
 
-**J’ai entendu dire que les laboratoires peuvent démarrer en mode écran blanc. Que puis-je faire pour résoudre ce problème?**
+**J'ai entendu dire que les laboratoires peuvent démarrer en mode écran blanc. Que puis-je faire pour résoudre ce problème?**
 
-Si votre laboratoire démarre en mode écran blanc, essayez d’ouvrir un nouvel onglet et de vous rendre sur https://portal.azure.com. Ouvrir ce nouvel onglet résoudra le problème la plupart du temps.
+Si votre laboratoire démarre en mode écran blanc, essayez d'ouvrir un nouvel onglet et de vous rendre sur https://portal.azure.com. Ouvrir ce nouvel onglet résoudra le problème la plupart du temps.
 
-**J’ai eu quelques problèmes avec mes laboratoires. Comment en informer Microsoft?**
+**J'ai eu quelques problèmes avec mes laboratoires. Comment en informer Microsoft?**
 
-Si vous rencontrez des problèmes avec les laboratoires, veuillez les signaler via notre [processus de contestation de l’examen](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5). Bien que nous ne puissions pas fournir d’explication spécifique à votre expérience, notre enquête sur cette dernière nous aidera à identifier les causes profondes et à trouver des solutions qui amélioreront l’expérience de chaque candidat.
+Si vous rencontrez des problèmes avec les laboratoires, veuillez les signaler via notre [processus de contestation de l'examen](#policies-5). Bien que nous ne puissions pas fournir d'explication spécifique à votre expérience, notre enquête sur cette dernière nous aidera à identifier les causes profondes et à trouver des solutions qui amélioreront l'expérience de chaque candidat.
 
-**J’ai eu quelques problèmes avec mes laboratoires. Comment demander un recomptage ?**
+**J'ai eu quelques problèmes avec mes laboratoires. Comment demander un recomptage ?**
 
 Si vous avez reçu une note, elle reflète précisément votre performance avant le problème du laboratoire. Si vous avez échoué, un recomptage ne modifiera pas le résultat.
 
 **Quand recevrai-je mon résultat ?**
 
-Les laboratoires mettent plus de temps à être notés que les types d’éléments traditionnels. Étant donné que les laboratoires apparaissent à la fin de l’examen, vous ne recevrez pas votre résultat immédiatement. Il est possible que vous receviez un résultat après 30 minutes ou plus. Vous ne devez pas attendre le rapport de notation. Il sera automatiquement affiché dans votre base de données de certification et apparaîtra dans votre tableau de bord MC. Cela devrait avoir lieu dans les 24 heures suivant l’examen. S’il n’apparaît pas, veuillez contacter le [forum de soutien MCP](https://aka.ms/mcpforum).
+Les laboratoires mettent plus de temps à être notés que les types d'éléments traditionnels. Étant donné que les laboratoires apparaissent à la fin de l'examen, vous ne recevrez pas votre résultat immédiatement. Il est possible que vous receviez un résultat après 30 minutes ou plus. Vous ne devez pas attendre le rapport de notation. Il sera automatiquement affiché dans votre base de données de certification et apparaîtra dans votre tableau de bord MC. Cela devrait avoir lieu dans les 24 heures suivant l'examen. S'il n'apparaît pas, veuillez contacter le [forum de soutien MCP](https://aka.ms/mcpforum).
 
 **Les examens incluant des questions basées sur les performances durent-ils plus longtemps ?**
 
@@ -1009,11 +1009,11 @@ Oui. Ces examens peuvent prendre plus de temps que les examens qui ne contiennen
 
 **Dois-je me préparer différemment qu'il s'agit d'examens basés sur les performances ?**
 
-Non. Les compétences évaluées restent les mêmes, quel que soit le format des questions. Les connaissances et les compétences évaluées au cours de l'examen sont répertoriées dans la section « Compétences évaluées » de la page de détails de l'examen. Si vous pratiquez ces compétences, vous serez préparé à tout type d’éléments, ce qui inclut les laboratoires.
+Non. Les compétences évaluées restent les mêmes, quel que soit le format des questions. Les connaissances et les compétences évaluées au cours de l'examen sont répertoriées dans la section « Compétences évaluées » de la page de détails de l'examen. Si vous pratiquez ces compétences, vous serez préparé à tout type d'éléments, ce qui inclut les laboratoires.
 
-**Existe-t-il des conditions spécifiques concernant les centres de test pour les examens incluant les laboratoires ? Plusieurs centres de test ne sont pas répertoriés lorsque j’essaie de planifier les examens incluant des laboratoires, mais les mêmes centres de test sont répertoriés pour les examens qui n’en ont pas.**
+**Existe-t-il des conditions spécifiques concernant les centres de test pour les examens incluant les laboratoires ? Plusieurs centres de test ne sont pas répertoriés lorsque j'essaie de planifier les examens incluant des laboratoires, mais les mêmes centres de test sont répertoriés pour les examens qui n'en ont pas.**
 
-Les examens comprenant des tests de laboratoire exigent que les centres de test répondent à certaines exigences de connectivité Internet. Par conséquent, un plus petit ensemble de centres de test est disponible. Au fur et à mesure que des tests de laboratoire sont ajoutés aux nouveaux examens basés sur les rôles, ils feront également l’objet d'une évaluation de l’ensemble des centres de test. Toutefois, vous pouvez passer ces examens grâce à la surveillance en ligne. Pour de plus amples informations, veuillez consulter la page https://www.microsoft.com/learning/online-proctored-exams.aspx. Si vous avez des centres de test spécifiques en tête, contactez un centre de test spécifique pour savoir s’ils peuvent organiser des testes de laboratoire. Sinon, ils ne seront pas répertoriés comme centres de test disponibles une fois l’examen sélectionné. Dans ce cas, nous vous recommandons de trouver un autre centre d’examen ou de passer l’examen par le biais de la surveillance en ligne.
+Les examens comprenant des tests de laboratoire exigent que les centres de test répondent à certaines exigences de connectivité Internet. Par conséquent, un plus petit ensemble de centres de test est disponible. Au fur et à mesure que des tests de laboratoire sont ajoutés aux nouveaux examens basés sur les rôles, ils feront également l'objet d'une évaluation de l'ensemble des centres de test. Toutefois, vous pouvez passer ces examens grâce à la surveillance en ligne. Pour de plus amples informations, veuillez consulter la page https://www.microsoft.com/learning/online-proctored-exams.aspx. Si vous avez des centres de test spécifiques en tête, contactez un centre de test spécifique pour savoir s'ils peuvent organiser des testes de laboratoire. Sinon, ils ne seront pas répertoriés comme centres de test disponibles une fois l'examen sélectionné. Dans ce cas, nous vous recommandons de trouver un autre centre d'examen ou de passer l'examen par le biais de la surveillance en ligne.
 
 ### Certifications basées sur les rôles
 
@@ -1021,30 +1021,30 @@ Les examens comprenant des tests de laboratoire exigent que les centres de test 
 
 Car nous apportons un changement important à notre programme de certification, nous nous éloignons des acronymes MCSA, MCSE et MCSD. Les certifications indiqueront clairement que vous êtes « Certifiés Microsoft» dans votre fonction professionnelle et vous indiqueront le niveau auquel la certification se situe dans le cadre de nos examens (principes fondamentaux, associé ou expert).
 
-**Qu’advient-il des certifications MCSA, MCSD et MCSE que j’ai déjà ?**
+**Qu'advient-il des certifications MCSA, MCSD et MCSE que j'ai déjà ?**
 
-Rien n’advient des certifications MCSA, MCSD et MCSE que vous avez déjà. Elles demeurent sur votre relevé de notes. L’importance de ces certifications dépend de vos fonctions actuelles (et futures) et de la valeur de cette certification pour votre responsable et votre organisation, ainsi que pour le travail que vous effectuez.
+Rien n'advient des certifications MCSA, MCSD et MCSE que vous avez déjà. Elles demeurent sur votre relevé de notes. L'importance de ces certifications dépend de vos fonctions actuelles (et futures) et de la valeur de cette certification pour votre responsable et votre organisation, ainsi que pour le travail que vous effectuez.
 
 
-**Certaines certifications MCSA, MCSD et MCSE sont encore disponibles. Qu’adviendra-t-il de ces dernières ?**
+**Certaines certifications MCSA, MCSD et MCSE sont encore disponibles. Qu'adviendra-t-il de ces dernières ?**
 
 Vous pouvez continuer à obtenir les certifications MCSA, MCSD et MCSE tant que les examens sont disponibles. Lorsque nous supprimerons les examens faisant partie de ces parcours de certification, vous ne pourrez plus obtenir ces certifications.
 
 
-**Vous supprimez certains examens menant aux certifications MCSA, MCSD et MCSE. Qu’advient-il de mes certifications lorsque leurs examens ont été supprimés ?**
+**Vous supprimez certains examens menant aux certifications MCSA, MCSD et MCSE. Qu'advient-il de mes certifications lorsque leurs examens ont été supprimés ?**
 
-Avant la fin des examens, assurez-vous de réussir toutes les certifications MCSA, MCSE ou MCSD que vous tentez d’obtenir. Dans ce cas, vous obtiendrez la certification et celle-ci apparaîtra sur votre relevé de notes. Rien n’advient des certifications MCSA, MCSD et MCSE que vous avez déjà. L’importance de cette certifications dépend de vos fonctions actuelles (et futures) et de la valeur de cette certification pour votre responsable et votre organisation, ainsi que pour le travail que vous effectuez.
+Avant la fin des examens, assurez-vous de réussir toutes les certifications MCSA, MCSE ou MCSD que vous tentez d'obtenir. Dans ce cas, vous obtiendrez la certification et celle-ci apparaîtra sur votre relevé de notes. Rien n'advient des certifications MCSA, MCSD et MCSE que vous avez déjà. L'importance de cette certifications dépend de vos fonctions actuelles (et futures) et de la valeur de cette certification pour votre responsable et votre organisation, ainsi que pour le travail que vous effectuez.
 
-**Dans le but de mieux harmoniser la formation et les examens, réduisez-vous l’expérience dont les candidats ont besoin pour réussir un examen ou obtenir une certification ?**
+**Dans le but de mieux harmoniser la formation et les examens, réduisez-vous l'expérience dont les candidats ont besoin pour réussir un examen ou obtenir une certification ?**
 
-Non, nous ne réduisons pas l’expérience dont les gens ont besoin pour réussir les examens ou obtenir nos certifications. La formation est conçue pour préparer les candidats aux examens, mais elle est probablement insuffisante en soi. Les questions de nos examens basés sur les rôles exigent que vous appliquiez les compétences et les connaissances acquises lors de problèmes de formation réels.
+Non, nous ne réduisons pas l'expérience dont les gens ont besoin pour réussir les examens ou obtenir nos certifications. La formation est conçue pour préparer les candidats aux examens, mais elle est probablement insuffisante en soi. Les questions de nos examens basés sur les rôles exigent que vous appliquiez les compétences et les connaissances acquises lors de problèmes de formation réels.
 
 
 ### Tarif universitaire des examens
 
-**Puis-je obtenir un remboursement si je me suis initialement inscrit et ai payé des frais d’examen sans valider une réduction universitaire si j’ai obtenu une vérification ?**
+**Puis-je obtenir un remboursement si je me suis initialement inscrit et ai payé des frais d'examen sans valider une réduction universitaire si j'ai obtenu une vérification ?**
 
-Non. Si vous décidez de vous inscrire et de payer les frais d’examen avant d'avoir validé votre statut d'étudiant, vous devez payer le tarif commercial et ne recevrez pas de remboursement. Vous devez vous assurer que votre statut a été approuvé avant de terminer votre inscription et votre paiement.
+Non. Si vous décidez de vous inscrire et de payer les frais d'examen avant d'avoir validé votre statut d'étudiant, vous devez payer le tarif commercial et ne recevrez pas de remboursement. Vous devez vous assurer que votre statut a été approuvé avant de terminer votre inscription et votre paiement.
 
 **Ma vérification universitaire expire-t-elle ?**
 
@@ -1058,27 +1058,27 @@ Oui. Vous devez suivre la même procédure qu'un étudiant. En d'autres termes, 
 
 **Qui dois-je contacter pour les questions concernant la procédure de vérification universitaire pour les examens de certification Microsoft ?**
 
-Si vous avez des questions générales liées à l'inscription aux examens, contactez votre [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx). Pour des questions spécifiques relatives à une nouvelle demande de vérification ou à une demande en attente, vous pouvez [contacter l’assistance](https://academic.getmicrosoftkey.com/default/support).
+Si vous avez des questions générales liées à l'inscription aux examens, contactez votre [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx). Pour des questions spécifiques relatives à une nouvelle demande de vérification ou à une demande en attente, vous pouvez [contacter l'assistance](https://academic.getmicrosoftkey.com/default/support).
 
-### Demandes d’aménagement
+### Demandes d'aménagement
 
 **Comment puis-je demander un aménagement ?**
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section [Special Accommodations when Taking Exams (Aménagements spéciaux lors d’un examen)](#special-accommodations-when-taking-exams) ci-dessus.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l'aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section [Special Accommodations when Taking Exams (Aménagements spéciaux lors d'un examen)](#special-accommodations-when-taking-exams) ci-dessus.
 
 **Pour quelle raison dois-je présenter des documents ?**
 
-Les documents que vous présentez décrivent votre handicap à l’équipe Pearson chargée des aménagements spéciaux. Pearson emploie des experts qui déterminent l’aménagement adéquat. Vos documents garantissent un ajustement adéquat de l’expérience de l’examen. Une personne souffrant de dyslexie, par exemple, est généralement sur un spectre de gravité et l’aménagement de l’examen doit donc être ajusté de façon adéquate au niveau de gravité décrit dans les documents. Ces documents consistent en une évaluation officielle effectuée par un professionnel du corps médical au cours des cinq dernières années. Une personne souffrant de dyslexie modérée pourrait avoir besoin du temps de l’examen multiplié par 1,5, alors qu’une personne souffrant de dyslexie grave pourrait recevoir une allocation de deux fois le temps de l’examen ou peut-être même avoir un lecteur. L’intention est de rendre la session d’examen juste par rapport au candidate en prenant ses besoins en considération tout en conservant la validité et la fiabilité d’une procédure d'évaluation.
+Les documents que vous présentez décrivent votre handicap à l'équipe Pearson chargée des aménagements spéciaux. Pearson emploie des experts qui déterminent l'aménagement adéquat. Vos documents garantissent un ajustement adéquat de l'expérience de l'examen. Une personne souffrant de dyslexie, par exemple, est généralement sur un spectre de gravité et l'aménagement de l'examen doit donc être ajusté de façon adéquate au niveau de gravité décrit dans les documents. Ces documents consistent en une évaluation officielle effectuée par un professionnel du corps médical au cours des cinq dernières années. Une personne souffrant de dyslexie modérée pourrait avoir besoin du temps de l'examen multiplié par 1,5, alors qu'une personne souffrant de dyslexie grave pourrait recevoir une allocation de deux fois le temps de l'examen ou peut-être même avoir un lecteur. L'intention est de rendre la session d'examen juste par rapport au candidate en prenant ses besoins en considération tout en conservant la validité et la fiabilité d'une procédure d'évaluation.
 
 **Je possède des documents qui datent de plus de 5 ans. Pourquoi ne puis-je pas les utiliser pour répondre aux exigences en matière de documents ?**
 
-Les handicaps changent avec le temps. Ils peuvent devenir plus ou moins sévères. Par conséquent, l’aménagement qui serait fourni sur la base des documents périmés pourrait ne plus être adéquat. L’objectif de la procédure d'aménagement est d’assurer un aménagement qui garantira une expérience d’examen équivalente, dans la mesure du possible, à celle de toutes les autres personnes, tout en conservant la validité et la fiabilité d’une procédure d'évaluation. Plus vos documents seront à jour, plus VUE sera capable de fournir un aménagement qui répondra à vos besoins.
+Les handicaps changent avec le temps. Ils peuvent devenir plus ou moins sévères. Par conséquent, l'aménagement qui serait fourni sur la base des documents périmés pourrait ne plus être adéquat. L'objectif de la procédure d'aménagement est d'assurer un aménagement qui garantira une expérience d'examen équivalente, dans la mesure du possible, à celle de toutes les autres personnes, tout en conservant la validité et la fiabilité d'une procédure d'évaluation. Plus vos documents seront à jour, plus VUE sera capable de fournir un aménagement qui répondra à vos besoins.
 
-**J'ai un appareil auditif/une chaise roulante/besoin d'un inhalateur/etc. Ai-je besoin d’une permission spéciale pour les amener dans la salle d’examen ?**
+**J'ai un appareil auditif/une chaise roulante/besoin d'un inhalateur/etc. Ai-je besoin d'une permission spéciale pour les amener dans la salle d'examen ?**
 
-Cela est considéré comme un soutien de confort et ne nécessite **pas** d’approbation préalable. Les soutiens de confort sont permis dans la salle d’examen après une inspection visuelle par le personnel du Centre d’examens. L’inspection visuelle sera effectuée en examinant la pièce sans la toucher directement (ou toucher le candidat) et sans demander au candidat de l’ôter, excepté si cela est noté [ici](https://home.pearsonvue.com/test-taker/Test-accommodations/Comfort-aids.aspx).
+Cela est considéré comme un soutien de confort et ne nécessite **pas** d'approbation préalable. Les soutiens de confort sont permis dans la salle d'examen après une inspection visuelle par le personnel du Centre d'examens. L'inspection visuelle sera effectuée en examinant la pièce sans la toucher directement (ou toucher le candidat) et sans demander au candidat de l'ôter, excepté si cela est noté [ici](https://home.pearsonvue.com/test-taker/Test-accommodations/Comfort-aids.aspx).
 
-**J'ai une question qui n’a pas de réponse ici. Où puis-je trouver la réponse ?**
+**J'ai une question qui n'a pas de réponse ici. Où puis-je trouver la réponse ?**
 
 Si vous ne trouvez pas la réponse à votre question ici, contactez-nous par email au : [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
 

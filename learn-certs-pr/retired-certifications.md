@@ -6,12 +6,12 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 30/07/2019
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Informations concernant le retrait des certifications
 
-Afin de garder le programme Microsoft Certified Professional à jour, Microsoft Learning vérifie systématiquement nos certifications en cours et à venir pour s'assurer qu’elles correspondent aux dernières technologies Microsoft et à toutes les technologies que les Microsoft Certified Professionals utilisent quotidiennement.
+Afin de garder le programme Microsoft Certified Professional à jour, Microsoft Learning vérifie systématiquement nos certifications en cours et à venir pour s'assurer qu'elles correspondent aux dernières technologies Microsoft et à toutes les technologies que les Microsoft Certified Professionals utilisent quotidiennement.
 
 ## Certifications dont le retrait est prévu
 
@@ -49,9 +49,9 @@ Rechercher les certifications devant être retirées au cours des 12 prochains 
 
 ## Certifications retirées
 
-Trouver des certifications qui ont été retirées au cours de la dernière année. Lorsqu’une certification a été retirée depuis plus d’un an, elle est supprimée de cette page. Une fois que la certification a été retirée, il ne sera plus possible de la passer mais, si elle a déjà été obtenue, elle restera dans votre relevé de résultats dans la section Active.
+Trouver des certifications qui ont été retirées au cours de la dernière année. Lorsqu'une certification a été retirée depuis plus d'un an, elle est supprimée de cette page. Une fois que la certification a été retirée, il ne sera plus possible de la passer mais, si elle a déjà été obtenue, elle restera dans votre relevé de résultats dans la section Active.
 
-REMARQUE : Quand une certification a été retirée, Microsoft continue de vérifier les technologies correspondantes pour déterminer si elle sont toujours pertinentes. S’il est déterminé que la technologie correspondante n’est plus pertinente, les certifications qui lui sont associées sont déplacées dans la section « Historique de certification » du relevé de résultats.
+REMARQUE : Quand une certification a été retirée, Microsoft continue de vérifier les technologies correspondantes pour déterminer si elle sont toujours pertinentes. S'il est déterminé que la technologie correspondante n'est plus pertinente, les certifications qui lui sont associées sont déplacées dans la section « Historique de certification » du relevé de résultats.
 
 Développez les sections ci-dessous pour afficher la liste des certifications retirées par type et par date de retrait.
 

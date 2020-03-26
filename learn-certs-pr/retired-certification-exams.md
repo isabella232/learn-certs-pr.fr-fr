@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 30/07/2019
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Examens dont le retrait est prévu

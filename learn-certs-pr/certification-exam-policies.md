@@ -509,7 +509,7 @@ Le processus de contestation existe pour faciliter l'identification et la correc
 
 Vos commentaires sont essentiels et nous aident à rendre les examens de certification Microsoft aussi valides et pertinents que possible.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Aménagements particuliers lors d'examens
+## <a name="special-accommodations-when-taking-exams"></a> Aménagements particuliers lors d'examens
 
 ### Examens fournis par Pearson VUE :
 

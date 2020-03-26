@@ -1,0 +1,324 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
+metadata:
+  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+uid: course.mb-300t00
+courseNumber: 'MB-300T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Démarrez avec les services de cycle de vie avec Dynamics 365 for Finance and Operations.
+- skill: Utiliser les services de cycle de vie pour concevoir et planifier une mise en œuvre pour Dynamics 365 for Finance and Operations.
+- skill: Obtenir un aperçu de la génération de rapports et l’analyse dans Dynamics 365 for Finance and Operations.
+- skill: Créer et tester des applications mobiles avec Dynamics 365 for Finance and Operations.
+- skill: Créer, maintenez et utiliser des flux de travail avec Dynamics 365 for Finance and Operations.
+- skill: Établir et configurer des entités légales dans Dynamics 365 for Finance and Operations.
+- skill: Gérer les utilisateurs et la sécurité dans Dynamics 365 for Finance and Operations.
+- skill: Effectuer des personnalisations dans Dynamics 365 for Finance and Operations.
+- skill: Mettre en œuvre des fonctionnalités d’intégration communes dans Dynamics 365 for Finance and Operations.
+- skill: Préparer les données pour la migration et migrez les données vers Dynamics 365 for Finance and Operations.
+- skill: Utiliser la gestion des données dans Dynamics 365 for Finance and Operations.
+- skill: Effectuer les tests d’acceptation de l’utilisateur dans Dynamics 365 for Finance and Operations.
+- skill: Se préparer à la mise en ligne.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Cette formation discute&#58;
+  - des fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations.
+  - de la configuration de base dans Dynamics 365 for Finance and Operations.
+  - Migration des données et préparation à la mise en ligne avec Dynamics 365 for Finance and Operations
+  Les organisations utilisent Dynamics 365 for Finance and Operations pour réduire les coûts opérationnels et répondre rapidement aux besoins changeants de l’entreprise. Cette solution permet aux organisations de réaliser ces objectifs.
+  Cette formation discute des composants de base et de la configuration de Microsoft Dynamics 365 for Finance and Operations, et de la migration des données et la préparation de la mise en ligne.
+
+  #### Profil de l’audience
+  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  - Connaissances générales de Microsoft Windows.
+  - La capacité d’utiliser Dynamics 365 for Finance and Operations pour un traitement de base.
+  - Connaissances générales des caractéristiques de base et de la navigation des périphériques mobiles.
+outlineSection: |-
+  ### Module 1&#58;  Débutez avec Dynamics 365 for Finance and Operations
+  Apprenez comment Microsoft Dynamics 365 for Finance and Operations soutient les entreprises dans la gestion de leurs systèmes financiers mondiaux, des processus métiers d’exploitation, et des chaînes logistiques rationalisées pour permettre aux gens de prendre des décisions rapides et informées.
+  Au cours de la première étape de votre carrière de travail avec Finance and Operations, vous devez vous familiariser avec ses caractéristiques et ses fonctionnalités, quel que soit le rôle que vous souhaitez.
+
+  #### Leçons
+  - Introduction
+  - Focus sur le secteur
+  - Introduction à la gestion financière
+  - Introduction à la gestion des employés
+  - Introduction à la gestion de la chaîne logistique
+  - Résumé du module
+
+  Vous comprendrez la réalité de Finance and Operations.
+  - Vous comprendrez les secteurs qu’il soutient.
+  - Vous vous familiariserez avec les modules de Finance and Operations.
+  - Vous vous familiariserez avec le but des caractéristiques de ces modules.
+  - Vous vous familiariserez avec leur manière de soutenir les domaines industriels spécifiques.
+
+
+  ### Module 2&#58;  Débuter avec les services du cycle de vie
+  Pour installer et maintenir Microsoft Dynamics 365 for Finance and Operations dans le Cloud Microsoft Azure ou sur site, vous devez utiliser Microsoft Dynamics Lifecycle Services (LCS) pour gérer le processus.
+  Débutons par examiner l’ensemble des fonctionnalités et des outils disponibles dans le cadre de LCS.
+
+  Les services du cycle de vie de Microsoft Dynamics sont un espace de travail collaboratif utilisé par les clients et leurs partenaires pour gérer les projets de Dynamics 365 for Finance and Operations, de l’avant-vente, à la mise en œuvre et finalement à l’environnement de production, dans le cloud ou sur site. Il fournit des listes de vérification et des outils qui vous aident à gérer le projet, y compris des méthodologies qui peuvent vous aider dans votre procédé de mise en œuvre.
+
+  #### Leçons
+  - Comprendre la fonctionnalité et les outils des services du cycle de vie
+  - Réutiliser les actifs existants, copier et partager les données
+  - Comprendre la fonctionnalité d’enregistrement de tâches
+  - Créer un modèle de processus métier
+  - Exécuter l'outil de recherche des problèmes des services du cycle de vie et analyser les résultats
+  - Apprendre à utiliser l’outil d’automatisation de la suite de régression
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Comprendre les fonctionnalités et les outils des services de cycle de vie (LCS) pour les finances et les opérations.
+  - Réutiliser les actifs existants, copier et partager les données
+  - Comprendre la fonctionnalité d’enregistrement de tâches
+  - Créer un modèle de processus métier
+
+
+  ### Module 3&#58;  Utiliser les services du cycle de vie pour concevoir et planifier
+  Avec une planification appropriée, la mise en œuvre de votre Dynamics 365 for Finance and Operations sera réussie. Suivant la signature du client des accords d’achat de licence pour Finance and Operations, votre travail de consultant fonctionnel commence par la gestion du cycle de vie de l’application et le passage vers une mise en œuvre prévisible, répétitive et de qualité supérieure.
+  #### Leçons
+  - Introduction
+  - Phases d’une mise en œuvre dans le cloud
+  - Phases d’une mise en œuvre sur site
+  - Créer des documents à conception fonctionnelle
+  - Résumé du module
+
+  Préparer une documentation pour les exigences recueillies à l’aide d’une méthodologie dans les services de cycle de vie (LCS).
+  - définir les scénarios de cas d’utilisation,
+  - participer à la création de documents à conception fonctionnelle,
+  - comprendre l’importance de la création et de la conservation des processus de documentation,
+  - participer à des processus de planification par étapes et à la conception d’une solution,
+  - Concevoir les processus métiers des futurs états sur la base d’une solution proposée.
+  - déterminer quand mettre au point ou acheter,
+  - Créer des documents de conception fonctionnelle (FDD).
+
+
+  ### Module 4&#58;  Aperçu des rapports et des analyses
+  Les leaders d’entreprise prennent des décisions importantes dans leur société à l’aide des perspectives précises sur les données financières et opérationnelles sous-jacentes. Cela serait impossible à faire si ces données ne sont pas visibles !
+  En utilisant les analyses et la génération des rapports dans Dynamics 365 for Finance and Operations, vous pouvez permettre à chaque utilisateur professionnel, en fonction de ses droits d’accès, d’obtenir les informations dont il a besoin.
+  #### Leçons
+  - Comprendre les rapports et les demandes
+  - Découvrir le rapport financier
+  - Configurer PowerBI sur votre instance.
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Différents types de rapports et d’interrogations dans Finance and Operations.
+  - les rapports financiers,
+  - la configuration de la finance et des opérations pour Microsoft Power Platform.
+
+
+  ### Module 5&#58;  Mettre au point et tester des applications mobiles
+  Nous visons dans un monde numérique. De nos jours, il est difficile d’imaginer un jour sans les appareils intelligents. Vous utilisez les applications mobiles presque chaque jour pour vos engagements sociaux, votre banque en ligne, ainsi que pour la réservation d’hôtels, d’avion, et la location de voitures.
+  Il semble naturel que vous utilisiez Dynamics 365 for Finance and Operations sur votre appareil intelligent.
+
+  #### Leçons
+  - Aperçu de l’application mobile des opérations unifiées
+  - Mettre au point et utiliser des applications mobiles
+  - Laboratoire pratique
+  - Résumé du module
+
+  Vous aurez appris à créer et publier une application mobile.
+  - Vous aurez également appris que vous devez télécharger les applications.
+  - Comment exécuter les applications Dynamics 365 pour se connecter aux Finance et Opérations.
+
+
+  ### Module 6&#58;  Créer, maintenir et utiliser les flux de travail
+  Certaines organisations exigent que des processus spécifiques soient approuvés par un utilisateur autre que la personne qui a saisi l’enregistrement. Ces processus de flux de travail peuvent exiger une approbation manuelle, une approbation de flux de travail ou pas d'approbation.
+  #### Leçons
+  - Les flux de travail pour les processus d’entreprise
+  - Créer et configurer des flux de travail
+  - Attribuer des utilisateurs aux points de contact du flux de travail
+  - Utiliser des articles de travail
+  - Laboratoire pratique
+  - Résumé du module
+
+  Vous pouvez appliquer l’automatisation à l’aide des flux de travail.
+  - Vous avez appris à définir des types de flux de travail.
+  - Vous savez que les flux de travail peuvent permettre d’approuver plusieurs types de journaux.
+  - Vous avez appris que vous pouvez définir plusieurs versions d’un flux de travail.
+  - Vous avez appris que vous pouvez modifier un flux de travail existant sans supprimer l’original.
+  - Vous avez appris à mettre en place, à configurer et à ajouter des flux de travail avec leurs tâches.
+  - Vous avez appris à configurer un processus d’approbation.
+
+
+  ### Module 7&#58;  Définir et configurer des entités légales
+  Une entité légale est une organisation qui s’identifie par son inscription auprès d’une autorité légale. Les entités légales peuvent conclure des contrats et doivent préparer des relevés qui mesurent leur rendement. Vous devez planifier et configurer votre organisation et créer des entités légales comme l’une des premières parties de la mise en œuvre de Dynamics 365 for Finance and Operations.
+
+  Ce module explique comment définir et configurer des entités légales et des séquences de nombres dans Dynamics 365 for Finance and Operations.
+  #### Leçons
+  - Créer une entité légale et générer de séquences de nombres
+  - Créer une séquence de nombres
+  - Créer des hiérarchies organisationnelles
+  - Appliquer des objectifs et des stratégies
+  - Configurer des calendriers et des intervalles de dates
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Vous avez appris à créer une entité légale et à générer des séquences de nombres.
+  - Vous avez également configuré des calendriers et des intervalles de dates.
+  - Vous avez appris à créer des hiérarchies organisationnelles, à appliquer des objectifs, et à mettre en place des politiques.
+
+
+  ### Module 8&#58;  Gérer les utilisateurs et la sécurité
+  Si vous maîtrisez l’architecture de sécurité de Dynamics 365 for Finance and Operations, vous pourrez la personnaliser pour répondre aux exigences de votre entreprise. Vous pouvez utiliser Finance and Operations pour assurer la sécurité de vos données sensibles et garantir la concentration des utilisateurs sur leurs rôles.
+
+  Microsoft Dynamics 365 for Finance and Operations offre un éventail d’options de sécurité et de configurations qui vous aideront à protéger vos données sensibles. Tout cela signifie que vos utilisateurs resteront concentrés sur leurs rôles, pendant que le système reste aussi rationalisé que possible.
+
+  Savoir mettre en œuvre les différentes options de sécurité aidera les entreprises à couvrir leurs exigences de sécurité. Lorsque vous maîtrisez l’architecture de sécurité de Finance and Operations, vous pourrez personnaliser la sécurité plus facilement pour répondre aux exigences de votre entreprise.
+
+  #### Leçons
+  - Comprendre l’architecture de la sécurité
+  - Gérer les utilisateurs et la sécurité
+  - Configurer et appliquer la ségrégation des devoirs
+  - Exécuter des rapports sur la sécurité
+  - Configurer des travaux en lots et des alertes
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Compris l’architecture de sécurité de Finance and Operations.
+  - La gestion des utilisateurs
+  - La gestion de la sécurité
+  - L'application de la ségrégation des devoirs
+  - Exécuter des rapports sur la sécurité
+
+
+  ### Module 9&#58; Effectuer la personnalisation
+  En personnalisant l’interface utilisateur dans Dynamics 365 for Finance and Operations, vous pouvez permettre aux employés d’une organisation de travailler plus efficacement. La personnalisation aide les managers de départements à imposer une interface utilisateur spécifique à leur personnel sans avoir besoin d’adaptation.
+  #### Leçons
+  - Décrire et appliquer les options d'utilisateur
+  - Créer, exporter et importer des personnalisations
+  - Créer et maintenir des modèles d’enregistrements
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Comment utiliser et appliquer les options d’utilisateur, créer la personnalisation et l’exporter.
+  - La différence entre l’adaptation et la personnalisation.
+  - Comment la personnalisation vous aide à économiser du temps.
+  - Comment la personnalisation vous aide à créer et maintenir des modèles d’enregistrements.
+
+
+  ### Module 10&#58;  Mettre en œuvre des fonctionnalités d'intégration communes
+  Ce module fournit des informations sur la mise en œuvre des caractéristiques d’intégration communes dans Finance and Operations.  Microsoft Office Excel a été intégré à Dynamics 365 for Finance and Operations par défaut. Cela vous permet d’extraire des données directement de Finance and Operations, de manipuler les données dans Excel, et de les sauvegarder de nouveau dans Finance and Operations. Vous pouvez également envoyer des courriels directement depuis Finance and Operations ou à l’aide de Microsoft Outlook.
+
+  Vous pouvez imprimer des documents de n’importe quel endroit de votre navigateur vers l’imprimante réseau de votre entreprise, ce qui rend l’expérience d’impression extrêmement facile.
+
+  #### Leçons
+  - Intégration de Microsoft Office
+  - Configurer la messagerie électronique
+  - Créer et maintenir des modèles de messagerie électronique
+  - Utiliser Power BI
+  - Configurer l’impression sur réseau
+  - Intégrer des données dans les services de données communes pour les applications
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Vous aurez appris à utiliser l’intégration Microsoft Office.
+  - Vous pouvez utiliser des imprimantes réseau d’entreprise à distance.
+  - Comment intégrer des données depuis plusieurs sources dans le service des données communes.
+
+
+  ### Module 11&#58; Préparer les données pour la migration et faire migrer les données
+  Lorsqu’il sera temps d’effectuer une migration des données, il vous sera plus facile de contrôler la complexité opérationnelle et de réduire les coûts si vous possédez assez d’informations à ce sujet. Votre priorité devrait être la continuité des activités de votre client. Apprenez à préparer les données pour la migration à l’aide du cadre de travail de gestion des données pour gérer des entités de données et des progiciels d’entités de données dans Dynamics 365 for Finance and Operations.
+  #### Leçons
+  - Introduction
+  - Comprendre la fonctionnalité BYOD.
+  - Effectuer un test de migration et valider le résultat
+  - Résumé du module
+
+  Sélectionnez une stratégie d’intégration (import/export) des données.
+  - identifier des scénarios et des outils de migration communs dans Finance and Operations,
+  - Maîtrisez la fonctionnalité BYOD (Bring Your Own Database, Apportez votre propre base de données).
+  - identifier les systèmes pertinents (existants),
+  - identifier et importer des données statiques communes aux secteurs,
+  - créer et passer en revue les plans d’essais de la migration des données,
+  - identifier et extraire des données source,
+  - identifier les entités et les éléments de données pertinents,
+  - générer la cartographie de champs entre les structures de données sources et cibles,
+  - Effectuer un test de migration et valider le résultat
+  - prendre en charge la transition entre le système existant et le système migré.
+
+
+  ### Module 12&#58; Utiliser la gestion des données
+  Vous pouvez importer ou exporter des données dans Dynamics 365 for Finance and Operations à l’aide de l’espace de travail de gestion des données. Validez les données en faisant transiter les données sources, et déplacez-les ensuite vers les tableaux cibles dans la base de données des Finance and Operations.
+
+  Dans ce module, vous obtiendrez un aperçu des concepts de base de la plateforme de gestion des données. Vous apprendront également à importer et exporter des données dans Dynamics 365 for Finance and Operations à l’aide de l’espace de travail de la gestion des données.
+
+  Finalement, vous apprendrez à utiliser les fonctionnalités d’intégration récurrentes asynchrones de la plateforme de gestion des données.
+
+  #### Leçons
+  - Introduction
+  - Comprendre la gestion et l’intégration des données
+  - Espace de travail de la gestion des données
+  - Modèles de gestion des données
+  - Importer, exporter et copier des données dans une entité légale
+  - Laboratoires pratiques
+  - Résumé du module
+
+  Identifiez le modèle correct pour un scénario donné.
+  - Travailler avec l’espace de travail de la gestion des données
+  - Exporter des données à partir d’une entité légale
+  - Importer des données dans une entité légale
+
+
+  ### Module 13&#58;  Effectuer les tests d'acceptation de l’utilisateur
+  Après avoir répondu à toutes les exigences du client par la configuration, l’adaptation et l’intégration avec des parties tierces possibles, vous devez savoir comment effectuer les tests d’acceptation de l’utilisateur (UAT) dans Microsoft Dynamics 365 for Finance and Operations afin de valider la solution. C’est une étape essentielle dans le cadre de la préparation à la mise en ligne.
+
+  Afin de tester et d’évaluer la solution du client avant la mise en ligne, vous avez besoin d’un environnement de Dynamics 365 for Finance and Operations qui comprend toutes les configurations et les adaptations possibles par le biais d’extensions.
+
+  Il est toujours bénéfique d'avoir une méthodologie pour s'assurer que la création et les tests soient correctement organisés et planifiés afin d'avoir des scénarios de tests courts et efficaces axés sur le rôle.
+  #### Leçons
+  - Introduction
+  - Créer et effectuer des cas de test pour l’acceptation de l’utilisateur
+  - Laboratoire pratique
+  - Résumé du module
+
+  Comment comprendre la corrélation entre les scénarios de tests et les exigences de l’entreprise.
+  - les meilleures pratiques d’enregistrement des cas tests,
+  - l’enregistreur de tâches,
+  - comment synchroniser une bibliothèque de scénarios de tests d'acceptation BPM,
+  - comment synchroniser et configurer votre plan de test dans Azure DevOps,
+  - Comment exécuter vos tests.
+
+
+  ### Module 14&#58;  Se préparer à aller en ligne
+  Le succès de votre travail assidu est confirmé lors du déplacement de la solution mise en œuvre dans Dynamics 365 for Finance and Operations vers l’environnement de production.  Vous désirez un client satisfait, une solution de qualité, et la tranquillité d’esprit durant cette phase importante, qui est la mise en ligne.
+  Apprenez comment vous préparer à la mise en ligne d’un projet Finance and Operations à l’aide de Microsoft Dynamics Lifecycle Services (LCS).
+
+  #### Leçons
+  - Introduction
+  - Se préparer à aller en ligne
+  - Résumé du module
+
+  Se préparer à la mise en ligne.
+  - Compléter la méthodologie des services du cycle de vie
+  - Effectuer les tests d'acceptation de l’utilisateur (UAT) pour votre solution
+  - Comprendre l’évaluation FastTrack Go-live
+  - Demander l’environnement de production
+
+
+  ### Module 15&#58; Conclusion de la formation
+  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
+  #### Leçons
+  - Évaluation finale
+  - Résumé de la formation
+  - Sondage après la conclusion de la formation
+
+  Vous auront terminé la formation.

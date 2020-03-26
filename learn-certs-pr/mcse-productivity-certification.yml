@@ -5,25 +5,25 @@ metadata:
   description: MCSE Productivity Solutions Expert
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: >-
-  Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire les exigences pour devenir [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
-
-
-  Pour devenir MCSE Productivity Solutions Expert, vous devez satisfaire les exigences suivantes&#58;
-
+summary: |-
+  <div style='color&#58; red;'>Cet examen sera retiré le 30 juin 2020. Il est possible qu'un examen de remplacement soit disponible. Pour en savoir plus, visitez notre blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> vérifiez les postes sur le retrait des examens. Remarque: Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
+  
+  Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire aux exigences pour devenir [Microsoft 365 Certified&#58; Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+  
+  Pour devenir MCSE Productivity Solutions Expert, vous devez satisfaire aux exigences suivantes&#58;
   - Obtenir une certification prérequise
-    - Option de prérequis 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - Option de prérequis 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
+    - Option de prérequis 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - Option de prérequis 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - Réussir un des examens facultatifs
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire une des exigences pour devenir Microsoft 365 Certified Enterprise Administrator Expert.
+subTitle: "Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire une des exigences pour devenir Microsoft 365 Certified: Enterprise Administrator Expert."
 levels:
 - advanced
 skills:
-- Aucune
+- Aucun
 roles:
 - administrator
 type: role-based
@@ -46,12 +46,12 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
-- title: Exam Replay
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

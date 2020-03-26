@@ -5,46 +5,44 @@ metadata:
   description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 uid: exam.mb-500
 displayName: MB-500
-summary: >-
-  Les candidats à cet examen sont des développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 afin de mettre en œuvre et d’étendre les applications pour répondre aux exigences de l’entreprise. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
-
+summary: |-
+  Les candidats à cet examen sont des Developers (développeurs) qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 afin de mettre en œuvre et d’étendre les applications pour répondre aux exigences de l’entreprise. Les candidats fournissent des solutions entièrement réalisées en utilisant des modèles de codage d’applications standardisés, des fonctionnalités extensibles et des intégrations externes.
 
   Les candidats sont responsables de la mise au point d'une logique d’entreprise en utilisant X++, de la création et de la modification des rapports et espaces de travail pour les finances et les opérations, de la personnalisation des interfaces utilisateurs, de la fourniture de finalités et API pour soutenir les applications de Power Platform et des systèmes externes, de la réalisation de tests, du suivi des performances, de l’analyse et de la manipulation de données, de la création de designs techniques et de la mise en œuvre des détails ainsi que de la mise en œuvre des politique de permissions et des exigences de sécurité.
 
-
   Les candidats participent à la migration des données et des objets des systèmes hérités et externes, à l’intégration des applications pour les finances et les opérations à d'autres systèmes, à la mise en œuvre du processus de gestion du cycle de vie des applications, à la planification de la conception fonctionnelle des solutions et à la gestion des environnement pour les finances et les opérations en utilisant Lifecycle Services (LS).
-
-
+  
   Les candidats doivent avoir des connaissances et une expérience importantes de l’utilisation du cadre sous-jacent, des structures de données et des objets associés aux solutions pour les finances et les opérations.
-
-
+  
   Les candidats doivent avoir de l’expérience avec les produits qui incluent Visual Studio, Azure DevOps, les outils LCS ou SQL Server Management Studio.
-
-
+  
   Les candidats doivent avoir de l’expérience dans la mise au point de codes en utilisant des langages de programmation orientés objets, l’analyse et la manipulation de données en utilisant le code Transact-SQL et la création et l’exécution de commandes et de scripts Windows PowerShell.
+  
+  <div style='color&#58; red;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta.</div>
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: planifier la conception de l’architecture et de la solution, appliquer les outils du développeur, concevoir et mettre au point des éléments AOT, mettre au point et tester un code, mettre en œuvre un rapport, intégrer et gérer des solutions de données et mettre la sécurité en œuvre et optimiser les performances.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 levels:
 - intermediate
 skills:
-- Planifier la conception de l’architecture et de la solution (10 à 15%)
-- Appliquer les outils du développeur (10 à 15%)
-- Concevoir et mettre au point des éléments AOT (20 à 25%)
-- Mettre au point et tester le code (10 à 15%)
-- Mettre en œuvre le rapport (10 à 15%)
-- Intégrer et gérer des solutions de données (10 à 15%)
-- Mettre la sécurité en œuvre et optimiser les performances (10 à 15%)
+- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Planifier la conception de l’architecture et de la solution (10 à 15 %)
+- Appliquer les outils du développeur (10 à 15 %)
+- Concevoir et mettre au point des éléments AOT (20 à 25 %)
+- Mettre au point et tester le code (10 à 15  %)
+- Mettre en œuvre le rapport (10 à 15 %)
+- Intégrer et gérer des solutions de données (10 à 15 %)
+- Mettre la sécurité en œuvre et optimiser les performances (10 à 15 %)
 roles:
 - developer
-exams:
-- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance-operations
+exams:
+- uid: exam.mb-300
 courses:
 - uid: course.mb-500t00
 paths:
@@ -57,21 +55,27 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-developer-associate
 resources:
+- title: Parcours de formation en vue de la certification
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Support pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md

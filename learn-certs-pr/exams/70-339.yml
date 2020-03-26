@@ -1,22 +1,23 @@
 ### YamlMime:Examination
 title: Managing Microsoft SharePoint Server 2016
 metadata:
-  title: 'Examen 70-339: Managing Microsoft SharePoint Server 2016'
-  description: 'Examen 70-339: Managing Microsoft SharePoint Server 2016'
+  title: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+  description: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: >-
-  L'examen s'adresse aux professionnels de l'informatique expérimentés qui installent, configurent, déploient et gèrent des installations SharePoint 2016 dans un centre de données et dans le cloud. Les candidats possèdent généralement plus de quatre années d'expérience dans la planification et la maintenance de SharePoint, et dans d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2008 R2 ou version ultérieure, Internet Information Services (IIS), SQL Server 2008 R2 ou version ultérieure, Active Directory et les services d'infrastructure réseau.
+summary: |-
+  <div style='color&#58; red;'>Cet examen sera retiré le 30 juin 2020. Il est possible qu'un examen de remplacement soit disponible. Pour en savoir plus, visitez notre blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> vérifiez les postes sur le retrait des examens. Remarque: Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
+  
+  L'examen s'adresse aux professionnels de l'informatique expérimentés qui installent, configurent, déploient et gèrent des installations SharePoint 2016 dans un centre de données et dans le cloud. Les candidats possèdent généralement plus de quatre années d'expérience dans la planification et la maintenance de SharePoint et d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2008 R2 ou une version ultérieure, Internet Information Services (IIS), SQL Server 2008 R2 ou une version ultérieure, Active Directory et les services d'infrastructure réseau.
 
+  Les candidats doivent également maîtriser la gestion de la continuité des activités, y compris la sauvegarde de données, la restauration et la haute disponibilité et connaître les technologies de sécurité et d'authentification. Une expérience avec PowerShell est fortement recommandée.
 
-  Les candidats doivent également maîtriser la gestion de continuité de l'activité, y compris la sauvegarde de données, la restauration et la haute disponibilité, et connaître les technologies de sécurité et d'authentification. Une expérience avec PowerShell est fortement recommandée.
-
-
-  Cet examen s'adresse en second lieu aux administrateurs d'applications d'entreprise qui sont activement impliqués dans l'administration des projets métier conjointement avec les clients commerciaux en interne qui utilisent SharePoint 2016.
-subTitle: L'examen s'adresse aux professionnels de l'informatique expérimentés qui installent, configurent,déploient et gèrent des installations SharePoint 2016 dans un centre de données et dans le cloud. Les candidats possèdent généralement plus de quatre années d'expérience dans la planification et la maintenance de SharePoint, et dans d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2008 R2 ou version ultérieure, Internet Information Services (IIS), SQL Server 2008 R2 ou version ultérieure, Active Directory et les services d'infrastructure réseau.
+  Cet examen s'adresse en second lieu aux administrateurs d'applications d'entreprise qui sont activement impliqués dans l'administration des projets métier conjointement avec les clients commerciaux internes qui utilisent SharePoint 2016.
+subTitle: L'examen s'adresse aux professionnels de l'informatique expérimentés qui installent, configurent, déploient et gèrent des installations SharePoint 2016 dans un centre de données et dans le cloud. Les candidats possèdent généralement plus de quatre années d'expérience dans la planification et la maintenance de SharePoint et d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2008 R2 ou une version ultérieure, Internet Information Services (IIS), SQL Server 2008 R2 ou une version ultérieure, Active Directory et les services d'infrastructure réseau.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -26,17 +27,17 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F70-339
-levels:
+levels: 
 - intermediate
 skills:
-- Conception d'une infrastructure SharePoint (15 à 20%)
-- Planification de l'authentification et de la sécurité (15 à 20%)
-- Planification de l'optimisation de la charge de travail (15 à 20%)
-- Planification de solutions de productivité (15 à 20%)
-- Gestion des capacités de recherche (10 à 15%)
-- Planification et configuration des services cloud (5 à 10%)
-- Surveillance et optimisation d'un environnement SharePoint (10 à 15%)
+- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Conception d'une infrastructure SharePoint (15 à 20 %)
+- Planification de l'authentification et de la sécurité (15 à 20 %)
+- Planification de l'optimisation de la charge de travail (15 à 20 %)
+- Planifier des solutions de productivité (15 à 20 %)
+- Gestion des capacités de recherche (10 à 15 %)
+- Planification et configuration des services cloud (5 à 10 %)
+- Surveillance et optimisation d'un environnement SharePoint (10 à 15 %)
 roles:
 - administrator
 products:
@@ -48,15 +49,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md

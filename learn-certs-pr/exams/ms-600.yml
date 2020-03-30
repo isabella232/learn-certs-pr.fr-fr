@@ -1,8 +1,8 @@
-### YamlMime:Examination
-title: 'Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+﻿### YamlMime:Examination
+title: 'Building Applications and Solutions with Microsoft 365 Core Services'
 metadata:
-  title: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
-  description: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+  title: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
+  description: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
@@ -11,18 +11,16 @@ summary: |-
   Les candidats à cet examen maîtrisent Microsoft Identity et Microsoft Graph. Ils ont des connaissances générales des éléments UI (y compris Adaptive Cards et UI Fabric), des points d’intégration (y compris des équipes Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages) et de la détermination des objectifs de charge de travail de la plateforme.
 
   Les candidats doivent avoir de l’expérience dans le développement de solutions sur Microsoft Teams, Office Add-ins ou SharePoint Framework à travers toutes les phases du développement logiciel. Ils doivent avoir une compréhension de base des API REST, JSON, OAuth2, OData, OpenID Connect, les identités Microsoft (y compris les comptes Azure AD et Microsoft), Azure AD B2C, et les concepts d’autorisation/consentement.
-  
-  <div style='color&#58; red;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta.</div>
-subTitle: 'Cet examen évalue votre capacité à remplir les tâches techniques suivantes: mettre en oeuvre l’identité Microsoft, construire des applications avec Microsoft Graph, étendre et personnaliser SharePoint, étendre Teams et étendre Office.'
+subTitle: "Cet examen évalue votre capacité à remplir les tâches techniques suivantes: mettre en oeuvre l’identité Microsoft, construire des applications avec Microsoft Graph, étendre et personnaliser SharePoint, étendre Teams et étendre Office."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- "REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive."
 - Mettre en œuvre l’identité Microsoft (20 à 25 %)
 - Construire des applications avec Microsoft Graph (20 à 25 %)
 - Étendre et personnaliser SharePoint (20 à 25 %)
@@ -32,6 +30,8 @@ roles:
 - developer
 products:
 - m365
+courses:
+- uid: course.ms-600t00
 paths:
 - uid: learn-m365-pr.extend-office-fundamentals
 relatedCertifications:

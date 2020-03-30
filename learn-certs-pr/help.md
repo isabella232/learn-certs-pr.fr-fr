@@ -1,4 +1,4 @@
----
+﻿---
 title: Aide à la formation et à la certification Microsoft | Microsoft Docs
 description: Aide à la formation et à la certification Microsoft
 documentationcenter: NA
@@ -15,12 +15,14 @@ Vous avez des questions à propos des produits de formation et de certification 
 
 Vous avez encore des questions ? Veuillez consulter nos options de soutien ci-dessous.
 
+Veuillez noter que nous traversons une période de temps de réaction plus longs vis-à-vis des clients en quête d'assistance pour les certifications et les formations. Nous vous sommes reconnaissants de votre patience, dans la mesure où nous nous attachons à traiter toutes les demandes aussi rapidement que possible.
+
 ## Assistance à la certification
 
 | Service d'aide | Coordonnées |
 | ------------- | --- |
-| **Certification Microsoft** | Une réponse à votre question existe peut-être déjà dans notre [Aperçu des certifications techniques](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/> **Forums d'aide à la certification :** <br/>Obtenez de l'aide grâce à nos [forums d'aide à la certification](https://aka.ms/MCPForum) modérés. <br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
-| **Programme Microsoft Certified Trainer (MCT)** | Une réponse à votre question existe peut-être déjà dans notre [aperçu du programme MCT](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **Forums d'aide MCT :** <br/> Obtenez de l'aide grâce à nos [forums d'aide MCT](https://aka.ms/MCTForum).<br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
+| **Certification Microsoft** | Une réponse à votre question existe peut-être déjà dans notre [Aperçu des certifications techniques](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/> **Forums d'aide à la certification:** <br/>Obtenez de l'aide grâce à nos [forums d'aide à la certification](https://aka.ms/MCPForum) modérés. <br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
+| **Programme Microsoft Certified Trainer (MCT)** | Une réponse à votre question existe peut-être déjà dans notre [aperçu du programme MCT](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **Forums d'aide MCT:** <br/> Obtenez de l'aide grâce à nos [forums d'aide MCT](https://aka.ms/MCTForum).<br/><br/> Un modérateur de forum répondra sous 24 heures (jour ouvré). |
 
 ## Assistance à la formation
 

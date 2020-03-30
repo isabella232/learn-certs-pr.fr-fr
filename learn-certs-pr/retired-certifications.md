@@ -1,4 +1,4 @@
----
+﻿---
 title: Examen Microsoft Certifications | Microsoft Docs
 description: Examen Microsoft Certifications
 documentationcenter: NA
@@ -70,13 +70,13 @@ Développez les sections ci-dessous pour afficher la liste des certifications re
 | [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 juin 2019      |
 | [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 juin 2019      |
 
-| Microsoft Certified Solutions Expert | |
+| Microsoft Certified Solutions Expert
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 décembre 2018 |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx) | 30 avril 2019 |
+| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 décembre 2018  |
+| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 avril 2019     |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 septembre 2018 |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | lundi 30 septembre 2019 |
 | MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 août 2019     |
 ___

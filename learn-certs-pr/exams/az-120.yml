@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: 'Planning and Administering Microsoft Azure for SAP Workloads'
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
@@ -8,19 +8,19 @@ displayName: AZ-120
 summary: |-
   Les candidats à cet examen sont des architectes et ingénieurs possédant des connaissances dans le processus de certification du paysage SAP et dans les normes du secteur spécifiques à une opération à long terme d’une solution SAP. Les candidats formulent des recommandations sur les services et ajustent les ressources de manière appropriée pour obtenir résilience, performance, échelle, provision, taille et surveillance optimales.
 
-  Les architectes pour les charges de travail SAP sur Azure doivent avoir une expérience et une connaissance approfondies des applications SAP, de SAP HANA, de S/4HANA, de SAP NetWeaver, de SAP BW, des serveurs OS pour les applications et bases de données SAP, du portail Azure, des modèles ARM, des systèmes d’exploitation, de la virtualisation, de l’infrastructure cloud, des structures de stockage, de la conception de haute disponibilité, de la conception de reprise après sinistre, des concepts de protection des données et de la mise en réseau.
+  Les architectes pour les charges de travail SAP sur Azure doivent avoir une expérience et une connaissance étendues des applications SAP, de SAP HANA, de S/4HANA, de SAP NetWeaver, de SAP BW, des serveurs OS pour les applications et bases de données SAP, du portail Azure, des modèles ARM, des systèmes d’exploitation, de la virtualisation, de l’infrastructure du cloud, des structures de stockage, de la conception de haute disponibilité, de la conception de reprise après sinistre, des concepts de protection des données et de la mise en réseau.
 
   Il est fortement recommandé que les candidats à cet examen possèdent une certification Administrateur Azure ou Azure Architect, en plus des certifications SAP HANA et Linux.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: Migrer les charges de travail SAP dans Azure, concevoir une solution Azure pour soutenir les charges de travail SAP, construire et déployer des charges de travail SAP pour Azure, valider l’infrastructure Azure pour les charges de travail SAP et rendre l’architecture Azure SAP opérationnelle.'
+subTitle: "Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : Migrer les charges de travail SAP dans Azure, concevoir une solution Azure pour soutenir les charges de travail SAP, construire et déployer des charges de travail SAP pour Azure, valider l’infrastructure Azure pour les charges de travail SAP et rendre l’architecture Azure SAP opérationnelle."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 levels:
 - advanced
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- "REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive."
 - Migrer les charges de travail SAP vers Azure (10 à 15 %)
 - Concevoir une solution Azure pour prendre en charge les charges de travail SAP (20 à 25 %)
 - Construire et déployer Azure pour les charges de travail SAP (35 à 40 %)
@@ -34,8 +34,9 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn-pr.wwl.planning-azure-sap-workloads
 - uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty

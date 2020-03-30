@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
@@ -6,11 +6,13 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure. Cela implique la planification et la création d’un environnement de travail propice aux charges de travail de la science des données sur Azure, l’exécution d’expériences de données et la formation de modèles prédictifs, la gestion et l’optimisation des modèles, et le déploiement des modèles d’apprentissage automatiques dans la production.
-subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: mettre en place un espace de travail Azure Machine Learning; exécuter des expériences et former les modèles; optimiser et gérer les modèles; et déployer et consommer les modèles.'
+  <div style='color&#58; red; font-weight&#58; bold;'>Phase 1&#58; Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  
+  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure ; et surtout à l’aide du service d’apprentissage automatique Azure. Cela implique la planification et la création d’un environnement de travail propice aux charges de travail de la science des données sur Azure, l’exécution d’expériences de données et la formation de modèles prédictifs, la gestion et l’optimisation des modèles, et le déploiement des modèles d’apprentissage automatiques dans la production.
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : mettre en place un espace de travail Azure Machine Learning ; exécuter des expériences et former les modèles ; optimiser et gérer les modèles ; et déployer et consommer les modèles.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -19,7 +21,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
 - Mettre en place un espace de travail Azure Machine Learning (30 à 35 %) 
 - Exécuter des expériences et former les modèles (25 à 30 %) 
 - Optimiser et gérer les modèles (20 à 25 %) 
@@ -32,19 +34,11 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

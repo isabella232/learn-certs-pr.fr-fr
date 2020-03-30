@@ -1,8 +1,8 @@
-### YamlMime:Course
-title: Concevoir et mettre en œuvre une solution Data Science sur Azure
+﻿### YamlMime:Course
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Formation DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
-  description: 'Formation DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -20,39 +20,136 @@ products:
 exams:
 - uid: exam.dp-100
 summary: |-
-  Obtenez les connaissances nécessaires à l’utilisation des services Azure pour mettre au point, former et déployer des solutions d'apprentissage machine. Cette formation commence par un aperçu des services Azure qui tiennent compte de la science des données. À partir de là, elle se concentre sur l’utilisation des services de science des données premières de Azure, le service d'apprentissage machine Azure afin d’automatiser le pipeline de la science des données. Cette formation se concentre sur Azure et n’enseigne pas la science des données aux étudiants. Les étudiants doivent déjà la connaître.
+  Apprendre à opérer des solutions d’apprentissage automatique à l’échelle du Cloud à l’aide d’Azure Machine Learning. Cette formation vous enseigne à profiter de vos connaissances de Python et de l’apprentissage automatique pour gérer l’ingestion et la préparation des données, la formation et le déploiement des modèles, et les solutions de suivi de l’apprentissage automatique dans Microsoft Azure.
 
   #### Profil de l’audience
-  Cette formation est destinée aux scientifiques des données qui ont des responsabilités importantes en matière de formation et de déploiement des modèles d'apprentissage machine.
+  Cette formation est conçue pour les scientifiques des données possédant des connaissances des cadres de Python et de l’apprentissage automatique comme Scikit-Learn, PyTorch, et Tensorflow, qui souhaitent développer et concevoir des solutions d’apprentissage automatique dans le Cloud.
 prerequisitesSection: |-
   Avant d'assister à cette formation, les étudiants doivent avoir&#58;
-  - avoir obtenu [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - comprendre la science des données, y compris la préparation des données, la formation des modèles et l’évaluation des modèles en compétition pour choisir le meilleur.
-  - programmer dans la langue de programmation python et utiliser les bibliothèques python&#58; pandas, scikit-learn, matplotlib et seaborn.
+  - Des connaissances fondamentales de Microsoft Azure.
+  - Une expérience dans l’écriture des codes Python pour travailler avec les données, à l’aide des bibliothèques telles que Numpy, Pandas, et Matplotlib. 
+  - Comprendre les sciences des données ; notamment comment préparer les données et former les modèles d’apprentissage automatique à l’aide des bibliothèques communes d’apprentissage automatique telles que Scikit-Learn, PyTorch, ou Tensorflow.
 outlineSection: |-
-  ### Module 1&#58; La science des données sur Azure
-  Les étudiants découvriront le processus de science des données et le rôle du scientifique des données.  Ces connaissances seront ensuite appliquées à la compréhension de la façon dont les services Azure peuvent prendre en charge et augmenter le processus de science des données.
+  ### Module 1&#58; Introduction à Azure Machine Learning
+  Dans ce module, vous apprendrez à provisionner un espace de travail Azure Machine Learning et à l’utiliser pour gérer les ressources d’apprentissage automatique telles que les données, les calculs, le code de formation des modèles, les mesures enregistrées et les modèles formés. Vous apprendrez à utiliser l’interface studio basée Web d’Azure Machine Learning ainsi que les outils SDK et de développeur d’Azure Machine Learning, tels que Visual Studio Code et Jupyter Notebooks pour travailler avec les ressources de votre espace de travail.
+  
   #### Leçons
-  - Introduction au processus de science des données
-  - Introduction aux options de science des données de Azure
-  - Introduction à Azure Notebooks
+  - Premiers pas avec Azure Machine Learning.
+  - Outils d’Azure Machine Learning.
 
+  #### Travaux pratiques&#58; Créer un espace de travail Azure Machine Learning.
+  
+  #### Travaux pratiques &#58; Travailler avec les outils d’Azure Machine Learning.
+  
+  À la fin de ce module, vous serez capables de&#58;
+  - Provisionner un espace de travail Azure Machine Learning.
+  - Utiliser des outils et du code pour travailler avec Azure Machine Learning.
 
-  ### Module 2&#58; Application de la science des données au service d’apprentissage machine Azure
-  Les étudiants découvriront comment utiliser le service d'apprentissage machine Azure (AML) afin d’automatiser le processus de science des données de bout en bout.
+  ### Module 2&#58; Apprentissage automatique sans code avec Designer.
+  Ce module introduit l’outil Designer, une interface glisser-déplacer pour créer des modèles d’apprentissage automatique sans écrire de code. Vous apprendrez à créer un pipeline de formation qui encapsule la préparation des données et la formation des modèles, puis à convertir ce pipeline de formation en un pipeline d’inférence qui peut être utilisé pour prédire des valeurs à partir de nouvelles données, avant de déployer finalement le pipeline d’inférence comme un service à consommer par les applications clients.
   #### Leçons
-  - Introduction au service AML
-  - Enregistrement et déploiement de modèles ML avec le service AML
+  - Modèles de formation avec Designer.
+  - Publication de modèles avec Designer.
+  
+  #### Travaux pratiques&#58; Créer une pipeline de formation avec le Designer d’Azure Machine Learning.
+  #### Travaux pratiques&#58; Déployer un service avec le Designer d’Azure Machine Learning.
+  À la fin de ce module, vous serez capables de&#58;
+  - Utiliser Designer pour former un modèle d’apprentissage automatique.
+  - Déployer un pipeline Designer comme un service.
 
-
-  ### Module 3&#58; Automatisation de l’apprentissage machine avec le service AML
-  Dans ce module, les étudiants découvriront le pipeline d'apprentissage machine et la façon dont AutoML et HyperDrive du service AML peuvent automatiser une partie de ses éléments laborieux.
+  ### Module 3&#58; Exécuter des expériences et des modèles de formation
+  Dans ce module, vous débuterez par des expériences qui encapsulent le traitement des données et le code de formation des modèles, et vous les utiliserez pour former des modèles d’apprentissage automatique.
   #### Leçons
-  - Automatisation de la sélection du modèle d'apprentissage machine
-  - Automatisation du réglage de l’hyperparamètres avec HyperDrive
-
-
-  ### Module 4&#58; Gestion et surveillance des modèles d'apprentissage machine avec le service AML
-  Dans ce module, les étudiants découvriront comment gérer et surveiller automatiquement les modèles d'apprentissage machine dans le service AML.
+  - Introductions aux expériences.
+  - Modèles de formation et d’enregistrement.
+  
+  #### Travaux pratiques&#58; Exécuter des expériences.
+  #### Travaux pratiques&#58; Modèles de formation et d’enregistrement.
+  À la fin de ce module, vous serez capables de&#58;
+  - Exécuter des expériences basées sur le code dans l’espace de travail Azure Machine Learning.
+  - Former et enregistrer des modèles d’apprentissage automatique.
+  
+  ### Module 4&#58; Travailler avec des données
+  Les données sont un élément fondamental de toute charge de travail d’apprentissage automatique, et dans ce module, vous apprendrez à créer et à gérer des magasins de données et des ensembles de données dans un espace de travail Azure Machine Learning, ainsi que la manière de les utiliser dans des expériences de formation de modèles.
   #### Leçons
-  - Gestion et surveillance des modèles d'apprentissage machine
+  - Travailler avec les magasins de données.
+  - Travailler avec les ensembles de données.
+  
+  #### Travaux pratiques&#58; Travailler avec les magasins de données.
+  #### Travaux pratiques&#58; Travailler avec les ensembles de données.
+  À la fin de ce module, vous serez capables de&#58;
+  - Créer et consommer des magasins de données.
+  - Créer et consommer des ensembles de données.
+  
+  
+  ### Module 5&#58; Calculer les contextes
+  L’un des principaux avantages du cloud est la possibilité d’exploiter les ressources de calcul à la demande et de les utiliser pour mettre à l’échelle les processus d’apprentissage automatique dans une mesure qui serait irréalisable sur votre propre matériel. Dans ce module, vous apprendrez à gérer les environnements d’expériences qui garantissent une cohérence de l’exécution pour les expériences, et à créer et utiliser les cibles de calcul lors de l’exécution des expériences.
+  #### Leçons
+  - Travailler avec les environnements.
+  - Travailler avec les cibles de calcul.
+  
+  #### Travaux pratiques&#58; Travailler avec les environnements.
+  #### Travaux pratiques&#58; Travailler avec les cibles de calcul.  
+  À la fin de ce module, vous serez capables de &#58;
+  - Créer et utiliser des environnements.
+  - Créer et utiliser des cibles de calcul.  
+  
+  ### Module 6&#58; Orchestrer des opérations avec Pipelines
+  À présent que vous comprenez les principes de l’exécution des charges de travail comme des expériences qui exploitent les ressources de données et de calcul, il est temps d’apprendre à orchestrer ces charges de travail en pipelines d’étapes connectées. Les pipelines sont essentiels pour la mise en œuvre d’une solution opérationnelle d’apprentissage automatique (ML Ops) dans Azure, ainsi, ce module vous expliquera la manière de les définir et de les exécuter.
+  #### Leçons
+  - Introduction aux pipelines.
+  - Publication et exécution des pipelines.
+  
+  #### Travaux pratiques &#58; Créer un pipeline.
+  #### Travaux pratiques &#58; Publier un pipeline.
+  À la fin de ce module, vous serez capables de&#58;
+  - Créer des pipelines pour automatiser les flux de travail de l’apprentissage automatique.
+  - Publier et exécuter les services de pipeline.
+  
+  ### Module 7&#58; Déployer et consommer des modèles
+  Les modèles sont conçus pour aider dans la prise de décisions par le biais de prédictions ; ainsi, il ne sont utilisés que lorsqu’ils sont déployés et disponibles à consommer par une application. Vous apprendrez dans ce module à déployer des modèles pour l’inférence en temps réel et pour l’inférence en lots.
+  #### Leçons
+  - Inférence en temps réel.
+  - Inférence en lots.
+  
+  #### Travaux pratiques &#58; Créer un service d’inférence en temps réel
+  #### Travaux pratiques &#58; Créer un service d’inférence en lots
+  À la fin de ce module, vous serez capables de&#58;
+  - Publier un modèle en tant que service d’inférence en temps réel.
+  - Publier un modèle en tant que service d’inférence en lots.
+  
+  ### Module 8&#58; Former les modèles optimaux
+  À ce stade de la formation, vous avez appris le processus de bout en bout pour la formation, le déploiement, et la consommation des modèles d’apprentissage automatique; mais comment vous assurer que votre modèle produit les meilleurs résultats prédictifs pour vos données ? Dans ce module, nous explorerons comment vous pouvez utiliser le réglage des hyperparamètres et l’apprentissage automatique automatisé pour profiter de l’informatique à l’échelle du Cloud et découvrir le meilleur modèle pour vos données.
+  #### Leçons
+  - Réglage des hyperparamètres.
+  - Apprentissage automatique automatisé.
+  
+  #### Travaux pratiques &#58; Régler les hyperparamètres.
+  #### Travaux pratiques &#58; Utiliser l’apprentissage automatique automatisé.
+  À la fin de ce module, vous serez capables de&#58;
+  - Optimiser les hyperparamètres pour la formation de modèles.
+  - Utiliser l’apprentissage automatique automatisé pour découvrir le modèle optimal pour vos données.
+  
+  ### Module 9&#58; Interpréter les modèles
+  De nos jours, de nombreuses décisions prises par des organisations et des systèmes automatisés se basent sur des prédictions faires par des modèles d’apprentissage automatique. Il est de plus en plus important de pouvoir comprendre les facteurs qui influencent les prédictions faites par un modèle, et de pouvoir déterminer tout biais involontaire dans le comportement du modèle. Ce module décrit la manière d’interpréter les modèles pour expliquer comment l’importance des caractéristiques détermine leurs prédictions.
+  #### Leçons
+  - Introduction à l’interprétation des modèles.
+  - Utiliser les explicatifs de modèles.
+  
+  #### Travaux pratiques &#58; Revoir les explications de l’apprentissage automatique automatisé.
+  #### Travaux pratiques &#58; Interpréter les modèles.
+  À la fin de ce module, vous serez capables de&#58;
+  - Générer des explications de modèles à l’aide de l’apprentissage automatique automatisé.
+  - Utiliser les explicatifs pour interpréter les modèles d’apprentissage automatique.
+  
+  ### Module 10&#58; Surveiller les modèles
+  Suite au déploiement d’un modèle, il est important de comprendre comment le modèle est utilisé dans la production, et de détecter toute dégradation de son efficacité causée par une dérive de données. Ce module décrit les techniques utilisées pour surveiller les modèles et leurs données.
+  #### Leçons
+  - Surveiller les modèles avec Application Insights.
+  - Surveiller la dérive des données.
+  
+  #### Travaux pratiques &#58; Surveiller un modèle avec Application Insights.
+  #### Travaux pratiques &#58; Surveiller la dérive des données.
+  À la fin de ce module, vous serez capables de&#58;
+  - Utiliser Application Insights pour surveiller un modèle publié.
+  - Surveiller la dérive des données.

@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Règles applicables aux examens et FAQ
 
-Dans le monde entier, nos partenaires et clients attendent de Microsoft des examens et certifications de la plus haute qualité. Les règles applicables aux examens de certification Microsoft ont été conçues pour prendre en charge les objectifs du programme de certification, notamment :
+Dans le monde entier, nos partenaires et clients attendent de Microsoft des examens et certifications de la plus haute qualité. Les règles applicables aux examens de certification Microsoft ont été conçues pour prendre en charge les objectifs du programme de certification, notamment: 
 
 ## <a name="security-policies"></a> Les politiques en matière de sécurité et de rattrapage
 
@@ -21,7 +21,7 @@ Microsoft a mis en œuvre des stratégies spécifiques se rapportant aux domaine
 
 Si un candidat enfreint une règle d'examen, la politique en matière d'examens ou les conditions du contrat lié à l'examen (clause de confidentialité) ou agit d'une manière portant atteinte à la sécurité et à l'intégrité du Microsoft Certification Program de quelle que manière que ce soit, le candidat se verra définitivement interdit de passer des examens de certification Microsoft. En outre, la certification du candidat peut être annulée par le Microsoft Certification Program et les résultats des tests ainsi que les certifications peuvent être révoqués.
 
-Des exemples de conduite inacceptable, d'utilisation abusive et de fraude incluent, sans toutefois s'y limiter, les scénarios suivants :
+Des exemples de conduite inacceptable, d'utilisation abusive et de fraude incluent, sans toutefois s'y limiter, les scénarios suivants: 
 
 - Falsification de relevés de notes, en modifiant et/ou falsifiant les résultats/notes originaux pour tout relevé de notes d'examen
 - Tricherie pendant l'examen (par exemple, en regardant les écrans des autres candidats, en utilisant un appareil non autorisé ou en regardant des notes)
@@ -41,7 +41,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
 ### Procédure d'appel du candidat
 
 1. Les candidats peuvent faire appel de leur exclusion auprès de [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
-2. Un candidat peut faire appel de son exclusion suite à la falsification d'un relevé de notes en soumettant le relevé original (et non des copies numérisées ou électroniques) à :
+2. Un candidat peut faire appel de son exclusion suite à la falsification d'un relevé de notes en soumettant le relevé original (et non des copies numérisées ou électroniques) à:
 
     Microsoft Worldwide Learning Security Team  
     One Microsoft Way  
@@ -54,7 +54,7 @@ Des exemples de conduite inacceptable, d'utilisation abusive et de fraude inclue
 1. Règles relatives d aux examens de rattrapage Microsoft Certified Professional (MCP)
     1. Si un candidat n'obtient pas la note de réussite requise pour un examen la première fois, il doit attendre au minimum 24 heures avant de repasser cet examen.
     2. Si un candidat n'obtient pas la note de passage requise la deuxième fois, il doit attendre au moins 14 jours avant de repasser cet examen pour la troisième fois.
-    3. Un délai d'attente de 14 jours est également imposé pour les quatrième et cinquième sessions de rattrapage de cet examen. Un candidat ne peut pas passer un examen donné plus de cinq fois par an (12 mois). Cette période de 12 mois démarre le jour du cinquième essai infructueux. Le candidat peut alors repasser l'examen dans un délai de 12 mois à compter de cette date. Pour passer un examen donné plus de cinq fois par an ou pour que le délai d'attente entre les tentatives soit annulé, un candidat doit soumettre une demande et obtenir l'autorisation de Microsoft au préalable. Les demandes doivent être envoyées à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Ces demandes doivent comprendre les informations suivantes :
+    3. Un délai d'attente de 14 jours est également imposé pour les quatrième et cinquième sessions de rattrapage de cet examen. Un candidat ne peut pas passer un examen donné plus de cinq fois par an (12 mois). Cette période de 12 mois démarre le jour du cinquième essai infructueux. Le candidat peut alors repasser l'examen dans un délai de 12 mois à compter de cette date. Pour passer un examen donné plus de cinq fois par an ou pour que le délai d'attente entre les tentatives soit annulé, un candidat doit soumettre une demande et obtenir l'autorisation de Microsoft au préalable. Les demandes doivent être envoyées à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Ces demandes doivent comprendre les informations suivantes: 
         - MCID
         - Nom
         - Adresse e-mail
@@ -97,11 +97,19 @@ Microsoft utilisera une analyse statistique des données comme base pour toute a
 
 ### Tests à l'étranger
 
-**Pour pouvoir vous présenter à un examen de certification Microsoft dans un centre de tests Pearson VUE en Inde, en Chine ou au Pakistan, vous devez être un résident légitime dans ce pays. Si vous êtes un résident légitime dans ce pays, notez les points suivants :**
+**Pour pouvoir vous présenter à un examen de certification Microsoft dans un centre de tests Pearson VUE en Inde, en Chine ou au Pakistan, vous devez être un résident légitime dans ce pays. Si vous êtes un résident légitime dans ce pays, notez les points suivants: **
 
 Les centres de tests de ces trois pays doivent confirmer et consigner le fait que chaque candidat à un examen de certification Microsoft a fourni la preuve qu'il est un résident légitime d'un pays spécifique. Pour confirmer son pays de résidence, le candidat doit présenter deux types de pièces d'identité originales (pas de photocopie) et valides (non expirées), l'une étant la pièce d'identité principale (émise par l'état et portant le nom, la photo et la signature) et l'autre une pièce d'identité secondaire (portant le nom et la signature).
 
-**Important : Si vous n'êtes pas un résident légitime en Inde, en Chine ou au Pakistan, vous ne serez pas autorisé à vous présenter à un examen de certification Microsoft dans ce pays.**
+**Important:  Si vous n'êtes pas un résident légitime en Inde, en Chine ou au Pakistan, vous ne serez pas autorisé à vous présenter à un examen de certification Microsoft dans ce pays.**
+
+### Épreuves destinées aux citoyens slovènes ou possédant des pièces d'identité slovènes
+
+En raison des lois sur la vie privée appliquées par la Slovénie, Pearson VUE ne peut fournir d'examens surveillés en ligne aux candidats résidant dans ce pays, ni à ceux possédant des pièces d'identité slovènes. En revanche, ces candidats pourront participer aux épreuves dans un centre d'examen de Pearson VUE.
+
+- Les candidats_résidant_en Slovénie, n'auront que l'option d'un passage en centre d'examen lorsqu'ils programmeront une épreuve.
+
+- Les candidats résidant hors de Slovénie pourront éventuellement voir que l'option de surveillance en ligne est disponible pour l'épreuve, mais ils ne pourront pas valider leur examen s'ils présentent une pièce d'identité slovène (passeport ou autre) pour s'identifier formellement. Ces candidats devront programmer leur épreuve au centre d'examen de Pearson VUE (PVTC).
 
 ### Examen de rattrapage d'un candidat à la demande de Microsoft
 
@@ -118,7 +126,7 @@ Pour des raisons de sécurité et d'intégrité, Microsoft se réserve le droit 
 
 ## Les examens bêta
 
-Environ 400 personnes peuvent passer l'examen bêta à un taux réduit. Afin de profiter de ce taux réduit, vous avez besoin d'un code bêta qui doit être inséré comme faisant partie de votre paiement durant l'enregistrement. Pour obtenir ce code, vous pouvez :
+Environ 400 personnes peuvent passer l'examen bêta à un taux réduit. Afin de profiter de ce taux réduit, vous avez besoin d'un code bêta qui doit être inséré comme faisant partie de votre paiement durant l'enregistrement. Pour obtenir ce code, vous pouvez:
 
 1. Rejoindre notre base de données de profils de SME. Les membres dont les aptitudes s'alignent au contenu de l'examen recevront un courrier électronique contenant ce code ; ce code est unique pour ce groupe. Si vous êtes un membre de notre base de données SME, un accès précoce à la formule beta requiert que vous gardiez votre profil à jour pendant que nous ciblons la distribution de ces codes à ceux qui ont des compétences liées au nouvel examen. (Le programme de base de données de profil d'expert technique est hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter l'article de blog [Aidez-nous à créer du contenu d'examen et de formation!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) Rejoignez notre base de données SME aujourd'hui !)
 2. Regardez les annonces sur Microsoft Learn ou votre [blog communautaire](https://www.microsoft.com/en-us/learning/community-blog.aspx) pour obtenir des informations sur les examens bêta à venir. Ces messages contiendront un code qui pourra être utilisé pour bénéficier d'une réduction sur un examen. Ces publications sont généralement publiées le jour de l'inscription pour un examen bêta. Ce code est différent de celui qui est envoyé aux experts techniques (SME) qui font partie de notre base de données.
@@ -148,7 +156,7 @@ Vous devez confirmer votre statut d'étudiant avant de planifier votre examen, a
 
 ### Vérification de votre statut académique
 
-Sélectionnez la méthode de vérification du statut que vous souhaitez utiliser. Les méthodes incluent :
+Sélectionnez la méthode de vérification du statut que vous souhaitez utiliser. Les méthodes incluent: 
 
 1. Compte de messagerie électronique émis par l'établissement
 2. Les informations d'identification au réseau de l'établissement
@@ -158,7 +166,7 @@ Sélectionnez la méthode de vérification du statut que vous souhaitez utiliser
 
 ## Accord de confidentialité
 
-Mise à jour : Mai 2018
+Mise à jour: Mai 2018
 
 ### ACCORD RELATIF AUX EXAMENS DE CERTIFICATION MICROSOFT
 
@@ -176,7 +184,7 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
 
 2. **CODE DE CONDUITE DU CANDIDAT**
 
-    Vous n'afficherez aucun comportement qui pourrait compromettre la confidentialité ou les résultats de tout examen de certification Microsoft. Les surveillants sont autorisés à prendre immédiatement les mesures appropriées à l'encontre des candidats qui enfreignent les règlements se rapportant aux examens. Vous pouvez être interdit de passer un examen de certification Microsoft et les résultats de votre examen peuvent être annulés si Microsoft pense que Vous avez violé le présent Accord ou avez participé à de graves écarts de conduite. Aucun frais d'examen ne sera remboursé. Des exemples d'écarts de conduite incluent :
+    Vous n'afficherez aucun comportement qui pourrait compromettre la confidentialité ou les résultats de tout examen de certification Microsoft. Les surveillants sont autorisés à prendre immédiatement les mesures appropriées à l'encontre des candidats qui enfreignent les règlements se rapportant aux examens. Vous pouvez être interdit de passer un examen de certification Microsoft et les résultats de votre examen peuvent être annulés si Microsoft pense que Vous avez violé le présent Accord ou avez participé à de graves écarts de conduite. Aucun frais d'examen ne sera remboursé. Des exemples d'écarts de conduite incluent: 
 
     - Fournir l'accès à, divulguer, distribuer, copier, photographier, enregistrer, télécharger, annoncer, afficher, publier ou transmettre un examen ou des Informations relatives à un examen sous quelque forme que ce soit ou de quelque manière que ce soit.
     - Falsifier votre identité ou emprunter l'identité d'une autre personne.
@@ -208,13 +216,13 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
 
 5. **AVIS DE CONFIDENTIALITÉ IMPORTANT ET ACCORD**
 
-    En passant cet examen, vous acceptez que Microsoft, ses filiales et le prestataire de services d'examen puissent :
+    En passant cet examen, vous acceptez que Microsoft, ses filiales et le prestataire de services d'examen puissent: 
 
     1. s'échanger Vos informations personnelles et les données de l'examen dans le but de faire passer l'examen, d'améliorer le programme et l'expérience de test, de permettre des analyses statistiques et d'établir si Vous avez réussi l'examen,
     2. Vous contacter concernant les certificats qui prouvent que Vous avez réussi l'examen ou des informations concernant le Microsoft Certification Program;
     3. partager vos informations personnelles et les résultats de l'examen avec d'autres programmes de Microsoft, par exemple, le programme Microsoft Partner Network, dans le but de vérifier Votre conformité ou celle de Votre employeur aux exigences du programme,
     4. partager Vos informations avec des comités de normes et de certifications affiliés à l'établissement d'enseignement, la société ou l'organisation gouvernementale qui Vous a remis un coupon pour l'examen,
-    5. partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes :
+    5. partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes:
         - une entreprise ou une organisation gouvernementale a acheté des coupons, puis les a remis à ses employés ou sous-traitants,
         - un établissement d'enseignement a acheté des coupons, puis les a remis à ses étudiants ou employés,
         - un établissement d'enseignement ou une organisation gouvernementale a géré un centre d'examens et ne vous a pas demandé de frais distincts pour passer l'examen.
@@ -229,9 +237,9 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
 
 7. **PROPRIÉTÉ ET TOUS DROITS RÉSERVÉS**
 
-    7,1. **Propriété**. Microsoft possède et se réserve tous les droits, titres et intérêts de l'examen de certification Microsoft.
+    7.1. **Propriété**. Microsoft possède et se réserve tous les droits, titres et intérêts de l'examen de certification Microsoft.
 
-    7,2. **Voies de recours**. Outre tous les autres droits et recours prévus par la loi ou le présent Accord, Microsoft se réserve expressément par la présente tous les droits et recours équitables résultant du non-respect du présent Accord et/ou de la violation de tout droit de propriété intellectuelle appartenant à Microsoft.
+    7.2. **Voies de recours**. Outre tous les autres droits et recours prévus par la loi ou le présent Accord, Microsoft se réserve expressément par la présente tous les droits et recours équitables résultant du non-respect du présent Accord et/ou de la violation de tout droit de propriété intellectuelle appartenant à Microsoft.
 
 
 ## Contrat du Microsoft Certification Program
@@ -246,17 +254,16 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
    4. « ***Microsoft Certification*** » signifie la réussite aux examens requis ainsi que la conformité en continu aux conditions de certification ou de recertification régissant le droit d'utilisation du Nom correspondant. La liste actuelle des certifications Microsoft est accessible à partir de [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
    5. « ***Nom de certification Microsoft*** » ou « ***Nom*** » désigne le titre complet ou abrégé d'une certification Microsoft spécifique qui est utilisé pour confirmer la conformité du titulaire aux conditions d'une certification Microsoft spécifique.
    6. « ***Examen de certification Microsoft*** » ou « ***Examen*** » désigne un examen de certification Microsoft spécifique qui permet de vérifier que le candidat maîtrise une technologie Microsoft particulière, objet dudit examen.
-   
 
 2. CERTIFICATION MICROSOFT
-   1. *Obtention et conservation d'une certification Microsoft* : Pour obtenir et conserver une certification Microsoft, vous devez :
-          
+   1. *Obtention et conservation d'une certification Microsoft*:  Pour obtenir et conserver une certification Microsoft, vous devez:
+
         1. réussir tous les examens requis et satisfaire à toutes les conditions de certification ou de recertification de la [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) concernée,
         2. accepter les conditions générales du présent Contrat,
         3. vous conformer aux conditions générales de la version actuelle du Contrat, à toutes les exigences du programme,
         4. vous conformer à toutes les exigences supplémentaires applicables à la certification Microsoft concernée.
 
-   2. *Modifications apportées aux exigences en matière de certification Microsoft* : Microsoft peut, à sa seule discrétion, modifier les exigences en matières de certification Microsoft (à la fois initiales et continues) à tout moment en publiant ces modifications sur le [Site Web de formation et de certification Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) ou sur le [site Web de certification Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based). Vous disposez de trois (3) mois civils à compter de la date de publication des modifications par Microsoft pour vous conformer aux nouvelles conditions ainsi modifiées. Votre droit d'utilisation d'un nom particulier peut être résilié en cas de non-respect de votre part des toutes dernières conditions de certification ou de re-certification associées à un nom particulier.
+   2. *Modifications apportées aux exigences en matière de certification Microsoft*: Microsoft peut, à sa seule discrétion, modifier les exigences en matières de certification Microsoft (à la fois initiales et continues) à tout moment en publiant ces modifications sur le [Site Web de formation et de certification Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) ou sur le [site Web de certification Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based). Vous disposez de trois (3) mois civils à compter de la date de publication des modifications par Microsoft pour vous conformer aux nouvelles conditions ainsi modifiées. Votre droit d'utilisation d'un nom particulier peut être résilié en cas de non-respect de votre part des toutes dernières conditions de certification ou de re-certification associées à un nom particulier.
 
    3. *Violation des dispositions du contrat d'examen*
 
@@ -266,35 +273,35 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
 3. PRESTATIONS DU PROGRAMME
    1. *Prestations du programme fournies par des tiers* Certaines prestations du programme peuvent être fournies par des tiers. Vous reconnaissez et acceptez que votre relation avec ces prestations concerne directement ces tiers et non Microsoft. Microsoft n'est responsable d'aucune prestation du Programme fournie par des tiers et Microsoft ne sponsorise ni ne peut être tenu responsable des prestataires tiers ni de leurs produits ou services.
-   2. *Conditions supplémentaires* : D'autres termes, conditions et licences peuvent s'appliquer aux prestations du Programme. Vous devez accepter et vous conformer à toutes les conditions supplémentaires associées aux prestations du Programme avant de pouvoir bénéficier de ces dernières. Vous ne pouvez pas utiliser une prestation du Programme sans conformité préalable aux conditions et licences supplémentaires applicables.
+   2. *Conditions supplémentaires*: D'autres termes, conditions et licences peuvent s'appliquer aux prestations du Programme. Vous devez accepter et vous conformer à toutes les conditions supplémentaires associées aux prestations du Programme avant de pouvoir bénéficier de ces dernières. Vous ne pouvez pas utiliser une prestation du Programme sans conformité préalable aux conditions et licences supplémentaires applicables.
 
 4. UTILISATION DES NOMS DE CERTIFICATION
-   1. *Cession de droits* : Sous réserve et expressément subordonné à (a) votre respect des conditions générales du présent Contrat et des recommandations, (b) votre satisfaction à toutes les conditions actuelles de la certification Microsoft, (c) votre respect continu de toutes les conditions de certification et de recertification actuelles applicables et (d) votre acceptation des recommandations, Microsoft vous concède le droit d'utiliser le(s) nom(s) pour le(s)quel(s) vous avez obtenu la certification Microsoft comme indiqué sur votre relevé de notes actuel (et pas sur votre ancien relevé de notes) sur le site Web de certification Microsoft, conformément aux recommandations.
+   1. *Cession de droits*: Sous réserve et expressément subordonné à (a) votre respect des conditions générales du présent Contrat et des recommandations, (b) votre satisfaction à toutes les conditions actuelles de la certification Microsoft, (c) votre respect continu de toutes les conditions de certification et de recertification actuelles applicables et (d) votre acceptation des recommandations, Microsoft vous concède le droit d'utiliser le(s) nom(s) pour le(s)quel(s) vous avez obtenu la certification Microsoft comme indiqué sur votre relevé de notes actuel (et pas sur votre ancien relevé de notes) sur le site Web de certification Microsoft, conformément aux recommandations.
 
    2. *Restrictions*: Vous n'êtes pas autorisé à utiliser ou reproduire le noms de quelque manière que ce soit autre que celle décrite dans le présent Contrat et dans les recommandations, ainsi que dans les conceptions graphiques fournies par Microsoft, le cas échéant. Vous utiliserez les noms d'une manière qui ne déroge pas aux droits de Microsoft en matière de noms et vous n'entreprendrez aucune action susceptible d'interférer avec ou de réduire les droits de Microsoft sur les noms ou susceptible de nuire à la réputation de Microsoft ou à la sur valeur associée à ces noms. Vous vous engagez à ne pas utiliser les noms d'une manière ambiguë qui pourrait laisser croire à tort que l'un des produits ou services que vous proposez est un produit ou service Microsoft.
 
-   3. *Propriété* : Tous les droits qui ne sont pas expressément concédés dans le présent document sont réservés à Microsoft. Vous reconnaissez que Microsoft est le seul propriétaire des noms et de toute sur valeur associée et que Microsoft conserve tous les droits, titres et intérêts relatifs aux noms. Microsoft est le seul bénéficiaire de la sur valeur associée à votre utilisation des noms.
+   3. *Propriété*: Tous les droits qui ne sont pas expressément concédés dans le présent document sont réservés à Microsoft. Vous reconnaissez que Microsoft est le seul propriétaire des noms et de toute sur valeur associée et que Microsoft conserve tous les droits, titres et intérêts relatifs aux noms. Microsoft est le seul bénéficiaire de la sur valeur associée à votre utilisation des noms.
 
-   4. *Numéro d'identifiant MC* : Microsoft vous attribuera un numéro d'identifiant Microsoft Certification (ID MC) unique qui permettra de vous identifier en tant que membre du Programme. Ce numéro d'identifiant unique MC appartient à Microsoft et vous pouvez uniquement utiliser le numéro d'identifiant MC qui vous est attribué si vous êtes actuellement membre du Microsoft Certification program.
+   4. *Numéro d'identifiant MC*: Microsoft vous attribuera un numéro d'identifiant Microsoft Certification (ID MC) unique qui permettra de vous identifier en tant que membre du Programme. Ce numéro d'identifiant unique MC appartient à Microsoft et vous pouvez uniquement utiliser le numéro d'identifiant MC qui vous est attribué si vous êtes actuellement membre du Microsoft Certification program.
 
 5. RESPECT DE LA VIE PRIVÉE
 
-   1. *Informations personnelles* : Vous reconnaissez et acceptez le fait que Microsoft puisse collecter certaines informations vous concernant pour exécuter le Programme et que les certifications Microsoft que vous avez obtenues et vos activités de Programme peuvent faire l'objet d'un suivi et être associées à vos informations personnelles. Voir [la déclaration sur le respect de la vie privée en ligne de Microsoft](https://go.microsoft.com/fwlink/?LinkId=248681) pour obtenir plus d'informations sur la façon dont nous pouvons collecter et utiliser vos informations personnelles.
+   1. *Informations personnelles*: Vous reconnaissez et acceptez le fait que Microsoft puisse collecter certaines informations vous concernant pour exécuter le Programme et que les certifications Microsoft que vous avez obtenues et vos activités de Programme peuvent faire l'objet d'un suivi et être associées à vos informations personnelles. Voir [la déclaration sur le respect de la vie privée en ligne de Microsoft](https://go.microsoft.com/fwlink/?LinkId=248681) pour obtenir plus d'informations sur la façon dont nous pouvons collecter et utiliser vos informations personnelles.
 
-   2. *Utilisation des informations personnelles* : Vous convenez que Microsoft peut parfois vous contacter pour vous inviter à participer à des enquêtes et recherches.
+   2. *Utilisation des informations personnelles*: Vous convenez que Microsoft peut parfois vous contacter pour vous inviter à participer à des enquêtes et recherches.
 
-   3. *Divulgation des informations personnelles* : Vous accordez à Microsoft le droit de partager votre nom et vos coordonnées (y compris votre adresse e-mail), le nom de l'entreprise de votre employeur, les noms des certifications que vous avez obtenues et votre statut dans le Programme avec (i) d'autres programmes Microsoft pour vérifier votre conformité et celle de votre employeur aux autres conditions de programme Microsoft et (ii) les sociétés affiliées à Microsoft ainsi qu'avec les prestataires de services d'examen et centres de test tiers qui fournissent des examens de certification Microsoft en rapport avec votre participation au Programme.
+   3. *Divulgation des informations personnelles*: Vous accordez à Microsoft le droit de partager votre nom et vos coordonnées (y compris votre adresse e-mail), le nom de l'entreprise de votre employeur, les noms des certifications que vous avez obtenues et votre statut dans le Programme avec (i) d'autres programmes Microsoft pour vérifier votre conformité et celle de votre employeur aux autres conditions de programme Microsoft et (ii) les sociétés affiliées à Microsoft ainsi qu'avec les prestataires de services d'examen et centres de test tiers qui fournissent des examens de certification Microsoft en rapport avec votre participation au Programme.
 
 6. VOS RESPONSABILITÉS
-   1. *Pratiques commerciales* :
+   1. *Pratiques commerciales*:
 
         1. Vous acceptez (i) de vous abstenir de tout comportement pouvant compromettre la réputation de Microsoft, (ii) d'éviter toute pratique trompeuse, mensongère ou non éthique, (iii) de n'accorder aucune représentation ou garantie aux clients de la part de Microsoft, (iv) de respecter tous les règlements d'exportation des États-Unis en vigueur et les autres lois et réglementations gouvernementales en vigueur et (v) de respecter les droits d'auteur et autres protections des droits de propriété et de propriété intellectuelle.
-        2. Vous n'êtes pas autorisé à faire de la publicité, promouvoir, impliquer ou laisser entendre de quelque manière que ce soit que vous êtes employé par, affilié à, approuvé ou commandité par Microsoft. Vous pouvez uniquement indiquer que vous remplissez parfaitement toutes les exigences des certifications spécifiques que vous avez obtenues. Pendant la durée de ce Contrat, vous devrez inclure la mention suivante dans chaque contrat dans le cadre duquel vous proposez des services impliquant des technologies Microsoft :
-    
-             « *Microsoft n'est pas partie prenante à ce contrat et Microsoft n'aura aucune responsabilité de quelque nature que ce soit en ce qui concerne les services faisant l'objet du présent contrat. Le nom de la certification Microsoft indique que je remplis parfaitement toutes les conditions associées à ladite certification. Les services que je propose ne sont ni commandités ni sponsorisés par Microsoft.* »
+        2. Vous n'êtes pas autorisé à faire de la publicité, promouvoir, impliquer ou laisser entendre de quelque manière que ce soit que vous êtes employé par, affilié à, approuvé ou commandité par Microsoft. Vous pouvez uniquement indiquer que vous remplissez parfaitement toutes les exigences des certifications spécifiques que vous avez obtenues. Pendant la durée de ce Contrat, vous devrez inclure la mention suivante dans chaque contrat dans le cadre duquel vous proposez des services impliquant des technologies Microsoft: 
+
+             «*Microsoft n'est pas partie prenante à ce contrat et Microsoft n'aura aucune responsabilité de quelque nature que ce soit en ce qui concerne les services faisant l'objet du présent contrat. Le nom de la certification Microsoft indique que je remplis parfaitement toutes les conditions associées à ladite certification. Les services que je propose ne sont ni commandités ni sponsorisés par Microsoft.*»
         3. Certains états et pays réglementent l'utilisation du terme « ingénieur » et vous devez vous conformer, le cas échéant, à de telles lois si le nom de votre certification Microsoft fait référence à « Microsoft Certified Systems Engineer ».
 
-   2. *Relevés de notes* : Il vous incombe de vérifier votre relevé de notes des certifications Microsoft pour vous assurer qu'il reflète fidèlement le nom des certifications que vous détenez actuellement. Si vous pensez que votre relevé de notes est inexact, vous avez jusqu'à un (1) an à compter de la date de passage de votre dernier examen pour la certification requise pour soumettre à Microsoft une demande de vérification pour la certification que vous pensez détenir, mais qui n'apparaît pas sur votre relevé de résultats.
+   2. *Relevés de notes*: Il vous incombe de vérifier votre relevé de notes des certifications Microsoft pour vous assurer qu'il reflète fidèlement le nom des certifications que vous détenez actuellement. Si vous pensez que votre relevé de notes est inexact, vous avez jusqu'à un (1) an à compter de la date de passage de votre dernier examen pour la certification requise pour soumettre à Microsoft une demande de vérification pour la certification que vous pensez détenir, mais qui n'apparaît pas sur votre relevé de résultats.
 
 7. MODIFICATIONS
 
@@ -308,16 +315,15 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
    DANS LA MESURE PERMISE PAR LA LOI EN VIGUEUR, EN AUCUN CAS, MICROSOFT OU SES FILIALES NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUT DOMMAGE DIRECT, INDIRECT, SPÉCIAL, ACCIDENTEL, CONSÉCUTIF, PRONONCÉ À TITRE DE SANCTION, SPÉCIAL OU EXEMPLAIRE RÉSULTANT DE OU LIÉ AU PROGRAMME (QU'IL S'AGISSE DES PRESTATIONS OU DE LA RÉSILIATION DU PROGRAMME OU AUTRE), À VOTRE CERTIFICATION MICROSOFT, À L'INCAPACITÉ D'OBTENIR UNE CERTIFICATION MICROSOFT, À L'UTILISATION OU À L'INCAPACITÉ D'UTILISER LES NOMS. CETTE EXCLUSION S'APPLIQUERA À TOUTE THÉORIE JURIDIQUE SUR LAQUELLE TOUTE RÉCLAMATION POUR DE TELS DOMMAGES EST FONDÉE, MÊME SI LES PARTIES ONT ÉTÉ AVISÉES DE LA POSSIBILITÉ DE TELS DOMMAGES.
 
-
 10. INDEMNISATION
 
     Vous acceptez de défendre, d'indemniser et de dégager la responsabilité de Microsoft et de ses filiales contre l'ensemble des réclamations, exigences, coûts, passifs, jugements, pertes, dépenses et dommages-intérêts (***« Réclamation »***) (y compris les honoraires d'avocats) de tiers découlant de, dans le cadre de ou liés à (a) votre participation au Programme, (b) votre utilisation de tout nom d'une manière incompatible avec les termes de ce Contrat, (c) l'exécution, la promotion, la vente ou la distribution de vos services ou (d) la résiliation du présent Contrat par Microsoft conformément aux conditions du présent Contrat. Dans le cas où Microsoft exigerait une indemnisation de votre part au titre de cette disposition, Microsoft vous avisera rapidement par écrit des plaintes engagées contre Microsoft et pour lesquelles l'indemnisation est requise et Microsoft peut, à sa seule discrétion, vous autoriser, via le recours à un conseiller juridique jugé acceptable par Microsoft, à répondre à cette plainte. Vous n'êtes pas autorisé à régler de plainte au nom de Microsoft sans autorisation écrite préalable de la part de ce dernier. Cette autorisation ne pourra pas être refusée sans motif valable. Vous ne pourrez pas non plus publier le règlement de la plainte sans l'autorisation préalable écrite de Microsoft. Microsoft se réserve le droit, à sa seule discrétion, d'assumer l'entier contrôle de la défense à opposer à une telle plainte avec le conseiller juridique de son choix. Dans ce cas, le règlement d'une telle plainte exigeant un paiement de votre part sera soumis à votre approbation écrite préalable. Vous rembourserez à Microsoft, à sa demande, tous les frais raisonnablement encourus par Microsoft pour la défense opposée à une telle plainte, y compris, sans limitation, les honoraires d'avocats, ainsi que tout jugement porté sur ou règlement de la plainte à laquelle ce qui précède se rapporte.
 
 11. RÉSILIATION
 
-    1. *Résiliation sans motif* : L'une ou l'autre partie peut résilier ce Contrat à tout moment, sans motif, moyennant un préavis écrit de trente (30) jours adressé à l'autre partie.
+    1. *Résiliation sans motif*: L'une ou l'autre partie peut résilier ce Contrat à tout moment, sans motif, moyennant un préavis écrit de trente (30) jours adressé à l'autre partie.
 
-    2. *Résiliation avec motif* : Microsoft peut résilier immédiatement ce Contrat après notification écrite dans l'un des cas suivants :
+    2. *Résiliation avec motif*: Microsoft peut résilier immédiatement ce Contrat après notification écrite dans l'un des cas suivants: 
 
         1. Vous n'avez pas respecté l'une ou plusieurs des conditions applicables de la certification ou de la re-certification Microsoft.
         2. Vous n'avez pas respecté les termes de ce Contrat ou les recommandations.
@@ -326,49 +332,48 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
         5. Vous avez participé à des activités interdites par la loi.
         6. Une agence gouvernementale ou un tribunal a constaté que les services que vous avez fournis en rapport avec les technologies Microsoft auxquelles votre certification Microsoft se rapporte sont défectueux, de quelque façon que ce soit.
         7. Vous avez représenté faussement votre statut de certification, association avec des partenaires de Microsoft ou toute autre relation avec Microsoft. En fonction de la gravité de la non-conformité, vous risquez également de vous voir retirer vos certifications de façon permanente et être exclu du Microsoft Certification program. Le cas échéant, vous perdrez également vos certifications Microsoft de façon permanente.
-        
 
-    3. *Résiliation automatique* : Ce Contrat sera automatiquement résilié si vous perdez votre statut de Microsoft Certification Program ou si Microsoft annule le Programme.
+    3. *Résiliation automatique*: Ce Contrat sera automatiquement résilié si vous perdez votre statut de Microsoft Certification Program ou si Microsoft annule le Programme.
 
-    4. *Effets de la résiliation* : Dans tous les cas de résiliation du présent contrat, tous les droits qui vous ont été concédés en vertu du programme sont immédiatement résiliés. Vous devrez immédiatement :
+    4. *Effets de la résiliation*: Dans tous les cas de résiliation du présent contrat, tous les droits qui vous ont été concédés en vertu du programme sont immédiatement résiliés. Vous devrez immédiatement: 
 
           1. cesser toutes les activités relatives au programme,
           2. arrêter de vous identifier en tant que participant au Programme,
           3. cesser toute utilisation des noms et prestations du Programme,
           4. détruire le matériel associé que vous avez reçu dans le cadre du Programme.
 
-    5. *Survie* : Les sections 1 et toutes les autres définitions du présent Contrat, 2.3, 4.3, 4.4, 8, 9, 10, 11.4, 11.5 et 12 resteront en vigueur après la résiliation de ce Contrat. Vous acceptez que Microsoft, ses filiales et ses succursales ne puissent pas être tenus responsables envers vous ou un tiers des coûts ou dommages de quelque sorte que ce soit résultant de (a) la résiliation du présent Contrat conformément à ses termes et (b) votre suspension ou exclusion du Programme.
+    5. *Survie*: Les sections 1 et toutes les autres définitions du présent Contrat, 2.3, 4.3, 4.4, 8, 9, 10, 11.4, 11.5 et 12 resteront en vigueur après la résiliation de ce Contrat. Vous acceptez que Microsoft, ses filiales et ses succursales ne puissent pas être tenus responsables envers vous ou un tiers des coûts ou dommages de quelque sorte que ce soit résultant de (a) la résiliation du présent Contrat conformément à ses termes et (b) votre suspension ou exclusion du Programme.
 
 12. DIVERS
-    1. *Notifications* : Les avis peuvent être fournis par courrier électronique ou courrier physique. Toutes les notifications dans le cadre de ce Contrat seront envoyées à l'entité contractante de Microsoft identifiée à la section 12.4 ci-dessous, à l'attention du Microsoft Certification Program. Toutes les notifications dans le cadre de ce Contrat vous seront envoyées à l'adresse électronique la plus récente fournie à Microsoft par vos soins. Il vous incombe d'informer Microsoft de toute éventuelle modification apportée à vos coordonnées (adresse e-mail).
+    1. *Notifications*: Les avis peuvent être fournis par courrier électronique ou courrier physique. Toutes les notifications dans le cadre de ce Contrat seront envoyées à l'entité contractante de Microsoft identifiée à la section 12.4 ci-dessous, à l'attention du Microsoft Certification Program. Toutes les notifications dans le cadre de ce Contrat vous seront envoyées à l'adresse électronique la plus récente fournie à Microsoft par vos soins. Il vous incombe d'informer Microsoft de toute éventuelle modification apportée à vos coordonnées (adresse e-mail).
 
-    2. *Non-exclusivité* : Votre participation à ce Programme est volontaire. Rien dans ce Contrat ne vous empêche de soutenir, promouvoir, distribuer ou utiliser une technologie autre que Microsoft.
+    2. *Non-exclusivité*: Votre participation à ce Programme est volontaire. Rien dans ce Contrat ne vous empêche de soutenir, promouvoir, distribuer ou utiliser une technologie autre que Microsoft.
 
-    3. *Relation* : Les parties sont des prestataires indépendants. Le présent Contrat ne crée pas une relation employeur-employé, un partenariat, une co-entreprise, une relation d'agence ou une franchise. Vous ne pouvez donner aucune garantie, ni faire aucune promesse au nom de Microsoft.
+    3. *Relation*: Les parties sont des prestataires indépendants. Le présent Contrat ne crée pas une relation employeur-employé, un partenariat, une co-entreprise, une relation d'agence ou une franchise. Vous ne pouvez donner aucune garantie, ni faire aucune promesse au nom de Microsoft.
 
-    4. *Entité contractante Microsoft* : L'entité contractante Microsoft du présent Contrat dépend du pays ou de la région d'implantation de votre activité. Voir les détails ci-dessous :
+    4. *Entité contractante Microsoft*: L'entité contractante Microsoft du présent Contrat dépend du pays ou de la région d'implantation de votre activité. Voir les détails ci-dessous:
 
-       1. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après : Anguilla, Antigua-et-Barbuda, Argentine, Aruba, Bahamas, Barbade, Belize, Bermudes, Bolivie, Brésil, Canada, Îles Caïmans, Chili, Colombie, Costa Rica, Curaçao, Dominique, République dominicaine, Équateur, Salvador, Guyane française, Grenade, Guam, Guatemala, Guyana, Haïti, Honduras, Jamaïque, Martinique, Mexique, Montserrat, anciennes Antilles néerlandaises, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, Saint-Kitts-et-Nevis, Sainte-Lucie, Saint Pierre et Miquelon, Saint-Vincent-et-les Grenadines, Surinam, Trinité-et-Tobago, Turks et Caicos (îles), États-unis, Uruguay, Venezuela, Îles Vierges (britanniques) et îles Vierges américaines (États-Unis) :  
+       1. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après: Anguilla, Antigua-et-Barbuda, Argentine, Aruba, Bahamas, Barbade, Belize, Bermudes, Bolivie, Brésil, Canada, Îles Caïmans, Chili, Colombie, Costa Rica, Curaçao, Dominique, République dominicaine, Équateur, Salvador, Guyane française, Grenade, Guam, Guatemala, Guyana, Haïti, Honduras, Jamaïque, Martinique, Mexique, Montserrat, anciennes Antilles néerlandaises, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, Saint-Kitts-et-Nevis, Sainte-Lucie, Saint Pierre et Miquelon, Saint-Vincent-et-les Grenadines, Surinam, Trinité-et-Tobago, Turks et Caicos (îles), États-unis, Uruguay, Venezuela, Îles Vierges (britanniques) et îles Vierges américaines (États-Unis):  
 
            Microsoft Corporation  
            One Microsoft Way  
            Redmond, WA 98052 USA  
 
-       2. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après : Afghanistan, Albanie, Algérie, Andorre, Angola, Arménie, Autriche, Azerbaïdjan, Bahreïn, Biélorussie, Belgique, Bénin, Bosnie-Herzégovine, Botswana, Île Bouvet, Bulgarie, Burkina Faso, Burundi, Cameroun, République centrafricaine, Tchad, Comores, Congo, Côte d'Ivoire, Croatie, Chypre, République tchèque, République démocratique de Sao Tomé-et-Principe, République démocratique du Congo, Danemark, Djibouti, Égypte, Estonie, Éthiopie, Îles Féroé, Finlande, France, Gabon, Gambie, Géorgie, Allemagne, Ghana, Gibraltar, Grèce, Groenland, Guadeloupe, Guinée-Bissau, Hongrie, Irlande, Islande, Israël, Italie, Jordanie, Kazakhstan, Kenya, Kosovo, Kirghizistan, Koweït, Lettonie, Liban, Lesotho, Liberia, Liechtenstein, Lituanie, Luxembourg, Libye, Macédoine, Madagascar, Malawi, Mali, Malte, Maurice, Mauritanie, Moldavie, Monaco, Mongolie, Monténégro, Maroc, Mozambique, Namibie, Pays-Bas, Nouvelle-Calédonie, Niger, Nigeria, Norvège, Oman, Pakistan, Pologne, Portugal, Qatar, République du Cap-vert, République de Guinée équatoriale, République de Guinée, République du Sénégal, Île de la Réunion, Roumanie, Fédération de Russie, République rwandaise, Saint-Hélène, Saint-Marin, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Slovaquie, Slovénie, Somalie, Afrique du Sud, Espagne, Archipel du Svalbard et Jan Mayen, Swaziland, Suède, Suisse, Tadjikistan, Tanzanie, Togo, Tunisie, Turkménistan, Turquie, Ouganda, Ukraine, Émirats arabes unis, Royaume-Uni, Ouzbékistan, État de la Cité du Vatican, Yémen, Zaïre, Zambie et Zimbabwe :  
+       2. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après: Afghanistan, Albanie, Algérie, Andorre, Angola, Arménie, Autriche, Azerbaïdjan, Bahreïn, Biélorussie, Belgique, Bénin, Bosnie-Herzégovine, Botswana, Île Bouvet, Bulgarie, Burkina Faso, Burundi, Cameroun, République centrafricaine, Tchad, Comores, Congo, Côte d'Ivoire, Croatie, Chypre, République tchèque, République démocratique de Sao Tomé-et-Principe, République démocratique du Congo, Danemark, Djibouti, Égypte, Estonie, Éthiopie, Îles Féroé, Finlande, France, Gabon, Gambie, Géorgie, Allemagne, Ghana, Gibraltar, Grèce, Groenland, Guadeloupe, Guinée-Bissau, Hongrie, Irlande, Islande, Israël, Italie, Jordanie, Kazakhstan, Kenya, Kosovo, Kirghizistan, Koweït, Lettonie, Liban, Lesotho, Liberia, Liechtenstein, Lituanie, Luxembourg, Libye, Macédoine, Madagascar, Malawi, Mali, Malte, Maurice, Mauritanie, Moldavie, Monaco, Mongolie, Monténégro, Maroc, Mozambique, Namibie, Pays-Bas, Nouvelle-Calédonie, Niger, Nigeria, Norvège, Oman, Pakistan, Pologne, Portugal, Qatar, République du Cap-vert, République de Guinée équatoriale, République de Guinée, République du Sénégal, Île de la Réunion, Roumanie, Fédération de Russie, République rwandaise, Saint-Hélène, Saint-Marin, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Slovaquie, Slovénie, Somalie, Afrique du Sud, Espagne, Archipel du Svalbard et Jan Mayen, Swaziland, Suède, Suisse, Tadjikistan, Tanzanie, Togo, Tunisie, Turkménistan, Turquie, Ouganda, Ukraine, Émirats arabes unis, Royaume-Uni, Ouzbékistan, État de la Cité du Vatican, Yémen, Zaïre, Zambie et Zimbabwe:  
 
            Microsoft Ireland Operations Limited   
            The Atrium, Block B, Carmenhall Road   
            Sandyford Industrial Estate   
            Dublin, 18, Ireland   
 
-       3. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après : Australie ou ses territoires extérieurs, Bangladesh, Bhoutan, Brunéi Darussalam, Cambodge, Îles Cook, Fidji, Polynésie française, Terres australes françaises, Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, Macao, Malaisie, Maldives, Îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nouvelle-Zélande, Nioué, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Singapour, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam : 
+       3. L'entité Microsoft pour les pays ou régions suivants est mentionnée ci-après: Australie ou ses territoires extérieurs, Bangladesh, Bhoutan, Brunéi Darussalam, Cambodge, Îles Cook, Fidji, Polynésie française, Terres australes françaises, Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, Macao, Malaisie, Maldives, Îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nouvelle-Zélande, Nioué, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Singapour, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam: 
 
            Microsoft Regional Sales Corporation   
            438B Alexandra Road #04-09/12   
            Block B, Alexandra Technopark   
            Singapore 119968   
 
-       4. L'entité Microsoft pour le Japon est :   
+       4. L'entité Microsoft pour le Japon est:   
 
            Microsoft Japan Company, Limited   
            Shinagawa Grand Central Tower   
@@ -376,20 +381,20 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
            Tokyo 108-0075   
            Japon
 
-       5. L'entité Microsoft pour Taiwan est :   
+       5. L'entité Microsoft pour Taiwan est:   
 
            Microsoft Taiwan Corporation   
            8F, No 7, Sungren Rd.   
            Shinyi Chiu, Taipei   
            Taiwan 110  
 
-       6. L'entité Microsoft pour la République populaire de Chine est :   
+       6. L'entité Microsoft pour la République populaire de Chine est:   
 
            Microsoft (China) Company Limited6F Sigma Center   
            No. 49 Zhichun Road Haidian District   
            Beijing 100080, P.R.C   
 
-       7. L'entité Microsoft pour la République de Corée est :   
+       7. L'entité Microsoft pour la République de Corée est:   
 
            Microsoft Korea, Inc.   
            5th Floor, West Wing   
@@ -399,39 +404,39 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
     5. *Loi en vigueur*. La loi en vigueur, la juridiction et le lieu de ce contrat sont identifiés ci-dessous. Ce choix de la juridiction compétente et du lieu n'empêche pas l'une ou l'autre des parties de demander une injonction pour violation des droits de propriété intellectuelle, des obligations de confidentialité ou pour imposer l'exécution de toute sentence ou ordonnance rendue. Une injonction ou l'exécution d'une sentence peuvent être obtenues auprès de toute juridiction appropriée.
         1. **Généralités**. Sauf dans les cas prévus à la section 12.5(b), les lois de l'État de Washington régissent le présent Contrat. Si des lois fédérales existent, les parties reconnaissent la compétence d'attribution et la compétence territoriale exclusives des tribunaux fédéraux de King County, Washington. Dans le cas contraire, les parties reconnaissent la compétence d'attribution et la compétence territoriale exclusives de la Cour supérieure du King County, Washington.
-        2. **Autres conditions** : Si votre principal lieu d'activité se trouve dans l'un des pays ou régions énumérés ci-dessous, la disposition correspondante s'applique et remplace la Section 12.5(a) dans la mesure où cette dernière n'est pas cohérente :
-            1. Si votre principal lieu d'activité se trouve dans l'un des pays suivants : Australie ou ses territoires extérieurs, Bangladesh, Bhoutan, Brunéi Darussalam, Cambodge, Îles Cook, Fidji, Polynésie française, Terres australes françaises, SAR de Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, SAR de Macao, Malaisie, Maldives, Îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nouvelle-Zélande, Nioué, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Singapour, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam, le présent Contrat est interprété et régi par les lois de Singapour.
-                1. Si votre principal lieu d'activité se trouve dans l'un des pays suivants : Australie ou ses territoires extérieurs, Brunei, Malaisie, Nouvelle Zélande ou Singapour, vous consentez à la compétence non exclusive des tribunaux de Singapour.
-                2. Si votre principal lieu d'activité se trouve dans l'un des pays suivants : Bangladesh, Bhoutan, Cambodge, Fidji, Îles Cook, Polynésie française, Terres australes françaises, SAR de Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, SAR de Macao, Maldives, îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nioué, îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam, tout litige lié au présent contrat, y compris toute question concernant son existence, sa validité ou sa résiliation, sera visé et résolu par arbitrage à Singapour conformément aux Règles d'arbitrage du Centre d'arbitrage international de Singapour (« SIAC »). Les Règles d'arbitrage du SIAC sont incorporées par référence au présent Contrat. Le Tribunal d'arbitrage se compose d'un arbitre nommé par le président du SIAC. La langue de l'arbitrage est l'anglais. La décision prise par l'arbitre est définitive, contraignante et incontestable. Elle peut en outre servir de fondement à un jugement rendu à ce propos au Bangladesh, en Inde, en Indonésie, aux Philippines, au Sri Lanka, en Thaïlande ou au Vietnam (le cas échéant) ou ailleurs.
+        2. **Autres conditions**:  Si votre principal lieu d'activité se trouve dans l'un des pays ou régions énumérés ci-dessous, la disposition correspondante s'applique et remplace la Section 12.5(a) dans la mesure où cette dernière n'est pas cohérente: 
+            1. Si votre principal lieu d'activité se trouve dans l'un des pays suivants:  Australie ou ses territoires extérieurs, Bangladesh, Bhoutan, Brunéi Darussalam, Cambodge, Îles Cook, Fidji, Polynésie française, Terres australes françaises, SAR de Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, SAR de Macao, Malaisie, Maldives, Îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nouvelle-Zélande, Nioué, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Singapour, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam, le présent Contrat est interprété et régi par les lois de Singapour.
+                1. Si votre principal lieu d'activité se trouve dans l'un des pays suivants:  Australie ou ses territoires extérieurs, Brunei, Malaisie, Nouvelle Zélande ou Singapour, vous consentez à la compétence non exclusive des tribunaux de Singapour.
+                2. Si votre principal lieu d'activité se trouve dans l'un des pays suivants:  Bangladesh, Bhoutan, Cambodge, Fidji, Îles Cook, Polynésie française, Terres australes françaises, SAR de Hong Kong, Inde, Indonésie, Kiribati, République démocratique populaire Lao, SAR de Macao, Maldives, îles Marshall, Mayotte, Micronésie, Nauru, Népal, Nioué, îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Pitcairn, Samoa, Îles Salomon, Sri Lanka, Thaïlande, Timor-Leste, Tokélaou, Tonga, Tuvalu, Wallis et Futuna, Vanuatu et Vietnam, tout litige lié au présent contrat, y compris toute question concernant son existence, sa validité ou sa résiliation, sera visé et résolu par arbitrage à Singapour conformément aux Règles d'arbitrage du Centre d'arbitrage international de Singapour (« SIAC »). Les Règles d'arbitrage du SIAC sont incorporées par référence au présent Contrat. Le Tribunal d'arbitrage se compose d'un arbitre nommé par le président du SIAC. La langue de l'arbitrage est l'anglais. La décision prise par l'arbitre est définitive, contraignante et incontestable. Elle peut en outre servir de fondement à un jugement rendu à ce propos au Bangladesh, en Inde, en Indonésie, aux Philippines, au Sri Lanka, en Thaïlande ou au Vietnam (le cas échéant) ou ailleurs.
 
-            2. Si votre principal lieu d'activité se trouve au Japon, les dispositions suivantes s'appliquent : Le Contrat est interprété et régi par les lois du Japon. Vous consentez à la compétence exclusive du Tribunal de district de Tokyo ainsi qu'à ce lieu exclusif pour régler les litiges. La partie gagnante de toute action liée au présent Contrat peut être remboursée des dépenses raisonnables engagées pour sa défense (honoraires d'avocat et autres).
+            2. Si votre principal lieu d'activité se trouve au Japon, les dispositions suivantes s'appliquent:  Le Contrat est interprété et régi par les lois du Japon. Vous consentez à la compétence exclusive du Tribunal de district de Tokyo ainsi qu'à ce lieu exclusif pour régler les litiges. La partie gagnante de toute action liée au présent Contrat peut être remboursée des dépenses raisonnables engagées pour sa défense (honoraires d'avocat et autres).
 
-            3. Si votre principal lieu d'activité se trouve dans l'un des pays suivants : Afghanistan, Albanie, Algérie, Andorre, Angola, Arménie, Autriche, Azerbaïdjan, Bahreïn, Biélorussie, Belgique, Bénin, Bosnie-Herzégovine, Botswana, Île Bouvet, Bulgarie, Burkina Faso, Burundi, Cameroun, République centrafricaine, Tchad, Comores, Congo, Côte d'Ivoire, Croatie, Chypre, République tchèque, République démocratique de Sao Tomé-et-Principe, Danemark, Djibouti, Égypte, Estonie, Éthiopie, Îles Féroé, Finlande, France, Gabon, Gambie, Géorgie, Allemagne, Ghana, Gibraltar, Grèce, Groenland, Guadeloupe, Guinée-Bissau, Hongrie, Irlande, Islande, Israël, Italie, Jordanie, Kazakhstan, Kenya, Kosovo, Kirghizistan, Koweït, Lettonie, Liban, Lesotho, Liberia, Liechtenstein, Lituanie, Luxembourg, Libye, Macédoine, Madagascar, Malawi, Mali, Malte, Maurice, Mauritanie, Moldavie, Monaco, Mongolie, Monténégro, Maroc, Mozambique, Namibie, Pays-Bas, Nouvelle-Calédonie, Niger, Nigeria, Norvège, Oman, Pakistan, Pologne, Portugal, Qatar, République du Cap-Vert, République de Guinée équatoriale, République de Guinée, République du Sénégal, Île de la Réunion, Roumanie, Fédération de Russie, République rwandaise, Sainte-Hélène, Saint-Marin, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Slovaquie, Slovénie, Somalie, Afrique du Sud, Espagne, Archipel du Svalbard et Jan Mayen, Swaziland, Suède, Suisse, Tadjikistan, Tanzanie, Togo, Tunisie, Turkménistan, Turquie, Ouganda, Ukraine, Émirats arabes unis, Royaume-Uni, Ouzbékistan, État de la Cité du Vatican, Yémen, Zaïre, Zambie ou Zimbabwe, les dispositions suivantes s'appliquent :  
+            3. Si votre principal lieu d'activité se trouve dans l'un des pays suivants:  Afghanistan, Albanie, Algérie, Andorre, Angola, Arménie, Autriche, Azerbaïdjan, Bahreïn, Biélorussie, Belgique, Bénin, Bosnie-Herzégovine, Botswana, Île Bouvet, Bulgarie, Burkina Faso, Burundi, Cameroun, République centrafricaine, Tchad, Comores, Congo, Côte d'Ivoire, Croatie, Chypre, République tchèque, République démocratique de Sao Tomé-et-Principe, Danemark, Djibouti, Égypte, Estonie, Éthiopie, Îles Féroé, Finlande, France, Gabon, Gambie, Géorgie, Allemagne, Ghana, Gibraltar, Grèce, Groenland, Guadeloupe, Guinée-Bissau, Hongrie, Irlande, Islande, Israël, Italie, Jordanie, Kazakhstan, Kenya, Kosovo, Kirghizistan, Koweït, Lettonie, Liban, Lesotho, Liberia, Liechtenstein, Lituanie, Luxembourg, Libye, Macédoine, Madagascar, Malawi, Mali, Malte, Maurice, Mauritanie, Moldavie, Monaco, Mongolie, Monténégro, Maroc, Mozambique, Namibie, Pays-Bas, Nouvelle-Calédonie, Niger, Nigeria, Norvège, Oman, Pakistan, Pologne, Portugal, Qatar, République du Cap-Vert, République de Guinée équatoriale, République de Guinée, République du Sénégal, Île de la Réunion, Roumanie, Fédération de Russie, République rwandaise, Sainte-Hélène, Saint-Marin, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Slovaquie, Slovénie, Somalie, Afrique du Sud, Espagne, Archipel du Svalbard et Jan Mayen, Swaziland, Suède, Suisse, Tadjikistan, Tanzanie, Togo, Tunisie, Turkménistan, Turquie, Ouganda, Ukraine, Émirats arabes unis, Royaume-Uni, Ouzbékistan, État de la Cité du Vatican, Yémen, Zaïre, Zambie ou Zimbabwe, les dispositions suivantes s'appliquent:  
             Le Contrat est interprété et régi selon les lois de l'Irlande. Vous reconnaissez la compétence d'attribution et la compétence territoriale des tribunaux irlandais pour tous les litiges relatifs à ce contrat.
 
-            4. Si votre principal lieu d'activité se trouve en République populaire de Chine, les dispositions suivantes s'appliquent. Aux fins du présent Contrat, la République populaire de Chine n'inclut pas le SAR de Hong Kong, le SAR de Macao ni Taïwan :  
+            4. Si votre principal lieu d'activité se trouve en République populaire de Chine, les dispositions suivantes s'appliquent. Aux fins du présent Contrat, la République populaire de Chine n'inclut pas le SAR de Hong Kong, le SAR de Macao ni Taïwan:  
             Le Contrat est interprété et régi par les lois de la République populaire de Chine. Vous consentez à soumettre tout litige relatif au présent Contrat ou relatif à l'un de ses addendas à l'arbitrage exécutoire. L'arbitrage se déroulera à la Commission chinoise d'arbitrage pour l'économie et le Commerce international("CIETAC")de Pékin. La décision sera prise conformément aux règles alors en vigueur.
 
-            5. Si votre principal lieu d'activité se trouve en Colombie ou en Uruguay, les dispositions suivantes s'appliquent :  
+            5. Si votre principal lieu d'activité se trouve en Colombie ou en Uruguay, les dispositions suivantes s'appliquent:  
             Tous les litiges, toutes les plaintes ou procédures engagés entre les parties concernant la validité, l'interprétation ou l'exécution du présent Contrat seront réglés par arbitrage. L'arbitrage s'effectuera selon les règles d'arbitrage de la UNCITRAL actuellement en vigueur. L'autorité investie du pouvoir de nomination sera la Chambre de commerce internationale (« CCI ») qui agira conformément aux règles adoptées par la CCI à cet effet. Le lieu de l'arbitrage sera Seattle, dans l'État de Washington aux États-Unis. Il n'y aura qu'un seul arbitre. Le jugement sera rendu sur la base du droit, sans souci d'équité. Ce jugement sera définitif et exécutoire pour les deux parties. Les parties aux présentes conviennent irrévocablement de soumettre tous les litiges en rapport avec le présent Contrat à l'arbitrage de la ville de Seattle, dans l'État de Washington, aux États-Unis.
 
-            6. Si votre principal lieu d'activité se trouve en République de Corée, les dispositions suivantes s'appliquent : Le Contrat est interprété et régi par les lois de la République de Corée. Vous consentez à la compétence exclusive du Tribunal de district central de Séoul ainsi qu'à ce lieu exclusif pour régler les litiges. Suite à toute action entreprise pour faire valoir un droit ou un recours en vertu du présent Contrat ou pour interpréter une disposition du présent Contrat, la partie gagnante sera en droit d'être remboursée des dépenses raisonnables engagées pour sa défense (honoraires d'avocat et autres).
+            6. Si votre principal lieu d'activité se trouve en République de Corée, les dispositions suivantes s'appliquent:  Le Contrat est interprété et régi par les lois de la République de Corée. Vous consentez à la compétence exclusive du Tribunal de district central de Séoul ainsi qu'à ce lieu exclusif pour régler les litiges. Suite à toute action entreprise pour faire valoir un droit ou un recours en vertu du présent Contrat ou pour interpréter une disposition du présent Contrat, la partie gagnante sera en droit d'être remboursée des dépenses raisonnables engagées pour sa défense (honoraires d'avocat et autres).
 
-            7. Si votre principal lieu d'activité se trouve à Taïwan, les dispositions suivantes s'appliquent :  
+            7. Si votre principal lieu d'activité se trouve à Taïwan, les dispositions suivantes s'appliquent:   
             Le Contrat est interprété et régi selon les lois en vigueur à Taïwan. Par la présente, les parties désignent le tribunal de district de Taipei comme le tribunal de première instance ayant compétence pour arbitrer tout litige découlant de ou en relation avec le présent Contrat.
-    6. *Honoraires d'avocats* : Si l'une ou l'autre partie emploie des avocats pour faire valoir des droits découlant de ou relatifs à ce Contrat, la partie gagnante aura le droit de recouvrer ses honoraires d'avocats, coûts et autres frais raisonnables, y compris les coûts et les frais encourus dans le cadre d'un appel, d'une faillite ou d'une action similaire
+    6. *Honoraires d'avocats*: Si l'une ou l'autre partie emploie des avocats pour faire valoir des droits découlant de ou relatifs à ce Contrat, la partie gagnante aura le droit de recouvrer ses honoraires d'avocats, coûts et autres frais raisonnables, y compris les coûts et les frais encourus dans le cadre d'un appel, d'une faillite ou d'une action similaire
 
-    7. *Indépendance des clauses* : Si une cour de la juridiction compétente juge une clause de ce Contrat illégale, non valide ou non applicable, les clauses restantes demeurent pleinement applicables.
+    7. *Indépendance des clauses*: Si une cour de la juridiction compétente juge une clause de ce Contrat illégale, non valide ou non applicable, les clauses restantes demeurent pleinement applicables.
 
-    8. *Non-renonciation* : Tout retard ou manquement par Microsoft concernant l'exercice d'un droit ou d'un recours ne résultera pas en une renonciation à ce dernier, ni à tout autre droit ou recours.
+    8. *Non-renonciation*: Tout retard ou manquement par Microsoft concernant l'exercice d'un droit ou d'un recours ne résultera pas en une renonciation à ce dernier, ni à tout autre droit ou recours.
 
-    9. *Cession* : Vous vous engagez à ne pas céder, transférer ou concéder le présent Contrat ou tout droit accordé en vertu du présent Contrat, de quelque manière que ce soit, et toute tentative de cession, de transfert ou d'octroi de sous-licence, en vertu de la loi ou autre, sera jugée nulle et non avenue.
+    9. *Cession*: Vous vous engagez à ne pas céder, transférer ou concéder le présent Contrat ou tout droit accordé en vertu du présent Contrat, de quelque manière que ce soit, et toute tentative de cession, de transfert ou d'octroi de sous-licence, en vertu de la loi ou autre, sera jugée nulle et non avenue.
 
-Mise à jour : Décembre 2013
+Mise à jour: Décembre 2013
 
 ## Constitution d'une demande de crédit universitaire pour certaines certifications et certains programmes professionnels
 
-Il est possible que vous soyez éligible pour recevoir des crédits universitaires via Excelsior College, une institution accréditée régionalement. Le Service national de recommandation de crédit des collèges (NCCRS) a établi des recommandations en matière de crédit pour les examens de certification Microsoft suivants :
+Il est possible que vous soyez éligible pour recevoir des crédits universitaires via Excelsior College, une institution accréditée régionalement. Le Service national de recommandation de crédit des collèges (NCCRS) a établi des recommandations en matière de crédit pour les examens de certification Microsoft suivants: 
 
 **Examens de certification Microsoft**
 
@@ -455,63 +460,78 @@ AZ-201: Microsoft Azure Developer Advanced Solutions
 
 ### Processus de demande de crédits
 
-Pour demander un crédit, procédez comme suit :
+Pour demander un crédit, procédez comme suit:
 
-Étape 1 : Complétez la [demande](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) et envoyez-la par **e-mail à** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) avec la vérification de vos qualifications (les options sont fournies ci-dessous). **N'envoyez PAS de demande ou de courriel à Microsoft**.
+Étape 1: Complétez la [demande](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) et envoyez-la par **e-mail à** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) avec la vérification de vos qualifications (les options sont fournies ci-dessous). **N'envoyez PAS de demande ou de courriel à Microsoft**.
 
-**Vérification de la certification Option 1 - Partager un badge :**
+**Vérification de la certification Option 1 - Partager un badge:**
 
-- Étape 2 : Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
+- Étape 2: Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
 
-- Étape 3 : Accédez à la section Badge du tableau de bord et suivez les étapes pour demander votre badge (si ce n'est déjà fait)
+- Étape 3: Accédez à la section Badge du tableau de bord et suivez les étapes pour demander votre badge (si ce n'est déjà fait)
 
-- Étape 4 : Suivez les étapes pour partager votre badge par courriel à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
+- Étape 4: Suivez les étapes pour partager votre badge par courriel à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- Pour de plus amples informations, voir : [Examen et badges de certification Microsoft](https://www.microsoft.com/learning/badges.aspx)
+- Pour de plus amples informations, voir:  [Examen et badges de certification Microsoft](https://www.microsoft.com/learning/badges.aspx)
 
-**Vérification de l'option de certification 2 - Partager un relevé de notes :**
+**Vérification de l'option de certification 2 - Partager un relevé de notes:**
 
-- Étape 2 : Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
+- Étape 2: Connectez-vous à votre [Tableau de bord des certifications Microsoft](https://www.microsoft.com/learning/dashboard.aspx)
 
-- Étape 3 : Accédez à la section de relevé de notes « Partagez ou Télécharger»
+- Étape 3: Accédez à la section de relevé de notes « Partagez ou Télécharger»
 
-- Étape 4 : Sélectionnez l'option «Partager»; Entrez un code d'accès personnel et activez «Inclure les détails de l'adresse»; Sélectionnez «Partager»
+- Étape 4: Sélectionnez l'option «Partager»; Entrez un code d'accès personnel et activez «Inclure les détails de l'adresse»; Sélectionnez «Partager»
 
-- Étape 5 : Copiez et collez les informations suivantes fournies sur le site :
+- Étape 5: Copiez et collez les informations suivantes fournies sur le site:
 
   - ID du relevé de notes <nnnnnnn>  
-  - Code d'accès<nnnnnnnn>
-  - Page de visualisation du relevé de notes : <URL>
+  - Code d'accès <nnnnnnnn>
+  - Page de visualisation du relevé de notes: <URL>
 
-- Étape 6 : Collez les informations dans un courriel et envoyez-les à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
+- Étape 6: Collez les informations dans un courriel et envoyez-les à [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
 Consultez la section FAQ «Crédit de cours» sur cette page si vous avez des questions sur ce processus pour les certifications Microsoft.
 
-Pour ample informations, visitez : [Crédit NCCRS pour les certifications Microsoft](http://www.nationalccrs.org/organizations/microsoft)
+Pour ample informations, visitez:  [Crédit NCCRS pour les certifications Microsoft](http://www.nationalccrs.org/organizations/microsoft)
 
-Téléchargez : [Application du service de relevés de notes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
+Téléchargez: [Application du service de relevés de notes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
 ## <a name="policies-5"></a> Contestation d'un sujet d'examen de certification Microsoft
 
-[Chaque question d'examen est soigneusement révisée](https://www.microsoft.com/learning/certification-exams.aspx) par un panel d'experts techniques et de spécialistes des postes de travail afin d'évaluer l'exactitude technique, la clarté et la pertinence de chaque question. Si vous estimez qu'une question spécifique d'un examen de certification Microsoft n'est pas valide, vous pouvez demander une évaluation de la question en suivant les étapes décrites ci-dessous. Vous devez soumettre un formulaire de Exam Item Challenge dans les 30 jours qui suivent l'examen.
+Les examens de certification Microsoft sont conçus pour garantir que les candidats qui réussissent aux épreuves et méritent nos certifications ont démontré qu'ils avaient le(s) niveau(x) de compétence requis pour chaque domaine d'expertise. Toutes les questions des examens de certification Microsoft sont soigneusement passées en revue par une panel d'experts techniques et métiers pour en vérifier la précision, la clarté et la pertinence techniques. Si vous pensez qu'une question figurant dans un examen de certification Microsoft est erronée, vous pouvez demander à ce qu'on l'évalue en suivant le processus de contestation conçu pour aider à identifier et corriger les questions problématiques. Toutefois, même si une question présente quelque problème que ce soit, nous ne pouvons partir du principe que vous y auriez répondu de façon correcte si cela n'avait pas été le cas ; par conséquent, la plupart des épreuves ne font pas l'objet de notations ultérieures. Dans ce cas, nous offrons aux candidats la possibilité de repasser l'examen gratuitement.
 
-**Remarque :** N'utilisez pas le processus de contestation d'examen pour faire part de vos commentaires sur les questions de l'examen bêta. Les questions de l'examen bêta sont souvent modifiées d'une manière ou d'une autre en fonction des commentaires reçus au cours de ce processus et peuvent être supprimées du groupe de questions. Si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la période de commentaires, veuillez envoyer vos commentaires à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+### Critères validant une contestation portant sur les questions d'examen:
 
-### Étapes pour contester des questions d'examen
+- L'examen doit avoir été passé dans les 30 derniers jours calendaires (et non ouvrés).
+- Demandes de révisions de notation.
+- Contestations portant sur un point spécifique de l'épreuve.
 
-1. Publiez vos contestations d'examen sur le [forum d'aide à la certification Microsoft](https://aka.ms/MCPForum).
-2. Dans un délai de 1 à 2 jours ouvrables, l'agent du forum vous fournira un **formulaire de contestation d'examen** à remplir. Le formulaire inclut des informations spécifiques sur la façon d'envoyer votre contestation.
-   - Les contestations d'examen ne sont acceptées que si vous soumettez à l'agent du forum un formulaire rempli au plus tard 30 jours après l'examen.
-   - Les contestations d'examen ne sont pas acceptées pour les examens qui seront supprimés dans un délai de 6 mois.
-3. Dans un délai de 4 à 6 semaines, l'agent du forum fournira les résultats de votre contestation d'examen.
+### Les contestations portant sur les questions d'examen seront refusées selon les critères suivants:
 
-Le processus de contestation existe pour faciliter l'identification et la correction des questions problématiques. Toutefois, dans la plupart des cas, les examens ne sont pas redéfinis, car Microsoft doit veiller à ce que les candidats réussissant leurs examens et obtenant nos certifications aient démontré le ou les niveaux de compétence requis dans tous les domaines de compétences. Même si une question est posée d'une certaine manière incorrecte, nous ne pouvons pas supposer que vous auriez répondu correctement si elle ne l'avait pas été. Dans ce cas, nous offrons aux candidats la possibilité de repasser l'examen gratuitement.
+- Contestations portant sur l'ensemble de l'épreuve.
+- Contestations portant sur le matériels didactique (tests d'essai, guides didactiques, matériel de formation, etc.)
+- Contestations portant sur le bien-fondé d'une question.
+- Contestations présentées plus de 30 jours calendaires (et non ouvrés) après avoir passé l'examen.
+- Contestations se fondant sur des problèmes techniques rencontrés dans un centre d'examen.
+- Contestation non présentées par l'intermédiaire du formulaire.
+- Contestations portant sur les méthodologies de notation (par exemple si le graphique en barres ne représente pas votre véritable score.)
+- Contestations portant sur le format de l'examen (standard, tri, adaptatif)
+- Contestations portant sur les examens bêta. Si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la période de commentaires, veuillez envoyer vos commentaires à [mslcd@microsoft.com](mailto:mslcd@microsoft.com). 
 
-Vos commentaires sont essentiels et nous aident à rendre les examens de certification Microsoft aussi valides et pertinents que possible.
+### Procédure à suivre pour les contestations portant sur les questions d'examen:
+
+1. Consultez nos critères concernant l'acceptation et le refus d'une contestation portant sur une question d'examen.
+2. Remplissez et soumettez le [exam item challenge form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
+3. L'équipe Microsoft Certification vérifiera que votre dossier est bien complet.  
+   a. Si vous ne le remplissez pas entièrement, il vous sera demandé de plus amples informations.  
+   b. Si vous le remplissez entièrement, l'équipe de certification Microsoft le traitera. Ce traitement prendra environ deux semaines.
+4. Une fois le traitement effectué, vous serez averti de son issue.
+
+Merci de l'intérêt que vous portez aux examens de certification Microsoft, ce qui nous aide à les rendre les plus pertinents et adéquats possible.
 
 ## <a name="special-accommodations-when-taking-exams"></a> Aménagements particuliers lors d'examens
 
-### Examens fournis par Pearson VUE :
+### Examens fournis par Pearson VUE: 
 
 Si vous avez besoin de plus de temps parce que votre examen n'est pas disponible dans votre langue maternelle, vous pouvez le demander en remettant le [formulaire concernant l'anglais en tant que deuxième langue](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Suivez les instructions du formulaire. 
 
@@ -519,15 +539,15 @@ Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vo
 
 - Si vous utilisez ce système de demande pour la première fois, vous devez créer un nom d'utilisateur et un mot de passe. Pour créer un nom d'utilisateur, cliquez sur le lien « S'inscrire » sur l'écran de connexion. Veuillez noter que le système exige un compte e-mail actif.
 - Pearson VUE utilise ce système sécurisé parce que vous devrez télécharger des documents justificatifs. Si vous ne l'avez pas encore fait, présentez à votre évaluateur (médecin, psychologue) une copie des [directives pour les évaluateurs](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) pour votre handicap. Votre évaluateur doit s'assurer que les documents qu'il/elle fournit respectent nos directives. Dans la plupart des cas, votre évaluateur sera un médecin ou un psychologue qui a fait passer une série de tests psychologiques, éducatifs ou médicaux et vous a fourni une copie du rapport du diagnostic ou une lettre détaillée.
-- **Veuillez prévoir 10 jours ouvrables pour que Pearson VUE examine vos documents. Veuillez planifier votre demande en conséquence.**
+- ** Veuillez prévoir 10 jours ouvrables pour que Pearson VUE examine vos documents. Veuillez planifier votre demande en conséquence. **
 - Après avoir examiné votre demande, vous recevrez un e-mail indiquant qu'une décision a été prise. La lettre de décision apparaîtra dans la section « Mes documents » dans le « Système de demande d'ajustements raisonnables ». Si votre demande est approuvée, la lettre de décision vous donnera des instructions pour prévoir votre examen aménagé.
 - Si la décision d'aménagement des tests ne vous satisfait pas, vous pouvez présenter un appel contre la décision en cliquant sur le bouton de « Demande d'appel » dans la section où la lettre de décision apparaît, dans le « Système de demande d'ajustements raisonnables ». Veuillez compléter et télécharger le formulaire d'appel qui apparaît quand vous cliquez sur le bouton. Des experts en handicap examinent toutes les demandes en appel.
 
-### Examens fournis par Certiport :
+### Examens fournis par Certiport:
 
 Si vous avez besoin de plus de temps parce que votre examen n'est pas disponible dans votre langue maternelle, si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement par le biais de Certiport en suivant le processus décrit [ici](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### <a name="cancellation-and-reschedule-policy"></a> Règlement relatif aux annulations et à la reprogrammation:
+### <a name="cancellation-and-reschedule-policy"></a> Règlement relatif aux annulations et aux reports: 
 
 - Aucun frais n'est exigé si vous reprogrammez ou si vous annulez un rendez-vous d'examen au moins 6 jours ouvrables avant votre rendez-vous.
 - Si vous annulez ou si vous reprogrammez votre examen dans les 5 jours ouvrables suivant votre heure d'examen, des frais seront appliqués.
@@ -572,7 +592,7 @@ La durée de l'examen varie en fonction du type d'examen que vous passez.
 | Examens MCSA | 120 minutes | 150 minutes
 | Examens MCSE | 150 minutes | 180 minutes
 
-****Remarque*** *La durée de l'examen* fait référence au temps dont vous disposez pour terminer l'examen. La durée de l'épreuve fait référence au temps que vous devez allouer à l'examen. Elle comprend le temps requis pour lire les instructions, lire et accepter l'accord de confidentialité, répondre aux questions de l'examen et fournir des commentaires une fois l'examen terminé (le cas échéant).
+***Remarque** *La durée de l'examen* fait référence au temps dont vous disposez pour terminer l'examen. La durée de l'épreuve fait référence au temps que vous devez allouer à l'examen. Elle comprend le temps requis pour lire les instructions, lire et accepter l'accord de confidentialité, répondre aux questions de l'examen et fournir des commentaires une fois l'examen terminé (le cas échéant).
 
 **Comment Microsoft décide-t-il du nombre de questions à inclure dans l'examen pour un sujet particulier ?**
 
@@ -592,7 +612,7 @@ Microsoft Certified Trainers travaillent avec plusieurs candidats qui se prépar
 - Imprimez la section des compétences évaluées de la page. 
 - Révisez toute la liste. Réfléchissez à chaque sujet. Si vous êtes très bien informé sur un sujet spécifique, soulignez-le ou barrez-le. 
 - Regardez ce qui reste. À présent, commencez une recherche ciblée. Pour chaque sujet que vous n'avez pas souligné, cherchez des articles spécifiques sur le web.
-    - Utilisez des sources autorisées telles que docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com et le centre de support d'Office 365.
+  - Utilisez des sources autorisées telles que docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com et le centre de support d'Office 365.
 
 Vous pourriez aussi demander à d'autres personnes comment elles font ces exercices, lire des livres blancs, MSDN ou TechNet pour obtenir des informations supplémentaires sur les tâches qui sont incluses dans l'examen et/ou explorer les ressources fournies dans la section « Matériel de préparation » sur la page des détails des examens qui fera le lien vers toute formation en ligne, tout micro-apprentissage, toute option disponibles et un portail où vous pourrez trouver des options de formations dispensées par un instructeur dans votre région.
 
@@ -656,7 +676,7 @@ Nous révisons nos examens basés sur le cloud tous les deux mois. Toute modific
 
 Microsoft se réserve le droit de mettre à jour le contenu, pour quel que motif que ce soit et à tout moment, afin de préserver la validité et la pertinence de ses certifications. Cela inclut, mais sans s'y limiter, l'ajout de fonctionnalités ou de paramètres liés à des modifications de la technologie, la modification de compétences nécessaires à une fonction, etc.
 
-REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
+REMARQUE: Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
 
 **Comment saurai-je que l'examen a été mis à jour lorsqu'un nouveau paramètre ou une nouvelle fonction sont ajoutés ou lorsque quelque chose a été modifié dans la technologie associée ?**
 
@@ -668,7 +688,7 @@ Si vous vous préparez à un examen basé sur le cloud, nous vous conseillons vi
 
 Microsoft se réserve le droit de mettre à jour le contenu, pour quel que motif que ce soit et à tout moment, afin de préserver la validité et la pertinence de ses certifications. Cela inclut, mais sans s'y limiter, l'ajout de fonctionnalités ou de paramètres liés à des modifications de la technologie, la modification de compétences nécessaires à une fonction, etc.
 
-REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
+REMARQUE: Sauf indication contraire sur les compétences évaluées ou dans la description de l'examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu'il s'agit d'une DG (disponibilité générale).
 
 **Les kits de formation, les livres, les didacticiels et tout autre matériel de préparation à l'examen seront-ils mis à jour lors de modifications de l'examen ?**
 
@@ -721,7 +741,7 @@ Non. Un même examen ne peut pas être utilisé pour satisfaire aux exigences d'
 
 Vous recevrez la notification de votre réussite/échec quelques minutes après la fin de l'examen. Vous recevrez également un rapport imprimé contenant votre note d'examen ainsi que des remarques sur vos performances dans les domaines de compétence évalués. Le prestataire de services d'examen transmettra votre note à Microsoft dans un délai de cinq jours ouvrables.
 
-**Résultats d'examens bêta :** Les résultats des examens bêta doivent apparaître sur votre relevé de notes Microsoft (si vous avez obtenu une note de réussite) et sur le site du fournisseur de services d'examen dans un délai de deux semaines après la publication de l'examen final.
+**Résultats d'examens bêta:** Les résultats des examens bêta doivent apparaître sur votre relevé de notes Microsoft (si vous avez obtenu une note de réussite) et sur le site du fournisseur de services d'examen dans un délai de deux semaines après la publication de l'examen final.
 
 En cas de réussite à l'examen bêta, vous obtiendrez des points pour cet examen ainsi que pour la certification correspondante, le cas échéant. Il n'est pas nécessaire de repasser l'examen dans sa version finale si vous avez réussi la version bêta.
 
@@ -763,7 +783,7 @@ En outre, les candidats croient souvent à tort qu'ils doivent répondre correct
 
 **Comment sont notées les questions ? Combien de points sont attribués à chaque question ? Serai-je serai pénalisé en cas de mauvaise réponse à une question ?**
 
-Voici quelques informations générales sur la notation des examens :
+Voici quelques informations générales sur la notation des examens:
 
 - La plupart des questions valent un point, indépendamment de ce que vous devez faire pour y répondre. Si une question vaut plus d'un point, cette information est indiquée dans la question.
 - Aucune pénalité n'est appliquée pour une réponse incorrecte. Si vous donnez une réponse incorrecte, vous n'obtenez simplement pas de point(s) pour cet élément. Aucun point n'est déduit en cas de mauvaise réponse.
@@ -777,13 +797,13 @@ Une fois que vous avez terminé l'examen, les points que vous avez obtenus pour 
 
 **Quelle note dois-je obtenir pour réussir un examen ?**
 
-**Examens techniques :** L'échelle de notation est définie pour tous les examens techniques pour que la note de passage s'élève à 700. Une note égale ou supérieure à 700 correspond à une réussite tandis qu'une note inférieure à 700 est un échec. Le nombre de questions auxquelles vous devez répondre correctement pour réussir est déterminé par un groupe de spécialistes du domaine et les psychométriciens de Microsoft au cours de la mise au point et de l'entretien de l'examen. La note de passage est basée sur les connaissances et les compétences nécessaires pour démontrer des compétences dans le domaine évalué et sur la difficulté des questions posées au candidat.
+**Examens techniques:** L'échelle de notation est définie pour tous les examens techniques pour que la note de passage s'élève à 700. Une note égale ou supérieure à 700 correspond à une réussite tandis qu'une note inférieure à 700 est un échec. Le nombre de questions auxquelles vous devez répondre correctement pour réussir est déterminé par un groupe de spécialistes du domaine et les psychométriciens de Microsoft au cours de la mise au point et de l'entretien de l'examen. La note de passage est basée sur les connaissances et les compétences nécessaires pour démontrer des compétences dans le domaine évalué et sur la difficulté des questions posées au candidat.
 
-**Examens Microsoft Office :** toutes les notes d'examen Microsoft Office sont indiquées sur une échelle de notation de 1 à 1 000. La note de passage varie d'un examen à l'autre et elle est indiquée sur le relevé de notes. Le pourcentage réel de la note de passage est déterminé par un groupe de spécialistes du domaine à l'aide d'un processus similaire à celui utilisé pour définir la note de passage des examens techniques de Microsoft.
+**Examens Microsoft Office:** toutes les notes d'examen Microsoft Office sont indiquées sur une échelle de notation de 1 à 1 000. La note de passage varie d'un examen à l'autre et elle est indiquée sur le relevé de notes. Le pourcentage réel de la note de passage est déterminé par un groupe de spécialistes du domaine à l'aide d'un processus similaire à celui utilisé pour définir la note de passage des examens techniques de Microsoft.
 
 **Pourquoi Microsoft utilise-t-il des scores gradués ?**
 
-Microsoft utilise des notes échelle pour permettre aux candidats devant Exam Replay de certification de déterminer si leurs performances s'améliorent. La note de passage réelle (le nombre d'éléments auxquels vous devez répondre correctement) est basée sur le retour d'un groupe de spécialistes du domaine qui examinent la difficulté des sujets par rapport aux compétences escomptées des candidats concernés. Par conséquent, le nombre d'éléments auxquels vous devez répondre correctement varie en fonction de la difficulté des questions de l'examen. Cela permet de garantir que, quelle que soit la difficulté des éléments de l'examen que vous voyez, l'évaluation de vos compétences est juste : si vous devez répondre à une série de questions plus difficiles pendant un examen, le nombre de réponses correctes nécessaires à la réussite de l'examen sera moins élevé que si vous aviez une série de questions plus faciles. De ce fait, l'indication d'un simple pourcentage de réponses correctes ne donnerait pas d'informations utiles à un candidat qui a dû repasser l'examen plusieurs fois et qui a eu plusieurs combinaisons de questions avec des niveaux de difficulté différents.
+Microsoft utilise des notes échelle pour permettre aux candidats devant Exam Replay de certification de déterminer si leurs performances s'améliorent. La note de passage réelle (le nombre d'éléments auxquels vous devez répondre correctement) est basée sur le retour d'un groupe de spécialistes du domaine qui examinent la difficulté des sujets par rapport aux compétences escomptées des candidats concernés. Par conséquent, le nombre d'éléments auxquels vous devez répondre correctement varie en fonction de la difficulté des questions de l'examen. Cela permet de garantir que, quelle que soit la difficulté des éléments de l'examen que vous voyez, l'évaluation de vos compétences est juste:  si vous devez répondre à une série de questions plus difficiles pendant un examen, le nombre de réponses correctes nécessaires à la réussite de l'examen sera moins élevé que si vous aviez une série de questions plus faciles. De ce fait, l'indication d'un simple pourcentage de réponses correctes ne donnerait pas d'informations utiles à un candidat qui a dû repasser l'examen plusieurs fois et qui a eu plusieurs combinaisons de questions avec des niveaux de difficulté différents.
 
 Voici un exemple de la raison pour laquelle les notes d'échelle sont un meilleur indicateur de l'amélioration (ou non) de vos performances d'un examen à l'autre. Imaginez que c'est la première fois que vous passez l'examen. Vous voyez un ensemble d'éléments faciles. Malheureusement, vous échouez avec une note d'échelle de 600, qui équivaut à un résultat de 65 % de bonnes réponses. La prochaine fois que vous passerez l'examen, vous verrez un ensemble d'éléments plus difficiles. À ce moment-là, vous réussirez l'examen avec une note d'échelle de 750, qui équivaut à un résultat de 50 % de bonnes réponses. Si nous vous avions donné le pourcentage de bonnes réponses, vous penseriez que vos performances ont empiré et ne se sont pas améliorées. En fait, elles sont meilleures, car vous avez répondu correctement à un pourcentage supérieur de questions plus difficiles que la première fois.
 
@@ -829,7 +849,7 @@ En outre, des [Microsoft Official Practice Tests (tests d'entraînement Microsof
 
 **Quel est le règlement en matière d'examens de rattrapage ?**
 
-Consultez les [Security and retake policies (règles relatives à la sécurité et aux examens de rattrapage)](#security-policies) pour plus d'informations sur le règlement concernant le examens de rattrapage.
+Consultez les [Security and retake policies (règles relatives à la sécurité et aux examens de rattrapage)](#security-policies)  pour plus d'informations sur le règlement concernant le examens de rattrapage.
 
 **Puis-je demander une réévaluation de ma note ?**
 
@@ -837,7 +857,7 @@ Il est peu probable qu'une réévaluation de votre note modifie votre statut de 
 
 **Comment puis-je contester une question d'examen ?**
 
-Si vous pensez qu'une question d'examen de certification Microsoft est inexacte, vous pouvez demander l'évaluation de la question en utilisant le [Exam Item Challenge process (processus de contestation d'une question d'examen)](#policies-5) dans les 30 jours calendaires suivant l'examen. Le processus d'évaluation nous permet d'identifier et de corriger les questions susceptibles de poser problème et d'amender comme requis les examens concernés.
+Si vous pensez qu'une question d'examen de certification Microsoft est inexacte, vous pouvez demander l'évaluation de la question en utilisant le [Exam Item Challenge process (processus de contestation d'une question d'examen)](#policies-5)  dans les 30 jours calendaires suivant l'examen. Le processus d'évaluation nous permet d'identifier et de corriger les questions susceptibles de poser problème et d'amender comme requis les examens concernés.
 
 **Un employé de Microsoft va-t-il examiner et évaluer la question d'examen que je conteste ?**
 
@@ -906,7 +926,7 @@ Les centres de tests doivent appliquer les règles de sécurité qui leur sont f
 
 **Quels types d'irrégularités peuvent se produire dans un centre de tests ?**
 
-Le comportement des administrateurs de centres de test est jugé inapproprié lorsqu'ils ne parviennent pas à imposer les règles de sécurité définies par Microsoft ou le prestataire de services d'examen. Des exemples d'irrégularité peuvent inclure, sans toutefois s'y limiter, les cas suivants : non-prise en compte des informations d'identification inappropriées d'un candidat ; non-vérification de la pièce d'identité de chaque candidat ; absence de contrôles périodiques ; absence de séparations entre les postes d'examen ; présence tolérée de feuilles antisèches et d'appareils électroniques ; communication des réponses ou apport d'une assistance, sous toute forme que ce soit, pour un élément d'examen et publication de la propriété intellectuelle de Microsoft, sous toute forme que ce soit.
+Le comportement des administrateurs de centres de test est jugé inapproprié lorsqu'ils ne parviennent pas à imposer les règles de sécurité définies par Microsoft ou le prestataire de services d'examen. Des exemples d'irrégularité peuvent inclure, sans toutefois s'y limiter, les cas suivants:  non-prise en compte des informations d'identification inappropriées d'un candidat ; non-vérification de la pièce d'identité de chaque candidat ; absence de contrôles périodiques ; absence de séparations entre les postes d'examen ; présence tolérée de feuilles antisèches et d'appareils électroniques ; communication des réponses ou apport d'une assistance, sous toute forme que ce soit, pour un élément d'examen et publication de la propriété intellectuelle de Microsoft, sous toute forme que ce soit.
 
 
 **Que se passe-t-il en cas de comportement frauduleux d'un centre de tests ?**
@@ -942,15 +962,15 @@ Quand vous aurez quitté le laboratoire, vous ne pourrez plus y revenir, car la 
 
 Lorsque vous démarrerez l'examen, vous verrez un écran qui vous donne le nombre d'éléments, d'études de cas et de laboratoires, ce qui inclut le nombre de tâches, inclus dans l'examen. Veuillez noter ces informations pour planifier votre temps d'examen en conséquence.
 
-Quand vous démarrez l'examen, vous devez répondre à des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) pendant que les tâches de laboratoire chargent. Le(s) laboratoire(s) seront la dernière section de l'examen. Veuillez noter les points suivants :
+Quand vous démarrez l'examen, vous devez répondre à des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) pendant que les tâches de laboratoire chargent. Le(s) laboratoire(s) seront la dernière section de l'examen. Veuillez noter les points suivants: 
 
-- Après avoir quitté une section de l'examen (par exemple, étude de cas ou laboratoire), vous ne pourrez pas y revenir. Cependant, à la fin de la plupart des sections, vous aurez la possibilité de réviser vos réponses (votre examen peut inclure une section qui ne peut pas être révisée, c'est noté au début de la section). **La durée de l'examen NE s'arrête PAS pendant que vous examinez vos réponses. Assurez-vous de gérer votre temps**, Faites attention au temps ET au nombre de questions restantes.
+- Après avoir quitté une section de l'examen (par exemple, étude de cas ou laboratoire), vous ne pourrez pas y revenir. Cependant, à la fin de la plupart des sections, vous aurez la possibilité de réviser vos réponses (votre examen peut inclure une section qui ne peut pas être révisée, c'est noté au début de la section). **La durée de l'examen NE s'arrête PAS pendant que vous examinez vos réponses. Assurez-vous de gérer votre temps **, Faites attention au temps ET au nombre de questions restantes.
 
 - Chaque examen comprend une ou deux sections/laboratoires de performance avec plusieurs tâches à effectuer. Les recherches montrent que les tâches prennent environ 4 fois plus longtemps qu'un élément traditionnel. Veuillez gérer votre temps pour qu'il vous reste suffisamment de temps pour remplir les laboratoires. Nous nous sommes assurés que les candidats qui gèrent leur temps correctement auront largement suffisamment de temps pour réaliser le(s) laboratoire(s).
 
 - Le nombre de laboratoires et de tâches de l'examen est donné sur la page d'aperçu précédant le premier laboratoire. Veuillez la lire ! Et par la suite, gérez votre temps en conséquence.
 
-- N'attendez PAS que les tâches soient exécutées avant de passer à une autre tâche. Dans certains cas, vous devez avoir quelque chose à exécuter avant de pouvoir remplir une autre tâche, mais cela sera noté dans la tâche et il y aura d'autres tâches sur lesquelles vous pourrez travailler pendant que la tâche s'exécute. **Ne perdez pas de temps à attendre que les tâches soient** exécutées . Passez à une activité ne dépendant pas de cette tâche afin de maximiser votre temps d'examen. Dans certains cas, le démarrage d'une tâche peut être suffisant pour le score (par exemple, la création d'une ressource dans Azure). Vous pouvez laisser la tâche s'exécuter en arrière-plan pendant que vous travaillez sur d'autres tâches. Nous incluons une note dans la liste des tâches vous indiquant que vous devez uniquement démarrer la tâche. Vous pouvez passer à d'autres tâches ou même quitter la section (passer au prochain laboratoire le cas échéant ou à la fin de l'examen) sans être pénalisé. **Veuillez lire attentivement l'exercice. Faites ce qui est nécessaire pour résoudre le problème posé dans la tâche.**
+- N'attendez PAS que les tâches soient exécutées avant de passer à une autre tâche. Dans certains cas, vous devez avoir quelque chose à exécuter avant de pouvoir remplir une autre tâche, mais cela sera noté dans la tâche et il y aura d'autres tâches sur lesquelles vous pourrez travailler pendant que la tâche s'exécute. **Ne perdez pas de temps à attendre que les tâches soient** exécutées . Passez à une activité ne dépendant pas de cette tâche afin de maximiser votre temps d'examen. Dans certains cas, le démarrage d'une tâche peut être suffisant pour le score (par exemple, la création d'une ressource dans Azure). Vous pouvez laisser la tâche s'exécuter en arrière-plan pendant que vous travaillez sur d'autres tâches. Nous incluons une note dans la liste des tâches vous indiquant que vous devez uniquement démarrer la tâche. Vous pouvez passer à d'autres tâches ou même quitter la section (passer au prochain laboratoire le cas échéant ou à la fin de l'examen) sans être pénalisé. **Veuillez lire attentivement l'exercice. Faites ce qui est nécessaire pour résoudre le problème posé dans la tâche.**
 
 
 **Pourquoi un examen avec des tâches de laboratoire contient-il des questions traditionnelles (par exemple, à choix multiple, faire glisser les réponses, créer des listes, etc.) ?**
@@ -1080,5 +1100,5 @@ Cela est considéré comme un soutien de confort et ne nécessite **pas** d'appr
 
 **J'ai une question qui n'a pas de réponse ici. Où puis-je trouver la réponse ?**
 
-Si vous ne trouvez pas la réponse à votre question ici, contactez-nous par email au : [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+Si vous ne trouvez pas la réponse à votre question ici, contactez-nous par email au:  [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
 

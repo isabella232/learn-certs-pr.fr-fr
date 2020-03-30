@@ -1,8 +1,8 @@
-### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+﻿### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
-  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
@@ -17,12 +17,10 @@ summary: |-
   Les candidats doivent avoir de l’expérience avec les produits qui incluent Visual Studio, Azure DevOps, les outils LCS ou SQL Server Management Studio.
   
   Les candidats doivent avoir de l’expérience dans la mise au point de codes en utilisant des langages de programmation orientés objets, l’analyse et la manipulation de données en utilisant le code Transact-SQL et la création et l’exécution de commandes et de scripts Windows PowerShell.
-  
-  <div style='color&#58; red;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta.</div>
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: planifier la conception de l’architecture et de la solution, appliquer les outils du développeur, concevoir et mettre au point des éléments AOT, mettre au point et tester un code, mettre en œuvre un rapport, intégrer et gérer des solutions de données et mettre la sécurité en œuvre et optimiser les performances.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 levels:

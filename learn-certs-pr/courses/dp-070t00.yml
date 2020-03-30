@@ -1,8 +1,8 @@
-### YamlMime:Course
-title: Migration des charges de données Open Source vers Azure
+﻿### YamlMime:Course
+title: Migrate Open Source Data Workloads to Azure
 metadata:
-  title: 'Formation DP-070T00-A: Migration des charges de données Open Source vers Azure'
-  description: 'Formation DP-070T00-A: Migration des charges de données Open Source vers Azure'
+  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -23,8 +23,7 @@ summary: |-
   Cette formation permettra aux étudiants de comprendre la base de données SQL Azure et d’éduquer les étudiants à ce qui est requis pour migrer les charges de travail MySQL et PostgreSQL vers une base de données SQL Azure.
 
   #### Profil de l’audience
-  L’audience principale de cette formation est les développeurs de bases de données qui prévoient de migrer leurs charges de travail de DB MySQL ou Postgres vers des DB SQL Azure.
-  L’audience secondaire de cette formation est des administrateurs MySQL/Postgres dans le but d’attirer l’attention des fonctionnalités et des avantages des DB de SQL Azure.
+  L’audience principale de cette formation est les développeurs de bases de données qui prévoient de migrer leurs charges de travail de DB MySQL ou Postgres vers des DB SQL Azure. L’audience secondaire de cette formation est des administrateurs MySQL/Postgres dans le but d’attirer l’attention des fonctionnalités et des avantages des DB de SQL Azure.
 prerequisitesSection: |-
   En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
   - Des connaissances des systèmes de gestion des bases de données relationnelles en open source telles que Postgres et/ou MySQL, l’administration SQL, les techniques de sauvegarde et de reprise, c’est-à-dire la décharge des données des tableaux.
@@ -37,13 +36,13 @@ outlineSection: |-
   - Défis des clients pendant la migration
 
 
-  #### Laboratoire&#58; Création de bases de données OSS sources
+  #### Laboratoire &#58; Création de bases de données OSS sources
   - Installation du serveur de DB de migration Postgres
   - Installation du serveur de DB de migration MySQL
   - Sauvegardes/décharges de données de Postgres/MySQL
   - Récupération des décharges de données
 
-  À la fin de ce module, les étudiants seront capables&#58;
+  À la fin de ce module, les étudiants seront capables &#58;
   - Introduction aux bases de données OSS
   - Charges de travail courantes des bases de données OSS
   - Défis des clients pendant la migration
@@ -58,13 +57,13 @@ outlineSection: |-
   - Considérations post-migrations
 
 
-  #### Laboratoire&#58; Migration des charges de travail des DB MySQL vers les DB SQL Azure
+  #### Laboratoire &#58; Migration des charges de travail des DB MySQL vers les DB SQL Azure
   - Migration des charges de travail des DB MySQL vers les DB SQL Azure
   - Définition des DB sources et cibles
   - Réalisation de la migration
   - Vérification de la migration
 
-  À la fin de ce module, les étudiants seront capables&#58;
+  À la fin de ce module, les étudiants seront capables &#58;
   - Configuration et gestion de DB SQL Azure pour MySQL
   - Migration de MySQL sur site vers les DB SQL pour MySQL
   - Migration des applications
@@ -86,10 +85,11 @@ outlineSection: |-
   - Réalisation de la migration
   - Vérification de la migration
 
-  À la fin de ce module, les étudiants seront capables&#58;
+  À la fin de ce module, les étudiants seront capables &#58;
   - Configuration et gestion de DB SQL Azure pour PostgreSQL
   - Migration de MySQL sur site vers une DB SQL pour PostgreSQL
   - Migration des applications
   - Considérations post-migrations
 
-  #### Lecture supplémentaire Aucune lecture supplémentaire n’est requise pour suivre cette formation
+  #### Lecture supplémentaire
+  Aucune lecture supplémentaire n’est requise pour suivre cette formation

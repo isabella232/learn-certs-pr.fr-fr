@@ -1,20 +1,20 @@
 ### YamlMime:Course
 title: "Conception d'une stratégie DevOps"
 metadata:
-  title: "Formation AZ-400T07-A: Conception d'une stratégie DevOps"
-  description: "Formation AZ-400T07-A: Conception d'une stratégie DevOps"
+  title: "Course AZ-400T07-A: Conception d'une stratégie DevOps"
+  description: "Course AZ-400T07-A: Conception d'une stratégie DevOps"
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planification de la transformation avec des objectifs et des lignes directrices partagées.
-- skill: Sélection d'un projet et identification des mesures et des KPI du projet.
-- skill: Création d'une équipe et structure organisationnelle agile.
-- skill: Mise au point d'une stratégie de qualité de projet.
-- skill: Planification de pratiques de mise au point sécurisées et de règles de conformité.
-- skill: Migration et consolidation d’artéfacts.
-- skill: Migration et intégration de mesures de contrôle des sources.
+- skill: Planification de la transformation avec des objectifs et des lignes directrices partagées
+- skill: Sélection d'un projet et identification des mesures et des KPI du projet
+- skill: Création d'une équipe et structure organisationnelle agile
+- skill: Mise au point d'une stratégie de qualité de projet
+- skill: Planification de pratiques de mise au point sécurisées et de règles de conformité
+- skill: Migration et consolidation d’artéfacts
+- skill: Migration et intégration de mesures de contrôle des sources
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,7 +32,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Cette formation apporte les connaissances et les compétences nécessaires à la conception d’une stratégie DevOps. Les étudiants apprendront à planifier la transformation, à sélectionner un projet et à créer des structures d’équipe. Ils apprendront également à mettre au point des stratégies de qualité et de sécurité. La planification de la migration et la consolidation des artéfacts et le contrôle des sources seront également couverts.
-
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par la planification de projets DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -48,10 +47,10 @@ outlineSection: |-
 
 
   #### Laboratoire&#58; Planification agile et gestion de portefeuille avec les tableaux Azure
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier la transformation avec des objectifs et des lignes du temps partagées
-  - de sélectionner un projet et d’identifier les mesures et les KPI du projet
-  - de créer une équipe et une structure organisationnelle agile
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de planifier la transformation avec des objectifs et des lignes du temps partagées,
+  - de sélectionner un projet et d’identifier les mesures et les KPI du projet,
+  - de créer une équipe et une structure organisationnelle agile.
 
 
   ### Module 2&#58; Planification de la qualité et de la sécurité
@@ -76,5 +75,6 @@ outlineSection: |-
 
   #### Laboratoire&#58; Intégration d’Azure Report et des pipelines Azure à Eclipe
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de migrer et consolider des artéfacts
-  - de migrer et intégrer des mesures de contrôle des sources
+  - de migrer et consolider des artéfacts,
+  - de migrer et intégrer des mesures de contrôle des sources.
+

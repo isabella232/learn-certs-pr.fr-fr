@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Formation MB-300T01-A: Fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations'
-  description: 'Formation MB-300T01-A: Fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T01-A: Fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Fonctionnalités essentielles communes à Dynamics 365 for Finance and Operations'
 uid: course.mb-300t01
 courseNumber: 'MB-300T01-A'
 hoursToComplete: 24
@@ -20,116 +20,8 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
-summary: |-
-  Les organisations utilisent Dynamics 365 for Finance and Operations pour réduire les coûts opérationnels et répondre rapidement aux besoins changeants de l’entreprise. Cette solution permet aux organisations de réaliser ces objectifs. 
-
-  Cette formation discute des composants de base de Microsoft Dynamics 365 for Finance and Operations.
-
-  #### Profil de l’audience
-  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+summary: "Les organisations utilisent Dynamics 365 for Finance and Operations pour réduire les coûts opérationnels et répondre rapidement aux besoins changeants de l’entreprise. Cette solution permet aux organisations de réaliser ces objectifs. \nCette formation discute des composants de base de Microsoft Dynamics 365 for Finance and Operations.\n\n#### Profil de l’audience\nUn Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services."
 prerequisitesSection: |-
   Une compréhension de base des concepts d’ERP et de CRM.
-outlineSection: |-
-  ### Module 1&#58; Débutez avec Dynamics 365 for Finance and Operations
-  Ce module fournit une compréhension du programme Dynamics 365 for Finance and Operations et des secteurs qu’il prend en charge. Il décrit les modules de la finance et des opérations, les objets des fonctionnalités de ces modules et comment ils prennent en charge des zones spécifiques du secteur.
-  #### Leçons
-  - Introduction
-  - Focus sur le secteur
-  - Introduction à la gestion financière
-  - Introduction à la gestion des employés
-  - Introduction à la gestion de la chaîne logistique
-  - Résumé du module
+outlineSection: "### Module  1&#58;  Débutez avec Dynamics 365 for Finance and Operations\nCe module fournit une compréhension du programme Dynamics 365 for Finance and Operations et des secteurs qu’il prend en charge. Il décrit les modules de la finance et des opérations, les objets des fonctionnalités de ces modules et comment ils prennent en charge des zones spécifiques du secteur.\n#### Leçons\n- Introduction\n- Focus sur le secteur\n- Introduction à la gestion financière\n- Introduction à la gestion des employés\n- Introduction à la gestion de la chaîne logistique\n- Résumé du module\n\nLes étudiants auront une compréhension du programme Finance and Operations et des secteurs qu’il prend en charge. Ils se familiariseront avec les modules de Finance and Operations, les objets des fonctionnalités de ces modules et comment ils prennent en charge des zones spécifiques du secteur.\n\n### Module  2&#58;  Débuter avec les services du cycle de vie\nLes services du cycle de vie de Microsoft Dynamics sont un espace de travail collaboratif utilisé par les clients et leurs partenaires pour gérer les projets de Dynamics 365 for Finance and Operations, de l’avant-vente, à la mise en œuvre et finalement à l’environnement de production, dans le cloud ou sur site. Il fournit des listes de vérification et des outils qui aident à gérer le projet, notamment les méthodologies qui assistent dans la gestion du processus de mise en œuvre.\n#### Leçons\n- Comprendre la fonctionnalité et les outils des services du cycle de vie\n- Réutiliser les actifs existants, copier et partager les données\n- Comprendre la fonctionnalité d’enregistrement de tâches\n- Créer un modèle de processus métier\n- Exécuter l'outil de recherche des problèmes des services du cycle de vie et analyser les résultats\n- Apprendre à utiliser l’outil d’automatisation de la suite de régression\n- Laboratoires pratiques\n- Résumé du module\n\nLes étudiants seront capables&#58; \n- de Finance and Operationscomprendre la fonctionnalité et les outils des services du cycle de vie pour ,\n- de réutiliser les actifs existants, copier et partager les données,\n- Comprendre la fonctionnalité d’enregistrement de tâches\n- Créer un modèle de processus métier\n- d''identifier et d'analyser les écarts à l’aide du modélisateur de processus d’entreprise,\n- Exécuter l'outil de recherche des problèmes des services du cycle de vie et analyser les résultats\n\n\n### Module  3&#58;  Utiliser les services du cycle de vie pour concevoir et planifier\nAvec une bonne planification, la mise en œuvre de Dynamics 365 for Finance and Operations sera un succès. Quand le client signe l’accord d'achat de licence de Finance and Operations, le travail du consultant fonctionnel commence par la gestion du cycle de vie de l’application et le passage vers une mise en œuvre prévisible, reproductible et de qualité supérieure.\n#### Leçons\n- Introduction\n- Phases d’une mise en œuvre dans le cloud\n- Phases d’une mise en œuvre sur site\n- Créer des documents à conception fonctionnelle\n- Résumé du module\n\nLes étudiants seront capables&#58; \n- préparer une documentation des exigences recueillies à l’aide d’une méthodologie des services de cycle de vie,\n- définir les scénarios de cas d’utilisation,\n- participer à la création de documents à conception fonctionnelle,\n- comprendre l’importance de la création et de la conservation des processus de documentation,\n- participer à des processus de planification par étapes et à la conception d’une solution,\n- décrire les processus opérationnels de l’état futur sur la base d’une solution proposée,\n- déterminer quand mettre au point ou acheter,\n- Créer des documents à conception fonctionnelle\n\n\n### Module  4&#58;  Aperçu des rapports et des analyses\nUn rapport dans Dynamics 365 for Finance and Operations peut être défini comme étant simplement une présentation structurée de données.\nDans des circonstances idéales, les rapports matérialisent les données d'une manière qui permet à l’utilisateur de prendre des décisions informées.\nFinance and Operations prennent en charge une large gamme de scénarios d'accès à l’information.\n#### Leçons\n- Comprendre les rapports et les demandes\n- Découvrir le rapport financier\n- Configurer PowerBI pour l’instance\n- Laboratoires pratiques\n- Résumé du module\n\nLes étudiants se seront informés sur&#58; \n- les différents types de rapports et de demandes dans Finance and Operations,\n- les rapports financiers,\n- la configuration de la finance et des opérations pour Microsoft Power Platform.\n\n\n### Module  5&#58;  Mettre au point et tester des applications mobiles\nCe module explique les lignes directrices et les modèles de représentation d'une application mobile pour Dynamics 365 for Finance and Operations. De plus, il explique comment mettre au point et tester des applications mobiles basées sur un scénario de cas d’utilisation.\nLa plateforme mobile facilite la modification des formulaires et des définitions de l’application mobile pour y inclure des personnalisations effectuées dans Finance and Operations\nLes applications mobiles permettent des interactions hors-ligne et mobiles riches et fournissent une expérience de conception d’utilisation facile. Les développeurs peuvent créer des formulaires simplifiés dans Microsoft Visual Studio puis concevoir des applications mobiles qui exposent cette fonctionnalité.\n#### Leçons\n- Aperçu de l’application mobile des opérations unifiées\n- Mettre au point et utiliser des applications mobiles\n- Laboratoire pratique\n- Résumé du module\n\nLes étudiants auront appris à créer une application mobile et à la publier dans Finance and Operations. La compréhension des considérations de conception d’une application mobile aide à créer une application mobile à la hauteur de l’expérience utilisateur d’une application moderne. Les étudiants auront également appris que pour utiliser et travailler avec Finance and Operations, ils doivent télécharger l’application des opérations unifiées de Microsoft Dynamics 365. De plus, ils auront découvert comment exécuter l’application des opérations unifiées de Dynamics 365 pour se connecter à Finance and Operations et comment utiliser les applications mobiles publiées et les données à rafraîchir.\n\n### Module  6&#58;  Créer, maintenir et utiliser les flux de travail\nUn flux de travail représente un processus d’entreprise. Il définit comment un document circule ou se déplace dans le système en affichant qui doit compléter la tâche, prendre une décision ou approuver un document.\nCertaines organisations exigent que des processus spécifiques soient approuvées par un utilisateur différent de celui qui a procédé à l’enregistrement. Ces processus de flux de travail peuvent exiger une approbation manuelle, une approbation de flux de travail ou pas d'approbation.\n#### Leçons\n- Les flux de travail pour les processus d’entreprise\n- Créer et configurer des flux de travail\n- Attribuer des utilisateurs aux points de contact du flux de travail\n- Utiliser des articles de travail\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris comment appliquer l’automatisation à l’aide des flux de travail et ont découvert que la définition d'un type spécifique permet à une entreprise de contrôler chaque étape d’un processus critique. Les étudiants ont également découvert que les flux de travail peuvent être utilisés en tant qu’étapes procédurales qui utilisent des approbations pour divers types de journaux. De plus, ils ont appris qu’il est possible de définir plusieurs versions pour chaque flux de travail et de modifier un flux de travail existant sans pour autant supprimer l’original. Ces processus de flux de travail peuvent exiger une approbation manuelle, une approbation de flux de travail ou pas d'approbation. Après avoir acquis une compréhension de l'architecture, des éléments et des actions d'un flux de travail, ils ont appris comment définir les flux de travail, configurer les propriétés des flux de travail et ajouter une tâche manuelle ou automatisée à un flux de travail. Finalement, ils ont appris à configurer un processus d'approbation dans un flux de travail, à attribuer des utilisateurs aux points de contact du flux de travail, à configurer une étape d'approbation dans un flux de travail et à utiliser la fonctionnalité des éléments de travail pour traiter un flux de travail.\n\n### Module  7&#58; Conclusion de la formation\nUne évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.\n#### Leçons\n- Évaluation finale\n- Résumé de la formation\n- Sondage après la conclusion de la formation\n\nLes étudiants auront terminé la formation."
 
-  Les étudiants auront une compréhension du programme Finance and Operations et des secteurs qu’il prend en charge. Ils se familiariseront avec les modules de Finance and Operations, les objets des fonctionnalités de ces modules et comment ils prennent en charge des zones spécifiques du secteur.
-
-  ### Module 2&#58; Débuter avec les services du cycle de vie
-  Les services du cycle de vie de Microsoft Dynamics sont un espace de travail collaboratif utilisé par les clients et leurs partenaires pour gérer les projets de Dynamics 365 for Finance and Operations, de l’avant-vente, à la mise en œuvre et finalement à l’environnement de production, dans le cloud ou sur site. Il fournit des listes de vérification et des outils qui aident à gérer le projet, notamment les méthodologies qui assistent dans la gestion du processus de mise en œuvre.
-  #### Leçons
-  - Comprendre la fonctionnalité et les outils des services du cycle de vie
-  - Réutiliser les actifs existants, copier et partager les données
-  - Comprendre la fonctionnalité d’enregistrement de tâches
-  - Créer un modèle de processus métier
-  - Exécuter l'outil de recherche des problèmes des services du cycle de vie et analyser les résultats
-  - Apprendre à utiliser l’outil d’automatisation de la suite de régression
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Les étudiants seront capables&#58;
-  - de Finance and Operationscomprendre la fonctionnalité et les outils des services du cycle de vie pour 
-  - de réutiliser les actifs existants, copier et partager les données
-  - Comprendre la fonctionnalité d’enregistrement de tâches
-  - Créer un modèle de processus métier
-  - d''identifier et d'analyser les écarts à l’aide du modélisateur de processus d’entreprise
-  - Exécuter l'outil de recherche des problèmes des services du cycle de vie et analyser les résultats
-
-
-  ### Module 3&#58; Utiliser les services du cycle de vie pour concevoir et planifier
-  Avec une bonne planification, la mise en œuvre de Dynamics 365 for Finance and Operations sera un succès. Quand le client signe l’accord d'achat de licence de Finance and Operations, le travail du consultant fonctionnel commence par la gestion du cycle de vie de l’application et le passage vers une mise en œuvre prévisible, reproductible et de qualité supérieure.
-  #### Leçons
-  - Introduction
-  - Phases d’une mise en œuvre dans le cloud
-  - Phases d’une mise en œuvre sur site
-  - Créer des documents à conception fonctionnelle
-  - Résumé du module
-
-  Les étudiants seront capables&#58;
-  - préparer une documentation des exigences recueillies à l’aide d’une méthodologie des services de cycle de vie
-  - définir les scénarios de cas d’utilisation
-  - participer à la création de documents à conception fonctionnelle,
-  - comprendre l’importance de la création et de la conservation des processus de documentation
-  - participer à des processus de planification par étapes et à la conception d’une solution
-  - décrire les processus opérationnels de l’état futur sur la base d’une solution proposée
-  - déterminer quand mettre au point ou acheter
-  - Créer des documents à conception fonctionnelle
-
-
-  ### Module 4&#58; Aperçu des rapports et des analyses
-  Un rapport dans Dynamics 365 for Finance and Operations peut être défini comme étant simplement une présentation structurée de données.
-  Dans des circonstances idéales, les rapports matérialisent les données d'une manière qui permet à l’utilisateur de prendre des décisions informées.
-  Finance and Operations prennent en charge une large gamme de scénarios d'accès à l’information.
-  #### Leçons
-  - Comprendre les rapports et les demandes
-  - Découvrir le rapport financier
-  - Configurer PowerBI pour l’instance
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Les étudiants se seront informés sur&#58;
-  - les différents types de rapports et de demandes dans Finance and Operations
-  - les rapports financiers
-  - la configuration de la finance et des opérations pour Microsoft Power Platform
-
-
-  ### Module 5&#58; Mettre au point et tester des applications mobiles
-  Ce module explique les lignes directrices et les modèles de représentation d'une application mobile pour Dynamics 365 for Finance and Operations. De plus, il explique comment mettre au point et tester des applications mobiles basées sur un scénario de cas d’utilisation.
-  La plateforme mobile facilite la modification des formulaires et des définitions de l’application mobile pour y inclure des personnalisations effectuées dans Finance and Operations
-  Les applications mobiles permettent des interactions hors-ligne et mobiles riches et fournissent une expérience de conception d’utilisation facile. Les développeurs peuvent créer des formulaires simplifiés dans Microsoft Visual Studio puis concevoir des applications mobiles qui exposent cette fonctionnalité.
-  #### Leçons
-  - Aperçu de l’application mobile des opérations unifiées
-  - Mettre au point et utiliser des applications mobiles
-  - Laboratoire pratique
-  - Résumé du module
-
-  Les étudiants auront appris à créer une application mobile et à la publier dans Finance and Operations. La compréhension des considérations de conception d’une application mobile aide à créer une application mobile à la hauteur de l’expérience utilisateur d’une application moderne. Les étudiants auront également appris que pour utiliser et travailler avec Finance and Operations, ils doivent télécharger l’application des opérations unifiées de Microsoft Dynamics 365. De plus, ils auront découvert comment exécuter l’application des opérations unifiées de Dynamics 365 pour se connecter à Finance and Operations et comment utiliser les applications mobiles publiées et les données à rafraîchir.
-
-  ### Module 6&#58; Créer, maintenir et utiliser les flux de travail
-  Un flux de travail représente un processus d’entreprise. Il définit comment un document circule ou se déplace dans le système en affichant qui doit compléter la tâche, prendre une décision ou approuver un document.
-  Certaines organisations exigent que des processus spécifiques soient approuvées par un utilisateur différent de celui qui a procédé à l’enregistrement. Ces processus de flux de travail peuvent exiger une approbation manuelle, une approbation de flux de travail ou pas d'approbation.
-  #### Leçons
-  - Les flux de travail pour les processus d’entreprise
-  - Créer et configurer des flux de travail
-  - Attribuer des utilisateurs aux points de contact du flux de travail
-  - Utiliser des articles de travail
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris comment appliquer l’automatisation à l’aide des flux de travail et ont découvert que la définition d'un type spécifique permet à une entreprise de contrôler chaque étape d’un processus critique. Les étudiants ont également découvert que les flux de travail peuvent être utilisés en tant qu’étapes procédurales qui utilisent des approbations pour divers types de journaux. De plus, ils ont appris qu’il est possible de définir plusieurs versions pour chaque flux de travail et de modifier un flux de travail existant sans pour autant supprimer l’original. Ces processus de flux de travail peuvent exiger une approbation manuelle, une approbation de flux de travail ou pas d'approbation. Après avoir acquis une compréhension de l'architecture, des éléments et des actions d'un flux de travail, ils ont appris comment définir les flux de travail, configurer les propriétés des flux de travail et ajouter une tâche manuelle ou automatisée à un flux de travail. Finalement, ils ont appris à configurer un processus d'approbation dans un flux de travail, à attribuer des utilisateurs aux points de contact du flux de travail, à configurer une étape d'approbation dans un flux de travail et à utiliser la fonctionnalité des éléments de travail pour traiter un flux de travail.
-
-  ### Module 7&#58; Conclusion de la formation
-  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
-  #### Leçons
-  - Évaluation finale
-  - Résumé de la formation
-  - Sondage après la conclusion de la formation
-
-  Les étudiants auront terminé la formation.

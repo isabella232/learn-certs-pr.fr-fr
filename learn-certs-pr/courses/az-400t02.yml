@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: "Mise en œuvre d'une intégration continue"
 metadata:
-  title: "Formation AZ-400T02-A: Mise en œuvre d'une intégration continue"
-  description: "Formation AZ-400T02-A: Mise en œuvre d'une intégration continue"
+  title: "Course AZ-400T02-A: Mise en œuvre d'une intégration continue"
+  description: "Course AZ-400T02-A: Mise en œuvre d'une intégration continue"
 uid: course.az-400t02
 courseNumber: 'AZ-400T02-A'
 hoursToComplete: 24
@@ -38,7 +38,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre de pratiques DevOps d'intégration continue. Les étudiants apprendront à mettre en œuvre une intégration continue dans le pipeline Azure DevOps, à gérer les principes de qualité et de sécurité des codes et à mettre en œuvre une stratégie de construction de conteneur.
-
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par les procédures d’intégration DevOps ou la réussite de l’examen de certification de Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -56,8 +55,8 @@ outlineSection: |-
 
   #### Laboratoire&#58; Création d’une construction Jenkins et déclenchement de CI
   Après avoir terminé ce module, les étudiants&#58;
-  - seront capables d’expliquer l’importance de l'intégration continue
-  - seront capables de mettre en œuvre une intégration continue à l’aide d’Azure DevOps
+  - seront capables d’expliquer l’importance de l'intégration continue,
+  - seront capables de mettre en œuvre une intégration continue à l’aide d’Azure DevOps.
 
 
   ### Module 2&#58; Gestion de la qualité du code et des politiques de sécurité
@@ -71,9 +70,9 @@ outlineSection: |-
 
   #### Laboratoire&#58; Vérification des vulnérabilités à l’aide de WhiteSource Bolt et de Azure DevOps
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage
-  - de gérer les politiques de sécurité avec Open Source, OWASP et WhiteSource Bolt
-  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage
+  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage,
+  - de gérer les politiques de sécurité avec Open Source, OWASP et WhiteSource Bolt,
+  - de gérer la qualité du code, ce qui inclut la dette technique, SonarCloud et d'autres solutions d'outillage.
 
 
   ### Module 3&#58; Mise en œuvre d'une stratégie de construction de conteneurs
@@ -84,5 +83,6 @@ outlineSection: |-
 
   #### Laboratoire&#58; Existence des applications .NET avec Azure et Docker Images
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de mettre en œuvre une stratégie de conteneurs qui inclut les différences entre les conteneurs et les machines virtuelles et la façon dont les microservices utilisent les conteneurs.
+  - de mettre en œuvre une stratégie de conteneurs qui inclut les différences entre les conteneurs et les machines virtuelles et la façon dont les microservices utilisent les conteneurs,
   - de mettre en œuvre des conteneurs à l’aide de Docker.
+

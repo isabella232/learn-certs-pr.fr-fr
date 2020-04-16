@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Migrer vers SharePoint Online
 metadata:
-  title: 'Formation MS-301T04-A: Migrer vers SharePoint Online'
-  description: 'Formation MS-301T04-A: Migrer vers SharePoint Online'
+  title: 'Course MS-301T04-A: Migrer vers SharePoint Online'
+  description: 'Course MS-301T04-A: Migrer vers SharePoint Online'
 uid: course.ms-301t04
 courseNumber: 'MS-301T04-A'
 hoursToComplete: 24
@@ -30,27 +30,19 @@ exams:
 - uid: exam.ms-301
 summary: |-
   Le climat des entreprises a changé. Les gens souhaitent collaborer sans barrières collaboratives. Les entreprises commencent à considérer la migration du contenu vers le cloud comme une solution rentable qui permettra aux utilisateurs de se connecter de presque partout aux ressources et contenu dont ils ont besoin. Vous apprendrez dans cette formation à planifier les processus de migration de contenu ainsi que les ressources et outils disponibles à utiliser lors de la migration du contenu vers SharePoint Online et OneDrive pour entreprise. Cette formation concerne spécifiquement l’utilisation de l’outil d’évaluation de la migration de SharePoint (SMAT) et de l’outil de migration SharePoint (SPMT) avec différents scénarios de migration.
-  
-  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation.
-  
-  C’est la dernière d'une série de quatre formations pour le d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-301&#58; Déployer SharePoint Server hybride.
 
+  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation.
+
+  C’est la dernière d'une série de quatre formations pour le d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-301&#58;  Déployer SharePoint Server hybride.
   #### Profil de l’audience
   Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
-  
+
   L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
-  
-  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Avoir de l’expérience avec Windows PowerShell.
-  - Avoir une compréhension de base de la gestion d’un SQL Server.
-  - Avoir une compréhension de base de la mise en réseau, notamment le DNS.
-  - Avoir une connaissance pratique de l’administration des serveurs Windows.
-  - Avoir une compréhension de base d’Active Directory et Azure AD.
-  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS).
+
+  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58;  Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58; \n- Avoir de l’expérience avec Windows PowerShell.\n- Avoir une compréhension de base de la gestion d’un SQL Server.\n- Avoir une compréhension de base de la mise en réseau, notamment le DNS.\n- Avoir une connaissance pratique de l’administration des serveurs Windows.\n- Avoir une compréhension de base d’Active Directory et Azure AD.\n- Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)."
 outlineSection: |-
-  ### Module 1&#58; Introduction à la migration
+  ### Module  1&#58;  Introduction à la migration
   Ce module concerne la planification du processus de migration vers le cloud. Il fournit un aperçu des ressources et des outils disponibles pour l’exploitation au cours de la migration.
 
   #### Leçons
@@ -58,11 +50,11 @@ outlineSection: |-
   - Profiter de FastTrack et des services de partenaires
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier le processus de migration de contenu.
+  - de planifier le processus de migration de contenu,
   - de décrire les ressources et les outils disponibles pour l’exploitation au cours du processus de migration.
 
 
-  ### Module 2&#58; Migrer vers SharePoint Online
+  ### Module  2&#58; Migrer vers SharePoint Online
   Ce module se concentre sur l’utilisation de l’outil de migration de SharePoint (SPMT) pour faire migrer du contenu vers le cloud. Il discute spécifiquement des exigences et limitations du SPMT. Il présente plusieurs méthodes de migration différentes pour des sources de données différentes telles que le partage des fichiers et le contenu de SharePoint.
 
   #### Leçons
@@ -71,11 +63,12 @@ outlineSection: |-
   - Gérer et surveiller le processus de migration
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d'accéder aux données à migrer à l’aide de l’outil d'évaluation de la migration SharePoint (SMAT).
-  - de faire migrer le contenu vers le cloud à l’aide de l’outil d'évaluation de la migration SharePoint (SPMT).
+  - d'accéder aux données à migrer à l’aide de l’outil d'évaluation de la migration SharePoint (SMAT),
+  - de faire migrer le contenu vers le cloud à l’aide de l’outil d'évaluation de la migration SharePoint (SPMT),
   - de gérer et surveiller le processus de migration.
 
 
-  ### Module 3&#58; Conclusion de la formation
+  ### Module  3&#58; Conclusion de la formation
 
   #### Laboratoire&#58; Faire migrer des fichiers vers SharePoint Online
+

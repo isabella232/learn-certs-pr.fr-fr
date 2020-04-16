@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Maintenance de Windows 10
+title: Maintaining Windows 10
 metadata:
-  title: 'Formation MD-100T04-A: Maintenance de Windows 10'
-  description: 'Formation MD-100T04-A: Maintenance de Windows 10'
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
 uid: course.md-100t04
 courseNumber: 'MD-100T04-A'
 hoursToComplete: 24
@@ -28,36 +28,31 @@ exams:
 - uid: exam.md-100
 summary: |-
   Dans cette formation, les étudiants apprendront à gérer et à dépanner Windows 10. Cette formation enseignera en profondeur l’architecture et les outils utilisés dans la gestion, la surveillance et le dépannage des applications du système d’exploitation et du matériel. Les étudiants découvriront la méthodologie proactive et de dépannage et comment identifier et mitiger les problèmes communs.
-
   #### Profil de l’audience
   Les candidats à cet examen sont des professionnels de l'informatique qui effectuent l'installation, la configuration, la gestion locale générale et la maintenance des services de base de Windows 10. Les candidats peuvent également être familiarisés à certains scénarios d'entreprise et certains services intégrés au Cloud.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Compréhension de base des réseaux d’ordinateur et des concepts de matériel.
-  - Compréhension de base des concepts du système d’exploitation et des applications.
-  - Expérience d'utilisation du système d’exploitation Windows.
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes &#58; \n- Compréhension de base des réseaux d’ordinateur et des concepts de matériel.\n- Compréhension de base des concepts du système d’exploitation et des applications.\n- Expérience d'utilisation du système d’exploitation Windows."
 outlineSection: |-
-  ### Module 1&#58; Prendre en charge l’environnement Windows 10
+  ### Module  1 &#58;  Prendre en charge l’environnement Windows 10
   Ce module couvrira l’architecture et les environnements communs de Windows 10. Les étudiants découvriront les divers outils utilisés dans l’entretien de Windows. Ce module discutera également des méthodologies pour la résolution efficace des problèmes et comment gérer et optimiser Windows 10 de manière proactive.
   #### Leçons
   - Dépanner Windows
   - Outils de dépannage
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Surveiller Windows 10
+  #### Laboratoire pratique&#58; Surveiller Windows 10
   - Surveiller les événements
   - Surveiller la fiabilité et la performance
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
+  Après avoir terminé ce module, les étudiants seront capables &#58;
   - de décrire l’architecture Windows
   - de décrire les étapes clés dans la résolution des problèmes
   - de décrire l’objectif et les avantages des divers outils Windows
-  - d'utiliser les outils de surveillance pour établir la base de référence de la performance
+  - d'utiliser les outils de surveillance pour établir la base de référence de la performance,
   - d'optimiser la performance sur les clients Windows 10
 
 
-  ### Module 2&#58; Dépannage du système d’exploitation Windows
+  ### Module  2 &#58;  Dépannage du système d’exploitation Windows
   Dans ce module, les étudiants apprendront à résoudre les problèmes de démarrage et de service liés au système d’exploitation.  Ce module enseignera les différentes options de démarrage et de récupération et comment résoudre les différents services Windows.
   #### Leçons
   - Dépanner le démarrage de Windows
@@ -65,36 +60,36 @@ outlineSection: |-
   - Dépanner les problèmes de connexion
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
+  Après avoir terminé ce module, les étudiants seront capables &#58;
   - de décrire les diverses méthodes d’identification et de récupération à la suite de problèmes de démarrage
   - de décrire quand il faut utiliser les différentes options avancées de démarrage
   - d'identifier et de désactiver un service en échec
   - d'identifier et de mitiger les scénarios communs de compte bloqué
 
 
-  ### Module 3&#58; Dépanner les fichiers et les applications
+  ### Module  3 &#58;  Dépanner les fichiers et les applications
   Ce module aide les étudiants à planifier la sauvegarde et le recouvrement des fichiers.  Les étudiants apprendront à planifier et à configurer des stratégies de protection des données et à suivre différentes méthodes de récupération de fichiers et de systèmes.  Ce module comprend également des méthodes communes pour la résolution des problèmes d’installation des applications, la résolution des problèmes de compatibilité et la résolution des problèmes de navigateur.
   #### Leçons
   - Récupération des fichiers dans Windows 10
   - Dépanner les applications
 
 
-  #### Laboratoire&#58; Dépanner les applications bureau
+  #### Laboratoire &#58;  Dépanner les applications bureau
   - Dépanner les applications de la politique AppLocker
   - Résoudre les problèmes liés à la compatibilité des applications
   - Résoudre les problèmes liés à Microsoft Internet Explorer
   - Résoudre les problèmes liés à Microsoft Edge
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
+  Après avoir terminé ce module, les étudiants seront capables &#58;
   - de décrire les différents méthodes de récupération de fichiers
-  - de configurer Windows 10 pour prendre en charge la récupération de fichiers individuels et de systèmes
-  - de récupérer un périphérique à l’aide de la fonction << Reset this PC >>
+  - de configurer Windows 10 pour prendre en charge la récupération de fichiers individuels et de systèmes.
+  - de récupérer un périphérique à l’aide de la fonction « Reset this PC',
   - de résoudre les problèmes de compatibilité des applications à l’aide d’Application Compatibility Toolkit
-  - de résoudre les problèmes communs liés au navigateur
+  - de résoudre les problèmes communs liés au navigateur.
 
 
-  ### Module 4&#58; Dépanner le matériel et les pilotes
+  ### Module  4 &#58;  Dépanner le matériel et les pilotes
   Ce module introduit le dépannage du matériel.  Les étudiants découvriront la gestion des pilotes et la résolution des problèmes de périphériques. Ils apprendront également les étapes du dépannage du matériel et des périphériques externes du système, tels que les périphériques USB et les imprimantes, notamment les méthodes de diagnostic et de correction.
   #### Leçons
   - Dépanner les pilotes en échec
@@ -102,22 +97,23 @@ outlineSection: |-
   - Dépanner les échecs physiques
 
 
-  #### Laboratoire&#58; Résoudre les problèmes liés au pilote du périphérique
+  #### Laboratoire &#58;  Résoudre les problèmes liés au pilote du périphérique
   - Dépanner un pilote de périphérique manquant
   - Résoudre les problèmes liés au matériel
   - Résoudre les problèmes liés au pilote du périphérique
   - Configurer les paramètres d'une stratégie de groupe pour contrôler l’installation d’un périphérique
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de dépanner et de corriger les problèmes liés au pilote
-  - de dépanner les périphériques
-  - de diagnostiquer et de remplacer le matériel
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de dépanner et de corriger les problèmes liés au pilote,
+  - de dépanner les périphériques,
+  - de diagnostiquer et de remplacer le matériel.
 
 
-  ### Module 5&#58; Conclusion de la formation
+  ### Module  5&#58; Conclusion de la formation
   #### Leçons
   - Examen final
 
 
   #### Laboratoire&#58; Exercices de laboratoire notés
+

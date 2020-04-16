@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Installation de Windows 10
 metadata:
-  title: 'Formation MD-100T01-A: Installation de Windows 10'
-  description: 'Formation MD-100T01-A: Installation de Windows 10'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
@@ -25,18 +25,21 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  Dans cette formation, les étudiants apprendront à prendre en charge les tâches d'installation associées à Windows 10. Ils obtiendront des aptitudes qui comprennent l’apprentissage de l’installation et de la personnalisation des systèmes d’exploitation Windows 10. Les étudiants découvriront également le nouveau modèle de service Windows et les méthodes pour garder Windows à jour. La formation se terminera avec des tâches communes de post-installation.
-
+  Dans
+  cette formation, les étudiants apprendront à prendre en charge les tâches d'installation
+  associées à Windows 10. Ils obtiendront des aptitudes qui comprennent l’apprentissage
+  de l’installation et de la personnalisation des systèmes d’exploitation Windows 10. Les étudiants découvriront
+  également le nouveau modèle de service Windows et les méthodes pour garder Windows
+  à jour. La formation se terminera avec des tâches communes de post-installation.
   #### Profil de l’audience
-  Les candidats à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations, une gestion locale générale et une maintenance des services de base de Windows 10.
-  Les candidats peuvent également être habitués à certains scénarios d'entreprise et services intégrés au cloud.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Compréhension de base des réseaux d’ordinateur et des concepts de matériel.
-  - Compréhension de base des concepts du système d’exploitation et des applications.
-  - Expérience d'utilisation du système d’exploitation Windows.
+  Les candidats
+  à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations,
+  une gestion locale générale et une maintenance des services de base de Windows 10.
+  Les candidats peuvent également être habitués à certains scénarios d'entreprise et
+  services intégrés au cloud.
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58; \n- Compréhension de base des réseaux d’ordinateur et des concepts de matériel.\n- Compréhension de base des concepts du système d’exploitation et des applications.\n- Expérience d'utilisation du système d’exploitation Windows."
 outlineSection: |-
-  ### Module 1&#58; Installer Windows
+  ### Module  1&#58;  Installer Windows
   Ce module couvre l’installation du système d’exploitation Windows 10.  Les étudiants découvriront les différentes éditions de Windows 10, les exigences et les nouvelles fonctionnalités introduites. Ce module couvre l’installation du système d’exploitation, ainsi que les méthodes de migration et de mise à niveau. Les étudiants apprendront également quels sont les outils communs utilisés dans le processus de déploiement.
   #### Leçons
   - Introduction à Windows 10
@@ -46,7 +49,7 @@ outlineSection: |-
   - Mettre à niveau vers Windows 10
 
 
-  #### Laboratoire&#58; Installer Windows 10
+  #### Laboratoire&#58;  Installer Windows 10
   - Mettre à niveau Windows 7 vers Windows 10
   - Faire migrer les paramètres utilisateur
 
@@ -57,7 +60,7 @@ outlineSection: |-
   - de pratiquer l’installation de Windows 10 à l’aide d’une machine virtuelle en ligne.
 
 
-  ### Module 2&#58; Mise à jour de Windows
+  ### Module  2&#58;  Mise à jour de Windows
   Dans ce module, les étudiants apprendront à garder Windows 10 à jour. Ils découvriront le nouveau modèle de service Windows et comment il s'applique à divers scénarios. Les étudiants apprendront plusieurs méthodes différentes pour la mise à jour de Windows et des applications, ainsi que la gestion des mises à jour à l'aide d’outils comme la politique de groupe et la mise à jour Windows pour les entreprises.
   #### Leçons
   - Modèle de service Windows
@@ -65,20 +68,20 @@ outlineSection: |-
   - Appliquer les applications et les mises à jour de Windows
 
 
-  #### Laboratoire&#58; Mise à jour de Windows 10
+  #### Laboratoire&#58;  Mise à jour de Windows 10
   - Configurer des mises à jour pour un seul périphérique
   - Configurer des mises à jour avec des GPO
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire le modèle de service Windows
+  - de décrire le modèle de service Windows.
   - de configurer les paramètres de mise à jour de Windows
-  - de décrire la mise à jour de Windows à l’aide de WSUS
+  - de décrire la mise à jour de Windows à l’aide de WSUS.
   - de décrire la mise à jour de Windows à l’aide de la mise à jour de Windows pour les entreprises
   - de configurer la mise à jour de Windows à l’aide d’une politique de groupe
 
 
-  ### Module 3&#58; Configuration et personnalisation post-installation
+  ### Module  3&#58;  Configuration et personnalisation post-installation
   Ce module couvre les tâches de post-installation les plus communes dans Windows 10. Les étudiants apprendront à personnaliser l’interface utilisateur, ainsi qu’à utiliser le panneau de contrôle et l'application de configuration pour configurer les paramètres communs du système d’exploitation. Cette formation présentera également Windows PowerShell aux étudiants.
   #### Leçons
   - de personnaliser l’interface utilisateur de Windows 10,
@@ -87,22 +90,23 @@ outlineSection: |-
   - Décrire l’utilisation de Windows PowerShell
 
 
-  #### Laboratoire&#58; Configurer Windows 10
+  #### Laboratoire&#58;  Configurer Windows 10
   - Utiliser l’application de configuration
   - Utiliser le panneau de contrôle à l’aide du panneau de contrôle
   - Utiliser Windows PowerShell
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de personnaliser l’interface utilisateur de Windows 10
+  - de personnaliser l’interface utilisateur de Windows 10,
   - Configurer les paramètres de périphériques spécifiques tels que les plans d’alimentation et les options de périphériques mobiles
-  - Utiliser le panneau de contrôle et l’application de configuration de Windows pour configurer les paramètres
+  - Utiliser le panneau de contrôle et l’application de configuration de Windows pour configurer les paramètres.
   - Décrire l’utilisation de Windows PowerShell
 
 
-  ### Module 4&#58; Conclusion de la formation
+  ### Module  4&#58; Conclusion de la formation
   #### Leçons
   - Examen final
 
 
   #### Laboratoire&#58; Exercices de laboratoire notés
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Administrer la conformité intégrée de Microsoft 365
 metadata:
-  title: 'Formation MS-500T04-A: Administrer la conformité intégrée de Microsoft 365'
-  description: 'Formation MS-500T04-A: Administrer la conformité intégrée de Microsoft 365'
+  title: 'Course MS-500T04-A: Administrer la conformité intégrée de Microsoft 365'
+  description: 'Course MS-500T04-A: Administrer la conformité intégrée de Microsoft 365'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
@@ -27,92 +27,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  Les politiques internes et les exigences externes pour la conservation et l’enquête sur les données pourraient être nécessaires pour votre organisation. Dans cette formation, vous découvrirez l’archivage et la conservation dans Microsoft 365 ainsi que la gouvernance des données et comment mener des recherches et enquêtes sur le contenu. Cette formation couvre spécifiquement des politiques et des balises de conservation des données, la gestion des enregistrements sur place pour SharePoint, la conservation des messages électroniques et comment conduire les recherches de contenu qui prennent en charge les enquêtes eDiscovery. La formation aide également votre organisation à se préparer au règlement général sur la protection des données (RGPD).
+summary: "Les politiques internes et les exigences externes pour la conservation et l’enquête sur les données pourraient être nécessaires pour votre organisation. Dans cette formation, vous découvrirez l’archivage et la conservation dans Microsoft 365 ainsi que la gouvernance des données et comment mener des recherches et enquêtes sur le contenu. Cette formation couvre spécifiquement des politiques et des balises de conservation des données, la gestion des enregistrements sur place pour SharePoint, la conservation des messages électroniques et comment conduire les recherches de contenu qui prennent en charge les enquêtes eDiscovery. La formation aide également votre organisation à se préparer au règlement général sur la protection des données (RGPD).\n#### Profil de l’audience\nCette formation est destinée au rôle d'administrateur de la sécurité sur Microsoft 365. Ce rôle collabore avec l’administrateur d’entreprise Microsoft 365, avec les parties prenantes de l’entreprise et d'autres administrateurs de charges de travail pour planifier et mettre en œuvre les stratégies de sécurité et s'assurer que les solutions sont conformes aux politiques et réglementations de l’organisation. \n\nCe rôle sécurise de manière proactive les environnements d’entreprise de Microsoft 365. Les responsabilités englobent la réponse aux menaces, la mise en œuvre, la gestion et la surveillance des solutions de sécurité et de conformité de l’environnement Microsoft 365. Elles répondent aux incidents, aux enquêtes et à l'application de la gouvernance des données. \n\nL’administrateur de la sécurité de Microsoft 365 est habitué aux charges de travail de Microsoft 365 et possède des compétences solides et de l’expérience dans la protection de l’identité, la protection des informations, la protection contre les menaces, la gestion de la sécurité et la gouvernance des données. Ce rôle se concentre sur l’environnement Microsoft 365 et comprend des environnements hybrides."
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58; \n- Une compréhension conceptuelle de base de Microsoft Azure\n- De l’expérience avec les périphériques Windows 10\n- De l’expérience avec Office 365\n- Une compréhension de base des autorisations et de l’authentification\n- Une compréhension de base des réseaux informatiques\n- Une connaissance pratique de la gestion des périphériques mobiles"
+outlineSection: "### Module  1&#58;  Archivage et conservation\nCe module explique les concepts liés à la conservation et à l’archivage des données pour Microsoft 365, y compris Exchange et SharePoint.\n\n#### Leçons\n- Archivage dans Microsoft 365\n- Conservation dans Microsoft 365\n- Politiques de conservation dans le centre de sécurité et de conformité\n- Archivage et conservation dans Exchange\n- Gestion des enregistrements sur place dans SharePoint\n\n\n#### Laboratoire&#58;  Archivage et conservation\n- Créer et octroyer des licences aux utilisateurs de votre organisation\n- Configurer les balises et les politiques de conservation\n- Politiques de conservation MRM\n\nÀ la fin de ce module, vous devez être capables&#58; \n- de décrire la gouvernance des données dans Microsoft 365,\n- de décrire la différence entre l’archivage sur place et la gestion des enregistrements,\n- d'expliquer comment les données sont archivées dans Exchange,\n- de reconnaître les avantages de la gestion des enregistrements sur place dans SharePoint,\n- d'expliquer la différence entre la gestion des enregistrements de messages (MRM) dans Exchange et la conservation dans le centre de sécurité et de conformité,\n- d'expliquer le fonctionnement d’une politique de conservation,\n- de créer une politique de conservation,\n- d'activer et de désactiver l’archivage sur place,\n- de créer des balises de conservation utiles.\n\n\n### Module  2&#58;  Gouvernance des données dans Microsoft 365\nCe module se concentre sur la gouvernance des données dans Microsoft 365. Ce module vous présentera Compliance Manager et discutera du RGPD.\n#### Leçons\n- Planifier les besoins en matière de sécurité et de conformité\n- Construire des murs éthiques dans Exchange Online\n- Gérer la conservation dans le courrier électronique\n- Dépanner la gouvernance des données\n- Analyses et télémétrie\n\nÀ la fin de ce module, vous devez être capables&#58; \n- de planifier les rôles de sécurité et de conformité,\n- de décrire ce que vous devez prendre en considération dans le GRPD,\n- de décrire une muraille déontologique dans Exchange et son fonctionnement,\n- de travailler avec les balises de conservation dans des boîtes aux lettres,\n- de décrire les politiques de conservation avec des messages électroniques et des fichiers de messagerie,\n- d'expliquer comment l’âge de conservation des éléments est calculé,\n- de réparer les politiques de conservation qui ne fonctionnent pas comme prévu.\n\n\n### Module  3&#58;  Gérer la recherche et les investigations\nCe module est axé sur la recherche de contenu et les investigations.  Il couvre spécifiquement l’utilisation de eDiscovery pour mener des enquêtes avancées sur les données de Microsoft 365. Il couvre également les journaux d'audit et discute des demandes des sujets de données du RGPD.\n#### Leçons\n- Rechercher du contenu dans le centre de sécurité et de conformité\n- Faire l'audit des enquêtes de journal\n- eDiscovery avancé\n\n\n#### Laboratoire&#58; eDiscovery\n- Créer et octroyer des licences aux utilisateurs de votre organisation\n- Enquêter sur votre données Microsoft 365\n\nÀ la fin de ce module, vous devez être capables&#58; \n- de décrire comment utiliser la recherche de contenu,\n- de concevoir votre recherche de contenu,\n- de configurer le filtrage des permissions de recherche,\n- de décrire le journal d'audit et les autorisations nécessaires pour rechercher le journal d'audit d’Office 365,\n- de configurer les politiques d'audit,\n- de saisir des critères pour rechercher le journal d'audit,\n- d'exporter les résultats de recherches vers un fichier CSV,\n- de décrire eDiscovery avancé et les exigences nécessaires,\n- d'analyser les données dans eDiscovery avancé,\n- d'afficher le journal d’événements d’eDiscovery avancé,\n- d'utiliser Express Analytics."
 
-  #### Profil de l’audience
-  Cette formation est destinée au rôle d'administrateur de la sécurité sur Microsoft 365. Ce rôle collabore avec l’administrateur d’entreprise Microsoft 365, avec les parties prenantes de l’entreprise et d'autres administrateurs de charges de travail pour planifier et mettre en œuvre les stratégies de sécurité et s'assurer que les solutions sont conformes aux politiques et réglementations de l’organisation. 
-  
-  Ce rôle sécurise de manière proactive les environnements d’entreprise de Microsoft 365. Les responsabilités englobent la réponse aux menaces, la mise en œuvre, la gestion et la surveillance des solutions de sécurité et de conformité de l’environnement Microsoft 365. Elles répondent aux incidents, aux enquêtes et à l'application de la gouvernance des données. 
-  
-  L’administrateur de la sécurité de Microsoft 365 est habitué aux charges de travail de Microsoft 365 et possède des compétences solides et de l’expérience dans la protection de l’identité, la protection des informations, la protection contre les menaces, la gestion de la sécurité et la gouvernance des données. Ce rôle se concentre sur l’environnement Microsoft 365 et comprend des environnements hybrides.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Une compréhension conceptuelle de base de Microsoft Azure
-  - De l’expérience avec les périphériques Windows 10
-  - De l’expérience avec Office 365
-  - Une compréhension de base des autorisations et de l’authentification
-  - Une compréhension de base des réseaux informatiques
-  - Une connaissance pratique de la gestion des périphériques mobiles
-outlineSection: |-
-  ### Module 1&#58; Archivage et conservation
-  Ce module explique les concepts liés à la conservation et à l’archivage des données pour Microsoft 365, y compris Exchange et SharePoint.
-
-  #### Leçons
-  - Archivage dans Microsoft 365
-  - Conservation dans Microsoft 365
-  - Politiques de conservation dans le centre de sécurité et de conformité
-  - Archivage et conservation dans Exchange
-  - Gestion des enregistrements sur place dans SharePoint
-
-
-  #### Laboratoire&#58; Archivage et conservation
-  - Créer et octroyer des licences aux utilisateurs de votre organisation
-  - Configurer les balises et les politiques de conservation
-  - Politiques de conservation MRM
-
-  À la fin de ce module, vous devez être capables&#58;
-  - de décrire la gouvernance des données dans Microsoft 365.
-  - de décrire la différence entre l’archivage sur place et la gestion des enregistrements.
-  - d'expliquer comment les données sont archivées dans Exchange.
-  - de reconnaître les avantages de la gestion des enregistrements sur place dans SharePoint.
-  - d'expliquer la différence entre la gestion des enregistrements de messages (MRM) dans Exchange et la conservation dans le centre de sécurité et de conformité.
-  - d'expliquer le fonctionnement d’une politique de conservation,
-  - de créer une politique de conservation.
-  - d'activer et de désactiver l’archivage sur place.
-  - de créer des balises de conservation utiles.
-
-
-  ### Module 2&#58; Gouvernance des données dans Microsoft 365
-  Ce module se concentre sur la gouvernance des données dans Microsoft 365. Ce module vous présentera Compliance Manager et discutera du RGPD.
-  #### Leçons
-  - Planifier les besoins en matière de sécurité et de conformité
-  - Construire des murs éthiques dans Exchange Online
-  - Gérer la conservation dans le courrier électronique
-  - Dépanner la gouvernance des données
-  - Analyses et télémétrie
-
-  À la fin de ce module, vous devez être capables&#58;
-  - de planifier les rôles de sécurité et de conformité.
-  - de décrire ce que vous devez prendre en considération dans le GRPD.
-  - de décrire une muraille déontologique dans Exchange et son fonctionnement.
-  - de travailler avec les balises de conservation dans des boîtes aux lettres.
-  - de décrire les politiques de conservation avec des messages électroniques et des fichiers de messagerie.
-  - d'expliquer comment l’âge de conservation des éléments est calculé.
-  - de réparer les politiques de conservation qui ne fonctionnent pas comme prévu.
-
-
-  ### Module 3&#58; Gérer la recherche et les investigations
-  Ce module est axé sur la recherche de contenu et les investigations.  Il couvre spécifiquement l’utilisation de eDiscovery pour mener des enquêtes avancées sur les données de Microsoft 365. Il couvre également les journaux d'audit et discute des demandes des sujets de données du RGPD.
-  #### Leçons
-  - Rechercher du contenu dans le centre de sécurité et de conformité
-  - Faire l'audit des enquêtes de journal
-  - eDiscovery avancé
-
-
-  #### Laboratoire&#58; eDiscovery
-  - Créer et octroyer des licences aux utilisateurs de votre organisation
-  - Enquêter sur votre données Microsoft 365
-
-  À la fin de ce module, vous devez être capables&#58;
-  - de décrire comment utiliser la recherche de contenu.
-  - de concevoir votre recherche de contenu.
-  - de configurer le filtrage des permissions de recherche.
-  - de décrire le journal d'audit et les autorisations nécessaires pour rechercher le journal d'audit d’Office 365.
-  - de configurer les politiques d'audit.
-  - de saisir des critères pour rechercher le journal d'audit.
-  - d'exporter les résultats de recherches vers un fichier CSV.
-  - de décrire eDiscovery avancé et les exigences nécessaires.
-  - d'analyser les données dans eDiscovery avancé.
-  - d'afficher le journal d’événements d’eDiscovery avancé.
-  - d'utiliser Express Analytics.

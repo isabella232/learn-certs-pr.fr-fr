@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Configurer et utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Formation MB-310T01-A: Configurer et utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations'
-  description: 'Formation MB-310T01-A: Configurer et utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations'
+  title: 'Course MB-310T01-A: Configurer et utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations'
+  description: 'Course MB-310T01-A: Configurer et utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations'
 uid: course.mb-310t01
 courseNumber: 'MB-310T01-A'
 hoursToComplete: 48
@@ -21,182 +21,11 @@ exams:
 - uid: exam.mb-310
 summary: |-
   Les organisations utilisent Dynamics 365 for Finance and Operations pour rehausser leur performance financière en accroissant leur rentabilité, en optimisant la productivité de la main d’œuvre, en réduisant les dépenses opérationnelles, en s'adaptant rapidement aux changements des exigences et en rationalisant la gestion des actifs.
-
   Cette formation discute de la manière de configurer et d'utiliser des composants essentiels de la gestion financière dans Dynamics 365 for Finance and Operations.
 
   #### Profil de l’audience
   Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 prerequisitesSection: |-
   Une compréhension de base des concepts d’ERP et de CRM.
-outlineSection: |-
-  ### Module 1&#58; Gestion financière
-  Dans ce module, les étudiants découvriront certains avantages de la gestion financière de Dynamics 365 for Finance and Operations.
-  #### Leçons
-  - Avantages de la gestion financière
-  - Gestion financière
-  - Résumé du module
+outlineSection: "### Module  1&#58; Gestion financière\nDans ce module, les étudiants découvriront certains avantages de la gestion financière de Dynamics 365 for Finance and Operations.\n#### Leçons\n- Avantages de la gestion financière\n- Gestion financière\n- Résumé du module\n\nLes étudiants se sont familiarisés avec les modules de la finance et des opérations liés à la gestion financière et aux caractéristiques et fonctionnalités générales.\n\n### Module  2&#58;  Configurer les devises\nL’une des premières et plus importantes étapes de la mise en œuvre de la gestion financière dans Dynamics 365 for Finance and Operations est l’établissement des devises. L’établissement des devises est une étape nécessaire dans la configuration du système et est utilisée pour enregistrer les transactions financières. Ce module explique la gestion des devises dans Finance and Operations\n#### Leçons\n- Introduction\n- Établir des devises et des conversions d’entités légales\n- Configurer et importer des taux de change des devises\n- Laboratoire pratique\n- Résumé du module\n\nLes étudiants ont à présent découvert les différents types de devises dans Finance and Operations Ils se sont familiarisés avec le concept de triangulation des devises, comment établir les devises et les conversions des entités légales. Les étudiants ont appris grâce à la vidéo comment configurer les fournisseurs de taux de change et les utiliser pour importer des taux de change dans un type de taux de change.\n\n### Module  3&#58;  Créer des calendriers, des années et des périodes fiscaux\nAvant de comptabiliser les transactions, une nouvelle année fiscale doit être divisée en périodes. C’est parce qu’il n’est pas possible de publier des transactions sans créer une période pour la date de comptabilisation et la partager à travers plusieurs entités légales. Un des avantages du partage des calendriers fiscaux est que cela prend en charge de nombreux calendriers fiscaux pour chaque entité légale. L'année fiscale dans Finance and Operations peut être définie selon n’importe quelle durée et divisée en n’importe quel nombre de périodes. Ce module explique la gestion des calendriers fiscaux et du grand livre dans Finance and Operations\n#### Leçons\n- Introduction\n- Créer des calendriers, des années et des périodes fiscaux\n- Créer des intervalles de date\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- faire la différence entre le grand livre et le calendrier fiscal,\n- configurer et définir les calendriers, années et périodes fiscaux,\n- créer et utiliser des intervalles de date.\n\n\n### Module  4&#58;  Configurer le tableau de comptes\nUn tableau de comptes est un ensemble de comptes principaux dans Finance and Operations, qui réunit les informations financières lors de la comptabilisation d’un journal. Un numéro de compte est attribué à chaque compte en tant qu’identifiant unique.\n#### Leçons\n- Introduction\n- Définir et configurer le tableau de comptes\n- Définir et configurer les dimensions financières\n- Définir et configurer les structures et règles de compte\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- identifier les composants requis pour le tableau de comptes,\n- Définir et configurer le tableau de comptes\n- définir et configurer les dimensions financières et les ensembles de dimensions,\n- configurer le tableau de comptes, les principaux comptes, les catégories, les modèles, le pseudonyme du grand livre et le contrôle du solde,\n- configurer les structures et les règles avancées des comptes.\n\n\n### Module  5&#58;  Configurer le grand livre et les journaux\nUn journal est une feuille de travail qu’il est possible d’utiliser avant de saisir manuellement les comptabilisations dans le système. Lorsque le journal est correctement défini, il permet de gérer la comptabilisation de manière rapide et efficace. Pour utiliser un journal, il faut avoir un nom de journal et la configuration d'un grand livre, d’un journalet la comptabilisation du module du grand livre doit être complète. En utilisant le journal du grand livre directement ou par le biais de l’espace de traitement du grand livre, il est possible d’effectuer des activités quotidiennes en tant que personne à laquelle on a attribué un rôle de sécurité adapté pour accéder au grand livre. Un nom de journal fournit aux leaders financiers la capacité de contrôler la validation des saisies de données et de limiter la comptabilisation d’un nom de journal différemment selon les utilisateurs.\n#### Leçons\n- Les journaux et leur définition\n- Configurer la définition du grand livre et des journaux\n- Journaux d’utilisateur\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module les étudiants ont découvert&#58; \n- les différents types de journaux et leur configuration,\n- comment configurer une définition de grand livre et de comptabilisation,\n- comment configurer et utiliser les journaux.\n\n\n### Module  6&#58;  Configurer la gestion de trésorerie et de banque\nDans Dynamics 365 for Finance and Operations, les organisations utilisent le module de gestion de trésorerie et de banque pour créer et maintenir les comptes bancaires. Le tableau du compte bancaire comprend un enregistrement pour chaque compte bancaire. Chaque enregistrement comprend les informations du compte bancaire, telles que le numéro d’enregistrement et le numéro de compte, l’adresse, d'autres coordonnées, la devise, la configuration des chèques et le compte principal pour la comptabilisation. Finance and Operations utilisent ces informations pour traiter toutes les transactions bancaires, telles que les paiements et les dépôts.\n#### Leçons\n- Introduction\n- Types et groupes de transactions bancaires\n- Définir les paramètres de gestion de trésorerie et de banque\n- Configurer les banques et les chèques de banque\n- Dépôts et chèques de remboursement\n- Trésorerie\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- créer et configurer des banques,\n- créer et configurer des dispositions de banque,\n- configurer les paramètres de gestion de trésorerie et de banque,\n- définir les banques des fournisseurs et des clients,\n- configurer les prévisions et les rapports de trésorerie.\n\n\n### Module  7&#58;  Utiliser la gestion de trésorerie et de banque\nCe module couvre les principales procédures du module de gestion de trésorerie et de banque dans Finance and Operations Les étudiants ont appris à travailler dans les espaces de travail de gestion de trésorerie et de banque, comme la gestion de banque et les aperçus de trésorerie. Les étudiants ont également découvert les processus et procédures de la gestion de trésorerie et de banque, comme les dépôts et l’annulation des paiements (dépôts). Finance and Operations fournissent une fonctionnalité pour gérer le payement par chèques, ainsi que des procédures pour résoudre les situations spéciales liées aux chèques. En plus des possibilités de générer et d'émettre des chèques, il est possible de supprimer, de rembourser et d'annuler des chèques, conformément aux spécifications de l’entreprise. Comme Finance and Operations enregistrent toutes les transactions financières, les entreprises peuvent utiliser la fonction de réconciliation de comptes bancaires pour faire correspondre les enregistrements internes des transactions de l’entreprise aux relevés de compte bancaire.\n#### Leçons\n- Effectuer des dépôts et des contrepassations\n- Utiliser les espaces de gestion de trésorerie et de banque\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- travailler avec les processus de gestion de trésorerie et de banque,\n- Utiliser les espaces de gestion de trésorerie et de banque\n- effectuer des dépôts,\n- supprimer des paiements.\n\n\n### Module  8&#58;  Configurer les lettres de crédit et les garanties\nLes étudiants savent déjà ce que sont les lettres bancaires, comment configurer les lettres de crédit pour créer des documents bancaires couramment utilisés pour l’achat et la vente de marchandises à travers des frontières internationales et ce que sont les lettres de garantie, dans lesquelles la banque accepte de payer un montant spécifique à une personne si l’un des clients de la banque est en retard de paiement ou d’une obligation envers cette personne.\n#### Leçons\n- Introduction\n- Configurer les lettres de crédit\n- Configurer les lettres de garantie\n- Résumé du module\n\nLes étudiants comprendront ce que sont les lettres bancaires et les lettres de crédit et de garantie.\n\n### Module  9&#58;  Effectuer des procédures quotidiennes\nChaque comptabilisation manuelle est saisie dans Finance and Operations par le biais d'un journal. Un journal est un type de feuille de calcul où les entrées ne sont pas immédiatement publiées. Il est possible de passer en revue, modifier et vérifier les journaux complétés jusqu’à ce qu’ils soient prêts à être comptabilisés. Un modèle de bon est un bon qui peut être utilisé comme base pour de futurs bons dans d’autres entrées de journal. Il est possible d'utiliser des modèles de bons avec un journal général ou avec n’importe quel journal financier du grand livre auxiliaire, tels que les journaux des comptes créditeurs ou débiteurs. Il est possible de fixer des limites sur l’entreprise, le type de comptes et les valeurs des segments.\n#### Leçons\n- Découvrir les processus du grand livre\n- Créer des modèles de bons\n- Définir des contrôles de journal\n- Laboratoire pratique\n- Résumé du module\n\nLes étudiants savent maintenant comment traiter les activités quotidiennes du grand livre et utiliser les contrôles de journal pour appliquer les règles au cours de la saisie des données. Ils ont travaillé avec les comptes de contrôle de solde pour consulter les soldes des comptes bancaires ou de la trésorerie. \n\nLes étudiants ont également appris qu’il n’est possible d’utiliser le contrôle de solde avant la comptabilisation que pour s'assurer que les entrées sont correctes.\n\nFinalement, ils ont appris comment profiter des modèles de bons pour le montant, il s'agit simplement de copier le montant exact du bon en tant que nouvelles lignes, ou le pourcentage, qui convertit les montants du bon en facteurs de pourcentage. Cela permet d'appliquer n’importe quel montant lorsque le modèle de bon est sélectionné.\n\n### Module  10&#58;  Comptabilité intersociété\nLa comptabilité intersociété peut aider les organisations à fournir un point d’entrée unique aux transactions qui doivent être enregistrées dans plusieurs entreprises. Effectuer les transactions à partir d’une seule entreprise économise le temps de saisie des données et aide à garantir que les transactions qui affectent plusieurs entreprises sont enregistrées dans chacune d’elles. Finance and Operations aident également à suivre les entrées intersociétés dans le système. Elles fournissent la fonctionnalité exigée par la plupart des entreprises qui traitent des opérations intersociétés. Cela comprend la capacité d’enregistrer efficacement des bons de commande, des bons d'achat et des paiements en espèces à un niveau intersociété.\n#### Leçons\n- Définir et utiliser la comptabilité intersociété\n- Laboratoire pratique\n- Résumé du module\n\nLes étudiants seront capables de définir et d’utiliser la comptabilité intersociété.\n\n### Module  11&#58;  Configurer les allocations et les accumulations du grand livre\nFinance and Operations fournissent la possibilité de prendre en charges les systèmes d'accumulations.\n#### Leçons\n- Introduction\n- Configurer et appliquer les systèmes d'accumulation\n- Configurer les règles d'allocation du grand livre\n- Laboratoires pratiques\n- Résumé du module\n\nLes étudiants auront appris comment configurer et utiliser les règles d’allocation, ainsi que la configuration et l’utilisation des systèmes d'accumulation. Finance and Operations fournissent les capacités suivantes pour prendre en charges ce processus&#58; \n- Attribuer manuellement les montants des transactions à l’aide du fractionnement des distributions comptables ou par l’application de modèles de dimension financière par défaut à un document.\n- Attribuer automatiquement les montants des transactions sur la base des conditions d'attribution définies individuellement dans le compte principal. Les entrées du compte d'attribution seront générées pour chaque journal sur la base du pourcentage et du compte de destination du grand livre lorsqu’une entrée comptable répond aux critères définis comme étant le compte source du grand livre.\n- Attribuer automatiquement les soldes du grand livre ou les montants fixes sur la base des règles d'attribution du grand livre. Les règles d'attribution du grand livre sont traitées sur une base périodique à l’aide des journaux d'attribution.\n\n\n### Module  12&#58;  Configurer la taxe de vente\nLes exigences de calcul de taxe et de rapport de taxe sont très différents selon les pays ou les régions. Par conséquent, le module Taxe de Dynamics 365 for Finance and Operations est extrêmement global.\n#### Leçons\n- Comprendre les composants de l’engin fiscal\n- Laboratoire pratique\n- Résumé du module\n\nLes étudiants sont maintenant informés sur les capacités de rapport de taxe au niveau des pays et des régions dans Finance and Operations\n\nDans ce module, les étudiants ont appris comment configurer les composants fiscaux, tels que les autorités de la taxe de vente, les délais de paiement et les codes de la taxe de vente. De plus, ils ont appris que les codes de la taxe de vente sont le principal composant pour la définition des calculs de taxe et la connexion à tous les autres composants de la taxe afin que Finance and Operations puissent automatiquement calculer et publier les transactions de paiement sur la base de l'intervalle du délai attribué par une autorité.\n\n### Module  13&#58; Conclusion de la formation\nUne évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.\n#### Leçons\n- Évaluation finale\n- Résumé de la formation\n- Sondage après la conclusion de la formation\n\nLes étudiants auront terminé la formation."
 
-  Les étudiants se sont familiarisés avec les modules de la finance et des opérations liés à la gestion financière et aux caractéristiques et fonctionnalités générales.
-
-  ### Module 2&#58; Configurer les devises
-  L’une des premières et plus importantes étapes de la mise en œuvre de la gestion financière dans Dynamics 365 for Finance and Operations est l’établissement des devises. L’établissement des devises est une étape nécessaire dans la configuration du système et est utilisée pour enregistrer les transactions financières. Ce module explique la gestion des devises dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Établir des devises et des conversions d’entités légales
-  - Configurer et importer des taux de change des devises
-  - Laboratoire pratique
-  - Résumé du module
-
-  Les étudiants ont à présent découvert les différents types de devises dans Finance and Operations Ils se sont familiarisés avec le concept de triangulation des devises, comment établir les devises et les conversions des entités légales. Les étudiants ont appris grâce à la vidéo comment configurer les fournisseurs de taux de change et les utiliser pour importer des taux de change dans un type de taux de change.
-
-  ### Module 3&#58; Créer des calendriers, des années et des périodes fiscaux
-  Avant de comptabiliser les transactions, une nouvelle année fiscale doit être divisée en périodes. C’est parce qu’il n’est pas possible de publier des transactions sans créer une période pour la date de comptabilisation et la partager à travers plusieurs entités légales. Un des avantages du partage des calendriers fiscaux est que cela prend en charge de nombreux calendriers fiscaux pour chaque entité légale. L'année fiscale dans Finance and Operations peut être définie selon n’importe quelle durée et divisée en n’importe quel nombre de périodes. Ce module explique la gestion des calendriers fiscaux et du grand livre dans Finance and Operations.
-  #### Leçons
-  - Introduction
-  - Créer des calendriers, des années et des périodes fiscaux
-  - Créer des intervalles de date
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - faire la différence entre le grand livre et le calendrier fiscal
-  - configurer et définir les calendriers, années et périodes fiscaux
-  - créer et utiliser des intervalles de date
-
-
-  ### Module 4&#58; Configurer le tableau de comptes
-  Un tableau de comptes est un ensemble de comptes principaux dans Finance and Operations, qui réunit les informations financières lors de la comptabilisation d’un journal. Un numéro de compte est attribué à chaque compte en tant qu’identifiant unique.
-  #### Leçons
-  - Introduction
-  - Définir et configurer le tableau de comptes
-  - Définir et configurer les dimensions financières
-  - Définir et configurer les structures et règles de compte
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - identifier les composants requis pour le tableau de comptes
-  - Définir et configurer le tableau de comptes
-  - définir et configurer les dimensions financières et les ensembles de dimensions
-  - configurer le tableau de comptes, les principaux comptes, les catégories, les modèles, le pseudonyme du grand livre et le contrôle du solde
-  - configurer les structures et les règles avancées des comptes
-
-
-  ### Module 5&#58; Configurer le grand livre et les journaux
-  Un journal est une feuille de travail qu’il est possible d’utiliser avant de saisir manuellement les comptabilisations dans le système. Lorsque le journal est correctement défini, il permet de gérer la comptabilisation de manière rapide et efficace. Pour utiliser un journal, il faut avoir un nom de journal et la configuration d'un grand livre, d’un journalet la comptabilisation du module du grand livre doit être complète. En utilisant le journal du grand livre directement ou par le biais de l’espace de traitement du grand livre, il est possible d’effectuer des activités quotidiennes en tant que personne à laquelle on a attribué un rôle de sécurité adapté pour accéder au grand livre. Un nom de journal fournit aux leaders financiers la capacité de contrôler la validation des saisies de données et de limiter la comptabilisation d’un nom de journal différemment selon les utilisateurs.
-  #### Leçons
-  - Les journaux et leur définition
-  - Configurer la définition du grand livre et des journaux
-  - Journaux d’utilisateur
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module les étudiants ont découvert&#58;
-  - les différents types de journaux et leur configuration
-  - comment configurer une définition de grand livre et de comptabilisation
-  - comment configurer et utiliser les journaux
-
-
-  ### Module 6&#58; Configurer la gestion de trésorerie et de banque
-  Dans Dynamics 365 for Finance and Operations, les organisations utilisent le module de gestion de trésorerie et de banque pour créer et maintenir les comptes bancaires. Le tableau du compte bancaire comprend un enregistrement pour chaque compte bancaire. Chaque enregistrement comprend les informations du compte bancaire, telles que le numéro d’enregistrement et le numéro de compte, l’adresse, d'autres coordonnées, la devise, la configuration des chèques et le compte principal pour la comptabilisation. Finance and Operations utilisent ces informations pour traiter toutes les transactions bancaires, telles que les paiements et les dépôts.
-  #### Leçons
-  - Introduction
-  - Types et groupes de transactions bancaires
-  - Définir les paramètres de gestion de trésorerie et de banque
-  - Configurer les banques et les chèques de banque
-  - Dépôts et chèques de remboursement
-  - Trésorerie
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - créer et configurer des banques
-  - créer et configurer des dispositions de banque
-  - configurer les paramètres de gestion de trésorerie et de banque
-  - définir les banques des fournisseurs et des clients
-  - configurer les prévisions et les rapports de trésorerie
-
-
-  ### Module 7&#58; Utiliser la gestion de trésorerie et de banque
-  Ce module couvre les principales procédures du module de gestion de trésorerie et de banque dans Finance and Operations Les étudiants ont appris à travailler dans les espaces de travail de gestion de trésorerie et de banque, comme la gestion de banque et les aperçus de trésorerie. Les étudiants ont également découvert les processus et procédures de la gestion de trésorerie et de banque, comme les dépôts et l’annulation des paiements (dépôts). Finance and Operations fournissent une fonctionnalité pour gérer le payement par chèques, ainsi que des procédures pour résoudre les situations spéciales liées aux chèques. En plus des possibilités de générer et d'émettre des chèques, il est possible de supprimer, de rembourser et d'annuler des chèques, conformément aux spécifications de l’entreprise. Comme Finance and Operations enregistrent toutes les transactions financières, les entreprises peuvent utiliser la fonction de réconciliation de comptes bancaires pour faire correspondre les enregistrements internes des transactions de l’entreprise aux relevés de compte bancaire.
-  #### Leçons
-  - Effectuer des dépôts et des contrepassations
-  - Utiliser les espaces de gestion de trésorerie et de banque
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - travailler avec les processus de gestion de trésorerie et de banque
-  - Utiliser les espaces de gestion de trésorerie et de banque
-  - effectuer des dépôts
-  - supprimer des paiements
-
-
-  ### Module 8&#58; Configurer les lettres de crédit et les garanties
-  Les étudiants savent déjà ce que sont les lettres bancaires, comment configurer les lettres de crédit pour créer des documents bancaires couramment utilisés pour l’achat et la vente de marchandises à travers des frontières internationales et ce que sont les lettres de garantie, dans lesquelles la banque accepte de payer un montant spécifique à une personne si l’un des clients de la banque est en retard de paiement ou d’une obligation envers cette personne.
-  #### Leçons
-  - Introduction
-  - Configurer les lettres de crédit
-  - Configurer les lettres de garantie
-  - Résumé du module
-
-  Les étudiants comprendront ce que sont les lettres bancaires et les lettres de crédit et de garantie.
-
-  ### Module 9&#58; Effectuer des procédures quotidiennes
-  Chaque comptabilisation manuelle est saisie dans Finance and Operations par le biais d'un journal. Un journal est un type de feuille de calcul où les entrées ne sont pas immédiatement publiées. Il est possible de passer en revue, modifier et vérifier les journaux complétés jusqu’à ce qu’ils soient prêts à être comptabilisés. Un modèle de bon est un bon qui peut être utilisé comme base pour de futurs bons dans d’autres entrées de journal. Il est possible d'utiliser des modèles de bons avec un journal général ou avec n’importe quel journal financier du grand livre auxiliaire, tels que les journaux des comptes créditeurs ou débiteurs. Il est possible de fixer des limites sur l’entreprise, le type de comptes et les valeurs des segments.
-  #### Leçons
-  - Découvrir les processus du grand livre
-  - Créer des modèles de bons
-  - Définir des contrôles de journal
-  - Laboratoire pratique
-  - Résumé du module
-
-  Les étudiants savent maintenant comment traiter les activités quotidiennes du grand livre et utiliser les contrôles de journal pour appliquer les règles au cours de la saisie des données. Ils ont travaillé avec les comptes de contrôle de solde pour consulter les soldes des comptes bancaires ou de la trésorerie. 
-  
-  Les étudiants ont également appris qu’il n’est possible d’utiliser le contrôle de solde avant la comptabilisation que pour s'assurer que les entrées sont correctes.
-  
-  Finalement, ils ont appris comment profiter des modèles de bons pour le montant, il s'agit simplement de copier le montant exact du bon en tant que nouvelles lignes, ou le pourcentage, qui convertit les montants du bon en facteurs de pourcentage. Cela permet d'appliquer n’importe quel montant lorsque le modèle de bon est sélectionné.
-
-  ### Module 10&#58; Comptabilité intersociété
-  La comptabilité intersociété peut aider les organisations à fournir un point d’entrée unique aux transactions qui doivent être enregistrées dans plusieurs entreprises. Effectuer les transactions à partir d’une seule entreprise économise le temps de saisie des données et aide à garantir que les transactions qui affectent plusieurs entreprises sont enregistrées dans chacune d’elles. Finance and Operations aident également à suivre les entrées intersociétés dans le système. Elles fournissent la fonctionnalité exigée par la plupart des entreprises qui traitent des opérations intersociétés. Cela comprend la capacité d’enregistrer efficacement des bons de commande, des bons d'achat et des paiements en espèces à un niveau intersociété.
-  #### Leçons
-  - Définir et utiliser la comptabilité intersociété
-  - Laboratoire pratique
-  - Résumé du module
-
-  Les étudiants seront capables de définir et d’utiliser la comptabilité intersociété.
-
-  ### Module 11&#58; Configurer les allocations et les accumulations du grand livre
-  Finance and Operations fournissent la possibilité de prendre en charges les systèmes d'accumulations.
-  #### Leçons
-  - Introduction
-  - Configurer et appliquer les systèmes d'accumulation
-  - Configurer les règles d'allocation du grand livre
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Les étudiants auront appris comment configurer et utiliser les règles d’allocation, ainsi que la configuration et l’utilisation des systèmes d'accumulation. Finance and Operations fournissent les capacités suivantes pour prendre en charges ce processus&#58;
-  - Attribuer manuellement les montants des transactions à l’aide du fractionnement des distributions comptables ou par l’application de modèles de dimension financière par défaut à un document.
-  - Attribuer automatiquement les montants des transactions sur la base des conditions d'attribution définies individuellement dans le compte principal. Les entrées du compte d'attribution seront générées pour chaque journal sur la base du pourcentage et du compte de destination du grand livre lorsqu’une entrée comptable répond aux critères définis comme étant le compte source du grand livre.
-  - Attribuer automatiquement les soldes du grand livre ou les montants fixes sur la base des règles d'attribution du grand livre. Les règles d'attribution du grand livre sont traitées sur une base périodique à l’aide des journaux d'attribution.
-
-
-  ### Module 12&#58; Configurer la taxe de vente
-  Les exigences de calcul de taxe et de rapport de taxe sont très différents selon les pays ou les régions. Par conséquent, le module Taxe de Dynamics 365 for Finance and Operations est extrêmement global.
-  #### Leçons
-  - Comprendre les composants de l’engin fiscal
-  - Laboratoire pratique
-  - Résumé du module
-
-  Les étudiants sont maintenant informés sur les capacités de rapport de taxe au niveau des pays et des régions dans Finance and Operations.
-  
-  Dans ce module, les étudiants ont appris comment configurer les composants fiscaux, tels que les autorités de la taxe de vente, les délais de paiement et les codes de la taxe de vente. De plus, ils ont appris que les codes de la taxe de vente sont le principal composant pour la définition des calculs de taxe et la connexion à tous les autres composants de la taxe afin que Finance and Operations puissent automatiquement calculer et publier les transactions de paiement sur la base de l'intervalle du délai attribué par une autorité.
-
-  ### Module 13&#58; Conclusion de la formation
-  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
-  #### Leçons
-  - Évaluation finale
-  - Résumé de la formation
-  - Sondage après la conclusion de la formation
-
-  Les étudiants auront terminé la formation.

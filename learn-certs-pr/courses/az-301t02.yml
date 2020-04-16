@@ -1,22 +1,22 @@
 ### YamlMime:Course
 title: Concevoir une solution de plateforme de données
 metadata:
-  title: "Formation AZ-301T02-A: Conception d'une solution de plateforme de données"
-  description: "Formation AZ-301T02-A: Conception d'une solution de plateforme de données"
+  title: "Course AZ-301T02-A: Conception d'une solution de plateforme de données"
+  description: "Course AZ-301T02-A: Conception d'une solution de plateforme de données"
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Détermination de l’option de tarification idéale pour le stockage Azure en fonction des exigences d'une solution.
-- skill: Identification des seuils de performances pour le service de stockage Azure.
-- skill: Détermination du type de blobs de stockage pour utiliser des composants de solution spécifiques.
-- skill: Utilisation de services de fichiers Azure pour des opérations SMB.
-- skill: Identification de solutions qui pourraient tirer parti de l’utilisation de dispositifs physiques ou virtuels StorSimple.
-- skill: Comparaison et contraste des services de surveillance pour des applications, la plateforme Azure et la mise en réseau.
-- skill: Conception d'un schéma d’alerte pour une solution hébergée dans Azure.
-- skill: Sélection de l’option de sauvegarde adaptée pour l’infrastructure et les données hébergées dans Azure.
-- skill: Automatisation du déploiement de futures ressources pour la reprise de la sauvegarde ou à des fins d’évolutivité.
+- skill: Détermination de l’option de tarification idéale pour le stockage Azure en fonction des exigences d'une solution
+- skill: Identification des seuils de performances pour le service de stockage Azure
+- skill: Détermination du type de blobs de stockage pour utiliser des composants de solution spécifiques
+- skill: Utilisation de services de fichiers Azure pour des opérations SMB
+- skill: Identification de solutions qui pourraient tirer parti de l’utilisation de dispositifs physiques ou virtuels StorSimple
+- skill: Comparaison et contraste des services de surveillance pour des applications, la plateforme Azure et la mise en réseau
+- skill: Conception d'un schéma d’alerte pour une solution hébergée dans Azure
+- skill: Sélection de l’option de sauvegarde adaptée pour l’infrastructure et les données hébergées dans Azure
+- skill: Automatisation du déploiement de futures ressources pour la reprise de la sauvegarde ou à des fins d’évolutivité
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -50,7 +50,6 @@ exams:
 - uid: exam.az-301
 summary: |-
   Apprentissage de la comparaison et contraste des différentes options de bases de données dans Azure, identification des options de diffusion de données pour l’ingestion de données à grande échelle et l’identification d'options de stockage à plus long terme.
-
   #### Profil de l’audience
   Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
 outlineSection: |-
@@ -58,10 +57,10 @@ outlineSection: |-
   Ce module décrit combien de services Azure utilisent le service de stockage Azure en tant qu’entrepôt de soutient pour d'autres solutions d'applications dans Azure. Ce module plonge dans des considérations critiques lors de l’utilisation du stockage Azure en tant que service supplémentaire pour une solution Azure complète.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de déterminer l’option de tarification idéale pour le stockage Azure en fonction des exigences d'une solution.
-  - d’identifier des seuils de performances pour le service de stockage Azure.
-  - de déterminer le type de blobs de stockage pour utiliser des composants de solution spécifiques.
-  - d’utiliser les services de fichiers Azure pour des opérations SMB.
+  - de déterminer l’option de tarification idéale pour le stockage Azure en fonction des exigences d'une solution,
+  - d’identifier des seuils de performances pour le service de stockage Azure,
+  - de déterminer le type de blobs de stockage pour utiliser des composants de solution spécifiques,
+  - d’utiliser les services de fichiers Azure pour des opérations SMB,
   - d’identifier des solutions qui pourraient tirer parti de l’utilisation de dispositifs physiques ou virtuels StorSimple.
 
 
@@ -70,8 +69,8 @@ outlineSection: |-
 
   #### Laboratoire&#58; Déploiement d'instances de base de données dans Azure
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comparer et contraster des services de surveillance pour des applications, la plateforme Azure et la mise en réseau.
-  - d’identifier des options de diffusion de données pour l’ingestion de données à grande échelle.
+  - de comparer et contraster des services de surveillance pour des applications, la plateforme Azure et la mise en réseau,
+  - d’identifier des options de diffusion de données pour l’ingestion de données à grande échelle,
   - d’identifier des options de stockage de données à plus long terme.
 
 
@@ -80,7 +79,8 @@ outlineSection: |-
 
   #### Laboratoire&#58; Déploiement des solutions de gestion de la configuration dans Azure
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comparer et contraster des services de surveillance pour des applications, la plateforme Azure et la mise en réseau.
-  - de concevoir un schéma d’alerte pour une solution hébergée dans Azure.
-  - de sélectionner l’option de sauvegarde adaptée pour l’infrastructure et les données hébergées dans Azure.
+  - de comparer et contraster des services de surveillance pour des applications, la plateforme Azure et la mise en réseau,
+  - de concevoir un schéma d’alerte pour une solution hébergée dans Azure,
+  - de sélectionner l’option de sauvegarde adaptée pour l’infrastructure et les données hébergées dans Azure,
   - d'automatiser le déploiement de futures ressources pour la reprise de la sauvegarde ou à des fins d’évolutivité.
+

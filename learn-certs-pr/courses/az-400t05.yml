@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: "Mise en œuvre d'une infrastructure d'applications"
 metadata:
-  title: "Formation AZ-400T05-A: Mise en œuvre d'une infrastructure d'applications"
-  description: "Formation AZ-400T05-A: Mise en œuvre d'une infrastructure d'applications"
+  title: "Course AZ-400T05-A: Mise en œuvre d'une infrastructure d'applications"
+  description: "Course AZ-400T05-A: Mise en œuvre d'une infrastructure d'applications"
 uid: course.az-400t05
 courseNumber: 'AZ-400T05-A'
 hoursToComplete: 24
@@ -31,15 +31,14 @@ products:
 exams:
 - uid: exam.az-400
 summary: |-
-  This course provides knowledge and skills to deploy an application infrastructure in DevOps pipelines. Students will learn how to implement infrastructure as code and configuration management, how to provision Azure infrastructure using common automation tools, and how to deploy an application infrastructure using various Azure services and deployment methodologies. Students will also learn how to integrate third party deployment tools with Azure, such as Chef and Puppet, to incorporate compliance and security into the release pipeline.Cette formation fournit les connaissances et les compétences nécessaires au déploiement d'une infrastructure d'application dans des pipelines DevOps. Les étudiants apprendront à mettre en œuvre l'infrastructure en tant que code et la gestion de la configuration, comment fournir l’infrastructure Azure à l’aide des outils d’automatisation courants et comment déployer une infrastructure d'application à l’aide de plusieurs services et méthodologies de déploiement Azure. Les étudiants apprendront également à intégrer des outils de déploiement tiers avec Azure, tels que Chef et Puppet, pour incorporer la conformité et la sécurité au pipeline de libération.
-
+  Cette formation fournit les connaissances et les compétences nécessaires au déploiement d'une infrastructure d'application dans des pipelines DevOps. Les étudiants apprendront à mettre en œuvre l'infrastructure en tant que code et la gestion de la configuration, comment fournir l’infrastructure Azure à l’aide des outils d’automatisation courants et comment déployer une infrastructure d'application à l’aide de plusieurs services et méthodologies de déploiement Azure. Les étudiants apprendront également à intégrer des outils de déploiement tiers avec Azure, tels que Chef et Puppet, pour incorporer la conformité et la sécurité au pipeline de libération.
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par la mise au point de l’infrastructure d'applications et la gestion et la configuration de cette infrastructure ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
   Les étudiants doivent avoir des connaissances de base concernant Azure, de l’expérience dans les machines virtuelles et les conteneurs et une exposition à l’automatisation et au scriptage.
-  
+
   Une expérience de travail dans un environnement de mise au point ou d’exécution d'un logiciel avec Windows ou Linux peut être utile, mais n’est pas essentielle.
-  
+
   Les étudiants doivent également avoir des connaissances dans les procédures de mise au point et de déploiement d'applications générales.
 outlineSection: |-
   ### Module 1&#58; Infrastructure et configuration des outils Azure
@@ -55,8 +54,8 @@ outlineSection: |-
   - Questions de révision du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’appliquer l'infrastructure et la configuration comme principes de code
-  - de déployer et gérer l’infrastructure à l’aide des technologies d’automatisation de Microsoft, telles que des modèles ARM, PowerShell et Azure CLI
+  - d’appliquer l'infrastructure et la configuration comme principes de code,
+  - de déployer et gérer l’infrastructure à l’aide des technologies d’automatisation de Microsoft, telles que des modèles ARM, PowerShell et Azure CLI.
 
 
   ### Module 2&#58; Modèles et services de déploiement d’Azure
@@ -72,7 +71,7 @@ outlineSection: |-
   - Questions de révision du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les modèles et les services de déploiement disponibles avec Azure
+  - de décrire les modèles et les services de déploiement disponibles avec Azure.
 
 
   ### Module 3&#58; Création et gestion de l’infrastructure de service Kubernetes
@@ -83,7 +82,7 @@ outlineSection: |-
   - Questions de révision du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de déployer et de configurer un groupement Kubernetes géré
+  - de déployer et de configurer un groupement Kubernetes géré.
 
 
   ### Module 4&#58; Outils tiers et Open Source disponibles avec Azure
@@ -98,7 +97,7 @@ outlineSection: |-
   - Questions de révision du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de déployer et de configurer une infrastructure à l’aide d'outils et de services tiers avec Azure, tels que Chef, Puppet, Ansible, SaltStack et Terraform
+  - de déployer et de configurer une infrastructure à l’aide d'outils et de services tiers avec Azure, tels que Chef, Puppet, Ansible, SaltStack et Terraform.
 
 
   ### Module 5&#58; Mise en œuvre de la conformité et de la sécurité dans votre infrastructure
@@ -116,3 +115,4 @@ outlineSection: |-
   ### Module 6&#58; fin de la formation
   #### Leçons
   - Examen final
+

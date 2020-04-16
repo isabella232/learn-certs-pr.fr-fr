@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Mise en œuvre des commentaires continus
 metadata:
-  title: 'Formation AZ-400T06-A: Mise en œuvre des commentaires continus'
-  description: 'Formation AZ-400T06-A: Mise en œuvre des commentaires continus'
+  title: 'Course AZ-400T06-A: Mise en œuvre des commentaires continus'
+  description: 'Course AZ-400T06-A: Mise en œuvre des commentaires continus'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
@@ -39,7 +39,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre des commentaires continus. Les étudiants apprendront à recommander et concevoir un système de mécanismes de commentaires, à mettre en œuvre un processus pour le routage des commentaires du système pour les équipes de mise au point et à optimiser les mécanismes de commentaires.
-
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par la mise au point de procédures DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -59,10 +58,10 @@ outlineSection: |-
   #### Laboratoire&#58; Drapeaux de fonctionnalités
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - Conception de pratiques pour mesurer la satisfaction de l’utilisateur final
-  - de concevoir des processus pour capturer et analyser les commentaires des sources externes
-  - de concevoir le routage des données de rapport d’incident de l'application client
-  - de recommander des outils et techniques de surveillance
-  - de recommander des outils de suivi d’utilisation de systèmes et des fonctionnalités
+  - de concevoir des processus pour capturer et analyser les commentaires des sources externes,
+  - de concevoir le routage des données de rapport d’incident de l'application client,
+  - de recommander des outils et techniques de surveillance,
+  - de recommander des outils de suivi d’utilisation de systèmes et des fonctionnalités.
 
 
   ### Module 2&#58; Mise en œuvre d'un processus de routage du système de commentaires pour les équipes de développement
@@ -73,11 +72,11 @@ outlineSection: |-
   - Intégration et configuration de systèmes de tickets
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de configurer l’intégration du rapport d’incident pour les applications client
+  - de configurer l’intégration du rapport d’incident pour les applications client,
   - Mise au point de tableaux de bord de surveillance et de statut
-  - de mettre en œuvre le routage des données de rapport d’incident de l'application client
+  - de mettre en œuvre le routage des données de rapport d’incident de l'application client,
   - Mise en œuvre d'outils de suivi de l’utilisation du système, de l’utilisation des fonctionnalités et du flux
-  - d’intégrer et de configurer des systèmes de tickets avec la gestion du travail de l’équipe de mise au point
+  - d’intégrer et de configurer des systèmes de tickets avec la gestion du travail de l’équipe de mise au point.
 
 
   ### Module 3&#58; Optimisation des mécanismes de commentaires
@@ -91,5 +90,6 @@ outlineSection: |-
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - Analyse des alertes pour établir une base de référence
   - Analyse de la télémétrie pour établir une base de référence
-  - de réaliser des évaluations de site en direct et capturer les commentaires sur les coupures de système
+  - de réaliser des évaluations de site en direct et capturer les commentaires sur les coupures de système,
   - Exécution d'une configuration continue pour réduire les alertes insignifiantes et non-exploitables
+

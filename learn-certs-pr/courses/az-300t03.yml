@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Comprendre les solutions technologiques des architectes du cloud
 metadata:
-  title: 'Formation AZ-300T03-A: Compréhension des solutions technologiques des architectes du cloud'
-  description: 'Formation AZ-300T03-A: Compréhension des solutions technologiques des architectes du cloud'
+  title: 'Course AZ-300T03-A: Compréhension des solutions technologiques des architectes du cloud'
+  description: 'Course AZ-300T03-A: Compréhension des solutions technologiques des architectes du cloud'
 uid: course.az-300t03
 courseNumber: 'AZ-300T03-A'
 hoursToComplete: 24
@@ -43,37 +43,26 @@ products:
 - azure-event-hubs
 exams:
 - uid: exam.az-300
-summary: |-
-  Cette formation enseigne aux professionnels de l'informatique l’exécution des opérations en parallèle et de façon asynchrone. Le système de votre entreprise doit être résilient en cas de défaillance et, de façon toute aussi importante, les déploiements peuvent être automatisés et prédictibles. En utilisant le guide d'architecture des applications Azure et les architectures de référence Azure comme base, vous comprendrez comment la surveillance et la télémétrie sont essentielles à l’obtention d'informations pour le système. 
-
-  Les étudiants plongeront dans les schémas de conception du cloud qui sont importants, tels que la répartition des charges de travail où une application modulaire est divisée en unités fonctionnelles qui peuvent être intégrées à une application plus importante. Dans de tels cas, chaque module gère une partie de la fonctionnalité globale de l’application et représente un ensemble de questions liées. 
-  
-  L’équilibrage des charges est l’endroit où le trafic, ou charge, de l’application est distribué entre plusieurs points de terminaison à l’aide des algorithmes. Les équilibreurs de charge permettent la création de plusieurs exemples de votre site Internet pour qu'ils puissent se comporter de façon prédictible. Dans Azure, il est possible d'utiliser des équilibreurs de charge virtuels, qui sont hébergés dans des machines virtuelles, si une entreprise requiert une configuration d’équilibreur de charge très spécifique.
-
-  En outre, la manipulation défaillante transitoire qui aide à définir les différences principales entre la mise au point d'applications sur site et la façon de gérer les erreurs transitoires. Les erreurs transitoires sont des erreurs qui sont dues à des interruptions temporaires du service ou à une latence excessive. 
-
-  Enfin, cette formation inclut une discussion sur la mise en réseau hybride qui donne un aperçu de la connectivité de site à site, la connectivité de point à site et la combinaison des deux.
-
-  #### Profil de l’audience
-  Des architectes en solutions Azure réussies commencent dans cette fonction avec une expérience pratique des systèmes d’exploitation, de la virtualisation, de l’infrastructure du cloud, des structures de stockage, de la facturation et de la mise en réseau.
+summary: "Cette formation enseigne aux professionnels de l'informatique l’exécution des opérations en parallèle et de façon asynchrone. Le système de votre entreprise doit être résilient en cas de défaillance et, de façon toute aussi importante, les déploiements peuvent être automatisés et prédictibles. En utilisant le guide d'architecture des applications Azure et les architectures de référence Azure comme base, vous comprendrez comment la surveillance et la télémétrie sont essentielles à l’obtention d'informations pour le système. \nLes étudiants plongeront dans les schémas de conception du cloud qui sont importants, tels que la répartition des charges de travail où une application modulaire est divisée en unités fonctionnelles qui peuvent être intégrées à une application plus importante. Dans de tels cas, chaque module gère une partie de la fonctionnalité globale de l’application et représente un ensemble de questions liées. \n\nL’équilibrage des charges est l’endroit où le trafic, ou charge, de l’application est distribué entre plusieurs points de terminaison à l’aide des algorithmes. Les équilibreurs de charge permettent la création de plusieurs exemples de votre site Internet pour qu'ils puissent se comporter de façon prédictible. Dans Azure, il est possible d'utiliser des équilibreurs de charge virtuels, qui sont hébergés dans des machines virtuelles, si une entreprise requiert une configuration d’équilibreur de charge très spécifique.\n\nEn outre, la manipulation défaillante transitoire qui aide à définir les différences principales entre la mise au point d'applications sur site et la façon de gérer les erreurs transitoires. Les erreurs transitoires sont des erreurs qui sont dues à des interruptions temporaires du service ou à une latence excessive. \n\nEnfin, cette formation inclut une discussion sur la mise en réseau hybride qui donne un aperçu de la connectivité de site à site, la connectivité de point à site et la combinaison des deux.\n\n#### Profil de l’audience\nDes architectes en solutions Azure réussies commencent dans cette fonction avec une expérience pratique des systèmes d’exploitation, de la virtualisation, de l’infrastructure du cloud, des structures de stockage, de la facturation et de la mise en réseau."
 outlineSection: |-
   ### Module 1&#58; Sélection de solutions de calcul et de stockage
-  Ce module comprend les sujets suivants&#58; centre d'architecture Azure, schémas de conception du cloud, schéma de consommateurs concurrents, schéma de mise en cache latérale, ainsi que des schémas de << sharding >> afin de diviser le stockage des données en des répartitions, ou shards, horizontaux. Chaque shard a le même schéma, mais contient son propre sous-ensemble de données distincts.
+  Ce module comprend les sujets suivants &#58; centre d'architecture Azure, schémas de conception du cloud, schéma de consommateurs concurrents, schéma de mise en cache latérale, ainsi que des schémas de 'sharding' afin de diviser le stockage des données en des répartitions, ou shards, horizontaux. Chaque shard a le même schéma, mais contient son propre sous-ensemble de données distincts.
 
   Après avoir terminé ce module, les étudiants comprendront&#58;
-  - les schémas de conception et de connectivité
+  - les schémas de conception et de connectivité.
 
 
   ### Module 2&#58; Mise en réseau virtuelle
   Ce module inclut les sujets suivants&#58; connectivité de site à site, connectivité de point à site, combinaison de la connectivité de site à site et de point à site, connectivité de réseau virtuel à réseau virtuel ainsi que la connexion des fournisseurs de cloud pour le basculement, la sauvegarde ou même la migration entre des fournisseurs tels que AWS.
-  
+
   Après avoir terminé ce module, les étudiants comprendront&#58;
-  - la mise en réseau hybride
+  - la mise en réseau hybride.
 
 
   ### Module 3&#58; Mesure du rendement et de la structure de l’accès aux données
   Ce module inclut les sujets suivants&#58; DTU - base de données SQL Azure, RU - Azure Cosmos DB, données structurées et non structurées et utilisation des entrepôts de données structurées.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de traiter la durabilité des données et la mise en cache
-  - de mesurer le rendement et la structure d'accès aux données
+  - de traiter la durabilité des données et la mise en cache;
+  - de mesurer le rendement et la structure d'accès aux données.
+

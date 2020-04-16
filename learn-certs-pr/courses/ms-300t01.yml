@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Gérer les services de contenu d’Office 365
 metadata:
-  title: 'Formation MS-300T01-A: Gérer les services de contenu d’Office 365'
-  description: 'Formation MS-300T01-A: Gérer les services de contenu d’Office 365'
+  title: 'Course MS-300T01-A: Gérer les services de contenu d’Office 365'
+  description: 'Course MS-300T01-A: Gérer les services de contenu d’Office 365'
 uid: course.ms-300t01
 courseNumber: 'MS-300T01-A'
 hoursToComplete: 48
@@ -28,26 +28,10 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-300
-summary: |-
-  Le contenu représente l’actif numérique le plus critique de toute organisation. Dans cette formation, vous apprendrez à planifier, configurer et gérer les regroupements de sites SharePoint et OneDrive for Business pour permettre les services de contenu moderne qui transforment le cycle de vie du contenu. Cette formation discute spécifiquement de la structure de site moderne de SharePoint, tels que les sites hub de SharePoint. Elle fournit les meilleures pratiques pour l’adoption et le déploiement de OneDrive for Business dans votre organisation. Elle couvre également le partage, la sécurité et la surveillance de SharePoint Online et de OneDrive for Business.
-
-  Cette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation. 
-
-  C’est la première formation d'une série de quatre formations pour le rôle d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-300&#58; Déployer Microsoft 365 Teamwork.
-
-  #### Profil de l’audience
-  Cette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.
-
-  L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
-
-  L'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Avoir de l’expérience avec Windows PowerShell
-  - Avoir une compréhension de base d’Active Directory et Azure AD
-  - Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)
+summary: "Le contenu représente l’actif numérique le plus critique de toute organisation. Dans cette formation, vous apprendrez à planifier, configurer et gérer les regroupements de sites SharePoint et OneDrive for Business pour permettre les services de contenu moderne qui transforment le cycle de vie du contenu. Cette formation discute spécifiquement de la structure de site moderne de SharePoint, tels que les sites hub de SharePoint. Elle fournit les meilleures pratiques pour l’adoption et le déploiement de OneDrive for Business dans votre organisation. Elle couvre également le partage, la sécurité et la surveillance de SharePoint Online et de OneDrive for Business.\nCette formation est conçue pour les professionnels de l'informatique qui déploient et gèrent l’infrastructure Teamwork dans leur organisation. \n\nC’est la première formation d'une série de quatre formations pour le rôle d'administrateur Teamwork. Ces formations aident à se préparer à l’examen MS-300 &#58;  Déployer Microsoft 365 Teamwork.\n\n#### Profil de l’audience\nCette formation est destinée au rôle d'administrateur Microsoft 365 Teamwork. Ce rôle est responsable de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et d'Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Il gère des applications, des services et prend en charge l’infrastructure pour répondre aux exigences de l’entreprise. L'administrateur a conscience des produits et des services et peut les distinguer, sans toutefois gérer directement chaque produit ou service.\n\nL’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.\n\nL'administrateur Teamwork possède une compréhension fondamentale des points d'intégration dans les applications et les services suivants&#58;  Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et les services tiers y compris les applications du secteur d'activité."
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58; \n- Avoir de l’expérience avec Windows PowerShell\n- Avoir une compréhension de base d’Active Directory et Azure AD\n- Avoir une compréhension de base de la gestion des périphériques mobiles et des systèmes d’exploitation alternatifs (Android et macOS)"
 outlineSection: |-
-  ### Module 1&#58; Planifier et configurer les regroupements de sites SharePoint
+  ### Module  1&#58;  Planifier et configurer les regroupements de sites SharePoint
   Ce module concerne la planification, la configuration et la gestion des regroupements de sites SharePoint. Il explique comment les administrateurs SharePoint utilisent le centre d'administration SharePoint pour gérer le cycle de vie des regroupements de site dans votre organisation.
   #### Leçons
   - Aperçu de SharePoint Online
@@ -56,14 +40,14 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d'expliquer les concepts de regroupement de sites
-  - de créer des regroupements de sites
-  - de gérer les limites de stockage des regroupements de sites
-  - de créer et de configurer les sites hub de SharePoint
-  - de décrire comment utiliser le centre d’administration SharePoint pour gérer des regroupements de sites
+  - d'expliquer les concepts de regroupement de sites,
+  - de créer des regroupements de sites,
+  - de gérer les limites de stockage des regroupements de sites,
+  - de créer et de configurer les sites hub de SharePoint,
+  - de décrire comment utiliser le centre d’administration SharePoint pour gérer des regroupements de sites.
 
 
-  ### Module 2&#58; Configurer et gérer OneDrive for Business
+  ### Module  2&#58;  Configurer et gérer OneDrive for Business
   Ce module explique comment planifier le déploiement de OneDrive for Business. Il discute des différentes approches pour déployer OneDrive for Business en fonction de différents scénarios. Il introduit également les capacités de gestion du contenu dans OneDrive for Business.
 
   #### Leçons
@@ -73,14 +57,14 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de gérer les limites de stockage des utilisateurs
-  - de configurer la conservation des données dans OneDrive for Business
-  - d'utiliser la politique de groupe pour contrôler les paramètres de synchronisation client de OneDrive
-  - de décrire les différentes méthodes de déploiement de OneDrive for Business
-  - de décrire l'utilisation du centre d’administration OneDrive pour gérer OneDrive for Business
+  - de gérer les limites de stockage des utilisateurs,
+  - de configurer la conservation des données dans OneDrive for Business,
+  - d'utiliser la politique de groupe pour contrôler les paramètres de synchronisation client de OneDrive,
+  - de décrire les différentes méthodes de déploiement de OneDrive for Business,
+  - de décrire l'utilisation du centre d’administration OneDrive pour gérer OneDrive for Business.
 
 
-  ### Module 3&#58; Partage, sécurité et surveillance dans SharePoint et OneDrive
+  ### Module  3&#58;  Partage, sécurité et surveillance dans SharePoint et OneDrive
   Ce module est axé sur le partage, la sécurité et la surveillance dans SharePoint et OneDrive  Nous discutons spécifiquement de la planification et de la gestion du partage externe ainsi que du contrôle d'accès dans SharePoint et OneDrive.  Le module explique également comment utiliser le centre d'administration Office 365 pour surveiller les activités dans SharePoint Online et OneDrive for Business.
 
 
@@ -91,11 +75,12 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire le partage externe dans SharePoint Online et OneDrive for Business
-  - de décrire les options pour gérer l'accès des périphériques à SharePoint Online et OneDrive for Business
-  - d'afficher les rapports Office 365 qui mesurent l’usage de SharePoint Online et OneDrive for Business
+  - de décrire le partage externe dans SharePoint Online et OneDrive for Business,
+  - de décrire les options pour gérer l'accès des périphériques à SharePoint Online et OneDrive for Business,
+  - d'afficher les rapports Office 365 qui mesurent l’usage de SharePoint Online et OneDrive for Business.
 
 
-  ### Module 4&#58; Conclusion de la formation
+  ### Module  4&#58; Conclusion de la formation
 
-  #### Laboratoire&#58; Créer et configurer un regroupement de sites
+  #### Laboratoire&#58;  Créer et configurer un regroupement de sites
+

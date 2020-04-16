@@ -1,14 +1,14 @@
 ### YamlMime:Course
 title: Gestion de la conformité Microsoft 365
 metadata:
-  title: 'Formation MS-101T02-A: Gestion de la conformité Microsoft 365'
-  description: 'Formation MS-101T02-A: Gestion de la conformité Microsoft 365'
+  title: 'Course MS-101T02-A: Gestion de la conformité Microsoft 365'
+  description: 'Course MS-101T02-A: Gestion de la conformité Microsoft 365'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Comprendre la gouvernance des données dans Microsoft 365, y compris: l’archivage, la conservation, la gestion des droits aux informations, le Multipurpose Internet Mail Extension sécurisé (S/MIME), le cryptage des messages et la prévention de la perte des données dans Office 365'
+- skill: 'Comprendre la gouvernance des données dans Microsoft 365, y compris : l’archivage, la conservation, la gestion des droits aux informations, le Multipurpose Internet Mail Extension sécurisé (S/MIME), le cryptage des messages et la prévention de la perte des données dans Office 365'
 - skill: Mettre en œuvre la gestion des enregistrements sur place dans SharePoint
 - skill: Mettre en œuvre l’archivage et la conservation dans Exchange
 - skill: Créer des politiques de conservation dans le centre de sécurité et de conformité
@@ -41,7 +41,6 @@ exams:
 - uid: exam.ms-101
 summary: |-
   Découvrez la gestion de la conformité Microsoft 365, y compris la conservation des données et les solutions de prévention de la perte des données dans Microsoft 365, l’archivage et la conservation dans Microsoft 365, la mise en œuvre et la gestion de la gouvernance des données et la gestion de la recherche et de l’investigation.
-
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
@@ -49,7 +48,7 @@ prerequisitesSection: |-
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Introduction à la gouvernance des données dans Microsoft 365
+  ### Module  1 &#58;  Introduction à la gouvernance des données dans Microsoft 365
   #### Leçons
   - Introduction à l’archivage dans Microsoft 365
   - Introduction à la conservation dans Microsoft 365
@@ -59,7 +58,7 @@ outlineSection: |-
   - Introduction à la prévention de la perte des données
 
 
-  ### Module 2&#58; Archivage et conservation dans Microsoft 365
+  ### Module  2 &#58;  Archivage et conservation dans Microsoft 365
   #### Leçons
   - Gestion des enregistrements sur place dans SharePoint
   - Archivage et conservation dans Exchange
@@ -67,7 +66,7 @@ outlineSection: |-
   - Mettre en œuvre vos services de domaine
 
 
-  ### Module 3&#58; Mettre en œuvre la gouvernance des données dans Microsoft 365 Intelligence
+  ### Module  3 &#58;  Mettre en œuvre la gouvernance des données dans Microsoft 365 Intelligence
   #### Leçons
   - Planifier vos besoins en matière de sécurité et de conformité
   - Construire des murs éthiques dans Exchange Online
@@ -77,7 +76,7 @@ outlineSection: |-
   - Travailler avec les conseils en matière de politique
 
 
-  ### Module 4&#58; Gérer la gouvernance des données dans Microsoft 365
+  ### Module  4 &#58;  Gérer la gouvernance des données dans Microsoft 365
   #### Leçons
   - Gérer la conservation dans le courrier électronique
   - Dépanner la gouvernance des données
@@ -86,29 +85,30 @@ outlineSection: |-
   - Introduction à la protection des informations Windows
 
 
-  ### Module 5&#58; Gérer la recherche et les investigations
+  ### Module  5 &#58;  Gérer la recherche et les investigations
   #### Leçons
   - Rechercher du contenu dans le centre de sécurité et de conformité
   - Faire l'audit des enquêtes du journal
   - Gérer l’eDiscovery avancé
 
 
-  ### Module 6&#58; Laboratoire pratique
+  ### Module  6 &#58;  Laboratoire pratique
 
-  #### Laboratoire&#58; Configurer votre environnement de laboratoire
-  - Exercice 1&#58; Initialiser la conformité dans votre organisation
-
-
-  #### Laboratoire&#58; Archivage et conservation dans Microsoft 365
-  - Exercice 1&#58; Configurer les balises et les politiques de conservation
-  - Exercice 2&#58; Configurer AIP et WIP
+  #### Laboratoire - Configurer votre environnement de laboratoire
+  - Exercice 1 &#58;  Initialiser la conformité dans votre organisation
 
 
-  #### Laboratoire&#58; Mise en œuvre de la gouvernance des données
-  - Exercice 1&#58; Tester la politique DLP
-  - Exercice 2&#58;Utiliser la protection des informations Azure
-  - Exercice 3&#58; Utiliser la protection des informations Windows
+  #### Laboratoire &#58;  Archivage et conservation dans Microsoft 365
+  - Exercice 1 &#58;  Configurer les balises et les politiques de conservation
+  - Exercice 2 &#58;  Configurer AIP et WIP
 
 
-  #### Laboratoire&#58; Vérifier vos politiques de gouvernance de données
-  - Exercice 1&#58; Analyser vos données Microsoft 365
+  #### Laboratoire &#58;  Mise en œuvre de la gouvernance des données
+  - Exercice 1 &#58;  Tester la politique DLP
+  - Exercice 2&#58; Utiliser la protection des informations Azure
+  - Exercice 3 &#58;  Utiliser la protection des informations Windows
+
+
+  #### Laboratoire &#58;  Vérifier vos politiques de gouvernance de données
+  - Exercice 1 &#58;  Analyser vos données Microsoft 365
+

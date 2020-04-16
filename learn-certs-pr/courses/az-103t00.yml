@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure Administrator
 metadata:
-  title: 'Formation AZ-103T00-A: Microsoft Azure Administrator'
-  description: 'Formation AZ-103T00-A: Microsoft Azure Administrator'
+  title: 'Course AZ-103T00-A: Microsoft Azure Administrator'
+  description: 'Course AZ-103T00-A: Microsoft Azure Administrator'
 uid: course.az-103t00
 courseNumber: 'AZ-103T00-A'
 hoursToComplete: 96
@@ -25,7 +25,6 @@ exams:
 - uid: exam.az-103
 summary: |-
   Cette formation enseigne aux professionnels de l'informatique la gestion de leur abonnement Azure, la création et la mise à l’échelle des machines virtuelles, la mise en œuvre des solutions de stockage, la configuration des réseaux virtuels, la sauvegarde et le partage de données, la connexion à Azure et aux sites sur site, la gestion du trafic du réseau, la mise en œuvre de Azure Active Directory, la sécurisation des identités et la surveillance de votre solution.
-
   #### Profil de l’audience
   Cette formation est destinée aux administrateurs Azure. Les administrateurs Azure gèrent les services du cloud qui couvrent le stockage, la mise en réseau et le calcul des fonctionnalités du cloud avec une compréhension approfondie de chaque service au cours de toute la durée de vie informatique. Ils utilisent les demandes des utilisateurs finaux pour de nouvelles applications du cloud et formulent des recommandations sur les services à utiliser pour optimiser les performances et l'évolutivité et fournissent, dimensionnent, surveillent et ajustent les ressources, le cas échéant. Ce rôle requiert une communication et une coordination avec les fournisseurs. Les administrateurs Azure utilisent le portail Azure et au fur et à mesure de qu’ils le maîtrisent mieux, ils utilisent PowerShell et l’interface de la ligne de commande.
 prerequisitesSection: |-
@@ -34,11 +33,11 @@ prerequisitesSection: |-
   - Compréhension des concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplique, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
   - Compréhension de la résilience et de la reprise après sinistre, ce qui inclut les opérations de sauvegarde et de restauration.
 outlineSection: |-
-  ### Module 1&#58; Administration Azure
+  ### Module  1&#58; Administration Azure
   Dans ce module, vous découvrirez les outils que les administrateurs Azure utilisent pour gérer leur infrastructure. Cela inclut le portail Azure, Cloud Shell, Azure PowerShell, CLI, le gestionnaire de ressources et les modèles des gestionnaires de ressources. Les présentations de ce module vous assureront de réussir les laboratoires de la formation.
   #### Leçons
   - Portail Azure et Cloud Shell
-  - Azure PowerShell et CLI
+  -  Azure PowerShell et CLI
   - Gestionnaire de ressources
   - Modèles ARM
 
@@ -61,7 +60,7 @@ outlineSection: |-
   Dans ce module, vous découvrirez les fonctionnalités de stockage de base, ce qui inclut les comptes de stockage, le stockage de blobs, les fichiers Azure et la sécurité du stockage.
   #### Leçons
   - Comptes de stockage
-  - Blobs Azure
+  - Azure Blobs
   - Fichiers Azure
   - Sécurité du stockage
 
@@ -82,7 +81,7 @@ outlineSection: |-
   ### Module 5&#58; Connectivité intersite
   Dans ce module, vous découvrirez les fonctionnalités de connectivité intersite, ce qui inclut l’apparaige VNet, les connexions VNet à VNet, les connexions de site à site et ExpressRoute.
   #### Leçons
-  - Appairage VNet
+  - VNet Peering
   - Connexions VNet à VNet
   - Connexions ExpressRoute
 
@@ -95,14 +94,11 @@ outlineSection: |-
   #### Leçons
   - Azure Monitor
   - Alertes Azure
-  - Analyse des logs
+  - Log Analytics
   - Observateur du réseau
 
 
   #### Laboratoire&#58; Observateur du réseau
-
-
-  #### Lab&#58; Network Watcher
 
   ### Module 7&#58; Protection des données
   Dans ce module, vous découvrirez vos stratégies de reproduction des données, la sauvegarde des fichiers et des dossiers et la sauvegarde des machines virtuelles.
@@ -174,3 +170,4 @@ outlineSection: |-
 
 
   #### Laboratoire&#58; Synchronisation des fichiers
+

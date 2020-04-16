@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Exécution de l’ordre de travail et livraison pour Dynamics 365 pour le service sur site
 metadata:
-  title: 'Formation MB-240T02-A: Exécution de l’ordre de travail et livraison pour Dynamics 365 pour le service sur site'
-  description: 'Formation MB-240T02-A: Exécution de l’ordre de travail et livraison pour Dynamics 365 pour le service sur site'
+  title: 'Course MB-240T02-A: Exécution de l’ordre de travail et livraison pour Dynamics 365 pour le service sur site'
+  description: 'Course MB-240T02-A: Exécution de l’ordre de travail et livraison pour Dynamics 365 pour le service sur site'
 uid: course.mb-240t02
 courseNumber: 'MB-240T02-A'
 hoursToComplete: 24
@@ -25,40 +25,35 @@ products:
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
-  De nombreuses organisations comptent sur des forces de travail mobiles pour livrer leurs produits et services aux clients. Dynamics 365 pour le service sur site aide les organisations à mieux se positionner sur le marché en leur fournissant une gamme d’outils pour identifier et programmer les ressources efficacement et les aider à gérer les charges de travail pour les travailleurs mobiles. 
-
-  Cette formation donnera aux étudiants les compétences nécessaires pour exécuter, identifier et configurer les composants essentiels qui sont utilisés pour fournir les services sur site et les solutions mobiles. Les sujets principaux comprennent l'identification du cycle de vie d'un bon de commande typique, ainsi que des considérations organisationnelles qui conduiront les décisions de configuration. De plus, cette formation se concentrera sur les composants couramment utilisés en relation avec les bons de commande, notamment les accords, les composants d’inventaire, les achats et les stratégies mobiles.     
-
-  Cette formation aidera les étudiants à mieux comprendre le contexte général et les objectifs finaux axés sur la livraison et l’exécution des bons de commande, qui aident à concevoir des solutions plus efficaces qui s'alignent sur les objectifs des clients et de l'organisation.
-
+summary: "De nombreuses organisations comptent sur des forces de travail mobiles pour livrer leurs produits et services aux clients. Dynamics 365 pour le service sur site aide les organisations à mieux se positionner sur le marché en leur fournissant une gamme d’outils pour identifier et programmer les ressources efficacement et les aider à gérer les charges de travail pour les travailleurs mobiles. \nCette formation donnera aux étudiants les compétences nécessaires pour exécuter, identifier et configurer les composants essentiels qui sont utilisés pour fournir les services sur site et les solutions mobiles. Les sujets principaux comprennent l'identification du cycle de vie d'un bon de commande typique, ainsi que des considérations organisationnelles qui conduiront les décisions de configuration. De plus, cette formation se concentrera sur les composants couramment utilisés en relation avec les bons de commande, notamment les accords, les composants d’inventaire, les achats et les stratégies mobiles.     \n\nCette formation aidera les étudiants à mieux comprendre le contexte général et les objectifs finaux axés sur la livraison et l’exécution des bons de commande, qui aident à concevoir des solutions plus efficaces qui s'alignent sur les objectifs des clients et de l'organisation."
 prerequisitesSection: |-
   Compréhension de base des caractéristiques, des fonctionnalités et de la navigation de Dynamics 365.
 outlineSection: |-
-  ### Module 1&#58; Bons de commande du service sur site
+  ### Module  1&#58;  Bons de commande du service sur site
   #### Leçons
   - Configurer les bons de commande du service sur site
   - Créer les bons de commande
   - Gérer les bons de commande
 
 
-  ### Module 2&#58; Accords du service sur site
+  ### Module  2&#58;  Accords du service sur site
   #### Leçons
   - Utiliser les accords du service sur site
   - Configurer des réservations
   - Configurer des factures
 
 
-  ### Module 3&#58; Inventaire et achats
+  ### Module  3&#58;  Inventaire et achats
   #### Leçons
   - Gérer les actifs des clients
   - Gérer l'inventaire
   - Achats et retours
 
 
-  ### Module 4&#58; Service sur site mobile
+  ### Module  4&#58;  Service sur site mobile
   #### Leçons
   - Aperçu de l’application service sur site mobile
   - Installer et déployer des projets service sur site mobiles
   - Gérer les projets mobiles
   - Déployer un client mobile
+

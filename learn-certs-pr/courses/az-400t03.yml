@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Mise en œuvre d’une livraison continue
 metadata:
-  title: 'Formation AZ-400T03-A: Mise en œuvre d’une livraison continue'
-  description: 'Formation AZ-400T03-A: Mise en œuvre d’une livraison continue'
+  title: 'Course AZ-400T03-A: Mise en œuvre d’une livraison continue'
+  description: 'Course AZ-400T03-A: Mise en œuvre d’une livraison continue'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -46,7 +46,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre de la livraison continue. Les étudiants apprendront à concevoir une stratégie de libération, à définir un flux de travail de gestion de libération et à mettre en œuvre un motif de déploiement approprié.
-
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par la mise au point de procédures DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -63,13 +62,13 @@ outlineSection: |-
 
   #### Laboratoire&#58; Construction d'une stratégie de libération
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de faire la différence entre une libération et un déploiement
-  - de définir les composants d'un pipeline de libération
-  - d’expliquer des éléments à prendre en compte lors de la conception de votre stratégie de libération
-  - de classifier une libération par rapport à une procédure de libération et de souligner le contrôle de la qualité des deux
-  - de décrire le principe de portes de libération et de la gestion des notes et des documents de libération
-  - d’expliquer les schémas de déploiement, au sens traditionnel et au sens moderne
-  - de choisir un outil de gestion des libérations
+  - de faire la différence entre une libération et un déploiement,
+  - de définir les composants d'un pipeline de libération,
+  - d’expliquer des éléments à prendre en compte lors de la conception de votre stratégie de libération,
+  - de classifier une libération par rapport à une procédure de libération et de souligner le contrôle de la qualité des deux,
+  - de décrire le principe de portes de libération et de la gestion des notes et des documents de libération,
+  - d’expliquer les schémas de déploiement, au sens traditionnel et au sens moderne,
+  - de choisir un outil de gestion des libérations;
 
 
   ### Module 2&#58; Définition d'un flux de travail de gestion des libérations
@@ -94,16 +93,16 @@ outlineSection: |-
 
   #### Laboratoire&#58; Création d'un tableau de bord de libération
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’expliquer la terminologie utilisée dans Azure DevOps et de l’autre outillage de gestion de la libération
-  - de décrire une tâche de construction et de libération, de ce qu’elle peut faire et des tâches de déploiement disponibles
-  - de classifier un agent, une file d’attente d’agents et un groupements d'agents
-  - d’expliquer le besoin ponctuel de plusieurs tâches de libération dans un pipeline de libération
-  - de faire la différence entre les tâches de libération multiagents et multiconfigurations
-  - d'utiliser des variables de libération et des variables d’étapes dans votre pipeline de libération
-  - de déployer un environnement en toute sécurité à l’aide d'une connexion de service
-  - d’intégrer le test dans le pipeline
-  - de faire la liste des différentes façons d'inspecter la santé de votre pipeline et libération grâce à l’utilisation d'alertes, de crochets de service et de rapports
-  - de créer une porte de libération
+  - d’expliquer la terminologie utilisée dans Azure DevOps et de l’autre outillage de gestion de la libération,
+  - de décrire une tâche de construction et de libération, de ce qu’elle peut faire et des tâches de déploiement disponibles,
+  - de classifier un agent, une file d’attente d’agents et un groupements d'agents,
+  - d’expliquer le besoin ponctuel de plusieurs tâches de libération dans un pipeline de libération,
+  - de faire la différence entre les tâches de libération multiagents et multiconfigurations,
+  - d'utiliser des variables de libération et des variables d’étapes dans votre pipeline de libération,
+  - de déployer un environnement en toute sécurité à l’aide d'une connexion de service,
+  - d’intégrer le test dans le pipeline,
+  - de faire la liste des différentes façons d'inspecter la santé de votre pipeline et libération grâce à l’utilisation d'alertes, de crochets de service et de rapports,
+  - de créer une porte de libération.
 
 
   ### Module 3&#58; Mise en œuvre d'un motif de déploiement approprié
@@ -121,7 +120,8 @@ outlineSection: |-
 
   #### Laboratoire&#58; Gestionnaire du trafic
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire des schémas de déploiement
+  - de décrire des schémas de déploiement,
   - Mise en œuvre du déploiement bleu-vert
-  - de mettre en œuvre la libération canari
-  - de mettre en œuvre des déploiements d’exposition progressive
+  - de mettre en œuvre la libération canari,
+  - de mettre en œuvre des déploiements d’exposition progressive.
+

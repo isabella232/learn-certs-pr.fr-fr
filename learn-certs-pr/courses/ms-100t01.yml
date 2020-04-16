@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Gestion Office 365
 metadata:
-  title: 'Formation MS-100T01-A: Gestion Office 365'
-  description: 'Formation MS-100T01-A: Gestion Office 365'
+  title: 'Course MS-100T01-A: Office 365 Management'
+  description: 'Course MS-100T01-A: Office 365 Management'
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48
@@ -27,7 +27,6 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Découvrez la gestion d’Office 365, y compris les composants essentiels d’Office 365, comment déplacer une organisation vers Office 365, comment configurer Office 365 et comment gérer les déploiements d’Office 365 ProPlus.
-
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
@@ -35,7 +34,7 @@ prerequisitesSection: |-
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Déplacer votre organisation vers Office 365
+  ### Module  1 &#58;  Déplacer votre organisation vers Office 365
   #### Leçons
   - Exchange Online
   - SharePoint Online
@@ -43,7 +42,7 @@ outlineSection: |-
   - Ressources supplémentaires
 
 
-  ### Module 2&#58; Configurer votre locataire Microsoft 365
+  ### Module  2 &#58;  Configurer votre locataire Microsoft 365
   #### Leçons
   - Planifier votre réseau pour Office 365
   - Planifier la configuration de votre service
@@ -51,13 +50,13 @@ outlineSection: |-
   - Planifier votre migration vers Office 365
 
 
-  ### Module 3&#58; Configurer Office 365
+  ### Module  3 &#58;  Configurer Office 365
   #### Leçons
   - Aperçu des clients d’Office 365
   - Configurer la connectivité client d’Office vers Office 365
 
 
-  ### Module 4&#58; Gérer les déploiements d’Office 365 ProPlus
+  ### Module  4&#58; Gérer les déploiements d’Office 365 ProPlus
   #### Leçons
   - Gérer des installations de clients axées sur l'utilisateur
   - Gérer les déploiements centralisés Office 365 ProPlus
@@ -65,11 +64,12 @@ outlineSection: |-
   - Configurer Microsoft Analytics
 
 
-  ### Module 5&#58; Laboratoire pratique
+  ### Module  5 &#58;  Laboratoire pratique
 
   #### Laboratoire&#58; Gérer Office 365
-  - Exercice 1&#58; Définir un locataire Microsoft 365 test
-  - Exercice 2&#58; Préparer une installation gérée d’Office 365 ProPlus
-  - Exercice 3&#58; Gérer des installations axées sur l’utilisateur d’Office 365 ProPlus
-  - Exercice 4&#58; Gérer des installations centralisées d’Office 365 ProPlus
-  - Exercice 5&#58; Déployer et configurer les composants de télémétrie d’Office
+  - Exercice 1 - Définir un locataire Microsoft 365 test
+  - Exercice 2 - Préparer une installation gérée d’Office 365 ProPlus
+  - Exercice 3 - Gérer des installations axées sur l’utilisateur d’Office 365 ProPlus
+  - Exercice 4 - Gérer des installations centralisées d’Office 365 ProPlus
+  - Exercice 5 - Déployer et configurer les composants de télémétrie d’Office
+

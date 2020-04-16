@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Développer le cloud
 metadata:
-  title: 'Formation AZ-300T06-A: Mise au point pour le cloud'
-  description: 'Formation AZ-300T06-A: Mise au point pour le cloud'
+  title: 'Course AZ-300T06-A: Mise au point pour le cloud'
+  description: 'Course AZ-300T06-A: Mise au point pour le cloud'
 uid: course.az-300t06
 courseNumber: 'AZ-300T06-A'
 hoursToComplete: 24
@@ -45,11 +45,10 @@ exams:
 - uid: exam.az-300
 summary: |-
   Apprendre à configuration d'une architecture d'intégration basée sur les messages, mettre au point pour le traitement asynchrone, créer des applications pour l’évolutivité automatique et mieux comprendre les solutions de services cognitifs Azure.
-
   #### Profil de l’audience
   Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
 outlineSection: |-
-  ### Module 1&#58; Développement de tâches de longue durée et de transactions distribuées
+  ### Module  1&#58; Développement de tâches de longue durée et de transactions distribuées
   Les sujets de ce module incluent la mise en œuvre à grande échelle en parallèle d'applications à haute performance à l’aide de lots, HPC à l’aide des machines virtuelles Microsoft Azure, la mise en œuvre d'applications résilientes à l'aide de files d'attente ainsi que la mise en œuvre du code pour traiter les événements des applications à l’aide de crochets web. La mise en œuvre d'un crochet web donne à une ressource externe un URL pour une application. La ressource externe émet ensuite une demande HTTP pour cet URL dès qu'un changement est apporté et qu'il requiert une action de l’application.
 
 
@@ -60,7 +59,7 @@ outlineSection: |-
   - Configuration d'un modèle de publication et d'abonnement d’événements
   - Configuration du service de relais Azure
   - Configuration des applications et des services avec Microsoft Graph
-  
+
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de configurer une architecture d’intégration basée sur les messages
 
@@ -74,7 +73,7 @@ outlineSection: |-
   - Mise en œuvre des règles et des modèles d’évolutivité automatique
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre comment mettre au point le traitement asynchrone
+  - de comprendre comment mettre au point le traitement asynchrone.
 
 
   ### Module 4&#58; Mise au point de l’évolutivité automatique
@@ -84,7 +83,7 @@ outlineSection: |-
   - Mise en œuvre du code qui s’occupe d’un état transitoire
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de commencer à créer des applications pour l’évolutivité automatique
+  - de commencer à créer des applications pour l’évolutivité automatique.
 
 
   ### Module 5&#58; Mise au point des solutions de services cognitifs Azure
@@ -95,7 +94,7 @@ outlineSection: |-
   - Mise au point de solutions à l’aide de QnA Maker
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre des solutions de services cognitifs Azure
+  - de comprendre des solutions de services cognitifs Azure.
 
 
   ### Module 6&#58; Mise au point pour le stockage Azure
@@ -107,4 +106,5 @@ outlineSection: |-
   - Manipulation de propriétés de conteneurs de blobs dans .NET.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre des services de stockage Azure tels que blobs et Cosmos DB
+  - de comprendre des services de stockage Azure tels que blobs et Cosmos DB.
+

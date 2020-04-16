@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Se connecter et consommer les services Azure et les services de tiers
 metadata:
-  title: 'Formation AZ-203T06-A: Connexion et consommation des services Azure et des services de tiers'
-  description: 'Formation AZ-203T06-A: Connexion et consommation des services Azure et des services de tiers'
+  title: 'Course AZ-203T06-A: Connexion et consommation des services Azure et des services de tiers'
+  description: 'Course AZ-203T06-A: Connexion et consommation des services Azure et des services de tiers'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -29,15 +29,18 @@ exams:
 - uid: exam.az-203
 summary: |-
   Cette formation traite de la communication entre les applications et les services. Les étudiants découvriront comment créer et gérer leurs propres API en utilisant la gestion API et comment utiliser les différents basés sur les événements et les messages dans Azure au sein de leurs solutions de mise au point. Pendant la formation, les étudiants apprennent à créer et intégrer ces ressources en utilisant le portail Azure, Azure CLI, REST et le code d'application.
-
   #### Profil de l’audience
   - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
   - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
   - Les étudiants doivent idéalement avoir de l’expérience dans PowerShell ou Azure CLI, le travail avec le portail Azure et au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentés dans C# .NET.
 prerequisitesSection: |-
-  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette formation considère que les étudiants savent coder et ont des connaissances de base de Azure.
+  - Les étudiants doivent avoir 1 à 2 ans d’expérience en tant que développeurs. Cette
+  formation considère que les étudiants savent coder et ont des connaissances
+  de base de Azure.
   - Les étudiants doivent idéalement avoir de l’expérience avec
-  PowerShell ou Azure CLI, travailler sur le portail Azure et maîtriser au moins une langue de programmation prise en charge par Azure. La plupart des exemples de cette formation sont présentées dans C# .NET.
+  PowerShell ou Azure CLI, travailler sur le portail Azure et maîtriser au moins une
+  langue de programmation prise en charge par Azure. La plupart des exemples de cette
+  formation sont présentées dans C# .NET.
 outlineSection: |-
   ### Module 1&#58; Mise au point d’un application logique App Service
   Les applications logiques vous aident à construire des solutions qui intègrent des applications, des données, des systèmes et des services dans les entreprises ou les organisations en automatisant les tâches et les processus professionnels sous forme de flux de travail. Ce module couvre ce qu’ils sont et comment les créer.
@@ -48,7 +51,7 @@ outlineSection: |-
   - Création de modèles personnalisés pour les applications logiques
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre comment créer et gérer des applications logiques d’Azure
+  - de comprendre comment créer et gérer des applications logiques d’Azure.
 
 
   ### Module 2&#58; Intégration de la recherche Azure dans des solutions
@@ -58,7 +61,7 @@ outlineSection: |-
   - Recherche d'un texte complet dans la recherche Azure
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de fournir le service, de créer un index, de charger des données et de procéder à des recherches
+  - de fournir le service, de créer un index, de charger des données et de procéder à des recherches.
 
 
   ### Module 3&#58; Gestion d’API
@@ -69,7 +72,7 @@ outlineSection: |-
   - Définition des politiques d’API
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de fournir le service d’APIM à l’aide du portail Azure, de sécuriser les API avec des abonnements et des certificats de clients et d'utiliser des politiques d’API pour modifier le comportement d'un API
+  - de fournir le service d’APIM à l’aide du portail Azure, de sécuriser les API avec des abonnements et des certificats de clients et d'utiliser des politiques d’API pour modifier le comportement d'un API.
 
 
   ### Module 4&#58; Mise au point de solutions basées sur les événements
@@ -91,3 +94,4 @@ outlineSection: |-
 
   Après avoir terminé ce module, les étudiants&#58;
   - comprendront comment tirer parti des services basés sur les messages Azure dans leurs solutions.
+

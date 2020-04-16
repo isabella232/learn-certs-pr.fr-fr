@@ -1,25 +1,25 @@
 ### YamlMime:Course
 title: Conception et déploiement de Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'Formation 20345-2-B: Conception et déploiement de Microsoft Exchange Server 2016/2019'
-  description: ' 20345-2-B: Conception et déploiement de Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-2-B: Conception et déploiement de Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Conception et déploiement de Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planification de déploiements de Exchange Server.
-- skill: Planification et déploiement de matériel, de virtualisation, de bases de données de boîtes aux lettres et de dossiers publics Exchange Server.
-- skill: Planification du transport de messages dans Exchange Server.
-- skill: Planification et déploiement de services Client Access dans Exchange Server.
-- skill: Conception et mise en œuvre d'un environnement hautement disponible Exchange Server.
+- skill: Planification de déploiements de Exchange Server
+- skill: Planification et déploiement de matériel, de virtualisation, de bases de données de boîtes aux lettres et de dossiers publics Exchange Server
+- skill: Planification du transport de messages dans Exchange Server
+- skill: Planification et déploiement de services Client Access dans Exchange Server
+- skill: Conception et mise en œuvre d'un environnement hautement disponible Exchange Server
 - skill: Maintien de Exchange Server en utilisant la disponibilité gérée et la configuration de l’état souhaité (DSC).
-- skill: Planification de la sécurité des messages et conception et mise en œuvre des services Active Directory Rights Management Services (AD RMS) et de Microsoft Azure RMS dans Exchange Server.
-- skill: Conception et mise en œuvre de la rétention et de l'archivage de messages.
-- skill: Conception et mise en œuvre de politiques de prévention de la perte de données, de In-Place Hold et de eDiscovery.
-- skill: Conception et mise en œuvre de la coexistence de messagerie dans les organisations Exchange Server.
+- skill: Planification de la sécurité des messages et conception et mise en œuvre des services Active Directory Rights Management Services (AD RMS) et de Microsoft Azure RMS dans Exchange Server
+- skill: Conception et mise en œuvre de la rétention et de l’archivage de messages
+- skill: Conception et mise en œuvre de politiques de prévention de la perte de données, de In-Place Hold et de eDiscovery
+- skill: Conception et mise en œuvre de la coexistence de messagerie dans les organisations Exchange Server
 - skill: Planification et mise en œuvre de la mise à niveau de versions antérieures de Exchange Server vers Exchange Server 2019.
-- skill: Planification d'un déploiement hybride de Exchange.
+- skill: Planification d'un déploiement hybride de Exchange
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -33,23 +33,22 @@ exams:
 - uid: exam.70-345
 summary: |-
   Cette formation offre aux administrateurs expérimentés de Exchange Server les connaissances nécessaires à la conception et à la mise en œuvre d'un environnement de messagerie Exchange Server. Cette formation couvre la conception et la configuration des composants avancés d’un déploiement Exchange Server, tels que la résilience du site, la sécurité avancée, la conformité, l’archivage et les solutions de découverte, la coexistence avec d'autres organisations d’Exchange ou d’Exchange Online et la migration de versions antérieures de Exchange Server. Cette formation fournit également des directives, des meilleures pratiques et des considérations qui aideront à optimiser les déploiements de Exchange Server.
-
   #### Profil de l’audience
   L'audience de cette formation inclut des professionnels de l'informatique qui sont des administrateurs de messagerie, des architectes de messagerie ou des consultants expérimentés. Cette formation est conçue pour des personnes dans un environnement d’entreprise qui sont responsables de la conception et du déploiement de solutions Exchange Server, ce qui inclut des environnements qui contiennent des versions antérieures de Exchange Server ou de Exchange Online. Les étudiants qui suivent cette formation doivent avoir de l’expérience dans Exchange Server 2019 ou des versions antérieures de Exchange Server.
 prerequisitesSection: |-
   En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
-   - Avoir suivi la formation 20345-1B&#58; Administration de Microsoft Exchange Server 2016/2019 ou avoir des connaissances équivalentes
-   - Minimum deux ans d’expérience de travail avec une version de Exchange Server
-   - Minimum six mois d’expérience de travail avec Exchange Server 2013 ou Exchange Server 2016
-   - Minimum deux ans d’expérience dans l’administration du système d'exploitation du serveur Windows, y compris Windows Server 2016 ou Windows Server 2019
-   - Minimum deux ans d’expérience professionnelle dans Active Directory Domain Services (AD DS)
-   - Minimum deux ans d’expérience de travail avec la résolution des noms, y compris le Domain Name System (DNS)
-   - Expérience de travail avec des certificats, y compris des certificats d’infrastructure publique clé (PKI)
-   - Expérience de travail avec Windows PowerShell
+   - Avoir suivi la formation 20345-1B&#58; Administration de Microsoft Exchange Server 2016/2019 ou avoir des connaissances équivalentes.
+   - Minimum deux ans d’expérience de travail avec une version de Exchange Server.
+   - Minimum six mois d’expérience de travail avec Exchange Server 2013 ou Exchange Server 2016.
+   - Minimum deux ans d’expérience dans l’administration du système d'exploitation du serveur Windows, y compris Windows Server 2016 ou Windows Server 2019.
+   - Minimum deux ans d’expérience professionnelle dans Active Directory Domain Services (AD DS).
+   - Minimum deux ans d’expérience de travail avec la résolution des noms, y compris le Domain Name System (DNS).
+   - Expérience de travail avec des certificats, y compris des certificats d’infrastructure publique clé (PKI).
+   - Expérience de travail avec Windows PowerShell.
 outlineSection: |-
   ### Module 1&#58; Planification des déploiements de Exchange Server
   Ce module explique les fonctionnalités clés de Exchange Server et comment répondre aux exigences des entreprises. Il explique également comment planifier le déploiement de Exchange Server et la migration de Unified Messaging vers Cloud Voicemail.
-  
+
   #### Leçons
   - Nouvelles fonctionnalités dans Exchange Server 2019
   - Réponse aux exigences pour un déploiement de Exchange Server
@@ -63,10 +62,10 @@ outlineSection: |-
   - Discussion&#58; Conception du déploiement pour Exchange Server 2019
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les nouvelles fonctionnalités dans Exchange Server 2019
-  - de décrire comment répondre aux exigences des entreprises pour un déploiement Exchange Server
-  - de planifier un déploiement Exchange Server
-  - de planifier l a migration de Exchange Server 2016 UM vers Cloud Voicemail
+  - de décrire les nouvelles fonctionnalités dans Exchange Server 2019,
+  - de décrire comment répondre aux exigences des entreprises pour un déploiement Exchange Server,
+  - de planifier un déploiement Exchange Server,
+  - de planifier l a migration de Exchange Server 2016 UM vers Cloud Voicemail.
 
 
   ### Module 2&#58; Planification et déploiement des services de boîte aux lettres Exchange Server
@@ -84,9 +83,9 @@ outlineSection: |-
   - Planification et mise en œuvre des dossiers publics
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier et de mettre en œuvre le matériel de Exchange Server
-  - de planifier la virtualisation de Exchange Server et l'intégration de Microsoft Azure
-  - de planifier et de mettre en œuvre des dossiers publics
+  - de planifier et de mettre en œuvre le matériel de Exchange Server,
+  - de planifier la virtualisation de Exchange Server et l'intégration de Microsoft Azure,
+  - de planifier et de mettre en œuvre des dossiers publics.
 
 
   ### Module 3&#58; Planification du transport des messages.
@@ -104,10 +103,10 @@ outlineSection: |-
   - Mise en œuvre de la conformité du transport
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de concevoir la distribution des messages
-  - de concevoir les services de transport
-  - de concevoir la distribution des messages externes
-  - de concevoir et de mettre en œuvre la conformité du transport
+  - de concevoir la distribution des messages,
+  - de concevoir les services de transport,
+  - de concevoir la distribution des messages externes,
+  - de concevoir et de mettre en œuvre la conformité du transport.
 
 
   ### Module 4&#58; Planification et déploiement de l’accès des clients
@@ -127,11 +126,11 @@ outlineSection: |-
   - Planification et mise en œuvre du proxy inverse
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier pour les clients Exchange Server
-  - de planifier pour l’accès clients
-  - de planifier et mettre en œuvre le serveur Office en ligne
-  - de planifier et mettre en œuvre SharePoint avec la coexistence de Exchange Server
-  - de concevoir l’accès client externe
+  - de planifier pour les clients Exchange Server,
+  - de planifier pour l’accès clients,
+  - de planifier et mettre en œuvre le serveur Office en ligne,
+  - de planifier et mettre en œuvre SharePoint avec la coexistence de Exchange Server,
+  - de concevoir l’accès client externe.
 
 
   ### Module 5&#58; Concevoir et mettre en œuvre une haute disponibilité
@@ -150,9 +149,9 @@ outlineSection: |-
   - Récupération des données d'une copie de base de données décalée
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier la haute disponibilité pour Exchange Server
-  - de planifier l’équilibre des charges lors d’un déploiement Exchange Server
-  - de planifier la résilience du site lors d'un déploiement Exchange Server
+  - de planifier la haute disponibilité pour Exchange Server,
+  - de planifier l’équilibre des charges lors d’un déploiement Exchange Server,
+  - de planifier la résilience du site lors d'un déploiement Exchange Server.
 
 
   ### Module 6&#58; Maintien de Exchange Server
@@ -167,8 +166,8 @@ outlineSection: |-
   - Mise en œuvre de DSC
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’utiliser la disponibilité gérée pour améliorer la haute disponibilité
-  - de mettre en œuvre DSC
+  - d’utiliser la disponibilité gérée pour améliorer la haute disponibilité,
+  - de mettre en œuvre DSC.
 
 
   ### Module 7&#58; Conception de la sécurité de la messagerie
@@ -185,8 +184,8 @@ outlineSection: |-
   - Création d'une règle de transport des messages pour protéger le courrier électronique
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier la sécurité de la messagerie
-  - de concevoir et de mettre en œuvre AD RMS et Azure RMS
+  - de planifier la sécurité de la messagerie,
+  - de concevoir et de mettre en œuvre AD RMS et Azure RMS.
 
 
   ### Module 8&#58; Conception et mise en œuvre de la rétention et de l’archivage des messages
@@ -202,9 +201,9 @@ outlineSection: |-
   - Mise en œuvre de la rétention des messages et de l’archivage
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’expliquer l’objectif de l’archivage et de la gestion des registres de messagerie
-  - de concevoir et de mettre en œuvre l’archivage en place
-  - de concevoir et de mettre en œuvre la rétention des messages
+  - d’expliquer l’objectif de l’archivage et de la gestion des registres de messagerie,
+  - de concevoir et de mettre en œuvre l’archivage en place,
+  - de concevoir et de mettre en œuvre la rétention des messages.
 
 
   ### Module 9&#58; Conception et mise en œuvre de la conformité de la messagerie
@@ -222,9 +221,9 @@ outlineSection: |-
   - Comparaison de la politique de messagerie et des options de conformité
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de concevoir et de mettre en œuvre la prévention de la perte de données
-  - de concevoir et de mettre en œuvre In-Place Hold
-  - de concevoir et de mettre en œuvre In-Place eDiscovery
+  - de concevoir et de mettre en œuvre la prévention de la perte de données,
+  - de concevoir et de mettre en œuvre In-Place Hold,
+  - de concevoir et de mettre en œuvre In-Place eDiscovery.
 
 
   ### Module 10&#58; Conception et mise en œuvre de la coexistence de messageries
@@ -240,7 +239,7 @@ outlineSection: |-
   - Migration des boîtes aux lettres des utilisateurs
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - Conception et mise en œuvre de la fédération
+  - Conception et mise en œuvre de la fédération.
   - Conception de la coexistence des organisations de Exchange Server
   - Conception et mise en œuvre de déplacements de boîtes aux lettres comportant plusieurs forêts
 
@@ -259,8 +258,8 @@ outlineSection: |-
   - Suppression de Exchange Server 2013
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de planifier une mise à niveau vers Exchange Server 2019
-  - de mettre en œuvre la mise à niveau vers Exchange Server 2019
+  - de planifier une mise à niveau vers Exchange Server 2019,
+  - de mettre en œuvre la mise à niveau vers Exchange Server 2019.
 
 
   ### Module 12&#58; Planification d’un déploiement hybride de
@@ -277,8 +276,9 @@ outlineSection: |-
   - Création d'un plan pour un déploiement hybride de Exchange
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’expliquer les bases d'un déploiement hybride
-  - de planifier l’authentification dans un environnement hybride
-  - de mettre en œuvre Azure AD Connect
+  - d’expliquer les bases d'un déploiement hybride,
+  - de planifier l’authentification dans un environnement hybride,
+  - de mettre en œuvre Azure AD Connect,
   - de mettre en œuvre un déploiement hybride,
-  - de mettre en œuvre la fonctionnalité avancée pour des déploiements hybrides
+  - de mettre en œuvre la fonctionnalité avancée pour des déploiements hybrides.
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configuration de Windows 10
+title: Configuring Windows 10
 metadata:
-  title: 'Formation MD-100T02-A: Configuration de Windows 10'
-  description: 'Formation MD-100T02-A: Configuration de Windows 10'
+  title: 'Course MD-100T02-A: Configuring Windows 10'
+  description: 'Course MD-100T02-A: Configuring Windows 10'
 uid: course.md-100t02
 courseNumber: 'MD-100T02-A'
 hoursToComplete: 48
@@ -27,17 +27,26 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  Dans cette formation, les étudiants apprendront à prendre en charge les tâches de configuration associées à Windows 10. Ils obtiendront des aptitudes qui comprennent la gestion du stockage, des fichiers, des dossiers et des imprimantes et la configuration de la connectivité réseau pour Windows 10. Cette formation couvrira également la gestion et le déploiement des applications.
-
+  Dans
+  cette formation, les étudiants apprendront à prendre en charge les tâches de configuration
+  associées à Windows 10. Ils obtiendront des aptitudes qui comprennent la gestion
+  du stockage, des fichiers, des dossiers et des imprimantes et la configuration de la connectivité
+  réseau pour Windows 10. Cette formation couvrira également la gestion et le déploiement
+  des applications.
   #### Profil de l’audience
-  Les candidats à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations, une gestion locale générale et une maintenance des services de base de Windows 10.
-  Les candidats peuvent également être habitués à certains scénarios d'entreprise et services intégrés au cloud.
-prerequisitesSection: |-
-  Les candidats à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations,
+  Les candidats
+  à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations,
   une gestion locale générale et une maintenance des services de base de Windows 10.
-  Les candidats peuvent également être habitués à certains scénarios d'entreprise et services intégrés au cloud.
+  Les candidats peuvent également être habitués à certains scénarios d'entreprise et
+  services intégrés au cloud.
+prerequisitesSection: |-
+  Les candidats
+  à cet examen sont des professionnels de l’informatique qui effectuent des installations, des configurations,
+  une gestion locale générale et une maintenance des services de base de Windows 10.
+  Les candidats peuvent également être habitués à certains scénarios d'entreprise et
+  services intégrés au cloud.
 outlineSection: |-
-  ### Module 1&#58; Configurer le matériel et les pilotes
+  ### Module  1&#58;  Configurer le matériel et les pilotes
   Ce module couvrira la configuration des périphériques. Les étudiants découvriront comment fonctionnent les pilotes des périphériques et comment les installer. La gestion et la configuration des périphériques matériels tels que les imprimantes seront également présentés aux étudiants.
   #### Leçons
   - Gérer les périphériques et les pilotes
@@ -46,12 +55,12 @@ outlineSection: |-
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de décrire des concepts liés aux pilotes
-  - d'installer un pilote de périphérique
+  - d'installer un pilote de périphérique,
   - de décrire des concepts de gestion des imprimantes
   - de configurer l’impression côté client et de gérer les propriétés du serveur d’impression
 
 
-  ### Module 2&#58; Configurer le réseau
+  ### Module  2&#58;  Configurer le réseau
   Les étudiants apprendront dans ce module les concepts de mise en réseau. Ce module présentera IPv4 et IPv6 et des concepts comme le DNS.  Les étudiants apprendront à configurer des paramètres réseau dans Windows et découvriront les technologie de réseau sans fil. Le module se terminera avec les méthodes de gestion de Windows à distance.
   #### Leçons
   - Configurer la connectivité réseau IP
@@ -62,13 +71,13 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différents types d'applications
-  - d'installer des applications manuellement et à l’aide de méthode automatisées
+  - de décrire les différents types d'applications,
+  - d'installer des applications manuellement et à l’aide de méthode automatisées,
   - de gérer le déploiement des applications à l’aide de Windows Store
   - de découvrir les fonctionnalités du navigateur Web dans Windows 10
 
 
-  ### Module 3&#58; Configurer le stockage
+  ### Module  3&#58;  Configurer le stockage
   Ce module couvre la configuration et la gestion du stockage dans Windows 10.  Les étudiants découvriront les options de stockage local, dans le cloud et virtuel. Cette formation comprendra également la configuration du stockage sur les périphériques des clients et l’introduction aux espaces de stockage.
   #### Leçons
   - Aperçu des options de stockage
@@ -78,7 +87,7 @@ outlineSection: |-
   - Gérer les espaces de stockage
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Gérer le stockage
+  #### Laboratoire pratique&#58; Gérer le stockage
   - Ajouter un disque
   - Créer un volume simple
   - Comprimer un dossier
@@ -87,13 +96,13 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les options et les avantages du stockage local, dans le cloud et virtuel
-  - de configurer OneDrive
-  - de configurer les partitions et les volumes du disque local
-  - de décrire les capacités et les avantages des espaces de stockage
+  - de décrire les options et les avantages du stockage local, dans le cloud et virtuel,
+  - de configurer OneDrive,
+  - de configurer les partitions et les volumes du disque local,
+  - de décrire les capacités et les avantages des espaces de stockage.
 
 
-  ### Module 4&#58; Gérer les applications dans Windows 10
+  ### Module  4&#58;  Gérer les applications dans Windows 10
   Dans ce module, les étudiants découvriront la gestion des applications dans Windows 10. Ce module couvrira les différents types d'applications et de méthodes d'installation prises en charge.  Les étudiants apprendront à installer les applications à l’aide de méthodes manuelles et automatisées et à gérer la livraison des applications à l’aide de Windows Store. Finalement, ce module couvrira les différences entre Internet Explorer et Microsoft Edge.
   #### Leçons
   - Fournir des applications aux utilisateurs
@@ -103,15 +112,16 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différents types d'applications
-  - d'installer des applications manuellement et à l’aide de méthode automatisées
+  - de décrire les différents types d'applications,
+  - d'installer des applications manuellement et à l’aide de méthode automatisées,
   - de gérer le déploiement des applications à l’aide de Windows Store
   - de découvrir les fonctionnalités du navigateur Web dans Windows 10
 
 
-  ### Module 5&#58; Conclusion de la formation
+  ### Module  5&#58; Conclusion de la formation
   #### Leçons
   - Examen final
 
 
   #### Laboratoire&#58; Exercices de laboratoire notés
+

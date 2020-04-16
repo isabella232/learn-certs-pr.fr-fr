@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 'Dynamics 365: Automatisation de Power Platform'
 metadata:
-  title: 'Formation MB-200T02-A: Dynamics 365: Automatisation de Power Platform'
-  description: 'Formation MB-200T02-A: Dynamics 365: Automatisation de Power Platform'
+  title: 'Course MB-200T02-A: Dynamics 365: Automatisation de Power Platform'
+  description: 'Course MB-200T02-A: Dynamics 365: Automatisation de Power Platform'
 uid: course.mb-200t02
 courseNumber: 'MB-200T02-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ exams:
 - uid: exam.mb-200
 summary: |-
   Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques. Cette formation donne un aperçu approfondi des capacités de Microsoft Dynamics 365 et de Power Platform et fournit une base pour d'autres offres de formation de Microsoft Dynamics 365 et Power Platform.
-
   Dans cette formation, nos experts internationalement reconnus guident les étudiants à travers les différentes options d'automatisation disponibles et les informent sur la manière de les utiliser dans des situations réelles.
 
   #### Profil de l’audience
@@ -39,17 +38,17 @@ summary: |-
 prerequisitesSection: |-
   Familiarité avec les applications d'entreprise et désir de les personnaliser et de les mettre en œuvre dans votre entreprise.
 outlineSection: |-
-  ### Module 1&#58; Aperçu de l’automatisation de Platform
+  ### Module  1&#58; Aperçu de l’automatisation de Platform
   Dans ce module, les étudiants apprendront les bases des capacités d’automatisation sur Power Platform. Ils découvriront le besoin d'automatisation et la manière de faire correspondre les besoins aux capacités.
   #### Leçons
   - Aperçu de l’automatisation de Platform
   - Résumé du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d'identifier les automatisations communes de la plateforme et leurs utilisations
+  - d'identifier les automatisations communes de la plateforme et leurs utilisations.
 
 
-  ### Module 2&#58; Règles métier
+  ### Module  2&#58; Règles métier
   Dans ce module, les étudiants apprendront à mettre au point et utiliser les règles métiers et découvriront comment elles fonctionnent avec les autres automatisations de la plateforme.
   #### Leçons
   - Introduction aux règles métiers
@@ -57,10 +56,10 @@ outlineSection: |-
   - Résumé du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - créer et d'utiliser des règles métiers
+  - créer et d'utiliser des règles métiers.
 
 
-  ### Module 3&#58; Flux de travail
+  ### Module  3&#58; Flux de travail
   Dans ce module, les étudiants apprendront à mettre au point et utiliser les flux de travail et découvriront comment ils fonctionnent avec les autres automatisations de la plateforme.
   #### Leçons
   - Introduction aux flux de travail
@@ -69,10 +68,10 @@ outlineSection: |-
   - Résumé du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de créer et d'utiliser des flux de travail
+  - de créer et d'utiliser des flux de travail.
 
 
-  ### Module 4&#58; Microsoft Flows
+  ### Module  4&#58; Microsoft Flows
   Dans ce module, les étudiants apprendront à mettre au point et utiliser Microsoft Flows et découvriront comment il fonctionne avec les autres automatisations de la plateforme.
   #### Leçons
   - Introduction à Microsoft Flows
@@ -84,10 +83,10 @@ outlineSection: |-
   - Résumé du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de créer et d'utiliser Microsoft Flows
+  - de créer et d'utiliser Microsoft Flows.
 
 
-  ### Module 5&#58; Flux des processus métier
+  ### Module  5&#58; Flux des processus métier
   Dans ce module, les étudiants apprendront à mettre au point et utiliser les flux des processus métier et découvriront comment ils fonctionnent avec les autres automatisations de la plateforme.
   #### Leçons
   - Introduction aux flux de processus métier
@@ -96,4 +95,5 @@ outlineSection: |-
   - Résumé du module
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de créer et d'utiliser des flux de processus métier
+  - de créer et d'utiliser des flux de processus métier.
+

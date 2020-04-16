@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Configurer et utiliser des créances, des débits et des recouvrements dans Finance and Operations
 metadata:
-  title: 'Formation MB-310T02-A: Configurer et utiliser des créances, des débits et des recouvrements dans Finance and Operations'
-  description: 'Formation MB-310T02-A: Configurer et utiliser des créances, des débits et des recouvrements dans Finance and Operations'
+  title: 'Course MB-310T02-A: Configurer et utiliser des créances, des débits et des recouvrements dans Finance and Operations'
+  description: 'Course MB-310T02-A: Configurer et utiliser des créances, des débits et des recouvrements dans Finance and Operations'
 uid: course.mb-310t02
 courseNumber: 'MB-310T02-A'
 hoursToComplete: 24
@@ -21,136 +21,11 @@ exams:
 - uid: exam.mb-310
 summary: |-
   Les organisations utilisent Dynamics 365 for Finance and Operations pour rehausser leur performance financière en accroissant leur rentabilité, en optimisant la productivité de la main d’œuvre, en réduisant les dépenses opérationnelles, en s'adaptant rapidement aux changements des exigences et en rationalisant la gestion des actifs.
-  
-  Cette formation discute de la manière de configurer et d’utiliser les créances, les débits et les recouvrements dans Dynamics 365 for Finance and Operations.
 
+  Cette formation discute de la manière de configurer et d’utiliser les créances, les débits et les recouvrements dans Dynamics 365 for Finance and Operations.
   #### Profil de l’audience
   Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 prerequisitesSection: |-
   Une compréhension de base des concepts d’ERP et de CRM.
-outlineSection: |-
-  ### Module 1&#58; Configurer le compte créditeur
-  Dynamics 365 for Finance and Operations offre une fonctionnalité élargie pour définir les différentes options de paiement aux fournisseurs.
-  #### Leçons
-  - Comprendre la fonctionnalité d’enregistrement de tâches
-  - Configurer les paramètres des créances
-  - Créer et gérer les fournisseurs
-  - Configurer les frais des créances
-  - Configurer et utiliser le paiement positif
-  - Laboratoire pratique
-  - Résumé du module
+outlineSection: "### Module  1&#58;  Configurer le compte créditeur\nDynamics 365 for Finance and Operations offre une fonctionnalité élargie pour définir les différentes options de paiement aux fournisseurs.\n#### Leçons\n- Comprendre la fonctionnalité d’enregistrement de tâches\n- Configurer les paramètres des créances\n- Créer et gérer les fournisseurs\n- Configurer les frais des créances\n- Configurer et utiliser le paiement positif\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- configurer les composants des créances,\n- créer et gérer un fournisseur,\n- configurer les paiements aux fournisseurs,\n- établir des profils de comptabilisation des fournisseurs,\n- Configurer les frais des créances\n\n\n### Module  2&#58;  Effectuer des procédures quotidiennes de comptes créditeurs\nL’achat de marchandises pour la revente, comme matériaux de base pour la fabrication ou des services représente une grande responsabilité. Suivre ces achats et payer les fournisseurs qui fournissent les marchandises est tout aussi complexe. Les organisations doivent surveiller les comptes créditeurs de près et mettre en œuvre des procédures pour que la direction puisse facilement obtenir les informations financières nécessaires pour rester informée sur le changement de coût des marchandises. Afin de fournir une vue précise de la condition financière d'une entreprise, toutes les dépenses qui affectent le profit net doivent être inclues dans les créances. Ce module explique comment gérer et appliquer les acomptes, enregistrer les factures et effectuer les paiements.\n#### Leçons\n- Introduction\n- Traiter les commandes, les factures et les paiements\n- Gérer et appliquer les acomptes\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont appris qu’ils peuvent saisir les factures des fournisseurs manuellement, ou les recevoir électroniquement à travers une entité de données. Après la saisie ou la réception des factures, il est possible de passer en revue les factures et de les approuver en utilisant un journal d'approbation des factures ou la page des factures de fournisseur. De plus, ils ont appris à utiliser la correspondance des factures, les politiques de facturation des fournisseurs et le flux de travail pour automatiser le processus de révision afin que les factures qui répondent à certains critères soient automatiquement approuvées et que les factures restantes soient marquées à revoir par un utilisateur autorisé. Les étudiants ont également appris à gérer les acomptes aux fournisseurs.\n\n### Module  3&#58;  Utiliser la distribution comptable et les validations de factures\nCe module explique comment régler les transactions, annuler le règlement et distribuer les fonds à l’aide des distributions comptables. Les étudiants apprendront également à effectuer la correspondance des factures. Les distributions comptables sont utilisées pour définir la manière de comptabiliser un montant, comme par exemple la manière de comptabiliser la dépense, la taxe ou les frais sur une facture de fournisseur. Chaque montant qui doit être comptabilisé pour la journalisation de la facture du fournisseur aura une distribution comptable ou plus.\n\n#### Leçons\n- Introduction\n- Régler des transactions et annuler des règlements\n- Distribuer des fonds\n- Configurer les politiques de validation de factures\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- régler des transactions et annuler les règlements,\n- Distribuer des fonds à l’aide des distributions comptables\n- Configurer les politiques de validation de factures\n\n\n### Module  4&#58;  Configurer le compte débiteur\nIl est nécessaire de configurer le module des comptes débiteurs pour pouvoir créer des factures clients, comptabiliser des bons d’expédition, utiliser les factures à texte libre qui ne sont pas liées à des bons de commande et, finalement, recevoir des paiements à l’aide de plusieurs types de paiement différents, tels que les espèces, les chèques, les cartes de crédit et les paiements électroniques de la part des clients. Ce module fournit des informations sur la configuration des composants essentiels du module des comptes débiteurs et la définition des clients pour une gestion réussie des clients et des transactions des clients dans Finance and Operations\n\n#### Leçons\n- Configuration des comptes débiteurs\n- Créer et gérer les clients\n- Définir les profils de comptabilisation des clients\n- Configurer les frais des comptes débiteurs\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- configurer les composants des comptes débiteurs,\n- créer et gérer un client,\n- configurer les paiements aux clients,\n- établir des profils de comptabilisation des clients,\n- Configurer les frais des comptes débiteurs\n\n\n### Module  5&#58;  Effectuer des procédures quotidiennes de comptes débiteurs\nApprendre à créer des factures à texte libre, à recevoir des paiements de la part des clients et à effectuer des dépôts à la banque. Les étudiants apprendront également à rembourser un client pour un montant surpayé ou pour toute autre raison, comme le scénario de retour de la part du client dans lequel le client doit être remboursé du paiement en plus de la valeur de la taxe qui a été recueillie, à l’aide d’inverses et de l’utilisation de transactions inversées dans les comptes débiteurs. Les étudiants apprendront également comment distribuer des fonds à l’aide des distributions comptables dans la facture à texte libre.\n\n#### Leçons\n- Créer des factures à texte libre et enregistrer les paiements des clients\n- Régler des transactions et annuler les règlements\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris ce qui suit&#58; \n- Distribuer des fonds à l’aide des distributions comptables\n- Créer des factures à texte libre et enregistrer les paiements des clients\n- Configurer les factures récurrentes\n- Utiliser l’inversion dans les comptes débiteurs\n- Traiter les commandes, enregistrer les factures et procéder aux paiements\n\n\n### Module  6&#58;  Configurer le crédit et le recouvrement\nBien que la plupart des clients paient leurs factures à temps, il faut être capable de traiter les factures qui ne sont pas payées dans les délais. Ce sujet explique comment gérer les clients mauvais payeurs en configurant le module de crédit et de recouvrement dans Dynamics 365 for Finance and Operations. Pour utiliser le module de crédit et de recouvrement, la configuration des comptes débiteurs devrait être déjà complétée.\n\n#### Leçons\n- Introduction\n- Configurer les composants du crédit et du recouvrement\n- Définir et gérer les intérêts\n- Renoncer, rétablir ou inverser\n- Définir et gérer les lettres de recouvrement\n- Laboratoire pratique\n- Résumé du module\n\nDans ce module, les étudiants ont appris à&#58; \n- Configurer les composants du crédit et du recouvrement\n- configurer les rapports chronologiques, les pools des clients et les définitions de la période chronologique,\n- définir et gérer les intérêts,\n- définir et gérer les lettres de recouvrement.\n\n\n### Module  7&#58;  Traiter le crédit et le recouvrement\nBien que la plupart des clients paient leurs factures à temps, il faut être capable de traiter les factures qui ne sont pas payées dans les délais. Ce sujet explique comment traiter le crédit et le recouvrement.\n#### Leçons\n- Introduction\n- Comprendre comment traiter le recouvrement\n- Gérer les crédit et le recouvrement des clients\n- Laboratoires pratiques\n- Résumé du module\n\nDans ce module, les étudiants ont découvert&#58; \n- les relevés des clients,\n- comment traiter le recouvrement.\n\n\n### Module  8&#58; Conclusion de la formation\nUne évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.\n#### Leçons\n- Évaluation finale\n- Résumé de la formation\n- Sondage après la conclusion de la formation\n\nLes étudiants auront terminé la formation."
 
-  Dans ce module, les étudiants ont appris à&#58;
-  - configurer les composants des créances
-  - créer et gérer un fournisseur
-  - configurer les paiements aux fournisseurs
-  - établir des profils de comptabilisation des fournisseurs
-  - Configurer les frais des créances
-
-
-  ### Module 2&#58; Effectuer des procédures quotidiennes de comptes créditeurs
-  L’achat de marchandises pour la revente, comme matériaux de base pour la fabrication ou des services représente une grande responsabilité. Suivre ces achats et payer les fournisseurs qui fournissent les marchandises est tout aussi complexe. Les organisations doivent surveiller les comptes créditeurs de près et mettre en œuvre des procédures pour que la direction puisse facilement obtenir les informations financières nécessaires pour rester informée sur le changement de coût des marchandises. Afin de fournir une vue précise de la condition financière d'une entreprise, toutes les dépenses qui affectent le profit net doivent être inclues dans les créances. Ce module explique comment gérer et appliquer les acomptes, enregistrer les factures et effectuer les paiements.
-  #### Leçons
-  - Introduction
-  - Traiter les commandes, les factures et les paiements
-  - Gérer et appliquer les acomptes
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris qu’ils peuvent saisir les factures des fournisseurs manuellement, ou les recevoir électroniquement à travers une entité de données. Après la saisie ou la réception des factures, il est possible de passer en revue les factures et de les approuver en utilisant un journal d'approbation des factures ou la page des factures de fournisseur. De plus, ils ont appris à utiliser la correspondance des factures, les politiques de facturation des fournisseurs et le flux de travail pour automatiser le processus de révision afin que les factures qui répondent à certains critères soient automatiquement approuvées et que les factures restantes soient marquées à revoir par un utilisateur autorisé. Les étudiants ont également appris à gérer les acomptes aux fournisseurs.
-
-  ### Module 3&#58; Utiliser la distribution comptable et les validations de factures
-  Ce module explique comment régler les transactions, annuler le règlement et distribuer les fonds à l’aide des distributions comptables. Les étudiants apprendront également à effectuer la correspondance des factures. Les distributions comptables sont utilisées pour définir la manière de comptabiliser un montant, comme par exemple la manière de comptabiliser la dépense, la taxe ou les frais sur une facture de fournisseur. Chaque montant qui doit être comptabilisé pour la journalisation de la facture du fournisseur aura une distribution comptable ou plus.
-
-  #### Leçons
-  - Introduction
-  - Régler des transactions et annuler des règlements
-  - Distribuer des fonds
-  - Configurer les politiques de validation de factures
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - régler des transactions et annuler les règlements
-  - Distribuer des fonds à l’aide des distributions comptables
-  - Configurer les politiques de validation de factures
-
-
-  ### Module 4&#58; Configurer le compte débiteur
-  Il est nécessaire de configurer le module des comptes débiteurs pour pouvoir créer des factures clients, comptabiliser des bons d’expédition, utiliser les factures à texte libre qui ne sont pas liées à des bons de commande et, finalement, recevoir des paiements à l’aide de plusieurs types de paiement différents, tels que les espèces, les chèques, les cartes de crédit et les paiements électroniques de la part des clients. Ce module fournit des informations sur la configuration des composants essentiels du module des comptes débiteurs et la définition des clients pour une gestion réussie des clients et des transactions des clients dans Finance and Operations
-
-  #### Leçons
-  - Configuration des comptes débiteurs
-  - Créer et gérer les clients
-  - Définir les profils de comptabilisation des clients
-  - Configurer les frais des comptes débiteurs
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - configurer les composants des comptes débiteurs
-  - créer et gérer un client
-  - configurer les paiements aux clients
-  - établir des profils de comptabilisation des clients
-  - Configurer les frais des comptes débiteurs
-
-
-
-  ### Module 5&#58; Effectuer des procédures quotidiennes de comptes débiteurs
-  Apprendre à créer des factures à texte libre, à recevoir des paiements de la part des clients et à effectuer des dépôts à la banque. Les étudiants apprendront également à rembourser un client pour un montant surpayé ou pour toute autre raison, comme le scénario de retour de la part du client dans lequel le client doit être remboursé du paiement en plus de la valeur de la taxe qui a été recueillie, à l’aide d’inverses et de l’utilisation de transactions inversées dans les comptes débiteurs. Les étudiants apprendront également comment distribuer des fonds à l’aide des distributions comptables dans la facture à texte libre.
-
-  #### Leçons
-  - Créer des factures à texte libre et enregistrer les paiements des clients
-  - Régler des transactions et annuler les règlements
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris ce qui suit&#58;
-  - Distribuer des fonds à l’aide des distributions comptables
-  - Créer des factures à texte libre et enregistrer les paiements des clients
-  - Configurer les factures récurrentes
-  - Utiliser l’inversion dans les comptes débiteurs
-  - Traiter les commandes, enregistrer les factures et procéder aux paiements
-
-
-  ### Module 6&#58; Configurer le crédit et le recouvrement
-  Bien que la plupart des clients paient leurs factures à temps, il faut être capable de traiter les factures qui ne sont pas payées dans les délais. Ce sujet explique comment gérer les clients mauvais payeurs en configurant le module de crédit et de recouvrement dans Dynamics 365 for Finance and Operations. Pour utiliser le module de crédit et de recouvrement, la configuration des comptes débiteurs devrait être déjà complétée.
-
-  #### Leçons
-  - Introduction
-  - Configurer les composants du crédit et du recouvrement
-  - Définir et gérer les intérêts
-  - Renoncer, rétablir ou inverser
-  - Définir et gérer les lettres de recouvrement
-  - Laboratoire pratique
-  - Résumé du module
-
-  Dans ce module, les étudiants ont appris à&#58;
-  - Configurer les composants du crédit et du recouvrement
-  - configurer les rapports chronologiques, les pools des clients et les définitions de la période chronologique
-  - définir et gérer les intérêts
-  - définir et gérer les lettres de recouvrement
-
-
-  ### Module 7&#58; Traiter le crédit et le recouvrement
-  Bien que la plupart des clients paient leurs factures à temps, il faut être capable de traiter les factures qui ne sont pas payées dans les délais. Ce sujet explique comment traiter le crédit et le recouvrement.
-  #### Leçons
-  - Introduction
-  - Comprendre comment traiter le recouvrement
-  - Gérer les crédit et le recouvrement des clients
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Dans ce module, les étudiants ont découvert&#58;
-  - les relevés des clients
-  - comment traiter le recouvrement
-
-
-  ### Module 8&#58; Conclusion de la formation
-  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
-  #### Leçons
-  - Évaluation finale
-  - Résumé de la formation
-  - Sondage après la conclusion de la formation
-
-  Les étudiants auront terminé la formation.

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Programmation des ressources universelles pour Dynamics 365 pour le service sur site
 metadata:
-  title: 'Formation MB-240T03-A: Programmation des ressources universelles pour Dynamics 365 pour le service sur site'
-  description: 'Formation MB-240T03-A: Programmation des ressources universelles pour Dynamics 365 pour le service sur site'
+  title: 'Course MB-240T03-A: Programmation des ressources universelles pour Dynamics 365 pour le service sur site'
+  description: 'Course MB-240T03-A: Programmation des ressources universelles pour Dynamics 365 pour le service sur site'
 uid: course.mb-240t03
 courseNumber: 'MB-240T03-A'
 hoursToComplete: 24
@@ -26,24 +26,18 @@ products:
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
-  Une organisation qui a besoin de ressources pour exécuter les services doit être capable d’identifier et de programmer efficacement sur la base d’exigences définies par les besoins organisationnels. La solution de programmation des ressources universelles de Dynamics 365 permet aux organisations de gérer et programmer ces ressources de manière plus efficace en leur fournissant un ensemble d'outils configurables.
-
-  Cette formation équipera les étudiants avec les compétences nécessaires pour configurer et consommer les outils disponibles afin de gérer les ressources organisationnelles de manière plus efficace. Les sujets principaux comprennent l’identification du point de départ, ainsi que les considérations organisationnelles qui mèneront à des décisions de programmation des ressources. Le sujet principal traitera de la meilleure façon de profiter des outils disponibles pour localiser et programmer les ressources, comme l'utilisation du tableau de planification et l’assistant de planification. De plus, nous examinerons les scénarios de personnalisation, comme permettre de programmer des articles, définir des options de tableau de planification, travailler avec de nombreux tableaux de planification et étendre la fonctionnalité de la programmation essentielle.     
-
-  Cette formation aidera les étudiants à mieux comprendre ce qui est important pour les organisations lors de la planification des ressources et se concentrera sur les considérations de mise en œuvre qui aident à concevoir des solutions plus efficaces qui s'alignent avec les objectifs des clients et de l'organisation.
-
+summary: "Une organisation qui a besoin de ressources pour exécuter les services doit être capable d’identifier et de programmer efficacement sur la base d’exigences définies par les besoins organisationnels. La solution de programmation des ressources universelles de Dynamics 365 permet aux organisations de gérer et programmer ces ressources de manière plus efficace en leur fournissant un ensemble d'outils configurables.\nCette formation équipera les étudiants avec les compétences nécessaires pour configurer et consommer les outils disponibles afin de gérer les ressources organisationnelles de manière plus efficace. Les sujets principaux comprennent l’identification du point de départ, ainsi que les considérations organisationnelles qui mèneront à des décisions de programmation des ressources. Le sujet principal traitera de la meilleure façon de profiter des outils disponibles pour localiser et programmer les ressources, comme l'utilisation du tableau de planification et l’assistant de planification. De plus, nous examinerons les scénarios de personnalisation, comme permettre de programmer des articles, définir des options de tableau de planification, travailler avec de nombreux tableaux de planification et étendre la fonctionnalité de la programmation essentielle.     \n\nCette formation aidera les étudiants à mieux comprendre ce qui est important pour les organisations lors de la planification des ressources et se concentrera sur les considérations de mise en œuvre qui aident à concevoir des solutions plus efficaces qui s'alignent avec les objectifs des clients et de l'organisation. "
 prerequisitesSection: |-
   Compréhension de base des caractéristiques, des fonctionnalités et de la navigation de Dynamics 365.
 outlineSection: |-
-  ### Module 1&#58; Programmation des ressources universelles
+  ### Module  1&#58;  Programmation des ressources universelles
   #### Leçons
   - Aperçu et configuration de la programmation des ressources universelles
   - Permettre les entités dans la programmation des ressources universelles
   - Personnaliser l’entité et considérations de l’automatisation
 
 
-  ### Module 2&#58; Gérer les options de la programmation
+  ### Module  2&#58;  Gérer les options de la programmation
   #### Leçons
   - Utiliser le tableau de planification
   - Programmer les articles
@@ -51,7 +45,7 @@ outlineSection: |-
   - Planification du pool de l’équipe et des ressources
 
 
-  ### Module 3&#58; Personnaliser le tableau de planification
+  ### Module  3&#58;  Personnaliser le tableau de planification
   #### Leçons
   - Configurer le tableau de planification
   - Créer des tableaux de planification supplémentaires
@@ -60,9 +54,10 @@ outlineSection: |-
   - Travailler avec les groupes des exigences
 
 
-  ### Module 4&#58; Optimisation de la programmation des ressources
+  ### Module  4&#58;  Optimisation de la programmation des ressources
   #### Leçons
   - Aperçu de l’optimisation de la programmation des ressources
   - Définir les objectifs d’optimisation
   - Définir les étendues d’optimisation
   - Définir les profils d’optimisation
+

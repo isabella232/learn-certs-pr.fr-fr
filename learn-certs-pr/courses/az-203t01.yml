@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Mettre au point des solutions de calcul de l’infrastructure en tant que service Azure
 metadata:
-  title: 'Formation AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
-  description: 'Formation AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
+  title: 'Course AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
+  description: 'Course AZ-203T01-A: Mise au point de l’infrastructure Azure en tant que solutions de calcul de service'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -29,7 +29,6 @@ exams:
 - uid: exam.az-203
 summary: |-
   Au cours de cette formation, les étudiants gagneront des connaissances et des compétences nécessaires à la mise en œuvre des services IaaS Azure et des fonctionnalités de leurs solutions de mise au point. Cette formation couvre la fourniture de machines virtuelles, l’utilisation du service de lots pour déployer/maintenir des ressources et la façon de créer des solutions conteneurisées en utilisant le services Kubernetes d’Azure.
-
   #### Profil de l’audience
   - Les étudiants qui suivent cette formation sont intéressés par la mise au point de Azure ou la réussite de l’examen de certification Microsoft Azure Developer Associate.
 prerequisitesSection: |-
@@ -44,8 +43,8 @@ outlineSection: |-
   - Configuration de Azure Disk Encryption pour les VM
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’apprendre à créer et déployer des machines virtuelles en utilisant le portail Azure, PowerShell et le code.
-  - d’apprendre à créer et déployer ARM en utilisant le portail Azure et Visual Studio.
+  - d’apprendre à créer et déployer des machines virtuelles en utilisant le portail Azure, PowerShell et le code,
+  - d’apprendre à créer et déployer ARM en utilisant le portail Azure et Visual Studio,
   - de comprendre les différentes options de cryptage et d'apprendre à crypter de nouveaux déploiement et des déploiements existants.
 
 
@@ -58,9 +57,9 @@ outlineSection: |-
   - Gestion de travaux par lots à l’aide de Batch Service API
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre comment le service Azure Batch fonctionne.
-  - d'apprendre à créer et exécuter des travaux par lot en utilisant Azure CLI.
-  - d'apprendre à créer et exécuter des travaux par lot en utilisant le code.
+  - de comprendre comment le service Azure Batch fonctionne,
+  - d'apprendre à créer et exécuter des travaux par lot en utilisant Azure CLI,
+  - d'apprendre à créer et exécuter des travaux par lot en utilisant le code,
   - d'apprendre à utiliser Azure Batch Service API pour gérer les tâches.
 
 
@@ -73,7 +72,8 @@ outlineSection: |-
   - Exécution de conteneurs à l’aide de l'instance de conteneurs Azure ou AKS
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d'apprendre les concepts de base de AKS
-  - d'apprendre à déployer des clusters AKS
+  - d'apprendre les concepts de base de AKS,
+  - d'apprendre à déployer des clusters AKS,
   - Publication d'une image dans le registre Azure Container Registry
-  - de découvrir les instances de conteneurs Azure et la façon de les déployer
+  - de découvrir les instances de conteneurs Azure et la façon de les déployer.
+

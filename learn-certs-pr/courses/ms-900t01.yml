@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Fundamentals
 metadata:
-  title: 'Formation MS-900T01-A: Microsoft 365 Fundamentals'
-  description: 'Formation MS-900T01-A: Microsoft 365 Fundamentals'
+  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
@@ -35,16 +35,11 @@ exams:
 - uid: exam.ms-900
 summary: |-
   Cette formation fournit des connaissance de base sur les considérations et avantages de l’adoption des services dans le cloud et du modèle de cloud Software as a Service (SaaS), avec une concentration spécifique sur les offres de service de cloud Microsoft 365. Vous commencerez par apprendre les bases fondamentales du cloud, y compris un aperçu général de la technologie du cloud et spécialement les services de cloud Microsoft. Vous découvrirez Microsoft Azure et vous examinerez les différences entre Microsoft 365 et Office 365. Vous passerez ensuite en revue de manière approfondie Microsoft 365, en comparant les services Microsoft sur site et les services de cloud Microsoft 365 et la mobilité d’entreprise dans Microsoft 365 et ferez une analyse de la manière dont les services Microsoft 365 offrent une collaboration. Cette formation analyse ensuite comment la sécurité, la conformité, la confidentialité et la confiance sont gérées dans Microsoft 365 et se termine avec un passage en revue des abonnements, l'octroi des licences, la facturation et le soutien de Microsoft 365.
-
   #### Profil de l’audience
   Cette formation est conçue pour les professionnels de l'informatique qui aspirent à déployer et gérer les services de cloud dans leur organisation ou qui cherchent simplement à acquérir des connaissances de base sur Cloud Fundamentals. Cela comprend les considérations et avantages de l’adoption des services de cloud en général et du modèle de cloud Software as a Service (SaaS) de façon spécifique, en mettant un accent général sur les offres de service de cloud Microsoft 365.
-prerequisitesSection: |-
-  Cette formation est conçue pour les professionnels de l'informatique qui aspirent à déployer et gérer les services de cloud dans leur organisation. Les étudiants doivent avoir la formation suivante&#58;
-  - Des connaissances informatiques générales ou une expérience générale de travail dans un environnement informatique
-  - Une expérience générale (de niveau vente) sur la correspondance de produits Microsoft sur site, tels que Exchange Server, SharePoint, Office Professional, AD RMS et d'autres
-  - Une expérience dans la réponse aux exigences des entreprises, légales ou de sécurité en matière d’informatique
+prerequisitesSection: "Cette formation est conçue\npour les professionnels de l'informatique qui aspirent à déployer et gérer les services de cloud dans leur\norganisation. Les étudiants doivent avoir la formation suivante&#58; \n- Des connaissances informatiques générales ou une expérience générale de travail dans un environnement informatique\n- Une expérience générale (de niveau vente) sur la correspondance de produits Microsoft sur site, tels que Exchange Server, SharePoint, Office Professional, AD RMS et d'autres.\n- Une expérience dans la réponse aux exigences des entreprises, légales ou de sécurité en matière d’informatique."
 outlineSection: |-
-  ### Module 1&#58; Concepts du cloud
+  ### Module  1&#58; Concepts du cloud
   #### Leçons
   - Principes de la technologie de cloud
   - Services cloud de Microsoft
@@ -52,7 +47,7 @@ outlineSection: |-
 
 
   #### Laboratoire&#58; Cloud Fundamentals
-  - Exercice 1&#58; Déterminer le modèle de cloud approprié (laboratoire sur papier)
+  - Exercice 1&#58;  Déterminer le modèle de cloud approprié (laboratoire sur papier)
 
 
   ### Module 2&#58; Services de base Microsoft 365
@@ -63,13 +58,13 @@ outlineSection: |-
   - Teamwork dans Microsoft 365
 
 
-  #### Laboratoire&#58; Activer et configurer un locataire Microsoft 365
-  - Exercice 1&#58; Activation et configuration d’un locataire Microsoft 365
-  - Exercice 2&#58; Explorer l’utilisateur et le portail d'administration de Microsoft 365
-  - Exercice 3&#58; Configurer un nouvel utilisateur et des comptes de groupes
+  #### Laboratoire&#58;  Activer et configurer un locataire Microsoft 365
+  - Exercice 1&#58;  Activation et configuration d’un locataire Microsoft 365
+  - Exercice 2&#58;  Explorer l’utilisateur et le portail d'administration de Microsoft 365
+  - Exercice 3&#58;  Configurer un nouvel utilisateur et des comptes de groupes
 
 
-  ### Module 3&#58; Sécurité, conformité, confidentialité et confiance dans Microsoft 365
+  ### Module  3&#58; Sécurité, conformité, confidentialité et confiance dans Microsoft 365
   #### Leçons
   - Les principes de la sécurité organisationnelle
   - Fonctionnalités de sécurité dans Microsoft 365
@@ -78,13 +73,13 @@ outlineSection: |-
   - Conformité dans Microsoft 365
 
 
-  #### Laboratoire&#58; Sécurité dans Microsoft 365
-  - Exercice 1&#58; Gérer les utilisateurs et les périphériques dans Azure Active Directory
-  - Exercice 2&#58; Évaluer la protection de l’identité
-  - Exercice 3&#58; Explorer les outils de la conformité
+  #### Laboratoire&#58;  Sécurité dans Microsoft 365
+  - Exercice 1&#58;  Gérer les utilisateurs et les périphériques dans Azure Active Directory
+  - Exercice 2&#58;  Évaluer la protection de l’identité
+  - Exercice 3&#58;  Explorer les outils de la conformité
 
 
-  ### Module 4&#58; Tarification et support Microsoft 365
+  ### Module  4&#58;  Tarification et support Microsoft 365
   #### Leçons
   - Abonnements, licences et facturation de Microsoft 365
   - Support dans Microsoft 365
@@ -94,3 +89,4 @@ outlineSection: |-
   - Exercice 1&#58; Explorer les interfaces de facturation et d'abonnement
   - Exercice 2&#58; Ajouter des licences d’essai au locataire
   - Exercice 3&#58; Passer en revue les options de support
+

@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Azure Architect Design (beta)
+metadata:
+  title: 'Exam AZ-304: Microsoft Azure Architect Design (beta)'
+  description: 'Exam AZ-304: Microsoft Azure Architect Design (beta)'
+uid: exam.az-304
+displayName: AZ-304
+summary: |-
+  Les candidats à cet examen sont les architectes de solutions Azure qui conseillent les parties prenantes et traduisent les exigences de l'entreprise en solutions sécurisées, évolutives et fiables.
+  
+  Les candidats doivent posséder une expérience et des connaissances avancées des opérations informatiques (IT), notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale.
+  
+  Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
+  
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>REMARQUE&#58; Ce examen sera disponible aux environs du 28 avril 2020.</div>
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir la surveillance; concevoir l’identité et la sécurité; concevoir le stockage des données; concevoir la continuité des activités; et concevoir l’infrastructure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
+locales:
+- en
+levels:
+- advanced
+skills:
+- Concevoir la surveillance (10 à 15 %)
+- Concevoir l’identité et la sécurité (25 à 30 %)
+- Concevoir le stockage des données (15 à 20 %)
+- Concevoir continuité des activités (10 à 15 %)
+- Concevoir d'infrastructure (25 à 30 %)
+roles:
+- solution-architect
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Parcours de formation en vue de la certification
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Solutions Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md

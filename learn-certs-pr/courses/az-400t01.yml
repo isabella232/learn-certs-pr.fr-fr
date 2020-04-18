@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Mise en œuvre des processus de mise au point DevOps
 metadata:
-  title: 'Formation AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
-  description: 'Formation AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
+  title: 'Course AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
+  description: 'Course AZ-400T01-A: Mise en œuvre des processus de mise au point DevOps'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Cette formation apporte les connaissances et les compétences nécessaires à la mise en œuvre des procédures DevOps. Les étudiants apprendront à utiliser le contrôle de la source, l’évolution Git pour une entreprise et la mise en œuvre et la gestion de l’infrastructure de construction.
-
   #### Profil de l’audience
   Les étudiants qui suivent cette formation sont intéressés par la mise au point de procédures DevOps ou la réussite de l’examen de certification Solutions Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -48,7 +47,7 @@ outlineSection: |-
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de décrire les avantages de l’utilisation du contrôle des sources,
-  - de migrer de TFVC vers Git
+  - de migrer de TFVC vers Git.
 
 
   ### Module 2&#58; Évolutivité de git pour l’entreprise DevOps
@@ -63,7 +62,7 @@ outlineSection: |-
   - Fichiers dans Git
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de faire évoluer Git pour l’entreprise DevOps
+  - de faire évoluer Git pour l’entreprise DevOps.
 
 
   ### Module 3&#58; Mise en œuvre et gestion de l’infrastructure de construction
@@ -74,14 +73,14 @@ outlineSection: |-
   - Groupements d'agents
   - Pipelines et correspondance
   - Projets Azure DevOps et Open Source
-  - Pipeline YAML Azure vs Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - Réglage des agents privés
   - Intégration de Jenkins aux pipelines Azure
   - Intégration du contrôle de source externe avec les pipelines Azure
   - Analyse et intégration des constructions à étapes multiples Docker
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de mettre en œuvre et gérer l’infrastructure de construction
+  - de mettre en œuvre et gérer l’infrastructure de construction.
 
 
   ### Module 4&#58; Gestion des configuration et des secrets des applications
@@ -93,7 +92,7 @@ outlineSection: |-
   - Mise en œuvre des outils pour la gestion de la sécurité et de la conformité dans le pipeline
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de gérer la configuration et les secrets des applications
+  - de gérer la configuration et les secrets des applications.
 
 
   ### Module 5&#58; mise en œuvre d'une stratégie DevOps mobile
@@ -106,4 +105,5 @@ outlineSection: |-
   - Création de groupes de distribution publics et privés
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de mettre en œuvre une stratégie DevOps mobile
+  - de mettre en œuvre une stratégie DevOps mobile.
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Concevoir une solution de données Azure
+title: Designing an Azure Data Solution
 metadata:
-  title: 'Formation DP-201T01-A: Concevoir une solution de données Azure'
-  description: 'Formation DP-201T01-A: Concevoir une solution de données Azure'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -30,13 +30,12 @@ exams:
 - uid: exam.dp-201
 summary: |-
   Dans cette formation, les étudiants concevront différentes technologies de plateformes de données dans des solutions qui sont alignées aux exigences des entreprises et techniques. Cela peut inclure des scénarios de données sur site, dans le cloud et hybrides qui incluent des données relationnelles, non SQL ou d’entrepôts de données. Ils découvriront également comment concevoir des architectures de données en utilisant une gamme de technologies pour la diffusion et la mise en lots de données. Les étudiants découvriront également comment concevoir la sécurité des données, ce qui inclut l’accès aux données, les politiques de données et les normes. Ils concevront également des solutions de données Azure, ce qui inclut l’optimisation, la disponibilité et la reprise après sinistre de big data, le traitement de lots et la diffusions de solutions de données.
-
   #### Profil de l’audience
   L'audience de cette formation sont des professionnels des données, des architectes en données et des professionnels des solutions décisionnelles qui souhaitent découvrir les technologies de plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est des personnes qui mettent au point des applications qui fournissent du contenu à partir des technologies des plateformes de données qui existent sur Microsoft Azure.
 prerequisitesSection: |-
   Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
-  - DP-200&#58; Mise en œuvre d'une solution de données Azure
+  - [Azure Fundamentals](https&#58;//docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Mise en œuvre d'une solution de données Azure.
 outlineSection: |-
   ### Module 1&#58; Considérations d'une architecture de plateforme de données
   Dans ce module, les étudiants découvriront comment concevoir et construire des solutions sécurisées, évolutives et performantes dans Azure en examinant les principes de base qui se trouvent dans toute bonne architecture. Ils découvriront comment l’utilisation de ces principes clés dans l’architecture, peu importe le choix de la technologie, peut vous aider à concevoir, construire et continuellement améliorer l’architecture pour le bénéfice d'une organisation.
@@ -77,9 +76,9 @@ outlineSection: |-
   - Automatisation d’une solution décisionnelle d’entreprise dans Azure.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre les principes de base de la création d’architectures
-  - de décrire des architectures lambda d’un point de vue du mode lot
-  - Conception d’une solution décisionnelle d’entreprise dans Azure
+  - de comprendre les principes de base de la création d’architectures,
+  - de décrire des architectures lambda d’un point de vue du mode lot,
+  - Conception d’une solution décisionnelle d’entreprise dans Azure.
   - Automatisation de solutions décisionnelles d’entreprise dans Azure
   - Création d'un bot de conversation au niveau de l’entreprise dans Azure
 
@@ -100,7 +99,7 @@ outlineSection: |-
   - Création d’une architecture de référence Azure IoT
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire des architectures lambda pour un point de vue du mode en temps réel
+  - de décrire des architectures lambda pour un point de vue du mode en temps réel,
   - Création d'un pipeline de traitement de flux avec Azure Stream Analytics
   - Conception d'un pipeline de traitement des flux avec Azure Databricks
   - Création d’une architecture de référence Azure IoT
@@ -127,7 +126,7 @@ outlineSection: |-
   - Protection des infrastructures
   - Utilisation du cryptage
   - Protection au niveau du réseau
-  - Sécurité des applicationss
+  - Sécurité des applications
 
 
   ### Module 5&#58; Conception pour la résilience et l’évolution
@@ -175,3 +174,4 @@ outlineSection: |-
   - Maximisation de l’efficacité de votre environnement de cloud
   - Utilisation de la surveillance et de l’analyse pour obtenir des informations opérationnelles
   - Utilisation de l’automatisation pour réduire les efforts et les erreurs
+

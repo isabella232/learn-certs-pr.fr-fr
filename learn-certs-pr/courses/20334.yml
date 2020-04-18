@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Solutions de base de Skype for Business 2015
+title: Solutions de base de Skype for Business 2015/2019
 metadata:
-  title: 'Formation 20334-C: Solutions de base de Skype for Business 2015/2019'
-  description: 'Formation 20334-C: Solutions de base de Skype for Business 2015/2019'
+  title: 'Course 20334-C: Solutions de base de Skype for Business 2015/2019'
+  description: 'Course 20334-C: Solutions de base de Skype for Business 2015/2019'
 uid: course.20334
 courseNumber: '20334-C'
 hoursToComplete: 120
@@ -12,7 +12,7 @@ skillsGained:
 - skill: Installer et mettre en œuvre le serveur Skype Entreprise.
 - skill: Administrer et gérer un serveur Skype Entreprise en utilisant les différents outils disponibles.
 - skill: Concevoir et mettre en œuvre des clients et des utilisateurs Skype Entreprise.
-- skill: Concevoir et mettre en œuvre des clients et des utilisateurs Skype Entreprise.
+- skill: Mettre en œuvre la conférence dans le serveur Skype Entreprise.
 - skill: Concevoir et mettre en œuvre des options de conférence supplémentaires.
 - skill: Concevoir et mettre en œuvre la surveillance et l’archivage dans Skype Entreprise.
 - skill: Concevoir et mettre en œuvre la connectivité pour les utilisateurs et les organisations externes.
@@ -39,7 +39,7 @@ summary: |-
 
   #### Profil de l’audience
   L'audience principale de cette formation est les professionnels de l'informatique (TI) qui sont responsables du déploiement de Skype Entreprise dans leur organisation. Une expérience avec des versions précédentes est un avantage, mais n’est pas essentielle pour que les étudiants suivent cette formation. Les étudiants doivent être habitués à Active Directory Domain Services (AD DS), aux réseaux de données et aux normes et composants de télécommunications qui prennent en charge la configuration de Skype Entreprise. Les étudiants doivent également être habitués au serveur Microsoft Exchange et à Microsoft 365.
-  
+
   L’audience secondaire de cette formation inclut des professionnels de l'informatique qui prévoient de passer l’examen 70-334&#58; Solutions de base de Skype Entreprise 2015 en tant qu’examen indépendant ou dans le cadre des exigences pour l’examen de certification Microsoft Certified Solutions Expert (MCSE)&#58; Communications.
 prerequisitesSection: |-
   En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
@@ -50,23 +50,23 @@ prerequisitesSection: |-
   - Expérience de travail avec Windows PowerShell.
   - Compréhension des normes et des composants de réseaux de données et de télécommunications.
 outlineSection: |-
-  ### Module 1&#58; Conception et architecture du serveur Skype for Business 2015
+  ### Module 1&#58; Conception et architecture du serveur Skype for Business 2015.
   Ce module décrit les composants de haut niveau et les caractéristiques de Skype Entreprise 2015. Il décrit également comment travailler avec les outils administratifs de Skype pour entreprise, les composants principaux de Skype pour entreprise en ligne et la coexistence avec les serveurs sur site de Skype pour entreprise 2015.
   #### Leçons
   - Aperçu des composants et fonctionnalités de Skype Entreprise.
   - Introduction aux outils administratifs de Skype Entreprise.
 
 
-  #### Laboratoire&#58; Conception et publication d'une topologie de serveur Skype Entreprise
+  #### Laboratoire&#58; Conception et publication d'une topologie de serveur Skype Entreprise.
   - Conception et création de la topologie.
   - Mise à jour de la topologie pour le site de New York.
 
-  After completing this module, students will be able toAprès avoir terminé ce module, les étudiants seront capables&#58;
-  - décrire les composants et fonctionnalités de haut niveau de Skype Entreprise 2015.
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - décrire les composants et fonctionnalités de haut niveau de Skype Entreprise 2015,
   - travailler avec les outils administratifs de Skype Entreprise.
 
 
-  ### Module 2&#58; Installer et mettre en œuvre le serveur Skype Entreprise 2015
+  ### Module 2&#58; Installer et mettre en œuvre le serveur Skype Entreprise 2015.
   Ce module explique les dépendances externes du serveur Skype Entreprise. Il décrit les exigences de domaine du Session Initiation Protocol (SIP) pour assurer une mise en œuvre réussie. Ce module explique également comment installer le serveur Skype Entreprise et décrit la façon dont le Skype Entreprise intègre le Exchange Server et le serveur Microsoft SharePoint.
   #### Leçons
   - Dépendances du serveur et de service.
@@ -84,13 +84,13 @@ outlineSection: |-
   - Installation des certificats du serveur Skype Entreprise.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’identifier les dépendances externes du serveur Skype Entreprise.
-  - d'identifier les exigences de domaine du Session Initiation Protocol (SIP) pour assurer une mise en œuvre réussie.
-  - d’installer le serveur Skype Entreprise.
+  - d’identifier les dépendances externes du Skype for Business Server 2015,
+  - d'identifier les exigences de domaine du Session Initiation Protocol (SIP) pour assurer une mise en œuvre réussie,
+  - d’installer le serveur Skype Entreprise,
   - de décrire la façon dont le serveur Skype Entreprise est intégré à Exchange Server et au serveur SharePoint.
 
 
-  ### Module 3&#58; Administrer le serveur Skype Entreprise 2015.
+  ### Module 3&#58; Administrer le serveur Skype Entreprise 2015.
   Ce module explique comment administrer et gérer le serveur Skype Entreprise en utilisant le panneau de contrôle du serveur Skype Entreprise et le boîtier de gestion du serveur Skype Entreprise. Il décrit également comment créer des scripts Skype Entreprise utiles pour automatiser les processus. En outre, il explique comment mettre en œuvre le contrôle d'accès basé sur les rôles (RBAC) dans Skype Entreprise et comment utiliser des cmdlets de test et des outils pour dépanner Skype Entreprise.
 
   #### Leçons
@@ -113,14 +113,14 @@ outlineSection: |-
   - Exécution d'une capture du réseau en utilisant l’analyseur de messages.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’utiliser le panneau de contrôle du serveur Skype Entreprise.
-  - d'utiliser le boîtier de gestion du serveur Skype Entreprise.
-  - de mettre en œuvre la RBAC dans Skype Entreprise 2015.
-  - d’utiliser des cmdlets de test importants.
+  - d’utiliser le panneau de contrôle du serveur Skype Entreprise,
+  - d'utiliser le boîtier de gestion du serveur Skype Entreprise,
+  - de mettre en œuvre la RBAC dans Skype Entreprise 2015,
+  - d’utiliser des cmdlets de test importants,
   - d'utiliser différents outils pour dépanner Skype Entreprise.
 
 
-  ### Module 4&#58; Configuration des utilisateurs et des clients dans Skype for Business 2015
+  ### Module 4&#58; Configuration des utilisateurs et des clients dans Skype for Business 2015.
   Ce module explique comment configurer les utilisateurs en utilisant le panneau de contrôle du serveur Skype Entreprise et le boîtier de gestion du serveur Skype Entreprise. Il décrit ensuite comment déployer les clients Skype Entreprise et explique le processus d’identification, d’enregistrement et d'authentification pour les clients Skype Entreprise. Il explique également comment configurer des politiques en bande et de groupe. Enfin, il explique comment gérer le carnet d'adresses Skype Entreprise.
 
   #### Leçons
@@ -136,23 +136,25 @@ outlineSection: |-
   - Dépannage des problèmes d'identification des utilisateurs.
 
 
-  #### Laboratoire&#58; Configuration des politiques et du carnet d'adresses sur le serveur Skype Entreprise
+  #### Laboratoire&#58; Configuration des politiques et du carnet d'adresses sur le serveur Skype Entreprise.
   - Configuration des politiques des clients.
   - Configuration du carnet d'adresses.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - Configuration des utilisateurs en utilisant le panneau de contrôle du serveur Skype Entreprise et le Boîtier de gestion du serveur Skype Entreprise.
+  - Configuration des utilisateurs en utilisant le panneau de contrôle du serveur Skype Entreprise et le
+  Boîtier de gestion du serveur Skype Entreprise.
 
   - Déploiement des clients Skype Entreprise.
 
-  - Explication du processus d’enregistrement, identification et authentification des clients de Skype Entreprise.
+  - Explication du processus d’enregistrement, identification et authentification des
+  clients de Skype Entreprise.
 
   - Configuration des politiques de bande et de groupe.
 
   - Description de la façon de gérer le carnet d'adresses Skype Entreprise.
 
 
-  ### Module 5&#58; Configuration et mise en œuvre de la conférence dans Skype for Business 2015
+  ### Module 5&#58; Configuration et mise en œuvre de la conférence dans Skype for Business 2015.
   Ce module décrit les fonctionnalités et modalités de conférence de Skype Entreprise. Il explique comment intégrer le serveur Skype Entreprise 2015 avec un serveur Office en ligne. Il explique également comment planifier l’utilisation de la bande passante de conférence. Enfin, il explique comment configurer les paramètres et politiques de conférence.
   #### Leçons
   - Introduction à la conférence dans Skype Entreprise 2015.
@@ -169,74 +171,74 @@ outlineSection: |-
   - Configuration, attribution et validation des politiques de conférence.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les fonctionnalités et modalités de conférence de Skype Entreprise.
+  - de décrire les fonctionnalités et modalités de conférence de Skype Entreprise,
 
-  - d'intégrer le serveur Skype Entreprise 2015 au serveur d'applications Web Office.
+  - d'intégrer le serveur Skype Entreprise 2015 au serveur d'applications Web Office,
 
-  - de planifier l’utilisation de la bande passante de conférence.
+  - de planifier l’utilisation de la bande passante de conférence,
 
   - de configurer les paramètres et politiques de conférence.
 
 
-  ### Module 6&#58; Mise en œuvre des options de conférence supplémentaires dans le serveur Skype Entreprise 2015
+  ### Module 6&#58; Mise en œuvre des options de conférence supplémentaires dans le serveur Skype Entreprise 2015
   Ce module décrit le cycle de vie de la conférence et explique comment l’administrer. Il explique ensuite comment utiliser les politiques de conférence et de réunion. Il explique également comment déployer une conférence par numérotation et configurer l'infrastructure pour SRS. Enfin, il explique comment configurer des réunions importantes et la diffusion des réunions Skype.
 
   #### Leçons
-  - Aperçu du cycle de vie des conférences
-  - Conception et configuration des politiques de conférence audio/vidéo et Web
+  - Aperçu du cycle de vie des conférences.
+  - Conception et configuration des politiques de conférence audio/vidéo et Web.
   - Déploiement de la conférence par numérotation.
-  - Configuration d'un SRS
-  - Configuration de réunions importantes et de la diffusion de réunions Skype
+  - Configuration d'un SRS.
+  - Configuration de réunions importantes et de la diffusion de réunions Skype.
 
 
   #### Laboratoire&#58; Mise en œuvre et dépannage de la politique de conférence
-  - Création et modification de politiques de conférence
-  - Dépannage des politiques de conférence
+  - Création et modification de politiques de conférence.
+  - Dépannage des politiques de conférence.
 
 
   #### Laboratoire&#58; Configuration de modalités de conférence supplémentaires
-  - Déploiement de la conférence par numérotation
-  - Préparation du déploiement LRS
+  - Déploiement de la conférence par numérotation.
+  - Préparation du déploiement LRS.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’administrer le cycle de vie de la conférence.
+  - d’administrer le cycle de vie de la conférence,
 
-  - de configurer les politiques de conférence et de réunion.
+  - de configurer les politiques de conférence et de réunion,
 
-  - de déployer une conférence par numérotation.
+  - de déployer une conférence par numérotation,
 
-  - de configurer l’infrastructure pour le Lync Room System (LRS).
+  - de configurer l’infrastructure pour le Lync Room System (LRS),
 
   - de configurer d'importantes réunions et la diffusion de réunions Skype.
 
 
-  ### Module 7&#58; Conception et mise en œuvre de la surveillance et de l’archivage dans Skype Entreprise 2015
+  ### Module 7&#58; Conception et mise en œuvre de la surveillance et de l’archivage dans Skype Entreprise 2015
   Ce module décrit les composants du service de surveillance sur le serveur Skype Entreprise. Il décrit ensuite l’archivage et explique comment concevoir une politique d'archivage. Enfin, il explique comment mettre l’archivage en œuvre.
   #### Leçons
-  - Composants du service de surveillance
-  - Aperçu de l’archivage
-  - Conception d'une politique d'archivage
-  - Mise en œuvre de l’archivage
+  - Composants du service de surveillance.
+  - Aperçu de l’archivage.
+  - Conception d'une politique d'archivage.
+  - Mise en œuvre de l’archivage.
 
 
   #### Laboratoire&#58; Mise en œuvre de la surveillance
-  - Autorisation des rapports de surveillance
+  - Autorisation des rapports de surveillance.
 
 
   #### Laboratoire&#58; Mise en œuvre de l’archivage.
-  - Autorisation de l’archivage du serveur Skype Entreprise sur Microsoft Exchange Server 2013
+  - Autorisation de l’archivage du serveur Skype Entreprise sur Microsoft Exchange Server 2013.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les composants du service de surveillance sur le serveur Skype Entreprise.
+  - de décrire les composants du service de surveillance sur le serveur Skype Entreprise,
 
-  - de mettre en œuvre la surveillance.
+  - de mettre en œuvre la surveillance,
 
-  - de concevoir une politique d'archivage.
+  - de concevoir une politique d'archivage,
 
   - de mettre en œuvre l’archivage.
 
 
-  ### Module 8&#58; Déploiement de l’accès externe à Skype Entreprise 2015
+  ### Module 8&#58; Déploiement de l’accès externe à Skype Entreprise 2015
   Ce module décrit les composants de l’accès externe. Il explique ensuite comment configurer les politiques et la sécurité de l’accès externe, comment configurer des certificats et comment configurer le proxy inverse. En outre, ce module décrit comment configurer le serveur Skype Entreprise 2015 pour les clients mobiles. Enfin, il explique comment concevoir et configurer la fédération sur le serveur Skype Entreprise.
   #### Leçons
   - Aperçu de l’accès externe
@@ -256,20 +258,21 @@ outlineSection: |-
   - Installation et configuration du proxy inverse
   - Validation de la messagerie externe
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d'identifier les composants de l’accès externe.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - d'identifier les composants de l’accès externe,
 
-  - de configurer les politiques et la sécurité de l’accès externe.
+  - de configurer les politiques et la sécurité de l’accès externe,
 
-  - de configurer le réseau et les certificats de l’accès externe.
+  - de configurer le réseau et les certificats de l’accès externe,
 
-  - de configurer le proxy inverse.
+  - de configurer le proxy inverse,
 
-  - de configurer le serveur Skype Entreprise 2015 pour les clients mobiles.
+  - de configurer le serveur Skype Entreprise 2015 pour les clients mobiles,
 
   - de concevoir et de configurer la fédération sur le serveur Skype Entreprise.
 
-  ### Module 9&#58; Mise en œuvre de la conversation persistent dans Skype Entreprise 2015
+
+  ### Module 9&#58; Mise en œuvre de la conversation persistent dans Skype Entreprise 2015
   Ce module explique comment concevoir une topologie Skype Entreprise 2015 qui inclue la conversation persistante. Il explique ensuite comment déployer la conversation persistante dans Skype Entreprise. Enfin, il explique comment configurer et gérer la conversation persistante.
   #### Leçons
   - Conception d’une topologie de serveur de conversation persistante
@@ -288,10 +291,10 @@ outlineSection: |-
   - Validation du déploiement d'une conversation persistante
   - Dépannage de la conversation persistante
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de concevoir une topologie Skype Entreprise qui incluent la conversation persistante.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de concevoir une topologie Skype Entreprise qui incluent la conversation persistante,
 
-  - de déployer une conversation persistante dans Skype Entreprise.
+  - de déployer une conversation persistante dans Skype Entreprise,
 
   - de configurer et gérer une conversation persistante dans Skype Entreprise.
 
@@ -314,11 +317,15 @@ outlineSection: |-
   - Configuration de l’équilibre de la charge de matériel
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - Conception et mise en œuvre d'une solution de haute disponibilité pour des serveurs frontaux dans un environnement de serveur Skype Entreprise.
+  - Conception et mise en œuvre d'une solution de haute disponibilité pour des serveurs frontaux dans un
+  environnement de serveur Skype Entreprise.
 
-  - Conception et mise en œuvre d'une solution de haute disponibilité pour des serveurs d’arrière-plan dans un environnement de serveur Skype Entreprise.
+  - Conception et mise en œuvre d'une solution de haute disponibilité pour des serveurs d’arrière-plan dans un
+  environnement de serveur Skype Entreprise.
 
-  - Conception et mise en œuvre d'une solution de haute disponibilité pour les entrepôts de fichiers, les serveurs périphériques, les serveurs de médiation, les regroupements de serveurs Office en ligne et les serveurs proxy inverse dans un environnement de serveur Skype Entreprise.
+  - Conception et mise en œuvre d'une solution de haute disponibilité pour les entrepôts de fichiers, les serveurs
+  périphériques, les serveurs de médiation, les regroupements de serveurs Office en ligne et les serveurs proxy inverse
+  dans un environnement de serveur Skype Entreprise.
 
 
   ### Module 11&#58; Mise en œuvre de la reprise après sinistre dans Skype Entreprise 2015
@@ -334,11 +341,13 @@ outlineSection: |-
   - Exécution du basculement et de la reprise des regroupements
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les options de reprise après sinistre sur le serveur Skype Entreprise.
+  - de décrire les options de reprise après sinistre sur le serveur Skype Entreprise,
 
-  - de mettre en œuvre la reprise après sinistre sur le serveur Skype Entreprise.
+  - de mettre en œuvre la reprise après sinistre sur le serveur Skype Entreprise,
 
-  - de décrire les options de reprise après sinistre pour la conversation persistante, l’entrepôt de gestion centrale, la base de données de Location Information Service (LIS) et les données de l’utilisateur.
+  - de décrire les options de reprise après sinistre pour la conversation persistante, l’entrepôt
+  de gestion centrale, la base de données de Location Information Service (LIS) et les données
+  de l’utilisateur.
 
 
   ### Module 12&#58; Intégration à Skype Entreprise en ligne
@@ -353,9 +362,9 @@ outlineSection: |-
   - Conception de l’environnement Skype Entreprise hybride
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les fonctionnalités de Skype Entreprise en ligne.
+  - de décrire les fonctionnalités de Skype Entreprise en ligne,
 
-  - de préparer un environnement sur site pour le déploiement de Skype Entreprise hybride.
+  - de préparer un environnement sur site pour le déploiement de Skype Entreprise hybride,
 
   - de configurer le déploiement de Skype Entreprise hybride.
 
@@ -372,9 +381,12 @@ outlineSection: |-
   - Installation des outils administrateurs de Skype Entreprise
   - Exécution d'une mise à niveau en place du serveur Lync 2013 vers le serveur Skype Entreprise 2015
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les chemins de migration et de mise à niveau pris en charge pour le serveur Skype Entreprise.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire les chemins de migration et de mise à niveau pris en charge pour le serveur
+  Skype Entreprise,
 
-  - de procéder à une mise à niveau en place du serveur Lync 2013 vers le serveur Skype Entreprise.
+  - de procéder à une mise à niveau en place du serveur Lync 2013 vers le serveur
+  Skype Entreprise,
 
   - de décrire comment gérer l’expérience utilisateur pendant une mise à niveau.
+

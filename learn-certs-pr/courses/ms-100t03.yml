@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestion des identités Microsoft 365
+title: Microsoft 365 Identity Management
 metadata:
-  title: 'Formation MS-100T03-A: Gestion des identités Microsoft 365'
-  description: 'Formation MS-100T03-A: Gestion des identités Microsoft 365'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
@@ -35,7 +35,6 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Découvrez la gestion des identités dans Microsoft 365, notamment la gestion des groupes de sécurité des utilisateurs et les licences pour les identités dans le cloud et comment planifier et mettre en œuvre la synchronisation des identités, les identités fédérées, les applications et l'accès externe.
-
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
@@ -43,20 +42,20 @@ prerequisitesSection: |-
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Gérer les groupes de sécurité des utilisateurs et les licences pour les identités dans le cloud
+  ### Module  1 &#58;  Gérer les groupes de sécurité des utilisateurs et les licences pour les identités dans le cloud
   #### Leçons
   - Comptes utilisateurs et licences dans Microsoft 365
   - Rôles d’administrateur et groupes de sécurité dans Microsoft 365
   - Gestion des mots de passe dans Microsoft 365
 
 
-  #### Laboratoire&#58; Gérer votre environnement d’identités Microsoft 365
+  #### Laboratoire &#58;  Gérer votre environnement d’identités Microsoft 365
   - Exercice 1 - Configurer votre environnement de laboratoire
   - Exercice 2 - Gérer votre environnement d’identités Microsoft 365 à l’aide du centre d'administration de Microsoft 365
   - Exercice 3 - Gérer votre environnement d’identités Microsoft 365 à l’aide de Windows PowerShell
 
 
-  ### Module 2&#58; Planifier et mettre en œuvre la synchronisation des identités
+  ### Module  2 &#58;  Planifier et mettre en œuvre la synchronisation des identités
   #### Leçons
   - Introduction à la synchronisation des identités
   - Planifier pour Azure AD Connect
@@ -64,20 +63,21 @@ outlineSection: |-
   - Gérer les identités synchronisées
 
 
-  #### Laboratoire&#58; Mise en œuvre de la synchronisation des identités
+  #### Laboratoire &#58;  Mise en œuvre de la synchronisation des identités
   - Exercice 1 - Configurer votre organisation pour la synchronisation des identités
   - Exercice 2 - Mettre en œuvre la synchronisation des identités
 
 
-  ### Module 3&#58; Planifier et mettre en œuvre les identités fédérées
+  ### Module  3 &#58;  Planifier et mettre en œuvre les identités fédérées
   #### Leçons
   - Introduction aux identités fédérées
   - Planifier un déploiement AD FS
   - Mettre en œuvre AD FS
 
 
-  ### Module 4&#58; Mettre en œuvre les applications et l’accès externe
+  ### Module  4 &#58;  Mettre en œuvre les applications et l’accès externe
   #### Leçons
   - Mettre en œuvre les applications dans Azure AD
   - Configurer le proxy de l’application Azure AD
   - Concevoir des solutions pour l’accès externe
+

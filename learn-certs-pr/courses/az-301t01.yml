@@ -1,20 +1,20 @@
 ### YamlMime:Course
 title: "Concevoir l'identité et la sécurité"
 metadata:
-  title: "Formation AZ-301T01-A: Conception de l'identité et de la sécurité"
-  description: "Formation AZ-301T01-A : Conception de l'identité et de la sécurité"
+  title: "Course AZ-301T01-A: Conception de l'identité et de la sécurité"
+  description: "Course AZ-301T01-A: Conception de l'identité et de la sécurité"
 uid: course.az-301t01
 courseNumber: 'AZ-301T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Intégration de solutions existantes avec des fournisseurs d'identité externes à l’aide d’Azure AD B2B ou B2C.
-- skill: Conception d'une solution d'identité hybride.
-- skill: Détermination du moment où utiliser des fonctionnalités avancées de Azure AD telles que l’identité de service gérée, MFA et la gestion des identités privilégiées.
-- skill: Sécurisation de secrets d'applications à l’aide de Key Vault.
-- skill: Sécurisation de données d'applications à l’aide des fonctionnalités de bases de données SQL et de stockage Azure.
-- skill: Détails des différents API disponibles dans les services cognitifs.
-- skill: Identification du moment où utiliser le Face API, Speech API ou le service de compréhension linguistique (LUIS).
+- skill: Intégration de solutions existantes avec des fournisseurs d'identité externes à l’aide d’Azure AD B2B ou B2C
+- skill: Conception d'une solution d'identité hybride
+- skill: Détermination du moment où utiliser des fonctionnalités avancées de Azure AD telles que l’identité de service gérée, MFA et la gestion des identités privilégiées
+- skill: Sécurisation de secrets d'applications à l’aide de Key Vault
+- skill: Sécurisation de données d'applications à l’aide des fonctionnalités de bases de données SQL et de stockage Azure
+- skill: Détails des différents API disponibles dans les services cognitifs
+- skill: Identification du moment où utiliser le Face API, Speech API ou le service de compréhension linguistique (LUIS)
 - skill: Description de la relation avec le cadre BOT et les services BOT Azure.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -49,7 +49,6 @@ exams:
 - uid: exam.az-301
 summary: |-
   Apprendre à gérer la sécurité et l’identité dans le contexte d’Azure. En outre, vous découvrirez plusieurs fonctionnalités de Software as a Service (SaaS) disponibles dans Azure pour l’intégration dans des solutions Azure existantes.
-
   #### Profil de l’audience
   Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
 outlineSection: |-
@@ -58,11 +57,11 @@ outlineSection: |-
 
   #### Laboratoire&#58; Sécurisation des secrets dans Azure
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - Intégration de solutions existantes avec des fournisseurs d'identité externes à l’aide d’Azure AD B2B ou B2C.
-  - Conception d'une solution d'identité hybride.
-  - Détermination du moment où utiliser des fonctionnalités avancées de Azure AD telles que l’identité de service gérée, MFA et la gestion des identités privilégiées.
-  - Sécurisation de secrets d'applications à l’aide de Key Vault.
-  - Sécurisation de données d'applications à l’aide des fonctionnalités de bases de données SQL et de stockage Azure.
+  - Intégration de solutions existantes avec des fournisseurs d'identité externes à l’aide d’Azure AD B2B ou B2C
+  - Conception d'une solution d'identité hybride
+  - Détermination du moment où utiliser des fonctionnalités avancées de Azure AD telles que l’identité de service gérée, MFA et la gestion des identités privilégiées
+  - Sécurisation de secrets d'applications à l’aide de Key Vault
+  - Sécurisation de données d'applications à l’aide des fonctionnalités de bases de données SQL et de stockage Azure
 
 
   ### Module 2&#58; Intégration des services SaaS disponibles sur la plateforme Azure
@@ -70,5 +69,6 @@ outlineSection: |-
 
   #### Laboratoire&#58; Déploiement des instances de services en tant que composants de solutions globales Azure
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de détailler les différents API disponibles dans les services cognitifs.
+  - de détailler les différents API disponibles dans les services cognitifs,
   - d’identifier le moment où utiliser le Face API, Speech API ou le service de compréhension linguistique (LUIS).
+

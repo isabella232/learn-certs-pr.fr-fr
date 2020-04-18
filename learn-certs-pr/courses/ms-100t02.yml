@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Gestion des locataires et des services de Microsoft 365
 metadata:
-  title: 'Formation MS-100T02-A: Gestion des locataires et des services de Microsoft 365'
-  description: 'Formation MS-100T02-A: Gestion des locataires et des services de Microsoft 365'
+  title: 'Course MS-100T02-A: Gestion des locataires et des services de Microsoft 365'
+  description: 'Course MS-100T02-A: Gestion des locataires et des services de Microsoft 365'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -30,7 +30,6 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Découvrez la gestion du locataire et des services dans Microsoft 365, y compris comment planifier, gérer et personnaliser les locataires et services Microsoft 365 d’une organisation.
-
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
@@ -38,13 +37,13 @@ prerequisitesSection: |-
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Concevoir votre locataire Microsoft 365
+  ### Module  1 &#58;  Concevoir votre locataire Microsoft 365
   #### Leçons
   - Planifier une infrastructure sur site de Microsoft 365
   - Planifier votre solution d'identité et d’authentification
 
 
-  ### Module 2&#58; Configurer votre locataire Microsoft 365
+  ### Module  2 &#58;  Configurer votre locataire Microsoft 365
   #### Leçons
   - Planifier votre expérience Microsoft 365
   - Configurer votre expérience Microsoft 365
@@ -52,16 +51,17 @@ outlineSection: |-
   - Mettre en œuvre vos services de domaine
 
 
-  ### Module 3&#58; Gérer votre locataire Microsoft 365
+  ### Module  3 &#58;  Gérer votre locataire Microsoft 365
   #### Leçons
   - Configurer les rôles du locataire
   - Configurer la santé et les services du locataire
 
 
-  ### Module 4&#58; Laboratoire pratique
+  ### Module  4 &#58;  Laboratoire pratique
 
-  #### Laboratoire&#58; Gestion des locataires et des services Microsoft 365
+  #### Laboratoire &#58;  Gestion des locataires et des services Microsoft 365
   - Exercice 1 - Définir un locataire Microsoft 365 test
   - Exercice 2 - Gérer les utilisateurs, les groupes et l'administration de Microsoft 365
   - Exercice 3 - Configurer la gestion des droits et la conformité
   - Exercice 4 - Surveiller et dépanner Microsoft 365
+

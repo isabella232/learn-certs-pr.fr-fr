@@ -1,19 +1,19 @@
 ### YamlMime:Course
 title: "Concevoir une stratégie d'infrastructure"
 metadata:
-  title: "Formation AZ-301T04-A: Conception d'une stratégie d'infrastructure"
-  description: "Formation AZ-301T04-A: Conception d'une stratégie d'infrastructure"
+  title: "Course AZ-301T04-A: Conception d'une stratégie d'infrastructure"
+  description: "Course AZ-301T04-A: Conception d'une stratégie d'infrastructure"
 uid: course.az-301t04
 courseNumber: 'AZ-301T04-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Description de différents schémas tirés des schémas de conception du cloud.
-- skill: Distribution du trafic du réseau dans plusieurs charges à l’aide d’équilibreurs de charge.
-- skill: Conception d'un scénario de connectivité hybride entre le cloud et le site.
-- skill: Conception d'un ensembles de disponibilité pour une ou plusieurs machines virtuelles.
-- skill: Description des différences entre les domaines défectueux et mis à jour.
-- skill: Création d'un modèle ARM d’ensemble d’évolutivité de VM.
+- skill: Description de différents schémas tirés des schémas de conception du cloud
+- skill: Distribution du trafic du réseau dans plusieurs charges à l’aide d’équilibreurs de charge
+- skill: Conception d'un scénario de connectivité hybride entre le cloud et le site
+- skill: Conception d'un ensembles de disponibilité pour une ou plusieurs machines virtuelles
+- skill: Description des différences entre les domaines défectueux et mis à jour
+- skill: Création d'un modèle ARM d’ensemble d’évolutivité de VM
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -47,7 +47,6 @@ exams:
 - uid: exam.az-301
 summary: |-
   Apprendre à décrire les stratégies DNS et IP pour VNET dans Azure, comparer les options de connectivité pour la connectivité ad hoc et hybride, distribuer le trafic du réseau dans plusieurs charges à l’aide des équilibreurs de charge et concevoir un scénario de connectivité hybride entre le cloud et le site.
-
   #### Profil de l’audience
   Des architectes en solutions de cloud réussies commencent dans cette fonction avec une expérience pratique avec des systèmes d’exploitation, une virtualisation, une infrastructure du clou, des structures de stockage, une facturation et une mise en réseau.
 outlineSection: |-
@@ -55,8 +54,8 @@ outlineSection: |-
   Ce module présente et réviser des schémas et des architectures Azure courants tels que prescrits par l’équipe de schémas et de pratiques de Microsoft. Chaque schéma est groupé en catégories de performance, résilience et évolutivité et décrites dans le contexte de schémas similaires au sein de la catégorie.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de localiser et de faire la référence des documents des schémas de conception du cloud.
-  - de localiser et de faire la référence du centre d'architecture Azure.
+  - de localiser et de faire la référence des documents des schémas de conception du cloud,
+  - de localiser et de faire la référence du centre d'architecture Azure,
   - de décrire les différents schémas tirés des schémas de conception du cloud.
 
 
@@ -64,10 +63,10 @@ outlineSection: |-
   Ce module identifie les charges de travail qui sont idéalement déployées à l’aide des services d'infrastructure en tant que service dans Azure. Ce module se concentre sur les ensembles d’évolutivité des machines virtuelles (VM) dans Azure et la façon de déployer au mieux les charges de travail de ces services à l’aide des meilleures pratiques et de fonctionnalités telles que les ensembles de disponibilité.
 
   #### Laboratoire&#58; Construction d'applications de serveurs basées sur IaaS
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de concevoir un ensemble de disponibilité pour une ou plusieurs machines virtuelles.
-  - de décrire les différences entre les domaines défaillants et mis à jour.
-  - de créer un modèle Azure Resource Manager (ARM) pour un ensemble d’évolutivité de VM.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de concevoir un ensemble de disponibilité pour une ou plusieurs machines virtuelles,
+  - de décrire les différences entre les domaines défaillants et mis à jour,
+  - de créer un modèle Azure Resource Manager (ARM) pour un ensemble d’évolutivité de VM,
   - de joindre une machine virtualisée à un domaine dans Azure ou sur un réseau hybride.
 
 
@@ -76,9 +75,9 @@ outlineSection: |-
 
   #### Laboratoire&#58; Déploiement de l’infrastructure réseau pour une utilisation dans des solutions Azure
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les stratégies DNS et IP pour VNET dans Azure.
-  - de comparer les options de connectivité pour la connectivité ad hoc et hybride.
-  - de distribuer le trafic du réseau dans plusieurs charges à l’aide d’équilibreurs de charge.
+  - de décrire les stratégies DNS et IP pour VNET dans Azure,
+  - de comparer les options de connectivité pour la connectivité ad hoc et hybride,
+  - de distribuer le trafic du réseau dans plusieurs charges à l’aide d’équilibreurs de charge,
   - de concevoir un scénario de connectivité hybride entre le cloud et le site.
 
 
@@ -87,6 +86,7 @@ outlineSection: |-
 
   #### Laboratoire&#58; Intégration de composants de solutions Azure à l’aide de services de messagerie
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comparer les files d'attente de stockage aux files d'attente de Service Bus.
-  - d'identifier le moment où utiliser les fonctions d’Azure ou les applications logiques pour les composants d'intégration dans une solution.
+  - de comparer les files d'attente de stockage aux files d'attente de Service Bus,
+  - d'identifier le moment où utiliser les fonctions d’Azure ou les applications logiques pour les composants d'intégration dans une solution,
   - de décrire les différences entre les hubs d’IoT, les hubs d’événements et les informations Time Series.
+

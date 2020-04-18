@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Concevoir et mettre en œuvre une solution Data Science sur Azure
 metadata:
-  title: 'Formation DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
-  description: 'Formation DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
+  title: 'Course DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
+  description: 'Course DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -21,14 +21,13 @@ exams:
 - uid: exam.dp-100
 summary: |-
   Obtenez les connaissances nécessaires à l’utilisation des services Azure pour mettre au point, former et déployer des solutions d'apprentissage machine. Cette formation commence par un aperçu des services Azure qui tiennent compte de la science des données. À partir de là, elle se concentre sur l’utilisation des services de science des données premières de Azure, le service d'apprentissage machine Azure afin d’automatiser le pipeline de la science des données. Cette formation se concentre sur Azure et n’enseigne pas la science des données aux étudiants. Les étudiants doivent déjà la connaître.
-
   #### Profil de l’audience
   Cette formation est destinée aux scientifiques des données qui ont des responsabilités importantes en matière de formation et de déploiement des modèles d'apprentissage machine.
 prerequisitesSection: |-
   Avant d'assister à cette formation, les étudiants doivent avoir&#58;
-  - avoir obtenu [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - comprendre la science des données, y compris la préparation des données, la formation des modèles et l’évaluation des modèles en compétition pour choisir le meilleur.
-  - programmer dans la langue de programmation python et utiliser les bibliothèques python&#58; pandas, scikit-learn, matplotlib et seaborn.
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
+  - comprendre la science des données, y compris la préparation des données, la formation des modèles et l’évaluation des modèles en compétition pour choisir le meilleur,;
+  - programmer dans la langue de programmation python et utiliser les bibliothèques python &#58; pandas, scikit-learn, matplotlib et seaborn.
 outlineSection: |-
   ### Module 1&#58; La science des données sur Azure
   Les étudiants découvriront le processus de science des données et le rôle du scientifique des données.  Ces connaissances seront ensuite appliquées à la compréhension de la façon dont les services Azure peuvent prendre en charge et augmenter le processus de science des données.
@@ -56,3 +55,4 @@ outlineSection: |-
   Dans ce module, les étudiants découvriront comment gérer et surveiller automatiquement les modèles d'apprentissage machine dans le service AML.
   #### Leçons
   - Gestion et surveillance des modèles d'apprentissage machine
+

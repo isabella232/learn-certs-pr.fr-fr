@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Protéger des ordinateurs de bureau et des périphériques modernes
 metadata:
-  title: 'Formation MD-101T03-A: Protéger des ordinateurs de bureau et des périphériques modernes'
-  description: 'Formation MD-101T03-A: Protéger des ordinateurs de bureau et des périphériques modernes'
+  title: 'Course MD-101T03-A: Protéger des ordinateurs de bureau et des périphériques modernes'
+  description: 'Course MD-101T03-A: Protéger des ordinateurs de bureau et des périphériques modernes'
 uid: course.md-101t03
 courseNumber: 'MD-101T03-A'
 hoursToComplete: 24
@@ -28,13 +28,16 @@ exams:
 - uid: exam.md-101
 summary: |-
   Chaque jour, plus d'organisations demandent au service informatique de prendre en charge la mobilité de la main d’œuvre. Les environnements modernes exigent que l’administrateur des ordinateurs de bureau soit capable de gérer et de prendre en charge des téléphones, des tablettes et des ordinateurs, indépendamment du fait qu’ils appartiennent à l'organisation ou qu’ils soient la propriété personnelle de l’employé. En même temps, le service informatique doit toujours être capable de protéger les données auxquelles ces périphériques ont accès. Dans cette formation, l’étudiant découvrira les concepts essentiels de la sécurité dans la gestion moderne. Cette formation englobe l’authentification, les identités et l’accès, ainsi que la protection de ces catégories. L'étudiant découvrira Azure Active Directory et apprendra à utiliser Microsoft Intune pour protéger les périphériques et les données, conformément aux politiques. Finalement, cette formation couvrira les aptitudes essentielles de protection des informations Azure et de la protection avancée contre les menaces Windows Defender et apprendra à les mettre en œuvre.
-
   #### Profil de l’audience
   L’administrateur de l’ordinateur de bureau moderne (MDA) déploie, configure, sécurise, gère et surveille des périphériques et des applications clients dans un environnement d'entreprise. Ses responsabilités incluent la gestion des identités, l’accès, les politiques, les mises à jour et les applications. L'administrateur de l'ordinateur de bureau moderne collabore avec l’administrateur M365 Enterprise pour concevoir et mettre en œuvre une stratégie de périphériques à la hauteur des attentes d'une organisation moderne. Le MDA doit être habitué aux charges de travail M365, doit être compétent et avoir de l’expérience dans le déploiement, la configuration et la maintenance de périphériques Windows 10 et non-Windows. Le rôle du MDA se concentre sur les services dans le cloud plutôt que sur les technologies de gestion sur site.
 prerequisitesSection: |-
-  L'administrateur d’ordinateur de bureau moderne MDA doit être habitué aux charges de travail M365 et avoir des compétences solides et de l’expérience dans le déploiement, la configuration et la maintenance des périphériques Windows 10 et non-Windows. Le rôle du MDA se concentre sur les services dans le cloud plutôt que sur les technologies de gestion sur site.
+  L'
+  administrateur d’ordinateur de bureau moderne MDA doit être habitué aux charges de travail M365 et avoir
+  des compétences solides et de l’expérience dans le déploiement, la configuration et la maintenance des périphériques
+  Windows 10 et non-Windows. Le rôle du MDA se concentre sur les services dans le cloud plutôt que sur
+  les technologies de gestion sur site.
 outlineSection: |-
-  ### Module 1&#58; Gérer l’authentification dans Azure AD
+  ### Module  1 &#58;  Gérer l’authentification dans Azure AD
   Dans ce module, les étudiants découvriront le concept de registre dans le cloud avec Azure Active Directory (Azure AD). Ils découvriront les similarités et les différences entre Azure AD et Active Directory DS et comment synchroniser les deux. Les étudiants exploreront la gestion de l'identité dans Azure AD et découvriront la protection de l'identité à l’aide de Windows Hello pour les entreprises, ainsi que la protection de l'identité Azure AD et l’authentification à plusieurs facteurs. Ce module se terminera avec une évaluation sécurisées des ressources de l’entreprise et une introduction des concepts tels que Always On VPN et la connectivité à distance dans Windows 10.
   #### Leçons
   - Aperçu d’Azure AD
@@ -44,22 +47,22 @@ outlineSection: |-
   - Permettre l’accès des entreprises
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Gérer des objets et authentification dans Azure AD
+  #### Laboratoire pratique &#58;  Gérer des objets et authentification dans Azure AD
   - Permettre et configurer Azure AD Premium avec le locataire d’Enterprise mobilité et sécurité (EMS)
   - Créer des objets d’utilisateurs et de groupes avec l’interface utilisateur et Windows PowerShell
   - Configurer la réinitialisation du mot de passe en libre-service (SSPR) pour les comptes utilisateurs dans Azure AD
   - Lier un périphérique à Azure AD
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les capacités d’Azure AD.
-  - de gérer les utilisateurs à l’aide d’Azure AD avec Active Directory DS.
-  - de mettre en œuvre Windows Hello pour les entreprises.
-  - de lier les périphériques à Azure AD.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire les capacités d’Azure AD,
+  - de gérer les utilisateurs à l’aide d’Azure AD avec Active Directory DS,
+  - de mettre en œuvre Windows Hello pour les entreprises,
+  - de lier les périphériques à Azure AD,
   - de décrire des méthodes pour permettre l’accès à partir de réseaux externes.
 
 
-  ### Module 2&#58; Gérer les périphérique et les politiques des périphériques
+  ### Module  2 &#58;  Gérer les périphérique et les politiques des périphériques
   Dans ce module, les étudiants découvriront la gestion de la sécurité des dispositifs avec Intune. Ils découvriront comment Intune peut utiliser les profils des périphériques pour gérer la configuration des périphériques de manière à protéger les données qui s’y trouvent. Les étudiants apprendront à créer et à déployer des politiques de conformité et à les utiliser pour l’accès conditionnel. Le module se termine avec la surveillance des périphériques enregistrés dans Intune.
   #### Leçons
   - Aperçu de Microsoft Intune
@@ -67,20 +70,20 @@ outlineSection: |-
   - Mettre en œuvre les politiques de conformité des périphériques
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Gérer les périphériques
+  #### Laboratoire pratique&#58; Gérer les périphériques
   - Configurer Microsoft Intune pour la gestion des périphériques
   - Configurer des politiques de conformité et des profils de périphériques
   - Enregistrer les périphériques de Windows 10 et gérer la conformité
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire la gestion des périphériques mobiles avec Intune.
-  - de créer et d'attribuer des profils aux périphériques pour protéger les données qui s’y trouvent.
-  - de déployer des politiques de conformité et d'accès conditionnel.
+  Après avoir terminé ce module, les étudiants seront capables &#58;
+  - de décrire la gestion des périphériques mobiles avec Intune,
+  - de créer et d'attribuer des profils aux périphériques pour protéger les données qui s’y trouvent,
+  - de déployer des politiques de conformité et d'accès conditionnel,
   - d'utiliser Intune pour surveiller la conformité des périphériques.
 
 
-  ### Module 3&#58; Gérer la sécurité
+  ### Module  3&#58; Gérer la sécurité
   Dans ce module, les étudiants découvriront la protection des données. Les sujets comprendront la protection des information dans Windows et Azure et diverses technologies de cryptage prises en charge dans Windows 10. Ce module couvre également les capacités essentielles de la protection avancée contre les menaces de Windows Defender (Windows Defender ATP) et la manière de mettre en œuvre des capacités sur les périphériques de votre organisation. Le module se termine par l’utilisation de Windows Defender et des fonctionnalités telles que l’antivirus, le pare-feu et Credential Guard.
   #### Leçons
   - Mettre en œuvre une protection des données sur les périphériques
@@ -88,22 +91,23 @@ outlineSection: |-
   - Gérer Windows Defender dans Windows 10
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Gérer la sécurité dans Windows 10
+  #### Laboratoire pratique&#58; Gérer la sécurité dans Windows 10
   - Configurer le cryptage du système de fichiers (EFS)
   - Configurer BitLocker
   - Configurer la politique WIP dans Intune
   - Configurer Windows Defender
 
 
-  Après avoir terminé ce module, les étudiants seront capables&#58;
+  Après avoir terminé ce module, les étudiants seront capables &#58;
   - de décrire les méthodes de protections des données sur les périphériques,
   - de décrire les capacités et les avantages de Windows Defender ATP,
   - de déployer et de gérer la configuration des clients de Windows Defender.
 
 
-  ### Module 4&#58; Conclusion de la formation
+  ### Module  4&#58; Conclusion de la formation
   #### Leçons
   - Examen final
 
 
   #### Laboratoire&#58; Exercices de laboratoire notés
+

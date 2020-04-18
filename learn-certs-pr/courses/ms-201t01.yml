@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Définir une stratégie de messagerie hybride
 metadata:
-  title: 'Formation MS-201T01-A: Définir une stratégie de messagerie hybride'
-  description: 'Formation MS-201T01-A: Définir une stratégie de messagerie hybride'
+  title: 'Course MS-201T01-A: Définir une stratégie de messagerie hybride'
+  description: 'Course MS-201T01-A: Définir une stratégie de messagerie hybride'
 uid: course.ms-201t01
 courseNumber: 'MS-201T01-A'
 hoursToComplete: 48
@@ -31,7 +31,6 @@ exams:
 - uid: exam.ms-201
 summary: |-
   Cette formation présente aux étudiants le monde de la messagerie hybride. Les étudiants apprendront à déployer un environnement hybride pour une organisation Exchange et comment faire migrer les boîtes aux lettres vers Exchange Online. Ils commenceront par examiner les options de migration de boîtes aux lettres disponibles, puis se concentreront sur la planification d’un déploiement hybride. Finalement, les étudiants apprendront à mettre en œuvre et à dépanner un déploiement hybride.
-
   #### Profil de l’audience
   L’administrateur de messagerie déploie, configure, gère et
   dépanne les destinataires, les autorisations, la protection des messages, le flux des messages et les dossiers publics dans des environnements d’entreprise sur site et dans le cloud. Ses responsabilités englobent la gestion de l’hygiène des messages, l’infrastructure de la messagerie et la configuration hybride et la migration. L'administrateur de messagerie met également en œuvre et gère la récupération après sinistre, la haute disponibilité et l’accès des clients. Pour mettre en œuvre une topologie hybride sécurisée qui réponde aux besoins professionnels d’une organisation moderne, l’administrateur de messagerie doit collaborer avec l’administrateur de la sécurité et l’administrateur d’entreprise Microsoft 365. L'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
@@ -42,7 +41,7 @@ prerequisitesSection: |-
   - Une expérience pratique de base des services Microsoft 365 et de la synchronisation des répertoires.
   - Au moins cinq ans d’expérience en informatique générale.
 outlineSection: |-
-  ### Module 1&#58; Effectuer les migrations des données des boîtes aux lettres
+  ### Module  1&#58;  Effectuer les migrations des données des boîtes aux lettres
   #### Leçons
   - Planifier les migrations des boîtes aux lettres
   - Effectuer les migrations IMAP
@@ -50,13 +49,13 @@ outlineSection: |-
   - Effectuer les migrations avancées
 
 
-  ### Module 2&#58; Planifier un environnement hybride
+  ### Module  2&#58;  Planifier un environnement hybride
   #### Leçons
   - Exigences de déploiement d’Exchange hybride
   - Planifier l’exécution de l’assistant de configuration hybride
 
 
-  ### Module 3&#58; Déployer et dépanner un environnement hybride
+  ### Module  3&#58; Déployer et dépanner un environnement hybride
   #### Leçons
   - Déployer et gérer un serveur de transport Edge
   - Configurer un déploiement hybride à l’aide de HCW
@@ -64,8 +63,9 @@ outlineSection: |-
   - Résoudre les problèmes des déploiements hybrides
 
 
-  ### Module 4&#58; Laboratoire - Déploiement et gestion hybride
+  ### Module  4&#58;  Laboratoire - Déploiement et gestion hybride
 
-  #### Laboratoire&#58; Déploiement et gestion hybride
-  - Exercice 1&#58; Effectuer une migration de boîte aux lettres vers Microsoft 365
-  - Exercice 2&#58; Gérer les scénarios hybrides
+  #### Laboratoire&#58;  Déploiement et gestion hybride
+  - Exercice 1&#58;  Effectuer une migration de boîte aux lettres vers Microsoft 365
+  - Exercice 2&#58;  Gérer les scénarios hybrides
+

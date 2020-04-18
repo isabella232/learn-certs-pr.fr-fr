@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Migration des charges de données Open Source vers Azure
 metadata:
-  title: 'Formation DP-070T00-A: Migration des charges de données Open Source vers Azure'
-  description: 'Formation DP-070T00-A: Migration des charges de données Open Source vers Azure'
+  title: 'Course DP-070T00-A: Migration des charges de données Open Source vers Azure'
+  description: 'Course DP-070T00-A: Migration des charges de données Open Source vers Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -21,12 +21,11 @@ products:
 - sql-server
 summary: |-
   Cette formation permettra aux étudiants de comprendre la base de données SQL Azure et d’éduquer les étudiants à ce qui est requis pour migrer les charges de travail MySQL et PostgreSQL vers une base de données SQL Azure.
-
   #### Profil de l’audience
   L’audience principale de cette formation est les développeurs de bases de données qui prévoient de migrer leurs charges de travail de DB MySQL ou Postgres vers des DB SQL Azure.
   L’audience secondaire de cette formation est des administrateurs MySQL/Postgres dans le but d’attirer l’attention des fonctionnalités et des avantages des DB de SQL Azure.
 prerequisitesSection: |-
-  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes &#58;
   - Des connaissances des systèmes de gestion des bases de données relationnelles en open source telles que Postgres et/ou MySQL, l’administration SQL, les techniques de sauvegarde et de reprise, c’est-à-dire la décharge des données des tableaux.
 outlineSection: |-
   ### Module 1&#58; Migration vers les DB SQL Azure pour MySQL et PostgreSQL
@@ -93,3 +92,4 @@ outlineSection: |-
   - Considérations post-migrations
 
   #### Lecture supplémentaire Aucune lecture supplémentaire n’est requise pour suivre cette formation
+

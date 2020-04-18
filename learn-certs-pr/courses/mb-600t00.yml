@@ -1,0 +1,151 @@
+﻿### YamlMime:Course
+title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+metadata:
+  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+uid: course.mb-600t00
+courseNumber: 'MB-600T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics
+- power-apps
+exams:
+- uid: exam.mb-600
+summary: |-
+  L’architecte de solutions est responsable de la réussite de la conception, mise en œuvre, déploiement et adoption d’une solution globale. L’architecte de solutions garantit que la solution répond aux besoins du client, dans le présent et dans l’avenir. Dans ce cours, les étudiants apprendront les décisions faites par l’architecte de solutions au cours d’une mise en œuvre, comprenant la sécurité, les intégrations, l’architecture Power Apps, l’architecture Power Automate, et plus encore. Ce cours est conçu pour vous fournir une introduction au rôle d’architecte de solutions.
+
+  #### Profil de l’audience
+  
+  Les consultants seniors (à la fois fonctionnels et techniques) qui aspirent à devenir des architectes de solutions ou qui occupent un poste d’architecte de solutions depuis peu.  
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  
+  - Passé l’examen MB-200.
+  - Expérience avec Dynamics 365 et Power Platform.
+  - Consultant senior (fonctionnel ou technique) ou architecte de solutions depuis peu.
+  - Des connaissances en Microsoft Azure.
+outlineSection: |-  
+  ### Module 1&#58; Introduction
+  
+  Introduction à la formation
+  
+  ### Module 2&#58; Devenir un architecte de solutions/Apprendre à connaître votre client
+
+  #### Leçons
+  - Définir un architecte de solutions.
+  - Rôle de l’architecte de solutions dans les projets.
+  - Méthodologie des projets.
+  - Apprendre à connaître votre client.
+  - Exercice de groupe - Apprendre à connaître votre client.
+
+  ### Module 3&#58; Conceptualiser le design à partir des exigences.
+  
+  #### Leçons
+  - Comment mener un effort de collecte d’exigences.
+  - Utiliser l’analyse des concordances et des écarts.
+  - Piliers d’une bonne architecture.
+  - Mettre en place le schéma directeur de l’architecture de solutions.
+  - Exercice de groupe - Concevoir à partir des exigences.
+  
+  ### Module 4&#58; Gouvernance du projet et travail en équipe
+    
+  #### Leçons
+  - Rôle de l’architecte de solutions dans la gouvernance d’un projet.
+  - Techniques pour mener à bien un projet.
+  - Scénarios qui pourraient causer l’échec d’un projet.
+  - Exercices de groupe - Gouvernance du projet et travail en équipe
+  
+  ### Module 5&#58; Architecture de Power Platform
+  
+  #### Leçons
+  - Composantes essentielles de l’architecture de Power Platform.
+  - Comprendre comment la conception et les limites de la plateforme influencent les architectures de solutions.
+  - Publications de mises à jour et de fonctionnalités.
+  - Comprendre comment communiquer sur la manière par laquelle la plateforme répond aux besoins du consommateur.
+  
+  ### Module 6&#58; Modélisation des données
+  
+  #### Leçons
+  - Influences du modèle de données.
+  - Stratégie du modèle de données.
+  - Types de données
+  - Relations entre les données.
+  - Exercice de groupe - Modélisation des données.
+  
+  ### Module 7&#58; Visualisations, analyses, génération de rapports et intelligence artificielle
+  
+  #### Leçons
+  - Planifier et évaluer les exigences.
+  - Génération de rapports opérationnels.
+  - Power BI
+  - Enterprise BI.
+  - Aperçus préintégrés et intelligence artificielle sur mesure.
+  
+  ### Module 8&#58; Architecture de Power Apps
+  
+  #### Leçons
+  - Discuter des options des applications et comment choisir par où commencer.
+  - Discuter des options de composition des applications.
+  - Utiliser les composants comme une partie de l’architecture de votre application.
+  - Considérations pour inclure Portals en tant qu’application dans votre architecture.
+  - Exercice de groupe - Thèmes de l’architecture de Power Apps.
+
+  ### Module 9&#58; Gestion du cycle de vie des applications (Application Lifecycle Management - ALM)
+  
+  #### Leçons
+  - Vision Microsoft et rôle de l’architecte de solutions dans la gestion du cycle de vie des applications (ALM).
+  - Stratégies de l’environnement.
+  - Définir une structure de solutions pour votre produit fini.
+  
+  #### Travaux pratiques &#58; Travaux pratiques en gestion du cycle de vie des applications.
+  
+  ### Module 10&#58; Architecture de Power Automate
+  
+  #### Leçons
+  - Discuter des options de la logique d’automatisation et de personnalisation.
+  - Réviser les considérations pour l’utilisation de déclencheurs et d’actions conjointes.
+  - Explorer à l’aide des flux de processus (BPF) pour guider les utilisateurs dans les processus métiers.
+  - Exercice de groupe - Évaluer des scénarios pour l’utilisation de Power Automate.
+  
+  ### Module 11&#58; Modélisation de la sécurité
+  
+  #### Leçons
+  - Rôle de l’architecte de solutions dans la modélisation de la sécurité.
+  - Découvrir et apprendre à connaître l’environnement de votre client.
+  - Contrôler l’accès aux environnements et aux ressources.
+  - Contrôler l’accès aux données CDS.
+  - Exercice de groupe - Modélisation de la sécurité.
+  
+  ### Module 12&#58; Intégrations
+  
+  #### Leçons
+  - Rôle des architectes de solutions dans les intégrations.
+  - Définition et raison d’être d’une intégration.
+  - Fonctionnalités de Platform qui permettent l’intégration.
+  - Publication d’un événement CDS.
+  - Scénarios pour une discussion de groupe.
+  
+  ### Module 13&#58; Architecture des applications Dynamics 365
+  
+  #### Leçons
+  - Rôle de l’architecte des solutions lors du déploiement des applications Dynamics 365.
+  - Considérations d’architecture pour les applications principales.
+  - Exercice de groupe - Évaluation des exigences par des groupes de travail spécifiques à l’application.
+  
+  ### Module 14&#58; Tests et mise en ligne
+  
+  #### Leçons
+  - Rôle de l’architecte de solutions dans les tests et la mise en ligne.
+  - Planification des tests.
+  - Planification de la mise en ligne.
+  
+  #### Lecture supplémentaire
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

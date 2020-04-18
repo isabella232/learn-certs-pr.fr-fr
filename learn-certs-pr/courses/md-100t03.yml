@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Protéger Windows 10
 metadata:
-  title: 'Formation MD-100T03-A: Protéger Windows 10'
-  description: 'Formation MD-100T03-A: Protéger Windows 10'
+  title: 'Course MD-100T03-A: Protecting Windows 10'
+  description: 'Course MD-100T03-A: Protecting Windows 10'
 uid: course.md-100t03
 courseNumber: 'MD-100T03-A'
 hoursToComplete: 24
@@ -27,16 +27,11 @@ exams:
 - uid: exam.md-100
 summary: |-
   Dans cette formation, les étudiants apprendront à sécuriser le système d’exploitation Windows 10 et à protéger les données sur le périphérique. Les étudiants découvriront les méthodes courantes utilisées pour l’authentification et le contrôle de l'accès. Cette formation enseignera à configurer les autorisations aux fichiers et aux dossiers et à créer des stratégies de sécurité. Les étudiants apprendront également les différents types de menaces externes et comment profiter des caractéristiques telles que le cryptage et les pare-feux, ainsi que des outils tels que Windows Defender.
-
   #### Profil de l’audience
   Les candidats à cet examen sont des professionnels de l'informatique qui effectuent l'installation, la configuration, la gestion locale générale et la maintenance des services de base de Windows 10. Les candidats peuvent également être familiarisés à certains scénarios d'entreprise et certains services intégrés au Cloud.
-prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
-  - Compréhension de base des réseaux d’ordinateur et des concepts de matériel.
-  - Compréhension de base des concepts du système d’exploitation et des applications.
-  - Expérience d'utilisation du système d’exploitation Windows.
+prerequisitesSection: "Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58; \n- Compréhension de base des réseaux d’ordinateur et des concepts de matériel.\n- Compréhension de base des concepts du système d’exploitation et des applications.\n- Expérience d'utilisation du système d’exploitation Windows."
 outlineSection: |-
-  ### Module 1&#58; Configurer les autorisations et les authentifications
+  ### Module  1&#58;  Configurer les autorisations et les authentifications
   Ce module présente les outils et les fonctionnalités de Windows 10 pour autoriser l'accès aux clients de Windows 10. Les étudiants découvriront les méthodes de connexion des utilisateurs à Windows 10.  Ce module couvre également la limite de ce que les utilisateurs peuvent ou ne peuvent pas faire sur un périphérique, par des méthodes du genre contrôle des comptes utilisateur (UAC) et des types de comptes.
   #### Leçons
   - Utiliser les paramètres de sécurité pour mitiger les menaces
@@ -46,13 +41,13 @@ outlineSection: |-
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différentes méthodes de sécurisation des données et le système d’exploitation de Windows 10.
+  - de décrire les différentes méthodes de sécurisation des données et le système d’exploitation de Windows 10,
   - de décrire les différents types de compte utilisateurs et services.
   Configurer Windows Hello.
   - Configurer le contrôle du compte utilisateur.
 
 
-  ### Module 2&#58; Configurer l’accès aux données et leur utilisation
+  ### Module  2&#58;  Configurer l’accès aux données et leur utilisation
   Dans ce module, les étudiants découvriront les autorisations. Ce module couvrira les considérations des différents systèmes de fichiers. Les étudiants apprendront à configurer les autorisations aux fichiers et aux dossiers, ainsi que les fichiers partagés. Le module se terminera avec la configuration des paramètres par des méthodes telles que la politique locale ou de groupe.
   #### Leçons
   - Aperçu des systèmes de fichiers
@@ -61,19 +56,19 @@ outlineSection: |-
   - Gérer la sécurité grâce à des politiques
 
 
-  #### Laboratoire&#58; Configurer et gérer les autorisations et les partages
+  #### Laboratoire&#58;  Configurer et gérer les autorisations et les partages
   - Créer, gérer et partager un dossier
   - Utiliser des conditions pour contrôler l’accès et les autorisations effectives
 
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différences et les avantages des systèmes de fichiers pris en charge.
-  - de configurer les autorisations aux fichiers et aux dossiers.
-  - de configurer des dossiers partagées.
+  - de décrire les différences et les avantages des systèmes de fichiers pris en charge,
+  - de configurer les autorisations aux fichiers et aux dossiers,
+  - de configurer des dossiers partagées,
   - de sécuriser Windows par des paramètres de politique locale.
 
 
-  ### Module 3&#58; Configurer la protection contre les menaces
+  ### Module  3&#58;  Configurer la protection contre les menaces
   Ce module présente aux étudiants la protection des périphériques contre les menaces externes. Les étudiants découvriront les différents types de menaces communes. Ce module enseignera aux étudiants l’utilisation du cryptage, des pare-feux et de IPSec pour la protection contre les menaces. Ce module se terminera avec la manière de configurer et d’utiliser Windows Defender et AppLocker.
   #### Leçons
   - Protection contre les maliciels et les menaces
@@ -82,7 +77,7 @@ outlineSection: |-
   - Méthodes de protection avancées
 
 
-  #### Laboratoire&#58; Laboratoire pratique - Gérer la sécurité de réseau
+  #### Laboratoire pratique&#58; Gérer la sécurité de réseau
   - Créer et tester les règles de trafic entrant
   - Créer et tester les règles de trafic sortant
   - Créer et tester les règles de trafic de sécurité des connexions
@@ -91,17 +86,18 @@ outlineSection: |-
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - d'identifier les menaces de sécurité communes
-  - de décrire les méthodes par lesquelles il est possible de mitiger ces menaces de sécurité communes
-  - de décrire les différents méthodes de cryptage
-  - de décrire comment le pare-feu Windows peut sécuriser le périphérique
-  - de décrire les avantage de l’utilisation d’IPSec
-  - de décrire les différentes fonctionnalités de Windows Defender
-  - de décrire les avantage de l’utilisation d’AppLocker
+  - de décrire les méthodes par lesquelles il est possible de mitiger ces menaces de sécurité communes,
+  -de décrire les différents méthodes de cryptage,
+  - de décrire comment le pare-feu Windows peut sécuriser le périphérique,
+  - de décrire les avantage de l’utilisation d’IPSec,
+  - de décrire les différentes fonctionnalités de Windows Defender,
+  - de décrire les avantage de l’utilisation d’AppLocker.
 
 
-  ### Module 4&#58; Conclusion de la formation
+  ### Module  4&#58; Conclusion de la formation
   #### Leçons
   - Examen final
 
 
   #### Laboratoire&#58; Exercices de laboratoire notés
+

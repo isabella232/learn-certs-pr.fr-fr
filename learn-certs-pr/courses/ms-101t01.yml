@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestion de la sécurité Microsoft 365
+title: Microsoft 365 Security Management
 metadata:
-  title: 'Formation MS-101T01-A: Gestion de la sécurité Microsoft 365'
-  description: 'Formation MS-101T01-A: Gestion de la sécurité Microsoft 365'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -34,7 +34,6 @@ exams:
 - uid: exam.ms-101
 summary: |-
   Découvrez la gestion de la sécurité Microsoft 365, y compris la gestion des mesures de sécurité, comment permettre la protection de l'identité Azure AD, comment configurer les services de sécurité Microsoft 365 et l’utilisateur Microsoft 365 Threat Intelligence.
-
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
@@ -42,13 +41,13 @@ prerequisitesSection: |-
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Concevoir votre locataire Microsoft 365
+  ### Module  1 &#58;  Concevoir votre locataire Microsoft 365
   #### Leçons
   - Planifier une infrastructure sur site de Microsoft 365
   - Planifier votre solution d'identité et d’authentification
 
 
-  ### Module 2&#58; Configurer votre locataire Microsoft 365
+  ### Module  2 &#58;  Configurer votre locataire Microsoft 365
   #### Leçons
   - Planifier votre expérience Microsoft 365
   - Configurer votre expérience Microsoft 365
@@ -56,15 +55,16 @@ outlineSection: |-
   - Mettre en œuvre vos services de domaine
 
 
-  ### Module 3&#58; Gérer votre locataire Microsoft 365
+  ### Module  3 &#58;  Gérer votre locataire Microsoft 365
   #### Leçons
   - Configurer les rôles du locataire
   - Configurer la santé et les services du locataire
 
 
-  ### Module 4&#58; Laboratoire pratique
+  ### Module  4 &#58;  Laboratoire pratique
 
-  #### Laboratoire&#58; Gérer la sécurité Microsoft 365
-  - Exercice 1&#58; Configurer votre environnement de laboratoire
-  - Exercice 2&#58; Modifier une politique de liens sécurisés ATP et créer une politique de pièces jointes sécurisées
-  - Exercice 3&#58; Permettre et installer le centre ATA
+  #### Laboratoire &#58;  Gérer la sécurité Microsoft 365
+  - Exercice 1 - Configurer votre environnement de laboratoire
+  - Exercice 2 - Modifier une politique de liens sécurisés ATP et créer une politique de pièces jointes sécurisées
+  - Exercice 3 - Permettre et installer le centre ATA
+

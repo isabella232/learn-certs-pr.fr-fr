@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+uid: course.mb-240t00
+courseNumber: 'MB-240T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifier les composants clés impliqués dans la mises en œuvre du service sur site.
+- skill: Définir les produits et les services qui seront livrés aux clients.
+- skill: Déterminer les options de prix à utiliser dans des scénarios spécifiques.
+- skill: Déterminer les ressources requises.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 Field Service aide les organisations à mieux se positionner dans le marché en leur fournissant une gamme d’outils pour identifier et programmer les ressources et gérer les charges de travail pour les travailleurs mobiles. Cette formation équipera les étudiants avec les compétences nécessaires pour identifier et configurer les composants essentiels qui sont utilisés pour fournir les services sur site et les solutions mobiles. Les sujets clés comprennent l’identification des considérations organisationnelles qui mèneront aux décisions de configuration et aux aspects de configuration communs.
+  Cette formation aidera les étudiants à mieux comprendre le contexte général et les objectifs finaux axés sur les mises en œuvre qui aident à concevoir des solutions plus efficaces qui s'alignent avec les objectifs des clients et de l'organisation.
+
+  #### Profil de l’audience
+  Ce cours est conçu pour les professionnels de l’informatique qui possèdent de l’expérience ou s’intéressent à fournir des solutions Field Service à des clients sur une grande échelle.
+outlineSection: |-
+  ### Module 1&#58;  Configurer le service sur site
+  Dans ce module introductif, nous introduirons les concepts essentiels de Dynamics 365 Field Service, comprenant des produits, des services et des codes fiscaux.
+  #### Leçons
+  - Introduction à la configuration de Field Service.
+  - Définir les produits et les services
+  - Définir les codes de taxe
+
+  vous seront capables&#58;
+  - Créer et gérer des produits et des services.
+  - Configurer les codes fiscaux de votre organisation.
+
+
+  ### Module 2&#58;  Configuration de la programmation des ressources
+  Dans ce module, nous explorerons le concept de la programmation des ressources et nous apprendrons à configurer le système afin de programmer les ressources de façon efficace.
+  #### Leçons
+  - Informations sur le mappage et l’emplacement
+  - Configurer les composants des ressources
+  - Définir les préférences du compte
+
+  vous seront capables&#58;
+  - Configurer la programmation des ressources de votre organisation.
+  - Définir les préférences en matière de comptes.
+  - Activer la localisation.
+
+
+  ### Module 3&#58; Définir et configurer les ressources pouvant être réservées.
+  Dans ce module, nous apprendrons à créer et gérer les ressources pouvant être réservées, y compris les pools et les équipes de ressources.
+  #### Leçons
+  - Définir les ressources qui peuvent être réservées
+  - Pools de ressources équipes et facilités
+
+  vous seront capables&#58;
+  - Définir les ressources pouvant être réservées.
+  - Créer des pools et des équipes.
+  - Gérer les dossiers des installations.
+
+
+  ### Module 4&#58; Configurer les incidents
+  Dans ce module, vous découvrirez comment les incidents peuvent améliorer l’efficacité et l’homogénéité de la planification de votre organisation.
+  #### Leçons
+  - Créer un incident.
+  - Utiliser des tâches de service
+
+  vous seront capables&#58;
+  - Créer un incident pour les tâches de services communes.
+  - Programmer à l’aide des incidents.
+
+
+  ### Module 5&#58; Gestion de l’inventaire et des ordres de travail
+  Dans ce module, nous apprendrons à créer et à utiliser des ordres de travail pour planifier des ressources.
+  #### Leçons
+  - Configurer les ordres de travail Field Service.
+  - Créer les bons de commande
+  - Gérer les bons de commande
+
+  vous seront capables&#58;
+  - Configurer des ordres de travail.
+  - Planifier des ressources à l’aide des ordres de travail.
+
+
+  ### Module 6&#58;  Accords du service sur site
+  Dans ce module, nous présenterons les accords et nous apprendrons à les configurer pour votre organisation.
+  #### Leçons
+  - Utilisation d’accords Field Service.
+  - Configurer des réservations
+  - Configurer des factures
+
+  vous seront capables&#58;
+  - Utiliser un accord pour planifier des ordres de travail.
+  - Générer des factures pour les clients.
+
+
+  ### Module 7&#58;  Inventaire et achats
+  Dans ce module, nous découvrirons la gestion des actifs clients.
+  #### Leçons
+  - Gérer les actifs des clients
+  - Gérer l'inventaire
+  - Achats et retours
+
+  vous seront capables &#58;
+  - Créer des dossiers des avoirs clients.
+  - Gérer l’inventaire, les achats et les retours.
+
+
+  ### Module 8&#58;  Service sur site mobile
+  Dans ce module, vous apprendrez à utiliser et à configurer l’application Field Service Mobile pour une force de travail mobile.
+  #### Leçons
+  - Présentation du client mobile.
+  - Installer et déployer des projets service sur site mobiles
+  - Gérer les projets mobiles.
+  - Déployer un client mobile
+
+  vous seront capables&#58;
+  - Gérer les projets mobiles.
+  - Installer et configurer le client mobile.
+  - Décrire la valeur de l’application mobile pour une force de travail mobile.
+
+
+  ### Module 9&#58;  Programmation des ressources universelles
+  Dans ce module, nous présenterons le concept de la planification universelle des ressources et nous décrirons comment une organisation peut en tirer parti.
+  #### Leçons
+  - Présentation et configuration de la planification universelle des ressources.
+  - Permettre les entités dans la programmation des ressources universelles
+  - Personnaliser les entités pour la planification universelle des ressources.
+
+  vous seront capables &#58;
+  - Décrire la planification universelle des ressources.
+  - Favoriser une entité pour la planification universelle des ressources.
+
+
+  ### Module 10&#58;  Gérer les options de la programmation
+  Dans ce module, vous apprendrez à utiliser le tableau de planification pour replanifier, remplacer des ressources, et planifier les pools et les équipes.
+  #### Leçons
+  - Utiliser le tableau de planification.
+  - Planifier des éléments.
+  - Reprogrammer et substituer les ressources
+  - Planification des équipes et des pools.
+
+  vous seront capables&#58;
+  - Configurer et utiliser le tableau de planification pour planifier des ressources.
+  - Replanifier des ordres de travail.
+  - Remplacer des ressources.
+
+
+  ### Module 11&#58;  Personnaliser le tableau de planification
+  Dans ce module, vous apprendrez à configurer le tableau de planification pour mieux répondre aux besoins de l’organisation ou du planificateur.
+  #### Leçons
+  - Configurer le tableau.
+  - Créer des tableaux de planification supplémentaires
+  - Utiliser les vues pour améliorer le tableau de planification.
+  - Configurer les requêtes et les filtres du tableau de planification.
+  - Travailler avec les groupes des exigences
+
+  vous seront capables&#58;
+  - Personnaliser le tableau de planification.
+  - Créer des tableaux supplémentaires.
+  - Ajouter des vues à un tableau de planification.
+
+
+  ### Module 12&#58; Options de planification avancées.
+  Dans ce module, nous plongerons plus profondément dans les options de personnalisation des ordres de travail basés sur des exigences métier uniques.
+  #### Leçons
+  - Travailler avec l’optimisation de la planification des ressources.
+  - Définir les objectifs d’optimisation
+  - Définir les étendues d’optimisation
+  - Définir les profils d’optimisation
+  - Planification d’une seule ressource.
+
+  vous seront capables&#58;
+  - Définir l’optimisation pour une organisation.
+  - Planifier des ressources seules.

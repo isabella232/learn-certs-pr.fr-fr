@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Microsoft 365 Mobility and Security
+metadata:
+  title: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+  description: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+uid: course.ms-101t00
+courseNumber: 'MS-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 Security Metrics
+- skill: Microsoft 365 Security Services
+- skill: Microsoft 365 Threat Intelligence
+- skill: Gouvernance des données dans Microsoft 365
+- skill: Archivage et retenue dans Office 365
+- skill: Gouvernance des données dans Microsoft 365 Intelligence
+- skill: Recherche et examen
+- skill: Gestion des dispositifs
+- skill: Stratégies de déploiement dans Windows 10
+- skill: Gestion des dispositifs mobiles
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Cette formation couvre trois éléments centraux de Microsoft 365 Enterprise Administration - la gestion de la sécurité de Microsoft 365, la gestion de la conformité de Microsoft 365 et la gestion des dispositifs Microsoft 365.
+  Dans la gestion de la sécurité de Microsoft 365, vous examinerez tous les types courants de vecteurs de menaces et de violation des données auxquels les organisations font face à l’heure actuelle. Vous découvrirez également comment les solutions de sécurité de Microsoft 365 répondent à ces menaces de sécurité. Vous découvrirez le Microsoft Secure Score, ainsi qu'à la Azure Active Directory Identity Protection. Vous découvrirez ensuite comment gérer les services de sécurité de Microsoft 365, ce qui inclut Exchange Online Protection, Advanced Threat Protection, Safe Attachments et Safe Links. Enfin, vous découvrirez les différents rapports qui surveillent la santé de votre sécurité. Vous passerez ensuite des services de sécurité à des services de renseignements sur les menaces, précisément, en utilisant le tableau de bord de sécurité et Advanced Threat Analytics pour garder une longueur d'avance sur les violations de sécurité potentielles.
+  Grâce aux composants de sécurité Microsoft 365 maintenant fermement en place, vous examinerez les composants clés de la gestion de la conformité de Microsoft 365. Cela commence par un aperçu de tous les aspects clés de la gouvernance des données, ce qui inclut l’archivage et la rétention des données, la gestion des droits d'information, Secure Multipurpose Internet Mail Extension (S/MIME), le cryptage des messages dans Office 365 et la prévention contre la perte de données (DLP). Vous étudierez ensuite plus en profondeurs l’archivage et la rétention, en faisant particulièrement attention à la gestion des registres en place dans SharePoint, à l’archivage et la rétention dans Exchange et les politiques de rétention dans le centre de sécurité et de conformité.
+  Maintenant que vous comprenez les aspects clés de la gouvernance des données, vous étudierez comment les mettre en œuvre, ce qui inclut la construction de murs éthiques dans Exchange Online, la création de politiques DLP à partir de modèles intégrés, la création de politiques DLP personnalisées, la création de politiques DLP pour protéger des documents et la création de conseils en matière de politique. Vous vous concentrerez également sur la gestion de la gouvernance des données dans Microsoft 365, ce qui inclut la gestion de la rétention dans les e-mails, le dépannage des politiques de rétention et des conseils en matière de politique qui ne fonctionnent pas ainsi que le dépannage des données sensibles. Vous découvriez également comment mettre en œuvre la Azure Information Protection et la Windows Information Protection. Vous conclurez cette section en apprenant comment gérer la recherche et l’examen, ce qui inclut la recherche de contenu dans le centre de sécurité et de conformité, l’audit des investigations des journaux et la gestion de l’eDiscovery avancée.
+  La formation conclut avec un examen approfondi de la gestion des dispositifs dans Microsoft 365. Vous commencerez par planifier différents aspects de la gestion des dispositifs, ce qui inclut la préparation de vos dispositifs Windows 10 pour la cogestion. Vous apprendrez ensuite comment passer de Configuration Manager à Intune et vous découvrirez le Microsoft Store pour la gestion des applications mobiles et pour entreprises. À ce point, vous passerez de la planification à la mise en œuvre de la gestion des dispositifs, c’est-à-dire, à votre stratégie de mise en œuvre Windows 10. Cela inclut l’apprentissage de la mise en œuvre de Windows Autopilot, de Windows Analytics et la Mobile Device Management (MDM). Lors de l’étude de la MDM, vous découvrirez comment la déployer, comment inscrire des dispositifs à la MDM et comment gérer la conformité des dispositifs.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
+prerequisitesSection: |-
+  - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
+  - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension parfaite des pratiques informatiques générales.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Microsoft 365 Security Metrics
+  #### Leçons
+  - Vecteurs de menaces et violations des données
+  - Solutions de sécurité dans Microsoft 365
+  - Introduction au Secure Score
+  - Introduction à la protection de l’identité dans Azure Active Directory
+
+
+  ### Module 2&#58; Gérer votre Microsoft 365 Security Services
+  #### Leçons
+  - Introduction à la protection en ligne Exchange
+  - Introduction à Advanced Threat Protection
+  - Gestion des pièces jointes sécurisées
+  - Gestion des liens sécurisés
+  - Surveillance et rapports
+
+
+  ### Module 3&#58; Laboratoire 1 - Gérer Microsoft 365 Security Services
+
+  #### Laboratoire &#58; Gérer Microsoft 365 Security Services
+  - Exercice 1 - Définir un locataire Microsoft 365 test
+  - Exercice 2 - Mise en œuvre d'une police ATP Safe Links et de la politique Safe Attachment
+
+
+  ### Module 4&#58; Microsoft 365 Threat Intelligence
+  #### Leçons
+  - Aperçu de Microsoft 365 Threat Intelligence
+  - Utilisation du tableau de bord de sécurité
+  - Configuration d’Advanced Threat Analytics
+  - Mise en œuvre de la sécurité de votre application de cloud
+
+
+  ### Module 5&#58; Laboratoire 2 - Mise en œuvre des notifications d'alerte à l’aide du tableau de bord de sécurité
+
+  #### Laboratoire &#58; Mise en œuvre des notifications d’alerte à l’aide du tableau de bord de sécurité
+  - Exercice 1 - Préparer la mise en œuvre des politiques d'alerte
+  - Exercice 2 - Mettre en œuvre les notifications d'alerte de sécurité
+  - Exercice 3 - Mettre en œuvre des alertes groupées
+  - Exercice 4 - Mettre en œuvre des alertes eDiscovery
+
+
+  ### Module 6&#58;  Introduction à la gouvernance des données dans Microsoft 365
+  #### Leçons
+  - Introduction à l’archivage dans Microsoft 365
+  - Introduction à la conservation dans Microsoft 365
+  - Introduction à la gestion des droits à l'information
+  - Introduction à la Multipurpose Internet Mail Extension sécurisée
+  - Introduction au cryptage des messages dans Office 365
+  - Introduction à la prévention de la perte des données
+
+
+  ### Module 7&#58; Archivage et retenue dans Office 365
+  #### Leçons
+  - Gestion des enregistrements sur place dans SharePoint
+  - Archivage et conservation dans Exchange
+  - Politiques de conservation dans les SSC
+
+
+  ### Module 8&#58; Laboratoire 3 - Mettre en œuvre l’archivage et la rétention
+
+  #### Laboratoire&#58; Mettre en œuvre l’archivage et la rétention
+  - Exercice 1 - Initialiser la conformité dans votre organisation
+  - Exercice 2 - Configurer les étiquettes et les politiques de rétention
+  - Exercice 3 - Mettre en œuvre des politiques de rétention
+
+
+  ### Module 9&#58;  Mettre en œuvre la gouvernance des données dans Microsoft 365 Intelligence
+  #### Leçons
+  - Planifier vos besoins en matière de sécurité et de conformité
+  - Construire des murs éthiques dans Exchange Online
+  - Créer une politique simple DLP à partir d'un modèle intégré
+  - Créer une politique DLP personnalisée
+  - Créer une politique DLP pour protéger les documents
+  - Travailler avec les conseils en matière de politique
+
+
+  ### Module 10&#58; Laboratoire 4 - Mettre en œuvre des politiques DLP
+
+  #### Laboratoire &#58; Mettre en œuvre des politiques DLP
+  - Exercice 1 - Gérer des politiques DLP
+  - Exercice 2 - Tester la MRM et les politiques de DLP
+
+
+  ### Module 11&#58;  Gérer la gouvernance des données dans Microsoft 365
+  #### Leçons
+  - Gérer la conservation dans le courrier électronique
+  - Dépanner la gouvernance des données
+  - Mettre en œuvre la protection des informations Azure
+  - Mettre en œuvre les caractéristiques avancées de AIP
+  - Mettre en œuvre la protection des informations Windows
+
+
+  ### Module 12&#58; Laboratoire 5 - Mettre en œuvre AIP et WIP
+
+  #### Laboratoire &#58; Mettre en œuvre AIP et WIP
+  - Exercice 1 - Mettre en œuvre la Azure Information Protection
+  - Exercice 2 - Mettre en œuvre la protection des informations Windows
+
+
+  ### Module 13&#58;  Gérer la recherche et les investigations
+  #### Leçons
+  - Rechercher du contenu dans le centre de sécurité et de conformité
+  - Faire l'audit des enquêtes du journal
+  - Gérer l’eDiscovery avancé
+
+
+  ### Module 14&#58; Laboratoire 6 - Gérer la recherche et l’examen
+
+  #### Laboratoire &#58; Gérer la recherche et l’examen
+  - Exercice 1 - Investiguer vos données Microsoft 365
+  - Exercice 2 - Configurer et déployer une demande d’objet de données
+
+
+  ### Module 15&#58;  Planification de la gestion des périphériques
+  #### Leçons
+  - Introduction à la cogestion
+  - Préparer les périphériques de votre Windows 10 pour la cogestion
+  - Transition du gestionnaire de configuration à Intune
+  - Introduction au Microsoft Store pour les entreprises
+  - Planifier la gestion des applications mobiles
+
+
+  ### Module 16&#58; Laboratoire 7 - Mettre en œuvre le Microsoft Store pour les entreprises
+
+  #### Laboratoire &#58; Mettre en œuvre le Microsoft Store pour les entreprises
+  - Exercice 1 - Configurer le Microsoft Store pour les entreprises
+  - Exercice 2 - Gérer le Microsoft Store pour les entreprises
+
+
+  ### Module 17&#58;  Planifier la stratégie de déploiement de votre Windows 10
+  #### Leçons
+  - Scénarios de déploiement de Windows 10
+  - Mettre en œuvre Windows Autopilot
+  - Planifier la stratégie d'activation de l’abonnement de votre Windows 10
+  - Résoudre les erreurs de mise à niveau de Windows 10
+  - Introduction à Windows Analytics
+
+
+  ### Module 18&#58;  Mettre en œuvre la gestion des périphériques mobiles
+  #### Leçons
+  - Planifier la gestion des périphériques mobiles
+  - Déployer la gestion des périphériques mobiles
+  - Enregistrer des périphériques dans la gestion des périphériques mobiles
+  - Gérer la conformité des périphériques
+
+
+  ### Module 19&#58; Laboratoire 8 - Gérer les dispositifs avec Intune
+
+  #### Laboratoire &#58; Gérer les dispositifs avec Intune
+  - Exercice 1 - Permettre la gestion des dispositifs
+  - Exercice 2 - Configurer Azure AD pour Intune
+  - Exercice 3 - Créer des politiques Intune
+  - Exercice 4 - Inscrire un dispositif Windows 10
+  - Exercice 5 - Gérer et surveiller un dispositif dans Intune

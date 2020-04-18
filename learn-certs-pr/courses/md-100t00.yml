@@ -1,14 +1,14 @@
 ### YamlMime:Course
 title: Windows 10
 metadata:
-  title: 'Formation MD-100T00-A: Windows 10'
-  description: 'Formation MD-100T00-A: Windows 10'
+  title: 'Course MD-100T00-A: Windows 10'
+  description: 'Course MD-100T00-A: Windows 10'
 uid: course.md-100t00
 courseNumber: 'MD-100T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Installer et personnaliser Windows 10.
+- skill: Installer et personnaliser Windows 10
 - skill: Configurer des mises à jour sur Windows.
 - skill: Configurer des périphériques et des pilotes pour Windows.
 - skill: Configurer le stockage sur Windows.
@@ -34,7 +34,6 @@ exams:
 - uid: exam.md-100
 summary: |-
   Dans cette formation, les étudiants apprendront à prendre en charge et configurer les ordinateurs de bureau avec Windows 10 dans un environnement organisationnel. Les étudiants mettront au point les compétences comprenant l’apprentissage de l’installation, la personnalisation et la mise à jour des systèmes d’exploitation Windows 10. Les étudiants apprendront à gérer le stockage, les fichiers et les périphériques ainsi qu’à configurer la connectivité réseau sur Windows 10. Les étudiants apprendront également à sécuriser le système d’exploitation Windows 10 et à protéger les données sur le périphérique. Finalement, les étudiants apprendront à gérer et dépanner Windows 10.
-
   #### Profil de l’audience
   Les candidats à cet examen sont des professionnels de l'informatique qui effectuent l'installation, la configuration, la gestion locale générale et la maintenance des services de base de Windows 10. Les candidats peuvent également être familiarisés à certains scénarios d'entreprise et certains services intégrés au Cloud.
 prerequisitesSection: |-
@@ -42,7 +41,7 @@ prerequisitesSection: |-
   - Compréhension de base des concepts du système d’exploitation et des applications.
   - Expérience d'utilisation du système d’exploitation Windows.
 outlineSection: |-
-  ### Module 1&#58; Installer Windows
+  ### Module  1&#58;  Installer Windows
   Ce module couvre l’installation du système d’exploitation Windows 10.  Les étudiants découvriront les différentes éditions de Windows 10, les exigences et les nouvelles fonctionnalités introduites. Ce module couvre l’installation du système d’exploitation, ainsi que les méthodes de migration et de mise à niveau. Les étudiants apprendront également quels sont les outils communs utilisés dans le processus de déploiement.
   #### Leçons
   - Introduction à Windows 10
@@ -52,17 +51,17 @@ outlineSection: |-
   - Outils de déploiement
 
 
-  #### Laboratoire&#58; Mise à niveau sur place de Win7 à Win 10
+  #### Laboratoire&#58;  Mise à niveau sur place de Win7 à Win 10
 
-  #### Laboratoire&#58; Migration des paramètres utilisateur à l’aide d’USMT
+  #### Laboratoire&#58;  Migration des paramètres utilisateur à l’aide d’USMT
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre les différentes éditions et fonctionnalités de Windows 10.
+  - de comprendre les différentes éditions et fonctionnalités de Windows 10
   - de comprendre les options d’installation client de Windows 10.
-  - de pratiquer l’installation de Windows 10.
+  - de pratiquer l’installation de Windows 10,
   - de faire migrer le contenu à l’aide de l’outil de migration de l’état client.
 
 
-  ### Module 2&#58; Configuration et personnalisation post-installation
+  ### Module  2&#58;  Configuration et personnalisation post-installation
   Ce module couvre les tâches de post-installation les plus communes dans Windows 10. Les étudiants apprendront à personnaliser l’interface utilisateur, ainsi qu’à utiliser le panneau de contrôle et l'application de configuration pour configurer les paramètres communs du système d’exploitation. Cette formation présentera également Windows PowerShell aux étudiants.  Ce module couvrira également le fonctionnement des pilotes des périphériques. La gestion et la configuration des périphériques matériels tels que les imprimantes seront également présentés aux étudiants.
   #### Leçons
   - Configurer et personnaliser le menu Démarrer de Windows
@@ -71,41 +70,41 @@ outlineSection: |-
   - Gérer les pilotes et les périphériques
 
 
-  #### Laboratoire&#58; Utiliser l’application de configuration des paramètres et le panneau de contrôle
+  #### Laboratoire&#58;  Utiliser l’application de configuration des paramètres et le panneau de contrôle
 
-  #### Laboratoire&#58; Utiliser les objets de la politique de groupe
+  #### Laboratoire&#58;  Utiliser les objets de la politique de groupe
 
-  #### Laboratoire&#58; Utiliser PowerShell pour configurer Windows
+  #### Laboratoire&#58;  Utiliser PowerShell pour configurer Windows
 
-  #### Laboratoire&#58; Gestion des imprimantes locales et de réseau
+  #### Laboratoire&#58;  Gestion des imprimantes locales et de réseau
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de personnaliser l’interface utilisateur de Windows 10.
-  - de configurer les paramètres de périphériques spécifiques tels que les plans d’alimentation et les options de périphériques mobiles.
-  - d'utiliser le panneau de contrôle et l’application de configuration de Windows pour configurer les paramètres.
-  - d'effectuer des tâches en utilisant Windows PowerShell.
-  - de décrire des concepts liés aux pilotes.
-  - de décrire des concepts de gestion des imprimantes.
+  - de personnaliser l’interface utilisateur de Windows 10,
+  - de configurer les paramètres de périphériques spécifiques tels que les plans d’alimentation et les options de périphériques mobiles,
+  - d'utiliser le panneau de contrôle et l’application de configuration de Windows pour configurer les paramètres,
+  - d'effectuer des tâches en utilisant Windows PowerShell,
+  - de décrire des concepts liés aux pilotes,
+  - de décrire des concepts de gestion des imprimantes,
   - de configurer l’impression côté client et de gérer les propriétés du serveur d’impression.
 
 
-  ### Module 3&#58; Mise à niveau de Windows dans Windows 10
+  ### Module  3&#58;  Mise à niveau de Windows dans Windows 10
   Dans ce module, les étudiants apprendront à garder Windows 10 à jour. Ils découvriront le nouveau modèle de service Windows et comment il s'applique à divers scénarios. Les étudiants apprendront plusieurs méthodes différentes pour la mise à jour de Windows et des applications, ainsi que la gestion des mises à jour à l'aide d’outils comme la politique de groupe et la mise à jour Windows pour les entreprises.
   #### Leçons
   - Modèle de service Windows
   - Mise à jour de Windows
 
 
-  #### Laboratoire&#58; Mise à jour de Windows 10
+  #### Laboratoire&#58;  Mise à jour de Windows 10
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire le modèle de service Windows.
+  - de décrire le modèle de service Windows
   - de configurer les paramètres de mise à jour de Windows.
-  - de décrire la mise à jour de Windows à l’aide de WSUS.
+  - de décrire la mise à jour de Windows à l’aide de WSUS
   - de décrire la mise à jour de Windows à l’aide de la mise à jour de Windows pour les entreprises.
   - de configurer la mise à jour de Windows à l’aide d’une politique de groupe.
 
 
-  ### Module 4&#58; Configurer le réseau
-  Les étudiants apprendront dans ce module les concepts de mise en réseau. Ce module présentera IPv4 et IPv6 et des concepts comme le DNS. Les étudiants apprendront à configurer des paramètres réseau dans Windows et découvriront les technologie de réseau sans fil. Le module se terminera avec les méthodes de gestion de Windows à distance.
+  ### Module  4&#58;  Configurer le réseau
+  Les étudiants apprendront dans ce module les concepts de mise en réseau. Ce module présentera IPv4 et IPv6 et des concepts comme le DNS.  Les étudiants apprendront à configurer des paramètres réseau dans Windows et découvriront les technologie de réseau sans fil. Le module se terminera avec les méthodes de gestion de Windows à distance.
   #### Leçons
   - Configurer la connectivité réseau IP
   - Mettre en œuvre la résolution des noms
@@ -114,19 +113,19 @@ outlineSection: |-
   - Gestion à distance
 
 
-  #### Laboratoire&#58; Configurer la connectivité réseau
+  #### Laboratoire&#58;  Configurer la connectivité réseau
 
-  #### Laboratoire&#58; Configurer et tester la résolution des noms
+  #### Laboratoire&#58;  Configurer et tester la résolution des noms
 
-  #### Laboratoire&#58; Gestion à distance
+  #### Laboratoire&#58;  Gestion à distance
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de configurer les connexions réseau IP.
-  - de décrire le fonctionnement de la résolution des noms.
-  - de décrire les technologies d’accès à distance comme le VPN.
+  - de configurer les connexions réseau IP,
+  - de décrire le fonctionnement de la résolution des noms,
+  - de décrire les technologies d’accès à distance comme le VPN,
   - de configurer Windows pour la gestion et l’accès à distance.
 
 
-  ### Module 5&#58; Configurer le stockage
+  ### Module  5&#58;  Configurer le stockage
   Ce module couvre la configuration et la gestion du stockage dans Windows 10.  Les étudiants découvriront les options de stockage local, dans le cloud et virtuel. Cette formation comprendra également la configuration du stockage sur les périphériques des clients et l’introduction aux espaces de stockage.
   #### Leçons
   - Aperçu des options de stockage
@@ -135,15 +134,15 @@ outlineSection: |-
   - Gérer les espaces de stockage
 
 
-  #### Laboratoire&#58; Gérer le stockage
+  #### Laboratoire&#58;  Gérer le stockage
 
-  #### Laboratoire&#58; Comprimer les dossiers
+  #### Laboratoire&#58;  Comprimer les dossiers
 
-  #### Laboratoire&#58; Permettre les quotas de disques
+  #### Laboratoire&#58;  Permettre les quotas de disques
 
-  #### Laboratoire&#58; Créer un espace de stockage
+  #### Laboratoire&#58;  Créer un espace de stockage
 
-  #### Laboratoire&#58; Synchroniser les fichiers avec OneDrive
+  #### Laboratoire&#58;  Synchroniser les fichiers avec OneDrive
 
   - Décrire les options et les avantages du stockage local, dans le cloud et virtuel.
   - Configurer OneDrive.
@@ -151,7 +150,7 @@ outlineSection: |-
   - Décrire les capacités et les avantages des espaces de stockage.
 
 
-  ### Module 6&#58; Gérer les applications dans Windows 10
+  ### Module  6&#58;  Gérer les applications dans Windows 10
   Dans ce module, les étudiants découvriront la gestion des applications dans Windows 10. Ce module couvrira les différents types d'applications et de méthodes d'installation prises en charge.  Les étudiants apprendront à installer les applications à l’aide de méthodes manuelles et automatisées et à gérer la livraison des applications à l’aide de Windows Store. Finalement, ce module couvrira les différences entre Internet Explorer et Microsoft Edge.
 
   #### Leçons
@@ -160,19 +159,19 @@ outlineSection: |-
   - Les navigateurs Web dans Windows 10
 
 
-  #### Laboratoire&#58; Chargement latéral d’une application
+  #### Laboratoire&#58;  Chargement latéral d’une application
 
-  #### Laboratoire&#58; Installation et mise à jour des applications de Microsoft Store
+  #### Laboratoire&#58;  Installation et mise à jour des applications de Microsoft Store
 
-  #### Laboratoire&#58; Configurer Internet Explorer en mode entreprise
+  #### Laboratoire&#58;  Configurer Internet Explorer en mode entreprise
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différents types d'applications.
-  - d'installer des applications manuellement et à l’aide de méthode automatisées.
+  - de décrire les différents types d'applications,
+  - d'installer des applications manuellement et à l’aide de méthode automatisées,
   - de gérer le déploiement des applications à l’aide de Windows Store.
   - de découvrir les fonctionnalités du navigateur Web dans Windows 10.
 
 
-  ### Module 7&#58; Configurer les autorisations et les authentifications
+  ### Module  7&#58;  Configurer les autorisations et les authentifications
   Ce module présente les outils et les fonctionnalités de Windows 10 pour autoriser l'accès aux clients de Windows 10. Les étudiants découvriront les méthodes de connexion des utilisateurs à Windows 10.  Ce module couvre également la limite de ce que les utilisateurs peuvent ou ne peuvent pas faire sur un périphérique, par des méthodes du genre UAC et des types de comptes.
   #### Leçons
   - Authentification
@@ -180,19 +179,19 @@ outlineSection: |-
   - Mettre en œuvre l’enregistrement d’un périphérique
 
 
-  #### Laboratoire&#58; Rejoindre un domaine
+  #### Laboratoire&#58;  Rejoindre un domaine
 
-  #### Laboratoire&#58; Créer des politiques de sécurité
+  #### Laboratoire&#58;  Créer des politiques de sécurité
 
-  #### Laboratoire&#58; Configurer UAC
+  #### Laboratoire&#58;  Configurer UAC
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différentes méthodes de sécurisation des données et le système d’exploitation de Windows 10.
+  - de décrire les différentes méthodes de sécurisation des données et le système d’exploitation de Windows 10,
   - de décrire les différents types de compte utilisateurs et services.
   Configurer Windows Hello.
   - Configurer le contrôle du compte utilisateur.
 
 
-  ### Module 8&#58; Configurer l’accès aux données et leur utilisation
+  ### Module  8&#58;  Configurer l’accès aux données et leur utilisation
   Dans ce module, les étudiants découvriront les autorisations. Ce module couvrira les considérations des différents systèmes de fichiers. Les étudiants apprendront à configurer les autorisations aux fichiers et aux dossiers, ainsi que les fichiers partagés. Le module se terminera avec la configuration des paramètres par des méthodes telles que la politique locale ou de groupe.
   #### Leçons
   - Aperçu des systèmes de fichiers
@@ -200,17 +199,17 @@ outlineSection: |-
   - Configurer et gérer les dossiers partagés
 
 
-  #### Laboratoire&#58; Créer, gérer et partager un dossier
+  #### Laboratoire&#58;  Créer, gérer et partager un dossier
 
-  #### Laboratoire&#58; Utiliser des conditions pour contrôler l’accès et les autorisations effectives
+  #### Laboratoire&#58;  Utiliser des conditions pour contrôler l’accès et les autorisations effectives
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire les différences et les avantages des systèmes de fichiers pris en charge.
-  - de configurer les autorisations aux fichiers et aux dossiers.
-  - de configurer des dossiers partagées.
+  - de décrire les différences et les avantages des systèmes de fichiers pris en charge,
+  - de configurer les autorisations aux fichiers et aux dossiers,
+  - de configurer des dossiers partagées,
   - de sécuriser Windows par des paramètres de politique locale.
 
 
-  ### Module 9&#58; Configurer la protection contre les menaces et la sécurité avancée
+  ### Module  9&#58;  Configurer la protection contre les menaces et la sécurité avancée
   Ce module présente aux étudiants la protection des périphériques contre les menaces externes. Les étudiants découvriront les différents types de menaces communes. Ce module enseignera aux étudiants l’utilisation du cryptage, des pare-feux et de IPSec pour la protection contre les menaces. Ce module se terminera avec la manière de configurer et d’utiliser Windows Defender et AppLocker.
   #### Leçons
   - Protection contre les maliciels et les menaces
@@ -219,87 +218,87 @@ outlineSection: |-
   - Méthodes de protection avancées
 
 
-  #### Laboratoire&#58; Configurer Windows Defender
+  #### Laboratoire&#58;  Configurer Windows Defender
 
-  #### Laboratoire&#58; Créer des règles de pare-feux
+  #### Laboratoire&#58;  Créer des règles de pare-feux
 
-  #### Laboratoire&#58; Créer des règles de sécurité des connexions
+  #### Laboratoire&#58;  Créer des règles de sécurité des connexions
 
-  #### Laboratoire&#58; Utiliser EFS
+  #### Laboratoire&#58;  Utiliser EFS
 
-  #### Laboratoire&#58; Utiliser Bitlocker
+  #### Laboratoire&#58;  Utiliser Bitlocker
 
-  #### Laboratoire&#58; Configurer AppLocker
+  #### Laboratoire&#58;  Configurer AppLocker
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - d'identifier les menaces de sécurité communes.
-  - de décrire les méthodes par lesquelles il est possible de mitiger ces menaces de sécurité communes.
-  - de décrire les différents méthodes de cryptage.
-  - de décrire comment le pare-feu Windows peut sécuriser le périphérique.
-  - de décrire les avantage de l’utilisation d’IPSec.
-  - de décrire les différentes fonctionnalités de Windows Defender.
+  - de décrire les méthodes par lesquelles il est possible de mitiger ces menaces de sécurité communes,
+  - de décrire les différents méthodes de cryptage,
+  - de décrire comment le pare-feu Windows peut sécuriser le périphérique,
+  - de décrire les avantage de l’utilisation d’IPSec,
+  - de décrire les différentes fonctionnalités de Windows Defender,
   - de décrire les avantage de l’utilisation d’AppLocker.
 
 
-  ### Module 10&#58; Prendre en charge l’environnement Windows 10
+  ### Module  10&#58;  Prendre en charge l’environnement Windows 10
   Ce module couvrira l’architecture et les environnements communs de Windows 10. Les étudiants découvriront les divers outils utilisés dans l’entretien de Windows. Ce module discutera également des méthodologies pour la résolution efficace des problèmes et comment gérer et optimiser Windows 10 de manière proactive.
 
   #### Leçons
-  - Architecture Windows
+  - Windows Architecture
   - Outils de soutien et de diagnostic
   - Surveillance et résolution des problèmes de performance informatique
 
 
-  #### Laboratoire&#58; Surveiller les événements
+  #### Laboratoire&#58;  Surveiller les événements
 
-  #### Laboratoire&#58; Surveiller la fiabilité et la performance
+  #### Laboratoire&#58;  Surveiller la fiabilité et la performance
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de décrire l’architecture Windows.
   - de décrire les étapes clés dans la résolution des problèmes.
   - de décrire l’objectif et les avantages des divers outils Windows.
-  - d'utiliser les outils de surveillance pour établir la base de référence de la performance.
+  - d'utiliser les outils de surveillance pour établir la base de référence de la performance,
   - d'optimiser la performance sur les clients Windows 10.
 
 
-  ### Module 11&#58; Dépanner les fichiers et les applications
+  ### Module  11&#58;  Dépanner les fichiers et les applications
   Ce module aide les étudiants à planifier la sauvegarde et le recouvrement des fichiers.  Les étudiants apprendront à planifier et à configurer des stratégies de protection des données et à suivre différentes méthodes de récupération de fichiers et de systèmes.  Ce module comprend également des méthodes communes pour la résolution des problèmes d’installation des applications, la résolution des problèmes de compatibilité et la résolution des problèmes de navigateur.
   #### Leçons
   - Récupération des fichiers dans Windows 10
   - Dépanner les applications
 
 
-  #### Laboratoire&#58; Utiliser l’historique des fichiers pour récupérer les fichiers
+  #### Laboratoire&#58;  Utiliser l’historique des fichiers pour récupérer les fichiers
 
-  #### Laboratoire&#58; Dépanner les applications bureau
+  #### Laboratoire&#58;  Dépanner les applications bureau
 
-  #### Laboratoire&#58; Résoudre les problèmes liés à la compatibilité des applications
+  #### Laboratoire&#58;  Résoudre les problèmes liés à la compatibilité des applications
 
-  #### Laboratoire&#58; Résoudre les problèmes de Microsoft Edge
+  #### Laboratoire&#58;  Résoudre les problèmes de Microsoft Edge
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de décrire les différents méthodes de récupération de fichiers.
   - de configurer Windows 10 pour prendre en charge la récupération de fichiers individuels et de systèmes.
-  - de récupérer un périphérique à l’aide de la fonction << Reset this PC >>.
+  - de récupérer un périphérique à l’aide de la fonction 'Reset this PC',
   - de résoudre les problèmes de compatibilité des applications à l’aide d’Application Compatibility Toolkit,
   - de résoudre les problèmes communs liés au navigateur.
 
 
-  ### Module 12&#58; Dépannage du système d’exploitation
+  ### Module  12&#58;  Dépannage du système d’exploitation
   Dans ce module, les étudiants apprendront à résoudre les problèmes de démarrage et de service liés au système d’exploitation.  Ce module enseignera les différentes options de démarrage et de récupération et comment résoudre les différents services Windows.
   #### Leçons
   - Dépanner le démarrage de Windows
   - Résoudre les problèmes de service du système d’exploitation
 
 
-  #### Laboratoire&#58; Récupération à l’aide de la fonction « Reset this PC »
+  #### Laboratoire&#58;  Récupération à l’aide de la fonction 'Reset this PC'
 
-  #### Laboratoire&#58; Récupération à l’aide du point de restauration
+  #### Laboratoire&#58;  Récupération à l’aide du point de restauration
   Après avoir terminé ce module, les étudiants seront capables&#58;
   - de décrire les diverses méthodes d’identification et de récupération à la suite de problèmes de démarrage.
-  - de décrire quand il faut utiliser les différentes options avancées de démarrage.
+  - de décrire quand il faut utiliser les différentes options avancées de démarrage
   - d'identifier et de désactiver un service en échec.
   - d'identifier et de mitiger les scénarios communs de compte bloqué.
 
 
-  ### Module 13&#58; Dépanner le matériel et les pilotes
+  ### Module  13&#58;  Dépanner le matériel et les pilotes
   Ce module introduit le dépannage du matériel.  Les étudiants découvriront la gestion des pilotes et la résolution des problèmes de périphériques. Ils apprendront également les étapes du dépannage du matériel et des périphériques externes du système, tels que les périphériques USB et les imprimantes, notamment les méthodes de diagnostic et de correction.
   #### Leçons
   - Dépanner les pilotes en échec
@@ -307,8 +306,9 @@ outlineSection: |-
   - Dépanner les échecs physiques
 
 
-  #### Laboratoire&#58; Récupération à l’aide de la restauration de pilote
+  #### Laboratoire &#58;  Récupération à l’aide de la restauration de pilote
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de dépanner et de corriger les problèmes liés au pilote.
-  - de dépanner les périphériques.
+  - de dépanner et de corriger les problèmes liés au pilote,
+  - de dépanner les périphériques,
   - de diagnostiquer et de remplacer le matériel.
+

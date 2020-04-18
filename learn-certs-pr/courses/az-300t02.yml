@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Mettre en œuvre les charges de travail et la sécurité
 metadata:
-  title: 'Formation AZ-300T02-A: Mise en œuvre des charges de travail et de la sécurité'
-  description: 'Formation AZ-300T02-A: Mise en œuvre des charges de travail et de la sécurité'
+  title: 'Course AZ-300T02-A: Mise en œuvre des charges de travail et de la sécurité'
+  description: 'Course AZ-300T02-A: Mise en œuvre des charges de travail et de la sécurité'
 uid: course.az-300t02
 courseNumber: 'AZ-300T02-A'
 hoursToComplete: 24
@@ -43,23 +43,13 @@ products:
 - azure-event-hubs
 exams:
 - uid: exam.az-300
-summary: |-
-  Cette formation enseigne aux professionnels de l'informatique à découvrir, évaluer, planifier et mettre en œuvre une migration des ressources et de l’infrastructure sur site vers Azure. Les étudiants apprendront à utiliser Azure Migrate afin de procéder à la phase de découverte et d’évaluation qui est essentielle à une migration réussie. Les étudiants apprendront également à utiliser le recouvrement de site Azure pour procéder à la migration réelle des charges de travail vers Azure. Cette formation se concentre principalement sur l’utilisation de ASR sur une infrastructure en Hyper-V afin de préparer et de terminer le processus de migration. 
-
-  En outre, les étudiants apprendront également à déployer des fonctionnalités de calcul sans serveur telles que les fonctions d’Azure, Event Gris et Service Bus. Les étudiants apprendront comment l’authentification à plusieurs facteurs d’Azure aide à protéger l’accès aux données et aux applications, ce qui aide à répondre à la demande des clients pour une procédure d'inscription simple. En outre, les étudiants apprendront à utiliser la gestion de l’identité privilégiée d’Azure Active Directory afin de gérer, contrôler et surveiller l’accès aux ressources Azure au sein de votre organisation.
-
-  Voir comment gérer et maintenir l’infrastructure pour les applications et services web de base que les développeurs construisent et déploient. Les étudiants apprendront comment le service d'applications Azure est utilisé en tant qu’offre de Platform as a Service (PaaS) pour le déploiement d'applications dans le cloud pour des environnements web et mobiles.
-
-  Enfin, les étudiants auront un aperçu de la façon de mettre en œuvre des fonctionnalités de mise en réseau avancées telles que la passerelle d'applications, la façon de configurer l’équilibrage des charges, l’intégration des réseaux sur site avec les réseaux virtuels Azure et la façon d'utiliser Network Watcher pour surveiller et dépanner les problèmes.
-
-  #### Profil de l’audience
-  Des architectes en solutions Azure réussies commencent dans cette fonction avec une expérience pratique des systèmes d’exploitation, de la virtualisation, de l’infrastructure du cloud, des structures de stockage, de la facturation et de la mise en réseau.
+summary: "Cette formation enseigne aux professionnels de l'informatique à découvrir, évaluer, planifier et mettre en œuvre une migration des ressources et de l’infrastructure sur site vers Azure. Les étudiants apprendront à utiliser Azure Migrate afin de procéder à la phase de découverte et d’évaluation qui est essentielle à une migration réussie. Les étudiants apprendront également à utiliser le recouvrement de site Azure pour procéder à la migration réelle des charges de travail vers Azure. Cette formation se concentre principalement sur l’utilisation de ASR sur une infrastructure en Hyper-V afin de préparer et de terminer le processus de migration. \nEn outre, les étudiants apprendront également à déployer des fonctionnalités de calcul sans serveur telles que les fonctions d’Azure, Event Gris et Service Bus. Les étudiants apprendront comment l’authentification à plusieurs facteurs d’Azure aide à protéger l’accès aux données et aux applications, ce qui aide à répondre à la demande des clients pour une procédure d'inscription simple. En outre, les étudiants apprendront à utiliser la gestion de l’identité privilégiée d’Azure Active Directory afin de gérer, contrôler et surveiller l’accès aux ressources Azure au sein de votre organisation.\n\nVoir comment gérer et maintenir l’infrastructure pour les applications et services web de base que les développeurs construisent et déploient. Les étudiants apprendront comment le service d'applications Azure est utilisé en tant qu’offre de Platform as a Service (PaaS) pour le déploiement d'applications dans le cloud pour des environnements web et mobiles.\n\nEnfin, les étudiants auront un aperçu de la façon de mettre en œuvre des fonctionnalités de mise en réseau avancées telles que la passerelle d'applications, la façon de configurer l’équilibrage des charges, l’intégration des réseaux sur site avec les réseaux virtuels Azure et la façon d'utiliser Network Watcher pour surveiller et dépanner les problèmes.\n\n#### Profil de l’audience\nDes architectes en solutions Azure réussies commencent dans cette fonction avec une expérience pratique des systèmes d’exploitation, de la virtualisation, de l’infrastructure du cloud, des structures de stockage, de la facturation et de la mise en réseau."
 outlineSection: |-
   ### Module 1&#58; Évaluation et exécution de la migration de serveur vers Azure
-  Ce module couvre la migration des charges de travail vers un nouvel environnement, qu'il s'agisse d'un autre centre de données ou d'un cloud public, et la définition d'objectifs clairs pour la migration. Les objectifs incluent des objectifs concentrés sur la technologie et sur les affaires pour les migrations et les avantages pour les affaires d’une entreprise. Les activités incluent des composants de la procédure de migration Azure&#58; création d'un projet, création d'un collecteur, évaluation de la préparation et estimation des coûts. En outre, vous aurez un aperçu de Azure Site Recovery (ASR) qui inclut des scénarios de bout en bout.
+  Ce module couvre la migration des charges de travail vers un nouvel environnement, qu'il s'agisse d'un autre centre de données ou d'un cloud public, et la définition d'objectifs clairs pour la migration. Les objectifs incluent des objectifs concentrés sur la technologie et sur les affaires pour les migrations et les avantages pour les affaires d’une entreprise. Les activités incluent des composants de la procédure de migration Azure &#58; création d'un projet, création d'un collecteur, évaluation de la préparation et estimation des coûts. En outre, vous aurez un aperçu de Azure Site Recovery (ASR) qui inclut des scénarios de bout en bout.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - d’évaluer et de réaliser la migration du serveur vers Azure
+  - d’évaluer et de réaliser la migration du serveur vers Azure.
 
 
   ### Module 2&#58; Mise en œuvre et gestion des services d'applications
@@ -70,14 +60,15 @@ outlineSection: |-
 
 
   ### Module 3&#58; Mise en œuvre de la mise en réseau virtuelle
-  Ce module inclut les sujets suivants&#58; équilibreur de charge Azure, passerelle d'applications Azure, connexions VPN de site à site ainsi qu’un aperçu de ExpressRoute, ce qui permet aux entreprises d’étendre des réseaux sur site dans le cloud Microsoft sur une connexion privée spécifique permise par un fournisseur de connectivité.
+  Ce module inclut les sujets suivants &#58; équilibreur de charge Azure, passerelle d'applications Azure, connexions VPN de site à site ainsi qu’un aperçu de ExpressRoute, ce qui permet aux entreprises d’étendre des réseaux sur site dans le cloud Microsoft sur une connexion privée spécifique permise par un fournisseur de connectivité.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de mettre en œuvre un réseau virtuel avancé
+  - de mettre en œuvre un réseau virtuel avancé.
 
 
   ### Module 4&#58; Sécurisation des identités
   Ce module inclut les sujets suivants avec un accent sur l’identité et les rôles&#58; protection de l'identité Azure AD, domaines et locataires Azure, utilisateurs et groupes Azure, rôles Azure ainsi qu’un aperçu d'options d'intégration Azure AD qui se concentre sur Azure AD Connect afin d'intégrer des directoires sur site avec Azure Active Directory.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de sécuriser les identités à l’aide d’Azure AD
+  - de sécuriser les identités à l’aide d’Azure AD.
+

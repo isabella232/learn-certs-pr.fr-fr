@@ -1,0 +1,157 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Marketing
+metadata:
+  title: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+  description: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+uid: course.mb-220t00
+courseNumber: 'MB-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurer les paramètres avancés.
+- skill: Gérer le contenu de marketing les modèles et les intégrations
+- skill: Créer et gérer des prospects
+- skill: Concevoir et créer des formulaires et des pages de marketing
+- skill: Créer et gérer des segments
+- skill: Définir et lancer des parcours desclients
+- skill: Créer et gérer des événements
+- skill: Distribuer et analyser des enquêtes.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Cette formation passera en revue la configuration de l’application de marketing nécessaire pour entraîner la croissance des activités. Elle se penchera également sur la gestion des prospects, les formulaires et pages de marketing, la segmentation, et les messages de marketing par courrier électronique. Toutes ces pièces sont reliées ensemble par une conception de parcours client interactive qui comprend la configuration des événements et des enquêtes.
+
+  #### Profil de l’audience
+  Cette formation est conçue pour les professionnels de l’informatique ou du marketing qui souhaitent apprendre à profiter de Dynamics 365 for Marketing pour les entreprises.
+prerequisitesSection: |-
+  Connaissance de la plateforme Dynamics 365 et compréhension des principes fondamentaux du marketing.
+outlineSection: |-
+  ### Module 1&#58;  Configuration de l’application du marketing
+  Dans ce module, vous découvrirez les paramètres avancés, le contenu de marketing, les modèles et les intégrations dans Dynamics 365 for Marketing.
+  #### Leçons
+  - Configurer les paramètres avancés
+  - Gérer le contenu de marketing et les modèles
+  - Gérer les intégrations de LinkedIn et de Power BI
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - Configurer les paramètres avancés, notamment l’organisation, la gestion métier, et le contenu.
+  - Gérer le contenu de marketing et les modèles.
+
+
+  ### Module 2&#58; Les prospects
+  Ce module passera en revue comment créer, gérer et remporter les prospects.
+  #### Leçons
+  - Créer et gérer des prospects
+  - Évaluer la préparation des ventes.
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - Créer et gérer des prospects.
+  - de synchroniser les prospects de LinkedIn.
+  - d'évaluer la préparation des ventes à l’aide de modèles de notation des prospects.
+
+
+  ### Module 3&#58;  Formulaires et pages de marketing
+  Ce module couvrira la création de formulaires et de pages pour le marketing.
+  #### Leçons
+  - Créer des formulaires pour le marketing
+  - Créer des pages pour le marketing
+  - Gérer le marketing sur internet
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer des formulaires pour le marketing et de les intégrer à des pages de marketing.
+  - de créer une page pour le marketing.
+  - de prévisualiser, de valider et de mettre en ligne une page de marketing.
+  - de créer des modèles de formulaires et de pages pour le marketing.
+
+
+  ### Module 4&#58;  Segments et listes
+  Ce module couvrira la gestion des segments, les centres d’abonnement, les listes et les opt-in doubles.
+  #### Leçons
+  - Créer et gérer des segments.
+  - Créer et gérer des centres d’abonnement.
+  - Adhésion double.
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de configurer des segments statiques et dynamiques.
+  - de créer une liste d'abonnements.
+  - de définir une page pour le centre d'abonnement.
+  - de définir et de permettre le processus d’opt-in double.
+
+
+  ### Module 5&#58; Courriers électroniques de marketing
+  Ce module couvrira la création de messages électroniques dans Dynamics 365 Marketing.
+  #### Leçons
+  - Créer un message électronique
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer et de concevoir des messages électroniques.
+  - de prévisualiser, de valider et de mettre en ligne des messages électroniques.
+  - de sauvegarder un message électronique en tant que modèle.
+
+
+  ### Module 6&#58; Parcours clients
+  Ce module passera en revue le processus de création du parcours client.
+  #### Leçons
+  - Créer des parcours personnalisés
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer un parcours client à partir d'un modèle.
+  - d'identifier les vignettes et les propriétés des parcours clients.
+  - de valider et de mettre en ligne un parcours client.
+  - de créer un parcours client axé sur le compte.
+  - de comprendre les caractéristiques du calendrier de marketing.
+
+
+  ### Module 7&#58; Perspectives
+  Ce module démontrera la manière de voir, comprendre et gérer les perspectives clients.
+  #### Leçons
+  - Perspectives de marketing
+  - Perspectives clients
+  - Perspectives d’exécution de marketing
+  - Perspectives de gestion des prospects
+  - Perspectives de marketing sur internet
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - e localiser les perspectives.
+  - Comprendre les perspectives marketing, notamment le contact, le segment, le parcours client, le message électronique de marketing, et les prospects.
+
+
+  ### Module 8&#58; Événements
+  Dans ce module, vous apprendrez à gérer et à exécuter la planification des événements dans Dynamics 365 for Marketing.
+  #### Leçons
+  - Gérer la planification des événements
+  - Gérer l'exécution des événements
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer des événements en personne ou des webinaires.
+  - Mettre en place les fonctionnalités de la planification des événements, notamment les sessions, les conférenciers, les passes pour l’événement, les listes d’attente, et les lieux.
+  - de créer et de gérer des événements récurrents.
+
+
+  ### Module 9&#58; Enquêtes
+  Dans ce module, vous passerez en revue comment configurer, concevoir et distribuer des enquêtes dans Dynamics 365 for Marketing.
+  #### Leçons
+  - Créer des sondages
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - de créer un thème de sondage réutilisable.
+  - de créer, de concevoir, de prévisualiser et de publier un sondage.
+
+
+  ### Module 10&#58; Résultats
+  Dans le module des résultats, vous passerez en revue les perspectives de l’événement marketing et de l’enquête.
+  #### Leçons
+  - Passer en revue les résultats de l’événement et du sondage
+
+  Après avoir terminé ce module, vous seront capables&#58;
+  - Utiliser le tableau de bord de l’événement pour évaluer le résultat de vos événements.

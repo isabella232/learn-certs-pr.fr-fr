@@ -1,25 +1,29 @@
 ### YamlMime:Examination
 title: Core Solutions of Microsoft Skype for Business 2015
 metadata:
-  title: 'Examen 70-334: Core Solutions of Microsoft Skype for Business 2015'
-  description: 'Examen 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  title: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  description: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
 uid: exam.70-334
 displayName: 70-334
-summary: Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience en matière de technologies Skype Entreprise et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype Entreprise pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, l'audio/vidéo et les conférences Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype Entreprise en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype Entreprise. Les candidats doivent connaître les spécifications d'intégration de Skype Entreprise avec Microsoft Exchange Server et Office 365.
-subTitle: Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience en matière de technologies Skype Entreprise et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype Entreprise pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, l'audio/vidéo et les conférences Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype Entreprise en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype Entreprise. Les candidats doivent connaître les spécifications d'intégration de Skype Entreprise avec Microsoft Exchange Server et Office 365.
+summary: |-
+  <div style='color&#58; red;'>Cet examen sera retiré le 30 juin 2020. Il est possible qu'un examen de remplacement soit disponible. Pour en savoir plus, visitez notre blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> vérifiez les postes sur le retrait des examens. Remarque: Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
+  
+  Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience dans les technologies Skype for Business et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype for Business pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, l'audio/vidéo et les conférences Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype for Business en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype for Business. Les candidats doivent connaître les spécifications d'intégration de Skype for Business avec Microsoft Exchange Server et Office 365.
+subTitle: Les candidats à cet examen sont des consultants en informatique et en télécommunications qui conçoivent, planifient, déploient et gèrent des solutions de communications unifiées (UC). Les candidats doivent être en mesure de traduire les besoins des entreprises en architecture technique et de concevoir une solution de communications unifiées. Les candidats doivent avoir un minimum de deux années d'expérience dans les technologies Skype for Business et connaître les scénarios de migration pris en charge. Les candidats doivent maîtriser le déploiement de solutions Skype for Business pour les utilisateurs finaux, les périphériques de point de terminaison, la téléphonie, l'audio/vidéo et les conférences Web, la sécurité ainsi que la haute disponibilité. Les candidats doivent également savoir comment on surveille et dépanne Skype for Business en utilisant les outils Microsoft. En outre, les candidats doivent maîtriser les services de domaine Active Directory, les réseaux de données ainsi que les normes de télécommunication et les composants nécessaires à la configuration de Skype for Business. Les candidats doivent connaître les spécifications d'intégration de Skype for Business avec Microsoft Exchange Server et Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-334
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2F70-334
-levels:
+levels: 
 - advanced
 skills:
-- Planification et conception de Skype Entreprise (35-40%)
-- Déploiement et configuration de Skype Entreprise (30-35%)
-- Gestion et résolution des problèmes de Skype Entreprise (30-35%)
+- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Planification et conception de Skype for Business (35-40 %)
+- Déploiement et configuration de Skype for Business (30-35 %)
+- Gestion et résolution des problèmes de Skype for Business (30-35 %)
 roles:
 - administrator
 products:
@@ -30,15 +34,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md

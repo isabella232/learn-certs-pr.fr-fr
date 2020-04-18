@@ -1,0 +1,101 @@
+﻿### YamlMime:Examination
+title: Developing Solutions for Microsoft Azure (beta)
+metadata:
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+uid: exam.az-204
+displayName: AZ-204
+summary: |-
+  Les candidats à cet examen sont des développeurs sur le Cloud qui participent à toutes les phases de développement, depuis la définition et la conception des exigences, au développement, déploiement, et maintenance. Ils collaborent avec des DBA de Cloud, des administrateurs de Cloud et des clients pour mettre en œuvre les solutions.
+  
+  Les candidats doivent maîtriser les kits de développement logiciel Azure, les options de stockage des données, les connexions de données, les API, l’authentification et les autorisations des applications, le déploiement informatique et de conteneurs, le débogage, le réglage des performances, et la surveillance.
+  <br/>
+  
+  Les candidats doivent posséder une expérience de développement professionnelles d’un à deux ans, et savoir utiliser Microsoft Azure. Il doivent être capable de programmer dans un langage pris en charge par Azure.
+  
+  <div style='color&#58; red;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: développer des solutions informatiques Azure; développer le stockage Azure; mettre en œuvre la sécurité Azure; surveiller, dépanner et optimiser les solutions Azure; et se connecter et consommer les services Azure et les services des tiers.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
+locales:
+- en
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+levels:
+- intermediate
+skills:
+- Développer des solutions informatiques Azure (25 à 30 %)
+- Mettre au point pour le stockage Azure (10 à 15 %)
+- Mettre en œuvre la sécurité Azure (15 à 20 %)
+- Surveiller, dépanner et optimiser les solutions Azure (10 à 15 %)
+- Se connecter et consommer les services Azure et les services des tiers (25 à 30 %)
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+relatedCertifications:
+- related:
+    uid: certification.azure-developer
+resources:
+- title: Parcours de formation en vue de la certification
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Technologies de sécurité de Microsoft Azure
 metadata:
-  title: 'Formation AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
-  description: 'Formation AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
+  title: 'Course AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
+  description: 'Course AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -35,13 +35,12 @@ summary: |-
   et à l’identification et à la correction des vulnérabilités grâce à l’utilisation d'un ensemble d’outils
   de sécurité. Cette formation couvre le scriptage et l’automatisation, la virtualisation et l’architecture
   N-tiers du cloud.
-
   #### Profil de l’audience
   Les étudiants doivent avoir au moins un an d’expérience pratique dans la sécurisation des charges de travail Azure et de l’expérience dans les contrôles de sécurité pour les charges de travail sur Azure.
-prerequisitesSection: |-  
+prerequisitesSection: |-
   [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
-  ### Module 1&#58; Identité et accès
+  ### Module  1&#58; Identité et accès
   #### Leçons
   - Configuration de Azure Active Directory pour les charges de travail et les abonnements Azure
   - Configuration de la gestion de l’identité privilégiée Azure AD
@@ -76,3 +75,4 @@ outlineSection: |-
   - Mise en œuvre de la sécurité pour le cycle de vie des applications
   - Sécurisation des applications
   - Configuration et gestion de Azure Key Vault
+

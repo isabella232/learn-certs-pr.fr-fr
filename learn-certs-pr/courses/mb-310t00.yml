@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-310
 summary: |-
-  Ce cours couvre les aspects financiers de Dynamics 365: configurer et utiliser les composants financiers essentiels, les créances, les débits, et les recouvrements, la budgétisation, les immobilisations, et des fonctionnalités supplémentaires.
+  Ce cours couvre les aspects financiers de Dynamics 365&#58; configurer et utiliser les composants financiers essentiels, les créances, les débits, et les recouvrements, la budgétisation, les immobilisations, et des fonctionnalités supplémentaires.
 
   #### Profil de l’audience
-  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+  Un Dynamics 365 for Finance Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 prerequisitesSection: |-
   Compétences de base en comptabilité. Compétences de base dans Dynamics 365 Core.
 outlineSection: |-
@@ -49,7 +49,7 @@ outlineSection: |-
 
   Vous aurez découvert les différents types de devises dans Finance and Operations. Vous connaîtrez également
 
-  ### Module 3&#58;  Créer des calendriers, des années et des périodes fiscaux
+  ### Module 3 &#58;  Créer des calendriers, des années et des périodes fiscaux
   Avant de comptabiliser les transactions, une nouvelle année fiscale doit être divisée en périodes. C’est parce qu’il n’est pas possible de publier des transactions sans créer une période pour la date de comptabilisation et la partager à travers plusieurs entités légales. Un des avantages du partage des calendriers fiscaux est que cela prend en charge de nombreux calendriers fiscaux pour chaque entité légale.
 
   L'année fiscale dans Finance and Operations peut être définie selon n’importe quelle durée et divisée en n’importe quel nombre de périodes.
@@ -60,7 +60,7 @@ outlineSection: |-
   - Laboratoire pratique
   - Résumé du module
 
-  Dans ce module, vous avez appris à&#58; faire la différence entre le grand livre et les calendriers fiscaux, à configurer et
+  Dans ce module, vous avez appris à &#58; faire la différence entre le grand livre et les calendriers fiscaux, à configurer et
 
   ### Module 4&#58;  Configurer le tableau de comptes
   Un tableau de comptes est un ensemble de comptes principaux dans Finance and Operations, qui réunit les informations financières lors de la comptabilisation d’un journal. Un numéro de compte est attribué à chaque compte en tant qu’identifiant unique.
@@ -97,7 +97,7 @@ outlineSection: |-
   - Savoir configurer et utiliser les journaux.
 
 
-  ### Module 6&#58;  Configurer la gestion de trésorerie et de banque
+  ### Module 6 &#58;  Configurer la gestion de trésorerie et de banque
   Dans Dynamics 365 for Finance and Operations, les organisations utilisent le module de gestion de trésorerie et de banque pour créer et maintenir les comptes bancaires. Le tableau du compte bancaire comprend un enregistrement pour chaque compte bancaire. Chaque enregistrement comprend des informations sur le compte bancaire, comme par exemple &#58;
   - Le numéro d’enregistrement et le numéro de compte.
   - L’adresse.
@@ -170,8 +170,8 @@ outlineSection: |-
   - Résumé du module
 
   Vous avez maintenant appris à traiter les activités quotidiennes dans le grand livre et à utiliser la vérification des journaux.
-  -Vous ont travaillé avec les comptes de contrôle de solde pour consulter les soldes des comptes bancaires ou de la trésorerie.
-  - Vous avez appris à bénéficier des modèles de bons pour Montant, qui consiste simplement à copier le montant exact
+  - Vous ont travaillé avec les comptes de contrôle de solde pour consulter les soldes des comptes bancaires ou de la trésorerie.
+  – Vous avez appris à bénéficier des modèles de bons pour Montant, qui consiste simplement à copier le montant exact
 
 
   ### Module 10&#58;  Comptabilité intersociété
@@ -185,7 +185,7 @@ outlineSection: |-
 
   Vous seront capables de définir et d’utiliser la comptabilité intersociété.
 
-  ### Module 11&#58;  Configurer les allocations et les accumulations du grand livre
+  ### Module 11 &#58;  Configurer les allocations et les accumulations du grand livre
   Finance and Operations fournissent la possibilité de prendre en charges les systèmes d'accumulations.
   #### Leçons
   - Introduction
@@ -226,7 +226,7 @@ outlineSection: |-
   - configurer les frais des créances.
 
 
-  ### Module  14&#58;  Effectuer des procédures quotidiennes de comptes créditeurs
+  ### Module 14&#58;  Effectuer des procédures quotidiennes de comptes créditeurs
   L’achat de marchandises pour la revente, comme matériaux de base pour la fabrication ou des services représente une grande responsabilité. Suivre ces achats et payer les fournisseurs qui fournissent les marchandises est tout aussi complexe.
 
   Les organisations doivent surveiller les comptes créditeurs de près et mettre en œuvre des procédures pour que la direction puisse facilement obtenir les informations financières nécessaires pour rester informée sur le changement de coût des marchandises. Afin de fournir une vue précise de la condition financière d'une entreprise, toutes les dépenses qui affectent le profit net doivent être inclues dans les créances.
@@ -263,7 +263,7 @@ outlineSection: |-
   - Configurer les politiques de validation de factures.
 
 
-  ### Module 16&#58;  Configurer le compte débiteur
+  ### Module 16 &#58;  Configurer le compte débiteur
   Vous est nécessaire de configurer le module des comptes débiteurs pour pouvoir créer des factures clients, comptabiliser des bons d’expédition, utiliser les factures à texte libre qui ne sont pas liées à des bons de commande et, finalement, recevoir des paiements à l’aide de plusieurs types de paiement différents, tels que les espèces, les chèques, les cartes de crédit et les paiements électroniques de la part des vos clients.
 
   Ce module fournit des informations sur la configuration des composants essentiels du module des comptes débiteurs et la définition des clients pour une gestion réussie des clients et des transactions des clients dans Finance and Operations
@@ -476,9 +476,9 @@ outlineSection: |-
   - Résumé du module
 
   Configurer la génération de rapports électroniques.
-  - Créer des configurations de génération de rapports électroniques.
+  – Créer des configurations de génération de rapports électroniques.
   - effectuer la clôture périodique et les processus de clôture de fin d'année,
-  - Concepteur de formules dans la génération de rapports électroniques.
+  – Concepteur de formules dans la génération de rapports électroniques.
 
 
   ### Module 28&#58;  Configurer les fonctionnalités localisées
@@ -499,10 +499,10 @@ outlineSection: |-
   Fonctionnalités de localisation et de réglementation
   - la classification des fonctionnalités de localisation,
   - comment appliquer le contexte du pays et de la région,
-  - Comment configurer et faire une démonstration des caractéristiques des établissements fiscaux et des documents fiscaux pour le Brésil.
+  – Comment configurer et faire une démonstration des caractéristiques des établissements fiscaux et des documents fiscaux pour le Brésil.
 
 
-  ### Module 29 &#58;  Configurer la gestion financière pour le secteur public
+  ### Module 29&#58;  Configurer la gestion financière pour le secteur public
   Le secteur public, également désigné par l’état ou le secteur local, est essentiellement un secteur de services qui gère le bien-être des citoyens. Le secteur local comprend des organisations dans les domaines des municipalités, de l'éducation, des soins de santé, de la sécurité publique, des travaux publics et des infrastructures, de la défense nationale, de la taxationet de divers programmes sociaux.
   #### Leçons
   - Introduction
@@ -528,3 +528,4 @@ outlineSection: |-
   - Sondage après la conclusion de la formation
 
   Vous auront terminé la formation.
+

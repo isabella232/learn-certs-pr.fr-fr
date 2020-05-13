@@ -6,13 +6,15 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Les Solution Architects (architectes en solutions) pour applications pour les finances et les opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui travaillent en tant que consultants pour des organisations et les membres de l’équipe de mise en œuvre pour préciser les besoins de l’entreprise en une solution bien définie et rentable.
 
   Un Solution Architects (architectes en solutions) est responsable de l’intégrité et de la bonne livraison de la conception de la solution complète. L’architecte offre des conseils essentiels pendant la période avant la mise sur le marché et la conception et donne des conseils pendant le reste du projet pour régler les problèmes qui se présentent tout au long de la mise en œuvre.
 
-  L’Solution Architects (architectes en solutions) doit avoir d'importantes connaissance et expérience qui couvrent les besoins de l’entreprise et les capacités des produits. L’Solution Architects (architectes en solutions) doivent avoir une importante expertise fonctionnelle et technique en tant que développeur ou en tant que consultant fonctionnel dans un des domaines suivants : finances, production ou gestion de la chaîne logistique. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
-  
-  <div style='color&#58; red;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta.</div>
+  L’Solution Architects (architectes en solutions) doit avoir d'importantes connaissance et expérience qui couvrent les besoins de l’entreprise et les capacités des produits. L’Solution Architects (architectes en solutions) doivent avoir une importante expertise fonctionnelle et technique en tant que développeur ou en tant que consultant fonctionnel dans un des domaines suivants &#58; finances, production ou gestion de la chaîne logistique. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
+
+  <div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: identifier les exigences des solutions, concevoir les composants des solutions et définir le test des solutions et des stratégies de gestion.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -22,13 +24,15 @@ locales:
 levels:
 - advanced
 skills:
-- Identifier les exigences des solutions (30 à 35 %)
-- Concevoir les composants des solutions (40 à 45 %)
-- Définir le test des solutions et des stratégies de gestion (25 à 30 %)
+- Identifier les exigences des solutions (30-35%)
+- Concevoir les composants des solutions (40-45%)
+- Définir le test des solutions et des stratégies de gestion (25-30%)
 roles:
 - solution-architect
 products:
 - dynamics
+courses:
+- uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
 relatedCertifications:
@@ -42,7 +46,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -51,8 +55,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: 'Building Applications and Solutions with Microsoft 365 Core Services'
 metadata:
   title: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
@@ -6,26 +6,28 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Les candidats à cet examen sont des Microsoft 365 Developers qui conçoivent, construisent, testent et maintiennent des applications et des solutions qui sont optimisées pour répondre aux besoins de productivité et de collaboration des organisations grâce à la plateforme Microsoft 365.
 
   Les candidats à cet examen maîtrisent Microsoft Identity et Microsoft Graph. Ils ont des connaissances générales des éléments UI (y compris Adaptive Cards et UI Fabric), des points d’intégration (y compris des équipes Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages) et de la détermination des objectifs de charge de travail de la plateforme.
 
   Les candidats doivent avoir de l’expérience dans le développement de solutions sur Microsoft Teams, Office Add-ins ou SharePoint Framework à travers toutes les phases du développement logiciel. Ils doivent avoir une compréhension de base des API REST, JSON, OAuth2, OData, OpenID Connect, les identités Microsoft (y compris les comptes Azure AD et Microsoft), Azure AD B2C, et les concepts d’autorisation/consentement.
-subTitle: "Cet examen évalue votre capacité à remplir les tâches techniques suivantes: mettre en oeuvre l’identité Microsoft, construire des applications avec Microsoft Graph, étendre et personnaliser SharePoint, étendre Teams et étendre Office."
+subTitle: 'Cet examen évalue votre capacité à remplir les tâches techniques suivantes: mettre en oeuvre l’identité Microsoft, construire des applications avec Microsoft Graph, étendre et personnaliser SharePoint, étendre Teams et étendre Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:
 - intermediate
 skills:
-- "REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive."
-- Mettre en œuvre l’identité Microsoft (20 à 25 %)
-- Construire des applications avec Microsoft Graph (20 à 25 %)
-- Étendre et personnaliser SharePoint (20 à 25 %)
-- Étendre les équipes (15 à 20 %)
-- Étendre Office (15 à 20 %)
+- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Mettre en œuvre l’identité Microsoft (20-25%)
+- Construire des applications avec Microsoft Graph (20-25%)
+- Étendre et personnaliser SharePoint (20-25%)
+- Étendre les équipes (15-20%)
+- Étendre Office (15-20%)
 roles:
 - developer
 products:
@@ -50,7 +52,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -59,8 +61,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

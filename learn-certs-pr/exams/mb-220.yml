@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen sera mis à jour en avril 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour en apprendre plus.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 19 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  </div>
+
   Les candidats à cet examen sont des consultants fonctionnels Microsoft Dynamics 365 Customer Engagement ayant une expertise en marketing. Les candidats sont responsables de la mise en œuvre de solutions qui attirent et convertissent les prospects, développent une prise de conscience de la marque, standardisent la messagerie omnicanal, et forurnissent des perspectives marketing.
 
   Les candidats sont chargés de la configuration et de l’expansion de l'application marketing de base pour inclure la messagerie marketing, la configuration, les parcours clients interactifs, l’encouragement des prospects avec des expériences personnalisées, l’intégration de LinkedIn, les événements, la voix du client, les pages de destination, la segmentation et la notation et la maintenance d’une conformité au règlement général sur la protection des données (RGPD).
@@ -22,19 +25,18 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour en avril 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour en apprendre plus.
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Configurer les paramètres des applications (5 à 10 %)
-- Gérer les segments et les listes (10 à 15 %)
-- Créer et gérer des formulaires et des pages de marketing (10 à 15 %)
-- Gérer les prospects (10 à 15 %)
-- Créer et gérer des e-mails pour le marketing (10 à 15 %)
-- Gérer les parcours des clients (15 à 20 %)
-- Gérer des événements et des webinaires (10 à 15 %)
-- Configurer et analyser les réponses des clients (10 à 15 %)
+- Le contenu de cet examen sera mis à jour le 19 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
+- Configurer les paramètres des applications (5-10%)
+- Gérer les segments et les listes (10-15%)
+- Créer et gérer des formulaires et des pages de marketing (10-15%)
+- Gérer les prospects (10-15%)
+- Créer et gérer des e-mails pour le marketing (10-15%)
+- Gérer les parcours des clients (15-20%)
+- Gérer des événements et des webinaires (10-15%)
+- Configurer et analyser les réponses des clients (10-15%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-marketing
 exams:
@@ -60,7 +62,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -69,8 +71,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -1,0 +1,237 @@
+### YamlMime:Course
+title: Microsoft Azure Administrator
+metadata:
+  title: 'Course AZ-104T00-A: Microsoft Azure Administrator'
+  description: 'Course AZ-104T00-A: Microsoft Azure Administrator'
+uid: course.az-104t00
+courseNumber: 'AZ-104T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+exams:
+- uid: exam.az-104
+summary: |-
+  Cette formation enseigne aux professionnels de l’informatique à gérer leurs abonnements Azure, à sécuriser les identités, à administrer l’infrastructure, à configurer la mise en réseau virtuelle, à connecter Azure et les sites sur site, à gérer le trafic du réseau, à mettre en œuvre des solutions de stockage, à créer et mettre à l’échelle des machines virtuelles, à mettre en œuvre des applications Web et des conteneurs, à sauvegarder et partager des données et à surveiller votre solution.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux administrateurs Azure. L’administrateur Azure met en œuvre, gère et surveille l’identité, la gouvernance, le stockage, le calcul et les réseaux virtuels dans un environnement de Cloud. L’administrateur Azure mettra en service, dimensionnera, surveillera et ajustera les ressources comme il convient.
+prerequisitesSection: |-
+  Les administrateurs Azure qui réussissent commencent dans cette fonction avec de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage et la mise en réseau.
+  - Comprendre les technologies de virtualisation sur site, ce qui inclut &#58; les machines virtuelles, la mise en réseau virtuelle et les disques durs virtuels.
+  - Comprendre la configuration du réseau, ce qui inclut TCP/IP, le système de nom de domaine (DNS), les réseaux privés virtuels (VPN), les pare-feux et les technologies de cryptage.
+  - Comprendre les concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplication, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
+  - Comprendre la résilience et la récupération après sinistre, ce qui inclut les opérations de sauvegarde et de récupération.
+outlineSection: |-
+  ###Module 1 &#58; Identité
+  Dans ce module, vous découvrirez comment sécuriser les identités avec Azure Active Directory et implémenter des utilisateurs et des groupes.
+  #### Leçons
+  - Azure Active Directory
+  - Utilisateurs et groupes.
+
+
+  #### Laboratoire &#58; Gérer les identités d'Azure Active Directory.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Sécuriser et gérer les identités avec Azure Active Directory.
+  - Mettre en œuvre et gérer les utilisateurs et les groupes.
+
+
+  ### Module 2&#58; Gouvernance et conformité.
+  Dans ce module, vous découvrirez comment gérer vos abonnements et vos comptes, mettre en œuvre les politiques d’Azure et utiliser le contrôle d’accès en fonction du rôle.
+
+  #### Leçons
+  - Abonnements et comptes.
+  - Azure Policy
+  - Contrôle d'accès en fonction du rôle (RBAC)
+
+
+  #### Laboratoire &#58; Gérer les abonnements et RBAC.
+
+  #### Laboratoire &#58; Gérer la gouvernance par le biais de la politique Azure.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Implémenter et gérer des abonnements et des comptes Azure.
+  - Mettre en œuvre la politique Azure, ce qui inclut les politiques personnalisées.
+  - Utiliser RBAC pour attribuer des autorisations.
+
+
+  ### Module 3&#58; Administration d'Azure.
+  Dans ce module, vous découvrirez les outils qu’un administrateur Azure utilise pour gérer son infrastructure. Cela inclut le portail Azure, Cloud Shell, Azure PowerShell, CLL et les modèles du gestionnaire de ressources. Ce module comprend &#58;
+  #### Leçons
+  - Azure Resource Manager
+  - Azure Portal and Cloud Shell
+  - Azure PowerShell and CLI
+  - ARM Templates
+
+
+  #### Laboratoire &#58; Gérer les ressources Azure à l’aide du portail Azure.
+
+  #### Laboratoire &#58; Gérer les ressources Azure à l’aide des modèles ARM.
+
+  #### Laboratoire &#58; Gérer les ressources Azure à l’aide d’Azure PowerShell.
+
+  #### Laboratoire &#58; Gérer les ressources Azure à l’aide d’Azure CLI.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Tirer parti du gestionnaire de ressources Azure pour organiser les ressources.
+  - Utiliser le portail Azure et Cloud Shell.
+  - Utiliser Azure PowerShell et CLI.
+  - Utiliser les modèles ARM pour déployer les ressources.
+
+
+  ### Module 4&#58; Mise en réseau virtuelle.
+  Dans ce module, vous découvrirez les concepts de la mise en réseau virtuelle de base comme les réseaux virtuels et les sous-réseaux, l’adresse IP, les groupes de sécurité du réseau, le pare-feu Azure et Azure DNS.
+  #### Leçons
+  - Réseaux virtuels.
+  - Adressage IP.
+  - Groupes de sécurité du réseau.
+  - Pare-feu Azure.
+  - Azure DNS.
+
+
+  #### Laboratoire &#58; Implémenter un réseau virtuel.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Implémenter des réseaux et des sous-réseaux virtuels.
+  - Configurer des adresses IP publiques et privées.
+  - Configurer des groupes de sécurité du réseau.
+  - Configurer le pare-feu Azure.
+  - Configurer les zones DNS privées et publiques.
+
+  ### Module 5&#58; Connectivité intersites.
+  Dans ce module, vous découvrirez les fonctionnalités de la connectivité intersites, ce qui inclut VNet Peering, les passerelles de réseaux virtuels et les connexions de site à site.
+  #### Leçons
+  - VNet Peering.
+  - Connexions de passerelles VPN.
+  - ExpressRoute et WAN virtuel.
+
+
+  #### Laboratoire &#58; Implémenter la connectivité intersites.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Connecter VNet Peering.
+  - Configurer les passerelles VPN.
+  - Choisir la solution de connectivité intersites adéquate.
+
+  ### Module 6 &#58; Gestion du trafic du réseau.
+  Dans ce module, vous découvrirez les stratégies relatives au trafic du réseau, ce qui inclut le routage du réseau et les points de terminaison des services, l’équilibreur de charge Azure, la passerelle d’applications Azure et le gestionnaire du trafic.
+
+  #### Leçons
+  - Routage du réseau et des points de terminaison.
+  - Équilibreur de charge Azure.
+  - Azure Application Gateway
+  - Gestionnaire du trafic.
+
+
+  #### Laboratoire &#58; Implémentation de la gestion du trafic.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Configurer le routage du réseau, ce qui inclut les routes personnalisées et les points de terminaison des services.
+  - Configurer un équilibreur de charge Azure.
+  - Configurer une passerelle d’applications Azure.
+  - Choisir la solution relative au trafic du réseau adéquate.
+
+  ### Module 7&#58; stockage Azure
+  Dans ce module, vous découvrirez les fonctionnalités de stockage de base, ce qui inclut les comptes de stockage, le stockage des blobs, les fichiers Azure et File Sync, la sécurité du stockage et les outils de stockage.
+
+  #### Leçons
+  - Comptes de stockage.
+  - Stockage des blobs.
+  - Sécurité du stockage.
+  - Fichiers Azure et File Sync.
+  - Gestion du stockage.
+
+
+  #### Laboratoire &#58; Gérer le stockage Azure.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Créer des comptes de stockage Azure.
+  - Configurer des conteneurs de blobs.
+  - Sécuriser le stockage Azure.
+  - Configurer les fichiers Azure et File Sync.
+  - Gérer le stockage avec des outils tels que Storage Explorer.
+
+  ### Module 8&#58; Machines virtuelles Azure.
+  Dans ce module, vous découvrirez les machines virtuelles Azure, ce qui inclut la planification, la création, la disponibilité et les extensions.
+
+  #### Leçons
+  - Planification des machines virtuelles.
+  - Création des machines virtuelles.
+  - Disponibilité des machines virtuelles.
+  - Extensions des machines virtuelles.
+
+
+  #### Laboratoire &#58; Gérer les machines virtuelles.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Planifier l’implémentation des machines virtuelles.
+  - Créer des machines virtuelles.
+  - Configurer la disponibilité des machines virtuelles, ce qui inclut les ensembles de mise à l’échelle.
+  - Utiliser les extensions des machines virtuelles.
+
+  ### Module 9&#58; Informatique sans serveur.
+  Dans ce module, vous apprendrez à administrer des fonctionnalités d’informatique sans serveur telles qu’Azure App Service, Azure Container Instances et Kubernetes.
+
+  #### Leçons
+  - Azure App Service Plans
+  - Azure App Service
+  - Container Services
+  - Azure Kubernetes Service
+
+
+  #### Laboratoire &#58; Implémenter les applications Web.
+
+  #### Laboratoire &#58; Implémenter Azure Container Instances.
+
+  #### Laboratoire &#58; Implémenter le service Kubernetes d’Azure.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Créer un plan de service pour une application.
+  - Créer une application Web.
+  - Implémenter Azure Container Instances.
+  - Implémenter le service Kubernetes d’Azure.
+
+  ### Module 10 &#58; Protection des données.
+  Dans ce module, vous découvrirez la sauvegarde des fichiers et des dossiers et la sauvegarde des machines virtuelles.
+  #### Leçons
+  - Sauvegarde des fichiers et dossiers.
+  - Sauvegarde des machines virtuelles.
+
+
+  #### Laboratoire &#58; Mettre en œuvre la protection des données.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Sauvegarder et récupérer des fichiers et des dossiers.
+  - Sauvegarder et récupérer des machines virtuelles.
+
+  ### Module 11&#58; Surveillance
+  Dans ce module, vous découvrirez la surveillance de votre infrastructure Azure, ce qui inclut Azure Monitor, les alertes et l’analyse du journal.
+
+  #### Leçons
+  - Azure Monitor.
+  - Alertes Azure.
+  - Analyse du journal.
+  - Network Watcher.
+
+
+  #### Laboratoire &#58; Implémenter la surveillance.
+
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  - Utiliser Azure Monitor.
+  - Créer des alertes Azure.
+  - Effectuer des requêtes à l'aide de l’analyse du journal.
+  - Utiliser Network Watcher.
+

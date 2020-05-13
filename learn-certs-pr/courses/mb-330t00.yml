@@ -25,7 +25,7 @@ summary: |-
   Cette formation examine la gestion de la chaîne logistique dans la suite d’applications Dynamics 365.
 
   #### Profil de l’audience
-  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+  Un Dynamics 365 for Finance Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 outlineSection: |-
   ### Module 1&#58; Gestion de l’approvisionnement
   Pour configurer l'inventaire, vous devez d'abord comprendre les opérations quotidiennes de l’inventaire. Dans cette leçon, nous discuterons d'abord des opérations d'inventaire entrantes et sortantes.
@@ -78,7 +78,7 @@ outlineSection: |-
   - utiliser les demandes et les rapports d’inventaire.
 
 
-  ### Module 4&#58;  Créer produits et des références de produits
+  ### Module 4 &#58;  Créer produits et des références de produits
   La gestion des informations du produit dans Dynamics 365 for Finance and Operations sert à la création et à la maintenance d’un référentiel des produits de l’entreprise. Il prend en charge les grandes organisations avec une approche centralisée et structurée en créant et en maintenant des données de référence essentielles telles que les définitions de produits. Les petites organisations qui exigent une approche moins centralisée peuvent créer et maintenir leurs produits respectifs, avec quelques restrictions, tandis que leurs produits sont automatiquement ajoutés au référentiel de produits partagés.
 
   Ce sujet explique comment configurer les produits pour les processus de gestion de la chaîne logistique dans Finance and Operations
@@ -129,7 +129,7 @@ outlineSection: |-
   - créer des demandes de devis.
 
 
-  ### Module 7&#58;  Configurer les collaborations avec les fournisseurs
+  ### Module 7 &#58;  Configurer les collaborations avec les fournisseurs
   Ce sujet explique comment configurer les collaborations avec les fournisseurs dans Finance and Operations
   #### Leçons
   - Introduction
@@ -143,7 +143,7 @@ outlineSection: |-
   - utiliser la collaboration avec le fournisseur dans le cadre d’un processus Procure-to-Pay.
 
 
-  ### Module 8&#58;  Configurer et effectuer des processus Purchase-to-Pay
+  ### Module 8 &#58;  Configurer et effectuer des processus Purchase-to-Pay
   Le module des bons d’achat passe en revue les processus exigés pour créer et gérer les bons d'achat dans Dynamics 365 for Finance and Operations. Une entreprise utilise des ordres d’achat pour enregistrer les informations sur les marchandises et les services qu’elle a achetés de divers fournisseurs.
   #### Leçons
   - Introduction
@@ -165,7 +165,7 @@ outlineSection: |-
   - Créer des retours aux fournisseurs
 
 
-  ### Module 9&#58;  Configurer et utiliser des accords
+  ### Module 9 &#58;  Configurer et utiliser des accords
   Ce sujet explique comment configurer et utiliser des accords dans Finance and Operations
   #### Leçons
   - Introduction
@@ -190,7 +190,7 @@ outlineSection: |-
   - Configurer les remises
 
 
-  ### Module 10&#58;  Configurer et utiliser des processus Order-to-Cash
+  ### Module 10 &#58;  Configurer et utiliser des processus Order-to-Cash
   Ce sujet explique comment configurer et utiliser les processus Order-to-Cash dans Finance and Operations
   #### Leçons
   - Introduction
@@ -216,7 +216,7 @@ outlineSection: |-
   - Effectuer les retours de la part des clients
 
 
-  ### Module 11&#58;  Configurer et utiliser des processus de contrôle et de gestion de la qualité
+  ### Module 11 &#58;  Configurer et utiliser des processus de contrôle et de gestion de la qualité
   Nous décrivons dans ce module la manière de configurer et d’utiliser le contrôle de la qualité dans Finance and Operations, la manière d'utiliser la fonctionnalité de contrôle de la qualité, la manière de définir et de maintenir le manque de conformité et la manière de gérer les corrections.
 
   Mais familiarisons-nous d'abord avec les processus généraux de gestion de la qualité.
@@ -233,7 +233,7 @@ outlineSection: |-
   - Effectuer la gestion de la quarantaine
 
 
-  ### Module 12&#58;  Configurer et utiliser les relations commerciales intersociétés
+  ### Module 12 &#58;  Configurer et utiliser les relations commerciales intersociétés
   La fonctionnalité intersociété dans Dynamics 365 for Finance and Operations fournit un mécanisme pour la consolidation des données statiques et dynamiques de plusieurs entreprises en tant qu’entités légales séparées dans une seule base de données.
 
   Le commerce intersociété permet de fournir des sites de fabrication, des centres de distribution et des filiales de vente dispersés dans le monde pour agir en qualité d’organisation unifiée.
@@ -257,7 +257,7 @@ outlineSection: |-
   - comprendre la chaîne de retours d'ordres intersociétés.
 
 
-  ### Module 13&#58;  Configurer et utiliser la planification principale
+  ### Module 13 &#58;  Configurer et utiliser la planification principale
   Ce sujet explique comment configurer et utiliser la planification principale dans Finance and Operations
   #### Leçons
   - Introduction
@@ -278,7 +278,7 @@ outlineSection: |-
   - Exécuter des plans et des ordres planifiés fermes
 
 
-  ### Module 14&#58;  Configurer la gestion des entrepôts
+  ### Module 14 &#58;  Configurer la gestion des entrepôts
   Le module de gestion des entrepôts pour Dynamics 365 for Finance and Operations aide à gérer les processus de l’entrepôt dans la fabrication, la distribution et les sociétés de vente au détail.
 
   Il comprend une vaste gamme de fonctionnalités pour prendre en charge les installations d’un entrepôt à un niveau optimal, à tout moment. La gestion des entrepôts est complètement intégrée aux autres processus métier dans Finance and Operations, tels que le transport, la fabrication, le contrôle de la qualité, les achats, les transferts, le ventes et les retours.
@@ -303,7 +303,7 @@ outlineSection: |-
   - définir et générer des étiquettes
 
 
-  ### Module 15&#58;  Configurer des périphériques mobiles pour la gestion des entrepôts
+  ### Module 15 &#58;  Configurer des périphériques mobiles pour la gestion des entrepôts
   Ce sujet explique comment configurer des périphériques mobiles dans Finance and Operations
   #### Leçons
   - Introduction
@@ -322,7 +322,7 @@ outlineSection: |-
   - préparer la mise en page des étiquettes et définir des paramètres pour l’impression des étiquettes.
 
 
-  ### Module 16&#58;  Utiliser la gestion des entrepôts
+  ### Module 16 &#58;  Utiliser la gestion des entrepôts
   Vous devez installer l’application avant de pouvoir utiliser le périphérique mobile pour la gestion de l’entrepôt. Ce sujet explique comment utiliser les processus de gestion des entrepôts dans Finance and Operations
   #### Leçons
   - Introduction
@@ -344,7 +344,7 @@ outlineSection: |-
   - Les transferts et le réapprovisionnement
 
 
-  ### Module 17&#58;  Configurer la gestion des transports
+  ### Module 17 &#58;  Configurer la gestion des transports
   Ce module donne un aperçu de la fonctionnalité de gestion des transports dans Microsoft Dynamics 365 for Finance and Operations et enseigne à configurer et utiliser la gestion des transports.
   #### Leçons
   - Introduction
@@ -371,3 +371,4 @@ outlineSection: |-
   - Sondage après la conclusion de la formation
 
   Vous auront terminé la formation.
+

@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Prouvez votre maîtrise de la mise en œuvre des services Azure qui composent la solution IoT, y compris l’analyse des données, le traitement des données, les options de stockage des données, et les options de plateforme en tant que service. Les développeurs IoT doivent être capables de reconnaître les paramètres de configuration du service Azure IoT dans la partie de code d’une solution IoT.
 subTitle: Prouvez votre maîtrise de la mise en œuvre des services Azure qui composent la solution IoT, y compris l’analyse des données, le traitement des données, les options de stockage des données, et les options de plateforme en tant que service. Les développeurs IoT doivent être capables de reconnaître les paramètres de configuration du service Azure IoT dans la partie de code d’une solution IoT.
 levels:
@@ -16,7 +18,7 @@ skills:
 - Provisionner et gérer des appareils mobiles.
 - Mettre en œuvre Edge.
 - Traiter et gérer les données.
-- Surveiller, dépanner et optimiser les solutions IoT. 
+- Surveiller, dépanner et optimiser les solutions IoT.
 - Mettre en œuvre la sécurité
 roles:
 - developer
@@ -27,6 +29,11 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -38,7 +45,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -46,3 +53,4 @@ resources:
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

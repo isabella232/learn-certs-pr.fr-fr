@@ -6,13 +6,15 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Les candidats à cet examen sont les architectes de solutions Azure qui conseillent les parties prenantes et traduisent les exigences de l'entreprise en solutions sécurisées, évolutives et fiables.
-  
+
   Les candidats doivent posséder une expérience et des connaissances avancées des opérations informatiques (IT), notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale.
-  
+
   Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
-  
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>REMARQUE&#58; Ce examen sera disponible aux environs du 28 avril 2020.</div>
+
+  <div style='font-weight&#58; bold;'><br/>REMARQUE&#58; Ce examen sera disponible aux environs du 29 juin 2020.</div>
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir la surveillance; concevoir l’identité et la sécurité; concevoir le stockage des données; concevoir la continuité des activités; et concevoir l’infrastructure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
@@ -22,11 +24,11 @@ locales:
 levels:
 - advanced
 skills:
-- Concevoir la surveillance (10 à 15 %)
-- Concevoir l’identité et la sécurité (25 à 30 %)
-- Concevoir le stockage des données (15 à 20 %)
-- Concevoir continuité des activités (10 à 15 %)
-- Concevoir d'infrastructure (25 à 30 %)
+- Concevoir la surveillance (10-15%)
+- Concevoir l’identité et la sécurité (25-30%)
+- Concevoir le stockage des données (15-20%)
+- Concevoir continuité des activités (10-15%)
+- Concevoir d'infrastructure (25-30%)
 roles:
 - solution-architect
 products:
@@ -45,7 +47,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -54,8 +56,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -7,6 +7,13 @@ uid: course.pl-900t00
 courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Décrire les composants de Power Platform : Power Apps, Power BI et Microsoft Automate'
+- skill: 'Décrire les composants de Power Platform : Common Data Service, Connectors et AI builder'
+- skill: Décrire des scénarios dans plusieurs clouds dans M365, Dynamics 365, Microsoft Azure et les services de tiers.
+- skill: Identifier les avantages et les capacités de Power Platform.
+- skill: Identifier les fonctionnalités de base et la valeur commerciale des composants de Power Platform.
+- skill: Mettre en œuvre des solutions simples avec Microsoft Automate, Power BI et Power Apps.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -18,7 +25,11 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: ""
+summary: |-
+  Connaître la valeur commerciale et les capacités du produit de Power Platform. Créer une simple application PowerApp, connecter des données avec CDS, construire un tableau de bord Power BI et automatiser un processus avec Microsoft Flow.
+
+  #### Profil de l’audience
+  Les candidats à cet examen sont des utilisateurs qui cherchent à améliorer leur productivité en automatisant les processus d'affaires, en analysant des données pour avoir des perspectives du marché et en agissant plus efficacement en créant des expériences d'application simples.
 prerequisitesSection: |-
   Par de prérequis pour cette formation
 outlineSection: |-
@@ -27,7 +38,7 @@ outlineSection: |-
   #### Leçons
   - Aperçu de Power Platform
   - Résumé du module
-  
+
   Découvrir les composants et les caractéristiques de Power Platform
   - Identifier le moment où utiliser chaque application des composants de Power Platform afin de créer des solutions pour les entreprises
   - Découvrir la valeur de l’utilisation de Power Platform pour créer des solutions pour les entreprises
@@ -42,7 +53,7 @@ outlineSection: |-
   #### Laboratoire &#58; Comment construire une application de base Canvas 1
   - Créer une application Canvas pour le personnel
   - Compléter l’application
-  
+
   #### Laboratoire &#58; Comment construire une application de base Canvas 2
   - Créer une application Canvas de sécurité
 
@@ -62,7 +73,7 @@ outlineSection: |-
   - Créer un environnement et une solution
   - Créer des entités et des relations
   - Importer des données
-  
+
   Expliquer ce que les environnements, les entités, les champs et les relations sont dans le service de données communes
   - Décrire la différence entre le service de données communes et le modèle de données communes
   - Expliquer les cas d'emploi et les limites des règles commerciales et les flux des proc
@@ -95,3 +106,4 @@ outlineSection: |-
   Décrire la valeur et les caractéristiques pour les entreprises de Power BI
   - Voir comment Power BI fonctionne et à quoi il ressemble du point de vue de l’utilisateur
   - Découvrir comment construire un tableau de bord simple dans Power BI
+

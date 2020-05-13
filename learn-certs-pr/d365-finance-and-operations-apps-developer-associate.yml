@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
-  description: Les développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
+  description: Les développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise. Les candidats fournissent des solutions entièrement réalisées en utilisant des modèles de codage d’applications standardisés, des fonctionnalités extensibles et des intégrations externes.
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise. Les candidats fournissent des solutions entièrement réalisées en utilisant des modèles de codage d’applications standardisés, des fonctionnalités extensibles et des intégrations externes.
 subTitle: Les développeurs qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 mettent en œuvre et étendent les applications pour répondre aux exigences de l’entreprise.
 levels:
 - intermediate
@@ -46,18 +49,22 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-500
 resources:
+- title: Parcours de formation en vue de la certification
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
-- title: Exam Replay
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

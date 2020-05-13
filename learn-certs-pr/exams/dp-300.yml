@@ -1,18 +1,20 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (bêta)
+title: Administering Relational Databases on Microsoft Azure (beta)
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (bêta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (bêta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Les candidats à cet examen sont des administrateurs de base de données et des spécialistes en gestion de données qui gèrent des bases de données relationnelles sur site et dans le Cloud reposant sur Microsoft SQL Server et Microsoft Azure Data Services.
-  
+
   L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. L’Administrateur des bases de données Azure utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
-  
+
   Ce rôle et responsable de la gestion, la disponibilité, la performance, la surveillance et l’optimisation des solutions de bases de données relationnelles. Ce rôle travaille avec le rôle d’ingénieur de données Azure pour gérer les aspects opérationnels des solutions de plateformes de données.
-  
-  <div style='color&#58; red;'><br/><strong>Remarque&#58; Cet examen bêta ne sera pas disponible avant le 2 avril 2020.</strong> Ces informations ne sont pas finales et des modifications mineures pourraient lui être apportées lors de la publication de l’examen bêta.</div>
+
+  <div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier et mettre œuvre des ressources de plateformes de données; mettre en œuvre un environnement sécurisé; surveiller et optimiser les ressources d’exploitation; optimiser la performance des requêtes; effectuer une automatisation des tâches; planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR); et effectuer l’administration à l’aide de T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -22,24 +24,27 @@ locales:
 levels:
 - intermediate
 skills:
-- Planifier et mettre œuvre des ressources de plateformes de données (15 à 20 %)
-- Mettre en œuvre un environnement sécurisé (15 à 20 %)
-- Surveiller et optimiser les ressources d’exploitation (15 à 20 %)
-- Optimiser la performance des requêtes (5 à 10 %)
-- Effectuer une automatisation des tâches (10 à 15 %)
-- Planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR) (15 à 20 %)
-- Effectuer l’administration à l’aide de T-SQL (10 à 15 %)
+- Planifier et mettre œuvre des ressources de plateformes de données (15-20%)
+- Mettre en œuvre un environnement sécurisé (15-20%)
+- Surveiller et optimiser les ressources d’exploitation (15-20%)
+- Optimiser la performance des requêtes (5-10%)
+- Effectuer une automatisation des tâches (10-15%)
+- Planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR) (15-20%)
+- Effectuer l’administration à l’aide de T-SQL (10-15%)
 roles:
-- administrator
+- database-administrator
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 relatedCertifications:
 - related:
-   uid: certification.azure-database-administrator-associate
+    uid: certification.azure-database-administrator-associate
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -48,7 +53,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -57,8 +62,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -1,4 +1,4 @@
-﻿### YamlMime:Course
+### YamlMime:Course
 title: Migrate NoSQL workloads to Azure Cosmos DB
 metadata:
   title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
@@ -26,7 +26,7 @@ summary: |-
   #### Profil de l’audience
   Les principaux candidats à cette formation sont les développeurs de bases de données qui prévoient la migration de leurs charges de travail Mongo DB et Cassandra DB vers Azure à l’aide de Cosmos DB.
 prerequisitesSection: |-
-  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes &#58;
   - Les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour créer et configurer des applications évolutives NoSQL indépendantes d’une API de Cosmos DB.
 outlineSection: |-
   ### Module 1&#58; Développer des applications distribuées sur le plan mondial avec Cosmos DB
@@ -60,7 +60,7 @@ outlineSection: |-
   - Réalisation de la migration
   - Vérification de la migration
 
-  À la fin de ce module, les étudiants seront capables &#58;
+  À la fin de ce module, les étudiants seront capables de &#58;
   - Comprendre les avantages de la migration.
   - Effectuer la planification de la migration.
   - Effectuer la migration des données
@@ -84,7 +84,7 @@ outlineSection: |-
   - Déplacer les données à l’aide de Spark.
   - Vérification de la migration
 
-  À la fin de ce module, les étudiants seront capables &#58;
+  À la fin de ce module, les étudiants seront capables de&#58;
   - Comprendre les avantages de la migration.
   - Effectuer la planification de la migration.
   - Effectuer la migration des données
@@ -93,3 +93,4 @@ outlineSection: |-
 
   #### Lecture supplémentaire
   Aucune lecture supplémentaire n’est requise pour suivre cette formation.
+

@@ -22,13 +22,13 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Cette formation traite de la fabrication dans la suite d’applications Dynamics 365 : la fabrication discrète, la fabrication allégée, et la production.
+  Cette formation traite de la fabrication dans la suite d’applications Dynamics 365 &#58; la fabrication discrète, la fabrication allégée, et la production.
 
   #### Profil de l’audience
-  Un Dynamics 365 for Finance and Operations Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+  Un Dynamics 365 for Finance Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 prerequisitesSection: |-
-  – Les compétences de base de la fabrication.
-  – Les compétences de Dynamics 365 Core.
+  - Les compétences de base de la fabrication.
+  - Les compétences de Dynamics 365 Core.
 outlineSection: |-
   ### Module 1&#58;  Débuter avec le contrôle de la production
   Ce module explique les concepts utilisés dans le module de contrôle de la production dans Finance and Operations
@@ -40,7 +40,7 @@ outlineSection: |-
   - Comprendre la planification de la capacité
   - Module du grand livre et du contrôle de la production
   - Laboratoires pratiques
-  - Résumé
+  - Summary
 
   Les méthodologies de la fabrication discrète, allégée et de processus
   - la fabrication unifiée
@@ -66,7 +66,7 @@ outlineSection: |-
   - les statuts des processus de fabrication
   - les étapes de la fabrication
   - nomenclature (BOM)
-  - les ressources
+  - Resources
   - les routes et les opérations
 
 
@@ -244,11 +244,11 @@ outlineSection: |-
   - Résumé du module
 
   Configurer et travailler conformément aux règles kanban.
-  - Configurer et travailler avec les kanban de fabrication.
-  - Configurer et travailler avec les kanban de retrait.
-  - Configurer et travailler avec la création et la gestion des kanban planifiés.
-  - Configurer et travailler avec la planification des livraisons.
-  - Configurer et travailler avec les calculs des quantités kanban.
+  – Configurer et travailler avec les kanban de fabrication.
+  – Configurer et travailler avec les kanban de retrait.
+  – Configurer et travailler avec la création et la gestion des kanban planifiés.
+  – Configurer et travailler avec la planification des livraisons.
+  – Configurer et travailler avec les calculs des quantités kanban.
 
 
   ### Module 13&#58;  Configurer la sous-traitance basée sur l’activité et les coûts des flux de production
@@ -289,7 +289,7 @@ outlineSection: |-
   - Comprendre les fournisseurs approuvés
 
 
-  ### Module 15&#58;  Identifier et configurer les attributs des lots pour la fabrication en processus
+  ### Module 15 &#58;  Identifier et configurer les attributs des lots pour la fabrication en processus
   Ce sujet explique comment configurer les attributs des lots dans Finance and Operations
 
   #### Leçons
@@ -306,7 +306,7 @@ outlineSection: |-
   - Configurer le remaniement de lot
 
 
-  ### Module 16&#58;  Configurer la tarification des commodités et la conformité des produits
+  ### Module 16 &#58;  Configurer la tarification des commodités et la conformité des produits
   Ce sujet explique comment travailler avec la tarification des commodités et la conformité dans Finance and Operations
   #### Leçons
   - Introduction
@@ -350,3 +350,4 @@ outlineSection: |-
   - Résumé de la formation
 
   Vous avez terminé la formation.
+

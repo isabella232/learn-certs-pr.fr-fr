@@ -33,17 +33,17 @@ summary: |-
   Microsoft Power Platform aide les organisations à optimiser leurs opérations en automatisant les tâches de routine et en uniformisant les meilleures pratiques. Cette formation donne un aperçu approfondi des capacités de Microsoft Dynamics 365 et de Power Platform et fournit une base pour d'autres offres de formation de Microsoft Dynamics 365 et Power Platform. Les sujets de haut niveau comprennent la configuration d’applications, les opportunités d’automatisation, l’intégration, le contrôle, et le déploiement.
 
   #### Profil de l’audience
-  Un Dynamics 365 Customer Engagement Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager des experts du domaine et des parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+  Un Dynamics 365 Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
 outlineSection: |-
   ### Module 1&#58; Présentation de Power Platform
-  Dans ce module, vous apprendrez les principes de base de Power Platform. Vous ferez le tour des divers portails d’administrateur et vous installerez des applications.
+  Dans ce module, vous apprendrez les principes de base de Power Platform.  Vous ferez le tour des divers portails d’administrateur et vous installerez des applications.
   #### Leçons
   - Aperçu
   - Configurer les environnements de Power Platform
   - Créer des applications
   - Découvrir et planifier
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - d'identifier les composants communs de la plateforme et leurs utilisations.
 
 
@@ -56,7 +56,7 @@ outlineSection: |-
   - Autres options du site
   - Internationalisation
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - créer et d'utiliser les relations et les entités.
 
 
@@ -70,10 +70,10 @@ outlineSection: |-
   - Configurer des tableaux de bord axés sur les modèles
   - Configurer des rapports
 
-  Après avoir terminé ce module, vous seront capables&#58;
-  – Créer et modifier des formulaires.
-  – Créer et modifier les affichages et les tableaux de bord.
-  – Identifier et utiliser les composants des expériences d’autres utilisateurs.
+  Après avoir terminé ce module, vous seront capables de &#58;
+  - Créer et modifier des formulaires.
+  - Créer et modifier les affichages et les tableaux de bord.
+  - Identifier et utiliser les composants des expériences d’autres utilisateurs.
 
 
   ### Module 4&#58; Applications de toile
@@ -84,7 +84,7 @@ outlineSection: |-
   - Personnaliser l’expérience utilisateur
   - Intégration à des applications axées sur les modèles
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - créer une application de toile.
   - travailler avec les données communes (CDS).
 
@@ -98,7 +98,7 @@ outlineSection: |-
   - Gérer des équipes
   - Configurer la sécurité hiérarchique
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   – Créer et utiliser des unités métiers.
   – Créer, modifier et utiliser des rôles de sécurité.
 
@@ -108,7 +108,7 @@ outlineSection: |-
   #### Leçons
   – Présentation de l’automatisation.
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   – Identifier les capacités d’automatisation communes des plateformes.
 
 
@@ -118,7 +118,7 @@ outlineSection: |-
   - Introduction aux règles métiers
   - Détail supplémentaires sur les règles métiers
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - créer et d'utiliser des règles métiers.
 
 
@@ -129,7 +129,7 @@ outlineSection: |-
   - Développement des flux de travail
   – Flux de travail avancés.
 
-  Après avoir terminé ce module, vous seront capables &#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de créer et d'utiliser des flux de travail.
 
 
@@ -143,7 +143,7 @@ outlineSection: |-
   - Commencer à partir des applications
   - Considérations de déploiement de flux
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de créer et d'utiliser Microsoft Flows.
 
 
@@ -154,23 +154,23 @@ outlineSection: |-
   - Configurer les flux de processus métier
   – Détails supplémentaires sur les flux de processus métier.
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de créer et d'utiliser des flux de processus métier.
 
 
-  ### Module 11&#58; Introduction aux intégrations
+  ### Module 11 &#58;  Introduction aux intégrations
   Dans ce module, vous apprendrez les principes de base des capacités d’intégration de Power Platform.  Vous apprendrez à configurer et à utiliser les intégrations de courrier électronique.
   #### Leçons
   - Aperçu des scénarios communs
   - Intégration du courrier électronique
   - Intégration d’Outlook
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - d'identifier les intégrations communes,
   – Configurer et utiliser les intégrations de courrier électronique.
 
 
-  ### Module 12&#58;  Intégration avec Office
+  ### Module 12 &#58;  Intégration avec Office
   Dans ce module, vous apprendrez l’intégration avec les produits communs Office, notamment OneNote, Word et Excel.
   #### Leçons
   - Modèles
@@ -178,7 +178,7 @@ outlineSection: |-
   - Microsoft Teams
   – Intégrations supplémentaires.
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de configurer et d'utiliser des intégrations avec les produits Office.
 
 
@@ -191,7 +191,7 @@ outlineSection: |-
   - Exporter des données
   - Supprimer en bloc
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - Importer et exporter des données.
   - Créer et utiliser des cartes de données.
   - Effectuer des suppressions en bloc.
@@ -203,7 +203,7 @@ outlineSection: |-
   - Aperçu
   - Gérer des applications
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de permettre et de mettre à jour des applications de première partie.
   - d'installer des applications tierces.
 
@@ -217,7 +217,7 @@ outlineSection: |-
   - Distribuer des solutions
   - Travailler avec des solutions gérées
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   – Créer des solutions.
   – Déployer des personnalisations.
 
@@ -229,6 +229,7 @@ outlineSection: |-
   - Paramètres de configuration des appareils mobiles
   - Configuration des appareils mobiles
 
-  Après avoir terminé ce module, vous seront capables&#58;
+  Après avoir terminé ce module, vous seront capables de &#58;
   - de configurer pour les appareils mobiles.
   - de déployer des composants.
+

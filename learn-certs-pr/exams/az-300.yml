@@ -6,10 +6,13 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, AZ-303, SERA DISPONIBLE AUX ENVIRONS DU 28 AVRIL 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du mardi 28 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
-  
-  Les candidats à cet examen sont des Azure Solution Architects qui conseillent les parties prenantes et traduisent les exigences des entreprises en solutions sécurisées, évolutives et fiables. Les candidats doivent posséder une expérience et des connaissances avancées dans divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la gestion des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale. Les candidats doivent maîtriser l'administration Azure, la mise au point Azure et DevOps et avoir des compétences de niveau expert dans au moins un de ces domaines.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: déployer et configurer des infrastructures, mettre en œuvre des charges de travail et la sécurité, créer et déployer des applications, mettre en œuvre l’authentification et sécuriser les données et mettre au point pour le cloud et le stockage Azure.'
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-303">AZ-303</a>, SERA DISPONIBLE AUX ENVIRONS DU 29 juin 2020. Vous pourrez passer cet examen avant son retrait aux alentours du 30 septembre 2020.<br/><br/>En outre, le contenu de cet examen sera mis à jour le 2 juin 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  </div>
+
+  Les candidats à cet examen sont des Azure Solution Architects qui conseillent les parties prenantes et traduisent les exigences des entreprises en solutions sécurisées, évolutives et fiables. Les candidats doivent posséder une expérience et des connaissances avancées dans divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la gestion des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale. Les candidats doivent maîtriser l'administration Azure, le développement Azure et DevOps, ainsi que des compétences de niveau expert dans au moins un de ces domaines.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : déployer et configurer des infrastructures, mettre en œuvre des charges de travail et la sécurité, créer et déployer des applications, mettre en œuvre l’authentification et sécuriser les données et mettre au point pour le cloud et le stockage Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -22,13 +25,13 @@ locales:
 levels:
 - advanced
 skills:
-- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-303, SERA DISPONIBLE AUX ENVIRONS DU 28 AVRIL 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du mardi 28 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Déployer et configurer l'infrastructure (40 à 45 %)
-- Mettre en œuvre des charges de travail et la sécurité (25 à 30 %)
-- Créer et déployer des applications (5 à 10 %)
-- Mettre en œuvre une authentification et des données sécurisées (5 à 10 %)
-- Mettre au point pour le cloud et le stockage Azure (15 à 20 %)
+- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-303, SERA DISPONIBLE AUX ENVIRONS DU 29 JUIN 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du 30 septembre 2020. En outre, le contenu de cet examen sera mis à jour le 2 juin 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
+- Déployer et configurer l'infrastructure (40-45%)
+- Mettre en œuvre des charges de travail et la sécurité (25-30%)
+- Créer et déployer des applications (5-10%)
+- Mettre en œuvre une authentification et des données sécurisées (5-10%)
+- Mettre au point pour le cloud et le stockage Azure (15-20%)
+retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:
@@ -86,7 +89,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
@@ -95,8 +98,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -13,12 +13,12 @@ subTitle: L’administrateur de base de données Azure met en œuvre et gère le
 levels:
 - intermediate
 skills:
-- Planifier et mettre œuvre des ressources de plateformes de données.
-- Mettre en œuvre un environnement sécurisé.
-- Surveiller et optimiser les ressources d’exploitation.
-- Optimiser la performance des requêtes.
-- Effectuer une automatisation des tâches.
-- Planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR).
+- Planifier et mettre œuvre des ressources de plateformes de données
+- Mettre en œuvre un environnement sécurisé
+- Surveiller et optimiser les ressources d’exploitation
+- Optimiser la performance des requêtes
+- Effectuer une automatisation des tâches
+- Planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR)
 - Effectuer l’administration à l’aide de T-SQL
 roles:
 - database-administrator

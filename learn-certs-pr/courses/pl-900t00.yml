@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Décrire les composants de Power Platform : Power Apps, Power BI et Microsoft Automate'
-- skill: 'Décrire les composants de Power Platform : Common Data Service, Connectors et AI builder'
+- skill: 'Décrire les composants de Power Platform: Power Apps, Power BI et Microsoft Automate'
+- skill: 'Décrire les composants de Power Platform: Common Data Service, Connectors et AI builder'
 - skill: Décrire des scénarios dans plusieurs clouds dans M365, Dynamics 365, Microsoft Azure et les services de tiers.
 - skill: Identifier les avantages et les capacités de Power Platform.
 - skill: Identifier les fonctionnalités de base et la valeur commerciale des composants de Power Platform.

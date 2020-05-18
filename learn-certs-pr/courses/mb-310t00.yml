@@ -124,7 +124,7 @@ outlineSection: |-
   - configurer les prévisions et les rapports de trésorerie.
 
 
-  ### Module 7&#58;  Utiliser la gestion de trésorerie et de banque
+  ### Module 7&#58; Utiliser la gestion de trésorerie et de banque
   Ce module couvre les principales procédures du module de gestion de trésorerie et de banque dans Finance and Operations
 
   Vous apprendrez à travailler avec les espaces de travail de gestion de la trésorerie et des banques, notamment la gestion des banques et les bilans de trésorerie. Vous ont également découvert les processus et procédures de la gestion de trésorerie et de banque, comme les dépôts et l’annulation des paiements (dépôts).
@@ -146,7 +146,7 @@ outlineSection: |-
   - Supprimer des paiements.
 
 
-  ### Module 8&#58;  Configurer les lettres de crédit et les garanties
+  ### Module 8&#58; Configurer les lettres de crédit et les garanties
   Vous avez maintenant découvert les lettres bancaires, la manière de configurer les lettres de crédit afin de créer des documents bancaires couramment utilisés pour l’achat et la vente de marchandises à travers des frontières internationales, et des lettres de garantie dans lesquelles une banque accepte de payer un montant spécifique à une personne sur l’un des clients de la banque est en retard de paiement ou des obligations à cette personne.
   #### Leçons
   - Introduction
@@ -156,7 +156,7 @@ outlineSection: |-
 
   Vous comprendront ce que sont les lettres bancaires et les lettres de crédit et de garantie.
 
-  ### Module  9&#58;  Effectuer des procédures quotidiennes
+  ### Module  9&#58; Effectuer des procédures quotidiennes
   Chaque comptabilisation manuelle est saisie dans Finance and Operations par le biais d'un journal. Un journal est un type de feuille de calcul où les entrées ne sont pas immédiatement publiées. Vous est possible de passer en revue, modifier et vérifier les journaux complétés jusqu’à ce qu’ils soient prêts à être comptabilisés.
 
   Un modèle de bon est un bon qui peut être utilisé comme base pour de futurs bons dans d’autres entrées de journal. Vous est possible d'utiliser des modèles de bons avec un journal général ou avec n’importe quel journal financier du grand livre auxiliaire tels que les journaux des comptes créditeurs ou débiteurs.
@@ -174,7 +174,7 @@ outlineSection: |-
   – Vous avez appris à bénéficier des modèles de bons pour Montant, qui consiste simplement à copier le montant exact
 
 
-  ### Module 10&#58;  Comptabilité intersociété
+  ### Module 10&#58; Comptabilité intersociété
   La comptabilité intersociété peut aider les organisations à fournir un point d’entrée unique aux transactions qui doivent être enregistrées dans plusieurs entreprises. Effectuer les transactions à partir d’une seule entreprise économise le temps de saisie des données et aide à garantir que les transactions qui affectent plusieurs entreprises sont enregistrées dans chacune d’elles.
 
   Finance and Operations aident également à suivre les entrées intersociétés dans le système. Elles fournissent la fonctionnalité exigée par la plupart des entreprises qui traitent des opérations intersociétés. Cela comprend la capacité d’enregistrer efficacement des bons de commande, des bons d'achat et des paiements en espèces à un niveau intersociété.
@@ -185,7 +185,7 @@ outlineSection: |-
 
   Vous seront capables de définir et d’utiliser la comptabilité intersociété.
 
-  ### Module 11 &#58;  Configurer les allocations et les accumulations du grand livre
+  ### Module 11 &#58; Configurer les allocations et les accumulations du grand livre
   Finance and Operations fournissent la possibilité de prendre en charges les systèmes d'accumulations.
   #### Leçons
   - Introduction
@@ -208,7 +208,7 @@ outlineSection: |-
   - les codes de la taxe de vente constituent le composant principal dans la définition des calculs fiscaux et la connexion aux autres composants.
 
 
-  ### Module 13&#58;  Configurer le compte créditeur
+  ### Module 13&#58; Configurer le compte créditeur
   Dynamics 365 for Finance and Operations offre une fonctionnalité élargie pour définir les différentes options de paiement aux fournisseurs.
   #### Leçons
   - Comprendre la fonctionnalité d’enregistrement de tâches
@@ -245,7 +245,7 @@ outlineSection: |-
   - Comment gérer les paiements d’avance aux fournisseurs.
 
 
-  ### Module  15&#58;  Utiliser la distribution comptable et les validations de factures
+  ### Module  15&#58; Utiliser la distribution comptable et les validations de factures
   Ce module explique comment régler les transactions, annuler le règlement et distribuer les fonds à l’aide des distributions comptables. Vous apprendront également à effectuer la correspondance des factures.
 
   Les distributions comptables sont utilisées pour définir la manière de comptabiliser un montant, comme par exemple la manière de comptabiliser la dépense, la taxe ou les frais sur une facture de fournisseur. Chaque montant qui doit être comptabilisé pour la journalisation de la facture du fournisseur aura une distribution comptable ou plus.
@@ -263,7 +263,7 @@ outlineSection: |-
   - Configurer les politiques de validation de factures.
 
 
-  ### Module 16 &#58;  Configurer le compte débiteur
+  ### Module 16&#58; Configurer le compte débiteur
   Vous est nécessaire de configurer le module des comptes débiteurs pour pouvoir créer des factures clients, comptabiliser des bons d’expédition, utiliser les factures à texte libre qui ne sont pas liées à des bons de commande et, finalement, recevoir des paiements à l’aide de plusieurs types de paiement différents, tels que les espèces, les chèques, les cartes de crédit et les paiements électroniques de la part des vos clients.
 
   Ce module fournit des informations sur la configuration des composants essentiels du module des comptes débiteurs et la définition des clients pour une gestion réussie des clients et des transactions des clients dans Finance and Operations
@@ -298,7 +298,7 @@ outlineSection: |-
   - Traiter les commandes, enregistrer les factures et procéder aux paiements
 
 
-  ### Module 18&#58;  Configurer le crédit et le recouvrement
+  ### Module 18&#58; Configurer le crédit et le recouvrement
   Bien que la plupart des clients paient leurs factures à temps, vous faut être capable de traiter les factures qui ne sont pas payées dans les délais.
 
   Ce sujet explique comment gérer les clients mauvais payeurs en configurant le module de crédit et de recouvrement dans Dynamics 365 for Finance and Operations. Pour utiliser le module de crédit et de collecte, vous devrez avoir déjà complété la configuration des comptes débiteurs.
@@ -318,7 +318,7 @@ outlineSection: |-
   - définir et gérer les lettres de recouvrement.
 
 
-  ### Module 19&#58;  Traiter le crédit et le recouvrement
+  ### Module 19&#58; Traiter le crédit et le recouvrement
   Bien que la plupart des clients paient leurs factures à temps, vous faut être capable de traiter les factures qui ne sont pas payées dans les délais.
 
   Ce sujet explique comment traiter le crédit et le recouvrement.
@@ -333,7 +333,7 @@ outlineSection: |-
   - comment traiter le recouvrement.
 
 
-  ### Module 20&#58;  Configurer les chèques postdatés
+  ### Module 20&#58; Configurer les chèques postdatés
   Les chèques postdatés sont des chèques qui sont émis pour effectuer ou recevoir des paiements à des dates futures. Ainsi, le chèque ne peut être encaissé jusqu’à la date indiquée.
 
   Microsoft Dynamics 365 for Finance and Operations prend en charge le cycle de gestion complet des chèques postdatés dans les comptes débiteurs et créditeurs. Ce sujet explique comment définir et traiter les chèques postdatés.
@@ -371,7 +371,7 @@ outlineSection: |-
   - créer et utiliser les entrées de registre budgétaire.
 
 
-  ### Module 22&#58;  Configurer et utiliser les processus de planification budgétaire
+  ### Module 22&#58; Configurer et utiliser les processus de planification budgétaire
   Avec la fonctionnalité de la planification budgétaire, vous est possible de consolider plusieurs plans budgétaires d’un niveau inférieur en un plan budgétaire parent unique à un niveau supérieur de l’organisation. On appelle cela l’approche ascendante de planification budgétaire qui permet à un planificateur de budget d'agréger d'autres plans dans un niveau supérieur ou dans un plan d’entreprise pour la budgétisation.
 
   Vous est également aussi possible d'adopter l’approche descendante qui nécessite le développement d’un plan budgétaire unique à un niveau supérieur de l’organisation et l’allocation du budget à des niveaux inférieurs de l’organisation. Utilisez cette méthode lorsque vous vous basez sur les transactions financières historiques de votre entreprise et que vous créez un plan centralisé qui peut être réparti entre différentes unités opérationnelles définies par une hiérarchie d’organisation à des fins de planification budgétaire.
@@ -392,7 +392,7 @@ outlineSection: |-
   - créer un plan budgétaire à l’aide de l’assistant du plan budgétaire.
 
 
-  ### Module 23&#58;  Configurer la gestion des actifs immobilisés
+  ### Module 23&#58; Configurer la gestion des actifs immobilisés
   Ce module débute par l’explication des concepts des actifs immobilisés et montre ensuite vous comment configurer et utiliser le module des actifs immobilisés dans Dynamics 365 for Finance and Operations.
   #### Leçons
   - Introduction
@@ -408,7 +408,7 @@ outlineSection: |-
   - Créer des actifs immobilisés
 
 
-  ### Module 24&#58;  Gérer les actifs immobilisés
+  ### Module 24&#58; Gérer les actifs immobilisés
   Pour enregistrer les transactions d'actifs immobilisés en utilisant des journaux, vous faut créer au moins un nom de journal en utilisant le type de journal 'comptabilisation des actifs immobilisés' dans la définition du module du grand livre. Si des budgets d’actifs immobilisés sont exigés, vous faut également créer un nom de journal qui utilise le type de journal 'budget d'actifs immobilisés'. Ce module explique comment traiter et gérer les actifs immobilisés.
   #### Leçons
   - Introduction
@@ -421,7 +421,7 @@ outlineSection: |-
   - effectuer une cession liée aux actifs immobilisés.
 
 
-  ### Module 25&#58;  Configurer et utiliser la comptabilité des coûts
+  ### Module 25&#58; Configurer et utiliser la comptabilité des coûts
   La comptabilité des coûts vous permet de recueillir des données de sources variées, telles que le grand livre, les grands livres auxiliaires, les budgets et les informations statistiques. Vous est alors possible d'analyser, de résumer et d’évaluer les données des coûts, afin que la direction puisse prendre les meilleures décisions possibles pour les mises à jour des prix, les budgets, le contrôle de coûts et ainsi de suite. La donnée source utilisée pour l’analyse des coûts est traitée indépendamment dans la comptabilité des coûts. Par conséquent, les mises à jour de la comptabilité des coûts n’affectent pas la donnée source.
   #### Leçons
   - Introduction
@@ -433,7 +433,7 @@ outlineSection: |-
   - comment créer un rapport comptable des coûts à l’aide de l’assistant de début des services de comptabilité des coûts.
 
 
-  ### Module 26&#58;  Configurer et utiliser les processus périodiques
+  ### Module 26&#58; Configurer et utiliser les processus périodiques
   Dans le grand livre, vous pouvez compléter les procédures de clôture pour une période ou pour un an. Les processus de clôture préparent le système pour une nouvelle période.
 
   Il y a de nombreuses tâches telles que la préparation des déclarations, la clôture de l’inventaire, la consolidation et de nombreux autres besoins doivent être complétés avant.
@@ -451,8 +451,8 @@ outlineSection: |-
   - Résumé du module
 
   Configurer la clôture d’une période financière
-  - réconcilier les banques,
-  - effectuer la clôture périodique et les processus de clôture de fin d'année,
+  - réconcilier les banques
+  - effectuer la clôture périodique et les processus de clôture de fin d'année
   - Préparer des déclarations périodiques
   - Configure and test Vendor 1099s process
   - Exécuter des processus de réévaluation des devises étrangères
@@ -461,7 +461,7 @@ outlineSection: |-
   - procéder au rapport de taxe de fin d'année.
 
 
-  ### Module 27&#58;  Configurer le cadre de notification électronique
+  ### Module 27&#58; Configurer le cadre de notification électronique
   La notification électronique générique (GER) ou simplement la notification électronique (ER) est un outil configurable pour la notification réglementaire les paiements et la facturation électronique.
 
   L’engin de notification électronique cible les utilisateurs professionnels plutôt que les développeurs. Comme vous configurez des formats au lieu de codes, les processus de création et d’ajustement des formats des documents électroniques sont plus rapides et plus faciles.
@@ -476,12 +476,12 @@ outlineSection: |-
   - Résumé du module
 
   Configurer la génération de rapports électroniques.
-  – Créer des configurations de génération de rapports électroniques.
+  - Créer des configurations de génération de rapports électroniques.
   - effectuer la clôture périodique et les processus de clôture de fin d'année,
   – Concepteur de formules dans la génération de rapports électroniques.
 
 
-  ### Module 28&#58;  Configurer les fonctionnalités localisées
+  ### Module 28&#58; Configurer les fonctionnalités localisées
   Dynamics 365 for Finance and Operations comprend des fonctionnalités pour les pays et les régions, documentées dans la localisation du produit et le guide de disponibilité de la traduction.
 
   Ce module explique comment configurer certains exemples de fonctionnalités régionales dans Finance and Operations Veuillez lire les informations sur la page des fonctionnalités de localisation et de réglementation pour rester à jour avec la fonctionnalité régionale Finance and Operations pour tous les pays et toutes les régions.
@@ -499,10 +499,10 @@ outlineSection: |-
   Fonctionnalités de localisation et de réglementation
   - la classification des fonctionnalités de localisation,
   - comment appliquer le contexte du pays et de la région,
-  – Comment configurer et faire une démonstration des caractéristiques des établissements fiscaux et des documents fiscaux pour le Brésil.
+  - Comment configurer et faire une démonstration des caractéristiques des établissements fiscaux et des documents fiscaux pour le Brésil.
 
 
-  ### Module 29&#58;  Configurer la gestion financière pour le secteur public
+  ### Module 29&#58; Configurer la gestion financière pour le secteur public
   Le secteur public, également désigné par l’état ou le secteur local, est essentiellement un secteur de services qui gère le bien-être des citoyens. Le secteur local comprend des organisations dans les domaines des municipalités, de l'éducation, des soins de santé, de la sécurité publique, des travaux publics et des infrastructures, de la défense nationale, de la taxationet de divers programmes sociaux.
   #### Leçons
   - Introduction

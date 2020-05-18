@@ -49,7 +49,7 @@ summary: |-
   Ce rôle sécurise de manière proactive les environnements d’entreprise de Microsoft 365. Les responsabilités englobent la réponse aux menaces, la mise en œuvre, la gestion et la surveillance des solutions de sécurité et de conformité de l’environnement Microsoft 365. Elles répondent aux incidents, aux enquêtes et à l'application de la gouvernance des données.
   L’administrateur de la sécurité Microsoft 365 est familier avec les charges de travail et les environnements hybrides Microsoft 365. Ce rôle possède de l’expérience et des compétences solides dans la protection de l’identité, la protection des informations, la protection contre les menaces, la gestion de la sécurité et la gouvernance des données.
 prerequisitesSection: |-
-  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes &#58;
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
   - Avoir une compréhension conceptuelle de base de Microsoft Azure.
   - De l’expérience avec les périphériques Windows 10.
   - De l’expérience avec Office 365.
@@ -57,7 +57,7 @@ prerequisitesSection: |-
   - Avoir une compréhension de base des réseaux informatiques.
   - Avoir une connaissance pratique de la gestion des périphériques mobiles.
 outlineSection: |-
-  ### Module 1 &#58; Protection utilisateur et de groupe
+  ### Module 1&#58; Protection utilisateur et de groupe
   Ce module explique comment gérer les comptes utilisateurs et les groupes dans Microsoft 365. Il vous présente la gestion d'identité privilégiée dans Azure AD ainsi que la protection de l’identité. Le module définit les fondations du reste de la formation.
   #### Leçons
   - Concepts de gestion de l’identité et de l’accès.
@@ -68,11 +68,11 @@ outlineSection: |-
   - Protection de l'identité Azure AD
 
 
-  #### Travaux pratiques &#58; Initialiser votre locataire d’essai.
+  #### Travaux pratiques&#58; Initialiser votre locataire d’essai.
   - Créer votre locataire Microsoft 365.
 
 
-  #### Travaux pratiques &#58; Configurer la gestion de l’identité privilégiée.
+  #### Travaux pratiques&#58; Configurer la gestion de l’identité privilégiée.
   - Découvrir et gérer les ressources Azure.
   - Attribuer des rôles Directory
   - Activer et désactiver les rôles de gestion de l’identité privilégiée (PIM).
@@ -80,7 +80,7 @@ outlineSection: |-
   - Flux de travail des ressources PIM.
   - Afficher l’historique d’audit pour les rôles Azure AD dans PIM.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Créer et gérer les comptes utilisateurs.
   - Décrire et utiliser les rôles d'administrateur de Microsoft 365.
   - Planifier les politiques et l’authentification des mots de passe.
@@ -90,7 +90,7 @@ outlineSection: |-
 
 
   ### Module 2&#58; Identifier la synchronisation
-  Ce module explique les concepts liés à la synchronisation des identités pour Microsoft 365.  Il se concentre spécifiquement sur Azure AD Connect et la gestion de la synchronisation des répertoires pour s'assurer que les personnes adéquates sont connectées à votre système Microsoft 365.
+  Ce module explique les concepts liés à la synchronisation des identités pour Microsoft 365. Il se concentre spécifiquement sur Azure AD Connect et la gestion de la synchronisation des répertoires pour s'assurer que les personnes adéquates sont connectées à votre système Microsoft 365.
   #### Leçons
   - Introduction à la synchronisation des identités
   - Planifier pour Azure AD Connect
@@ -102,7 +102,7 @@ outlineSection: |-
   #### Laboratoire &#58;  Mise en œuvre de la synchronisation des identités
   - Configurer votre organisation pour la synchronisation des identités
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire les options d’authentification pour Microsoft 365.
   - D'expliquer la synchronisation des répertoires,
   - De planifier la synchronisation des répertoires,
@@ -125,7 +125,7 @@ outlineSection: |-
   - Pilote d’authentification MFA (exige MFA pour des applications spécifiques).
   - Accès conditionnel MFA (compléter la mise en œuvre MFA).
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - De décrire le concept de l’accès conditionnel.
   - Décrire et utiliser des politiques d’accès conditionnel.
   - De planifier la conformité des périphériques.
@@ -133,8 +133,8 @@ outlineSection: |-
   - Configurer le contrôle d’accès basé sur le rôle.
 
 
-  ### Module 4 &#58;  La sécurité dans Microsoft 365
-  Ce module explique les diverses menaces d’attaques informatiques existantes.  Il vous introduit par la suite aux solutions Microsoft utilisées pour atténuer ces menaces.  Le module se termine par une explication sur la notation sécurisée de Microsoft et comment elle peut être utilisée pour évaluer et établir des rapports sur la posture de sécurité de votre organisation.
+  ### Module 4&#58;  La sécurité dans Microsoft 365
+  Ce module explique les diverses menaces d’attaques informatiques existantes. Il vous introduit par la suite aux solutions Microsoft utilisées pour atténuer ces menaces. Le module se termine par une explication sur la notation sécurisée de Microsoft et comment elle peut être utilisée pour évaluer et établir des rapports sur la posture de sécurité de votre organisation.
   #### Leçons
   - Vecteurs de menaces et violations des données
   - Stratégie et principes de sécurité.
@@ -145,7 +145,7 @@ outlineSection: |-
   #### Travaux pratiques &#58; Utiliser Microsoft Secure Score
   - Améliorer votre notation de sécurité dans le centre de sécurité Microsoft 365.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire plusieurs techniques utilisées par les attaquants pour compromettre les comptes utilisateurs à travers le courrier électronique.
   - Décrire les techniques utilisées par les attaquants pour obtenir le contrôle des ressources.
   - d'énumérer le type de menaces qui peuvent être évitées en utilisant la protection d’Exchange Online et Office 365 ATP,
@@ -153,7 +153,7 @@ outlineSection: |-
   - Décrire comment utiliser Secure Score pour identifier les écarts dans votre position de sécurité Microsoft 365 actuelle.
 
 
-  ### Module 5 &#58;  Protection avancée contre les menaces
+  ### Module 5&#58; Protection avancée contre les menaces
   Ce module explique les diverses technologies et services de protection contre les menaces disponibles pour Microsoft 365. Ce module couvre spécifiquement la protection contre les messages par le biais de la protection d’Exchange Online, la protection avancée contre les menaces d’Azure et la protection avancée contre les menaces de Windows Defender.
   #### Leçons
   - Exchange Online Protection
@@ -167,7 +167,7 @@ outlineSection: |-
   #### Laboratoire &#58; Gérer Microsoft 365 Security Services
   - Mettre en œuvre les politiques ATP
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire un pipeline de maliciel comme le message électronique qui est analysé par la protection d’Exchange Online,
   - de décrire comment les pièces jointes sécurisées sont utilisées pour bloquer les maliciels zero-day dans les pièces jointes aux messages électroniques et documents,
   - Décrire comment Safe Links protège les utilisateurs des URL de maliciels intégrés dans les courriels et documents qui pointent
@@ -175,7 +175,7 @@ outlineSection: |-
   - de configurer Windows Defender ATP,
 
 
-  ### Module 6 &#58; Gestion des menaces
+  ### Module 6&#58; Gestion des menaces
   Ce module explique la gestion des menaces Microsoft qui vous fournit les outils nécessaires pour évaluer et traiter les cybermenaces et formuler des réponses. Vous apprendrez à utiliser le tableau de bord de sécurité et Azure Sentinel pour Microsoft 365. Ce module explique également et configure Microsoft Advanced Threat Analytics.
   #### Leçons
   - Utiliser le tableau de bord de sécurité.
@@ -188,7 +188,7 @@ outlineSection: |-
   - Mener une attaque simulée phishing Spear.
   - Mener des attaques simulées de mots de passe.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire comment utiliser Threat Explorer pour examiner les menaces et aider à protéger votre locataire,
   - Décrire comment le tableau de bord de sécurité fournit des informations aux cadres de niveau C sur les principaux risques et tendances.
   - de décrire Advanced Threat Analytics (ATA) et les exigences nécessaires pour le déployer,
@@ -198,7 +198,7 @@ outlineSection: |-
 
 
   ### Module 7&#58; Mobilité
-  Ce module se concentre sur la sécurisation des périphériques mobiles et des applications.  Vous apprendrez la gestion des périphériques mobiles et leur fonctionnement avec Microsoft Intune. Vous découvrirez également comment Intune et Azure AD sont utilisés pour sécuriser les applications mobiles.
+  Ce module se concentre sur la sécurisation des périphériques mobiles et des applications. Vous apprendrez la gestion des périphériques mobiles et leur fonctionnement avec Microsoft Intune. Vous découvrirez également comment Intune et Azure AD sont utilisés pour sécuriser les applications mobiles.
   #### Leçons
   - Planifier la gestion des applications mobiles
   - Planifier la gestion des périphériques mobiles
@@ -221,7 +221,7 @@ outlineSection: |-
   - de configurer le rôle de directeur d’enregistrement des périphériques.
 
 
-  ### Module 8 &#58;  Protection des informations
+  ### Module 8&#58; Protection des informations
   Ce module explique la manière de mettre en œuvre la protection des informations Azure et la protection des informations Windows.
   #### Leçons
   - Concepts de la protection des informations.
@@ -234,13 +234,13 @@ outlineSection: |-
   - Mettre en œuvre la protection des informations Azure
   - Mettre en œuvre la protection des informations Windows
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de configurer les étiquettes et les politiques pour la protection des informations dans Azure,
   - de configurer les paramètres de service AIP avancés pour les modèles des services de gestion des droits (RMS),
   - de planifier un déploiement des politiques de protection des informations Windows.
 
 
-  ### Module 9 &#58; Gestion des droits et cryptage
+  ### Module 9&#58; Gestion des droits et cryptage
   Ce module explique la gestion des droits relatifs à l'information dans Exchange et SharePoint. Ce module décrit également les technologies de cryptage utilisées pour sécuriser les messages.
   #### Leçons
   - Gestion des droits relatifs à des informations
@@ -252,7 +252,7 @@ outlineSection: |-
   - Configurer le cryptage des messages dans Office 365
   - Valider la gestion des droits à l’information.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire les diverses options de cryptage de Microsoft 365.
   - De décrire l’utilisation de S/MIME.
   - Décrire et activer le cryptage des messages Office 365.
@@ -272,7 +272,7 @@ outlineSection: |-
   - Gérer les politiques DLP.
   - Tester la MRM et les politiques de DLP
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire la prévention de la perte des données (DLP),
   - d'utiliser les modèles de politiques pour mettre en œuvre des politiques DLP pour les informations couramment utilisées,
   - de configurer les règles correctes pour protéger le contenu,
@@ -281,13 +281,13 @@ outlineSection: |-
   - d'expliquer comment SharePoint Online crée des propriétés analysées à partir des documents,
 
 
-  ### Module 11 &#58;  Sécurité de l’application dans le cloud
-  Ce module se concentre sur la sécurité des applications dans le Cloud dans Microsoft 365.  Le module expliquera la découverte dans le cloud, les connecteurs des applications, les politiques et les alertes. Vous découvrirez comment ces fonctionnalités travaillent pour sécuriser vos applications dans le Cloud.
+  ### Module 11&#58;  Sécurité de l’application dans le cloud
+  Ce module se concentre sur la sécurité des applications dans le Cloud dans Microsoft 365. Le module expliquera la découverte dans le cloud, les connecteurs des applications, les politiques et les alertes. Vous découvrirez comment ces fonctionnalités travaillent pour sécuriser vos applications dans le Cloud.
   #### Leçons
   - Sécurité des applications dans le cloud expliquée
   - Utiliser les informations de sécurité des applications dans le cloud
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire la sécurité des applications dans le cloud,
   - d'expliquer comment déployer la sécurité des applications dans le cloud,
   - de contrôler vos applications dans le cloud grâce à des politiques,
@@ -296,7 +296,7 @@ outlineSection: |-
   - de gérer les permissions des applications dans le cloud.
 
 
-  ### Module 12 &#58; Conformité dans Microsoft 365
+  ### Module 12&#58; Conformité dans Microsoft 365
   Ce module se concentre sur la gouvernance des données dans Microsoft 365. Ce module vous présentera Compliance Manager et discutera du règlement général sur la protection des données (RGPD).
   #### Leçons
   - Planifier les exigences de conformité.
@@ -304,7 +304,7 @@ outlineSection: |-
   - Gérer la conservation dans le courrier électronique
   - Dépanner la gouvernance des données
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de planifier les rôles de sécurité et de conformité,
   - de décrire ce que vous devez prendre en considération dans le GRPD,
   - de décrire une muraille déontologique dans Exchange et son fonctionnement,
@@ -314,7 +314,7 @@ outlineSection: |-
   - Réparer les politiques de rétention qui ne fonctionnent pas comme prévu.
 
 
-  ### Module 13 &#58;  Archivage et conservation
+  ### Module 13 &#58; Archivage et conservation
   Ce module explique les concepts liés à la conservation et à l’archivage des données pour Microsoft 365, y compris Exchange et SharePoint.
 
   #### Leçons
@@ -329,7 +329,7 @@ outlineSection: |-
   - Initialiser la conformité.
   - Configurer les balises et les politiques de conservation
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire la différence entre l’archivage sur place et la gestion des enregistrements,
   - d'expliquer comment les données sont archivées dans Exchange,
   - Expliquer le fonctionnement de la politique de rétention.
@@ -338,8 +338,8 @@ outlineSection: |-
   - de créer des balises de conservation utiles.
 
 
-  ### Module 14 &#58; Rechercher du contenu et enquêter
-  Ce module se concentre sur la recherche de contenu et les enquêtes.  Ce module couvre l’utilisation d’eDiscovery pour mener des enquêtes avancées sur les données de Microsoft 365. Il couvre également les journaux d'audit et discute des demandes des sujets de données du RGPD.
+  ### Module 14&#58; Rechercher du contenu et enquêter
+  Ce module se concentre sur la recherche de contenu et les enquêtes. Ce module couvre l’utilisation d’eDiscovery pour mener des enquêtes avancées sur les données de Microsoft 365. Il couvre également les journaux d'audit et discute des demandes des sujets de données du RGPD.
   #### Leçons
   - Rechercher du contenu.
   - Faire l'audit des enquêtes de journal
@@ -350,7 +350,7 @@ outlineSection: |-
   - Enquêter sur votre données Microsoft 365
   - Mener une demande de sujet de données.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - de décrire comment utiliser la recherche de contenu,
   - Concevoir une recherche de contenu.
   - Configurer un filtrage des permissions de recherche.

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using JavaScript
+metadata:
+  title: 'Exam 98-382: Introduction to Programming Using JavaScript'
+  description: 'Exam 98-382: Introduction to Programming Using JavaScript'
+uid: exam.98-382
+displayName: 98-382
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent être en mesure de reconnaître et d'écrire un code JavaScript syntaxiquement correct, d’utiliser les types de données pris en charge par JavaScript et de pouvoir reconnaître et écrire le code JavaScript qui résoudra logiquement un problème donné.
+
+  Les candidats doivent avoir au moins 100 heures d'instruction ou une expérience pratique avec le langage de programmation JavaScript. Les candidats doivent également être familiarisés avec les fonctions et capacités de JavaScript et comprendre comment écrire, déboguer et maintenir un code JavaScript bien formé et bien documenté.
+subTitle: Les candidats à cet examen doivent être en mesure de reconnaître et d'écrire un code JavaScript syntaxiquement correct, d’utiliser les types de données pris en charge par JavaScript et de pouvoir reconnaître et écrire le code JavaScript qui résoudra logiquement un problème donné.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
+practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Programme avec les opérateurs, les méthodes et les mots-clés de JavaScript (20-25%)
+- Programme avec variables, types de données et fonctions (25-30%)
+- Implémenter et analyser des décisions et des boucles (20-25%)
+- Interagir avec le modèle d'objet de document (15-20%)
+- Interagir avec les formulaires HTML (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-javascript
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

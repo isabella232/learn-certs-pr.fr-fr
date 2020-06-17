@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Networking Fundamentals
+metadata:
+  title: 'Exam 98-366: Networking Fundamentals'
+  description: 'Exam 98-366: Networking Fundamentals'
+uid: exam.98-366
+displayName: 98-366
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen sont familiers avec les concepts et technologies généraux de réseautage. Les candidats doivent avoir une certaine expérience pratique avec Windows Server, la mise en réseau sous Windows, des outils de gestion de réseau, DNS, TCP / IP, le processus de résolution des noms et des protocoles et topologies réseau.
+
+  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du 31 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’Examen 98-366.</div>
+subTitle: Les candidats à cet examen sont familiers avec les concepts et technologies généraux de réseautage. Les candidats doivent avoir une certaine expérience pratique avec Windows Server, la mise en réseau sous Windows, des outils de gestion de réseau, DNS, TCP / IP, le processus de résolution des noms et des protocoles et topologies réseau.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
+practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Comprendre les infrastructures de réseau (30-35%)
+- Comprendre le matériel réseau (20-25%)
+- Comprendre les protocoles et services (45-50%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40366
+relatedCertifications:
+- related:
+    uid: certification.mta-networking-fundamentals
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

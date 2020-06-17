@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Designing Business Intelligence Solutions with Microsoft SQL Server
+metadata:
+  title: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+  description: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+uid: exam.70-467
+displayName: 70-467
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen est destiné aux architectes de produits BI, en charge de la conception globale d'une infrastructure BI et de sa relation avec les autres systèmes de données utilisés.
+
+  <div style='font-weight&#58; bold;'><br/>À partir du 18 février 2016, cet examen contiendra du contenu couvrant SQL Server 2012 et 2014. Veuillez noter que cet examen ne comprend pas de questions sur les caractéristiques et fonctionnalités qui se trouvent uniquement dans le produit SQL Server 2012. Pour plus d’informations, veuillez <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z">télécharger et consulter le présent document</a>.</div>
+subTitle: Cet examen est destiné aux architectes de produits BI, en charge de la conception globale d'une infrastructure BI et de sa relation avec les autres systèmes de données utilisés.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Planification de l’infrastructure de business intelligence (BI) (15-20%)
+- Conception d'une infrastructure BI (15-20%)
+- Conception d'une stratégie de génération de rapports (20-25%)
+- Conception des données de données BI (30-35%)
+- Conception d'une solution d’extraction, de transformation et de chargement (ETL) (10-15%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20467
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

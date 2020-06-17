@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Networking Fundamentals: MTA Exam 98-366'
+metadata:
+  title: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+  description: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+uid: course.40366
+courseNumber: '40366-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les infrastructures du réseau.
+- skill: Comprendre le matériel du réseau.
+- skill: Comprendre les protocoles et les services.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-361
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-366 et à comprendre les sujets suivants&#58; l’infrastructure du réseau, le matériel du réseau et les protocoles et services. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen. Cette formation est mise à jour pour la prise en charge de Windows 10.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Compréhension de la mise en réseau locale
+
+  ### Module 2&#58; Définition des réseaux avec le modèle OSI
+
+  ### Module 3&#58; Compréhension des réseaux câblés et sans-fil
+
+  ### Module 4&#58; Compréhension du protocole Internet
+
+  ### Module 5&#58; Mise en œuvre de TCP/IP dans la ligne de commande
+
+  ### Module 6&#58; Travail avec des services de réseau avancés
+
+  ### Module 7&#58; Compréhension des réseaux étendus
+
+  ### Module 8&#58; Définition de l’infrastructure du réseau et de la sécurité du réseau
+

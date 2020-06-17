@@ -1,0 +1,259 @@
+### YamlMime:Course
+title: Administering Microsoft® SQL Server® 2014 Databases
+metadata:
+  title: 'Course 20462-D: Administering Microsoft® SQL Server® 2014 Databases'
+  description: 'Course 20462-D: Administering Microsoft® SQL Server® 2014 Databases'
+uid: course.20462
+courseNumber: '20462-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des tâches et des outils de base de l’administration des bases de données.
+- skill: Installation et configuration de SQL Server 2014.
+- skill: Configuration des bases de données et du stockage de SQL Server.
+- skill: Planification et mise en œuvre d’une stratégie de sauvegarde.
+- skill: Restauration des bases des données à partir de sauvegarde.
+- skill: Importer et exporter des données.
+- skill: Suivi de SQL Server.
+- skill: Suivi de l’activité de SQL Server.
+- skill: Gestion de la sécurité de SQL Server.
+- skill: Vérification de l’accès aux données et cryptage des données.
+- skill: Performance de la maintenance continue des bases de données.
+- skill: Automatisation de la maintenance de SQL Server avec l’agent SQL Server.
+- skill: Configuration du courrier, des alertes et des notifications des bases de données.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-462
+summary: |-
+  Cette formation de cinq jours fournit par un instructeur offre aux étudiants les connaissances et les compétences nécessaires pour conserver une base de données Microsoft SQL Server 2014. Cette formation vise l’enseignement de l’utilisation des fonctionnalités et des outils des produits de SQL Server 2014 liés à la conservation d’une base de données.
+
+  Remarque&#58; Cette formation est conçue pour les clients qui souhaitent découvrir SQL Server 2012 ou SQL Server 2014. Elle couvre les nouvelles fonctionnalités de SQL Server 2014, mais également les capacités importantes de la plateforme de données SQL Server.
+
+  #### Profil de l’audience
+  L’audience principale de cette formation est les personnes qui administrent et maintiennent des bases de données SQL Server. Ces personnes procèdent à l’administration et la maintenance des bases de données, ce qui est leur domaine principal de responsabilité, ou travaillent dans des environnements où les bases de données jouent un rôle clé dans leur fonction principale.
+
+  L’audience secondaire de cette formation est les personnes qui développent des applications qui fournissent du contenu des bases de données SQL Server.
+prerequisitesSection: |-
+  Cette formation exige que vous remplissiez les prérequis suivants&#58;
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles de Transact-SQL. 
+  - Connaissances professionnelles des bases de données relationnelles. 
+  - Expérience avec la conception de bases de données.
+outlineSection: |-
+  ### Module 1&#58; Introduction à l’Administration de Bases de Données de SQL Server 2014
+  Ce module présente la plateforme Microsoft SQL Server 2014. Il décrit les composants, éditions et versions de SQL Server 2014 et les tâches qu’un administrateur de base de données exécute couramment pour une instance SQL Server.
+  #### Leçons
+  - Présentation de l’Administration de Bases de Données
+  - Introduction à la Plateforme SQL Server
+  - Outils et Techniques de Gestion des Bases de Données
+
+
+  #### Laboratoire&#58; Utilisation des Outils Administratifs de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire la plateforme SQL Server. 
+  - Décrire les tâches courantes de l’administration de bases de données. 
+  - Utiliser les outils administratifs de SQL Server.
+
+
+  ### Module 2&#58; Installation et Configuration de SQL Server 2014
+  Ce module explique comment évaluer les exigences en matière de ressources pour SQL Server 2014 et comment l’installer.
+  #### Leçons
+  - Planification de l’Installation de SQL Server
+  - Installation de SQL Server 2014
+  - Configuration de la Post-installation
+
+
+  #### Laboratoire&#58; Installation de SQL Server 2014
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Planifier l’installation de SQL Server 2014. 
+  - Installer SQL Server 2014. 
+  - Exécuter les tâches de configuration de post-installation.
+
+
+  ### Module 3&#58; Travailler avec des Bases de Données et Stockage
+  Ce module décrit comment les données sont stockées dans des bases de données, comment créer des bases de données, comment gérer des fichiers de base de données et comment les déplacer. D’autres tâches liées au stockage, y compris la gestion des bases de données tempdb et l’utilisation de périphériques de stockage rapides pour étendre le cache de pool tampon SQL Server, font également l’objet d’une discussion.
+  #### Leçons
+  - Introduction au Stockage de Données avec SQL Server
+  - Gestion du Stockage pour les Bases de Données des Systèmes
+  - Gestion du Stockage pour les Bases de Données des Utilisateurs
+  - Déplacement des Fichiers de la Base de Données
+  - Configuration de l’Extension du Pool Tampon.
+
+
+  #### Laboratoire&#58; Gestion du Stockage de la Base de Données
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire la façon dont SQL Server stocke les données. 
+  - Gérer le stockage pour les bases de données du système. 
+  - Gérer le stockage pour les bases de données des utilisateurs. 
+  - Déplacer des fichiers de la base de données. 
+  - Configurer l’extension du pool tampon.
+
+
+  ### Module 4&#58; Planification et Mise en œuvre d’une Stratégie de Sauvegarde
+  Dans ce module, vous étudierez la création d’une stratégie de sauvegarde alignée aux besoins organisationnels et apprendrez à procéder aux opérations de sauvegarde requises par cette stratégie.
+  #### Leçons
+  - Compréhension des Modèles de Recouvrement de SQL Server
+  - Planification d’une Stratégie de Sauvegarde
+  - Sauvegarde de Bases de Données et de Journaux de Transactions
+  - Utilisation des Options de Sauvegarde
+  - Assurance de la Fiabilité de la Sauvegarde
+
+
+  #### Laboratoire&#58; Sauvegarde des Bases de Données de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire comment les journaux de transaction des bases de données fonctionnent et en quoi ils ont une incidence sur le recouvrement de la base de données. 
+  - Planifier une stratégie de sauvegarde pour une base de données SQL Server. 
+  - Sauvegarder des bases de données et des journaux de transaction. 
+  - Procéder à des sauvegardes en copie uniquement, comprimées et cryptées. 
+  - Maximiser la fiabilité des sauvegardes.
+
+
+  ### Module 5&#58; Restauration des Bases de Données de SQL Server 2014
+  Dans ce module, vous apprendrez à récupérer les bases de données des utilisateurs et des systèmes et à mettre en œuvre une récupération à un instant donné.
+  #### Leçons
+  - Compréhension du Processus de Restauration
+  - Restauration des Bases des Données
+  - Scénarios de Restauration Avancés
+  - Travailler avec la Récupération à un Instant Donné
+
+
+  #### Laboratoire&#58; Restauration de Bases de Données SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Expliquer le processus de restauration. 
+  - Restaurer des bases des données. 
+  - Effectuer une opération de restauration avancée. 
+  - Procéder à une récupération à un instant donné.
+
+
+  ### Module 6&#58; Importation et Exportation de Données
+  Dans ce module, vous étudierez brièvement les outils et les techniques afin de pouvoir importer et exporter des données de et vers SQL Server.
+  #### Leçons
+  - Introduction au Transfert de Données
+  - Importation et Exportation de Données de Tables
+  - Copie ou Déplacement d’une Base de Données
+
+
+  #### Laboratoire&#58; Importation et Exportation de Données
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les outils et techniques pour transférer des données.
+  - Importer et exporter des données.
+  - Copier ou déplacer une base de données.
+
+
+  ### Module 7&#58; Suivi de SQL Server 2014
+  Ce module explique comment utiliser trois des outils les plus couramment utilisés&#58; Suivi d’Activité, vues et fonction de gestion dynamique (DMV et DMF) et Suivi de la performance.
+  #### Leçons
+  - Introduction au Suivi de SQL Server
+  - Vues et Fonctions de Gestion Dynamique
+  - Le Moniteur de performance
+
+
+  #### Laboratoire&#58; Suivi de SQL Server 2014
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire des considérations de suivi de SQL Server et utiliser le moniteur de l’activité. 
+  - Utiliser les vues et fonctions de gestion dynamique pour le suivi de SQL Server. 
+  - Utiliser le Moniteur de Performance pour le suivi de SQL Server.
+
+
+  ### Module 8&#58; Suivi de l’activité de SQL Server
+  Ce module décrit l’utilisation des procédures stockées de SQL Server Profiler et SQL Trace pour saisir des informations sur SQL Server et l’utilisation de ces informations pour dépanner et optimiser les charges de travail de SQL Server.
+  #### Leçons
+  - Suivi de l’Activité des Charges de Travail de SQL Server
+  - Utilisation des Traces
+
+
+  #### Laboratoire&#58; Suivi de l’Activité des Charges de Travail de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Tracer l’activité dans SQL Server
+  - Utiliser des traces saisies pour tester, dépanner et optimiser la performance de la base de données.
+
+
+  ### Module 9&#58; Gestion de la Sécurité de SQL Server
+  Dans ce module, vous découvrirez les concepts de base de l’architecture de la sécurité de SQL Server et la façon de gérer la sécurité au niveau du serveur et de la base de données.
+  #### Leçons
+  - Introduction à la Sécurité de SQL Server
+  - Gestion de la Sécurité au Niveau du Serveur
+  - Gestion des Principes au Niveau de la Base de Données
+  - Gestion des Permissions de la Base de Données
+
+
+  #### Laboratoire&#58; Gestion de la Sécurité de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les concepts clés de sécurité dans l’architecture de sécurité de SQL Server. 
+  - Gérer la sécurité au niveau du serveur. 
+  - Gérer les principes de sécurité au niveau de la base de données. 
+  - Gérer les permissions de la base de données.
+
+
+  ### Module 10&#58; Vérification de l’Accès aux Données et Cryptage des Données
+  Ce module décrit les options disponibles pour l’audit dans SQL Server, la façon d’utiliser et de gérer la fonctionnalité d’audit de SQL Server et de mettre en œuvre le cryptage.
+  #### Leçons
+  - Audit de l’Accès aux Données dans SQL Server
+  - Mise en œuvre de l’Audit de SQL Server
+  - Mise en œuvre de l’Audit de SQL Server
+
+
+  #### Laboratoire&#58; Audit de l’Accès aux Données et du Cryptage des Données
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les options pour l’audit de l’accès aux données. 
+  - Mettre en œuvre l’audit de SQL Server. 
+  - Gérer l’audit de SQL Server. 
+  - Mettre en œuvre le cryptage des données transparent.
+
+
+  ### Module 11&#58; Maintenance Continue des Bases de Données
+  Ce module décrit les tâches courantes de maintenance des bases de données qu’un DBA doit réaliser et montre comment automatiser ces tâches à l’aide des plans de maintenance.
+  #### Leçons
+  - Assurance de l’Intégrité des Bases de Données
+  - Conservation des Index
+  - Automatisation de la Maintenance de Routine des Bases de Données
+
+
+  #### Laboratoire&#58; Performance de la Maintenance Continue des Bases de Données
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Assurer l’intégrité de la base de données en utilisant DBCC CHECKDB. 
+  - Conserver les index. 
+  - Configurer des Plans de Maintenance des Bases de Données.
+
+
+  ### Module 12&#58; Automatisation de la Gestion de SQL Server 2014
+  Ce module décrit comment utiliser l’agent SQL Server pour automatiser les tâches, comment configurer des contextes de sécurité pour les tâches et comment mettre en œuvre des tâches multiserveurs.
+  #### Leçons
+  - Automatisation de la Gestion de SQL Server
+  - Mise en œuvre des Tâches d’Agent de SQL Server
+  - Gestion des tâches de l’Agent SQL Server
+  - Gestion des Contextes de Sécurité des Etapes des Tâches
+  - Gestion des Tâches sur Plusieurs Serveurs
+
+
+  #### Laboratoire&#58; Automatisation de la Gestion de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire des méthodes d’automatisation de la gestion de SQL Server. 
+  - Créer des tâches, des types d’étapes de tâches et des horaires. 
+  - Gérer les tâches de l’agent SQL Server. 
+  - Configurer des contextes de sécurité des tâches. 
+  - Configurer des serveurs maîtres et cibles.
+
+
+  ### Module 13&#58; Suivi de SQL Server 2014 à l’aide d’Alertes et de Notifications
+  Ce module couvre la configuration des courriers, des alertes et des notifications de bases de données.
+  #### Leçons
+  - Suivi des Erreurs de SQL Server
+  - Configuration du Courrier de la Base de Données
+  - Configuration des opérateurs, des Alertes et des Notifications
+
+
+  #### Laboratoire&#58; Suivi de SQL Server à l’aide d’Alertes et de Notifications
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Configurer le courrier de la base de données. 
+  - Faire le suivi des erreurs de SQL Server.
+  - Configurer des opérateurs, des alertes et des notifications
+

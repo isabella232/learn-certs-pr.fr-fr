@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Database Administration Fundamentals: MTA Exam 98-364'
+metadata:
+  title: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+  description: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+uid: course.40364
+courseNumber: '40364-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compréhension des concepts de base d’une base de données.
+- skill: Création d’objets dans une base de données.
+- skill: Manipulation de données.
+- skill: Compréhension du stockage de données.
+- skill: Administration d’une base de données.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- sql-server
+exams:
+- uid: exam.98-364
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technologie Associate 98-364 et à comprendre les sujets suivants&#58; les concepts de base des bases de données, la création d’objets dans une base de données, la manipulation des données, le stockage des données et l'administration d’une base de données. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Compréhension des concepts de base des bases de données
+
+  ### Module 2&#58; Création d’objets dans une base de données
+
+  ### Module 3&#58; Manipulation de données
+
+  ### Module 4&#58; Compréhension du stockage de données
+
+  ### Module 5&#58; Administration d’une base de données
+

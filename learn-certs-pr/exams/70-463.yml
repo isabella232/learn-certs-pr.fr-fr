@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014
+metadata:
+  title: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+  description: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+uid: exam.70-463
+displayName: 70-463
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen est destiné principalement aux développeurs ETL et aux concepteurs d'entrepôts de données qui créent des solutions BI et dont les responsabilités incluent le nettoyage de données, la mise en œuvre des principes ETL (Extraire, Transformer, Charger) et la mise en œuvre d'entrepôts de données.
+
+  <div style='font-weight&#58; bold;'><br/>À partir du 18 février 2016, cet examen contiendra du contenu couvrant SQL Server 2012 et 2014. Veuillez noter que cet examen ne comprend pas de questions sur les caractéristiques et fonctionnalités qui se trouvent uniquement dans le produit SQL Server 2012. Pour plus d’informations, veuillez <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUy">télécharger et consulter le présent document</a>.</div>
+subTitle: Cet examen est destiné principalement aux développeurs ETL et aux concepteurs d'entrepôts de données qui créent des solutions BI et dont les responsabilités incluent le nettoyage de données, la mise en œuvre des principes ETL (Extraire, Transformer, Charger) et la mise en œuvre d'entrepôts de données.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Conception et mise en œuvre d'un entrepôt de données (10-15%)
+- Extraction et transformation des données (20-25%)
+- Chargement des données (25-30%)
+- Configuration et déploiement des solutions SSIS (20-25%)
+- Génération de solutions de qualité des données (15-20%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20463
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

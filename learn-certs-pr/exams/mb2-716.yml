@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Customization and Configuration
+metadata:
+  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+uid: exam.mb-2-716
+displayName: MB2-716
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les personnes souhaitant obtenir une certification sur la personnalisation et la configuration de Microsoft Dynamics 365 doivent passer cet examen. Ce public comprend généralement des concepteurs, des consultants d'implémentation, des techniciens du support technique et des administrateurs système. Ils évaluent les besoins métiers d'un client et configurent et personnalisent l'application.
+
+  <div style='font-weight&#58; bold;'><br/>Le contenu de cet examen sera mis à jour le 4 février 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen MB2-716.</div>
+subTitle: Les personnes souhaitant obtenir une certification sur la personnalisation et la configuration de Microsoft Dynamics 365 doivent passer cet examen. Ce public comprend généralement des concepteurs, des consultants d'implémentation, des techniciens du support technique et des administrateurs système. Ils évaluent les besoins métiers d'un client et configurent et personnalisent l'application.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- Configuration de Microsoft Dynamics 365 (20-25%)
+- Mise en œuvre des entités Microsoft Dynamics 365, des relations des entités et des champs (20-25%)
+- Création et gestion des solutions, des formes, des vues et des visualisations Microsoft Dynamics 365 (25-30%)
+- Mise en œuvre des règles métiers, des workflows et des flux de processus métiers (20-25%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: certification.mcse-business-applications
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

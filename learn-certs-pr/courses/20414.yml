@@ -1,0 +1,277 @@
+### YamlMime:Course
+title: Implementing an Advanced Server Infrastructure
+metadata:
+  title: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+  description: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+uid: course.20414
+courseNumber: '20414-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire le centre de données d'une entreprise.
+- skill: Planification et mise en œuvre d'une stratégie de virtualisation d’un serveur à l’aide de System Center 2012.
+- skill: Planification et mise en œuvre de l’infrastructure réseau et de stockage requise pour déployer une infrastructure de serveur virtualisée.
+- skill: Planification et déploiement de machines virtuelles sur Windows Hyper-V®.
+- skill: Planification et mise en œuvre d'une solution d’administration des virtualisations à l’aide de System Center 2012.
+- skill: Planification et mise en œuvre d'une stratégie de suivi des serveurs à l’aide des outils de Windows Server 2012 et utilisation de Microsoft System Center 2012 - Gestionnaire des opérations.
+- skill: Planification et mise en œuvre d'une application et d’une infrastructure de services de fichiers qui est hautement disponible.
+- skill: Planification et mise en œuvre d'une infrastructure de serveurs hautement disponible à l’aide des fonctionnalités de clustering avec basculement dans Windows Server 2012.
+- skill: Planification et mise en œuvre d'une stratégie de continuité des affaires dans une environnement Windows Server 2012.
+- skill: Planification et mise en œuvre du déploiement d’un PKI et planification et mise en œuvre d'une solution de gestion des certificats.
+- skill: Planification et mise en œuvre du déploiement d'une serveur AD FS et accès aux applications sensibles aux revendications.
+- skill: Planification et mise en œuvre du contrôle d'accès dynamique, de Workplace Join et des dossiers de travail.
+- skill: Planification et mise en œuvre d’un déploiement d’AD RMS, planification et gestion des modèles AD RMS et accès et planification et mise en œuvre de services AD RMS d'accès externe.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-414
+summary: |-
+  Suivez une formation pratique et entraînez-vous à la planification, à la conception et au déploiement d’une infrastructure d’entreprise physique et logique Windows Server® 2012 R2 au cours de cette formation officielle Microsoft en 5 jours. Cette formation est la deuxième partie d’une série de deux formations qui fournissent les compétences et les connaissances nécessaires à la conception et à la mise en œuvre d’une infrastructure Windows Server 2012 R2 dans un environnement d’entreprise. Ces deux formations couvrent ensemble la conception, la planification, le déploiement, la sécurisation, le suivi, l’automatisation et la virtualisation d’une infrastructure de serveur d’une entreprise. Cette formation cible les connaissances et les compétences nécessaires à la planification et à la mise en œuvre d'une infrastructure sécurisée et hautement disponible avec un accent sur Active Directory® Federation Service (AD FS), l’infrastructure à clé publique (PKI) et les Services de Gestion des Doits d’Active Directory (AD RMS). Vous acquériez également les compétences nécessaires à la planification et au déploiement des machines virtuelles, y compris le libre-service et l'automatisation du déploiement des machines virtuelles ainsi que la planification et la mise en œuvre d'une stratégie de suivi qui inclut le gestionnaire des opérations de Microsoft® System Center 2012 R2. Cette formation cartographie directement et est le premier choix en matière de préparation pratique à l’examen Microsoft Certified Solutions Expert (MCSE) 414&#58; Mise en œuvre d’une infrastructure de serveurs avancée], qui est le cinquième examen requis dans le cadre de l’obtention de la certification MCSE, Infrastructure de serveurs. 
+
+  REMARQUE&#58; Les laboratoires de cette formation se basent sur Windows Server 2012 R2 et System Center 2012 R2. Cette formation est conçue pour les professionnels des TI expérimentés qui prennent en charge des moyennes à grandes entreprises et ont de l’expérience dans l’administration de Windows Server 2012 R2 et ont une certification MCSA Windows Server 2012 ou des compétences équivalentes.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des technologies de l’information (TI) qui sont responsables de la planification, de la conception et du déploiement d’une infrastructure d’entreprise Windows Server 2012 physique et logique et d’Active Directory Domaine Services (AD DS), y compris des services en réseau. Les candidats ont généralement de l’expérience dans les systèmes d’exploitation Windows Server antérieurs et ont la certification Windows Server 2012 (MCSA) ou des compétences équivalentes.
+  L’audience secondaire à cette formation est les candidats qui sont des professionnels des TI et qui cherchent à passer l’examen 70-414&#58; Mise en œuvre d'une infrastructure de serveur avancée d’entreprise, de manière indépendante ou dans le cadre de l’exigence pour la certification MCSE.
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  - Une compréhension de TCP/IP et des concepts de mise en réseau.
+  - Une compréhension de Windows Server 2012 et d’AD DS, y compris la planification, la conception et le déploiement.
+  - Une compréhension des fichiers script et en lot.
+  - Une compréhension des concepts de sécurité, tels que l’authentification et l’autorisation.
+  - Une compréhension du déploiement, du conditionnement et des outils d’imagerie.
+  - Expérience du travail dans une équipe/équipe virtuelle.
+  - Obtenu la certification MCSA Windows Server 2012 ainsi qu’avoir des informations sur la formation 20413C&#58; conception et mise en oeuvre d'une infrastructure de serveur d’entreprise.
+outlineSection: |-
+  ### Module 1&#58; Présentation de la Gestion dans un Centre de Données d’Entreprise
+  Dans ce module, les étudiants apprendront à décrire le centre de données de l’entreprise et l’utilisation de System Center 2012 dans le but de gérer le centre de données de l’entreprise.
+  #### Leçons
+  - Présentation du Centre de Données de l’Entreprise.
+  - Présentation des Composants de Microsoft System Center 2012 R2.
+
+
+  #### Laboratoire&#58; Considérations pour la Mise en œuvre du Centre de Données d'une Entreprise
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire le centre de données d'une entreprise,
+  - Décrire l'utilisation des composants de System Center 2012 pour gérer un centre de données d’entreprise.
+
+
+  ### Module 2&#58; Planification et Mise en œuvre une Stratégie de Virtualisation d’un Serveur
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une stratégie de virtualisation d’un serveur à l’aide de System Center 2012.
+  #### Leçons
+  - Planification du Déploiement d’un VMM.
+  - Planification et mise en œuvre de l’Environnement Hôte pour la Virtualisation d'un Serveur.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre d’une Stratégie de Virtualisation d’un Serveur
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier l’environnement de virtualisation d'un serveur basée sur Windows Server 2012 Hyper-V et du Gestionnaire de Machines Virtuelles de System Center 2012 (VMM).
+  - Mettre en œuvre l’environnement de virtualisation d’un serveur basé sur Windows Server 2012 Hyper-V et VMM.
+
+
+  ### Module 3&#58; Planification et Mise en œuvre de Réseaux et de Stockage pour la Virtualisation
+  Dans ce module, les étudiants seront capables de planifier et de mettre en œuvre l’infrastructure réseau et de stockage nécessaire au déploiement d’une infrastructure de serveur virtualisée.
+  #### Leçons
+  - Planification d’une Infrastructure de Stockage pour la Virtualisation.
+  - Mise en œuvre d'une Infrastructure de Stockage pour la Virtualisation.
+  - Planification et Mise en œuvre d'une Infrastructure du Réseau pour la Virtualisation.
+  - Planification et Mise en œuvre de la Virtualisation du Réseau.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre des Réseaux Virtuels et du Stockage
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer les options de stockage disponibles pour les machines virtuelles.
+  - Configurer le stockage iSCSI dans Windows Server 2012 et la façon de gérer le stockage de VMM.
+  - Planifier et de mettre en œuvre une infrastructure du réseau pour la virtualisation du serveur.
+  - Planifier et de mettre en œuvre la virtualisation du réseau dans Hyper-V et VMM.
+
+
+  ### Module 4&#58; Planification et Déploiement des Machines Virtuelles
+  Dans ce module, les étudiants apprendront à planifier et à déployer des machines virtuelles sur Windows Hyper-V.
+  #### Leçons
+  - Planification de la Configuration des Machines Virtuelles.
+  - Préparation du Déploiement des Machines Virtuelles avec VMM.
+  - Déploiement des Machines Virtuelles.
+  - Planification et Mise en œuvre de Hyper-V Replica.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre du Déploiement d'une Machine Virtuelle et Stratégie de Gestion
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier la configuration d'une machine virtuelle.
+  - Planifier et configurer les profils et les modèles VMM qui peuvent être utilisés pour mettre en œuvre le déploiement d'un VMM.
+  - Planifier et de mettre en œuvre d’Hyper-V Replica.
+
+
+  ### Module 5&#58; Planification et Mise en œuvre d'une Solution d'Administration de Virtualisation
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une solution d’administration de la virtualisation à l’aide de System Center 2012.
+  #### Leçons
+  - Planification et Mise en œuvre de l’Automatisation avec System Center 2012.
+  - Planification et Mise en œuvre de l’Administration de System Center 2012.
+  - Planification et Mise en œuvre des options de libre-service dans System Center 2012.
+  - Planification et Mise en œuvre des Mises à jour dans une Infrastructure de Virtualisation de Serveurs.
+
+
+  ### Laboratoire&#58; Planification et Mise en œuvre d’une Solution Administrative pour la Virtualisation
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier l’automatisation d'un environnement de machines virtuelles à l’aide de System Center 2012.
+  - Planifier un modèle d’administration déléguée dans System Center 2012.
+  - Planifier le libre-service et l’automatisation d’un environnement de machines virtuelles à l’aide de System Center 2012.
+  - Planifier et de mettre en œuvre des mises à jour pour les hôtes Hyper-V à l’aide de VMM.
+
+
+  ### Module 6&#58; Planification et Mise en œuvre d’une Stratégie de Suivi d’un Serveur
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une stratégie de suivi d’un serveur à l’aide des outils de Windows Server 2012 et du Gestionnaire des Opérations.
+  #### Leçons
+  - Planification du Suivi dans Windows Server 2012.
+  - Présentation du Gestionnaire des opérations.
+  - Planification et Configuration des Composants de Suivi.
+  - Configuration de l’Intégration avec VMM.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’une Stratégie de Suivi d’un Serveur
+  
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier une stratégie de suivi à l’aide des outils Windows Server 2012.
+  - Décrire les composants du gestionnaire des opérations et de décrire de quelle façon utiliser le gestionnaire des opérations pour faire le suivi des serveurs physiques et virtuels.
+  - Planifier et configurer des packs de gestion, des notifications et le rapport.
+  - Configurer l’intégration du gestionnaire des opérations et de VMM.
+
+
+  ### Module 7&#58; Planification et Mise en œuvre de la Haute Disponibilité pour des Services de Fichiers et des Applications
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une infrastructure d'applications et de services de fichiers qui est hautement disponible.
+  #### Leçons
+  - Planification et Mise en œuvre des Espaces de Stockage.
+  - Planification et Mise en œuvre d’un DFS.
+  - Planification et Mise en œuvre du NLB.
+
+
+  #### Laboratoire&#58; Planification et mise en œuvre de la haute disponibilité pour des services de fichiers et des applications
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre une infrastructure de stockage hautement disponible à l’aide des espaces de stockage.
+  - Planifier et mettre en œuvre un déploiement de services de fichiers hautement disponible à l’aide de DFS.
+  - Planifier et mettre en œuvre la haute disponibilité pour des applications à l’aide de NLB.
+
+
+  ### Module 8&#58; Planification et Mise en œuvre d'une Infrastructure de Haute Disponibilité à l’aide du Clustering avec Basculement
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une infrastructure de serveurs hautement disponible à l’aide des fonctionnalités de clustering avec basculement dans Windows Server 2012.
+  #### Leçons
+  - Planification d'une Infrastructure pour le Clustering avec Basculement.
+  - Mise en œuvre d’un Clustering avec Basculement.
+  - Planification et Mise en œuvre des Mises à jour pour les Clusterings avec Basculement.
+  - Intégration du Clustering avec Basculement avec la Virtualisation des Serveurs.
+  - Planification d'un Clustering avec Basculement Multisite.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre d'une Infrastructure Hautement Disponible à l’aide du Clustering avec Basculement
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier un clustering avec basculement.
+  - Mettre en œuvre un clustering avec basculement.
+  - Planifier et mettre en œuvre des mises à jour à l’aide de la mise à niveau de cluster propagée (CAU).
+  - Planifier et mettre en œuvre le clustering avec basculement pour les machines virtuelles Hyper-V.
+
+
+  ### Module 9&#58; Planification et Mise en œuvre d’une Stratégie de Continuité des Affaires
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre une stratégie de continuité des affaires dans un environnement Windows Server 2012.
+  #### Leçons
+  - Présentation de la Planification de la Continuité des Affaires.
+  - Planification et Mise en œuvre des Stratégies de Sauvegarde.
+  - Planification et Mise en œuvre du Recouvrement.
+  - Planification et Mise en œuvre de la Sauvegarde et du Recouvrement des Machines Virtuelles.
+
+
+  #### Laboratoire&#58; Mise en œuvre d'une Stratégie de Sauvegarde des Machines Virtuelles avec DPM
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les exigences et les stratégies de haut niveau nécessaires à la mise en œuvre d'une stratégie de continuité des affaires.
+  - Planifier des stratégies de sauvegarde pour plusieurs rôles Windows.
+  - Planifier et mettre en œuvre le recouvrement des serveurs et des données.
+  - Planifier et mettre en œuvre une stratégie de sauvegarde et de recouvrement des machines virtuelles.
+
+
+  ### Module 10&#58; Planification et Mise en œuvre d'une Infrastructure à Clé Publique
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre le déploiement d’un PKI et de planifier et mettre en œuvre une solution de gestion des certificats.
+  #### Leçons
+  - Planification et Mise en œuvre du Déploiement d'une Autorité de Certification.
+  - Planification et Mise en œuvre des Modèles de Certificats.
+  - Planification et Mise en œuvre de la Distribution et de la Révocation des Certificats.
+  - Configuration et Gestion de l’Archivage et la Récupération à Clé.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre d’une Infrastructure de Active Directory Domain Services
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre une hiérarchie de déploiement d’un CA dans AD CS.
+  - Concevoir et mettre en œuvre une stratégie visant à configurer et conserver des modèles de certificats.
+  - Concevoir et mettre en œuvre une stratégie de distribution et de révocation des certificats.
+  - Planifier et mettre en œuvre le recouvrement privé à clé et de certificats.
+
+
+  ### Module 11&#58; Planification et Mise en œuvre d'une Infrastructure de Fédération des Identités.
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre le déploiement d’un serveur AD FS et l’accès aux applications sensibles aux revendications.
+  #### Leçons
+  - Planification et Mise en œuvre d’une Infrastructure de Serveur AD FS.
+  - Planification et Mise en œuvre des Fournisseurs de Revendications AD FS et des Parties Utilisatrices.
+  - Planification et Mise en œuvre des Revendications AD FS et des Règles de Revendications.
+  - Planification et Mise en œuvre d’un Proxy d’Application Web.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre d’une Infrastructure AD FS
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre une infrastructure de serveur AD FS.
+  - Planifier et mettre en œuvre des fournisseurs de revendications AD FS et des parties utilisatrices.
+  - Planifier et mettre en œuvre des revendications AD FS et des règles de revendications.
+  - Planifier et mettre en œuvre le proxy d'application Web avec l’intégration d’AD FS.
+
+
+  ### Module 12&#58; Planification et Mise en œuvre de l’Accès aux Données pour les Utilisateurs et les Dispositifs
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre le contrôle d'accès dynamique (DAC), Workplace Join et les dossiers de travail.
+  #### Leçons
+  - Planification et Mise en œuvre du DAC.
+  - Planification de Workplace Join.
+  - Planification des Dossiers de Travail.
+
+
+  #### Laboratoire&#58; Mise en œuvre du DAC et de l’Assistance en cas d’Accès Refusé
+
+  #### Laboratoire&#58; Mise en œuvre des Dossiers de Travail
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre le DAC.
+  - Décrire et mettre en œuvre Workplace Join.
+  - Planifier le déploiement des dossiers de travail.
+
+
+  ### Module 13&#58; Planification et Mise en œuvre d'une Infrastructure de Gestion des Droits Relatifs à l’Information
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre un déploiement d’AD RMS, à planifier et gérer des modèles AD RMS et l’accès et à planifier et mettre en œuvre l’accès externe aux services AD RMS.
+  #### Leçons
+  - Présentation d’AD RMS.
+  - Planification et Mise en œuvre du Clusterings avec Basculement AD RMS.
+  - Planification et Mise en œuvre des Modèles et Politiques d’AD RMS.
+  - Planification et Mise en œuvre de l’Accès Externe aux Services d’AD RMS.
+  - Planification et Mise en œuvre de l’Intégration d’AD RMS au Contrôle d'Accès Dynamique.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre de l’Infrastructure d’AD RMS
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire ce qu’est AD RMS et les scénarios de gestion traités par AD RMS.
+  - Planifier, mettre en œuvre et gérer un cluster AD RMS.
+  - Planifier et mettre en œuvre des modèles et politiques AD RMS.
+  - Planifier et mettre en œuvre l’accès externe aux services AD RMS.
+  - Planifier l’intégration d’AD RMS et DAC.
+

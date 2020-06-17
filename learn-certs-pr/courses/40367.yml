@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Security Fundamentals: MTA Exam 98-367'
+metadata:
+  title: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+  description: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+uid: course.40367
+courseNumber: '40367-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les couches de sécurité.
+- skill: Comprendre la sécurité du système d’exploitation.
+- skill: Comprendre la sécurité du réseau.
+- skill: Comprendre le logiciel de sécurité.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-367
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-367 et à comprendre les sujets suivants&#58; les couches de sécurité, la sécurité du système d’exploitation, la sécurité du réseau, le logiciel de sécurité. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen. Cette formation est mise à jour pour la prise en charge de Windows 10.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Compréhension des couches de sécurité
+
+  ### Module 2&#58; Compréhension de l’authentification, de l’autorisation et de la comptabilité
+
+  ### Module 3&#58; Compréhension des politiques en matière de sécurité
+
+  ### Module 4&#58; Compréhension de la sécurité du réseau
+
+  ### Module 5&#58; Protection du serveur et du client
+

@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Programming in HTML5 with JavaScript and CSS3
+metadata:
+  title: 'Course 20480-C: Programming in HTML5 with JavaScript and CSS3'
+  description: 'Course 20480-C: Programming in HTML5 with JavaScript and CSS3'
+uid: course.20480
+courseNumber: '20480-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explication de l’utilisation de Visual Studio 2017 pour créer et exécuter une application Web.
+- skill: Description des nouvelles fonctionnalités de HTML5 et création et stylisation des pages HTML5.
+- skill: Ajout d’une interactivité à une page HTML5 à l’aide de JavaScript.
+- skill: Création de formulaires HTML5 à l’aide de différents types d’intrants et validation des intrants des utilisateurs à l’aide des attributs de HTML5 et du code JavaScript.
+- skill: Envoi et réception de données à et à partir d’une source de données à distance à l’aide des objets de Requête XMLHTTP et de Fetch API.
+- skill: Stylisation des pages HTML5 à l’aide de CSS3.
+- skill: Création d’un code JavaScript bien structuré et facilement accessible.
+- skill: Rédaction d’un code JavaScript et utilisation de babel pour le rendre compatible avec tous les navigateurs.
+- skill: Utilisation des API HTML5 dans des applications Web interactives.
+- skill: Création d’applications Web qui prennent en charge des opérations hors ligne.
+- skill: Création de pages Web HTML5 qui peuvent s’adapter à différents périphériques et facteurs de forme.
+- skill: Ajout de graphiques avancés à une page HTML5 à l’aide des événements Canvas et à l’aide de Graphiques Vectoriels Adaptables.
+- skill: Amélioration de l’expérience utilisateur grâce à l’ajout d’animations à une page HTML5.
+- skill: Utilisation de sockets Web pour envoyer et recevoir des données entre une application Web et un serveur.
+- skill: Amélioration de la réactivité d’une application Web qui exécute des opérations de longue durée grâce à des processus de traitement Web.
+- skill: Utilisation de WebPack pour créer des packages d’applications Web pour la production.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.70-480
+summary: |-
+  Cette formation est une introduction à HTML5, CSS3 et JavaScript. Cette formation aide les étudiants à obtenir des compétences de programmation de base dans HTML5/CSS3/JavaScript. Cette formation est un point d’accès aux chemins de formation aux applications Web et aux applications de Windows Store. Cette formation se concentre sur l’utilisation de HTML5/CSS3/JavaScript pour mettre en œuvre la logique de programmation, définir et utiliser des variables, effectuer un bouclage et un branchement, développer des interfaces utilisateurs, capturer et valider l’entrée utilisateur, stocker des données et créer des applications bien structurées. Les scénarios de laboratoire de cette formation sont sélectionnés pour prendre en charge et présenter la structure de différents scénarios d’application. Ils visent les principes et composants/structures de codage qui sont utilisés pour établir une application logicielle HTML5. Ce cours utilise Visual Studio 2017 exécuté sur Windows 10.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux développeurs professionnels qui ont 6 à 12 mois d’expérience en programmation et qui souhaitent développer des applications à l’aide de HTML5 avec JavaScript et CSS3 (des applications Windows Store pour Windows 10 ou des applications Web).
+prerequisitesSection: |-
+  - 1 à 3 mois d’expérience dans la création d’applications Web, y compris un code JavaScript simple.
+  - 1 mois d’expérience dans la création d’applications clientes Windows.
+  - 1 mois d’expérience dans l’utilisation de Visual Studio 2017.
+outlineSection: |-
+  ### Module 1&#58; Présentation de HTML et CSS
+  La plupart des applications Web modernes sont construites sur une base de pages HTML qui décrivent le contenu que les utilisateurs lisent et interagissent avec les feuilles de style pour rendre le contenu agréable à l’œil et un code JavaScript pour offrir un niveau d’interaction entre l’utilisateur et la page et entre la page et le serveur. Le navigateur Internet utilise le marquage HTML et les feuilles de style pour fournir un rendu de ce contenu et exécute le code JavaScript pour mettre en œuvre le comportement de l’application. Ce module révise les bases de HTML et CSS et présente les outils que cette formation utilise pour créer des pages HTML et des feuilles de style.
+  #### Leçons
+  - Présentation du HTML.
+  - Présentation du CSS.
+  - Création d’une Application Web à l’Aide de Visual Studio 2017.
+
+
+  #### Laboratoire&#58; Exploration de l’Application de Conférence Contoso
+  - Exploration de l’Application de Conférence Contoso.
+  - Examen et Modification de l’Application de Conférence Contoso.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer l’utilisation des éléments et des attributs HTML pour disposer une page Web.
+  - Expliquer l’utilisation de CSS pour appliquer le style de base à une page Web.
+  - Décrire les outils que Microsoft Visual Studio fournit pour la construction d’applications Web.
+
+
+  ### Module 2&#58; Création et Stylisation de pages HTML
+  Les technologies qui forment la base de toutes les applications Web HTML, CSS et JavaScript ont été rendues disponibles il y a de nombreuses années, mais l’objectif et la sophistication des applications Web ont changé de manière significative. HTML5 est la première révision importante de HTML en 10 ans. Elle offre des moyens hautement adaptés de présentation de contenu pour des applications Web traditionnelles, des applications qui s’exécutent sur des dispositifs mobiles ainsi que sur la plateforme Windows 10. Ce module présente HTML5, décrit ses nouvelles fonctionnalités, montre comment présenter du contenu à l’aide des nouvelles fonctionnalités de HTML5 et comment styliser ce contenu à l’aide de CSS.
+  #### Leçons
+  - Création d’une Page HTML5.
+  - Stylisation d’une Page HTML5.
+
+
+  #### Laboratoire&#58; Création et Stylisation de Pages HTML5
+  - Création de Pages HTML5.
+  - Stylisation de Pages HTML.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire l’objectif et les nouvelles fonctionnalités de HTML5 et expliquer comment utiliser les nouveaux éléments de HTML5 pour la présentation d’une page Web.
+  Expliquer comment utiliser CSS pour styliser la présentation, le texte et l’arrière-plan d’une page Web.
+
+
+  ### Module 3&#58; Introduction à JavaScript
+  HTML et CSS donnent les informations structurelles, sémantiques et de présentation pour une page Web. Cependant, ces technologies ne décrivent pas les interactions des utilisateurs avec une page à l’aide d’u navigateur. Pour mettre en œuvre cette fonctionnalité, tous les navigateurs modernes incluent un moteur JavaScript pour prendre en charge l’utilisation des scripts sur une page. Ils mettent également en œuvre le modèle d’objet de document (DOM), une norme W3C qui définit comment un navigateur doit refléter une page dans la mémoire pour permettre aux moteurs de scriptage d’accéder et de modifier le contenu d’une page. Ce module présente la programmation de JavaScript et DOM.
+  #### Leçons
+  - Présentation de JavaScript.
+  - Introduction au Modèle d’Objet de Document.
+
+
+  #### Laboratoire&#58; Affichage des Données et Gestion des Evénements à l’Aide de JavaScript
+  - Affichage des Données de Manière Programmée.
+  - Gestion des Evénements.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire la syntaxe de base de JavaScript.
+  - Rédiger le code de JavaScript qui utilise le DOM pour modifier et récupérer des informations d’une page Web.
+
+
+  ### Module 4&#58; Création de Formulaires pour Collecter et Valider les Intrants des Utilisateurs
+  Les applications Web ont fréquemment besoin de rassembler les intrants des utilisateurs afin d’exécuter leurs tâches. Une page Web doit être claire et concise concernant les intrants attendus d’un utilisateur afin de minimiser les incompréhensions frustrantes concernant les informations que l’utilisateur doit fournir. En outre, tous les intrants doivent être validés afin de s’assurer qu’ils sont conformes aux exigences de l’application. Dans ce module, vous apprendrez à définir des formes d’intrants à l’aide des nouveaux types d’intrants disponibles dans HTML5. Vous verrez également comment valider des données à l’aide des attributs HTML5. Enfin, vous apprendrez à procéder à la validation des intrants étendus à l’aide du code JavaScript et à fournir un retour d’information aux utilisateurs lorsque leurs intrants ne sont pas valides ou ne correspondent pas aux attentes des applications.
+  #### Leçons
+  - Création de Formulaires HTML5.
+  - Validation des Intrants des Utilisateurs à l’Aide des Attributs de HTML5.
+  - Validation des intrants des Utilisateurs à l’Aide de JavaScript.
+
+
+  #### Laboratoire&#58; Création d’un Formulaire et Validation des Intrants des Utilisateurs
+  - Création d’un Formulaire et Validation des Intrants des Utilisateurs à l’Aide des Attributs de HTML5.
+  - Validation des intrants des Utilisateurs à l’Aide de JavaScript.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Créer des formulaires d’intrants à l’aide de HTML5.
+  - Utiliser les attributs d’un formulaire HTML5 pour valider des données.
+  - Rédiger un code JavaScript pour exécuter des tâches de validation qui ne peuvent pas facilement être mises en œuvre à l’aide des attributs HTML5.
+
+
+  ### Module 5&#58; Communication avec un Serveur à Distance
+  De nombreuses applications Web exigent l’utilisation de données stockées sur un site à distance. Dans certains cas, vous pouvez accéder à ces données en les téléchargeant simplement d’un URL précis, mais dans d’autres cas, les données sont encapsulées par le site à distance et rendues accessibles par un service Web. Dans ce module, vous apprendrez à accéder à un service Web à l’aide du code JavaScript et à intégrer des données à distance à vos applications Web. Vous étudierez deux technologies qui visent à réaliser l’objet de la XMLHttpRequest, qui agit en tant qu’emballage programmatique des requêtes HTTP vers des sites Web à distance et Fetch API, qui simplifie de nombreuses tâches impliquées dans l’envoi de requêtes et la réception de données. Étant donné que Fetch API et l’objet de XMLHttpRequest sont synchrones, vous apprendrez d’abord à traiter des tâches non synchrones avec l’objet Promise, les fonctions de flèche et la nouvelle syntaxe async/await qui vous permet de traiter une demande asynchrone comme si elle était synchrone.
+  #### Leçons
+  - Programmation Async dans JavaScript.
+  - Envoi et Réception de Données à l’Aide de l’Objet de XMLHttpRequest.
+  - Envoi et Réception de Données à l’Aide de Fetch API.
+
+
+  #### Laboratoire&#58; Communication avec une Source de Données à Distance
+  - Récupération des Données.
+  - Sérialisation et Transmission des Données.
+  - Refactorisation du Code à l’Aide de la Méthode jQuery ajax.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Traiter des tâches JavaScript asynchrones à l’aide des nouvelles technologies de programmation async.
+  - Envoyer des données à un service Web et de recevoir des données d’un service Web à l’aide de l’objet de XMLHttpRequest.
+  - Envoyer des données à un service Web et de recevoir des données d’un service Web à l’aide de Fetch API.
+
+
+  ### Module 6&#58; Stylisation de HTML5 à l’Aide de CSS3
+  La stylisation du contenu affiché sur une page Web est un aspect important d’une application attirante et facile à utiliser. CSS est le principal mécanisme utilisé par les applications Web pour mettre en œuvre la stylisation et les fonctionnalités ajoutées à CSS3 prennent en charge de nombreuses nouvelles capacités qui se trouvent sur les navigateurs modernes. Alors que CSS1 et CSS2.1 étaient des documents uniques, le consortium World Wide Web a choisi de rédiger CSS3 en tant qu’ensemble de modules. Chaque module se concentre sur un aspect unique de la présentation, tel que la couleur, le texte, le modèle de case et les animations. Cela permet aux spécifications de se développer de manière progressive ainsi que leurs mises en œuvre. Chaque spécification définit des propriétés et des valeurs qui existaient déjà dans CSS1 et CSS2 ainsi que de nouvelles propriétés et valeurs. Dans ce module, vous étudierez les propriétés et les valeurs définies dans plusieurs de ces modules, les nouveaux sélecteurs définis dans CSS3 et l’utilisation de pseudo-classes et de pseudo-éléments pour affiner ces sélections.
+  #### Leçons
+  - Stylisation du Texte à l’Aide de CSS3.
+  - Stylisation des Eléments du Bloc.
+  - Pseudo-Classes et Pseudo-Eléments.
+  - Amélioration des Effets Graphiques à l’Aide de CSS3.
+
+
+  #### Laboratoire&#58; Stylisation du Texte et des Eléments du Bloc à l’Aide de CSS3
+  - Stylisation de la Barre de Navigation.
+  - Stylisation du Lien d’Inscription.
+  - Stylisation de la Page « À Propos ».
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Utiliser les nouvelles fonctionnalités de CSS3 pour styliser des éléments de texte.
+  - Utiliser les nouvelles fonctionnalités de CSS3 pour styliser des éléments du bloc.
+  - Utiliser les sélecteurs CSS3, les pseudo-classes et les pseudo-éléments pour affiner la stylisation des éléments.
+  - Améliorer les pages à l’aide des effets graphiques de CSS3.
+
+
+  ### Module 7&#58; Création d’Objets et de Méthodes à l’Aide de JavaScript
+  La réutilisation du code et la facilité de maintenance sont des objectifs clés de la rédaction d’applications bien structurées. Si vous atteignez ces objectifs, vous réduirez les coûts associés à la rédaction et à la maintenance de votre code. Ce module explique comment rédiger un code JavaScript bien structuré à l’aide de fonctionnalités de langage telles que les espaces de noms, les objets, l’encapsulation et l’héritage. Ces concepts semblent familiers si vous avez de l’expérience dans un langage tels que Java ou C#, mais l’approche de JavaScript est assez différente. Vous devez comprendre de nombreuses subtilités si vous souhaitez rédiger un code qui peut être maintenu.
+  #### Leçons
+  - Rédaction d’un Code JavaScript Bien Structuré.
+  - Création d’Objets Personnalisés.
+  - Extension des Objets.
+
+
+  #### Laboratoire&#58; Affinage du Code pour la Maintenabilité et de l’Extensibilité
+  - Succession des Objets.
+  - Refactorisation du Code JavaScript pour l’Utilisation des Objets.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Rédiger un code JavaScript bien structuré.
+  - Utiliser le code JavaScript pour créer des objets personnalisés.
+  - Mettre en œuvre des techniques orientées objet à l’aide des expressions idiomatiques de JavaScript.
+
+
+  ### Module 8&#58; Création de Pages Interactives à l’Aide des API HTML5
+  L’interactivité est un aspect clé des applications Web modernes, elle vous permet de construire des sites Web attrayants qui peuvent répondre rapidement aux actions de l’utilisateur et s’adapter à l’emplacement de l’utilisateur. Ce module explique comment créer des applications Web HTML5 interactives qui peuvent accéder au système de fichiers local, permettent à l’utilisateur de faire glisser-déposer des données dans des éléments d’une page Web, lisent des fichiers multimédias et obtiennent des informations de géolocalisation.
+  #### Leçons
+  - Interactions avec des Fichiers.
+  - Intégration Multimédia.
+  - Réaction à l’Emplacement et au Contexte du Navigateur.
+  - Débogage et Profilage d’une Application Web.
+
+
+  #### Laboratoire&#58; Création de Pages Interactives avec les API HTML5
+  - Glisser et Déposer des Images.
+  - Intégration de Vidéos.
+  - Utilisation de l’API de Géolocalisation pour Signaler l’Emplacement Actuel de l’Utilisateur.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Accéder au système de fichiers local et d’ajouter la prise en charge de la glisse pour les pages Web.
+  - Lire des fichiers vidéo et audio sur une page Web sans besoin de plug-ins. - Obtenir des informations concernant l’emplacement actuel de l’utilisateur,
+  - Utiliser des outils de développeur F12 dans Microsoft Edge pour déboguer et profiler une application Web.
+
+
+  ### Module 9&#58; Ajout de la Prise en Charge Hors Ligne des Applications Web
+  Les applications Web dépendent de la capacité de se connecter à un réseau pour trouver des pages et des données Web. Cependant, dans certains environnements, la connexion à un réseau peut être intermittente. Dans de telles situations, il peut être utile de permettre à l’application de continuer de fonctionner à l’aide de données en cache sur le dispositif de l’utilisateur. HTML5 propose des options de stockage du côté du client, ce qui inclut le stockage de la session et le stockage local ainsi qu’un mécanisme de mise en cache des ressources appelé le Cache de l’Application. Dans ce module, vous apprendrez à utiliser ces technologies pour créer des applications web solides qui peuvent continuer de fonctionner même quand une connexion réseau est indisponible.
+  #### Leçons
+  - Lecture et Rédaction de Données Localement.
+  - Ajout de la Prise en Charge Hors Ligne Grâce au Cache de l’Application.
+
+
+  #### Laboratoire&#58; Ajout de la Prise en Charge Hors Ligne des applications Web
+  - Mise en Cache de Données Hors Ligne Grâce au Cache API.
+  - Conservation des Données de l’Utilisateur Grâce au Stockage Local API.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Enregistrer des données localement sur le dispositif de l’utilisateur et d’accéder à ces données à partir d’une application Web.
+  - Configurer une application Web pour prendre en charge des opérations hors ligne grâce au cache de l’application.
+
+
+  ### Module 10&#58; Mise en œuvre d’une Interface Utilisateur Adaptative
+  Une des fonctionnalités les plus persistantes du Web est sa nature temporaire. Pour la première fois, le monopole du clavier et de la souris est mis au défi. Cela signifie remettre en question la façon dont les interfaces utilisateurs sont conçues. Il est possible que vous développez une application web sur un ordinateur avec un grand écran de haute résolution, une souris et un clavier, mais d’autres utilisateurs peuvent voir et interagir avec votre application sur un smartphone ou une tablette sans souris ou ont un ordinateur avec une résolution différente. Les utilisateurs souhaitent peut-être également imprimer des pages de votre application. Dans ce module, vous apprendrez à construire un site Web qui adapte son affichage et la fonctionnalité de ses pages aux capacités et au facteur de forme du dispositif sur lequel il est visualisé. Vous verrez comment détecter le type de dispositif utilisé pour visualiser une page et découvrirez des stratégies pour afficher du contenu qui cible efficacement des dispositifs spécifiques.
+  #### Leçons
+  - Prise en Charge de Plusieurs Facteurs de Forme.
+  - Création d’une Interface Utilisateur Adaptative.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’une Interface Utilisateur Adaptative
+  - Création d’une Feuille de Style Imprimable.
+  - Adaptation de la Mise en Page pour Répondre à Différents Facteurs de Forme.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les exigences d’un site Web en matière de réponse à différents facteurs de forme.
+  - Créer des pages Web qui peuvent s’adapter à leur présentation afin de correspond au facteur de forme du dispositif sur lequel elles sont affichées.
+
+
+  ### Module 11&#58; Création de Graphiques Avancés
+  Des graphiques avancés à haute résolution sont un élément clé des applications les plus modernes. Les graphiques peuvent aider à améliorer l’expérience de l’utilisateur en offrant un aspect visuel au contenu, rendant un site Internet plus attrayant et plus facile à utiliser. L’interactivité permet aux éléments graphiques dans un site web de s’adapter et de répondre aux intrants ou aux modifications de l’environnement par l’utilisateur. Elle est un autre élément important de la rétention de l’attention de l’utilisateur et de son intérêt pour le contenu.
+
+  Ce module explique comment créer des graphiques avancés dans HTML5 à l’aide des Graphiques Vectoriels Adaptables (SVG) et de Microsoft Canvas API. Vous apprendrez à utiliser les éléments liés aux SVG et à afficher du contenu graphique sur une page web. Vous apprendrez également à permettre à l’utilisateur d’interagir avec des éléments des SVG grâce à l’utilisation d’événements tels que les événements de clavier et de souris.
+
+  Canvas API est assez différent des SVG. Canvas API apporte un élément et un ensemble de fonctions JavaScript que vous pouvez invoquer pour dessiner des graphiques sur la surface du canvas. Vous apprendrez à utiliser Canvas API et saurez quand il est mieux d’utiliser Canvas ou SVG.
+  #### Leçons
+  - Création de Graphiques Interactifs à l’Aide des SVG.
+  - Dessin de Graphiques à l’Aide de Canvas API.
+
+
+  #### Laboratoire&#58; Création de Graphiques Avancés
+  - Création d’une Carte Interactive du Site à l’Aide des SVG.
+  - Création d’un Badge d’Orateur à l’Aide de Canvas API.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Utiliser les SVG pour créer du contenu graphique interactif.
+  - Utiliser Canvas API pour générer du contenu graphique de façon programmée.
+
+
+  ### Module 12&#58; Animation de l’Interface Utilisateur
+  Les animations sont un élément clé de la conservation de l’intérêt d’un utilisateur pour un site web. Des animations soigneusement mises en œuvre améliorent la convivialité d’une page web et donnent un retour d’information visuel utile sur les actions des utilisateurs.
+
+  Ce module explique comment améliorer les pages web à l’aide des animations CSS. Vous apprendrez à appliquer des transitions aux valeurs de propriété. Les transitions vous permettent de préciser le délai des modifications de la propriété. Vous pouvez par exemple préciser qu’un élément doit changer de largeur et de hauteur en cinq secondes quand le pointeur de la souris passe dessus. Ensuite, vous apprendrez à appliquer des transformations en 2D et en 3D aux éléments. Les transformations vous permettent de mettre à l’échelle, de traduire, de faire tourner et d’appliquer une asymétrie aux éléments. Vous pouvez également appliquer des transitions aux transformations pour que la transformation soit appliquée progressivement au cours d’une période d’animation précise.
+
+  À la fin du module, vous apprendrez à appliquer des animations de Keyframe aux éléments. Les animations de Keyframe vous permettent de définir un ensemble de valeurs de propriété à des moments précis pendant une animation. Vous pouvez par exemple préciser la couleur et la position d’un élément à 0 %, 33 %, 66 % et 100 % de la période d’animation.
+  #### Leçons
+  - Application des Transitions CSS.
+  - Transformation des Eléments.
+  - Application d’Animations Keyframes CSS.
+
+
+  #### Laboratoire&#58; Animation de l’Interface Utilisateur
+  - Application des Transitions CSS.
+  - Application des Animations Keyframes.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Appliquer des transitions pour animer des valeurs de propriété à des éléments HTML.
+  - Appliquer des transformations 2D et 3D aux éléments HTML.
+  - Appliquer des animations keyframes à des éléments HTML.
+
+
+  ### Module 13&#58; Mise en œuvre de la Communication en Temps Réel à l’Aide des Sockets Web
+  Les pages Web requièrent des données à la demande d’un serveur web en envoyant des requêtes HTTP. Ce modèle est idéal pour la construction d’applications interactives où la fonctionnalité est entraînée par les actions d’un utilisateur. Cependant, ce mécanisme est moins adapté dans une application qui a besoin d’afficher constamment des informations changeantes. Par exemple, une page de valeurs financières est inutile si elle affiche des prix qui ont même quelques minutes. Vous ne pouvez pas attendre d’un utilisateur qu’il rafraîchisse constamment la page affichée dans le navigateur. C’est là où les sockets web sont utiles. Les sockets web API offrent un mécanisme de mise en œuvre d’une communication à deux voies en temps réel entre le serveur et le navigateur web.
+
+  Ce module présente les sockets Web, décrit leur fonctionnement et explique comment créer une connexion de sockets web qui peut être utilisée pour transmettre des données en temps réel entre une page Web et un serveur web.
+  #### Leçons
+  - Introduction aux Sockets Web.
+  - Utilisation des Sockets Web API.
+
+
+  #### Laboratoire&#58; Exécution de la Communication en Temps Réel Grâce aux Sockets Web
+  - Réception de Messages d’un Socket Web.
+  - Envoi de Messages à un Socket Web.
+  - Traitement de Différents Types de Messages de Sockets Web.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire de quelle manière l’utilisation des sockets Web permet des communications en temps réel entre une page web et un serveur web.
+  - d’utiliser les sockets web API pour se connecter à un serveur web à partir d’une page web et d’échanger des messages entre la page web et le serveur web.
+
+
+  ### Module 14&#58; Exécution du Traitement en Arrière-Plan à l’Aide des Traitements web
+  Le code JavaScript est un outil puissant de mise en œuvre de la fonctionnalité d’une page web, mais vous devez vous rappeler que ce code est exécuté soit quand une page web charge soit en réponse aux actions des utilisateurs tandis que la page web est affichée. Ce code est exécuté par le navigateur. Si le code exécute des opérations qui prennent du temps, le navigateur peut ne plus répondre et dégrade l’expérience de l’utilisateur.
+
+  HTML5 introduit les traitements web, qui vous permettent de décharger le traitement vers des fils séparés en arrière-plan et permettent donc au navigateur de continuer de répondre. Ce module explique comment les traitements web fonctionnent et comment vous pouvez les utiliser dans vos applications web.
+  #### Leçons
+  - Compréhension des Traitements Web.
+  - Exécution du Traitement Asynchrone à l’Aide des Traitements Web.
+
+
+  #### Laboratoire&#58; Création d’un Processus de Traitement Web
+  - Amélioration de la Réactivité à l’Aide d’un Traitement Web.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer de quelle manière les traitements web peuvent être utilisés pour mettre en œuvre le multithreading et améliorer la réactivité d’une application web.
+  - Effectuer le traitement à l’aide d’un traitement web, de communiquer avec un traitement web et de le contrôler.
+
+
+  ### Module 15&#58; Conditionnement de JavaScript pour le Déploiement de la Production
+  L’utilisation de modèles vous permet de construire de grandes applications complexes. La progression du langage de la version de ECMAScript6 permet de simplifier le processus de construction de l’application.
+  Cependant, l’utilisation des modules ECMAScript6 et d’autres fonctionnalités n’est pas encore prise en charge par tous les navigateurs. Des outils tels que Node.js, Webpack et Babel permettent l’utilisation des nouvelles fonctionnalités de langage ainsi que la prise en charge par différents navigateurs afin d’éviter de nuire à l’expérience de l’utilisateur.
+
+  Dans ce module, nous vous présenterons la théorie qui se cache derrière ces outils, quand nous devons les utiliser et les différentes options d’utilisation. À la fin de ce module, nous étudierons comment utiliser ces outils pour rédiger un code ECMAScript6 pris en charge par tous les navigateurs.
+  #### Leçons
+  - Compréhension des Transpilers et Regroupement des Modules.
+  - Création de Paquets séparés pour la Prise en Charge dans tous les Navigateurs.
+
+
+  #### Laboratoire&#58; Définition du Groupement WebPack pour la Production.
+  - Création et Déploiement de Paquets à l’Aide de WebPac.
+

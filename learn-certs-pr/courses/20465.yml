@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Designing Solutions for Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20465-D: Designing Solutions for Microsoft SQL Server 2014'
+  description: 'Course 20465-D: Designing Solutions for Microsoft SQL Server 2014'
+uid: course.20465
+courseNumber: '20465-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Évaluation d’un environnement d’entreprise existant.
+- skill: Planification et mise en œuvre d’une Gestion Basée sur les Politiques.
+- skill: Description des considérations de consolidation des charges de travail avec SQL Server 2014.
+- skill: Description des considérations d’inclusion de SQL Server 2014 sur un cloud privé.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-465
+summary: |-
+  Cette formation en trois jours menée par un instructeur vise la planification et la mise en œuvre de solutions d’infrastructure de base de données en entreprise à l’aide de SQL Server 2014 et d’autres technologies Microsoft. Elle décrit comment consolider les charges de travail de SQL Server et comment planifier et mettre en œuvre des solutions de haute disponibilité et de reprise après sinistre.
+
+  Remarque&#58; Cette formation est conçue pour les clients qui souhaitent découvrir SQL Server 2012 ou SQL Server 2014. Elle couvre les nouvelles fonctionnalités de SQL Server 2014, mais également les capacités importantes de la plateforme de données SQL Server.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des bases de données qui doivent planifier, mettre en œuvre et gérer des solutions de bases de données. Les responsabilités principales incluent&#58; 
+  - La planification et la mise en œuvre d’une infrastructure de base de données. 
+  - La planification et la mise en œuvre de stratégies de consolidation. 
+  - La planification et la mise en œuvre de solutions de haute disponibilité. 
+  - La planification et la mise en œuvre de solutions de reprise après sinistre.
+prerequisitesSection: |-
+  Cette formation exige que vous remplissiez les prérequis suivants&#58;
+  - Au moins 2 ans d’expérience professionnelle avec des bases de données relationnelles, y compris 
+    - La planification et la mise en œuvre de bases de données.
+    - La gestion de bases de données.
+    - Requêtes avec Transact-SQL 
+    - Des connaissances de base de la haute disponibilité et de la reprise après sinistre.
+outlineSection: |-
+  ### Module 1&#58; Introduction à l’Architecture des Données en Entreprise
+  Au fur et à mesure que les organisations grandissent et deviennent des entreprises, leurs exigences en matière d’infrastructure de TI deviennent de plus en plus complexes et l’environnement de réseau inclut souvent un nombre croissant de serveurs, d’ordinateurs de clients, de segments de réseau et d’autres composants. Étant donné que les données sont essentielles dans la plupart des opérations de TI, une mûre réflexion doit être apportée à l’approvisionnement et à la gestion des bases de données dans l’entreprise.
+  #### Leçons
+  - Considérations pour les Données des Entreprises.
+  - Évaluation d’une Infrastructure Existante.
+
+
+  #### Laboratoire&#58; Évaluation d’une Infrastructure de Données d’Entreprise Existante
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les considérations en matière d’infrastructure de données d’une entreprise. 
+  - Utiliser l’Outil MAP pour évaluer un environnement de données d’entreprise existant.
+
+
+  ### Module 2&#58; Gestion de la Configuration Multiserveurs.
+  Lorsque l’infrastructure d’une entreprise inclut plusieurs serveurs de bases de données, il peut être utile d’uniformiser et de renforcer les paramètres de configuration afin de s’assurer de la conformité et de la facilité de gestion. Ce module discute de la Gestion Basée sur les Politiques dans SQL Server et décrit comment elle peut être utilisée avec les outils de gestion de la configuration d’une entreprise tels que Microsoft System Center afin d’aider à la gestion des serveurs de bases de données d’une entreprise.
+  #### Leçons
+  - Gestion Basée sur les Politiques.
+  - Microsoft System Center.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre de la Gestion basée sur les Politiques
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Mettre en œuvre la gestion basée sur les politiques 
+  - Décrire l’utilisation de System Center pour gérer l’infrastructure de base de données.
+
+
+  ### Module 3&#58; Surveillance de la Santé de SQL Server 2014
+  Ce module décrit le collecteur de données et le point de contrôle de l’utilité (UCP) de SQL Server, deux fonctionnalités de SQL Server 2014 qui vous permettent de procéder à une surveillance approfondie de la santé dans l’entreprise.
+  #### Leçons
+  - Introduction à la Surveillance de la Santé.
+  - Collecteur de Données.
+  - Utilité de SQL Server.
+
+
+  #### Laboratoire&#58; Surveillance de la Santé de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les options de surveillance de la santé multiserveur dans SQL Server 2014. 
+  - Décrire et configurer le collecteur de données. 
+  - Décrire et configurer l’utilité de SQL Server.
+
+
+  ### Module 4&#58; Consolidation des Charges de Travail des Bases de Données avec SQL Server 2014
+  Ce module donne un aperçu des avantages de la consolidation des charges de travail des bases de données à l’aide de SQL Server 2014 et décrit les différentes options de mise en œuvre d’une stratégie de consolidation. Il décrit également comment vous pouvez gérer une infrastructure consolidée dans différents scénarios.
+  #### Leçons
+  - Considérations pour la Consolidation des Serveurs des Bases de données.
+  - Gestion des Ressources dans une Infrastructure de Base de Données Consolidée.
+
+
+  #### Laboratoire&#58; Consolidation de SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les considérations de consolidation des bases de données et des serveurs des bases de données. 
+  - Expliquer les options de gestion des ressources dans différents scénarios de consolidation.
+
+
+  ### Module 5&#58; Introduction aux Solutions de Données dans le Cloud
+  Le cloud computing a très rapidement pris de l’importance dans le monde des TI et de nombreuses organisations ont mis en œuvre ou prévoient mettre en œuvre des solutions basées sur le cloud qui englobent la totalité ou une partie de leur infrastructure. Ce module décrit une partie des concepts de base du cloud computing et souligne la façon d’inclure SQL Server 2014 dans une infrastructure du cloud privé.
+  #### Leçons
+  - Présentation du Cloud Computing.
+  - SQL Server dans un Cloud Privé.
+
+
+  #### Laboratoire&#58; Préparation d’une Installation SQL Server dans un Modèle de Machine Virtuelle
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Expliquer les concepts de base derrière le cloud computing et décrire les technologies qui soutiennent les solutions de cloud de Microsoft. 
+  - Décrire comment fournir des services de données SQL Server dans une infrastructure du cloud privé.
+
+
+  ### Module 6&#58; Introduction à la Haute Disponibilité dans SQL Server 2014
+  La conservation de services de bases de données hautement disponibles est essentielle dans un environnement qui fonctionne 24 h/24. SQL Server 2014 inclus de nombreuses fonctionnalités qui peuvent aider les organisations à proposer les niveaux de service dont elles ont besoin pour mener leurs affaires à bien. Ce module explique les différentes façons de mettre en œuvre la haute disponibilité à l’aide de SQL Server 2014. Il décrit également comment utiliser l’envoi de journaux pour promouvoir la résilience des bases de données des utilisateurs individuels.
+  #### Leçons
+  - Concepts de Haute Disponibilité et Options dans SQL Server 2014.
+  - Envoi de journaux.
+
+
+  #### Laboratoire&#58; Utilisation de l’Envoi de Journaux
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les concepts et options essentiels de la mise en œuvre de la haute disponibilité dans SQL Server 2014. 
+  - Décrire comment mettre en œuvre la haute disponibilité pour des bases de données individuelles à l’aide de l’envoi de journaux.
+
+
+  ### Module 7&#58; Regroupement avec Windows Server et SQL Server 2014
+  SQL Server 2014 est étroitement intégré à la fonctionnalité de clustering avec basculement de Windows Server dans Windows Server 2012 et Windows Server 2012 R2, ce qui vous permet de créer des solutions de clustering de qualité d’entreprise qui peuvent fournir une haute disponibilité globale et des solutions de reprise après sinistre. Ce module explique comment le clustering avec basculement de Windows Server et les instances de clustering avec basculement SQL Server AlwaysOn fonctionnent. Il décrit également comment mettre en œuvre le clustering pour protéger la disponibilité des services.
+  #### Leçons
+  - Introduction au Clustering de Basculement de Windows Server.
+  - Instances de Clustering de basculement SQL Server AlwaysOn.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’une Instance de Clustering de Basculement AlwaysOn
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les avantages et fonctionnalités clés du clustering de basculement Windows Server. 
+  - Expliquer comment utiliser les instances de clustering de basculement SQL Server AlwaysOn pour conserver la haute disponibilité pour des instances SQL Server.
+
+
+  ### Module 8&#58; Groupes de Disponibilité AlwaysOn
+  SQL Server 2014 inclus des Groupes de Disponibilité AlwaysOn qui offrent une haute disponibilité pour les groupes de bases de données. Ce module décrit les Groupes de Disponibilité AlwaysOn dans SQL Server 2014, les concepts clés des Groupes de Disponibilité AlwaysOn et décrit comment vous pouvez les utiliser pour conserver des bases de données hautement disponibles.
+  #### Leçons
+  - Introduction aux Groupes de Disponibilité AlwaysOn.
+  - Travail avec des Groupes de Disponibilité AlwaysOn.
+  - Considérations pour l’utilisation des Groupes de Disponibilité AlwaysOn.
+
+
+  #### Laboratoire&#58; Mise en œuvre et Test d’un Groupe de Disponibilité AlwaysOn
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les concepts de base et la terminologie des Groupes de Disponibilité AlwaysOn. 
+  - Expliquer comment travailler avec les Groupes de Disponibilité AlwaysOn.
+
+
+  ### Module 9&#58; Planification de la Haute Disponibilité et de la Reprise Après Sinistre
+  Ce module décrit les considérations de planification de la haute disponibilité et de la reprise après sinistre et propose des scénarios de mise en œuvre courants pour des environnements sur site, hybrides et Microsoft Azure.
+  #### Leçons
+  - La Haute Disponibilité et la Reprise Après Sinistre avec SQL Server 2014.
+  - Solutions de Haute Disponibilité et Reprise Après Sinistre SQL Server.
+
+
+  #### Laboratoire&#58; Planification de la Haute Disponibilité et de la Reprise Après Sinistre
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Expliquer les considérations de mise en œuvre de la haute disponibilité et de la reprise après sinistre à l’aide de SQL Server 2014 et de décrire des scénarios courants. 
+  - Expliquer les considérations de mise en œuvre de la haute disponibilité et de la reprise après sinistre à l’aide de SQL Server 2014 et des services Microsoft Azure et de décrire certains scénarios courants.
+
+
+  ### Module 10&#58; Réplication de Données
+  La réplication de SQL Server vous permet de copier et distribuer des données et des objets de bases de données à d’autres ordinateurs et emplacements de votre entreprise, ce qui permet d’améliorer la disponibilité et la flexibilité. Ce module donne un aperçu de la réplication SQL Server et décrit les agents utilisés pour mettre en œuvre la réplication. Il décrit également certains scénarios de réplication courants, comment concevoir un système de réplication adéquat pour répondre à vos exigences et comment surveiller et dépanner la réplication.
+  #### Leçons
+  - Réplication SQL Server.
+  - Planification de la Réplication.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre de la Réplication
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire la réplication SQL Server. 
+  - Identifier une solution de réplication adéquate pour un scénario précis.
+

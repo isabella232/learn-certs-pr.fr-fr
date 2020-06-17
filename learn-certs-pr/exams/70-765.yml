@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: Provisioning SQL Databases
+metadata:
+  title: 'Exam 70-765: Provisioning SQL Databases'
+  description: 'Exam 70-765: Provisioning SQL Databases'
+uid: exam.70-765
+displayName: 70-765
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen est destiné aux architectes, développeurs confirmés, spécialistes de l'infrastructure et responsables de développement. Les candidats ont des connaissances pratiques des différents modèles de service de cloud et des différentes architectures de modèle de service, des options de stockage de données et des techniques de synchronisation des données. Les candidats ont également des connaissances pratiques sur les modèles de déploiement, la mise à niveau et la migration de bases de données, d'applications et de services, et sur l'intégration des applications Azure aux ressources externes.
+
+  <div style='font-weight&#58; bold;'><br/>Cet examen a été mis à jour en mars 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-765.</div>
+subTitle: Cet examen est destiné aux architectes, développeurs confirmés, spécialistes de l'infrastructure et responsables de développement. Les candidats ont des connaissances pratiques des différents modèles de service de cloud et des différentes architectures de modèle de service, des options de stockage de données et des techniques de synchronisation des données. Les candidats ont également des connaissances pratiques sur les modèles de déploiement, la mise à niveau et la migration de bases de données, d'applications et de services, et sur l'intégration des applications Azure aux ressources externes.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
+practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Mise en œuvre de SQL dans Azure (40-45%)
+- Gestion des bases de données et des instances (30-35%)
+- Gestion du stockage (30-35%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20765
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+- related:
+    uid: certification.mcsa-sql2016-database-administration-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

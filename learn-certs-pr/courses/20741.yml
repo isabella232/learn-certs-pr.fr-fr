@@ -1,0 +1,284 @@
+### YamlMime:Course
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Course 20741-B: Networking with Windows Server 2016'
+  description: 'Course 20741-B: Networking with Windows Server 2016'
+uid: course.20741
+courseNumber: '20741-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planification et mise en œuvre d’un réseau IPv4.
+- skill: Mise en œuvre du service Dynamic Host Configuration Protocol (DHCP).
+- skill: Mise en œuvre d’IPv6.
+- skill: Mise en œuvre du système de nom de domaine (DNS).
+- skill: Mise en œuvre et administration de la gestion des adresses IP (IPAM).
+- skill: Planification de l’accès à distance.
+- skill: Mise en œuvre de DirectAccess.
+- skill: Mise en œuvre de réseaux privés virtuels (VPN).
+- skill: Mise en œuvre de la mise en réseau pour des succursales.
+- skill: Configuration des fonctionnalités avancées de mise en réseau.
+- skill: Mise en œuvre de la mise en réseau définie par logiciel.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-741
+summary: |-
+  Cette formation de cinq jours en salle de classe fournit les compétences de base de la mise en réseau qui sont requises pour déployer et prendre en charge Windows Server 2016 dans la plupart des organisations. Elle couvre les bases d’IP, les technologies d’accès à distance et du contenu plus avancé, y compris la mise en réseau définie par logiciel.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des TI qui ont des connaissances et de l’expérience dans la mise en réseau et cherchent une formation unique qui fournit des informations sur les technologies de base et avancées de la mise en réseau dans Windows Server 2016. Cette audience inclut généralement&#58;
+  - les administrateurs de réseau qui cherchent à renforcer leurs compétences et à découvrir les changements dans les nouvelles technologies de mise en réseau et leurs fonctionnalités dans Windows Server 2016,
+  - les administrateurs de système ou d’infrastructure qui ont des connaissances générales de mise en réseau et qui cherchent à obtenir des connaissances et des compétences de base et avancées de la mise en réseau dans Windows Server 2016.
+
+  L’audience secondaire de cette formation est constituée par les professionnels des TI qui cherchent à passer l’examen MCSA 70-741&#58; Mise en réseau avec Windows Server 2016.
+prerequisitesSection: |-
+  Outre expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Expérience de travail avec Windows Server 2008 ou Windows Server 2012.
+  - Expérience de travail dans un environnement d’infrastructure d'entreprise Windows Server.
+  - Connaissance du modèle OSI (Open Systems Interconnection).
+  - Compréhension des composants et technologies de base de l’infrastructure du réseau tels que le câblage, les routeurs, les hubs et les interrupteurs.
+  - Familiarité avec les topologies et architectures de mise en réseau telles que les réseaux locaux (LAN), les réseaux étendus (WAN) et le réseau sans fil.
+  - Connaissances de base de la pile de protocoles TCP/IP, de l’adressage et de la résolution de noms.
+  - Expérience et connaissances de Hyper-V et de la virtualisation.
+  - Expérience pratique avec les systèmes d’exploitation client Windows, tels que Windows 8.1 ou Windows 10.
+
+  Les étudiants peuvent respecter les prérequis en suivant les formations suivantes ou en ayant des connaissances ou compétences équivalentes&#58;
+  - [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=10967).
+outlineSection: |-
+  ### Module 1&#58; Planification et mise en œuvre d’un réseau IPv4
+  Ce module explique également l’utilisation des outils et techniques de base de la mise en réseau afin de configurer et dépanner des réseaux basés sur IPv4.
+  #### Leçons
+  - Planification de l’adressage IPv4.
+  - Configuration d’un hôte IPv4.
+  - Gestion et dépannage de la connectivité réseau IPv4.
+
+
+  #### Laboratoire &#58; Planification d’un réseau IPv4
+  - Planification des affectations d’adresse IPv4.
+
+
+  #### Laboratoire &#58; Mise en œuvre et dépannage d’un réseau IPv4
+  - Vérification d’IPv4.
+  - Dépannage d’IPv4.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de planifier l’adressage IPv4,
+  - de configurer un hôte IPv4,
+  - de gérer et dépanner la connectivité réseau IPv4.
+
+
+  ### Module 2&#58; Mise en œuvre de DHCP
+  Ce module explique la planification et la mise en œuvre de DHCP pour prendre en charge l’infrastructure IPv4.
+  #### Leçons
+  - Présentation du rôle du serveur DHCP.
+  - Déploiement de DHCP.
+  - Gestion et dépannage de DHCP.
+
+
+  #### Laboratoire &#58; Mise en œuvre de DHCP
+  - Planification de la mise en œuvre d’un serveur DHCP.
+  - Mise en œuvre de la configuration de DHCP.
+  - Validation de la mise en œuvre de DHCP.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer le rôle du serveur DHCP,
+  - de déployer DHCP,
+  - de gérer et dépanner DHCP.
+
+
+  ### Module 3&#58; Mise en œuvre d’IPv6
+  Ce module explique comment mettre en œuvre IPv6 et comment intégrer les réseaux IPv6 et IPv4.
+  #### Leçons
+  - Présentation de l’adressage IPv6.
+  - Configuration d’un hôte IPv6.
+  - Mise en œuvre de la coexistence d’IPv4 et d’IPv6.
+  - Transition d’IPv4 à IPv6.
+
+
+  #### Laboratoire &#58; Configuration et évaluation des technologies de transition IPv6
+  - Révision de la configuration par défaut d’IPv6.
+  - Mise en œuvre de DHCPv6.
+  - Configuration de l’intégration du réseau à l’aide d’ISATAP.
+  - Configuration de la connectivité native d’IPv6.
+  - Configuration de la connectivité 6to4.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les fonctionnalités et les avantages d’IPv6,
+  - de configurer un hôte IPv6,
+  - de mettre en œuvre la coexistence entre les réseaux IPv4 et IPv6,
+  - de faire la transition d’un réseau IPv4 à un réseau IPv6.
+
+
+  ### Module 4&#58; Mise en œuvre de DNS
+  Ce module explique l’installation, la configuration et le dépannage de DNS dans le réseau d’une organisation.
+  #### Leçons
+  - Mise en œuvre des serveurs DNS.
+  - Configuration des zones dans DNS.
+  - Configuration de la résolution de noms entre des zones DNS.
+  - Configuration de l’intégration de DNS avec Active Directory Domaine Services (AD DS).
+  - Configuration des paramètres avancés de DNS.
+
+
+  #### Laboratoire &#58; Planification et mise en œuvre de la résolution de noms à l’aide de DNS
+  - Planification de la résolution de DNS noms.
+  - Mise en œuvre des serveurs et des zones DNS.
+
+
+  #### Laboratoire &#58; Intégration de DNS avec Active Directory
+  - Intégration de DNS avec Active Directory.
+
+
+  #### Laboratoire &#58; Configuration des paramètres DNS avancés
+  - Configuration de politiques DNS.
+  - Validation de la mise en œuvre DNS.
+  - Dépannage de DNS.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre en œuvre des serveurs DNS,
+  - de configurer des zones dans DNS,
+  - de configurer la résolution de noms entre des zones DNS,
+  - de configurer l’intégration de DNS avec AD DS,
+  - de configurer des paramètres DNS avancés.
+
+
+  ### Module 5&#58; Mise en œuvre et gestion d’IPAM
+  Ce module explique comment mettre en œuvre et gérer la fonctionnalité IPAM dans Windows Server 2016. Ce module explique également l’utilisation d’IPAM pour gérer des services tels que DHCP et DNS.
+  #### Leçons
+  - Présentation d’IPAM.
+  - Déploiement d’IPAM.
+  - Gestion des espaces d’adresse IP à l'aide d'IPAM.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’IPAM.
+  - Installation de la fonctionnalité de serveur IPAM.
+  - Provisionnement du serveur IPAM.
+  - Gestion des espaces d’adresse IP à l'aide d'IPAM.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la fonctionnalité IPAM et ses composants,
+  - de déployer IPAM,
+  - de gérer des espaces d’adresses IP à l’aide d’IPAM.
+
+
+  ### Module 6&#58; Accès à distance dans Windows Server 2016
+  Ce module explique la planification de l’accès à distance dans Windows Server 2016 et la mise en œuvre du proxy d’application Web.
+  #### Leçons
+  - Présentation de l’accès à distance.
+  - Mise en œuvre du proxy d’application Web.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un proxy d’application Web
+  - Mise en œuvre du proxy d’application Web
+  - Validation du déploiement du proxy d’application Web.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’accès à distance,
+  - de mettre en œuvre un proxy d’application Web.
+
+
+  ### Module 7&#58; Mise en œuvre de DirectAccess
+  Ce module explique la mise en œuvre et la gestion de DirectAccess dans Windows Server 2016.
+  #### Leçons
+  - Présentation de DirectAccess.
+  - Mise en œuvre de DirectAccess à l’aide de l’assistant de démarrage.
+  - Mise en œuvre et gestion d’une infrastructure avancée DirectAccess.
+
+
+  #### Laboratoire &#58; Mise en œuvre de DirectAcess à l’aide de l’assistant de démarrage
+  - Vérification de la préparation au déploiement DirectAccess.
+  - Configuration de DirectAccess.
+  - Validation du déploiement de DirectAccess.
+
+
+  #### Laboratoire &#58; Déploiement d’une solution avancée DirectAccess
+  - Préparation de l’environnement pour DirectAccess.
+  - Mise en œuvre de l’infrastructure DirectAccess avancée.
+  - Validation du déploiement de DirectAccess.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer DirectAccess et son fonctionnement,
+  - de mettre en œuvre DirectAccess à l’aide de l’assistant de démarrage,
+  - de mettre en œuvre et de gérer une infrastructure avancée DirectAccess.
+
+
+  ### Module 8&#58; Mise en œuvre des VPN
+  Ce module explique la mise en œuvre et la gestion de l’accès à distance dans Windows Server 2016 à l’aide de VPN.
+  #### Leçons
+  - Planification des VPN.
+  - Mise en œuvre des VPN.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un VPN
+  - Mise en œuvre d’un VPN.
+  - Validation du déploiement du VPN.
+  - Dépannage de l’accès au VPN.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de planifier une solution de VPN,
+  - de mettre en œuvre des VPN.
+
+
+  ### Module 9&#58; Mise en œuvre de la mise en réseau pour des succursales
+  Ce module décrit la mise en œuvre de services de réseau pour des succursales.
+  #### Leçons
+  - Fonctionnalités de mise en réseau et considérations pour les succursales.
+  - Mise en œuvre du système de fichiers distribués (DFS) pour les succursales.
+  - Mise en œuvre de BranchCache pour les succursales.
+
+
+  #### Laboratoire &#58; Mise en œuvre de DFS pour les succursales
+  - Mise en œuvre de DFS.
+  - Validation du déploiement.
+
+
+  #### Laboratoire &#58; Mise en œuvre de BranchCache
+  - Mise en œuvre de BranchCache.
+  - Validation du déploiement.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les fonctionnalités et considérations de mise en réseau pour les succursales,
+  - de mettre en œuvre DFS pour les succursales,
+  - de mettre en œuvre BranchCache pour les succursales.
+
+
+  ### Module 10&#58; Configuration des fonctionnalités avancées de mise en réseau
+  Ce module explique comment mettre en œuvre une infrastructure de mise en réseau avancée.
+  #### Leçons
+  - Présentation des fonctionnalités de mise en réseau à haute performance.
+  - Configuration des fonctionnalités de mise en réseau avancées Microsoft Hyper-V.
+
+
+  #### Laboratoire &#58; Configuration des fonctionnalités de mise en réseau avancées Hyper-V
+  - Création et utilisation des interrupteurs virtuels Hyper-V.
+  - Configuration et utilisation des fonctionnalités avancées d’un interrupteur virtuel.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les améliorations de mise en réseau à haute performance dans Windows Server 2016,
+  - de configurer les fonctionnalités de mise en réseau avancées Microsoft Hyper-V.
+
+
+  ### Module 11&#58; Mise en œuvre de la mise en réseau définie par logiciel
+  Ce module explique comment mettre en œuvre SDN.
+  #### Leçons
+  - Présentation de SDN.
+  - Mise en œuvre de la virtualisation du réseau.
+  - Mise en œuvre du contrôleur de réseau.
+
+
+  #### Laboratoire &#58; Déploiement du contrôleur de réseau
+  - Préparation au déploiement du contrôleur de réseau.
+  - Déploiement du contrôleur de réseau.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire SDN,
+  - de mettre en œuvre la virtualisation du réseau,
+  - de mettre en œuvre le contrôleur du réseau.
+

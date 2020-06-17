@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+metadata:
+  title: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+  description: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+uid: course.40034
+courseNumber: '40034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compréhension de la programmation de base.
+- skill: Compréhension de la programmation orientée objet.
+- skill: Compréhension du développement général de logiciels.
+- skill: Compréhension des applications Web.
+- skill: Compréhension des applications de bureau.
+- skill: Compréhension des bases de données.
+- skill: Gestion du cycle de vie de l’application.
+- skill: Construction de l’interface utilisateur à l’aide d’HTML5.
+- skill: Formatage de l’interface utilisateur à l’aide de CSS.
+- skill: Codage à l’aide de JavaScript.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  Ce lot de 2 formations de cinq jours vous aide à vous préparer aux examens Microsoft Technology Associate 98-361 et 98-365 et à comprendre les sujets suivants &#58; la programmation de base, la programmation orientée objet, le développement général de logiciels, les applications Web, les applications de bureau, les bases de données, la gestion du cycle de vie de l’application, la construction de l’interface utilisateur à l’aide d’HTML5, le formatage de l’interface utilisateur à l’aide de CSS et le codage à l’aide de JavaScript. Ces formations tirent parti du contenu figurant dans la formation académique officielle de Microsoft (MOAC) pour ces examens.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Introduction à la programmation
+
+
+  ### Module 2&#58; Introduction à la programmation orientée objet
+
+
+  ### Module 3&#58; Compréhension du développement général de logiciels
+
+
+  ### Module 4&#58; Compréhension des applications Web
+
+
+  ### Module 5&#58; Compréhension des applications de bureau
+
+
+  ### Module 6&#58; Compréhension des bases de données
+
+
+  ### Module 7&#58; Gestion du cycle de vie de l’application
+
+
+  ### Module 8&#58; Construction de l’interface utilisateur à l’aide d’HTML5&#58; texte, graphiques et médias
+
+
+  ### Module 9&#58; Construction de l’interface utilisateur à l’aide d’HMTL5&#58; organisation, entrées et validation
+
+
+  ### Module 10&#58; Compréhension des fondamentaux de CSS &#58; flux du contenu, positionnement et style
+
+
+  ### Module 11&#58; Compréhension des fondamentaux de CSS &#58; dispositions
+
+
+  ### Module 12&#58; Gestion du flux de texte à l’aide de CSS
+
+
+  ### Module 13&#58; Gestion de l’interface graphique à l’aide de CSS
+
+
+  ### Module 14&#58; Compréhension de JavaScript et des fondamentaux du codage
+
+
+  ### Module 15&#58; Création d’animations, travail avec des graphiques et accès aux données
+
+
+  ### Module 16&#58; Codage JavaScript pour l’interface tactile, ressources en matière de dispositifs et de systèmes d’exploitation, etc.
+

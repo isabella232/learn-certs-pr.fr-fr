@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Querying Microsoft SQL Server 2012/2014
+metadata:
+  title: 'Exam 70-461: Querying Microsoft SQL Server 2012/2014'
+  description: 'Exam 70-461: Querying Microsoft SQL Server 2012/2014'
+uid: exam.70-461
+displayName: 70-461
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen est destiné aux administrateurs de bases de données SQL Server, aux ingénieurs de système et aux développeurs possédant deux années ou plus d'expérience qui cherchent à valider leurs compétences et leurs connaissances dans le domaine de l'écriture de requêtes.
+
+  <div style='font-weight&#58; bold;'><br/>En décembre 2015, cet examen a été évalué pour son applicabilité à SQL Server 2012 et SQL Server 2014. Il a été établi qu’aucune mise à niveau des objectifs de l’examen n’était nécessaire.</div>
+subTitle: Cet examen est destiné aux administrateurs de bases de données SQL Server, aux ingénieurs de système et aux développeurs possédant deux années ou plus d'expérience qui cherchent à valider leurs compétences et leurs connaissances dans le domaine de l'écriture de requêtes.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Création d’objets de base de données (20-25%)
+- Travail avec les données (25-30%)
+- Modification des données (20-25%)
+- Résolution des problèmes et optimisation (25-30%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20461
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

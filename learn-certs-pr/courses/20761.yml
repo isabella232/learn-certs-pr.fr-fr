@@ -1,0 +1,426 @@
+### YamlMime:Course
+title: Querying Data with Transact-SQL
+metadata:
+  title: 'Course 20761-C: Querying Data with Transact-SQL'
+  description: 'Course 20761-C: Querying Data with Transact-SQL'
+uid: course.20761
+courseNumber: '20761-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des capacités et composants clés de SQL Server.
+- skill: Description de T-SQL, des ensembles et de la logique des prédicats.
+- skill: Rédaction d’une instruction SELECT de tableau unique.
+- skill: Rédaction d’une instruction SELECT multitableaux.
+- skill: Rédaction d’instructions SELECT avec filtre et tri.
+- skill: Description de l’utilisation des types de données par SQL Server.
+- skill: Rédaction d’instructions DML.
+- skill: Rédaction de requêtes qui utilisent des fonctions intégrées.
+- skill: Rédaction de requêtes qui regroupent des données.
+- skill: Rédaction de sous-requêtes.
+- skill: Création et mise en œuvre de vues et de fonctions de table.
+- skill: Utilisation des opérateurs d’ensembles pour combiner les résultats des requêtes.
+- skill: Rédaction de requêtes qui utilisent des fonctions d’évaluation des fenêtres, de décalage et de regroupement.
+- skill: Transformation de données grâce à la mise en œuvre de pivots, d’annulations de pivots, de groupements par roulement et de groupements par cube.
+- skill: Création et mise en œuvre de procédures stockées.
+- skill: Ajout de constructions de programmation telles que des variables, des conditions et des boucles au code T-SQL.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-761
+summary: |-
+  Cette formation est conçue pour introduire les étudiants à Transact- SQL. Elle est conçue de telle sorte que les trois premiers jours peuvent être enseignés sous forme de cours aux étudiants qui ont besoin des connaissances d’autres formations du programme SQL Server. Les jours 4 et 5 enseignent les compétences restantes requises pour passer l’examen 70-761.
+
+  #### Profil de l’audience
+  L’objectif principal de cette formation est de donner aux étudiants une bonne compréhension du langage Transact-SQL qui est utilisé dans toutes les disciplines liées à SQL Server, c’est-à-dire, l’administration des bases de données, le développement de bases de données et la Business Intelligence. Ainsi, cette formation s’adresse principalement aux administrateurs de bases de données, aux développeurs de bases de données et aux professionnels de la BI.
+prerequisitesSection: |-
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles des bases de données relationnelles.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Microsoft SQL Server
+  Ce module présente SQL Server, les versions de SQL Server, notamment les versions dans le cloud, et la connexion à SQL Server à l’aide du studio de gestion de SQL Server.
+  #### Leçons
+  - L’architecture de base de SQL Server.
+  - Les éditions et les versions de SQL Server.
+  - Le démarrage avec le studio de gestion de SQL Server.
+
+
+  #### Laboratoire &#58; Travail avec les outils de SQL Server
+  - Travail avec le studio de gestion de SQL Server.
+  - Création et organisation de scripts T-SQL.
+  - Utilisation de livres en ligne.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire des bases de données relationnelles et des requêtes Transact-SQL,
+  - de décrire les éditions sur site et dans le cloud et les versions de SQL Server,
+  - de décrire l’utilisation du studio de gestion de SQL Server (SSMS) pour se connecter à une instance de SQL Server, explorer les bases de données contenues dans cette instance et travailler avec des fichiers script qui contiennent des requêtes T-SQL.
+
+
+  ### Module 2&#58; Introduction aux requêtes T-SQL
+  Ce module décrit les éléments de T-SQL et leur rôle dans la rédaction de requêtes. Il décrit l’utilisation des ensembles dans SQL Server. Il décrit l’utilisation de la logique des prédicats dans SQL Server. Il décrit l’ordre logique des opérations dans les instructions SELECT.
+
+
+  #### Leçons
+  - Présentation de T-SQL.
+  - Compréhension des ensembles.
+  - Compréhension de la logique des prédicats.
+  - Compréhension de l’ordre logique des opérations dans les instructions SELECT.
+
+
+  #### Laboratoire &#58; Présentation de la requête T-SQL
+  - Exécution des instructions SELECT de base.
+  - Exécution des requêtes qui filtrent des données à l’aide de prédicats.
+  - Exécution des requêtes qui trient des données à l’aide de « ORDER BY ».
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire le rôle de T-SQL dans la rédaction des instructions SELECT,
+  - de décrire les éléments du langage T-SQL et les éléments qui seront utiles à la rédaction de requêtes,
+  - de décrire les concepts de la théorie des ensembles, un des fondements mathématiques des bases de données relationnelles et vous aider à l’appliquer à la façon dont vous considérez les requêtes SQL Server,
+  - de décrire la logique des prédicats et d’examiner ses applications aux requêtes SQL Server,
+  - d’expliquer les éléments d’une instruction SELECT, de définir l’ordre dans lequel les éléments sont évalués et ensuite d’appliquer cette compréhension à une approche pratique de rédaction des requêtes.
+
+
+  ### Module 3&#58; Rédaction des requêtes SELECT
+  Ce module présente les bases de l’instruction SELECT, en se concentrant sur les requêtes contre une table unique.
+  #### Leçons
+  - Rédaction d’instructions SELECT simples.
+  - Élimination des doublons avec DISTINCT.
+  - Utilisation des pseudonymes de colonnes et tables.
+  - Rédaction d’expressions CASE simples.
+
+
+  #### Laboratoire &#58; Rédaction d’instructions SELECT de base
+  - Rédaction d’instructions SELECT simples.
+  - Élimination des doublons avec DISTINCT.
+  - Utilisation des pseudonymes de colonnes et tables.
+  - Utilisation d’une expression CASE simple.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire la structure et le format de l’instruction SELECT, ainsi que les améliorations qui ajouteront des fonctionnalités et de la lisibilité à vos requêtes,
+  - de décrire comment éliminer les doublons à l’aide de la clause DISTINCT,
+  - de décrire l’utilisation des alias de colonnes et de tableaux,
+  - de comprendre et d’utiliser les expressions CASE.
+
+
+  ### Module 4&#58; Interrogation de plusieurs tables
+  Ce module explique comment rédiger des requêtes qui associent des données de plusieurs sources dans Microsoft SQL Server.
+
+
+  #### Leçons
+  - Compréhension des jointures.
+  - Requêtes avec les jointures intérieures.
+  - Requêtes avec les jointures extérieures.
+  - Requêtes avec les jointures croisées et les jointures propres.
+
+
+  #### Laboratoire &#58; Interrogation de plusieurs tables
+  - Rédaction de requêtes qui utilisent des jointures internes.
+  - Rédaction de requêtes qui utilisent plusieurs jointures internes de tableaux.
+  - Rédaction de requêtes qui utilisent des jointures propres.
+  - Rédaction de requêtes qui utilisent des jointures externes.
+  - Rédaction de requêtes qui utilisent des jointures croisées.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer les principes de base des jointures dans SQL Server, 
+  - de rédiger des requêtes qui utilisent des jointures internes,
+  - de rédiger des requêtes qui utilisent des jointures externes, 
+  - d’utiliser des types de jointures supplémentaires.
+
+
+  ### Module 5&#58; Tri et filtre des données
+  Ce module explique comment mettre en œuvre le tri et le filtre.
+  #### Leçons
+  - Tri des données.
+  - Filtre des données avec des prédicats.
+  - Filtre des données avec TOP et OFFSET-FETCH.
+  - Travail avec des valeurs inconnues.
+
+
+  #### Laboratoire &#58; Tri et filtre des données
+  - Rédaction de requêtes qui filtrent des données à l’aide de la clause WHERE.
+  - Rédaction de requêtes qui trient les données à l’aide de la clause ORDER BY.
+  - Rédaction de requêtes qui filtrent les données à l’aide de l’option TOP.
+  - Rédaction de requêtes qui filtrent les données à l’aide de la clause OFFSET-FETCH.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer comment ajouter une clause « ORDER BY » à vos requêtes afin de contrôler l’ordre des rangées affichées dans le résultat de votre requête,
+  - d’expliquer comment construire des clauses « WHERE » pour filtrer les rangées qui ne correspondent pas au prédicat,
+  - d’expliquer comment limiter les gammes de rangées dans la clause « SELECT » à l’aide de l’option « TOP », 
+  - d’expliquer comment limiter les gammes de rangées à l’aide de l’option « OFFSET-FETCH » d’une clause « ORDER BY »,
+  - d’expliquer comment une logique à trois valeurs représente des valeurs manquantes et inconnues, comment SQL Server utilise NULL pour marquer les valeurs manquantes et comment tester NULL dans vos requêtes.
+
+  ### Module 6&#58; Travail avec les types de données de SQL Server
+  Ce module présente les types de données que SQL Server utilise pour stocker des données.
+  #### Leçons
+  - Présentation des types de données de SQL Server.
+  - Travail avec des données de caractères.
+  - Travail avec des données de date et d’heure.
+
+  
+  #### Laboratoire &#58; Travail avec les types de données de SQL Server
+  - Rédaction de requêtes qui renvoient des données de date et d’heure.
+  - Rédaction de requêtes qui utilisent des fonctions de date et d’heure.
+  - Rédaction de requêtes qui renvoient des données de caractères.
+  - Rédaction de requêtes qui renvoient des fonctions de caractères.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’explorer une grande partie des types de données utilisées par SQL Server pour stocker des données et la façon dont les types de données sont convertis entre des types,
+  - d’expliquer les types de données basés sur le caractère de SQL Server, le fonctionnement de la comparaison des caractères et certaines fonctions courantes qui pourraient vous être utiles dans vos requêtes,
+  - de décrire les types de données utilisés pour stocker des données temporaires, la manière de saisir des dates et des heures pour qu’elles soient correctement scannées par SQL Server et de manipuler des dates et des heures avec des fonctions intégrées.
+
+
+  ### Module 7&#58; Utilisation de DML pour modifier des données
+  Ce module décrit la création de requêtes DML et leur raison d’être.
+  #### Leçons
+  - Ajout de données à un tableau.
+  - Modification et suppression de données.
+  - Génération de valeurs de colonnes automatiques.
+
+
+  #### Laboratoire &#58; Utilisation de DML pour modifier des données
+  - Insertion de registres avec DML.
+  - Mise à jour et suppression de registres à l’aide de DML.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’utiliser les instructions INSERT et SELECT INTO,
+  - d’utiliser UPDATE, MERGE, DELETE et TRUNCATE.
+
+
+  ### Module 8&#58; Utilisation des fonctions intégrées
+  Ce module présente un grand nombre de fonctions intégrées dans SQL Server.
+  #### Leçons
+  - Rédaction de requêtes avec les fonctions intégrées.
+  - Utilisation des fonctions de conversion.
+  - Utilisation des fonctions logiques.
+  - Utilisation des fonctions pour travailler avec NULL.
+
+
+  #### Laboratoire &#58; Utilisation des fonctions intégrées
+  - Rédaction de requêtes qui utilisent des fonctions de conversion.
+  - Rédaction de requêtes qui utilisent des fonctions logiques.
+  - Rédaction de requêtes qui testent le caractère nul.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les types de fonctions fournis par SQL Server avant de se concentrer sur le travail avec des fonctions scalaires,
+  - d’expliquer comment explicitement convertir des données entre les types grâce à plusieurs fonctions SQL Server,
+  - de décrire comment utiliser des fonctions logiques qui évaluent une expression et donnent un résultat scalaire,
+  - de décrire des fonctions supplémentaires pour travailler avec NULL.
+
+
+  ### Module 9&#58; Groupement et regroupement de données
+  Ce module décrit l’utilisation des fonctions de regroupement.
+  #### Leçons
+  - Utilisation des fonctions de regroupement.
+  - Utiliser la clause « GROUP BY ».
+  - Filtrer les groupes avec « HAVING ».
+
+
+  #### Laboratoire &#58; Groupement et regroupement des données
+  - Rédaction de requêtes qui utilisent la clause GROUP BY.
+  - Rédaction de requêtes qui utilisent des fonctions de regroupement.
+  - Rédaction de requêtes qui utilisent des fonctions de regroupement différentes.
+  - Rédaction de requêtes qui filtrent les groupes avec la clause HAVING.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire la fonction intégrée de regroupement dans SQL Server et de l’utiliser en rédigeant les requêtes,
+  - de rédiger des requêtes qui séparent les rangées à l’aide de la clause GROUP BY,
+  - de rédiger des requêtes qui utilisent la clause HAVING pour filtrer les groupes.
+
+
+  ### Module 10&#58; Utilisation de sous-requêtes
+  Ce module décrit plusieurs types de sous-requêtes, la façon et le moment où les utiliser.
+  #### Leçons
+  - Rédaction de sous-requêtes autonomes.
+  - Rédaction de sous-requêtes corrélées.
+  - Utilisation du prédicat EXISTS avec des sous-requêtes.
+
+
+  #### Laboratoire &#58; Utilisation des sous-requêtes
+  - Rédaction de requêtes qui utilisent des sous-requêtes autonomes.
+  - Rédaction de requêtes qui utilisent des sous-requêtes scalaires et multirésultats.
+  - Rédaction de requêtes qui utilisent des sous-requêtes corrélées et une clause EXISTS.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire où les sous-requêtes peuvent être utilisées dans une instruction SELECT,
+  - de rédiger des requêtes qui utilisent des sous-requêtes corrélées dans une instruction SELECT,
+  - de rédiger des requêtes qui utilisent les prédicats EXISTS dans une clause WHERE pour tester l’existence de rangées de qualification,
+  - d’utiliser le prédicat EXISTS pour vérifier efficacement l’existence de rangées dans une sous-requête.
+
+
+  ### Module 11&#58; Utilisation des expressions de tables
+  Précédemment dans cette formation, vous avez appris l’utilisation des sous-requêtes en tant qu’expression qui renvoie des résultats dans une requête qui va vers l’extérieur. Comme les sous-requêtes, les expressions de tables sont des expressions de requête, mais les expressions de tables étendent cette idée en vous permettant de les nommer et de travailler avec leurs résultats comme vous travailleriez avec des données dans tout tableau relationnel valide. Microsoft SQL Server prend en charge quatre types d’expressions de tables &#58; les tables dérivées, l’expression de table courante (CTE), les vues et les fonctions de table en ligne (TVF). Dans ce module, vous apprendrez à travailler avec ces formes d’expressions de tables et apprendrez à les utiliser pour vous aider à créer une approche module de la rédaction de requêtes.
+  #### Leçons
+  - Utilisation des vues.
+  - Utilisation des fonctions de table en ligne.
+  - Utilisation des tables dérivées.
+  - Utilisation des expressions de table courantes.
+
+
+  #### Laboratoire &#58; Utilisation des expressions de table
+  - Rédaction de requêtes qui utilisent des vues.
+  - Rédaction de requêtes qui utilisent des tables dérivées.
+  - Rédaction de requêtes qui utilisent des expressions de table courantes (CTE).
+  - Rédaction de requêtes qui utilisent des expressions de table en ligne (TVF).
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de rédiger des requêtes qui donnent des résultats des vues,
+  - d’utiliser l’instruction CREATE FUNCTION pour créer de simples TVF en ligne,
+  - de rédiger des requêtes qui créent et produisent des résultats de tables dérivées,
+  - de rédiger des requêtes qui créent des CTE et donnent des résultats de l’expression de table.
+
+
+  ### Module 12&#58; Utilisation des opérateurs définis
+  Ce module présente l’utilisation des opérateurs définis UNION, INTERSECT et EXCEPT afin de comparer les rangées entre deux ensembles d’entrées.
+  #### Leçons
+  - Rédaction de requêtes avec l’opérateur UNION.
+  - Utilisation de EXCEPT et d’INTERSECT.
+  - Utilisation d’APPLY.
+
+
+  #### Laboratoire &#58; Utilisation des opérateurs définis
+  - Rédaction de requêtes qui utilisent les opérateurs définis UNION et UNION ALL.
+  - Rédaction de requêtes qui utilisent les opérateurs CROSS APPLY et OUTER APPLY.
+  - Rédaction de requêtes qui utilisent les opérateurs EXCEPT et INTERSECT.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de rédiger des requêtes qui utilisent UNION pour combiner des ensembles d’entrées,
+  - de rédiger des requêtes qui utilisent UNION ALL pour combiner des ensembles d’entrées,
+  - de rédiger des requêtes qui utilisent l’opérateur EXCEPT pour ne donner que les rangées d’un ensemble, mais pas d’un autre,
+  - de rédiger des requêtes qui utilisent l’opérateur INTERSECT pour ne donner que les rangées qui sont communes aux deux ensembles,
+  - de rédiger des requêtes qui utilisent l’opérateur CROSS APPLY,
+  - de rédiger des requêtes qui utilisent l’opérateur OUTER APPLY.
+
+
+  ### Module 13&#58; Utilisation des fonctions d’évaluation des fenêtres, de décalage et de regroupement
+  Ce module décrit les avantages de l’utilisation des fonctions de fenêtre. Limitation des fonctions de fenêtre à des rangées définies dans une clause OVER, ce qui inclut les partitions et les cadres. Rédaction de requêtes qui utilisent les fonctions de fenêtre pour agir sur une fenêtre de rangées et donner des résultats d’évaluation, de regroupement et de comparaison en décalage.
+  #### Leçons
+  - Création de fenêtres avec OVER.
+  - Exploration des fonctions des fenêtres.
+
+
+  #### Laboratoire &#58; Utilisation des fonctions d’évaluation des fenêtres, de décalage et de regroupement
+  - Rédaction de requêtes qui utilisent des fonctions d’évaluation.
+  - Rédaction de requêtes qui utilisent des fonctions de décalage.
+  - Rédaction de requêtes qui utilisent des fonctions de regroupement de fenêtres.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les composants T-SQL utilisés pour définir les fenêtres et les relations entre elles,
+  - de rédiger des requêtes qui utilisent la clause OVER avec le partitionnement, le tri et l’encadrement pour définir des fenêtres,
+  - de rédiger des requêtes qui utilisent des fonctions de regroupement de fenêtres,
+  - de rédiger des requêtes qui utilisent des fonctions d’évaluation des fenêtres,
+  - de rédiger des requêtes qui utilisent des fonctions de décalage de fenêtres.
+
+
+  ### Module 14&#58; Pivot et groupement des ensembles
+  Ce module décrit la rédaction de requêtes qui font pivoter et annulent le pivot des ensembles de résultats. Rédaction de requêtes qui précisent plusieurs groupements avec des ensembles de groupement.
+  #### Leçons
+  - Rédaction de requêtes avec PIVOT et UNPIVOT.
+  - Travail avec des ensembles de groupement.
+
+
+  #### Laboratoire &#58; Pivot et groupement des ensembles
+  - Rédaction de requêtes qui utilisent l’opérateur PIVOT.
+  - Rédaction de requêtes qui utilisent l’opérateur UNPIVOT.
+  - Rédaction de requêtes qui utilisent les sous-clauses GROUPING SETS CUBE et ROLLUP.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’utilisation du pivot des données dans des requêtes T-SQL,
+  - de rédiger des requêtes qui font pivoter des données de rangées dans des colonnes à l’aide de l’opérateur PIVOT,
+  - de rédiger des requêtes qui annulent le pivot des données de colonnes dans des rangées à l’aide de l’opérateur UNPIVOT,
+  - de rédiger des requêtes qui utilisent la sous-clause GROUPING SETS,
+  - de rédiger des requêtes qui utilisent ROLLUP et CUBE,
+  - de rédiger des requêtes qui utilisent la fonction GROUPING_ID.
+
+
+  ### Module 15&#58; Exécution de procédures stockées
+  Ce module décrit comment obtenir des résultats en exécutant des procédures stockées. 
+  - Passage des paramètres aux procédures. 
+  - Création de procédures stockées simples qui encapsulent une instruction SELECT. 
+  - Construction et exécution de SQL de façon dynamique avec EXEC et sp_executesql.
+  #### Leçons
+  - Requête de données avec des procédures stockées.
+  - Passage des paramètres aux procédures stockées.
+  - Création de procédures stockées simples.
+  - Travail avec Dynamic SQL.
+
+
+  #### Laboratoire &#58; Exécution de procédures stockées
+  - Utilisation de l’instruction EXECUTE pour évoquer des procédures stockées.
+  - Passage des paramètres aux procédures stockées.
+  - Exécution des procédures stockées du système.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les procédures stockées et leur utilisation,
+  - de rédiger des instructions T-SQL qui exécutent des procédures stockées pour fournir des données,
+  - de rédiger des instructions EXECUTE qui passent des paramètres d’entrées à des procédures stockées,
+  - de rédiger des T-SQL lots qui préparent les paramètres sortants et exécutent des procédures stockées,
+  - d’utiliser l’instruction CREATE PROCEDURE pour rédiger une procédure stockée,
+  - de créer une procédure stockée qui accepte les paramètres d’entrées,
+  - de décrire la façon dont T-SQL peut être construit de façon dynamique,
+  - de rédiger des requêtes qui utilisent Dynamic SQL.
+
+
+  ### Module 16&#58; Programmation avec T-SQL
+  Ce module décrit comment améliorer votre code T-SQL grâce aux éléments de programmation.
+  #### Leçons
+  - Éléments de programmation T-SQL.
+  - Contrôle du flux du programme.
+
+
+  #### Laboratoire &#58; Programmation avec T-SQL.
+  - Déclaration des variables et délimitation des lots.
+  - Utilisation des éléments de contrôle du flux.
+  - Utilisation des variables dans une instruction SQL dynamique.
+  - Utilisation des synonymes.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire comment Microsoft SQL Server traite la collecte d’instructions sous forme de lots,
+  - de créer et de soumettre des lots du code T-SQL pour exécution par SQL Server,
+  - de décrire comment SQL Server stocke des objets temporaires sous forme de variables,
+  - de rédiger un code qui déclare et attribue des variables,
+  - de créer et d’évoquer des synonymes,
+  - de décrire des éléments de contrôle du flux dans T-SQL,
+  - de rédiger le code T-SQL à l’aide des blocs IF ELSE,
+  - de rédiger le code T-SQL qui utilise WHILE.
+
+
+  ### Module 17&#58; Mise en œuvre de la gestion des erreurs
+  Ce module présente la gestion des erreurs pour T-SQL.
+  #### Leçons
+  - Mise en œuvre de la gestion des erreurs de T-SQL.
+  - Mise en œuvre d’une gestion structurée des exceptions.
+
+
+  #### Laboratoire &#58; Mise en œuvre de la gestion des erreurs
+  - Redirection des erreurs avec TRY/CATCH.
+  - Utilisation de THROW pour renvoyer un message d’erreur au client.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre en œuvre la gestion des erreurs de T-SQL,
+  - de mettre en œuvre une gestion structurée des exceptions.
+
+
+  ### Module 18&#58; Mise en œuvre des transactions
+  Ce module décrit la mise en œuvre des transactions.
+  #### Leçons
+  - Transactions et moteurs des bases de données.
+  - Contrôle des transactions.
+
+
+  #### Laboratoire &#58; Mise en œuvre des transactions
+  - Contrôle des transactions avec BEGIN, COMMIT et ROLLBACK.
+  - Ajout de la gestion des erreurs à un bloc CATCH.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les transactions et les différences entre les lots et les transactions,
+  - de décrire des lots et leur gestion par SQL Server,
+  - de créer et gérer des transactions avec les instructions de langage de contrôle des transactions (TCL),
+  - d’utiliser SET XACT_ABORT pour définir la gestion des transactions de SQL Server à l’extérieur des blocs TRY/CATCH.
+

@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: 'Mobility & Devices Fundamentals: MTA Exam 98-368'
+metadata:
+  title: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+  description: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+uid: course.40368
+courseNumber: '40368-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compréhension des configurations des dispositifs.
+- skill: Compréhension de l’accès aux données et de la gestion des données.
+- skill: Compréhension de la sécurité des dispositifs.
+- skill: Compréhension des services de cloud.
+- skill: Compréhension de la mobilité de l’entreprise.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-368
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-368 et à comprendre les sujets suivants&#58; la configuration des dispositifs, l'accès aux données et la gestion des données, la sécurité des dispositifs, les services de cloud et la mobilité de l’entreprise.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+outlineSection: |-
+  ### Module 1&#58; Compréhension des configurations des dispositifs
+  #### Leçons
+  - Configuration des options des dispositifs.
+  - Configuration des paramètres du bureau.
+  - Configuration du cryptage des disques.
+  - Configuration des mises à jour.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de configurer les options des dispositifs,
+  - de configurer les paramètres du bureau,
+  - de configurer le cryptage des disques,
+  - de configurer les mises à jour.
+
+
+  ### Module 2&#58; Compréhension de l’accès aux données et de la gestion des données
+  #### Leçons
+  - Compréhension des services de stockage dans le cloud.
+  - Compréhension du stockage local.
+  - Compréhension des systèmes de fichiers.
+  - Compréhension du partage de fichiers et de l’impression.
+  - Compréhension du cryptage de données.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de comprendre les services de stockage dans le cloud,
+  - de comprendre le stockage local,
+  - de comprendre les systèmes de fichiers,
+  - de comprendre le partage de fichiers et de l’impression,
+  - de comprendre le cryptage de données.
+
+
+  ### Module 3&#58; Compréhension de la sécurité des dispositifs
+  #### Leçons
+  - Comprendre les différences entre l'Internet, l’Intranet et l’Extranet.
+  - Comprendre l’authentification utilisateur.
+  - Comprendre les permissions.
+  - Comprendre les maliciels.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de comprendre les différences entre l'Internet, l’Intranet et l’Extranet,
+  - de comprendre l’authentification utilisateur,
+  - de comprendre les permissions,
+  - de comprendre les maliciels.
+
+
+  ### Module 4&#58; Compréhension des services du cloud
+  #### Leçons
+  - Comprendre les types de services du cloud.
+  - Comprendre Microsoft Intune.
+  - Comprendre les capacités de Microsoft Intune.
+  - Comprendre Microsoft Azure.
+  - Comprendre les machines virtuelles.
+  - Comprendre la reprise après sinistre, la haute disponibilité, la redondance et la tolérance des pannes.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de comprendre les types de services du cloud,
+  - de comprendre Microsoft Intune et ses capacités,
+  - de comprendre Microsoft Azure,
+  - de comprendre les machines virtuelles,
+  - de comprendre la reprise après sinistre, la haute disponibilité, la redondance et la tolérance des pannes.
+
+
+  ### Module 5&#58; Compréhension de la mobilité de l’entreprise
+  #### Leçons
+  - Comprendre les services d’identité.
+  - Comprendre l’accès aux données de l’entreprise.
+  - Comprendre Bring Your Own Device (BYOD).
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de comprendre les services d’identité,
+  - de comprendre l’accès aux données de l’entreprise,
+  - de comprendre Bring Your Own Device (BYOD).
+

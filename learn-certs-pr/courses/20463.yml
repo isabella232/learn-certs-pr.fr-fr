@@ -1,0 +1,244 @@
+### YamlMime:Course
+title: Implementing a Data Warehouse with Microsoft® SQL Server® 2014
+metadata:
+  title: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+  description: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+uid: course.20463
+courseNumber: '20463-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des concepts d’entrepôts de données et considérations architecturales.
+- skill: Sélection d’une plateforme de matériel adéquate pour un entrepôt de données.
+- skill: Conception et mise en œuvre d’un entrepôt de données.
+- skill: Mise en œuvre d’un Flux de Données dans un Package SSIS.
+- skill: Mise en œuvre du Flux de Contrôle dans un Package SSIS.
+- skill: Débogage et Dépannage des Packages SSIS.
+- skill: Mise en œuvre d'une solution ETL qui prend en charge l’extraction des données incrémentielles
+- skill: Mise en œuvre une solution ETL qui prend en charge le chargement des données incrémentielles
+- skill: Mise en œuvre du nettoyage des données à l’aide de Microsoft Data Quality Services
+- skill: Mise en œuvre des Services de Données de Référence pour imposer l’intégrité des données
+- skill: Extension de SSIS avec des scripts et composants personnalisés
+- skill: Déploiement et Configuration des packages SSIS
+- skill: Description de la façon dont les solutions de BI peuvent consommer des données de l’entrepôt de données
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-463
+summary: |-
+  Cette formation décrit comment mettre en œuvre une plateforme d’entrepôt de données pour prendre en charge une solution de BI. Les étudiants apprendront à créer un entrepôt de données avec Microsoft® SQL Server® 2014, mettre en œuvre ETL avec les services d’intégration de SQL Server et valider et nettoyer les données avec SQL Server Data Quality Services et SQL Server.
+  Services de Données de Référence.
+
+  Remarque&#58; Cette formation est conçue pour les clients qui souhaitent découvrir SQL Server 2012 ou SQL Server 2014. Elle couvre les nouvelles fonctionnalités de SQL Server 2014, mais également les capacités importantes de la plateforme de données SQL Server.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des bases de données qui doivent remplir un rôle de développeur de la Business Intelligence. Ils doivent se concentrer sur le travail pratique de création de solutions de BI, y compris la mise en œuvre d’Entrepôts de Données, d’ETL et de Nettoyage des Données. Les responsabilités principales incluent&#58;
+  - La mise en œuvre d’un entrepôt de données.
+  - Le développement de packages SSIS pour l’extraction, la transformation et le chargement des données.
+  - L’imposition de l’intégrité des données à l’aide des Services de Données de Référence.
+  - Le nettoyage des données à l’aide de Data Quality Services.
+prerequisitesSection: |-
+  Cette formation exige que vous remplissiez les prérequis suivants&#58;
+  - Au moins 2 ans d’expérience professionnelle avec des bases de données relationnelles, y compris&#58; 
+    - La conception d’une base de données normalisée. 
+    - La création de tableaux et de relations. Requêtes avec Transact-SQL. 
+    - Une certaine connaissance des constructions de programmation de base (telles qu’un bouclage et un branchement).
+    
+  Une conscience des priorités des affaires, telles que les revenus, la rentabilité et la comptabilité financière est souhaitable.
+outlineSection: |-
+  ### Module 1&#58; Introduction à l’entreposage des données
+  Ce module propose une introduction aux composants clés d’une solution d’entreposage de données et aux considérations de haut niveau dont vous devez tenir compte lorsque vous vous lancez dans un projet d’entreposage de données.
+  #### Leçons
+  - Présentation de l’Entreposage des Données
+  - Considérations pour une Solution d’Entreposage de Données
+
+
+  #### Laboratoire&#58; Exploration d’une Solution d’Entreposage de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les éléments clés d’une solution d’entreposage de données
+  - Décrire les considérations clés pour un projet d’entreposage de données
+
+
+  ### Module 2&#58; Considérations en Matière de Matériel pour l’Entreposage des Données
+  Ce module discute des considérations en matière de sélection du matériel et de distribution des installations de SQL Server sur les différents serveurs.
+  #### Leçons
+  - Considérations de construction d’un Entrepôt de Données
+  - Architectures et Applications de Référence pour les Entrepôts de Données
+
+
+  #### Laboratoire&#58; Planification de l’Infrastructure d’un Entrepôt de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les considérations clés pour l’infrastructure de BI.
+  - Planifier l’infrastructure de l’entrepôt de données.
+
+
+  ### Module 3&#58; Conception et Mise en œuvre d’un Entrepôt de Données
+  Ce module décrit les considérations clés pour la conception logique d’un entrepôt de données et discute ensuite des meilleures pratiques pour sa mise en œuvre physique.
+  #### Leçons
+  - Conception Logique d’un Entrepôt de Données
+  - Conception Physique d’un Entrepôt de Données
+
+
+  #### Laboratoire&#58; Mise en œuvre du Schéma d’un Entrepôt de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire un processus de conception d’un modèle dimensionnel pour un entrepôt de données 
+  - Concevoir des tableaux dimensionnels pour un entrepôt de données
+  - Concevoir des tables de faits pour un entrepôt de données
+  - Concevoir et mettre en œuvre des structures de données physiques efficaces pour un entrepôt de données
+
+
+  ### Module 4&#58; Création d’une solution ETL avec SSIS
+  Ce module discute des considérations relatives à la mise en œuvre d’un processus ETL. Il se concentre ensuite sur les Microsoft SQL Server Integration Services (SSIS) en tant que plateforme de construction de solutions ETL.
+  #### Leçons
+  - Introduction à ETL avec SSIS.
+  - Exploration des Sources de Données.
+  - Mise en œuvre d’un Flux de Données.
+
+
+  #### Laboratoire&#58;  Mise en œuvre d’un Flux de Données dans un Package SSIS
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les fonctionnalités clés de SSIS. 
+  - Explorer les sources de données pour une solution ETL. 
+  - Mettre en œuvre un flux de données à l’aide de SSIS
+
+
+  ### Module 5&#58; Mise en œuvre du Flux de Contrôle dans un Package SSIS
+  Ce module décrit comment mettre en œuvre des solutions ETL qui associent des tâches multiples et la logique de flux de travail.
+  #### Leçons
+  - Introduction au Flux de Contrôle
+  - Création de Packages Dynamiques
+  - Utilisation de Conteneurs
+  - Gestion de la Cohérence
+
+
+  #### Laboratoire&#58; Mise en œuvre du Flux de Contrôle dans un Package SSIS
+
+  #### Laboratoire&#58; Utilisation des Transactions et des Points de Contrôle
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Mettre en œuvre un flux de contrôle avec des contraintes de tâche et de précédence 
+  - Créer des packages dynamiques qui incluent des variables et des paramètres 
+  - Utiliser des conteneurs dans un flux de contrôle de package
+  - Imposer la cohérence avec des transactions et des points de contrôle
+
+
+  ### Module 6&#58; Débogage et Dépannage des Packages SSIS
+  Ce module décrit comment déboguer des packages pour trouver la cause des erreurs qui se produisent pendant l’exécution. Il discute ensuite de la fonctionnalité d’enregistrement intégrée à SSIS que vous pouvez utiliser pour enregistrer des événements à des fins de dépannage. Enfin, ce module décrit les approches courantes de la gestion des erreurs dans le flux de contrôle et le flux de données.
+  #### Leçons
+  - Débogage d’un Package SSIS
+  - Enregistrement des Evénements du Package SSIS
+  - Gestion des Erreurs dans un Package SSIS
+
+
+  #### Laboratoire&#58; Débogage et Dépannage d’un Package SSIS
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Déboguer un package SSIS
+  - Mettre en œuvre l’enregistrement pour un package SSIS
+  - Gérer les erreurs dans un package SSIS
+
+
+  ### Module 7&#58; Mettre en œuvre une Solution d’Extraction des Données
+  Ce module décrit les techniques que vous pouvez utiliser pour mettre en œuvre un processus de rafraîchissement progressif d’un entrepôt de données.
+  #### Leçons
+  - Planification de l’Extraction des Données
+  - Extraction des Données Modifiées
+
+
+  #### Laboratoire&#58; Extraction des Données Modifiées
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Planifier l’extraction des données
+  - Extraire des données modifiées
+
+
+  ### Module 8&#58; Chargement des Données dans un Entrepôt de Données
+  Ce module décrit les techniques que vous pouvez utiliser pour mettre en œuvre le processus de chargement d’un entrepôt de données.
+  #### Leçons
+  - Planification des Charges de Données
+  - Utilisation de SSIS pour les Charges Incrémentielles
+  - Utilisation des Techniques de Chargement Transact-SQL
+
+
+  #### Laboratoire&#58; Chargement d’un Entrepôt de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les considérations de planification des chargements de données
+  - Utiliser SQL Server Integration Services (SSIS) pour charger de nouvelles données et des données modifiées dans un entrepôt de données.
+  - Utiliser des techniques de Transact-SQL pour charger des données dans un entrepôt de données.
+
+  ### Modulle 9&#58; Imposition de la Qualité des Données
+  S’assurer de la haute qualité des données est essentiel si vous souhaitez avoir des résultats d’analyse des données fiables. SQL Server 2014 inclut Data Quality Services (DQS) qui propose un processus assisté par ordinateur de nettoyage des valeurs des données ainsi que d’identification et de suppression des entités aux données dupliquées. Ce processus réduit la charge de travail du gardien des données à un minimum tout en conservant une interaction humaine afin de s’assurer de la précision des résultats.
+  #### Leçons
+  - Introduction à la Qualité des Données
+  - Utilisation de Data Quality Services pour Nettoyer les Données
+  - Utilisation de Data Quality Services pour Faire Correspondre les Données
+
+
+  #### Laboratoire&#58; Nettoyage des Données
+
+  #### Laboratoire&#58; Déduplication des Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire la façon dont DQS peut vous aider à gérer la qualité des données.
+  - Utiliser DQS pour nettoyer vos données.
+  - Utiliser DQS pour faire correspondre vos données.
+
+  ### Module 10&#58; Services de Données de Référence
+  Les services de données de référence permettent aux organisations d’uniformiser et d’améliorer la qualité, la cohérence et la fiabilité des données qui guident les décisions d’affaires clés. Ce module présente les Services de Données de Référence et explique les avantages de leur utilisation.
+  #### Leçons
+  - Introduction aux Services de Données de Référence.
+  - Mise en œuvre d’un Modèle de Services de Données de Référence (MDS)
+  - Gestion des Données de Référence
+  - Création d’un Hub de Données de Référence
+
+
+  #### Laboratoire&#58; Mise en œuvre des Services de Données de Référence
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les concepts clés des Services de Données de Référence.
+  - Mettre en œuvre un Modèle de Services de Données de Référence.
+  - Utiliser des Outils des Services de Données de Référence pour gérer les données de référence.
+  - Utiliser des Outils des Services de Données de Référence pour créer un hub de données de référence.
+
+  ### Module 11&#58; Extension des Services d’Intégration de SQL Server
+  Ce module décrit les techniques que vous pouvez utiliser pour étendre SSIS. Ce module n’est pas conçu pour être un guide complet pour mettre au point des solutions SSIS personnalisées, mais vise à conscientiser aux étapes essentielles requises pour utiliser des composants et des scripts personnalisés au cours d’un processus ETL basé sur SSIS.
+  #### Leçons
+  - Utilisation des Scripts dans SSIS
+  - Utilisation des Composants Personnalisés dans SSIS
+
+
+  #### Laboratoire&#58; Utilisation des Scripts Personnalisés
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Inclure des scripts personnalisés dans un package SSIS.
+  - Décrire la façon dont des composants personnalisés peuvent être utilisés pour étendre SSIS.
+
+  ### Module 12&#58; Déploiement et Configuration des Packages SSIS
+  Microsoft SQL Server Integration Services (SSIS) fournit des outils qui facilitent le déploiement des packages sur un autre ordinateur. Les outils de déploiement gèrent également les dépendances, telles que les configurations et les fichiers dont le package en a besoin. Dans ce module, vous apprendrez à utiliser ces outils pour installer des packages et leurs dépendances sur un ordinateur cible.
+  #### Leçons
+  - Aperçu du Déploiement de SSIS
+  - Déploiement de Projets SSIS
+  - Planification de l’Exécution d’un Package SSIS
+
+
+  #### Laboratoire&#58; Déploiement et Configuration des Packages SSIS
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les considérations relatives au déploiement de SSIS.
+  - Déployer des projets SSIS.
+  - Planifier l’exécution d’un package SSIS.
+
+  ### Module 13&#58; Consommation de Données dans un Entrepôt de Données
+  Ce module présente la BI, décrit les composants de Microsoft SQL Server que vous pouvez utiliser pour créer une solution de BI et les outils des clients avec lesquels les utilisateurs peuvent créer des rapports et analyser des données.
+  #### Leçons
+  - Introduction à la Business Intelligence
+  - Business Intelligence D’Entreprise
+  - BI en Libre-Service et Big Data
+
+
+  #### Laboratoire&#58; Utilisation d’un Entrepôt de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire la BI et les scénarios de BI courants.
+  - Décrire comment un entrepôt de données peut être utilisé dans des scénarios de BI en entreprise.
+  - Décrire comment un entrepôt de données peut être utilisé dans des scénarios de BI en libre-service.
+

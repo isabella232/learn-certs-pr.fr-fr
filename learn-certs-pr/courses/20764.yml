@@ -1,0 +1,391 @@
+### YamlMime:Course
+title: Administering a SQL Database Infrastructure
+metadata:
+  title: 'Course 20764-C: Administering a SQL Database Infrastructure'
+  description: 'Course 20764-C: Administering a SQL Database Infrastructure'
+uid: course.20764
+courseNumber: '20764-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Authentification et autorisation des utilisateurs.
+- skill: Attribution des rôles de serveur et de base de données.
+- skill: Autorisation aux utilisateurs pour accéder aux ressources.
+- skill: Protection des données avec le cryptage et l’audit.
+- skill: Description des modèles de reprise et des stratégies de sauvegarde.
+- skill: Sauvegarde des bases de données SQL Server.
+- skill: Restauration des bases de données SQL Server.
+- skill: Automatisation de la gestion des bases de données.
+- skill: Configuration de la sécurité pour l’agent SQL Server.
+- skill: Gestion des alertes et des notifications.
+- skill: Gestion de SQL Server à l’aide de PowerShell.
+- skill: Traçage de l’accès à SQL Server.
+- skill: Suivi d’une infrastructure SQL Server.
+- skill: Dépannage d’une infrastructure SQL Server.
+- skill: Importation et exportation des données
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-764
+summary: |-
+  Cette formation de cinq jours dispensée par un instructeur fournit aux étudiants qui administrent et maintiennent des bases de données SQL Server les connaissances et les compétences nécessaires à l’administration d’une infrastructure de base de données SQL Server. En outre, elle sera utile aux personnes qui développent des applications qui fournissent du contenu à partir de bases de données SQL Server.
+
+  #### Profil de l’audience
+  Cette formation s'adresse principalement aux personnes qui administrent et maintiennent des bases de données SQL Server. Ces personnes sont essentiellement responsables de l’administration et la maintenance des bases de données ou travaillent dans des environnements où les bases de données jouent un rôle clé dans leur fonction principale.
+
+  L’audience secondaire de cette formation se compose des personnes qui développent des applications qui fournissent du contenu à partir des bases de données SQL Server.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir
+  les connaissances techniques suivantes&#58;
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles de Transact-SQL.
+  - Connaissances professionnelles des bases de données relationnelles.
+  - Expérience avec la conception de bases de données.
+outlineSection: |-
+  ### Module 1&#58; Sécurité de SQL Server
+  La protection des données dans vos bases de données Microsoft SQL Server est essentielle et exige des connaissances professionnelles des problèmes et des fonctionnalités relatives à la sécurité de SQL Server.
+
+  Ce module décrit les modèles de sécurité SQL Server, les identifiants, les utilisateurs, les bases de données partiellement contenues et l’autorisation inter serveurs.
+
+  #### Leçons
+  - Authentification des connexions à SQL Server.
+  - Autorisation des identifiants pour se connecter aux bases de données
+  - Autorisation entre les serveurs
+  - Bases de données partiellement contenues
+
+
+  #### Laboratoire &#58; Authentification des utilisateurs
+  - Création d’identifiants
+  - Création des utilisateurs d’une base de données
+  - Correction des problèmes de connexion à l’application
+  - Configuration de la sécurité pour des bases des données restaurées
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de comprendre les concepts de base de SQL Server.
+  - de comprendre l’authentification de connexion à SQL Server.
+  - de comprendre l’autorisation des identifiants des utilisateurs aux bases de données.
+  - Bases de données partiellement contenues. 
+  - Autorisation entre les serveurs.
+
+
+  ### Module 2&#58; Attribution de rôles au serveur et à la base de données
+  L’utilisation de rôles simplifie la gestion des autorisations octroyées aux utilisateurs. Grâce aux rôles, vous pouvez contrôler l’accès des utilisateurs authentifiés aux ressources du système en fonction de la fonction professionnelle de chaque utilisateur, plutôt qu’en attribuant des autorisations à chaque utilisateur. Vous pouvez octroyer des autorisations à une fonction, puis faire des utilisateurs des membres de rôles.
+  Microsoft SQL Server comprend la prise en charge de rôles de sécurité définis au niveau du serveur et au niveau de la base de données.
+  #### Leçons
+  - Travail avec des rôles de serveur.
+  - Travail avec des rôles de base de données fixes.
+  - Attribution de rôles de base de données définis par utilisateur.
+
+
+  #### Laboratoire &#58; Attribution de rôles de serveur et de base de données
+  - Attribution de rôles de serveur.
+  - Attribution de rôles de base de données fixes.
+  - Attribution de rôles de base de données définis par utilisateur.
+  - Vérification de la sécurité.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire et d’utiliser les rôles de serveur pour gérer la sécurité au niveau du serveur,
+  - de décrire et d’utiliser des rôles de base de données fixes,
+  - d’utiliser des rôles de base de données personnalisés et des rôles d’application pour gérer la sécurité au niveau de la base de données.
+
+
+  ### Module 3&#58; Autorisation aux utilisateurs pour accéder aux ressources
+  Dans les modules précédents, vous avez vu l’organisation de la sécurité de Microsoft SQL Server et l’attribution des ensembles d’autorisations au niveau du serveur et de la base de données en utilisant des rôles de serveur fixes, des rôles de serveur définis par l’utilisateur, des rôles de base de données fixes et des rôles d’application. L’étape finale de l’autorisation aux utilisateurs pour accéder aux ressources de SQL Server est l’autorisation des utilisateurs et des rôles pour accéder aux objets du serveur et de la base de données.
+
+  Dans ce module, vous verrez comment les autorisations pour ces objets sont gérées. En outre, pour accéder aux autorisations pour les objets de la base de données, SQL Server permet de déterminer quels utilisateurs sont autorisés à exécuter le code, tel que les procédures et fonctions stockées. Dans de nombreux cas, ces autorisations et les autorisations pour les objets de la base de données sont mieux configurées au niveau du schéma qu’au niveau de l’objet individuel. L’octroi d’autorisations au niveau du schéma peut simplifier votre architecture de sécurité. Vous étudierez l’octroi d’autorisations au niveau du schéma dans la leçon finale de ce module.
+  #### Leçons
+  - Autorisation de l’accès utilisateur aux objets.
+  - Autorisation des utilisateurs pour exécuter du code.
+  - Configuration des autorisations au niveau du schéma.
+
+
+  #### Laboratoire &#58; Autorisation des utilisateurs pour l’accès aux ressources
+  - Octroi, refus et annulation des autorisations pour des objets.
+  - Octroi des autorisations EXECUTE pour le code.
+  - Octroi d’autorisations au niveau du schéma.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’autoriser l’accès des utilisateurs aux objets,
+  - d’autoriser les utilisateurs à exécuter le code,
+  - de configurer des autorisations au niveau du schéma.
+
+
+  ### Module 4&#58; Protection des données avec le cryptage et l’audit
+  Lors de la configuration de la sécurité de vos systèmes Microsoft SQL Server, vous devez vous assurer de répondre à toutes les exigences de conformité de votre organisation en matière de protection des données. Les organisations doivent souvent se conformer à des politiques de conformité spécifiques au secteur, ce qui rend l’audit de l’accès à toutes les données obligatoire. Pour répondre à cette exigence, SQL Server fournit une gamme d’options pour la mise en œuvre de l’audit.
+
+  Une autre exigence courante en matière de conformité est le cryptage des données pour se protéger contre tout accès non autorisé si l’accès aux fichiers des bases de données est compromis. SQL Server prend en charge cette exigence en fournissant un cryptage des données transparent (TDE). Pour limiter le risque de fuite des informations par les utilisateurs ayant un accès administratif à une base de données, les colonnes contenant des données sensibles, telles que des numéros de carte de crédit ou des numéros d’identité nationale, peuvent être cryptées à l’aide de la fonctionnalité Always Encrypted.
+
+  Ce module décrit les options disponibles pour l’audit dans SQL Server, la façon d’utiliser et de gérer la fonctionnalité d’audit de SQL Server et de mettre en œuvre le cryptage.
+  #### Leçons
+  - Options d’audit de l’accès aux données dans SQL Server.
+  - Mise en œuvre de l’audit de SQL Server.
+  - Gestion de l’audit de SQL Server.
+  - Protection des données avec le cryptage.
+
+
+  #### Laboratoire &#58; Utilisation de l’audit et du cryptage
+  - Travail avec l’audit de SQL Server.
+  - Cryptage d’une colonne avec Always Encrypted.
+  - Cryptage d’une base de données avec TDE.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les options pour l’audit de l’accès aux données,
+  - de mettre en œuvre l’audit de SQL Server,
+  - de gérer l’audit de SQL Server,
+  - de décrire et mettre en œuvre des méthodes de cryptage des données dans SQL Server,
+  - de mettre en œuvre le cryptage.
+
+
+  ### Module 5&#58; Modèles de reprise et stratégies de sauvegarde
+  L’un des aspects les plus importants du rôle d’administrateur de bases de données consiste à s’assurer que les données de l’organisation soient sauvegardées de manière fiable de sorte que, en cas de défaillance, vous puissiez récupérer les données. Même si l’industrie informatique est connue pour ses besoins en stratégies de sauvegarde fiables depuis des décennies et que ce sujet a été longuement discuté, des histoires malheureuses concernant la perte de données sont toujours monnaie courante. Un problème supplémentaire est que, même si les stratégies mises en place fonctionnent comme prévu, les résultats ne répondent pas toujours aux exigences opérationnelles d’une organisation.
+
+  Dans ce module, vous étudierez l’élaboration d’une stratégie alignée aux besoins organisationnels, en fonction de modèles de sauvegarde disponibles et de la fonction des journaux de transactions dans le maintien de la cohérence des bases de données.
+  #### Leçons
+  - Compréhension des stratégies de sauvegarde.
+  - Journaux de transaction SQL Server.
+  - Planification des stratégies de sauvegarde.
+
+
+  #### Laboratoire &#58; Compréhension des modèles de recouvrement de SQL Server.
+  - Planification d’une stratégie de sauvegarde.
+  - Configuration de modèles de récupération de bases de données.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire plusieurs stratégies de sauvegarde,
+  - de décrire le fonctionnement des journaux de transaction des bases de données,
+  - de planifier des stratégies de sauvegarde SQL Server.
+  
+
+  ### Module 6&#58; Sauvegarde des bases de données de SQL Server
+  Dans le module précédent, vous avez appris comment planifier une stratégie de sauvegarde pour un système SQL Server. Vous pouvez maintenant apprendre à exécuter des sauvegardes SQL Server, notamment des sauvegardes de bases de données différentielles et pleines, des sauvegardes de journaux de transactions et des sauvegardes partielles.
+
+  Dans de module, vous apprendrez à appliquer plusieurs stratégies de sauvegarde.
+  #### Leçons
+  - Sauvegarde de bases de données et de journaux de transactions.
+  - Gestion des sauvegardes de bases de données.
+  - Options de bases de données avancées.
+
+
+  #### Laboratoire &#58; Sauvegarde de bases de données
+  - Sauvegarde de bases de données.
+  - Exécution de sauvegardes de bases de données, différentielles et de journaux de transactions.
+  - Exécution d’une sauvegarde partielle.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’exécuter des sauvegardes de bases de données et de journaux de transactions SQL Server,
+  - de gérer des sauvegardes de bases de données,
+  - de décrire des options de sauvegarde avancées.
+
+
+  ### Module 7&#58; Restauration des bases de données de SQL Server 2016
+  Dans le module précédent, vous avez appris à créer des sauvegardes de bases de données Microsoft SQL Server 2016. Une stratégie de sauvegarde peut impliquer de nombreux types de sauvegardes différents. Il est donc essentiel de pouvoir les restaurer efficacement.
+
+  Vous restaurerez souvent une base de données dans une situation d’urgence. Vous devez toutefois vous assurer que vous savez précisément comment vous allez procéder et récupérer avec succès la base de données dans l’état requis. Une bonne planification et compréhension du processus de restauration peuvent contribuer à éviter une aggravation de la situation.
+
+  Certaines restaurations de bases de données sont liées à une défaillance du système. Dans ces cas-là, vous souhaitez revenir à un système aussi proche de l’état dans lequel il était avant la défaillance. Cependant, certaines défaillances sont liées à une erreur humaine et vous souhaiterez peut-être récupérer le système à un point avant cette erreur. La fonctionnalité de récupération à un moment précis de SQL Server 2016 peut vous aider à y arriver.
+
+  Étant donné que les bases de données utilisateurs sont généralement beaucoup plus grandes, elles risquent davantage d’être affectées par des défaillances du système que les bases de données système. Cependant, des bases de données système peuvent être affectées par des défaillances. Un soin particulier doit être pris lors de leur récupération. Vous devez essentiellement comprendre comment récupérer chaque base de données système, car vous ne pouvez pas suivre la même procédure pour toutes les bases de données système.
+
+  Dans ce module, vous apprendrez à récupérer les bases de données utilisateurs et systèmes et à mettre en œuvre une récupération à un point dans le temps.
+
+  #### Leçons
+  - Compréhension du processus de restauration
+  - Restauration des bases des données
+  - Scénarios de restauration avancés
+  - Récupération à un moment précis
+
+
+  #### Laboratoire &#58; Restauration de bases de données SQL Server
+  - Récupération de la sauvegarde d’une base de données
+  - Restauration des sauvegardes d’une base de données, différentielles et des journaux de transactions
+  - Exécution d’une restauration fragmentaire
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer le processus de restauration.
+  - de restaurer des bases des données.
+  - d’effectuer une opération de restauration avancée.
+  - de procéder à une récupération à un point dans le temps.
+
+
+  ### Module 8&#58; Automatisation de la gestion de SQL Server
+  Les outils fournis par Microsoft SQL Server facilitent l’administration par rapport à d’autres moteurs de base de données. Cependant, même lorsque les tâches sont faciles à remplir, il est courant de devoir répéter une tâche de nombreuses fois. Des administrateurs de bases de données efficaces apprennent à automatiser les tâches répétitives. Cela peut contribuer à éviter des situations où un administrateur oublie d’exécuter une tâche au moment requis. Ce qui est peut-être encore plus important est que l’automatisation des tâches aide à s’assurer qu’elles soient réalisées de manière cohérente chaque fois qu’elles sont exécutées.
+
+  Ce module décrit comment utiliser l’agent SQL Server pour automatiser les tâches, comment configurer des contextes de sécurité pour les tâches et comment mettre en œuvre des tâches multiserveurs.
+  #### Leçons
+  - Automatisation de la gestion de SQL Server
+  - Travail avec l’agent SQL Server
+  - Gestion des tâches de l’agent SQL Server
+  - Gestion multiserveurs
+
+
+  #### Laboratoire &#58; Automatisation de la gestion de SQL Server
+  - Création d’une tâche d’agent de SQL Server
+  - Test d’une tâche
+  - Programmation d’une tâche
+  - Configuration des serveurs maître et cible
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire des méthodes d’automatisation de la gestion de SQL Server.
+  - de créer des tâches, des types d’étapes de tâches et des horaires.
+  - de gérer les tâches de l’agent SQL Server.
+  - Configuration des serveurs maître et cible.
+
+
+  ### Module 9&#58; Configuration de la sécurité pour l’agent SQL Server
+  D’autres modules de cette formation ont démontré la nécessité de minimiser les autorisations octroyées aux utilisateurs selon le principe du « moindre privilège ». Cela signifie que les utilisateurs n’ont que les autorisations dont ils ont besoin pour exécuter leurs tâches. La même logique s’applique à l’octroi d’autorisations à l’agent SQL Server. Bien qu’il soit facile d’exécuter toutes les tâches dans le contexte du compte de service de l’agent SQL Server et de configurer un compte en tant que compte administrateur, un mauvais environnement de sécurité en résultera. Il est important de comprendre comment créer un environnement de sécurité à privilèges minimaux pour les tâches exécutées dans l’agent SQL Server.
+  #### Leçons
+  - Compréhension de la sécurité de l’agent SQL Server.
+  - Configuration des identifiants.
+  - Configuration des comptes proxy.
+
+
+  #### Laboratoire &#58; Configuration de la sécurité pour l’agent SQL Server
+  - Analyse des problèmes dans l’agent SQL Server.
+  - Configuration d’un identifiant.
+  - Configuration d’un compte proxy.
+  - Configuration et test du contexte de sécurité d’une tâche.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer la sécurité de l’agent SQL Server,
+  - de configurer des identifiants,
+  - de configurer des comptes proxy.
+
+
+  ### Module 10&#58; Surveillance de SQL Server à l’aide d’alertes et de notifications
+  Un aspect essentiel de la gestion de Microsoft SQL Server de manière proactive consiste à s’assurer que vous êtes conscient des problèmes et des événements qui se présentent sur le serveur au fur et à mesure qu’ils se produisent. SQL Server enregistre une mine d’informations sur les problèmes. Vous pouvez le configurer pour qu’il vous conseille automatiquement lorsque de tels problèmes se présentent grâce à des alertes et des notifications. La façon la plus courante pour les administrateurs de bases de données SQL Server de recevoir des informations sur les événements intéressants est par courrier électronique. Ce module couvre la configuration du courrier, des alertes et des notifications de la base de données pour une instance de SQL Server et la configuration des alertes pour la base de données Microsoft Azure SQL.
+
+  #### Leçons
+  - Surveillance des erreurs de SQL Server.
+  - Configuration du courrier de la base de données.
+  - Opérateurs, alertes et notifications.
+  - Alertes dans la base de données Azure SQL.
+
+
+  #### Laboratoire &#58; Surveillance de SQL Server à l’aide d’alertes et de notifications
+  - Configuration du courrier de la base de données.
+  - Configuration des opérateurs.
+  - Configuration des alertes et des notifications.
+  - Test des alertes et des notifications.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de surveiller les erreurs de SQL Server,
+  - de configurer le courrier de la base de données,
+  - de configurer des opérateurs, des alertes et des notifications,
+  - de travailler avec des alertes dans la base de données Azure SQL.
+
+
+  ### Module 11&#58; Introduction à la gestion de SQL Server à l’aide de PowerShell
+  Ce module étudie l’utilisation de Windows PowerShell avec Microsoft SQL Server. Les entreprises doivent constamment accroître leur efficacité et leur fiabilité en maintenant leur infrastructure TI. Avec PowerShell, vous pouvez renforcer cette efficacité et cette fiabilité en créant des scripts pour exécuter des tâches. Les scripts PowerShell peuvent être testés et appliqués plusieurs fois sur plusieurs serveurs, ce qui permet à votre organisation de gagner du temps et de l’argent.
+  #### Leçons
+  - Démarrage avec Windows PowerShell.
+  - Configuration de SQL Server à l’aide de PowerShell.
+  - Administration et maintenance de SQL Server avec PowerShell.
+  - Gestion de bases de données Azure SQL avec PowerShell.
+
+
+  #### Laboratoire &#58; Utilisation de PowerShell pour gérer SQL Server
+  - Démarrage avec PowerShell.
+  - Utilisation de PowerShell pour modifier les paramètres de SQL Server.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les avantages de PowerShell et ses concepts fondamentaux, 
+  - de configurer SQL Server à l’aide de PowerShell,
+  - d’administrer et de maintenir SQL Server avec PowerShell,
+  - de gérer une base de données Azure SQL avec PowerShell.
+
+
+  ### Module 12&#58; Traçage de l’accès à SQL Server avec des événements étendus
+  Le suivi des mesures de performance fournit un excellent moyen d’évaluer la performance globale d’une solution de base de données. Cependant, vous devez parfois procéder à une analyse plus détaillée de l’activité qui a lieu dans une instance Microsoft SQL Server afin de dépanner des problèmes et d’identifier des façons d’optimiser la performance de la charge de travail.
+
+  Les événements étendus SQL Server sont un système de gestion des événements flexible et léger intégré dans le moteur de base de données de Microsoft SQL Server. Ce module se concentre sur les concepts architecturaux, les stratégies de dépannage et les scénarios d’utilisation des événements étendus.
+
+
+  #### Leçons
+  - Concepts de base des événements étendus.
+  - Travail avec des événements étendus.
+
+
+  #### Laboratoire &#58; Événements étendus
+  - Utilisation de la session d’événements étendus System_Health.
+  - Suivi des segmentations de pages à l’aide des événements étendus.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les concepts de base des événements étendus,
+  - de créer et de faire une requête des sessions des événements étendus.
+
+
+  ### Module 13&#58; Surveillance de SQL Server
+  Le moteur de base de données Microsoft SQL Server peut fonctionner pendant de longues périodes sans avoir besoin d’attention administrative. Cependant, si vous surveillez régulièrement l’activité sur le serveur de la base de données, vous pouvez traiter des problèmes potentiels avant qu’ils ne surviennent.
+  SQL Server fournit un certain nombre d’outils que vous pouvez utiliser pour surveiller l’activité actuelle et enregistrer des détails de l’activité antérieure. Vous devez vous familiariser avec la fonction de chacun de ces outils et avec son utilisation.
+  Il est facile d’être débordé par le volume de production des outils de suivi. Vous devez peut-être donc également apprendre des techniques pour analyser leur production.
+  #### Leçons
+  - Suivi de l’activité.
+  - Saisie et gestion des données de performance.
+  - Analyse des données de performance recueillies.
+  - Utilité de SQL Server.
+
+
+  #### Laboratoire &#58; Suivi de SQL Server
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de surveiller l’activité actuelle,
+  - de saisir et de gérer des données de performance,
+  - d’analyser des données de performance recueillies,
+  - de configurer l’utilité de SQL Server.
+
+
+  ### Module 14&#58; Dépannage de SQL Server
+  Les administrateurs de bases de données travaillant avec Microsoft SQL Server doivent adopter le rôle important de dépanneur en cas de problème, surtout si les utilisateurs d’applications essentielles à l’entreprise dépendants des bases de données SQL Server ne peuvent pas travailler. Il est important d’avoir une méthodologie solide de résolution des problèmes en général et d’être familiarisé avec les problèmes qui peuvent le plus couramment survenir avec les systèmes SQL Server.
+
+  #### Leçons
+  - Une méthodologie de dépannage pour SQL Server.
+  - Résolution des problèmes liés au service.
+  - Résolution des problèmes de connectivité et de connexion.
+
+
+  #### Laboratoire &#58; Dépannage des problèmes courants
+  - Dépannage et résolution d’un problème de connexion SQL.
+  - Dépannage et résolution d’un problème de service.
+  - Dépannage et résolution d’un problème de connexion Windows.
+  - Dépannage et résolution d’un problème d’exécution de tâche.
+  - Dépannage et résolution d’un problème de performance.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire la méthodologie de dépannage pour SQL Server,
+  - de résoudre des problèmes relatifs au service,
+  - de résoudre des problèmes de connexion et de connectivité.
+
+
+  ### Module 15&#58; Importation et exportation de données
+  Même si un grand nombre de données qui se trouvent dans le système Microsoft SQL Server sont saisies directement par les utilisateurs qui exécutent des programmes d’applications, il est souvent nécessaire de déplacer des données à d’autres endroits, de et vers SQL Server.
+
+  SQL Server fournit un ensemble d’outils que vous pouvez utiliser pour transférer des données de et vers SQL Server. Certains de ces outils, tels que le service BCP (Bulk Copy Program) et les services d’intégration de SQL Server sont externes au moteur de la base de données. D’autres outils, tels que l’instruction BULK INSERT et la fonction OPENROWSET sont mis en œuvre par le moteur de la base de données. Avec SQL Server, vous pouvez également créer des applications à données hiérarchisées qui englobent toutes les tables, les vues et les objets d’instances associés à la base de données d’un utilisateur dans une seule unité de déploiement.
+
+  Dans ce module, vous étudierez ces outils et techniques afin de pouvoir importer et exporter des données de et vers SQL Server.
+
+  #### Leçons
+  - Transfert de données de et vers SQL Server.
+  - Importation et exportation de données de tables.
+  - Utilisation de BCP et de BULK INSERT pour importer des données.
+  - Déploiement et mise à niveau d’une application à données hiérarchisées.
+
+
+  #### Laboratoire &#58; Importation et exportation de données
+  - Importation de données Excel à l’aide de l’assistant d’importation.
+  - Importation d’un fichier Text délimité à l’aide de BCP.
+  - Importation d’un fichier Text délimité à l’aide de BULK INSERT.
+  - Création et test d’un package SSIS pour extraire des données.
+  - Déploiement d’une application à données hiérarchisées.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les outils et techniques pour transférer des données,
+  - d’importer et d’exporter des données de tables,
+  - d’utiliser BCP et BULK INSERT pour importer des données,
+  - d’utiliser des applications à données hiérarchisées pour importer et exporter des applications de bases de données.
+

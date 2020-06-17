@@ -1,0 +1,62 @@
+### YamlMime:Course
+title: 'HTML5 Application Development Fundamentals: MTA Exam 98-375'
+metadata:
+  title: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+  description: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+uid: course.40375
+courseNumber: '40375-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gestion du cycle de vie de l’application.
+- skill: Construction de l’interface utilisateur à l’aide d’HTML5.
+- skill: Formatage de l’interface utilisateur à l’aide de CSS.
+- skill: Codage à l’aide de JavaScript.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-375
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-375 et à comprendre les sujets suivants&#58; la gestion du cycle de vie de l’application, la construction de l’interface utilisateur à l’aide d’HTML5, le formatage de l’interface utilisateur à l’aide de CSS, le codage à l’aide de JavaScript. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Gestion du cycle de vie de l’application
+
+
+  ### Module 2&#58; Construction de l’interface utilisateur à l’aide d’HTML5&#58; texte, graphiques et médias
+
+
+  ### Module 3&#58; Construction de l’interface utilisateur à l’aide d’HMTL5&#58; organisation, entrées et validation
+
+
+  ### Module 4&#58; Compréhension des fondamentaux de CSS &#58; flux du contenu, positionnement et style
+
+
+  ### Module 5&#58; Compréhension des fondamentaux de CSS &#58; dispositions
+
+
+  ### Module 6&#58; Gestion du flux de texte à l’aide de CSS
+
+
+  ### Module 7&#58; Gestion de l’interface graphique à l’aide de CSS
+
+
+  ### Module 8&#58; Compréhension de JavaScript et des fondamentaux du codage
+
+
+  ### Module 9&#58; Création d’animations, travail avec des graphiques et accès aux données
+
+
+  ### Module 10&#58; Codage JavaScript pour l’interface tactile, ressources en matière de dispositifs et de systèmes d’exploitation, etc.
+

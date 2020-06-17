@@ -1,0 +1,262 @@
+### YamlMime:Course
+title: Configuring Advanced Windows Server® 2012 Services
+metadata:
+  title: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+  description: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+uid: course.20412
+courseNumber: '20412-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configuration de fonctionnalités avancées pour le Dynamic Host Configuration Protocol (DHCP), le Système de Nom de Domaine (DNS) et configuration de la Gestion des Adresses IP (IPAM) avec Windows Server 2012.
+- skill: Configuration et gestion d’iSCSI, BranchCache et FSRM.
+- skill: Configuration de DAC pour gérer et vérifier l’accès aux fichiers partagés.
+- skill: Planification et mise en œuvre d’un déploiement d’AD DS qui inclut plusieurs domaines et forêts.
+- skill: Planification et mise en œuvre d’un déploiement d’AD DS qui inclut des emplacements.
+- skill: Mise en œuvre et configuration du déploiement d’Active Directory Certificate Services (AD CS).
+- skill: Mise en œuvre d’un déploiement d’AD RMS.
+- skill: Mise en œuvre d’un déploiement d’AD FS.
+- skill: Fournir une haute disponibilité et l’équilibrage de la charge pour des applications Web grâce à la mise en œuvre d’un Network Load Balancing (NLB).
+- skill: Mise en œuvre et validation de la haute disponibilité et de l’équilibrage de la charge pour des applications Web grâce à la mise en œuvre d’un NLB.
+- skill: Fournir une haute disponibilité pour des services et applications réseau grâce à la mise en œuvre du clustering avec basculement.
+- skill: Mise en œuvre du clustering avec basculement et configuration et validation d’un service de réseau à haute disponibilité.
+- skill: Déploiement et gestion de machines virtuelles Hyper-V dans un clustering avec basculement.
+- skill: Mise en œuvre d’une solution de sauvegarde et de reprise après sinistre basée sur des exigences d’entreprise et techniques.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-412
+summary: |-
+  Suivez une formation pratique et entraînez-vous à la configuration avancée de Windows Server 2012, y compris des services Windows Server 2012 R2, au cours de cette formation officielle Microsoft de cinq jours. Cette formation est la troisième partie d’une série de trois formations qui fournissent les compétences et les connaissances nécessaires à la mise en œuvre d’une infrastructure de base Windows Server 2012 dans un environnement d’entreprise existant. 
+
+  Les trois formations couvrent ensemble la mise en œuvre, la gestion, la maintenance et la fourniture de services et d’infrastructure dans un environnement Windows Server 2012. Même s’il y a des compétences et des tâches croisées au cours de ces formations, cette formation porte sur la configuration avancée des services nécessaires au déploiement, à la gestion et à la conservation d’une infrastructure Windows Server 2012, telle que des services de mise en réseau avancée, Active Directory Domaine Services (AD DS), Active Directory Rights Management Services (AD RMS), Active Directory Federation Services (AD FS), Network Load Balancing, Failover Clustering, les services de continuité des affaires et de reprise après sinistre ainsi que la fourniture d’accès et d’informations et les technologies de protection telles que Dynamic Access Control (DAC) et l’intégration du Proxy d’Application Web avec AD FS et de Workplace Join.
+
+  Cette formation cartographie directement et est le premier choix en matière de préparation pratique à l’examen Microsoft Certified Solutions Associate (MCSA) [412&#58; Configuration avancée des services de Windows Server 2012](https://www.microsoft.com/learning/course.aspx?cid=20412), qui est le troisième des trois examens requis dans le cadre de l’obtention de la certification MCSA&#58; Windows Server 2012. 
+
+  Remarque&#58; Les laboratoires de cette formation se basent sur Windows Server 2012 R2 et Windows 8.1.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des technologies de l’information (TI) qui ont une expérience pratique de la mise en œuvre, de la gestion et de la conservation d’un environnement Windows Server 2012 ou Windows Server 2012 R2 et qui souhaitent acquérir les compétences et connaissances nécessaires à la gestion et à la fourniture avancées de services dans cet environnement Windows Server 2012. Les candidats qui sont généralement intéressés par cette formation sont&#58;
+  - Des administrateurs de Windows Server expérimentés qui ont une expérience de travail réelle dans un environnement d’entreprise Windows Server 2008 ou Windows Server 2012.
+  - Des professionnels des TI qui cherchent à passer l’examen [412&#58; Configuration avancée de Windows Server 2012](https://www.microsoft.com/learning/exam-70-412.aspx).
+  - Des professionnels des TI qui souhaitent passer les examens Microsoft Certified Solutions Expert (MCSE) en Centre de Données, Infrastructure de Bureau, Messagerie, Collaboration et Communications et qui sont également intéressés par cette formation, car ils se préparent aux examens MCSA, qui sont un prérequis pour leur spécialité individuelle.
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  - Expérience de travail avec des serveurs Windows Server 2008 ou Windows Server 2012 au quotidien dans un environnement d’entreprise.
+
+  Les prérequis à cette formation peuvent être remplis en ayant des connaissances équivalentes à ou en suivant la formation [20410C&#58; Installation et configuration de Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410C&Locale=en-us) et [20411C&#58; Administration de Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20411C), car cette formation est construite sur les connaissances et les compétences fournies par ces formations.
+outlineSection: |-
+  ### Module 1&#58; Mise en œuvre des Services de Réseau Avancés
+  Dans ce module, les étudiants seront capables de configurer des fonctionnalités avancées pour le Dynamic Host Configuration Protocol (DHCP) et le Système de Nom de Domaine (DNS) et de configurer la Gestion de l’Adresse IP (IPAM).
+  #### Leçons
+  - Configuration des Fonctionnalités Avancées de DHCP.
+  - Configuration des Paramètres Avancés de DNS.
+  - Mise en œuvre de l’IPAM.
+  - Gestion des Espaces d’Adresse IP avec IPAM.
+
+
+  ### Laboratoire&#58; Mise en œuvre des Services de Réseau Avancés
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Configurer des fonctionnalités avancées dans DHCP avec Windows Server 2012,
+  - Cnfigurer les paramètres avancés de DNS dans Windows Server 2012,
+  - Mettre en œuvre la Gestion de l’Adresse IP dans Windows Server 2012.
+
+
+  ### Module 2&#58; Mise en œuvre des Services de Fichiers Avancés
+  Dans ce module, les étudiants seront capables de configurer des services de fichiers afin de répondre à des exigences d’entreprise avancées.
+  #### Leçons
+  - Configuraiton du Stockage iSCSI.
+  - Configuration de BranchCache
+  - Optimisation de l’Utilisation du Stockage.
+
+
+  #### Laboratoire&#58; Mise en œuvre des Services de Fichiers Avancés
+
+  #### Laboratoire&#58; Mise en œuvre de BranchCache
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Apprendre à configurer et à gérer iSCSI,
+  - Mettre en œuvre BranchCache à l’aide de Windows Server 2012,
+  - Mettre en œuvre les fonctionnalités de Windows Server 2012 qui optimisent l’utilisation du stockage.
+
+
+  ### Module 3&#58; Mise en œuvre du Contrôle d’Accès Dynamique
+  Dans ce module, les étudiants seront capables de configurer le Contrôle d’Accès Dynamique (DAC) afin de gérer et de vérifier l’accès aux fichiers partagés.
+  #### Leçons
+  - Présentation du DAC.
+  - Mise en œuvre des Composants de DAC.
+  - Mise en œuvre de DAC pour le Contrôle de l’Accès.
+  - Mise en œuvre de l’Assistance en cas d’Accès Refusé.
+  - Mise en œuvre et Gestion des Dossiers de Travail.
+
+
+  #### Laboratoire&#58; Mise en œuvre de l’Accès Sécurisé aux Données
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire DAC,
+  - Mettre en œuvre et de configurer les composants de DAC,
+  - Mettre en œuvre DAC sur des serveurs de fichiers,
+  - Décrire et mettre en œuvre l’assistance en cas d’accès refusé,
+  - Mettre en œuvre l’intégration des Dossiers de Travail avec DAC.
+
+
+  ### Module 4&#58; Mise en œuvre des Déploiements Distribués d’Active Directory Domain Services
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre un déploiement d’Active Directory Domaine Services (AD DS) qui inclut plusieurs domaines et forêts.
+  #### Leçons
+  - Présentation des Déploiements Distribués d’AD DS.
+  - Déploiement d’un Environnement Distribué d’AD DS.
+  - Configuration des Fiducies AD DS.
+
+
+  #### Laboratoire&#58; Mise en œuvre des déploiements AD DS distribués
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les composants d’un déploiement AD DS hautement complexe,
+  - Mettre en œuvre un déploiement d’AD DS,
+  - Configurer des fiducies AD DS.
+
+
+  ### Module 5&#58; Mise en œuvre des Sites et de la Réplication d’Active Directory Domain Services
+  Dans ce module, les étudiants apprendront à planifier et mettre en œuvre un déploiement d’AD DS qui inclut plusieurs emplacements.
+  #### Leçons
+  - Présentation de la Réplication d’AD DS.
+  - Configuration des Sites d’AD DS.
+  - Configuration et Suivi de la Réplication d’AD DS.
+
+
+  #### Laboratoire&#58; Mise en œuvre de Sites et de la Réplication d’AD DS
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire le fonctionnement de la réplication dans un environnement Windows Server 2012,
+  - Configurer des sites AD DS afin d’optimiser le trafic du réseau AD DS,
+  - Configurer et suivre la réplication d’AD DS.
+
+
+  ### Module 6&#58; Mise en œuvre d’AD CS
+  Dans ce module, les étudiants apprendront à mettre en œuvre un déploiement de’Active Directory Certificate Services (AD CS).
+  #### Leçons
+  - Utilisation des Certificats dans un Environnement d’Entreprise.
+  - Présentation du PKI.
+  - Déploiement des CA.
+  - Déploiement et Gestion des Modèles de Certificats.
+  - Mise en œuvre de la Distribution et de la Révocation des Certificats.
+  - Gestion de la Récupération des Certificats.
+
+
+  #### Laboratoire&#58; Déploiement et Configuration de la Hiérarchie de CA
+
+  #### Laboratoire&#58; Déploiement et Gestion des Certificats
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire et utiliser des certificats dans des environnements d’entreprise,
+  - Décrire les composants et les concepts de l’infrastructure à clé publique (PKI) et décrire les options de mise en œuvre d’une infrastructure d’autorité de certification,
+  - Planifier et mettre en œuvre une infrastructure d’autorité de certification AD CS,
+  - Planifier et mettre en œuvre le déploiement d’un modèle de certificat à l’aide de l’autorité de certification AD CS,
+  - Planifier et mettre en œuvre la distribution et la révocation des certificats,
+  - Configurer et gérer l’archivage et la récupération à clé.
+
+
+  ### Module 7&#58; Mise en œuvre des Services de Gestion des Droits d’Active Directory
+  Dans ce module, les étudiants apprendront à mettre en œuvre un déploiement d’AD RMS.
+  #### Leçons
+  - Présentation d’AD RMS.
+  - Déploiement et Gestion d’une Infrastructure AD RMS.
+  - Configuration de la Protection du Contenu d’AD RMS.
+  - Configuration de l’Accès Externe à AD RMS.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’AD RMS
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire ce qu’AD RMS est et de quelle façon il peut être utilisé pour obtenir la protection du contenu,
+  - Déployer et gérer une infrastructure AD RMS,
+  - Configurer la protection du contenu à l’aide d’AD RMS,
+  - Octroyer à des utilisateurs extérieurs à l’organisation l’accès au contenu protégé à l’aide d’AD RMS.
+
+
+  ### Module 8&#58; Mise en œuvre et Administration d’AD FS
+  Dans ce module, les étudiants apprendront à mettre en œuvre le déploiement d’Active Directory Federation Services (AD FS).
+  #### Leçons
+  - Présentation d’AD FS.
+  - Déploiement d’AD FS.
+  - Mise en œuvre d’AD FS pour une Organisation Unique.
+  - Déploiement d’AD FS dans un Scénario de Fédération d’Entreprise à Entreprise.
+  - Extension d’AD FS à des Clients Externes.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’AD FS
+
+  #### Laboratoire&#58; Mise en œuvre d’AD FS pour des Partenaires et Utilisateurs Externes
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire l’identité des scénarios de gestion en fédération et la façon dont AD FS peut servir à répondre à ces scénarios,
+  - Configurer les prérequis d’AD FS et déployer les services d’AD FS,
+  - Mettre en œuvre AD FS pour autoriser le SSO dans une seule organisation,
+  - Mettre en œuvre AD FS pour autoriser le SSO entre des partenaires fédérés,
+  - Mettre en œuvre le Proxy d’Application Web et de décrire l’intégration de Workplace Join avec AD FS.
+
+
+  ### Module 9&#58; Mise en œuvre de Network Load Balancing
+  Dans ce module, les étudiants apprendront à fournir une haute disponibilité et à équilibrer la charge pour des applications Web grâce à la mise en œuvre d’un Network Load Balancing (NLB).
+  #### Leçons
+  - Présentation du NLB.
+  - Configuration d’un Cluster NLB.
+  - Planification de la Mise en œuvre d’un NLB.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’un NLB
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire comment le NLB fonctionne,
+  - Configurer un cluster de NLB,
+  - Planifier l’implémentation d’un NLB.
+
+
+  ### Module 10&#58; Mise en œuvre d’un clustering avec basculement
+  Dans ce module, les étudiants apprendront à fournir une haute disponibilité pour des services et applications réseau grâce à la mise en œuvre du clustering avec basculement.
+  #### Leçons
+  - Présentation du Clustering avec Basculement.
+  - Mise en œuvre d’un Clustering avec Basculement.
+  - Configuration des Applications et Services Hautement Disponibles sur un Cluster avec Basculement.
+  - Conservation d’un Cluster avec Basculement.
+  - Mise en œuvre d’un Cluster avec Basculement Multisite.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’un Clustering avec Basculement
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer les fonctionnalités d’un clustering avec basculement dans Windows Server 2012.
+  - Décrire la façon de mettre en œuvre un clustering avec basculement.
+  - Expliquer la façon de configurer des applications et services hautement disponibles sur un clustering avec basculement,
+  - Expliquer la façon de conserver un clustering avec basculement et la façon d’utiliser les nouvelles fonctionnalités de conservation.
+  - Décrire comment mettre en œuvre un clustering avec basculement multisite.
+
+
+  ### Module 11&#58; Mise en œuvre d’un Clustering avec Basculement avec Hyper-V
+  Dans ce module, les étudiants apprendront à déployer et gérer des machines virtuelles Hyper-V dans un clustering avec basculement.
+  #### Leçons
+  - Présentation de l’Intégration d’Hyper-V avec un Clustering avec Basculement.
+  - Mise en œuvre des Machines Virtuelles Hyper-V sur des Clusterings avec Basculement.
+  - Mise en œuvre du Mouvement des Machines Virtuelles Hyper-V.
+
+
+  ### Laboratoire&#58; Mise en œuvre d’un Clustering avec Basculement avec Hyper-V
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer les options pour rendre des machines virtuelles hautement disponibles.
+  - Décrire la façon de mettre en œuvre des machines virtuelles dans un clustering avec basculement déployé sur un hôte,
+  - Expliquer des options de déplacement d’une machine virtuelle ou de son stockage,
+  - Expliquer une présentation de haut niveau du Microsoft System Center 2012- Virtual Machine Manager (VMM) 2012.
+
+
+  ### Module 12&#58; Mise en œuvre de la Continuité de l’Activité et de la Reprise après Sinistre
+  Dans ce module, les étudiants apprendront à mettre en œuvre une solution de sauvegarde et de reprise après sinistre basée sur des exigences d’entreprise et techniques.
+  #### Leçons
+  - Présentation de la Protection des Données.
+  - Mise en œuvre de la Sauvegarde de Windows Server.
+  - Mise en œuvre du Recouvrement des Serveurs et des Données.
+
+
+  #### Laboratoire&#58; Mise en œuvre de la Sauvegarde et de la Récupération de Windows Server
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les considérations à inclure lors de la mise en œuvre d’une solution de reprise après sinistre.
+  - Planifier et mettre en œuvre une solution de sauvegarde pour Windows Server 2012.
+  - Planifier et mettre en œuvre la récupération d’un serveur et de données.
+

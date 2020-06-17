@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Windows Operating System Fundamentals: MTA Exam 98-349'
+metadata:
+  title: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+  description: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+uid: course.40349
+courseNumber: '40349-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les configurations du système d’exploitation.
+- skill: Installer et mettre à niveau les systèmes client.
+- skill: Gérer des applications.
+- skill: Gérer des fichiers et des dossiers.
+- skill: Gérer des dispositifs.
+- skill: Comprendre la maintenance du système d’exploitation.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-349
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-349 et à comprendre les sujets suivants&#58; les configurations des systèmes d’exploitation, l'installation et la mise à niveau des systèmes client, la gestion des applications, la gestion des fichiers et des dossiers, la gestion des dispositifs et la maintenance du système d’exploitation. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen. Elle est mise à jour pour la prise en charge de Windows 10.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Installation et mise à niveau des systèmes client
+
+  ### Module 2&#58; Compréhension des configurations des systèmes d’exploitation
+
+  ### Module 3&#58; Compréhension des applications natives, des outils, de la mobilité et de la gestion et de l’assistance à distance
+
+  ### Module 4&#58; Gestion des applications, des services et des disques
+
+  ### Module 5&#58; Gestion des dispositifs
+
+  ### Module 6&#58; Compréhension du partage de fichiers et de l’impression
+
+  ### Module 7&#58; Maintenance, mise à jour et protection de Windows 10
+
+  ### Module 8&#58; Compréhension des méthodes de sauvegarde et de recouvrement
+

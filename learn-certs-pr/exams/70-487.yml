@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+  description: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+uid: exam.70-487
+displayName: 70-487
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les candidats à cette certification sont des développeurs professionnels qui utilisent Visual Studio 2017 et Microsoft® .NET Core Framework pour concevoir et développer des solutions Web. Les candidats doivent avoir un minimum de trois à cinq ans d'expérience dans le développement de solutions ASP.NET MVC. De plus, les candidats devraient être en mesure de démontrer ce qui suit&#58;
+  - Expérience dans la conception et le développement d'applications Web accédant à divers services et données (locaux et distants), y compris Windows Azure
+  - Expérience avec le cycle de vie complet de développement de logiciels de solutions de données et de services
+  - Expérience de développement et de déploiement dans des environnements à plusieurs niveaux, notamment Windows Azure
+  - Expérience dans la conception et le développement de solutions asynchrones
+  - Expérience de la création et de la consommation de services HTTP
+subTitle: 'Les candidats à cette certification sont des développeurs professionnels qui utilisent Visual Studio 2017 et Microsoft® .NET Core Framework pour concevoir et développer des solutions Web. Les candidats doivent avoir un minimum de trois à cinq ans d''expérience dans le développement de solutions ASP.NET MVC.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
+practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Accès aux données (20-25%)
+- Interrogation et manipulation de données à l'aide du cadre d'entité (20-25%)
+- Création et consommation de services basés sur l'API Web (20-25%)
+- Conception et implémentation de services Web (15-20%)
+- Déploiement d'applications et de services Web (15-20 %)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20487
+relatedCertifications:
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

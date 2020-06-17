@@ -1,0 +1,337 @@
+### YamlMime:Course
+title: Implementing a SQL Data Warehouse
+metadata:
+  title: 'Course 20767-C: Implementing a SQL Data Warehouse'
+  description: 'Course 20767-C: Implementing a SQL Data Warehouse'
+uid: course.20767
+courseNumber: '20767-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les éléments clés d’une solution d’entreposage de données
+- skill: Décrire les considérations principales en matière de matériel pour la construction d’un entrepôt de données
+- skill: Mise en œuvre d'une conception logique pour un entrepôt de données
+- skill: Mise en œuvre d'une conception physique pour un entrepôt de données
+- skill: Création d’index columnstore
+- skill: Mise en œuvre d’un entrepôt de données Azure SQL
+- skill: Description des fonctionnalités clés de SSIS
+- skill: Mise en œuvre d'un flux de données à l’aide de SSIS
+- skill: Mise en œuvre d’un flux de contrôle avec des contraintes de tâche et de précédence
+- skill: Création de progiciels dynamiques qui incluent des variables et des paramètres
+- skill: Débogage de progiciels SSIS
+- skill: Description des considérations relatives à la mise en œuvre d’une solution ETL
+- skill: Mise en œuvre de Data Quality Services
+- skill: Mise en œuvre d’un modèle de services de données de référence (MDS)
+- skill: Description de la façon d'utiliser les composants personnalisés pour étendre SSIS
+- skill: Déploiement de projets SSIS
+- skill: Description de scénarios BI et BI communs
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-767
+summary: |-
+  Cette formation de cinq jours dispensée par un instructeur fournit aux étudiants les connaissances et les compétences nécessaires pour provisionner une base de données Microsoft SQL Server. Cette formation couvre le provisionnement de SQL Server sur site et dans Azure et l’installation à partir d’une nouvelle installation et la migration depuis une installation existante.
+
+  #### Profil de l’audience
+  Cette formation s'adresse principalement aux professionnels des bases de données qui doivent remplir un rôle de développeur de la Business Intelligence. Ils devront se concentrer sur la création pratique de solutions BI, comprenant la mise en œuvre d’entrepôts de données, d’ETL et de nettoyage des données.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles des bases de données relationnelles.
+  - Expérience avec la conception de bases de données.
+outlineSection: |-
+  ### Module 1&#58; Introduction à l’entreposage des données
+  Ce module décrit les concepts d’entrepôts de données et les considérations architecturales.
+  #### Leçons
+  - Présentation de l’entreposage des données.
+  - Considérations pour une solution d’entreposage de données.
+
+
+  #### Laboratoire &#58; Exploration d’une solution d’entreposage de données
+  - Exploration des sources de données
+  - Exploration d’un processus ETL
+  - Exploration d’un entrepôt de données
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - Décrire les éléments clés d’une solution d’entreposage de données
+  - de décrire les considérations clés pour un projet d’entreposage de données,
+
+
+  ### Module 2&#58; Planification de l’infrastructure d’un entrepôt de données
+  Ce module décrit les considérations principales en matière de matériel pour la construction d’un entrepôt de données.
+  #### Leçons
+  - Considérations pour une infrastructure d’entreposage de données
+  - Planification du matériel d’un entrepôt de données.
+
+
+  #### Laboratoire &#58; Planification de l’infrastructure d’un entrepôt de données
+  - Planification du matériel d’un entrepôt de données
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - Décrire les considérations principales en matière de matériel pour la construction d’un entrepôt de données
+  - d’expliquer comment utiliser les architectures de référence et les dispositifs d’entrepôts de données pour créer un entrepôt de données
+
+
+  ### Module 3&#58; Conception et mise en œuvre d’un entrepôt de données
+  Ce module décrit le processus de conception et de mise en œuvre d’un schéma pour un entrepôt de données.
+  #### Leçons
+  - Présentation de la conception d’un entrepôt de données
+  - Conception de tableaux dimensionnels
+  - Conception de tableaux FACT
+  - Conception physique d’un entrepôt de données
+
+
+  #### Laboratoire &#58; Mise en œuvre d'un schéma d’entrepôt de données
+  - Mise en œuvre d’un schéma Star
+  - Mise en œuvre d’un schéma Snowflake
+  - Mise en œuvre d’un tableau de dimension temporelle
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - Mise en œuvre d'une conception logique pour un entrepôt de données
+  - Mise en œuvre d'une conception physique pour un entrepôt de données
+
+
+  ### Module 4&#58; Index columnstore
+  Ce module présente les index columnstore
+  #### Leçons
+  - Introduction aux index columnstore
+  - Création d’index columnstore
+  - Travail avec des index columnstore
+
+
+  #### Laboratoire &#58; Utilisation des index columnstore
+  - Création d’un index columnstore sur le tableau FactProductInventory
+  - Création d’un index columnstore sur le tableau FactInternetSales
+  - Création d’un tableau columnstore à mémoire optimisée
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - Création d’index columnstore
+  - de travailler avec des index columnstore
+
+
+  ### Module 5&#58; Mise en œuvre d’un entrepôt de données Azure SQL
+  Ce module décrit les entrepôts de données Azure SQL et leur mise en œuvre.
+  #### Leçons
+  - Avantages d’un entrepôt de données Azure SQL
+  - Mise en œuvre d’un entrepôt de données Azure SQL
+  - Développement d'un entrepôt de données Azure SQL
+  - Migration vers un entrepôt de données Azure SQL
+  - Copie de données avec l’usine de données Azure
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un entrepôt de données Azure SQL
+  - Création d’une base de données d’entrepôts de données Azure SQL
+  - Migration vers une base de données d’entrepôts de données Azure SQL
+  - Copie de données avec l’usine de données Azure.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les avantages d’un entrepôt de données Azure SQL
+  - de mettre en œuvre un entrepôt de données Azure SQL
+  - de décrire les considérations de mise au point d’une donnée Azure SQL
+  - de planifier un entrepôt de données pour la migration vers un entrepôt de données Azure SQL
+
+
+  ### Module 6&#58; Création d’une solution ETL
+  À la fin de ce module, vous serez capable de mettre en œuvre un flux de données dans un progiciel SSIS.
+  #### Leçons
+  - Introduction à ETL avec SSIS
+  - Exploration des sources de données
+  - Mise en œuvre d’un flux de données
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un flux de données dans un progiciel SSIS
+  - Exploration des sources de données
+  - Transfert de données à l’aide de la tâche d’une ligne de données
+  - Utilisation des composants de transformation dans une ligne de données
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire ETL avec SSIS
+  - d’explorer les données d’une source
+  - de mettre en œuvre un flux de données
+
+
+  ### Module 7&#58; Mise en œuvre du flux de contrôle dans un progiciel SSIS
+  Ce module décrit la mise en œuvre du flux de contrôle dans un progiciel SSIS.
+  #### Leçons
+  - Introduction au flux de contrôle
+  - Création de progiciels dynamiques
+  - Utilisation de conteneurs
+  - Gestion de la cohérence
+
+
+  #### Laboratoire &#58; Mise en œuvre du flux de contrôle dans un progiciel SSIS
+  - Utilisation des tâches et de la précédence dans un flux de contrôle
+  - Utilisation des variables et des paramètres
+  - Utilisation de conteneurs
+
+
+  #### Laboratoire &#58; Utilisation des transactions et des points de contrôle
+  - Utilisation de transactions
+  - Utilisation de points de contrôle
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire le flux de contrôle
+  - de créer des progiciels dynamiques
+  - d’utiliser des conteneurs
+
+
+  ### Module 8&#58; Débogage et dépannage des progiciels SSIS
+  Ce module décrit le débogage et le dépannage des progiciels SSIS.
+  #### Leçons
+  - Débogage d’un progiciel SSIS
+  - Enregistrement des événements du progiciel SSIS
+  - Gestion des erreurs dans un progiciel SSIS
+
+
+  #### Laboratoire &#58; Débogage et dépannage d’un progiciel SSIS
+  - Débogage d’un progiciel SSIS
+  - Enregistrement de l’exécution du progiciel SSIS
+  - Mise en œuvre du gestionnaire d’un événement
+  - Gestion des erreurs dans un flux de données
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de déboguer un progiciel SSIS
+  - d’enregistrer des événements du progiciel SSIS
+  - de gérer les erreurs dans un progiciel SSIS
+
+
+  ### Module 9&#58; Mettre en œuvre une solution d’extraction des données
+  Ce module décrit la mise en œuvre d’une solution SSIS qui prend en charge des charges DW progressives et les données variables.
+  #### Leçons
+  - Introduction à l’ETL progressif
+  - Extraction des données modifiées
+  - Chargement des données modifiées
+  - Tables temporelles
+
+
+  #### Laboratoire &#58; Extraction des données modifiées
+  - Utilisation d’une colonne Datetime pour extraire les données de manière progressive
+  - Utilisation de la modification de la capture des données
+  - Utilisation de la tâche de contrôle CDC
+  - Utilisation du suivi des modifications
+
+
+  #### Laboratoire &#58; Chargement d’un entrepôt de données
+  - Chargement des données depuis les tableaux de sortie CDC.
+  - Utilisation de la transformation de recherches pour insérer ou mettre à jour des données relatives aux dimensions.
+  - Mise en œuvre lente d'une dimension à variation lente.
+  - Utilisation de l’instruction de fusion.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire l’ETL progressif,
+  - d’extraire des données modifiées.
+  - de charger des données modifiées,
+  - Décrire les tableaux temporels
+  
+
+  ### Module 10&#58; Application de la qualité des données
+  Ce module décrit la mise en œuvre du nettoyage des données à l’aide de Microsoft Data Quality Services.
+  #### Leçons
+  - Introduction à la qualité des données.
+  - Utilisation de Data Quality Services pour nettoyer les données.
+  - Utilisation de Data Quality Services pour faire correspondre les données.
+
+
+  #### Laboratoire &#58; Nettoyage des données
+  - Création d’une base de connaissances DQS.
+  - Utilisation d’un projet DQS pour nettoyer les données.
+  - Utilisation de DQS dans un progiciel SSIS.
+
+
+  #### Laboratoire &#58; Déduplication des données
+  - Création d’une politique correspondante.
+  - Utilisation de DS pour faire correspondre des données.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire Data Quality Services,
+  - de nettoyer des données à l’aide de Data Quality Services,
+  - de faire correspondre des données à l’aide de Data Quality Services,
+  - de dupliquer des données à l’aide de Data Quality Services.
+
+
+  ### Module 11&#58; Utilisation des services de données de référence
+  Ce module décrit la mise en œuvre des services de données de référence dans le but d’appliquer l’intégrité des données à la source.
+  #### Leçons
+  - Introduction aux services de données de référence.
+  - Mise en œuvre d’un modèle de services de données de référence (MDS).
+  - Hiérarchies et collections.
+  - Création d’un hub de données de référence.
+
+
+  #### Laboratoire &#58; Mise en œuvre des services de données de référence
+  - Création d’un modèle de services de données de référence.
+  - Utilisation du complément des services de données de référence pour Excel.
+  - Application des règles d’entreprise.
+  - Chargement des données dans un modèle.
+  - Consommation des données des services de données de référence.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les concepts clés des services de données de référence,
+  - de mettre en œuvre un modèle de services de données de référence,
+  - de gérer des données de référence,
+  - de créer un hub de données de référence.
+
+
+  ### Module 12&#58; Extension des services d’intégration de SQL Server (SSIS)
+  Ce module décrit l’extension de SSIS avec des scripts et des composants personnalisés.
+  #### Leçons
+  - Utilisation des scripts dans SSIS.
+  - Utilisation des composants personnalisés dans SSIS.
+
+
+  #### Laboratoire &#58; Utilisation de scripts
+  - Utilisation d’une tâche de script.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’utiliser des composants personnalisés dans SSIS,
+  - d’utiliser des scripts dans SSIS.
+
+
+  ### Module 13&#58; Déploiement et configuration des progiciels SSIS
+  Ce module décrit le déploiement et la configuration des progiciels SSIS.
+  #### Leçons
+  - Aperçu du déploiement de SSIS.
+  - Déploiement de projets SSIS.
+  - Planification de l’exécution d’un progiciel SSIS.
+
+
+  #### Laboratoire &#58; Déploiement et configuration des progiciels SSIS
+  - Création d’un catalogue SSIS.
+  - Déploiement d’un projet SSIS.
+  - Création d’environnements pour une solution SSIS.
+  - Exécution d’un progiciel SSIS dans le studio de gestion de SQL Server.
+  - Programmation des progiciels SSIS avec un agent SQL Server.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire le déploiement d’un progiciel SSIS,
+  - de déployer un progiciel SSIS,
+  - de planifier l’exécution d’un progiciel SSIS.
+
+
+  ### Module 14&#58; Consommation de données dans un entrepôt de données
+  Ce module décrit le débogage et le dépannage des progiciels SSIS.
+  #### Leçons
+  - Introduction à Business Intelligence.
+  - Introduction à l’analyse de données.
+  - Introduction à la génération de rapports.
+  - Analyse de données dans l'entrepôt de données Azure SQL.
+
+
+  #### Laboratoire &#58; Utilisation d’un entrepôt de données
+  - Exploration d’un rapport de services de génération de rapports.
+  - Exploration d’un manuel PowerPivot.
+  - Exploration d’un rapport Power View.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire la Business Intelligence à un haut niveau,
+  - de comprendre la génération de rapports,
+  - de comprendre l’analyse de données,
+  - d’analyser des données avec l'entrepôt de données Azure SQL.
+

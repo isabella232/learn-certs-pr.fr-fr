@@ -1,0 +1,223 @@
+### YamlMime:Course
+title: Developing SQL Data Models
+metadata:
+  title: 'Course 20768-C: Developing SQL Data Models'
+  description: 'Course 20768-C: Developing SQL Data Models'
+uid: course.20768
+courseNumber: '20768-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des composants, de l’architecture et de la nature d’une solution BI.
+- skill: Création d’une base de données multidimensionnelle avec Analysis Services.
+- skill: Mise en œuvre des dimensions dans un cube.
+- skill: Mise en œuvre des mesures et groupes de mesures dans un cube.
+- skill: Utilisation de la syntaxe MDX.
+- skill: Personnalisation d’un cube.
+- skill: Mise en œuvre d’une base de données tabulaire.
+- skill: Utilisation de DAX pour interroger un modèle tabulaire.
+- skill: Utilisation de l’exploration de données pour l’analyse prédictive.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+exams:
+- uid: exam.70-768
+summary: |-
+  L’objectif de cette formation de trois jours dispensée par un instructeur est de créer des solutions BI d’entreprise gérées. Elle décrit comment mettre en œuvre les modèles de données tabulaires et multidimensionnels et comment créer des cubes, des dimensions, des mesures et des groupes de mesures. Cette formation vous aide à vous préparer pour l’examen 70-768.
+  
+  #### Profil de l’audience
+  Ccette formation s'adresse principalement aux professionnels des bases de données qui doivent remplir le rôle de développeur BI pour créer des solutions BI d'entreprise. 
+  Les responsabilités principales incluent&#58;
+  - la mise en œuvre de bases de données multidimensionnelles à l’aide de SQL Server Analysis Services,
+  - la création de modèles de données tabulaires sémantiques pour l’analyse à l’aide de SQL Server Analysis Services.
+prerequisitesSection: |-
+  Avant d’assister à cette formation, les étudiants doivent avoir&#58;
+  - de l’expérience dans l'interrogation des données à l’aide de Transact SQL.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Business Intelligence et à la modélisation des données
+  Ce module présente les concepts clés de BI et la suite de produits Microsoft BI.
+  #### Leçons
+  - Introduction à Business Intelligence.
+  - Plateforme Business Intelligence de Microsoft.
+
+
+  #### Laboratoire &#58; Exploration d’une solution BI
+  - Exploration d’un entrepôt de données.
+  - Exploration d’un modèle de données.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire des scénarios de BI, des tendances et des rôles dans des projets,
+  - de décrire les produits qui forment la plateforme BI de Microsoft.
+
+
+  ### Module 2&#58; Création de bases de données multidimensionnelles
+  Ce module décrit comment créer des bases de données multidimensionnelles à l’aide de SQL Server Analysis Services.
+  #### Leçons
+  - Introduction à l’analyse multidimensionnelle.
+  - Sources de données et visualisations des sources de données.
+  - Cubes.
+  - Présentation de la sécurité du cube.
+  - Configuration de SSAS.
+  - Surveillance de SSAS.
+
+
+  #### Laboratoire &#58; Création d’une base de données multidimensionnelle
+  - Création d’une source de données.
+  - Création et configuration de la visualisation d’une source de données.
+  - Création et configuration d’un cube.
+  - Ajout d’une dimension à un cube.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les considérations pour une base de données multidimensionnelle,
+  - de créer des sources de données et des visualisations de sources de données,
+  - de créer un cube,
+  - de mettre en œuvre la sécurité dans une base de données multidimensionnelle.
+  - de configurer SSAS pour répondre aux exigences qui incluent la limite de mémoire, NUMA et la configuration du disque,
+  - de surveiller la performance SSAS.
+
+
+  ### Module 3&#58; Travailler avec des cubes et des dimensions
+  Ce module explique comment mettre en œuvre des dimensions dans un cube.
+  #### Leçons
+  - Configuration des dimensions.
+  - Définition des hiérarchies d’attributs.
+  - Mise en œuvre des attributs de tri et de groupement.
+  - Dimensions en évolution lente.
+
+
+  #### Laboratoire &#58; Travail avec des cubes et des dimensions
+  - Configuration des dimensions.
+  - Définition des relations et des hiérarchies.
+  - Tri et groupement des attributs de dimensions.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de configurer des dimensions,
+  - de définir des hiérarchies d’attributs,
+  - de mettre en œuvre le tri et le groupement des attributs,
+  - de mettre en œuvre les dimensions en évolution lente.
+
+
+  ### Module 4&#58; Travailler avec des mesures et des groupes de mesures
+  Ce module explique comment mettre en œuvre des mesures et groupes de mesures dans un cube.
+  #### Leçons
+  - Travailler avec des mesures.
+  - Travailler avec des groupes de mesures.
+
+  
+  #### Laboratoire &#58; Configuration des mesures et des groupes de mesures
+  - Configuration des mesures.
+  - Définition des relations standard.
+  - Configuration du stockage des groupes de mesures.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de configurer des mesures,
+  - de configurer des groupes de mesures.
+
+
+  ### Module 5&#58; Introduction à MDX
+  Ce module explique la syntaxe MDX et l’utilisation de MDX.
+  #### Leçons
+  - Principes de base de MDX.
+  - Ajout de calculs à un cube.
+  - Utilisation de MDX pour interroger un cube.
+
+
+  #### Laboratoire &#58; Utilisation de MDX
+  - Interrogation d'un cube à l’aide de MDX.
+  - Ajoute d’un membre calculé.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’utiliser les fonctions de base de MDX,
+  - d’utiliser MDX pour ajouter des calculs à un cube,
+  - d’utiliser MDX pour interroger un cube.
+
+
+  ### Module 6&#58; Personnalisation de la fonctionnalité d’un cube
+  Ce module décrit la manière de personnaliser un cube.
+  #### Leçons
+  - Mise en œuvre des indicateurs clés de performance.
+  - Mise en œuvre d’actions.
+  - Mise en œuvre de perspectives.
+  - Mise en œuvre de traductions.
+
+
+  #### Laboratoire &#58; Personnalisation d’un cube
+  - Mise en œuvre d’une action.
+  - Mise en œuvre d’une perspective.
+  - Mise en œuvre d’une traduction.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de mettre en œuvre des KPI dans une base de données multidimensionnelle,
+  - de mettre en œuvre des actions dans une base de données multidimensionnelle,
+  - de mettre en œuvre des perspectives dans une base de données multidimensionnelle,
+  - de mettre en œuvre des traductions dans une base de données multidimensionnelle.
+
+
+  ### Module 7&#58; Mise en œuvre d’un modèle de données tabulaire à l’aide d’Analysis Services
+  Ce module décrit la mise en œuvre d’un modèle de données tabulaire dans Power Pivot.
+  #### Leçons
+  - Introduction aux modèles de données tabulaires.
+  - Création d’un modèle de données tabulaire.
+  - Utilisation d’un modèle de données tabulaire Analysis Services dans une solution BI d’entreprise.
+
+
+  #### Laboratoire &#58; Travailler avec un modèle de données tabulaire Analysis Services
+  - Création d’un modèle de données tabulaire Analysis Services.
+  - Configuration des relations et attributs.
+  - Configuration d’un modèle de données pour une solution BI d’entreprise.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire des modèles de données tabulaires,
+  - de décrire la création d’un modèle de données tabulaire,
+  - d’utiliser un modèle de données tabulaire Analysis Services dans une solution BI d’entreprise.
+
+
+  ### Module 8 &#58; Introduction à l’expression de l’analyse de données (DAX)
+  Ce module explique comment utiliser DAX pour créer des mesures et des colonnes calculées dans un modèle de données tabulaire.
+  #### Leçons
+  - Principes de base de DAX.
+  - Utilisation de DAX pour créer des colonnes et des mesures calculées dans un modèle de données tabulaire.
+
+
+  #### Laboratoire &#58; Création de colonnes et de mesures calculées à l’aide de DAX
+  - Création de colonnes de calcul.
+  - Création de mesures.
+  - Création d’un KPI.
+  - Création d’une hiérarchie parent - enfant.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les fonctionnalités clés de DAX,
+  - de créer des colonnes de calcul et des mesures à l’aide de DAX.
+
+
+  ### Module 9&#58; Exécution d’une analyse prédictive avec l’exploration de données
+  Ce module décrit l’utilisation de l’exploration de données pour l’analyse prédictive.
+  #### Leçons
+  - Présentation de l’exploration de données.
+  - Création d’une solution d’exploration de données personnalisée.
+  - Validation d’un modèle d’exploration de données.
+  - Connexion et consommation d’un modèle d’exploration de données.
+  - Utilisation du complément d’exploration de données pour Excel.
+
+
+  #### Laboratoire &#58; Utilisation de l’exploration de données
+  - Création d’une structure et d’un modèle d’exploration de données.
+  - Exploration des modèles d’exploration de données.
+  - Validation des modèles d’exploration de données.
+  - Consommation d’un modèle d’exploration de données.
+  - Utilisation du complément Excel d’exploration de données.
+
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les considérations relatives à l’exploration de données,
+  - de créer un modèle d’exploration de données,
+  - de valider un modèle d’exploration de données,
+  - de se connecter à un modèle d’exploration de données,
+  - d’utiliser le complément d’exploration de données pour Excel.
+

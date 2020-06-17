@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course 20778-C: Analyzing Data with Power BI'
+  description: 'Course 20778-C: Analyzing Data with Power BI'
+uid: course.20778
+courseNumber: '20778-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description du libre-service BI.
+- skill: Description de la suite de produits Power BI.
+- skill: Connexion aux sources de données et optimisation des modèles de données.
+- skill: Mise en forme et combinaison de données provenant de différentes sources.
+- skill: Modélisation des données.
+- skill: Création de rapports et gestion de solutions.
+- skill: De décrire l’API du développeur de Power BI.
+- skill: Description de l’application mobile Power BI.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+exams:
+- uid: exam.70-778
+summary: |-
+  Cette formation de trois jours dispensée par un instructeur fournit aux étudiants les connaissances et les compétences nécessaires pour
+  analyser des données avec Power BI.
+
+  #### Profil de l’audience
+  Cette formation s’adresse principalement aux professionnels de BI qui doivent analyser des données à l’aide de Power BI.
+  L’audience secondaire de cette formation se compose des utilisateurs professionnels techniquement compétents.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances de base de la topologie des schémas d’entrepôts de données (notamment les schémas Star ou Snowflake).
+  - Exposition à des concepts de programmation de base (telles que le bouclage et le branchement).
+  - Une conscience des principales priorités des affaires, telles que les revenus, la rentabilité et la comptabilité financière, est souhaitable.
+  - Familiarité avec les applications Microsoft Office, surtout Excel.
+outlineSection: |-
+  ### Module 1&#58; Introduction aux solutions de libre-service BI
+  La Business Intelligence (BI) est un terme qui est devenu de plus en plus courant ces dernières années. Avec les grands lots de données, l’exploration de données, l’analyse prédictive, la science des données et les gardiens des données, la BI fait dorénavant partie du vocabulaire des affaires. Une grande partie du dynamisme qui est à l’origine de cette situation est le besoin des organisations de suivre le rythme en croissance continue des ensembles de données. Il est maintenant normal d’avoir des bases de données qui contiennent des millions de rangées, requièrent des gigabits, des térabits ou même des pétabits d’espace de stockage. Les données ne sont plus confinées dans une salle de serveurs sur site, elles sont stockées dans le cloud, les flux sont obtenus de fournisseurs tiers, les ensembles de données publics sont librement disponibles et les interactions sur les réseaux sociaux génèrent des ensembles de données en constante expansion.
+
+  La génération de rapport et l’analyse ne sont certainement pas un concept nouveau dans les affaires, mais la différence entre l’analyse des données d’aujourd’hui et celle d’il y a 5 ou 10 ans est énorme. À l’heure actuelle, les organisations ont besoin de la BI pour voir non seulement ce qui se faisait dans le passé, mais également ce qui se fera dans l’avenir. Il y a actuellement une quantité massive de données à rassembler et à organiser dans des rapports. Il y a également un besoin croissant de données pour fournir des chiffres actualisés afin que les entreprises puissent réagir plus vite face aux tendances changeantes sur les marchés et dans les différents secteurs. Les entreprises qui peuvent réagir rapidement et prédire les tendances à court terme afin de fournir des services et des produits pour répondre à la demande des consommateurs ont les plus grandes chances de survie dans le monde moderne hautement compétitif. Avec l’accroissement des grands lots de données, il y a une demande croissante d’analystes de données capables de prendre ces données et de trouver les points critiques dans une pléthore d’informations.
+  #### Leçons
+  - Introduction à Business Intelligence.
+  - Introduction à l’analyse de données.
+  - Introduction à la visualisation des données.
+  - Présentation de la BI en libre-service.
+  - Considérations relatives à la BI en libre-service.
+  - Outils Microsoft pour la BI en libre-service.
+
+
+  #### Laboratoire &#58; Exploration d’une solution BI d’entreprise
+  - Visualisation des rapports.
+  - Création d’un rapport Power BI.
+  - Création d’un tableau de bord Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les tendances en matière de BI,
+  - de décrire les processus d’analyse des données dans Power BI,
+  - d’utiliser les principales visualisations dans Power BI,
+  - de décrire la finalité de la BI en libre-service,
+  - de décrire les considérations de la BI en libre-service,
+  - de comprendre comment utiliser les produits Microsoft pour mettre en œuvre une solution BI.
+
+
+  ### Module 2&#58; Introduction à Power BI
+  La Business Intelligence (BI) en libre-service a rapidement gagné en popularité en raison de sa capacité à permettre aux utilisateurs de générer des rapports, de traiter des données, de procéder à des analyses, etc., le tout sans devoir dépendre d’un développeur de rapports. La tendance de la BI en libre-service est menée par l’engagement de Microsoft d’améliorer Excel et Power BI, ces deux produits ayant connu de nombreuses améliorations au cours des dernières années. Cependant, bien que Microsoft ait favorisé une analyse approfondie des données grâce aux quatre outils puissants ajoutés à Excel (Power Pivot, Power View, Power Query et Power Map), ces derniers ne sont toujours pas pleinement intégrés à l’interface Excel. Ils existent plutôt dans des fenêtres séparées. En y ajoutant la complexité de publier sur SharePoint pour partager des rapports avec collègues, l’effort en devient fastidieux.
+
+  L’utilisation de Power BI élimine toutes les complications et les barrières grâce à une interface utilisateur intégrée simple. Il a également la capacité de publier rapidement sur un portail dans le cloud ou sur site pour partager des rapports facilement. Ce module présente Power BI et étudie les fonctionnalités qui permettent la création et la publication rapides de visualisations de données sophistiquées.
+  #### Leçons
+  - Power BI.
+  - Le service Power BI.
+
+
+  #### Laboratoire &#58; Création d’un tableau de bord Power BI
+  - Connexion aux données de Power BI.
+  - Création d’un tableau de bord Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de mettre au point des rapports à l’aide de l’application de bureau Power BI,
+  - d’utiliser des éléments des rapports pour créer des tableaux de bord sur le portail Power BI,
+  - de comprendre les composants du service Power BI, notamment l’octroi de licences et la gestion des clients.
+
+
+  ### Module 3&#58; Les données de Power BI
+  Power BI propose une approche directe à la création de rapports et permet de créer et de partager de tableaux de bord sans dépendre d’un développeur de rapports ou d’avoir besoin de Microsoft SharePoint. Microsoft Excel est depuis longtemps l’outil de choix des analystes de données qui travaillent en libre-service. Cependant, Excel ne permet pas de partager facilement et rapidement les rapports sans utiliser SharePoint ou créer plusieurs copies de feuilles de calcul qui ne tardent pas à devenir obsolètes ou qui existent sans contrôle de la source.
+
+  Ces dernières années, des outils puissants ont été ajoutés à Excel &#58; Power View, Power Query (connu sous le nom de « Obtenir & transformer » dans Excel 2016) et Power Pivot. Power BI fournit une bonne partie de cette puissance dans un environnement intégré sous forme de bureau Power BI. Auparavant, les utilisateurs d’Excel étaient incommodés par la nécessité de transitionner entre les différents outils de puissance, mais le bureau Power BI rassemble ces outils. Cela signifie que Power BI devient rapidement un choix évident pour l’analyse et le partage de données. Cependant, les analystes vont probablement continuer à travailler avec Excel dans un avenir proche. Power BI coopère facilement avec Excel ainsi qu’avec de nombreuses autres sources de données. C’est cette capacité à générer des rapports rapidement, en utilisant des données provenant de plusieurs sources, qui donne réellement à Power BI sa puissance.
+  #### Leçons
+  - Utilisation d’Excel en tant que source de données pour Power BI.
+  - Le modèle de données Power BI.
+  - Utilisation de bases de données en tant que source de données pour Power BI.
+  - Le service Power BI.
+
+
+  #### Laboratoire &#58; Importation de données dans Power BI
+  - Importation de fichiers Excel dans Power BI.
+  - Visualisation de rapports provenant de fichiers Excel.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire le modèle de données et de connaître la façon d’optimiser les données dans le modèle,
+  - de connecter des fichiers Excel et d’importer des données,
+  - d’utiliser des bases de données de SQL Server sur site et dans le cloud en tant que sources de données avec le connecteur de données de scripts R,
+  - de tirer parti des fonctionnalités du service Power BI,
+  - d’utiliser des Q&R pour poser des questions dans un langage de requête naturel et de créer des applications.
+
+
+  ### Module 4&#58; Mise en forme et combinaison des données
+  Le bureau Power BI propose une solution en libre-service pour créer des rapports et tableaux de bord visuels et interactifs. Les utilisateurs peuvent se connecter à une variété de sources de données, combinant dans un seul rapport des données provenant de bases de données sur site, de fournisseurs de logiciel en tant que solution, de services dans le cloud et de fichiers locaux tels que Microsoft Excel. La beauté des rapports et des tableaux de bord Power BI réside dans la capacité à construire rapidement des rapports pour présenter ces données de sorte qu’elles soient lisibles instantanément avec la mise en lumière des clusters, des aberrations et des patrons dans les données. Pour y parvenir, chaque rapport doit contenir un ensemble de données qui comprend des tableaux et des colonnes prêts à être directement ajoutés à des visualisations. Les données doivent être formatées aux devises pertinentes, les nombres doivent avoir le bon nombre d’espaces pour des décimales, des colonnes et des mesures supplémentaires peuvent être requises et des données peuvent devoir être combinées à partir de plusieurs tableaux. Grâce au bureau de Power BI, vous pouvez faire tout cela avec des outils puissants et intégrés de mise en forme de vos données. Ce module présente les outils disponibles pour la préparation de vos données et leur transformation en des formes prêtes pour la génération du rapport.
+  #### Leçons
+  - Requêtes du bureau Power BI.
+  - Mise en forme des données.
+  - Combinaison des données.
+
+
+  #### Laboratoire &#58; Mise en forme et combinaison des données
+  - Mise en forme des données Power BI.
+  - Combinaison des données Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’exécuter plusieurs tâches de modification des requêtes dans Power BI,
+  - de mettre en forme des données à l’aide du formatage et des transformations,
+  - de combiner des données provenant des tableaux de l’ensemble de données.
+
+
+  ### Module 5&#58; Modélisation des données
+  Microsoft Power BI laisse son empreinte dans le monde de la BI en libre-service, car il peut créer rapidement des rapports et des tableaux de bord interactifs et visuellement magnifiques. Power BI fournit une approche directe pour combiner des données provenant d’une large gamme de sources en un seul ensemble de données. Il travaille ensuite avec ces données pour créer des rapports cohérents. Ce module va au-delà des scènes de visualisation et étudie les techniques et fonctionnalités proposées pour mettre en forme et améliorer vos données. Grâce à la création de relations automatiques, une importante bibliothèque de fonctions DAX et la capacité à ajouter rapidement des colonnes de calcul, des tableaux et des mesures, vous verrez de quelle façon Power BI crée des rapports attrayants tout en vous aidant à trouver des informations cachées dans les données.
+  #### Leçons
+  - Relations.
+  - Requêtes DAX.
+  - Calculs et mesures.
+
+
+  #### Laboratoire &#58; Modélisation des données.
+  - Création de relations.
+  - Calculs.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les relations entre les tableaux de données,
+  - de comprendre la syntaxe DAX et d’utiliser les fonctions DAX pour améliorer l’ensemble de données,
+  - de créer des colonnes, des tableaux et des mesures calculés.
+
+
+  ### Module 6&#58; Visualisations interactives des données
+  La Business Intelligence en libre-service devient de plus en plus populaire auprès des organisations. Cette approche permet aux utilisateurs professionnels d’accéder à des données de l’entreprise et de créer et partager des rapports et des indicateurs clés des performances (KPI) sans dépendre d’un développeur de rapport adapté. Les utilisateurs professionnels peuvent utiliser la suite d’outils Microsoft Power BI pour se connecter à une large gamme de sources de données. Celles-ci incluent les bases de données standards du secteur, les services de Microsoft dans le cloud (base de données Microsoft Azure SQL, Azure Data Lake et l’apprentissage machine Azure), ainsi que Microsoft Excel et d’autres fichiers ainsi que des fournisseurs de logiciels en tant que service (SaaS) tels que Microsoft Bing, Facebook et MailChimp. La combinaison de la flexibilité et de la capacité à créer rapidement des tableaux de bord interactifs et visuellement magnifiques fait de Power BI un choix évident pour toute organisation qui doit fournir une solution de BI en libre-service à ses utilisateurs.
+  #### Leçons
+  - Création de rapports Power BI.
+  - Gestion d’une solution Power BI.
+
+
+  #### Laboratoire &#58; Création d’un rapport Power BI
+  - Connexion aux données de Power BI.
+  - Construction de rapports Power BI.
+  - Création d’un tableau de bord Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’utiliser le bureau Power BI pour créer des visualisations de données interactives,
+  - de gérer une solution Power BI.
+
+
+  ### Module 7&#58; Connectivité directe
+  Le service de Power BI prendre en charge des connexions directes à la base de données Azure SQL, à l’entrepôt de données Azure SQL, aux sources des grands lots de données telles que Spart sur Azure HDInsight et les SQL Server Analysis Services. DirectQuery signifie que, lorsque vous segmentez les données ou que vous ajoutez un autre champ à une visualisation, une nouvelle requête est émise directement vers la source de données.
+  Power BI fonctionne avec les modèles SQL Server Analysis Services qui sont exécutés en mode multidimensionnel afin de permettre l’utilisation des cubes et des modèles OLAP dans des rapports et des tableaux de bord. Peu importe que vous utilisiez le service Power BI dans le cloud et une mise en œuvre SQL Server Analysis Services sur site, la passerelle de données sur site permet des connexions en direct entre les serveurs de données dans le cloud et sur site.
+  #### Leçons
+  - Données dans le cloud.
+  - Connexion à Analysis Services.
+
+
+  #### Laboratoire &#58; Connectivité directe
+  - Connexions directes à Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’utiliser la connectivité directe de Power BI pour accéder aux données dans la base de données Azure SQL et l’entrepôt de données Azure SQL,
+  - d’utiliser la connectivité directe de Power BI pour accéder aux données dans des sources des grands lots de données, telles que Hadoop,
+  - d’utiliser Power BI avec les données de SQL Server Analysis Services,
+  - d’utiliser l’exécution des modèles d’Analysis Services en mode multidimensionnel.
+
+
+  ### Module 8&#58; Développement avec Power BI
+  L’API Power BI est une API basée sur REST que les développeurs utilisent pour accéder de manière programmée aux ensembles de données, aux tableaux et aux rangées dans Power BI. En utilisant cette API, vous poussez les données d’une application à Power BI et intégrez les visualisations de Power BI dans une application. Vous pouvez également ajouter des visuels personnalisés à vos applications et aux tableaux de bord et rapports de Power BI.
+
+  Dans ce module, vous apprendrez à utiliser l’API Power BI pour intégrer du contenu dans vos applications et à utiliser les visuels personnalisés dans vos rapports.
+
+  #### Leçons
+  - L’API Power BI.
+  - Visuels personnalisés.
+
+
+  #### Laboratoire &#58; Utilisation des visualisations de Marketplace
+  - Utilisation d’une visualisation personnalisée.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’API du développeur de Power BI.
+  - de faire la liste des étapes de création des visualisations personnalisées,
+  - d’importer des visuels personnalisés dans Power BI pour les utiliser dans des rapports Power BI.
+
+
+  ### Module 9&#58; Power BI mobile
+  Les applications mobiles Power BI vous permettent d’accéder à des informations de Power BI et de les utiliser sur un dispositif mobile, notamment iOS (iPad, iPhone, iPod Touch, Apple Watch), un téléphone ou une tablette Android et des périphériques Windows 10. Cela signifie que, potentiellement, les rapports et les tableaux de bord Power BI créés sur le bureau Power BI dans le service Power BI peuvent être utilisés partout et à tout moment.
+
+  Les rapports et les tableaux de bord Power BI sont conçus pour fonctionner sur un dispositif mobile sans modification. Cependant, vous pouvez également créer des rapports optimisés et des présentations de rapports spécifiques pour les afficher sur des dispositifs mobiles. Les applications mobiles Power BI prennent en charge le partage et les annotations des tableaux de bord et permettent l’utilisation des données de Power BI sur des dispositifs mobiles même sans être connecté à un réseau. Les alertes et les notifications de Power BI fonctionnent également dans le service Power BI, y compris les dispositifs mobiles.
+
+  #### Leçons
+  - Applications mobiles Power BI.
+  - Utilisation de l’application mobile Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer des tableaux de bord et des rapports pour des dispositifs mobiles,
+  - d’utiliser l’application mobile Power BI.
+

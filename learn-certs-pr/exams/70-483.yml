@@ -1,0 +1,70 @@
+### YamlMime:Examination
+title: Programming in C#
+metadata:
+  title: 'Exam 70-483: Programming in C#'
+  description: 'Exam 70-483: Programming in C#'
+uid: exam.70-483
+displayName: 70-483
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les candidats à cet examen sont des développeurs ayant au moins un an d'expérience en programmation de logique métier essentielle pour une variété de types d'applications, de matériels et de plates-formes logicielles utilisant C#.
+
+  Les candidats doivent également avoir une compréhension approfondie des éléments&#58;
+  - Gestion du flux et des événements du programme
+  - Programmation asynchrone et threading
+  - Validation des données et utilisation des collections de données, y compris LINQ
+  - Traitement des erreurs et des exceptions
+  - Travail avec des tableaux et des collections
+  - Travail avec des variables, des opérateurs et des expressions
+  - Travail avec des classes et des méthodes
+  - Décisions et itérations
+
+  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 14 décembre 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 483.</div>
+subTitle: Les candidats à cet examen sont des développeurs ayant au moins un an d'expérience en programmation de logique métier essentielle pour une variété de types d'applications, de matériels et de plates-formes logicielles utilisant C#.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
+practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-483&examname=Programming%20in%20C#&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Gestion du flux de programme (25-30%)
+- Création et utilisation des types (25-30%)
+- Débogage d'applications et mise en œuvre de la sécurité (25-30%)
+- Mise en œuvre de l'accès aux données (25-30%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.20483
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

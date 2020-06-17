@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Configuring Advanced Windows Server 2012 Services
+metadata:
+  title: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+  description: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+uid: exam.70-412
+displayName: 70-412
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen correspond à la troisième partie d'une série de trois examens de test des compétences et des connaissances nécessaires pour administrer une infrastructure Windows Server 2012 dans un environnement d'entreprise. La réussite à cet examen valide la capacité du candidat à réaliser les tâches de configuration avancées nécessaires pour déployer, gérer et maintenir une infrastructure Windows Server 2012, à savoir la tolérance de panne, les services de certificat et la fédération d'identités. La réussite à cet examen, ainsi qu'aux deux autres, confirme que le candidat possède les compétences et les connaissances nécessaires à la mise en œuvre, la gestion, la maintenance et au déploiement des services et de l'infrastructure dans un environnement Windows Server 2012.
+
+  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du 19 avril 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 412.</div>
+subTitle: Cet examen correspond à la troisième partie d'une série de trois examens de test des compétences et des connaissances nécessaires pour administrer une infrastructure Windows Server 2012 dans un environnement d'entreprise. La réussite à cet examen valide la capacité du candidat à réaliser les tâches de configuration avancées nécessaires pour déployer, gérer et maintenir une infrastructure Windows Server 2012, à savoir la tolérance de panne, les services de certificat et la fédération d'identités. La réussite à cet examen, ainsi qu'aux deux autres, confirme que le candidat possède les compétences et les connaissances nécessaires à la mise en œuvre, la gestion, la maintenance et au déploiement des services et de l'infrastructure dans un environnement Windows Server 2012.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
+practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Configuration et gestion de la haute disponibilité
+- Configuration de solutions de fichiers et de stockage
+- Mise en œuvre de la continuité de l'activité et de la récupération d'urgence
+- Configuration des services de réseau
+- Configuration de l’infrastructure d'Active Directory
+- Configuration de solutions d'accès et de protection des informations
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20412
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

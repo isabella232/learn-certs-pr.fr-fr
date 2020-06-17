@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Analyzing and Visualizing Data with Microsoft Excel
+metadata:
+  title: 'Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel'
+  description: 'Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel'
+uid: exam.70-779
+displayName: 70-779
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les candidats à cet examen doivent avoir une bonne compréhension de la façon d'utiliser Microsoft Excel pour effectuer des analyses de données. Les candidats doivent être en mesure de consommer, transformer, modéliser, et visualiser des données dans Excel. Les candidats doivent également être en mesure de configurer et de manipuler des données dans PowerPivot, dans les PivotTables et les PivotCharts. Les candidats peuvent inclure des professionnels BI, des analystes de données et d'autres rôles chargés d'analyser des données avec Excel.
+subTitle: Les candidats à cet examen doivent avoir une bonne compréhension de la façon d'utiliser Microsoft Excel pour effectuer des analyses de données. Les candidats doivent être en mesure de consommer, transformer, modéliser, et visualiser des données dans Excel. Les candidats doivent également être en mesure de configurer et de manipuler des données dans PowerPivot, dans les PivotTables et les PivotCharts. Les candidats peuvent inclure des professionnels BI, des analystes de données et d'autres rôles chargés d'analyser des données avec Excel.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+locales:
+- en
+levels:
+- advanced
+skills:
+- Consommer et transformer des données à l'aide de Microsoft Excel (30-35%)
+- Données du modèle (35-40%)
+- Visualiser les données (30-35%)
+roles:
+- data-analyst
+products:
+- office-excel
+courses:
+- uid: course.20779
+relatedCertifications:
+- related:
+    uid: certification.mcsa-bi-reporting
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

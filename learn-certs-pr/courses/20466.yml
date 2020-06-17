@@ -1,0 +1,242 @@
+### YamlMime:Course
+title: Implementing Data Models and Reports with SQL Server 2014
+metadata:
+  title: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+  description: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+uid: course.20466
+courseNumber: '20466-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description des composants, de l’architecture et de la nature d’une solution de BI.
+- skill: Création d’une base de données multidimensionnelle avec Analysis Services.
+- skill: Mise en œuvre des dimensions dans un cube.
+- skill: Mise en œuvre des mesures et groupes de mesures dans un cube.
+- skill: Utilisation de la syntaxe MDX.
+- skill: Personnalisation d’un cube.
+- skill: Mise en œuvre d’un Modèle de Données Tabulaire dans SQL Server Analysis Services.
+- skill: Utilisation de DAX pour améliorer le modèle tabulaire.
+- skill: Création de rapport avec les Services de Génération de Rapports.
+- skill: Amélioration des rapports avec les diagrammes et les paramètres.
+- skill: Gestion de l’exécution et de la livraison des rapports.
+- skill: Mise en œuvre d’un tableau de bord dans SharePoint Server avec les services PerformancePoint.
+- skill: Utilisation de l’Exploration de Données pour l’Analyse Prédictive.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-466
+summary: |-
+  L’objectif de cette formation de cinq jours donnée par un instructeur est de créer des solutions de BI d’entreprise gérées. Elle décrit comment mettre en œuvre des modèles de données tabulaires et multidimensionnelles, livrer des rapports avec les services de génération de rapports de Microsoft® SQL Server®, créer des tableaux de bord avec les services PerformancePoint de Microsoft SharePoint Server et découvrir des informations d’entreprise à l’aide de l’exploration de données.
+
+  Remarque&#58; Cette formation est conçue pour les clients qui souhaitent découvrir SQL Server 2012 ou SQL Server 2014. Elle couvre les nouvelles fonctionnalités de SQL Server 2014, mais également les capacités importantes de la plateforme de données SQL Server.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des bases de données qui doivent remplir un rôle de développeur de la Business Intelligence pour créer des solutions de rapport et d’analyse. Les responsabilités principales incluent&#58;
+  - Mettre en œuvre des modèles de données analytiques, tels que les cubes OLAP.
+  - Mettre en œuvre des rapports et gérer la livraison des rapports.
+  - Créer des tableaux de bord des performances de l’entreprise.
+  - Soutenir l’exploration de données et l’analyse prédictive.
+prerequisitesSection: |-
+  Cette formation exige que vous remplissiez les prérequis suivants&#58;
+  - Au moins 2 ans d’expérience professionnelle avec des bases de données relationnelles, y compris&#58; 
+    - La conception d’une base de données normalisée. 
+    - La création de tableaux et de relations. 
+    - Requêtes avec Transact-SQL. 
+    - Des connaissances de base de la topologie des schémas d’entrepôts de données (y compris les schémas Star ou Snowflake). 
+    - Une certaine connaissance des constructions de programmation de base (telles qu’un bouclage et un branchement).
+    - Une conscience des priorités des affaires, telles que les revenus, la rentabilité et la comptabilité financière est souhaitable.
+outlineSection: |-
+  ### Module 1&#58; Introduction à la Business Intelligence et à la Modélisation des Données
+  En tant que professionnel des bases de données SQL Server, vous devez peut-être participer ou même mener un projet dans le but de mettre en œuvre une solution de BI d’entreprise efficace. Par conséquent, il est important d’avoir une bonne compréhension des différents éléments qui forment une solution de BI, l’entreprise et le personnel de TI généralement impliqués dans un projet de BI et les produits Microsoft que vous pouvez utiliser pour mettre en œuvre cette solution.
+  #### Leçons
+  - Introduction à la Business Intelligence
+  - La plateforme de BI de Microsoft Enterprise.
+
+
+  #### Laboratoire&#58; Exploration d’une Solution de BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les éléments d’une solution de BI typique. 
+  - Sélectionner les technologies Microsoft appropriées pour une solution de BI.
+  - Décrire les considérations clés pour la planification d’un projet de BI.
+
+
+  ### Module 2&#58; Création de Bases de Données multidimensionnelles
+  Ce module propose une introduction aux bases de données multidimensionnelles et présente les éléments essentiels d’un cube de Traitement Analytique en Ligne (OLAP).
+  #### Leçons
+  - Introduction à l’Analyse Multidimensionnelle.
+  - Création de Sources de Données et de Vues de Sources de Données.
+  - Création d’un Cube.
+  - Présentation de la Sécurité du Cube.
+
+
+  #### Laboratoire&#58; Création d’une Base de Données Multidimensionnelle
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les considérations pour une base de données multidimensionnelle. 
+  - Créer des sources de données et des vues de sources de données.
+  - Créer un cube.
+  - Mettre en œuvre la sécurité dans une base de données multidimensionnelle.
+
+
+  ### Module 3&#58; Travailler avec des Cubes et des Dimensions
+  Ce module explique comment créer et configurer des dimensions et des hiérarchies de dimensions dans un modèle de données multidimensionnel de Analysis Services.
+  #### Leçons
+  - Configuration des Dimensions.
+  - Définition des Hiérarchies d’Attributs.
+  - Tri et Groupement des Hiérarchies.
+
+
+  #### Laboratoire&#58; Travailler avec des Cubes et des Dimensions
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Configurer des dimensions. 
+  - Définir des hiérarchies d’attributs.
+  - Trier et grouper des attributs.
+
+
+  ### Module 4&#58; Travailler avec des Mesures et des Groupes de Mesures
+  Ce module décrit les mesures et les groupes de mesures. Il explique également comment les utiliser pour définir des tableaux de faits et associer des dimensions à des mesures.
+  #### Leçons
+  - Travail avec des Mesures.
+  - Travail avec des Groupes de Mesures.
+
+
+  #### Laboratoire&#58; Configuration des Mesures et des Groupes de Mesures
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Configurer des mesures.
+  - Configurer des groupes de mesures.
+
+
+  ### Module 5&#58; Introduction à MDX
+  Ce module décrit les bases de MDX et explique comment créer des calculs, tels que les membres calculés et les ensembles nommés.
+  #### Leçons
+  - Bases de MDX.
+  - Ajout de Calculs à un Cube.
+  - Utilisation de MDX pour la Requête d’un Cube.
+
+
+  #### Laboratoire&#58; Utilisation de MDX
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire MDX.
+  - Ajouter des calculs à un cube.
+  - Décrire comment utiliser MDX dans des applications clients.
+
+
+  ### Module 6&#58; Personnalisation de la Fonctionnalité d’un Cube
+  Ce module explique comment améliorer un cube avec les indicateurs clés des performances (KPI), les actions, les perspectives et les traductions.
+  #### Leçons
+  - Mise en œuvre des Indicateurs Clés des Performances.
+  - Mise en œuvre d’Actions.
+  - Mise en œuvre de Perspectives.
+  - Mise en œuvre de Traductions.
+
+
+  #### Laboratoire&#58; Personnalisation d’un Cube
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Mettre en œuvre des Indicateurs Clés des Performances.
+  - Mettre en œuvre des Actions. 
+  - Mettre en œuvre des Perspectives.
+  - Mettre en œuvre des Traductions.
+
+
+  ### Module 7&#58; Mise en œuvre d’un Modèle de Données Tabulaire Analysis Services
+  Ce module décrit les modèles de données tabulaires Analysis Services et explique comment concevoir un modèle de données tabulaire à l’aide des outils de données de SQL Server pour un complément de Business Intelligence (BI) pour Visual Studio.
+  #### Leçons
+  - Introduction aux Modèles de Données Tabulaires.
+  - Création d’un Modèle de Données Tabulaire.
+  - Utilisation d’un Modèle de Données Tabulaire Analysis Services dans une Solution de BI d’entreprise.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’un Modèle de Données tabulaire Analysis Services
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire des projets de modèles de données tabulaires Analysis Services. 
+  - Mettre en œuvre un modèle de données tabulaire Analysis Services.
+  - Utiliser un modèle de données tabulaire Analysis Services.
+
+
+  ### Module 8&#58; Introduction à l’Expression de l’Analyse de Données (DAX)
+  Ce module explique les bases du langage DAX. Il explique également comment vous pouvez utiliser DAX pour créer des colonnes et des mesures calculées et comment vous pouvez les utiliser dans vos modèles de données tabulaires.
+  #### Leçons
+  - Les bases de DAX.
+  - Utilisation de DAX pour Créer des Colonnes et des Mesures Calculées dans un Modèle de Données Tabulaire.
+
+
+  #### Laboratoire&#58; Création de Colonnes et de Mesures Calculées à l’aide de DAX
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les bases de DAX.
+  - Utiliser DAX pour créer des colonnes et des mesures calculées.
+
+
+  ### Module 9&#58; Mise en œuvre de Rapports avec les Services de Génération de Rapports SQL Server
+  Ce module présente les Services de Génération de Rapports Microsoft SQL Server et discute des outils et techniques qu’un développeur de BI professionnel peut utiliser pour générer et publier des rapports.
+  #### Leçons
+  - Introduction aux Services de Génération de Rapports.
+  - Création d’un Rapport avec Report Designer.
+  - Groupement et Regroupement de Données dans un Rapport.
+  - Affichage des Données sous forme Graphique.
+  - Filtration des Rapports à l’Aide des Paramètres.
+
+
+  #### Laboratoire&#58; Création d’un Rapport avec Report Designer
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les fonctionnalités clés des services de génération de rapports. 
+  - Utiliser Report Designer pour créer un rapport.
+  - Grouper et regrouper des données dans un rapport.
+  - Publier et visualiser un rapport.
+
+
+  ### Module 10&#58; Automatisation de l’Exécution et de la Livraison d’un Rapport
+  Ce module explique comment appliquer les paramètres de sécurité et d’exécution des rapports et comment créer des souscriptions pour livrer des rapports.
+  #### Leçons
+  - Gestion de la Sécurité des Rapports.
+  - Gestion de l’Exécution des Rapports.
+  - Livraison des Rapports avec des Souscriptions et des Alertes de Données.
+  - Dépannage des Services de Génération de Rapports.
+
+
+  #### Laboratoire&#58; Mise en œuvre des Souscriptions de Rapports
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Configurer des paramètres de sécurité pour un serveur de rapports. 
+  - Configurer des paramètres d’exécution des rapports pour optimiser les performances. 
+  - Utiliser des souscriptions et des alertes pour automatiser la livraison des rapports et des données.
+  - Dépanner les problèmes liés aux rapports.
+
+
+  ### Module 11&#58; Livraison de la BI avec les Services PerformancePoint de SharePoint
+  Ce module présente le serveur Microsoft SharePoint en tant que plateforme pour la BI. Il se concentre ensuite sur la construction de tableaux de bord et de fiches de résultats de la BI avec les services PerformancePoint.
+  #### Leçons
+  - Introduction aux Serveurs SharePoint en tant que Plateforme de BI.
+  - Planification de la Sécurité pour une Solution de BI pour un Serveur SharePoint.
+  - Planification des Services PerformancePoint.
+
+
+  #### Laboratoire&#58; Mise en œuvre des Services PerformancePoint
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire le serveur SharePoint en tant que plateforme de BI.
+  - Utiliser les services PerformancePoint pour livrer la fonctionnalité de BI.
+  - Configurer les sources de données de PerformancePoint.
+  - Créer des rapports, des fiches de résultats et des tableaux de bord.
+
+
+  ### Module 12&#58; Exécution d’une Analyse Prédictive avec l’Exploration de Données
+  Ce module présente l’exploration de données, explique comment créer une solution d’exploration de données, comment valider des modèles d’exploration de données, comment utiliser les compléments d’exploration de données pour Microsoft Excel et comment intégrer des résultats d’exploration de données dans les Rapports des Services de Génération de Rapports.
+  #### Leçons
+  - Présentation de l’Exploration de Données.
+  - Utilisation du Complément d’Exploration de Données pour Excel.
+  - Création d’une Solution d’Exploration de Données Personnalisée.
+  - Validation d’un Modèle d’Exploration de Données.
+  - Connexion et Consommation des Données d’Exploration de Données.
+
+
+  #### Laboratoire&#58; Utilisation de l’Exploration de Données pour Supporter une Campagne Marketing
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les concepts d’exploration de données clés et d’utiliser les compléments d’exploration de données pour Excel.
+  - Créer une solution d’exploration de données.
+  - Valider des modèles d’exploration de données.
+  - Utiliser des données d’exploration de données dans un rapport.
+

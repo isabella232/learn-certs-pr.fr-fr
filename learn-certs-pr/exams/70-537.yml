@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.70-537
+displayName: 70-537
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Cet examen est conçu pour les administrateurs Azure et les opérateurs Azure Stack Hub qui utilisent Azure Stack Hub pour offrir des services de cloud à leur utilisateurs finaux ou aux clients dans le cadre de leur propre centre de données.
+
+  Les candidats à cet examen doivent posséder une grande expérience dans la gestion et l’exploitation des environnements d’Azure Stack Hub. Les candidats doivent avoir une bonne compréhension d’Azure de même que des connaissance sur la gestion de la virtualisation, du réseautage et de l’identité. Les candidats doivent aussi comprendre comment Azure Stack Hub active les processus DevOps et le modèle de développement hybride.
+
+  Les candidats à cet examen doivent être capables de démontrer leur aptitude à planifier, déployer, emballer, mettre à jour et maintenir l’infrastructure Azure Stack Hub. Les candidats doivent aussi démontrer de leur aptitude à offrir des ressources de cloud hybride et de services nécessaires, et de gérer l’infrastructure comme service (IaaS) et la plateforme comme service (PaaS).
+
+  <div style='font-weight&#58; bold;'><br/>Cet examen a été mis à jour le 14 janvier 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-537.</div>
+subTitle: Cet examen est conçu pour les administrateurs Azure et les opérateurs Azure Stack Hub qui utilisent Azure Stack Hub pour offrir des services de cloud à leur utilisateurs finaux ou aux clients dans le cadre de leur propre centre de données.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
+locales:
+- en
+levels:
+- advanced
+skills:
+- Déploiement et intégration d’un environnement Azure Stack Hub (20-25%)
+- Configuration de PaaS et IaaS pour un environnement Azure Stack Hub (25-30%)
+- Fourniture de services et activation de DevOps pour les utilisateurs d’Azure Stack Hub (25-30%)
+- Maintenance et surveillance d’un environnement Azure Stack Hub (20-25%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.20537
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Installing and Configuring Windows Server® 2012
+metadata:
+  title: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+  description: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+uid: course.20410
+courseNumber: '20410-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installation et configuration de Windows Server 2012.
+- skill: Description d’AD DS.
+- skill: Gestion des objets d’Active Directory.
+- skill: Automatisation de l’administration d’Active Directory.
+- skill: Mise en œuvre d’IPv4.
+- skill: Implémentation du service Dynamic Host Configuration Protocol (DHCP).
+- skill: Mise en œuvre du Système de Nom de Domaine (DNS).
+- skill: Mise en œuvre d’IPv6.
+- skill: Mise en œuvre du stockage local.
+- skill: Mise en œuvre des services de fichier et d’impression.
+- skill: Mise en œuvre de la Stratégie de Groupe.
+- skill: Sécurisation des serveurs Windows en utilisant des Objets de Stratégie de Groupe (GPO).
+- skill: Mise en œuvre de la virtualisation des serveurs en utilisant Hyper-V.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-410
+summary: |-
+  Suivez une formation pratique et entraînez-vous à l’installation et la configuration de Windows Server 2012, y compris Windows Server 2012 R2, au cours de cette formation officielle Microsoft de cinq jours. Cette formation fait partie d’une série de trois formations qui fournissent les compétences et les connaissances nécessaires à la mise en œuvre d’une infrastructure de base Windows Server 2012 dans un environnement d’entreprise existant.  
+
+  Les trois formations couvrent ensemble la mise en œuvre, la gestion, la maintenance et la fourniture de services et d’infrastructure dans un environnement Windows Server 2012. Même s’il y a un croisement des compétences et des tâches au cours de ces trois formations, cette formation se concentre sur la mise en œuvre et la configuration initiales de services de base, telles que la Mise en Réseau, le Stockage, l’Active Directory Domain Services (AD DS), la Stratégie de Groupe, les Services de Fichier et d’Impression et Hyper-V.  
+
+  Cette formation cartographie directement et est le premier choix en matière de préparation pratique à l’examen Microsoft Certified Solutions Associate (MCSA) [410&#58; Installation et Configuration de Windows Server 2012.](https://www.microsoft.com/learning/exam-70-410.aspx), qui est le premier des trois examens requis pour la certification MCSA Windows Server 2012.  
+
+  Les laboratoires de cette formation se basent sur Windows Server 2012 R2 et Windows 8.1.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des technologies de l’information (TI) qui ont des connaissances et de l’expérience dans les systèmes d’exploitation Windows et qui souhaitent acquérir les compétences et les connaissances nécessaires à l’installation et à la configuration initiale d’un Windows Server 2012 ou Windows Server 2012 R2 dans un environnement de Windows Server existant. En général, les candidats qui sont intéressés par cette formation incluent&#58;
+  - Les administrateurs de Windows Server qui débutent dans l’administration de Windows Server et les technologies connexes qui cherchent à en apprendre davantage sur Windows Server 2012 et Windows Server 2012 R2.
+  - Les professionnels des TI qui ont de l’expérience dans d’autres technologies non Microsoft qui répondent aux prérequis de cette formation et cherchent une formation croisée sur Windows Server 2012 et Windows Server 2012 R2.
+  - Les professionnels des TI qui cherchent à passer l’examen Microsoft Certified Solutions Associate (MCSA) [Installation et configuration de Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx).
+  - Les professionnels des TI qui souhaitent passer les examens Microsoft Certified Solutions Expert (MCSE) en Centre de Données, Infrastructure Desktop, Messagerie, Collaboration et Communications et qui sont intéressés par la formation, qui se préparent aux examens Microsoft Certified Solutions Associate (MCSA). Ce sont les prérequis pour leurs spécialisations propres.
+prerequisitesSection: |-
+  Cette formation exige que les étudiants répondent aux prérequis suivants, entre autres&#58;
+  - Une compréhension des principes de base de la mise en réseau,
+  - Une compréhension des concepts de base d’AD DS,
+  - Une conscience et une compréhension des meilleures pratiques en matière de sécurité,
+  - Des connaissances de base du matériel des serveurs,
+  - Expérience dans le travail et la configuration de systèmes d’exploitation client Windows, tels que Windows 7 ou Windows 8. 
+
+  En outre, les étudiants doivent être dotés d’une expérience dans les systèmes d’exploitation antérieurs de Windows Server. 
+
+  L’ensemble des prérequis susmentionnés peuvent être remplis en ayant des connaissances équivalentes à ou en suivant la formation [10967A&#58; Principes de base de l’infrastructure Windows Server](https://www.microsoft.com/learning/course.aspx?ID=10967A&Locale=en-us&mc=US), car cette formation est construite sur les connaissances et les compétences fournie par cette formation.
+outlineSection: |-
+  ### Module 1&#58; Déploiement et Gestion de Windows Server 2012
+  Ce module présente aux étudiants les éditions de Windows Server 2012 et les nouveaux outils de gestion de Windows Server 2012. Il explique également comment installer Windows Server 2012, comment réaliser des tâches post-déploiement et comment remplir des tâches administratives de base.
+  #### Leçons
+  - Présentation de Windows Server 2012.
+  - Installation de Windows Server 2012.
+  - Configuration post-installation de Windows Server 2012.
+  - Présentation de la Gestion de Windows Server 2012.
+  - Introduction à Windows PowerShell.
+
+
+  #### Laboratoire&#58; Déploiement et Gestion de Windows Server 2012
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire Windows Server 2012,
+  - Installer Windows Server 2012,
+  - Procéder à la configuration post-installation de Windows Server 2012,
+  - Décrire les outils de gestion disponibles dans Windows Server 2012,
+  - Remplir des tâches administratives de base à l’aide de Windows PowerShell.
+
+
+  ### Module 2&#58; Introduction aux Active Directory Domain Services
+  Ce module couvre la structure des Active Directory Domain Services (AD DS) et ses différentes composantes, telles que la forêt, le domaine et les unités organisationnelles (UO). Il donne également un aperçu des contrôleurs de domaine en plus des choix présentés avec Windows Server 2012 pour l’installation d’AD DS sur un serveur.
+  #### Leçons
+  - Présentation d’AD DS.
+  - Présentation des Contrôleurs de Domaine.
+  - Installation d’un Contrôleur de Domaine.
+
+
+  #### Laboratoire&#58; Installation des Contrôleurs de Domaine
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire la structure d’AD DS,
+  - Décrire l’objectif des contrôleurs de domaine,
+  - Installer un contrôleur de domaine.
+
+
+  ### Module 3&#58; Gestion des objets d’Active Directory Domain Services
+  Ce module décrit comment gérer les comptes d’utilisateurs et les comptes d’ordinateur, y compris comment gérer différents dispositifs de clients que les employés utilisent. Ce module explique également comment gérer le réseau d’une entreprise en gérant les groupes et comment déléguer des tâches administratives à des utilisateurs ou groupes désignés.
+  #### Leçons
+  - Gestion des Comptes d’Utilisateurs.
+  - Gestion des Groupes.
+  - Gestion des Comptes d’Ordinateur.
+  - Délégation de l’Administration.
+
+
+  #### Laboratoire&#58; Gestion des Objets d’Active Directory Domain Services
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Gérer des comptes avec des outils graphiques,
+  - Gérer des comptes groupés avec des outils graphiques,
+  - Gérer des comptes d’ordinateur,
+  - Déléguer des permissions pour procéder à l’administration d’AD DS.
+
+
+  ### Module 4&#58; Automatisation de l’Administration d’Active Directory Domain Services
+  Ce module décrit comment utiliser les outils de ligne de commande et Windows PowerShell pour automatiser l’administration d’AD DS. Il discute de différents outils de ligne de commande et des commandes de Windows PowerShell. Il explique ensuite comment utiliser ces outils et commandes afin de modifier des objets individuellement et lors d’opérations en bloc.
+  #### Leçons
+  - Utilisation d’outils de ligne de commande pour l’administration d’AD DS.
+  - Utilisation de Windows PowerShell pour l’administration d’AD DS.
+  - Réalisation d’opérations en bloc avec Windows PowerShell.
+
+
+  #### Laboratoire&#58; Automatisation de l’Administration d’AD DS en utilisant Windows PowerShell
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Utiliser des outils de ligne de commande pour l’administration de AD DS
+  - Utiliser des applets de Windows PowerShell pour l’administration d’AD DS
+  - Réaliser des opérations en vrac en utilisant Windows PowerShell.
+
+
+  ### Module 5&#58; Mise en œuvre d’IPv4
+  Ce module discute de l’utilisation d’IPv4, qui est le protocole de réseau utilisé sur les réseaux Internet et locaux. Dans ce module, les étudiants apprennent à mettre en œuvre un plan d’adressage IPv4 et à dépanner la communication du réseau. Ce module couvre également comment découvrir et dépanner des problèmes liés au réseau.
+  #### Leçons
+  - Présentation de TCP/IP
+  - Compréhension de l’adressage IPv4
+  - Mise en sous-réseau et en super-réseau
+  - Configuration et Dépannage d’IPv4
+
+
+  #### Laboratoire&#58; Mise en œuvre d’IPv4
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire la suite de protocoles TCP/IP
+  - Décrire l’adressage IPv4
+  - Déterminer un masque de sous-réseau nécessaire à la mise en super-réseau ou sous-réseau
+  - Configurer IPv4 et dépanner la communication IPv4
+
+
+  ### Module 6&#58; Mise en œuvre du protocole Dynamic Host Configuration Protocol
+  Ce module couvre la prise en charge et le dépannage d’une infrastructure de réseau basée sur un Windows Server en déployant, configurant et dépannant le rôle du serveur Dynamic Host Configuration Protocol (DHCP).
+  #### Leçons
+  - Présentation du rôle du serveur DHCP
+  - Configuration des portées DHCP
+  - Gestion d’une base de données DHCP
+  - Sécurisation et Suivi de DHCP
+
+
+  #### Laboratoire&#58; Mise en œuvre de DHCP
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Expliquer le rôle du serveur DHCP
+  - Configurer des portées DHCP
+  - Gérer une base de données DHCP
+  - Sécuriser et faire le suivi du rôle de serveur DHCP
+
+
+  ### Module 7&#58; Mise en œuvre de DNS
+  Ce module décrit la résolution de nom pour les clients du système d’exploitation Windows et les serveurs Windows Server. Il couvre également l’installation et la configuration d’un service de serveur DNS et ses composants.
+  #### Leçons
+  - Résolution de noms pour les Clients et les Serveurs Windows.
+  - Installation d’un serveur DNS.
+  - Gestion des zones DNS.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’un DNS
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire la résolution de noms pour les clients des systèmes d’exploitation Windows et des serveurs de Windows Server
+  - Installer et gérer un serveur DNS
+  - Gérer des zones DNS.
+
+
+  ### Module 8&#58; Mise en œuvre d’IPv6
+  Ce module discute des fonctionnalités et des avantages d’IPv6, de la façon dont IPv6 affecte les réseaux IPv4 et de la façon d’intégrer IPv6 aux réseaux IPv4 en utilisant différentes technologies de transition.
+  #### Leçons
+  - Présentation d’IPv6.
+  - Adressage IPv6.
+  - Coexistence avec IPv4.
+  - Technologies de transition vers IPv6.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’IPv6
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les fonctionnalités et les avantages d’IPv6
+  - Décrire l’adressage IPv6
+  - Décrire la coexistence d’IPv6 avec IPv4
+  - Décrire les technologies de transition IPv6.
+
+
+  ### Module 9&#58; Mise en œuvre du Stockage Local
+  Ce module présente différentes technologies de stockage. Il discute de la façon de mettre en œuvre les solutions de stockage dans Windows Server 2012 et comment utiliser la nouvelle fonctionnalité des Espaces de Stockage, qui vous permet d’associer des disques dans des pools que vous pouvez configurer pour une gestion automatique.
+  #### Leçons
+  - Présentation du stockage.
+  - Gestion des disques et des volumes.
+  - Mise en œuvre des Espaces de Stockage.
+
+
+  #### Laboratoire&#58; Mise en œuvre du Stockage Local.
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les différentes technologies de stockage
+  - Expliquer comment gérer des disques et des volumes
+  - Expliquer comment mettre en œuvre les Espaces de Stockage.
+
+
+  ### Module 10&#58; Mise en œuvre des services de fichier et d’impression
+  Ce module discute de la façon de fournir des ressources de fichier et d’impression avec Windows Server 2012. Il décrit comment sécuriser des fichiers et des dossiers, comment protéger des versions antérieures de fichiers et de dossiers en utilisant des clichés instantanés et comment donner aux travailleurs un accès à distance aux fichiers d’entreprise en mettant en œuvre le nouveau service de rôle de dossiers de travail. Il décrit également de nouvelles fonctionnalités d’impression sur réseau qui aident à gérer l’environnement d’impression sur réseau.
+  #### Leçons
+  - Sécurisation des Fichiers et des Dossiers.
+  - Protection des Fichiers et des Dossiers Partagés à l’aide de Clichés Instantanés.
+  - Configuration des Dossiers de Travail.
+  - Configuration de l’Impression sur Réseau.
+
+
+  ### Laboratoire&#58; Mise en œuvre des Services de Fichier et d’Impression
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Sécurisation des fichiers et dossiers partagés.
+  - Protection des fichiers et dossiers partagés à l’aide de clichés instantanés.
+  - Configuration du service de rôle de Dossiers de Travail.
+  - Configuration de l’impression sur réseau.
+
+
+  ### Module 11&#58; Mise en œuvre de la Politique du Groupe
+  Ce module donne un aperçu de la Politique du Groupe et donne des informations détaillées sur la façon de la mise en œuvre de la Politique du Groupe.
+  #### Leçons
+  - Présentation de la Politique du Groupe.
+  - Traitement de la Politique du Groupe.
+  - Mise en œuvre d’un Magasin Central pour les Modèles Administratifs.
+
+
+  #### Laboratoire&#58; Mise en œuvre de la Politique du Groupe
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Créer et de gérer des Objets de Politique du Groupe (GPO)
+  - Configurer le Traitement de la Politique du Groupe
+  - Mettre en œuvre un Magasin Central pour les Modèles Administratifs
+
+
+  ### Module 12&#58; Sécurisation des Serveurs Windows à l’aide des Objets de Politique du Groupe
+  Ce modèle décrit la sécurité du système d’exploitation Windows Server 2012. Il couvre la façon d’identifier les menaces à la sécurité, de planifier votre stratégie afin de limiter les menaces à la sécurité et de sécuriser votre infrastructure Windows Server 2012.
+  #### Leçons
+  - Présentation de la Sécurité pour les Systèmes d’Exploitation Windows
+  - Configuration des Paramètres de Sécurité
+  - Restriction du Logiciel
+  - Configuration du Pare-feu Windows avec la Sécurité Avancée.
+
+
+  #### Laboratoire&#58; Renforcement de la Sécurité pour les Ressources des Serveurs
+
+  #### Laboratoire&#58; Configuration d’AppLocker et du Pare-feu Windows
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire la sécurité du système d’exploitation Windows Server
+  - Configurer les paramètres de sécurité à l’aide de la Politique du Groupe
+  - Renforcer la sécurité pour les ressources des serveurs
+  - Limiter l’exécution d’un logiciel non autorisé sur les serveurs et les clients
+  - Configurer le Pare-feu Windows à l’aide de la Sécurité Avancée
+
+
+  ### Module 13&#58; Mise en œuvre de la Virtualisation des Serveurs avec Hyper-V
+  Ce module décrit les technologies de virtualisation disponibles sur Windows et qui se concentrent spécifiquement sur le rôle Hyper-V dans Windows Server 2012 et Windows Server 2012 R2. Il couvre les composants du rôle Hyper-V, la configuration et le déploiement du rôle, en plus de la configuration et de la gestion des composants clés d’une mise en œuvre Hyper-V, telle que le stockage et la mise en réseau.
+  #### Leçons
+  - Présentation des technologies de virtualisation
+  - Mise en œuvre de Hyper-V
+  - Gestion du Stockage de Machine Virtuelle
+  - Gestion des Réseaux Virtuels
+
+
+  #### Laboratoire&#58; Mise en œuvre de la Virtualisation du Serveur avec Hyper-V
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les technologies de virtualisation
+  - Mettre en œuvre Hyper-V
+  - Gérer le stockage des machines virtuelles
+  - Configurer des réseaux virtuels
+

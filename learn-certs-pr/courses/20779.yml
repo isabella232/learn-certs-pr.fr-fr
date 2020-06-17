@@ -1,0 +1,193 @@
+### YamlMime:Course
+title: Analyzing Data with Excel
+metadata:
+  title: 'Course 20779-B: Analyzing Data with Excel'
+  description: 'Course 20779-B: Analyzing Data with Excel'
+uid: course.20779
+courseNumber: '20779-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explorer et étendre un tableau de bord Excel classique.
+- skill: Explorer et étendre un modèle de données Excel.
+- skill: Préformater et importer un fichier .CSV.
+- skill: Importer des données d’une base de données SQL Server.
+- skill: Importer des données à partir d’un rapport.
+- skill: Créer des mesures à l’aide de fonctions DAX avancées.
+- skill: Créer une visualisation de données dans Excel.
+- skill: Créer un tableau de bord Power BI avec Excel.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-analyst
+products:
+- office-excel
+exams:
+- uid: exam.70-779
+summary: |-
+  L’objectif principal de cette formation est de fournir aux étudiants la capacité d’ajouter des techniques de BI à l’analyse des données dans Excel. Cette formation va au-delà des capacités de tableaux et de graphiques et utilise les graphiques croisés, le modèle de données Excel et Power BI.
+  
+  #### Profil de l’audience
+  Cette formation est destinée aux étudiants qui sont familiers avec l’analyse des données avec Excel et qui souhaitent ajouter les techniques BI. 
+  
+  Cette formation sera probablement suivie par des créateurs de rapports sur SQL Server qui s'intéressent à d’autres méthodes de présentation des données.
+prerequisitesSection: |-
+  Avant d’assister à cette formation, les étudiants doivent avoir&#58;
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles des bases de données relationnelles.
+  - Importantes connaissances des feuilles de calcul Excel, ce qui inclut les formules, les graphiques, les filtres, le tri et les sous-totaux.
+  - Connaissances de base de l’analyse de données équivalente à la formation 10994.
+outlineSection: |-
+  ### Module 1&#58; Analyse de données dans Excel
+  Ce module étudie le tableau de bord Excel classique et les façons de l’étendre.
+  #### Leçons
+  - Analyse de données classique avec Excel.
+  - Tableaux croisés dynamiques Excel.
+  - Limites de l’analyse de données classique.
+
+
+  #### Laboratoire &#58; Construction d’un tableau de bord Excel classique
+  - Formatage de données.
+  - Construction d’un tableau croisé dynamique.
+  - Ajout de graphiques croisés dynamiques et d’un segment.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire une analyse de données classique avec Excel,
+  - de décrire les tableaux croisés dynamiques Excel,
+  - de décrire les limites de l’analyse de données classique avec Excel.
+
+
+  ### Module 2&#58; Modèle de données Excel
+  Ce module étudie le modèle de données classique Excel et les façons de l’étendre.
+  #### Leçons
+  - Utilisation du modèle de données Excel.
+  - DAX.
+
+
+  #### Laboratoire &#58; Explorer un modèle de données Excel
+  - Créer des colonnes de calcul.
+  - Formater les données du modèle de données.
+  - Créer des mesures.
+  - Analyser les données.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire un modèle de données Excel,
+  - de visualiser des données dans un tableau de données Excel,
+  - de décrire DAX.
+
+
+  ### Module 3&#58; Importation de données à partir de fichiers
+  Ce module étudie le pré-formatage et l’importation des fichiers CSV.
+  #### Leçons
+  - Importation des données dans Excel.
+  - Mise en forme et transformation des données.
+  - Chargement des données.
+
+
+  #### Laboratoire &#58; Importation des données à partir d’un fichier CSV
+  - Importation et transformation des données à partir d’un fichier CSV.
+  - Ajout de données à partir d’un dossier.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’importer des données dans Excel,
+  - de mettre en forme et transformer des données,
+  - de charger des données.
+
+
+  ### Module 4&#58; Importation de données à partir de bases de données
+  Ce module étudie l’importation des données dans Excel à partir d’une base de données SQL Server.
+  #### Leçons
+  - Sources de données disponibles.
+  - Prévisualisation, mise en forme et transformation des données.
+  - Relations et hiérarchies entre les tableaux.
+  - Chargement des données.
+
+
+  #### Laboratoire &#58; Importation de données provenant de sources multiples
+  - Importation de données à partir de SQL Server.
+  - Importation de données à partir d’un fichier CSV.
+  - Création d’un tableau de données.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’identifier les sources de données disponibles,
+  - de prévisualiser, de mettre en forme et de transformer des données,
+  - d’expliquer les relations et les hiérarchies entre les tableaux,
+  - de charger des données provenant de plusieurs sources.
+
+
+  ### Module 5&#58; Importation de données à partir de rapports Excel
+  Ce module explique comment importer des données à partir d’un rapport.
+  #### Leçons
+  - Importation de données à partir de rapports Excel.
+  - Transformation des données du rapport Excel.
+
+
+  #### Laboratoire &#58; Importation de données à partir d’un rapport
+  - Importation de données à partir d’Excel.
+  - Transformation des données Excel.
+  - Chargement des données dans un modèle de données Excel.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’importer des données à partir de rapports Excel,
+  - de transformer des données de rapports Excel.
+
+
+  ### Module 6&#58; Création et formatage des mesures
+  Ce module explique comment créer et formater des mesures.
+  #### Leçons
+  - DAX.
+  - Les Mesures
+  - Fonctions DAX avancées.
+
+
+  #### Laboratoire &#58; Création de mesures à l’aide des fonctions avancées DAX.
+  - Comparaison avec l’année précédente.
+  - Year-to-date.
+  - Part de marché.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’expliquer ce qu’est DAX et comment l’utiliser,
+  - de décrire une mesure,
+  - d’utiliser certaines fonctions avancées de DAX.
+
+
+  ### Module 7&#58; Visualisation de données dans Excel
+  Ce module explique comment visualiser des données dans Excel.
+  #### Leçons
+  - Graphiques croisés dynamiques.
+  - Fonctions cube.
+  - Graphiques pour les fonctions cube.
+
+
+  #### Laboratoire &#58; Visualisation des données dans Excel
+  - Création d’un rapport tabulaire.
+  - Création d’un graphique croisé dynamique.
+  - Ajout de segments aux graphiques.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et d’affiner un graphique croisé dynamique,
+  - de décrire des fonctions cube et du moment où les utiliser,
+  - de décrire un nombre de graphiques à utiliser avec les fonctions cube.
+
+
+  ### Module 8&#58; Utilisation d’Excel avec Power BI
+  Ce module explique comment utiliser Excel avec Power BI.
+  #### Leçons
+  - Power BI.
+  - Chargement de données Excel dans Power BI.
+  - Application mobile Power BI.
+
+
+  #### Laboratoire &#58; Création d’un tableau de bord Excel avec Power BI
+  - Chargement de données Excel.
+  - Création d’un tableau de bord Power BI.
+  - Utilisation du bureau Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire Power BI et les différentes versions disponibles,
+  - de charger des données Excel sur Power BI,
+  - de décrire l’application Power BI.
+

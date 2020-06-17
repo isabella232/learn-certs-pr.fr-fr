@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Designing and Implementing a Server Infrastructure
+metadata:
+  title: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+  description: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+uid: course.20413
+courseNumber: '20413-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planification d’une mise à niveau et de la migration des serveurs.
+- skill: Planification et mise en œuvre d’une stratégie de déploiement de serveurs.
+- skill: Planification et déploiement de serveurs à l’aide du Gestionnaire de Machines Virtuelles (VMM) de System Center 2012 R2.
+- skill: Conception et conservation d’une solution de configuration d’une adresse IP et de gestion d’une adresse IP.
+- skill: Conception et mise en œuvre de la résolution de noms.
+- skill: Conception et mise en œuvre d’une infrastructure de forêt et de domaine AD DS.
+- skill: Conception et mise en œuvre d’une infrastructure d’unité organisationnelle (UO) AD DS.
+- skill: Conception et mise en œuvre d’une stratégie d’objets de stratégie de groupe (GPO).
+- skill: Conception et mise en œuvre d’une topologie physique AD DS.
+- skill: Planification et implémentation de services de fichiers et de stockage.
+- skill: Conception et mise en œuvre d’une protection du réseau.
+- skill: Conception et mise en œuvre des services d’accès réseau.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-413
+summary: |-
+  Suivez une formation pratique et entraînez-vous à la planification, à la conception et au déploiement d’une infrastructure d’entreprise physique et logique Windows Server® 2012 R2 au cours de cette formation officielle Microsoft en 5 jours. Cette formation est la première partie d’une série de deux formations qui fournissent les compétences et les connaissances nécessaires à la conception et à la mise en œuvre d’une infrastructure Windows Server 2012 R2 dans un environnement d’entreprise. Ces deux formations couvrent ensemble la conception, la planification, le déploiement, la sécurisation, le suivi, l’automatisation et la virtualisation d’une infrastructure de serveur d’une entreprise. Cette formation couvre les connaissances et les compétences nécessaires à une solution d’entreprise qui prend en charge des installations de serveurs manuelles et automatisées dans un environnement physique et virtuel, y compris la prise en charge de services de fichiers et de stockage. Vous obtiendrez également les compétences nécessaires à la fourniture de solutions de mise en réseau d’entreprise, telles que DHCP, IPAM, VPN et DirectAccess. Vous obtiendrez également les compétences nécessaires à la conception et à la mise en œuvre d’une infrastructure de forêt et de domaine, y compris des scénarios multi domaines/forêts et de succursales. Cette formation cartographie directement et est le premier choix en matière de préparation pratique à l’examen Microsoft Certified Solutions Expert (MCSE) [413&#58; Conception et mise en œuvre d’une infrastructure de serveurs], qui est le quatrième de cinq examens requis dans le cadre de l’obtention de la certification MCSE, Infrastructure de serveurs. 
+
+  REMARQUE&#58; Les laboratoires de cette formation se basent sur Windows Server 2012 R2 et System Center 2012 R2. Cette formation est conçue pour les professionnels des TI expérimentés qui prennent en charge des moyennes à grandes entreprises et ont de l’expérience dans l’administration de Windows Server 2012 R2 et ont une certification MCSA Windows Server 2012 ou des compétences équivalentes.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels des TI qui sont responsables de la planification, de la conception et du déploiement d’une infrastructure d’entreprise Active Directory® Domaine Services (AD DS) sur Windows Server 2012 physique et logique, y compris des services en réseau si nécessaire. Ils ont de l’expérience dans les systèmes d’exploitation Windows Server antérieurs et ont la certification Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 ou des compétences équivalentes. Cette formation est également destinée aux professionnels des TI qui cherchent à passer l’examen 70-413&#58; Conception et mise en œuvre d’une infrastructure de serveurs, en tant qu’examen indépendant ou dans le cadre de l’exigence pour la certification d’infrastructure de serveurs Microsoft Certified Solutions Expert (MCSE).
+prerequisitesSection: |-
+  Les candidats à cette formation ont de bonnes connaissances du système d’exploitation de serveur et client Windows et une expérience de base dans la mise en réseau et AD DS dans un environnement d’entreprise/petite entreprise (PE) avec une expérience dans la configuration d’applications.
+
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Une bonne compréhension des bases du Protocole de Contrôle des Transmissions/Protocole Internet (TCP/IP) et des concepts de mise en réseau.
+  - De bonnes connaissances professionnelles de Windows Server 2012 R2 et d’Active Directory® Domaine Services (AD DS). Par exemple, les comptes d’utilisateurs de domaine, les comptes d’utilisateurs domaine vs locaux, les profils d’utilisateur et l’adhésion à un groupe.
+  - Une bonne compréhension des fichiers script et en lot.
+  - Une bonne compréhension des concepts de sécurité, tels que l’authentification et l’autorisation.
+  - Une familiarité avec le déploiement, le conditionnement et les outils d’imagerie.
+  - Une capacité à travailler dans une équipe/équipe virtuelle.
+  - Une capacité à produire de bons documents et ayant les bonnes compétences en communication afin de créer des propositions et faire des recommandations en matière de budget.
+  - Des connaissances équivalentes au MCSA Windows 2012 R2.
+
+  Les étudiants qui suivent cette formation peuvent remplir les prérequis en suivant les formations suivantes ou obtenir des connaissances et compétences équivalentes.
+  - 20410D&#58; Installation et Configuration de Windows Server 2012
+  - 20411D&#58; Administration de Windows Server 2012
+  - 20412D&#58; Configuration des services Advanced Windows Server 2012
+
+  OU
+
+  - 20417D&#58; Mise à jour de Vos Compétences vers MCSA Windows Server 2012
+outlineSection: |-
+  ### Module 1&#58; Planification de la Mise à niveau et de la Migration d’un Serveur
+  Ce module explique comment planifier une stratégie de mise à niveau et de migration d’un serveur.
+  #### Leçons
+  - Considérations pour les Mises à niveau et les Migrations.
+  - Création d’un Plan de Mise à niveau et de Migration d’un Serveur.
+  - Planification pour la Virtualisation.
+
+
+  #### Laboratoire&#58; Planification de la Mise à niveau et de la Migration d’un Serveur
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire les facteurs à prendre en compte lors de la réalisation de la mise à niveau et de la migration d’un serveur.
+  - Créer un plan pour la mise à niveau et à la migration d’un serveur.
+  - Planifier la virtualisation d’un serveur.
+
+
+  ### Module 2&#58; Planifier et Mettre en œuvre une Stratégie de Déploiement d’un Serveur
+  Ce module explique comment concevoir une stratégie d’installation automatisée d’un serveur et comment planifier et mettre en œuvre l’infrastructure de déploiement d’un serveur.
+  #### Leçons
+  - Sélection d’une Stratégie de Déploiement d’un Serveur Adéquate.
+  - Mise en œuvre d’une Stratégie de Déploiement Automatisée.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre de l’Infrastructure de Déploiement d’un Serveur
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Sélectionner une stratégie de déploiement de serveurs adéquate.
+  - Mettre en œuvre une stratégie de déploiement automatisée.
+
+
+  ### Module 3&#58; Planification et Déploiement de Serveurs à l’aide du Gestionnaire de Machines Virtuelles.
+  Ce module explique comment planifier et déployer une infrastructure de gestionnaire de machines virtuelles (VMM) pour déployer des serveurs.
+  #### Leçons
+  - Présentation du Gestionnaire de Machines Virtuelles System Center 2012 R2.
+  - Mise en œuvre d’une Bibliothèque et de Profils de Gestionnaires de Machines Virtuelles.
+  - Planification et Déploiement des Services du Gestionnaire de Machines Virtuelles.
+
+
+  #### Laboratoire&#58; Planification et Déploiement de Machines Virtuelles à l’aide du Gestionnaire de Machines Virtuelles
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire l’architecture et les composants de base du VMM.
+  - Mettre en œuvre des bibliothèques et des profils de VMM.
+  - Planifier et déployer des services de VMM.
+
+
+  ### Module 4&#58; Conception et Conservation d’une Solution de Gestion de Configuration et d’Adresse IP
+  Ce module explique comment concevoir et conserver une solution de gestion des adresses IP (IPAM) et un Dynamic Host Configuration Protocol (DHCP).
+  #### Leçons
+  - Conception des Serveurs DHCP.
+  - Planification des Portées DHCP.
+  - Conception d’une Stratégie d’Approvisionnement IPAM.
+  - Gestion des Espaces de Serveurs et d’Adresses à l’aide d’IPAM.
+
+
+  #### Laboratoire&#58; Conception et Conservation d’une solution de Configuration d’une Adresse IP et de Gestion d’une Adresse IP
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Concevoir la mise en œuvre d’un serveur DHCP.
+  - Planifier la configuration et les options de la portée de DHCP.
+  - Concevoir une stratégie d’approvisionnement IPAM.
+  - Gérer des espaces de serveurs et d’adresses à l’aide d’IPAM.
+
+
+  ### Module 5&#58; Conception et Mise en œuvre de la Résolution de Noms
+  Ce module explique comment concevoir une stratégie de résolution de noms.
+  #### Leçons
+  - Conception d’une Stratégie de Mise en œuvre d’un Serveur DNS.
+  - Conception de l’Espace de Nom DNS.
+  - Conception des Zones DNS.
+  - Conception de la Réplication et de la Délégation des Zones DNS.
+  - Optimisation des Serveurs DNS.
+  - Conception de DNS pour la Haute Disponibilité et la Sécurité.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre de la Résolution de Noms
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Concevoir une stratégie de mise en œuvre d’un serveur de système de nom de domaine (DNS).
+  - Concevoir un nom d’espace DNS.
+  - Concevoir et mettre en œuvre une stratégie de zone DNS.
+  - Concevoir et configurer la réplication et la délégation des zones DNS.
+  - Optimiser la configuration de serveur DNS.
+  - Concevoir DNS pour la haute disponibilité et la sécurité.
+
+
+  ### Module 6&#58; Conception et Mise en œuvre de l’Infrastructure de Domaine et d’Active Directory Domain Services Forest
+  Ce module explique comment concevoir et mettre en œuvre une infrastructure de forêt et de domaine AD DS.
+  #### Leçons
+  - Conception d’une Active Directory Forest.
+  - Conception et Mise en œuvre d’Approbations d’une Active Directory Forest.
+  - Conception de l’Intégration d’Active Directory avec Windows Azure Active Directory.
+  - Conception et Mise en œuvre des Domaines d’Active Directory.
+  - Conception des Espaces de Nom DNS dans des Environnements Active Directory.
+  - Conception des Approbations de Domaine d’Active Directory.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre d’une Infrastructure de Active Directory Domaine Services Forest
+
+  #### Laboratoire&#58; Conception et Mise en œuvre d’une Infrastructure de Domaine Active Directory
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Concevoir une forêt Active Directory.
+  - Concevoir et Mettre en œuvre des Approbations de forêts Active Directory.
+  - Concevoir une Intégration d’Active Directory avec Windows Azure Active Directory
+  - Concevoir et Mettre en œuvre des domaines Active Directory.
+  - Concevoir des Espaces de Noms DNS dans un environnement Active Directory.
+  - Concevoir et mettre en œuvre des approbations de domaine Active Directory.
+
+
+  ### Module 7&#58; Conception et Mise en œuvre d’une Infrastructure d’Unité Organisationnelle AD DS
+  Ce module explique comment concevoir et mettre en œuvre une infrastructure d’UO et un modèle de permissions AD DS.
+  #### Leçons
+  - Planification du Modèle de Délégation des Tâches Administratives d’Active Directory.
+  - Conception d’une Structure OU.
+  - Conception et Mise en œuvre d’une Stratégie de Groupe AD DS.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre d’une Infrastructure OU Active Directory et d’un Modèle de Délégation
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier un modèle de délégation des tâches administratives d’Active Directory.
+  - Concevoir une structure OU.
+  - Concevoir et mettre en œuvre une stratégie de groupe AD DS.
+
+
+  ### Module 8&#58; Conception et Mise en œuvre d’une Stratégie d’Objets de Stratégie de Groupe
+  Ce module explique comment concevoir et mettre en œuvre une stratégie d’objets de stratégie de groupe (GPO).
+  #### Leçons
+  - Collecte des Informations Requises pour la Conception de GPO.
+  - Conception et Mise en œuvre de GPO.
+  - Conception du Traitement des GPO.
+  - Planification de la Gestion de la Stratégie de Groupe.
+
+
+  ### Laboratoire&#58; Conception et Mise en œuvre d’une Stratégie d’Objets de Stratégie de Groupe
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Collecter et analyser les informations requises pour faciliter la conception des GPO.
+  - Créer une conception de GPO et de la mettre en œuvre.
+  - Créer la conception du traitement des GPO.
+  - Planifier la gestion des GPO.
+
+
+  ### Module 9&#58; Conception et Mise en œuvre d’une Topologie Physique AD DS
+  Ce module explique comment concevoir une topologie de sites AD DS et une stratégie de placement des contrôleurs de domaine.
+  #### Leçons
+  - Conception et Mise en œuvre des Sites d’Active Directory.
+  - Conception d’une Réplication Active Directory.
+  - Conception du Placement des Contrôleurs de Domaine.
+  - Virtualisation des Considérations pour les Contrôleurs de Domaine.
+  - Conception des Contrôleurs de Domaine Hautement Disponibles.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre d’une Topologie Physique Active Directory Domaine Services
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Concevoir et mettre en œuvre des sites Active Directory.
+  - Concevoir et configurer la réplication Active Directory.
+  - Concevoir le placement des contrôleurs de domaine.
+  - Planifier la virtualisation du rôle des contrôleurs de domaine.
+  - Concevoir des déploiements de contrôleurs de domaine pour la haute disponibilité.
+
+
+  ### Module 10&#58; Planification et Mise en œuvre de Services de Fichiers et de Stockage
+  Ce module explique comment planifier et mettre en œuvre des services de fichiers et de stockage.
+  #### Leçons
+  - Planification et Mise en œuvre d’iSCSI SAN.
+  - Planification et Mise en œuvre des Espaces de Stockage.
+  - Optimisation des Services de Fichiers pour les Succursales.
+
+
+  #### Laboratoire&#58; Planification et Mise en œuvre du Stockage.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre un Internet Small Computer System Interface (iSCSI) SAN.
+  - Planifier et mettre en œuvre des espaces de stockage.
+  - Optimiser des services de fichiers pour des succursales.
+
+
+  ### Module 11&#58; Conception et Mise en œuvre de la Protection de l’Accès Réseau
+  Ce module explique comment planifier et mettre en œuvre la protection de l’accès réseau.
+  #### Leçons
+  - Présentation de la Conception de la Protection de l’Accès Réseau.
+  - Conception et Mise en œuvre d’une Stratégie de Pare-feu Windows.
+  - Conception et Mise en œuvre d’une Infrastructure NAP.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre de la Protection de l’Accès Réseau
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+
+  - Décrire le processus de conception de la sécurité de l’accès réseau.
+  - Concevoir et mettre en œuvre une stratégie de pare-feu Windows.
+  - Concevoir et mettre en œuvre la protection de l’accès réseau (NAP).
+
+
+  ### Module 12&#58; Conception et Mise en œuvre des Services d’Accès à Distance
+  Ce module explique comment concevoir et mettre en œuvre les services d’accès à distance.
+  #### Leçons
+  - Planification et Mise en œuvre de DirectAccess.
+  - Planification et Mise en œuvre d’un VPN.
+  - Planification et Mise en œuvre d’un Proxy d’Application Web.
+  - Planification d’une Infrastructure d’Accès à Distance Complexe.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre de Service d’Accès Réseau
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Planifier et mettre en œuvre DirectAcess.
+  - Planifier et mettre en œuvre un réseau privé virtuel (VPN).
+  - Planifier et mettre en œuvre un proxy d’application Web.
+  - Planifier une infrastructure d’accès à distance complexe.
+

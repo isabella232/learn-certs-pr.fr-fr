@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planification d’une solution de BI.
+- skill: Planification d’une infrastructure de BI SQL Server.
+- skill: Concevoir d’un entrepôt de données.
+- skill: Conception d’une solution d’extraction, de transformation et de chargement (ETL).
+- skill: Conception de modèles de données analytiques.
+- skill: Planification d’une solution de livraison de BI.
+- skill: Conception d’une solution de Services de Génération de Rapports.
+- skill: Conception d’une solution de rapport basée dans Microsoft Excel.
+- skill: Planification d’une solution de BI pour un serveur SharePoint.
+- skill: Surveillance et optimisation d’une solution de BI.
+- skill: Exécution d’une solution de BI.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  Cette formation professionnelle enseigne aux professionnels des bases de données et de Business Intelligence (BI) à planifier et concevoir une solution de BI basée sur Microsoft SQL Server 2014 et d’autres technologies de BI Microsoft.
+
+  #### Profil de l’audience
+  Cette formation n’est pas conçue pour les étudiants qui découvrent les technologies de BI de SQL Server 2014, elle vise les professionnels des BI qui ont de l’expérience dans la mise en œuvre de solutions avec moteur de base de données SQL Server, des services d’intégration de SQL Server, des SQL Server Analysis Services et des Services de Génération de Rapports de SQL Server.
+prerequisitesSection: |-
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Une compréhension de base de la modélisation dimensionnelle (schéma STAR) pour les entrepôts de données.
+  - Des connaissances de base du matériel du serveur.
+  - La capacité à créer des paquets de Services d’Intégration qu’incluent des flux de contrôle et des flux de données.
+  - La capacité à créer un cube multidimensionnel de base avec Analysis Services.
+  - La capacité à créer un modèle tabulaire de base avec PowerPivot et Analysis Services.
+  - La capacité à créer des rapports de Services de Génération de Rapports avec Report Designer.
+  - La capacité à mettre en œuvre l’authentification et les permissions du moteur de base de données SQL Server, Analysis Services et les Services de Génération de Rapports.
+  - La familiarité aux applications SharePoint Server et Microsoft Office, surtout Excel.
+outlineSection: |-
+  ### Module 1&#58; Planification d’une Solution de BI
+  Ce module permet aux étudiants de planifier les composants d’une solution de BI.
+  #### Leçons
+  - Éléments d’une Solution de BI.
+  - Planification d’un Projet de BI.
+  - La Plateforme de BI de Microsoft.
+
+
+  #### Laboratoire&#58; Planification de Solutions BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les composants d’une Solution de BI.
+  - Identifier les composants d’une Solution de BI.
+  - Planifier un Projet de BI.
+
+
+  ### Module 2&#58; Planification d’une Infrastructure de Business Intelligence de SQL Server
+  Ce module explique comment planifier une Infrastructure de BI adéquate conformément à un ensemble de Paramètres de BI.
+  #### Leçons
+  - Considérations d’une Infrastructure de BI.
+  - Planification du Matériel d’un Entrepôt de Données.
+
+
+  #### Laboratoire&#58; Planification d’une Infrastructure de BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les composants d’une infrastructure de BI et où vous les utiliseriez.
+  - Planifier les exigences en matière de matériel pour la mise en œuvre d’un entrepôt de données.
+
+
+  ### Module 3&#58; Conception d’un Entrepôt de Données
+  Ce module décrit la façon de concevoir un entrepôt de données conformément à un ensemble d’exigences de l’utilisateur.
+  #### Leçons
+  - Présentation de la Conception d’un Entrepôt de Données.
+  - Conception de Tables Dimensionnelles.
+  - Concevoir de tables FACT
+
+
+  #### Laboratoire&#58; Conception du Schéma Logique d’un Entrepôt de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Concevoir d’un entrepôt de données.
+  - Concevoir des tables dimensionnelles.
+  - Concevoir de tables Fact.
+  - Concevoir le schéma logique d’un entrepôt de données.
+
+
+  ### Module 4&#58; Conception d’une Solution ETL
+  Cette leçon décrit comment concevoir une solution d’extraction, de transformation et de chargement (ETL).
+  #### Leçons
+  - Présentation d’ETL.
+  - Planification de l’Extraction des Données.
+  - Planification de la Transformation des Données.
+  - Planification du Chargement des Données.
+
+
+  #### Laboratoire&#58; Conception d’une Solution ETL
+  Après avoir terminé ce module, vous serez capable de&#58; 
+  - Décrire les composants d’une solution ETL,
+  - Concevoir une solution ETL.
+
+
+  ### Module 5&#58; Conception de Modèles de Données Analytiques
+  Ce module décrit comment concevoir des modèles de données analytiques pour des scénarios de BI précis.
+  #### Leçons
+  - Introduction aux Modèles de Données Analytiques.
+  - Conception de Modèles de Données Analytiques.
+
+
+  #### Laboratoire&#58; Conception de Modèles de Données Analytiques
+
+  #### Laboratoire&#58; Conception de Dimensions et de Hiérarchies
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les fonctionnalités d’un modèle de données analytique.
+  - Concevoir un modèle de données analytique.
+
+
+  ### Module 6&#58; Planification d’une Solution de Livraison de BI
+  Ce module décrit le choix d’une solution de livraison adéquate pour un scénario donné.
+  #### Leçons
+  - Considérations pour la Livraison de BI.
+  - Scénarios de Rapport Courants.
+  - Choix d’un Outil de Rapport.
+
+
+  #### Laboratoire&#58; Planification d’une Solution de Livraison de BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les composants d’une solution de livraison de BO.
+  - Décrire des scénarios de rapport courants.
+  - Choisir une solution de livraison adéquate pour un scénario donné.
+
+
+  ### Module 7&#58; Conception d’une Solution de Services de Génération de Rapports
+  Ce module explique comment concevoir une solution de services de génération de rapports.
+  #### Leçons
+  - Planification d’une Solution de Reporting.
+  - Conception de Rapports.
+  - Planification de la Cohérence des Rapports.
+
+
+  #### Laboratoire&#58; Conception d’une Solution de Services de Génération de Rapports
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Planifier une solution de services de génération de rapports.
+  - Concevoir des rapports pour des solutions de services de génération de rapports.
+  - Planifier la cohérence des rapports.
+
+
+  ### Module 8&#58; Conception d’une Solution de Rapport basée dans Excel
+  Dans ce module, les étudiants apprendront à concevoir une solution de rapport à l’aide d’Excel.
+  #### Leçons
+  - Utilisation d’Excel pour le Reporting et l’Analyse de Données.
+  - PowerPivot dans Excel.
+  - Power View dans Excel.
+
+
+  #### Laboratoire&#58; Conception d’une Solution de Rapport Excel
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire des fonctionnalités clés des solutions de rapport Excel.
+  - Utiliser PowerPivot dans Excel pour générer des rapports.
+  - Utiliser Power View dans Excel pour générer des rapports.
+
+
+  ### Module 9&#58; Planification d’une Solution de BI pour un Serveur SharePoint
+  Ce module présente l’utilisation d’un serveur SharePoint en tant que solution de BI.
+  #### Leçons
+  - Introduction aux Serveurs SharePoint en tant que Plateforme de BI.
+  - Planification de la Sécurité pour une Solution de BI pour un Serveur SharePoint.
+  - Planification de la Configuration des Services de Génération de Rapports.
+  - Planification de la Configuration de PowerPivot.
+  - Planification des Services PerformancePoint.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’une Solution de BI sur un Serveur SharePoint
+
+  #### Laboratoire&#58; Mise en œuvre des Services PerformancePoint
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les composants d’une solution de BI sur un serveur SharePoint.
+  - Planifier la sécurité pour une solution de BI sur un serveur SharePoint.
+  - Planifier des solutions de rapport pour une solution de BI sur un serveur SharePoint.
+  - Décrire les composants d’une solution PerformancePoint.
+  - Mettre en œuvre des services PerformancePoint.
+
+
+  ### Module 10&#58; Surveillance et Optimisation d’une Solution de BI
+  Lors de la conclusion de ce module, vous serez capable d’optimiser et de surveiller une solution de BI.
+  #### Leçons
+  - Présentation de la Surveillance de la BI.
+  - Surveillance et Optimisation de l’Entrepôt de Données.
+  - Surveillance et Analyse de Analysis Services.
+  - Surveillance et Optimisation des Services de Génération de Rapports.
+
+
+  #### Laboratoire&#58; Surveillance et Optimisation d’une Solution de BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les options de surveillance et d’optimisation d’une solution de BI.
+  - Surveiller et d’optimiser une solution de BI.
+
+
+  ### Module 11&#58; Exécution d’une Solution de BI
+  Lors de la conclusion de ce module, vous serez capable de planifier les opérations de gestion et de maintenance d’une solution de BI.
+  #### Leçons
+  - Présentation des Opérations de BI.
+  - Exploitation d’ETL.
+  - Exploitation des Entrepôts de Données.
+  - Exploitation d’Analysis Services.
+  - Exploitation des Services de Génération de Rapports.
+
+
+  #### Laboratoire&#58; Exploitation d’une Solution de BI
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les composants à gérer dans une solution de BI.
+  - Gérer les composants d’une solution de BI.
+

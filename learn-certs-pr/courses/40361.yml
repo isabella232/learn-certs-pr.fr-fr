@@ -1,0 +1,49 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals: MTA Exam 98-361'
+metadata:
+  title: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+  description: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+uid: course.40361
+courseNumber: '40361-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compréhension de la programmation de base.
+- skill: Compréhension de la programmation orientée objet.
+- skill: Compréhension du développement général de logiciels.
+- skill: Compréhension des applications Web.
+- skill: Compréhension des applications de bureau.
+- skill: Compréhension des bases de données.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  Cette formation MTA de trois jours vous aide à vous préparer à l’examen Microsoft Technology Associate 98-361 et à comprendre les sujets suivants&#58; la programmation de base, la programmation orientée objet, le développement général de logiciels, les applications Web, les applications de bureau et les bases de données. Cette formation tire parti du contenu qui se trouve dans la formation académique officielle de Microsoft (MOAC) pour cet examen.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Introduction à la programmation orientée objet
+
+
+  ### Module 2&#58; Compréhension du développement général de logiciels
+
+
+  ### Module 3&#58; Compréhension des applications Web
+
+
+  ### Module 4&#58; Compréhension des applications de bureau
+
+
+  ### Module 5&#58; Compréhension des bases de données
+

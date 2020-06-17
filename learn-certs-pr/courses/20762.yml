@@ -1,0 +1,413 @@
+### YamlMime:Course
+title: Developing SQL Databases
+metadata:
+  title: 'Course 20762-C: Developing SQL Databases'
+  description: 'Course 20762-C: Developing SQL Databases'
+uid: course.20762
+courseNumber: '20762-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Conception et mise en œuvre de tables.
+- skill: Description des conceptions de tables avancées.
+- skill: Garantie de l’intégrité des données grâce aux contraintes.
+- skill: Description des index, notamment les index optimisés et columnstore.
+- skill: Conception et mise en œuvre des vues.
+- skill: Conception et mise en œuvre de procédures stockées.
+- skill: Conception et mise en œuvre de fonctions définies par l’utilisateur.
+- skill: Réponse à la manipulation des données à l’aide de déclencheurs.
+- skill: Conception et mise en œuvre de tables en mémoire.
+- skill: Mise en œuvre du code géré dans SQL Server.
+- skill: Stockage et requête de données XML.
+- skill: Travail avec des données spatiales.
+- skill: Stockage et requête de documents Blobs et Text.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-762
+summary: |-
+  Cette formation de cinq jours dispensée par un instructeur fournit aux étudiants les connaissances et les compétences nécessaires pour développer une base de données Microsoft SQL Server. Cette formation vise à enseigner l’utilisation des fonctionnalités et des outils des produits de SQL Server liés au développement d’une base de données.
+
+  #### Profil de l’audience
+  Cette formation s’adresse principalement aux professionnels des TI qui souhaitent obtenir des compétences en matière de fonctionnalités et technologies de SQL Server pour le développement d’une base de données. 
+
+  Les audiences secondaires de cette formation sont les développeurs d’autres plateformes de produits qui cherchent à acquérir des compétences dans la mise en œuvre d’une base de données SQL Server.
+prerequisitesSection: |-
+  - Connaissances de base du système d’exploitation Microsoft Windows et de sa fonctionnalité de base.
+  - Connaissances professionnelles de Transact-SQL. 
+  - Connaissances professionnelles des bases de données relationnelles.
+outlineSection: |-
+  ### Module 1&#58; Introduction au développement de bases de données
+  Avant de commencer à travailler avec Microsoft SQL Server dans un rôle de développement ou d’administration, il est important de comprendre la portée de la plateforme SQL Server. Il est particulièrement utile de comprendre que SQL Server n’est pas simplement un moteur de bases de données, mais qu’il s’agit d’une plateforme complète de gestion des données des entreprises.
+
+  SQL Server fournit une plateforme de données solide pour des organisations de toutes les tailles en plus d’un ensemble d’outils complet pour rendre le développement plus facile et plus robuste.
+  #### Leçons
+  - Introduction à la plateforme SQL Server.
+  - Tâches de développement de bases de données SQL Server.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire la plateforme SQL Server, 
+  - d’utiliser les outils administratifs de SQL Server.
+
+
+  ### Module 2&#58; Conception et mise en œuvre des tables
+  Dans un système de gestion des bases de données relationnelles (RDBMS), les données de l’utilisateur et du système sont stockées dans des tables. Chaque tableau est composé d’un ensemble de rangées qui décrivent des entités et d’un ensemble de colonnes qui détiennent les attributs d’une entité. Par exemple, le tableau client peut avoir des colonnes telles que le nom du client et la limite de crédit et une rangée pour chaque client. Dans Microsoft SQL Server, les tables des logiciels de gestion des données sont contenues dans des schémas dont le concept est très similaire aux dossiers qui contiennent des fichiers dans le système d’exploitation. La conception de tables est une des tâches les plus importantes d’un développeur de base de données, car une conception de tables incorrecte entraîne l’incapacité d’interroger efficacement les données.
+
+  Après la création d’une conception appropriée, il est important de savoir mettre en œuvre la conception correctement.
+  #### Leçons
+  - Conception de tables.
+  - Types de données
+  - Travail avec des schémas.
+  - Création et modification de tables.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre de tables
+  - Conception de tables.
+  - Création de schémas.
+  - Création de tables.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de concevoir des tables à l’aide de clés de normalisation, principales et étrangères,
+  - de travailler avec des colonnes d’identité,
+  - de comprendre les types de données intégrées et des utilisateurs,
+  - d’utiliser des schémas dans vos conceptions de bases de données pour organiser des données et gérer la sécurité des objets,
+  - de travailler avec des colonnes informatiques et des tables temporaires.
+
+
+  ### Module 3&#58; Conception de tables avancées
+  La conception physique d’une base de données peut avoir une incidence significative sur la capacité de la base de données à répondre aux exigences de stockage et de performances définies par les parties prenantes. La conception de la mise en œuvre d’une base de données physique inclut la planification des groupes de fichiers, l’utilisation du partitionnement pour gérer de grandes tables et l’utilisation de la compression pour améliorer le stockage et la performance. Des tables temporelles sont une nouvelle fonctionnalité de SQL Server et proposent une solution directe à la collecte de changements dans vos données.
+  #### Leçons
+  - Partitionnement de données.
+  - Compression de données.
+  - Tables temporelles
+
+
+  #### Laboratoire &#58; Utilisation des conceptions de tables avancées
+  - Partitionnement de données.
+  - Compression de données.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les considérations pour l’utilisation de tables partitionnées dans une base de données SQL Server,
+  - de planifier l’utilisation de la compression des données dans une base de données SQL Server,
+  - d’utiliser des tables temporelles pour stocker et demander des modifications de vos données.
+
+
+  ### Module 4&#58; Assurance de l’intégrité des données grâce aux contraintes.
+  La qualité des données de votre base de données détermine largement l’utilité et l’efficacité des applications qui s’y appuient, c’est-à-dire que la réussite ou l’échec d’une organisation ou d’une entreprise commerciale pourrait en dépendre. S’assurer de l’intégration des données est une étape critique de la conservation de données de haute qualité.
+
+  Vous devriez appliquer l’intégrité des données à tous les niveaux d’une application depuis la première entrée ou collecte jusqu’au stockage. Le logiciel de gestion des données de Microsoft SQL Server fournit une gamme de fonctionnalités pour simplifier cette tâche.
+  #### Leçons
+  - Application de l’intégrité des données.
+  - Mise en œuvre de l’intégrité du domaine de données.
+  - Mise en œuvre de l’intégrité de l’entité et de l’intégrité référentielle.
+
+
+  #### Laboratoire &#58; Utilisation de l’intégrité des données grâce à des contraintes
+  - Ajout de contraintes.
+  - Test des contraintes.
+  
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer les options visant à imposer l’intégrité des données et les niveaux auxquels elles doivent être appliquées,
+  - de mettre en œuvre l’intégrité du domaine grâce à des options telles que des contraintes de vérification, uniques et par défaut,
+  - de mettre en œuvre l’intégrité référentielle grâce à de contraintes principales et étrangères clés.
+
+
+  ### Module 5&#58; Introduction aux index
+  Un index est un ensemble de pages associées à une table. Les index servent à améliorer la performance des requêtes ou à imposer l’unicité. Avant d’apprendre à mettre en œuvre des index, il est utile de comprendre leur fonctionnement, l’efficacité des différents types de données lors de leur utilisation dans des index et la construction des index à partir de plusieurs colonnes. Ce module traite la structure des tables qui n’ont pas d’index et les différents types d’index disponibles dans Microsoft SQL Server.
+  #### Leçons
+  - Concepts de base de l’indexation.
+  - Types de données et index.
+  - Index en tas, en groupes et seuls.
+  - Colonne unique et index composites.
+
+
+  #### Laboratoire &#58; Mise en œuvre des index
+  - Création d’un tas.
+  - Création d’un index en groupe.
+  - Création d’un index couvert.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer les concepts de base de l’indexation,
+  - d’évaluer l’index à utiliser pour différents types de données,
+  - de décrire la différence entre des index en colonne unique ou composites.
+
+
+  ### Module 6&#58; Conception de stratégies d’index optimisées
+  Les index jouent un rôle important, car ils permettent à SQL Server de récupérer des données d’une base de données rapidement et efficacement. Ce module traite de sujets avancés relatifs aux index, notamment la couverture des index, la clause INCLUDE, les indicateurs de requêtes, le remplissage et le facteur de remplissage, les statistiques, l’utilisation des DMO, l’indicateur de réglage de base de données et le Query Store.
+  #### Leçons
+  - Stratégies relatives à l’index.
+  - Gestion des index.
+  - Plans d’exécution.
+  - L’assistant de réglage du moteur de base de données.
+  - Query Store.
+
+
+  #### Laboratoire &#58; Optimisation des index
+  - Utilisation de Query Store.
+  - Index en tas et en groupe.
+  - Création d’un index couvert.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de savoir ce qu’est la couverture d’un index et quand en utiliser une,
+  - de connaître les problèmes liés à la gestion des index,
+  - de mettre en œuvre des plans d’exécution réels et estimés,
+  - d’utiliser l’assistance de réglage de la base de données pour améliorer la performance des requêtes,
+  - d’utiliser Query Store pour améliorer la performance des requêtes.
+
+
+  ### Module 7&#58; Index columnstore
+  Présentés dans Microsoft SQL Server 2012, les index columnstore sont utilisés dans de grandes solutions d’entrepôts de données par de nombreuses organisations. Ce module met en avant les avantages de l’utilisation de ces index dans de grands ensembles de données, les améliorations apportées aux index columnstore dans SQL Server 2016 et les considérations nécessaires pour utiliser les index columnstore efficacement dans vos solutions.
+
+  #### Leçons
+  - Introduction aux index columnstore
+  - Création d’index columnstore
+  - Travail avec des index columnstore
+
+
+  #### Laboratoire &#58; Utilisation des index columnstore
+  - Création d’un index columnstore.
+  - Création d’un tableau columnstore à mémoire optimisée.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les index columnstore et d’identifier des scénarios adaptés à leur utilisation,
+  - de créer des index columnstore en groupe et seuls,
+  - de décrire les considérations relatives à l’utilisation des index columnstore.
+
+
+  ### Module 8&#58; Conception et mise en œuvre des vues
+  Ce module décrit la conception et la mise en œuvre des vues. Une vue est un type particulier de requête (qui est stockée et peut être utilisée dans d’autres requêtes) comme une table. Grâce à une vue, seule la définition de la requête est stockée sur le disque, non l’ensemble de résultats. La seule exception est représentée par les vues indexées, lorsque l’ensemble de résultats est également stocké sur le disque, tout comme une table.
+
+  Les vues simplifient la conception d’une base de données en fournissant une couche d’abstraction et en cachant la complexité des jointures de tables. Les vues sont également un moyen de sécuriser vos données en donnant aux utilisateurs la permission d’utiliser une vue sans leur donner la permission d’utiliser les objets sous-jacents. Cela signifie que les données peuvent rester privées et peuvent n’être vues que par des utilisateurs appropriés.
+  #### Leçons
+  - Introduction aux vues.
+  - Création et gestion des vues.
+  - Considérations de performance pour les vues.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre des vues
+  - Création de vues standard.
+  - Création d’une vue qui peut être mise à jour.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de comprendre le rôle des vues dans la conception des bases de données,
+  - de créer et gérer des vues,
+  - de comprendre les considérations de performance avec les vues.
+
+
+  ### Module 9&#58; Conception et mise en œuvre des procédures stockées
+  Ce module décrit la conception et la mise en œuvre des procédures stockées.
+  #### Leçons
+  - Introduction aux procédures stockées.
+  - Travail avec des procédures stockées.
+  - Mise en œuvre de procédures stockées paramétrées.
+  - Contrôle du contexte d’exécution.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre des procédures stockées
+  - Création de procédures stockées.
+  - Création de procédures stockées paramétrées.
+  - Modifications du contexte d’exécution des procédures stockées.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de comprendre la nature et les avantages des procédures,
+  - de concevoir, créer et modifier des procédures stockées,
+  - de contrôler le contexte d’exécution des procédures stockées,
+  - de mettre en œuvre des procédures stockées qui utilisent des paramètres.
+
+
+  ### Module 10&#58; Conception et mise en œuvre des fonctions définies par l’utilisateur.
+  Les fonctions sont des routines utilisées pour encapsuler fréquemment la logique utilisée. Plutôt que de répéter la logique de la fonction à de nombreux endroits, le code peut appeler la fonction. Cela rend le code plus facile à maintenir et à déboguer.
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre des fonctions définies par l’utilisateur (UDF) qui appliquent des règles d’entreprise ou la cohérence des données. Vous apprendrez également à modifier et à maintenir des fonctions existantes.
+  #### Leçons
+  - Présentation des fonctions.
+  - Conception et mise en œuvre des fonctions scalaires.
+  - Conception et mise en œuvre des fonctions de table.
+  - Considérations relatives à la mise en œuvre des fonctions.
+  - Alternatives aux fonctions.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre des fonctions définies par l’utilisateur
+  - Format des numéros de téléphone.
+  - Modification d’une fonction existante.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire différents types de fonctions,
+  - de concevoir et mettre en œuvre des fonctions scalaires,
+  - de concevoir et mettre en œuvre des fonctions de table (TVF),
+  - de décrire les considérations relatives à la mise en œuvre des fonctions,
+  - de décrire des alternatives aux fonctions.
+
+
+  ### Module 11&#58; Réponse à la manipulation des données par le biais de déclencheurs
+  Le Data Manipulation Language (DML) déclenche des outils puissants que vous pouvez utiliser pour imposer une logique de domaine, d’entité, d’intégrité des données référentielles et d’entreprise. L’application de l’intégrité vous aide à construire des applications fiables. Dans ce module, vous découvrirez les déclencheurs DML, leur application de l’intégrité des données, les différents types de déclencheurs disponibles et la façon de les définir dans votre base de données.
+
+
+  #### Leçons
+  - Conception des déclencheurs de DML.
+  - Mise en œuvre des déclencheurs de DML.
+  - Concepts avancés de déclenchement.
+
+
+  #### Laboratoire &#58; Réponse à la manipulation des données à l’aide de déclencheurs
+  - Création et test du déclencheur d’audit.
+  - Amélioration du déclencheur d’audit.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de concevoir des déclencheurs DML,
+  - de mettre en œuvre des déclencheurs DML,
+  - d’expliquer les concepts avancés de déclencheurs DML, tels que l’imbrication et la récursivité.
+
+
+  ### Module 12&#58; Utilisation de tables à mémoire
+  Le logiciel de gestion des données de Microsoft SQL Server 2014 a introduit les fonctionnalités de processus de transaction en ligne en mémoire (OLTP) pour améliorer la performance des charges de travail OLTP. SQL Server ajoute plusieurs améliorations, telles que la capacité à modifier une table à mémoire optimisée sans la recréer. Les tables à mémoire optimisée sont principalement stockées dans la mémoire, permettant ainsi une performance améliorée en réduisant l’accès au disque dur.
+
+  Les procédures stockées compilées de façon native améliorent d’autant plus la performance par rapport au Transact-SQL interprété traditionnel.
+  #### Leçons
+  - Tables à mémoire optimisée.
+  - Procédures stockées compilées de façon native.
+
+
+  #### Laboratoire &#58; Utilisation des capacités de la base de données à mémoire
+  - Utilisation des tables à mémoire optimisée.
+  - Utilisation des procédures stockées compilées de façon native.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - d’utiliser des tables à mémoire optimisée pour améliorer la performance des charges de travail liées aux verrous,
+  - d’utiliser des procédures stockées compilées de façon native.
+
+
+  ### Module 13&#58; Mise en œuvre du code géré dans SQL Server
+  En tant que professionnel SQL Server, on vous demandera probablement de créer des bases de données qui répondent aux besoins de l’entreprise. Il est possible de répondre à la plupart des exigences à l’aide de Transact-SQL. Cependant, vous aurez peut-être occasionnellement besoin de capacités supplémentaires qui ne peuvent se trouver que dans le code Common Language Runtime (CLR).
+
+  Étant donné que cette fonctionnalité est ajoutée à SQL Server avec chaque nouvelle mise sur le marché, la nécessité d’utiliser un code géré diminue. Cependant, vous devrez parfois créer des regroupements, des procédures stockées, des déclencheurs, des fonctions définies par l’utilisateur ou d’autres types définis par l’utilisateur. Vous pouvez utiliser tout langage du .NET Framework pour mettre au point ces objets.
+
+  Dans ce module, vous apprendrez à utiliser le code géré CLR pour créer des objets de base de données définis par l’utilisateur pour SQL Server.
+  #### Leçons
+  - Introduction à l’intégration CLR dans SQL Server.
+  - Mise en œuvre et publication des ensembles CLR.
+
+
+  #### Laboratoire &#58; Mise en œuvre du code géré dans SQL Server
+  - Évaluation du code CLR proposé.
+  - Création d’une fonction CLR scalaire.
+  - Création d’une fonction CLR tabulaire.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - d’expliquer l’importance de l’intégration CLR dans SQL Server, 
+  - de mettre en œuvre et publier des ensembles CLR à l’aide des outils de données de SQL Server (SSDT).
+
+
+  ### Module 14&#58; Stockage et interrogation des données XML dans SQL Server
+  XML fournit des règles d’encodage des documents sous une forme lisible par une machine. C’est une norme qui a été largement adoptée pour la représentation des structures de données plutôt que pour l’envoi de documents non structurés. Les serveurs qui exécutent le logiciel de gestion des données de Microsoft SQL Server doivent souvent utiliser XML pour échanger des données avec d’autres systèmes, car d’autres outils de SQL Server fournissent une interface basée sur XML.
+  SQL Server propose une manipulation extensive de XML, pour le stockage et les interrogations. Ce module présente XML, montre comment stocker des données XML dans SQL Server et comment interroger les données XML.
+  La capacité à interroger les données XML évite directement le besoin d’extraire des données dans un format relationnel avant l’exécution des requêtes Structure Query Language (SQL). Pour traiter efficacement XML, vous devez être capable d’interroger les données. XML de plusieurs façons &#58; renvoyer des données relationnelles existantes sous forme de XML et interroger des données étant déjà en XML.
+  #### Leçons
+  - Introduction à XML et aux schémas XML.
+  - Stockage de données et de schémas XML dans SQL Server.
+  - Mise en œuvre du type de données XML.
+  - Utilisation de l’instruction Transact-SQL FOR XML.
+  - Démarrage avec XQuery.
+  - Découpage de XML.
+
+
+  #### Laboratoire &#58; Stockage et interrogation de données XML dans SQL Server
+  - Détermination du moment approprié à l’utilisation de XML.
+  - Test du stockage de données XML dans des variables.
+  - Utilisation des schémas XML.
+  - Utilisation des requêtes FOR XML.
+  - Création d’une procédure stockée pour renvoyer en XML.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire XML et les schémas XML,
+  - de stocker des données XML et les schémas XML associés dans SQL Server,
+  - de mettre en œuvre des index XML dans SQL Server,
+  - d’utiliser l’instruction Transact-SQL FOR XML,
+  - de travailler avec des requêtes XQuery de base,
+
+
+  ### Module 15&#58; Stockage et requête de données spatiales dans SQL Server
+  Ce module décrit les données spatiales et la façon de les mettre en œuvre dans SQL Server.
+  #### Leçons
+  - Introduction aux données spatiales.
+  - Travail avec les types de données spatiales SQL Server.
+  - Utilisation des données spatiales dans des applications.
+
+
+  #### Laboratoire &#58; Travail avec les données spatiales SQL Server
+  - Familiarisation avec le type de données géométriques.
+  - Ajout de données spatiales à une table existante.
+  - Localisation d’emplacements proches.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire comment les données spatiales peuvent être stockées dans SQL Server,
+  - d’utiliser des méthodes de base des types de données GEOMETRY et GEOGRAPHY,
+  - d’interroger des bases de données contenant des données spatiales.
+
+
+  ### Module 16&#58; Stockage et interrogation de documents Blobs et Text dans SQL Server
+  Traditionnellement, les bases de données étaient utilisées pour stocker des informations sous forme de valeurs simples (telles que des nombres entiers, des dates et des chaînes) qui contrastent avec des formats de données plus complexes, tels que des documents, des feuilles de calcul, des fichiers d’images et de vidéos. Étant donné que les systèmes soutenus par les bases de données sont devenus de plus en plus complexes, les administrateurs ont trouvé nécessaire d’intégrer ces données de fichiers plus complexes aux données structurées des tables de bases de données. Par exemple, dans une base de données de produits, il peut être utile d’associer un registre de produits à un manuel de service ou à des vidéos instructives pour ce produit. SQL Server propose plusieurs façons d’intégrer ces fichiers, qui sont souvent connus sous le nom de Binary Large Objects (BLOB), permettant que leur contenu soit indexé et inclus dans les résultats de recherches. Dans ce module, vous apprendrez à concevoir et optimiser une base de données comprenant des BLOB.
+  #### Leçons
+  - Considérations pour les données des BLOB.
+  - Travail avec FILESTREAM.
+  - Utilisation de la recherche de textes complets.
+
+
+  #### Laboratoire &#58; Stockage et requête de documents BLOB et Text dans SQL Server
+  - Autorisation et utilisation des colonnes FILESTREAM.
+  - Autorisation et utilisation des tables de fichiers.
+  - Utiliser d’un index de texte complet.
+
+  Après avoir terminé ce module, vous serez capables&#58; 
+  - de décrire les considérations de conception des bases de données qui intègrent des données BLOB.
+  - de décrire les avantages et les considérations de conception pour l’utilisation de FILESTREAM pour stocker des données BLOB sur un système de fichiers Windows.
+  - de décrire les avantages de l’utilisation de l’indexation de texte complet et de la recherche sémantique et d’expliquer l’utilisation de ces fonctionnalités pour chercher des données SQL Server, y compris des données non structurées.
+
+
+  ### Module 17&#58; Simultanéité du SQL Server
+  Ce module explique comment nommer, déclarer, attribuer des valeurs et utiliser des variables. Il décrit également comment stocker des données dans une rangée de données.
+  Le contrôle de la simultanéité est une fonctionnalité essentielle des systèmes de bases de données multiutilisateurs. Il permet aux données de rester cohérentes lorsque de nombreux utilisateurs modifient des données en même temps. Ce module couvre la mise en œuvre de la simultanéité dans Microsoft SQL Server. Vous apprendrez comment SQL Server met en œuvre des contrôles de la simultanéité et les différentes façons de configurer et travailler avec des paramètres de simultanéité.
+
+  #### Leçons
+  - Simultanéité et transactions.
+  - Verrouillage de l’intérieur.
+
+
+  #### Laboratoire &#58; Simultanéité du SQL Server
+  - Mise en œuvre de l’isolation instantanée.
+  - Mise en œuvre du verrouillage au niveau des partitions.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de décrire la simultanéité et les transactions dans SQL Server,
+  - de décrire le verrouillage dans SQL Server.
+
+
+  ### Module 18&#58; Performance et suivi
+  Ce module explique comment nommer, déclarer, attribuer des valeurs et utiliser des variables. Il décrit également comment stocker des données dans une rangée de données.
+  Ce module étudie la mesure et le suivi des performances de vos bases de données SQL Server. Les deux premières leçons étudient les événements étendus SQL Server, un système de gestion des événements flexible et léger intégré dans le moteur de base de données de Microsoft SQL Server. Ces leçons se concentrent sur les concepts architecturaux, les stratégies de dépannage et les scénarios d’utilisation.
+  #### Leçons
+  - Événements étendus.
+  - Travail avec des événements étendus.
+  - Statistiques des requêtes en direct.
+  - Optimisation de la configuration des fichiers de la base de données.
+  - Mesures.
+
+
+  #### Laboratoire &#58; Suivi, traçage et définition d’un point de départ
+  - Collecte et analyse des données à l’aide des événements étendus.
+  - Mise en œuvre de la méthodologie de définition d’un point de départ.
+
+  Après avoir terminé ce module, vous serez capables&#58;
+  - de comprendre les événements étendus et leur utilisation,
+  - de travailler avec des événements étendus,
+  - de comprendre les statistiques de requêtes en direct,
+  - d’optimiser la configuration des fichiers de vos bases de données,
+  - d’utiliser les DMV et le suivi de la performance pour créer des points de départ et rassembler des mesures de la performance.
+

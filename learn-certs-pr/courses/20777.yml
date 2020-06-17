@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: course.20777
+courseNumber: '20777-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire l’objectif et l’architecture d'Azure Cosmos DB.
+- skill: Décrire la conception de documents et de collections dans le but de répondre aux exigences des entreprises et l’utilisation de SQL API pour développer des applications qui utilisent ces documents.
+- skill: Décrire la création des fonctions définies par l’utilisateur, des procédures stockées et des déclencheurs.
+- skill: Décrire comment régler une base de données et comment surveiller la performance.
+- skill: Décrire comment créer des modèles de bases de données graphiques efficaces à l’aide de Cosmos DB.
+- skill: Décrire l’utilisation d’Azure Search, de HDInsight, d’Azure Databricks et de Power BI avec Cosmos DB pour interroger et analyser de grands lots de données.
+- skill: Décrire l’utilisation de Cosmos DB en tant que source et puits pour les données de streaming.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure-cosmos-db
+exams:
+- uid: exam.70-777
+summary: |-
+  Cette formation de trois jours dispensée par un instructeur est destinée aux professionnels des bases de données qui cherchent à mettre en œuvre une solution Cosmos DB.
+
+  #### Profil de l’audience
+  Cette formation est essentiellement destinée aux développeurs et architectes en bases de données (professionnels des TI, développeurs et travailleurs informatiques) qui prévoient la mise en œuvre de solutions de grands lots de données sur Azure à l’aide de Cosmos DB.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour créer et configurer des applications évolutives indépendantes d’une API de Cosmos DB.
+  - Une connaissance de base de l’API SQL de Cosmos DB.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Azure Cosmos DB
+  Description de l’objectif et de l’architecture de Cosmos DB.
+  #### Leçons
+  - Vérification des structures de bases de données noSQL.
+  - Migration des données et des applications vers Cosmos DB.
+  - Gestion des données dans Cosmos DB.
+
+
+  #### Laboratoire &#58; Création et utilisation d’une base de données SQL API dans Cosmos DB
+  - Création et configuration d’une base de données Cosmos DB.
+  - Migration des données d’une base de données Mongo DB vers Cosmos DB.
+  - Utilisation de SQL API pour accéder aux données.
+  - Protection des données dans une base de données Cosmos DB.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer et configurer une Cosmos DB,
+  - de faire migrer des données d’une base de données Mongo DB vers une base de données Cosmos DB,
+  - de décrire l’accès aux données à l’aide de SQL API,
+  - de décrire comment protéger des données dans une Cosmos DB.
+
+
+  ### Module 2&#58; Conception et mise en œuvre d’applications de bases de données SQL API
+  Ce module décrit comment concevoir des documents et des collections pour répondre aux exigences des entreprises et comment utiliser SQL API pour développer des applications qui utilisent ces documents.
+  #### Leçons
+  - Documenter des modèles dans Cosmos DB.
+  - Rechercher des données dans une base de données SQL API.
+  - Rechercher et maintenir des données de façon programmée.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre d’applications de base de données SQL API
+  - Concevoir la structure et la stratégie de partitionnement du catalogue de produits pour le système de vente au détail.
+  - Importer des données dans le catalogue de produits.
+  - Rechercher des informations dans le catalogue de produits.
+  - Conserver des niveaux de stocks dans le catalogue de produits.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de concevoir des structures de documents noSQL qui prennent en charge les exigences des entreprises et favorisent des opérations efficaces,
+  - de décrire l’exécution des requêtes SQL dans une base de données SQL API,
+  - d’expliquer comment insérer, modifier, supprimer et rechercher des données de manière programmée dans une base de données SQL API.
+
+
+  ### Module 3&#58; Mise en œuvre des opérations côté serveur
+  Décrire la création des fonctions définies par l’utilisateur, des procédures stockées et des déclencheurs.
+  #### Leçons
+  - Programmation côté serveur avec Cosmos DB.
+  - Création et utilisation de procédures stockées.
+  - Utilisation de déclencheurs pour conserver l’intégrité des données.
+
+
+  #### Laboratoire &#58; Rédaction de fonctions définies par l’utilisateur, de procédures stockées et de déclencheurs
+  - Conception et mise en œuvre de la structure des documents et des collections.
+  - Mise en œuvre de la fonctionnalité de panier d'achat dans le système de vente au détail en ligne.
+  - Extension du système de vente au détail en ligne afin de créer des commandes à partir des éléments se trouvant dans le panier d'achat.
+  - Extension supplémentaire du système de vente au détail en ligne pour permettre aux clients d'afficher les commandes et les commandes en attente.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire la façon dont Cosmos DB vous permet de mettre en œuvre des opérations côté serveur en rédigeant un code JavaScript,
+  - de décrire l’utilisation de JavaScript Query API pour mettre en œuvre des opérations de transactions à l’aide de procédures stockées,
+  - de décrire la création de déclencheurs que vous pouvez utiliser pour maintenir l’intégrité lors de l’insertion, de la mise à jour et de la suppression de documents.
+
+
+  ### Module 4&#58; Optimisation et suivi de la performance
+  Description de la façon d’optimiser une base de données et de la façon de surveiller la performance.
+  #### Leçons
+  - Optimisation de la performance d'une base de données.
+  - Suivi de la performance d’une base de données.
+
+
+  #### Laboratoire &#58; Synchronisation d’une base de données et suivi de la performance
+  - Obtenir les statistiques d’exécution.
+  - Examiner l’impact potentiel des différents modèles de cohérence sur la production et la latence.
+  - Étudier les effets des déclencheurs sur la performance.
+  - Surveiller la performance et synchroniser la clé de partition.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire comment régler la configuration d’une base de données et les collections pour la meilleure performance,
+  - de décrire l’évaluation de la performance d’une base de données de documents et d’identifier les options d’amélioration de la production.
+
+
+  ### Module 5&#58; Conception et mise en œuvre d’une base de données graphique
+  Ce module décrit la création de modèles de bases de données graphiques efficaces à l’aide de Cosmos DB.
+  #### Leçons
+  - Dessiner des modèles de bases de données dans Cosmos DB.
+  - Concevoir des modèles de bases de données graphiques pour une opération efficace.
+
+
+  #### Laboratoire &#58; Conception et mise en œuvre d’une base de données graphique
+  - Mise en œuvre d’un moteur de recommandations pour les clients.
+  - Enregistrement des informations d’achat des produits.
+  - Interrogation d’une base de données graphique pour obtenir des analyses.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire les fonctionnalités fournies par Cosmos DB pour la mise en œuvre des bases de données graphiques,
+  - de concevoir des structures de graphiques noSQL qui prennent en charge les exigences des entreprises et permettent des opérations efficaces.
+
+
+  ### Module 6&#58; Interrogation et analyse du Big Data avec Cosmos DB
+  Ce module décrit l’utilisation d’Azure Search et de HDInsight avec Cosmos DB pour interroger et analyser le Big Data.
+  #### Leçons
+  - Intégration de Cosmos DB à Azure Search pour optimiser les requêtes.
+  - Analyse de données dans une base de données Cosmos DB à l’aide d’Apache Spark.
+  - Visualisation de données dans une base de données Cosmos DB.
+
+
+  #### Laboratoire &#58; Interrogation et analyse de Big Data à l’aide de Cosmos DB
+  - Extension des capacités de recherche de produits.
+  - Exécution du traitement de fin de mois.
+  - Visualisation des données de vente.
+  - Exploration des données de vente.
+
+  À la fin de ce module, les étudiants seront capables&#58;
+  - de décrire l’intégration de Cosmos DB à Azure Search pour exécuter un traitement efficace des interrogations dans le Big Data,
+  - de décrire l’analyse des grands lots de données détenues dans Cosmos DB à l’aide d’Apache Spark,
+  - de décrire la visualisation des données dans Cosmos DB à l’aide des carnets Jupyter, de Power BI et d’Azure Databricks.
+
+
+  ### Module 7&#58; Mise en œuvre du traitement du flux à l’aide de Cosmos DB
+  Ce module décrit l’utilisation de Cosmos DB en tant que source et puits pour les données de streaming.
+  #### Leçons
+  - Travailler avec l’alimentation de changement Cosmos DB.
+  - Intégrer Cosmos DB aux solutions de streaming.
+
+
+  #### Laboratoire &#58; Utilisation de Cosmos DB avec le traitement du streaming
+  - Gestion des commandes.
+  - Conservation des données d’analyse des stocks.
+  - Affichage du roulement des recettes pour une période donnée.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de décrire l’alimentation de changement de Cosmos DB et son utilisation pour traiter les données efficacement,
+  - d’expliquer comment intégrer Cosmos DB à des solutions de streaming telles que Apache Kafka, Apache Spark et Azure Stream Analytics.
+

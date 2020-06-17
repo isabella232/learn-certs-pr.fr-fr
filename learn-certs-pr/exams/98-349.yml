@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Windows Operating System Fundamentals
+metadata:
+  title: 'Exam 98-349: Windows Operating System Fundamentals'
+  description: 'Exam 98-349: Windows Operating System Fundamentals'
+uid: exam.98-349
+displayName: 98-349
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent avoir une connaissance des concepts fondamentaux du système d'exploitation Windows dans un environnement Windows 10.
+
+  <div style='font-weight&#58; bold;'><br/>Depuis le 31 août 2016, cet examen est mis à jour pour Windows 10, notamment en supprimant tous les outils qui ne sont pas supportés sur Windows 10. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 98-349.</div>
+subTitle: Les candidats à cet examen doivent avoir une connaissance des concepts fondamentaux du système d'exploitation Windows dans un environnement Windows 10.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Comprendre les configurations du système d’exploitation (15-20%)
+- Installer et mettre à niveau le système client (15-20%)
+- Gérer les applications (15-20%)
+- La gestion des fichiers et des dossiers (15-20%)
+- Gérer les équipements (15-20%)
+- Comprendre la maintenance du système d’exploitation (15-20%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40349
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-operating-system-fundamentals
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

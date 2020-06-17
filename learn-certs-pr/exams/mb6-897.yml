@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Retail
+metadata:
+  title: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+  description: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+uid: exam.mb-6-897
+displayName: MB6-897
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les candidats à cet examen sont des partenaires Microsoft Dynamics 365 qui configurent et utilisent la fonctionnalité de l'application dans Microsoft Dynamics 365 pour la vente au détail et fournissent une assistance pour l'application.
+
+  Les candidats maîtrisent généralement bien les opérations de vente au détail et les points de vente (POS), ainsi que l'expérience du déploiement, de la maintenance et de l'utilisation de Microsoft Dynamics 365 for Retail.
+subTitle: Les candidats à cet examen sont des partenaires Microsoft Dynamics 365 qui configurent et utilisent la fonctionnalité de l'application dans Microsoft Dynamics 365 pour la vente au détail et fournissent une assistance pour l'application.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=MB6-897&examname=Microsoft%20Dynamics%20365%20for%20Retail&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-897
+locales:
+- en
+levels:
+- beginner
+skills:
+- Mettre en place et configurer les paramètres d'organisation (20-25%)
+- Mise en place et configuration de point de vente (10-15%)
+- Installer et configurer les produits (15-20%)
+- Gestion des opérations de vente au détail (15-20%)
+- Exécution d'activités de vente au détail (25-30%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

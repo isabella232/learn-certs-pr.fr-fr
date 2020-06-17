@@ -1,0 +1,144 @@
+### YamlMime:Course
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Course 55264-A: Introduction to Programming Using Python'
+  description: 'Course 55264-A: Introduction to Programming Using Python'
+uid: course.55264
+courseNumber: '55264-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Création d'opérations à l’aide de types de données et d’opérateurs.
+- skill: Création d'opérations de flux de contrôle.
+- skill: Création d'opérations avec des entrées et des sorties.
+- skill: Rédaction et documentation d'un code pour résoudre un problème spécifique.
+- skill: Dépannage des problèmes et rédaction d'opérations de gestion des erreurs.
+- skill: Exécution d'opérations à l’aide de modèles et d’outils.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-381
+summary: |-
+  Cette formation de cinq jours dispensée par un instructeur est destinée aux étudiants qui souhaitent savoir comment rédiger un code Python qui résout logiquement un problème donné. Les candidats apprendront à rédiger, à déboguer, à maintenir et à enregistrer le code Python. Ce matériel servira de préparation aux étudiants qui souhaitent passer l’examen de certification Microsoft 98-381.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux jeunes programmeurs et aux programmeurs expérimentés qui souhaitent apprendre à rédiger et à dépanner le code Python. C’est la formation Microsoft recommandée pour la préparation à l’examen 98-381. Une expérience en programmation préalable n’est pas requise, mais est recommandée.
+prerequisitesSection: |-
+  Avant d’assister à cette formation, les étudiants doivent avoir&#58;
+  - de l’expérience dans l’exécution d’opérations de ligne de commande sur des ordinateurs Windows, Linux ou Mac.
+  - six mois d’expérience dans la rédaction de codes dans n’importe quelle langue de programmation (recommandé).
+outlineSection: |-
+  ### Module 1&#58; Exécution d’opérations à l’aide de types de données et d’opérateurs
+  Ce module explique comment utiliser les opérateurs et les types de données Python pour obtenir un résultat spécifique.
+  #### Leçons
+  - Attribuer des types de données aux variables.
+  - Exécuter des opérations sur des données et des types de données.
+  - Exécuter des opérations arithmétiques, comparatives et logiques.
+  - Vérification
+
+
+  #### Laboratoire &#58; Exécuter des opérations à l’aide de types de données et d’opérateurs
+  - Attribuer des types de données aux variables.
+  - Exécuter des opérations sur des données et des types de données.
+  - Exécuter des opérations arithmétiques, comparatives et logiques.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Attribuer des types de données aux variables.
+  - d’exécuter des opérations sur des données et des types de données,
+  - Exécuter des opérations arithmétiques, comparatives et logiques.
+
+
+  ### Module 2&#58; Contrôler le flux avec des décisions et des boucles
+  Ce module explique comment utiliser les opérations de flux de contrôle et de bouclage dans Python.
+  #### Leçons
+  - Construire et analyser des segments de code qui utilisent des instructions de branchement.
+  - Construire et analyser des segments de code qui procèdent à des itérations.
+  - Vérification
+
+
+  #### Laboratoire &#58; Flux de contrôle avec des décisions et des boucles
+  - Utiliser des opérations de branchement.
+  - Utiliser des opérations par itération.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer des opérations de branchement,
+  - de création des opérations par itération.
+
+
+  ### Module 3&#58; Procéder à des opérations d'entrée et de sortie.
+  Ce module explique comment construire des opérations d'entrée et de sortie à l’aide de fichiers ou à partir de la console.
+  #### Leçons
+  - Créer des segments de code Python qui exécutent des opérations d'entrée et de sortie des fichiers.
+  - Créer des segments de code Python qui exécutent des opérations d'entrée et de sortie des consoles.
+  - Vérification
+
+
+  #### Laboratoire &#58; Exécuter des opérations d'entrée et de sortie
+  - Exécuter des opérations d'entrée et de sortie à l’aide de fichiers.
+  - Exécuter des opérations d'entrée et de sortie à partir de la console.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’utiliser des fichiers pour des opérations d'entrée et de sortie,
+  - d’utiliser la console pour exécuter des opérations d'entrée et de sortie.
+
+
+  ### Module 4&#58; Documenter et structurer le code
+  Ce module explique comment structurer et documenter un code Python bien rédigé.
+  #### Leçons
+  - Construire et analyser des segments de code.
+  - Documenter des segments de code à l’aide des chaînes de commentaires et de documentation.
+  - Vérification
+
+
+  #### Laboratoire &#58; Documenter et structurer le code
+  - Construire et analyser des segments de code.
+  - Documenter des segments de code.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de créer des segments de code,
+  - Documenter des segments de code.
+
+
+  ### Module 5&#58; Exécution du dépannage et de la gestion des erreurs
+  Ce module explique comment exécuter des opérations de dépannage et de gestion des erreurs dans Python.
+  #### Leçons
+  - Analyser, détecter et réparer des segments de code qui présentent des erreurs.
+  - Analyser et construire des segments de code qui gèrent les exceptions.
+  - Vérification
+
+
+  #### Laboratoire &#58; Exécuter le dépannage et la gestion des erreurs
+  - Analyser, détecter et réparer des segments de code qui présentent des erreurs.
+  - Analyser et construire des segments de code qui gèrent les exceptions.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - de détecter et réparer les erreurs du code.
+  - de créer un code de gestion des erreurs.
+
+
+  ### Module 6&#58; Exécution d’opérations à l’aide de modules et d’outils
+  Ce module explique comment utiliser des modules intégrés.
+  #### Leçons
+  - Utiliser des modules intégrés pour exécuter des opérations de base.
+  - Utiliser des modules intégrés pour exécuter des opérations complexes.
+  - Vérification
+
+
+  #### Laboratoire &#58; Exécuter des opérations à l’aide de modules et d’outils.
+  - Utiliser des modules intégrés pour exécuter des opérations de base.
+  - Utiliser des modules intégrés pour exécuter des opérations complexes.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - d’utiliser des modules intégrés pour exécuter des opérations du système d’exploitation, de la date et mathématiques.
+
+  #### Lecture supplémentaire  
+  Pour vous aider à vous préparer à ce cours, révisez les ressources suivantes&#58;
+  - Objectifs du test d’entraînement Microsoft en vue de l’examen 98-381
+

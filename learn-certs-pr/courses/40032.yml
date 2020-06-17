@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les infrastructures du réseau.
+- skill: Comprendre le matériel du réseau.
+- skill: Comprendre les protocoles et les services.
+- skill: Comprendre les couches de sécurité.
+- skill: Comprendre la sécurité du système d’exploitation.
+- skill: Comprendre la sécurité du réseau.
+- skill: Comprendre le logiciel de sécurité.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  Ce lot de 2 formations de cinq jours vous prépare aux examens Microsoft Technology Associate 98-366 et 98-367 et vous fournit une compréhension des sujets suivants&#58; les infrastructures du réseau, le matériel du réseau, les protocoles et services, les couches de la sécurité, la sécurité du système d’exploitation, la sécurité du réseau, le logiciel de sécurité. Ces formations tirent parti du contenu figurant dans la formation académique officielle de Microsoft (MOAC) pour ces examens.
+
+  #### Profil de l’audience
+  La Microsoft Technologie Associate (MTA) est la toute dernière suite d’examens de certification à la technologie de Microsoft qui valide les connaissances de base nécessaires à la construction d’une carrière à l’aide des technologies Microsoft. Ce programme est un point d’accès adéquat à une future carrière dans la technologie et se base sur une expérience ou une formation pratique, mais pas sur une expérience professionnelle.
+prerequisitesSection: |-
+  Il n’y a aucun prérequis à cette formation.
+outlineSection: |-
+  ### Module 1&#58; Compréhension de la mise en réseau locale
+
+
+  ### Module 2&#58; Définition des réseaux avec le modèle OSI
+
+
+  ### Module 3&#58; Compréhension des réseaux câblés et sans-fil
+
+
+  ### Module 4&#58; Compréhension du protocole Internet
+
+
+  ### Module 5&#58; Mise en œuvre de TCP/IP dans la ligne de commande
+
+
+  ### Module 6&#58; Travail avec des services de réseau avancés
+
+
+  ### Module 7&#58; Compréhension des réseaux étendus
+
+
+  ### Module 8&#58; Définition de l’infrastructure du réseau et de la sécurité du réseau
+
+
+  ### Module 9&#58; Compréhension des couches de sécurité
+
+
+  ### Module 10&#58; Authentification, autorisation et comptabilité
+
+
+  ### Module 11&#58; Compréhension de la politique en matière de sécurité
+
+
+  ### Module 12&#58; Compréhension de la sécurité du réseau
+
+
+  ### Module 13&#58; Protection du serveur et du client
+

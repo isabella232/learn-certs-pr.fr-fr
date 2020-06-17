@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: Programming in C#
+metadata:
+  title: 'Course 20483-C: Programming in C#'
+  description: 'Course 20483-C: Programming in C#'
+uid: course.20483
+courseNumber: '20483-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description de la syntaxe de base et des fonctionnalités de Visual C#.
+- skill: Création de méthodes, gestion des exceptions et description des exigences de surveillance des applications à grande échelle.
+- skill: Mise en œuvre de la structure de base et des éléments essentiels d’une application de bureau de base.
+- skill: Création de classes, définition et mise en œuvre des interfaces et création et utilisation des collections génériques.
+- skill: Utilisation de l’héritage pour créer une hiérarchie de classes et étendre une classe du .NET Framework.
+- skill: Lecture et rédaction à l’aide des intrants/sortants et flux, et sérialisation et désérialisation des données dans différents formats.
+- skill: Création et utilisation d’un modèle de données d’une entité pour accéder à une base de données et utilisation de LINQ pour procéder à des requêtes de données.
+- skill: Accès et requête de données à distance à l’aide des types de l’espace de nom System.Net et des Services de Données WCF.
+- skill: Construction d’une interface utilisateur graphique à l’aide de XAML.
+- skill: Amélioration de la production et du temps de réponse des applications à l’aide des tâches et des opérations asynchrones.
+- skill: Intégration de bibliothèques non gérées et de composants dynamiques dans une application Visual C#.
+- skill: Examen des métadonnées des types à l’aide du reflet, de la création et de l’utilisation d’attributs personnalisés, génération du code au moment de l’exécution et gestion des versions d’assemblage.
+- skill: Cryptage et décryptage des données à l’aide du cryptage symétrique et asymétrique.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.70-483
+summary: |-
+  Cette formation professionnelle enseigne aux développeurs les compétences de programmation requises pour les développeurs qui créent des applications Windows à l’aide du langage Visual C#. Au cours de cette formation de cinq jours en salle de classe, les étudiants révisent les bases de la structure du programme Visual C#, la syntaxe du langage et les détails de mise en œuvre. Ils consolident ensuite leurs connaissances au cours de la semaine au fur et à mesure qu’ils construisent une application qui intègre plusieurs fonctionnalités du .NET Framework 4.7.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux développeurs expérimentés qui ont déjà de l’expérience en programmation dans C, C++, JavaScript, Objective-C, Microsoft Visual Basic ou Java et comprennent les concepts de programmation orientée vers l’objet. Cette formation n’est pas destinée aux étudiants qui n’ont pas d’expérience en programmation. Elle est destinée aux développeurs professionnels qui ont au moins un mois d’expérience dans la programmation d’un environnement orienté vers l’objet.
+prerequisitesSection: |-
+  Les développeurs qui participent à cette formation doivent déjà avoir une expérience limitée de l’utilisation de C# pour remplir des tâches de programmation de base. Plus précisément, les étudiants doivent avoir une expérience pratique de l’utilisation de C# qui montre leur compréhension des éléments suivants&#58;
+  - Nommer, déclarer, initialiser et attribuer des valeurs aux variables dans une application.
+  - Utiliser des opérateurs arithmétiques pour procéder à des calculs arithmétiques qui impliquent une ou plusieurs variables, des opérateurs relationnels pour tester la relation entre deux variables ou expressions, des opérateurs logiques pour associer des expressions qui contiennent des opérateurs relationnels.
+  - Créer la syntaxe du code pour des instructions de programmation simples en utilisant les mots-clés du langage C# et reconnaîssent des erreurs de syntaxe à l’aide de Visual Studio IDE.
+  - Créer une structure de branchement simple à l’aide d’une instruction IF.
+  - Créer une structure de bouclage simple à l’aide d’une instruction For afin de procéder par itération grâce à une rangée de données.
+  - Utiliser Visual Studio IDE pour localiser de simples erreurs de logique.
+  - Créer une Fonction qui accepte des arguments (paramètres et rend une valeur d’un type précis).
+  - Concevoir et construire une interface utilisateur simple à l’aide de commandes standard de la boîte à outils de Visual Studio.
+  - Se connecter à une base de données SQL Server et les bases de la récupération et du stockage de données.
+  - Trier des données dans une boucle.
+  - Reconnaître les classes et les méthodes utilisées dans un programme.
+outlineSection: |-
+  ### Module 1&#58; Révision de Syntaxe Visual C#
+  Le Microsoft .NET Framework version 4.7 offre une plateforme de développement complète que vous pouvez utiliser pour construire, déployer et gérer des applications et des services. À l’aide du .NET Framework, vous pouvez créer des applications visuellement attirantes, permettre une communication transparente entre des limites technologiques et offrir une prise en charge à une large gamme de processus d’affaires.
+
+  Dans ce module, vous découvrirez certaines fonctionnalités de base fournies par le .NET Framework et Microsoft Visual Studio. Vous découvrirez également certaines des constructions de base Visual C# qui vous permettent de commencer à développer des applications .NET Framework.
+
+  #### Leçons
+  Présentation de la Rédaction d’Applications à l’Aide de Visual C#.
+  - Types de Données, Opérateurs et Expressions.
+  - Constructions dans le Langage de Programmation Visual C#.
+
+
+  #### Laboratoire&#58; Mise en œuvre de la Fonctionnalité de Modification de la Liste d’Etudiants
+  - Mise en œuvre de la Fonctionnalité « Insertion » pour la Liste des Etudiants.
+  - Mise en œuvre de la Fonctionnalité « Suppression » pour la Liste des Etudiants.
+  - Affichage de l’Age d’un Etudiant.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Décrire l’architecture des applications du .NET Framework et les fonctionnalités fournies par Visual Studio 2017 et Visual C#.
+  - Utiliser les types de données, les opérateurs et les expressions Visual C#.
+  - Utiliser des constructions standard Visual C#.
+
+  ### Module 2&#58; Création de Méthodes, Gestion des Exceptions et Surveillance des Applications
+  Les applications consistent souvent en des unités logiques de fonctionnalités qui exécutent des fonctions spécifiques, telles que fournir l’accès aux données ou déclencher un traitement logique. Visual C# est un langage orienté objet qui utilise le concept de méthodes pour encapsuler des unités logiques de fonctionnalités. Une méthode peut être aussi simple ou aussi complexe que vous le souhaitez. Il est donc important de tenir compte de ce qui arrive à l’état de votre application en cas d’exception dans une méthode.
+
+  Dans ce module, vous apprendrez à créer et utiliser des méthodes et à gérer les exceptions. Vous apprendrez également à utiliser l’enregistrement et le traçage pour enregistrer les détails des exceptions qui se produisent.
+
+  #### Leçons
+  - Création et Invocation des Méthodes.
+  - Création des Méthodes Surchargées et Utilisation des Paramètres en Option et de Sortie.
+  - Traitement des Exceptions.
+  - Surveillance des Applications.
+
+
+  #### Laboratoire&#58; Extension de la Fonctionnalité de l’Application d’Inscription à une Classe
+  - Refactorisation du Code d’Inscription.
+  - Validation des Informations des Etudiants.
+  - Enregistrement des Modifications Apportées à la Liste de la Classe.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Créer et d’invoquer des méthodes.
+  - Créer des méthodes surchargées et d’utiliser des paramètres optionnels.
+  - Traiter les exceptions.
+  - Surveiller les applications à l’aide de l’enregistrement, du traçage et du profilage.
+
+  ### Module 3&#58; Types et constructions de base de Visual C#
+  Pour créer des applications efficaces à l’aide de Windows Presentation Foundation (WPF) ou d’autres plateformes .NET Framework, vous devez d’abord apprendre les constructions de base de Visual C#. Vous devez savoir comment créer des structures simples pour représenter les éléments de données avec lesquels vous travaillez. Vous devez savoir comment organiser ces structures dans des collections pour que vous puissiez ajouter des éléments, recouvrer des éléments et procéder par itération pour vos éléments. Enfin, vous devez savoir comment vous inscrire à des événements pour pouvoir répondre aux actions de vos utilisateurs.
+
+  Dans ce module, vous apprendrez à créer et utiliser des structs et enums, à organiser des données dans des collections et à créer des événements et à vous y inscrire.
+
+  #### Leçons
+  - Mise en œuvre des Structs et Enums.
+  - Organisation de Données dans des Collections.
+  - Gestion des Evénements.
+
+
+  #### Laboratoire&#58; Rédaction du Code pour l’Application de Prototype des Notes
+  - Ajout de la Logique de Navigation à l’Application de Prototype des Notes.
+  - Création de Types de Données pour Stocker les Informations de l’Utilisateur et de la Note.
+  - Affichage des Informations de l’Utilisateur et de la Note.
+
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - Créer et d’utiliser des structs et des enums.
+  - Utiliser des classes de collections pour organiser les données.
+  - Créer des événements et de s’y inscrire.
+
+  ### Module 4&#58; Création de Classes et Mise en œuvre des Collections Sécurisées
+  Dans ce module, vous apprendrez à utiliser les interfaces et les classes pour définir et créer vos propres types personnalisés et réutilisables. Vous apprendrez également à créer et utiliser des collections énumérables et sécurisées de n’importe quel type.
+  #### Leçons
+  - Création de Classes.
+  - Définition et Mise en œuvre des Interfaces.
+  - Mise en œuvre des Collections Sécurisées.
+
+
+  #### Laboratoire&#58; Ajout de la Validation des Données et de la Sécurité du Type dans l’Application
+  - Mise en œuvre de l’Enseignant, de l’Etudiant et des structs de notes en tant que Classe.
+  - Ajout de la validation des données à la Note du Classe.
+  - Affichage des Etudiants par Ordre des Noms.
+  - Permission pour les Enseignants de Modifier les Données Relatives aux Classes et aux Notes.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Créer et instancier des classes.
+  - Créer et instancier des interfaces.
+  - Utiliser des génériques pour créer des collections sécurisées.
+
+
+  ### Module 5&#58; Création d’une Hiérarchie de Classe à l’aide de la Succession
+  Dans ce module, vous apprendrez à utiliser la succession pour créer des hiérarchies de classes et étendre les types .NET Framework.
+  #### Leçons
+  - Création de Hiérarchies de Classes.
+  - Extension des Classes du .NET Framework
+
+
+  #### Laboratoire&#58; Refactorisation de la Fonctionnalité Courante dans la Classe de l’Utilisateur
+  - Refactorisation de la Fonctionnalité Courante dans la Classe de l’Utilisateur.
+  - Mise en œuvre de la Complexité des Mots de Passe à l’Aide d’une Méthode Abstraite.
+  - Création de l’Exception Personnalisée ClassFullException.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Créer des classes de base et des classes dérivées à l’aide de la succession,
+  - Créer des classes qui héritent des classes du .NET Framework.
+
+
+  ### Module 6&#58; Lecture et Rédaction des Données Locales.
+  Dans ce module, vous allez apprendre à lire et rédiger des données à l’aide des opérations I/O du système de fichiers de transaction, à sérialiser et désérialiser des données dans le système de fichiers et à lire et rédiger des données du système de fichiers à l’aide des flux.
+  #### Leçons
+  - Lecture et Rédaction de Fichiers.
+  - Sérialisation et Désérialisation des Données.
+  - Exécution I/O à l’Aide des Flux.
+
+
+  #### Laboratoire&#58; Génération du Rapport des Notes
+  - Sérialisation des Données pour le Rapport des Notes sous XML.
+  - Prévisualisation du Rapport des Notes.
+  - Persistance des Données des Notes Sérialisées dans un fichier.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Lire et rédiger des données du et vers le système de fichiers à l’aide du fichier I/O.
+  - Convertir des données dans un format qui peut être rédigé ou lu d’un fichier ou d’une autre source de données.
+  - Utiliser des flux pour envoyer et recevoir des données de ou vers un fichier ou une source de données.
+
+
+  ### Module 7&#58; Accès à une Base de Données
+  Dans ce module, vous apprendrez à créer et utiliser des modèles de données d’une entité (EDM) et à faire des requêtes pour de nombreux types de données à l’aide de Language-Integrated Query (LINQ).
+  #### Leçons
+  - Création et Utilisation de Modèles de Données d’une Entité.
+  - Requêtes de Données à l’aide de LINQ.
+
+
+  #### Laboratoire&#58; Récupération et Modification des Données Des notes
+  - Création d’un Modèle de données d’une Entité de la Base de Données de l’Ecole des Beaux-Arts.
+  - Mise à jour des Données des Etudiants et des Notes à l’aide de Entity Framework.
+  - Extension du Modèle de Données d’une Entité pour Valider les Données.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Créer, utiliser et personnaliser un EDM.
+  - Procéder à une requête de données à l’aide de LINQ.
+
+
+  ### Module 8&#58; Accès aux Données à Distance
+  Dans ce module, vous allez apprendre à utiliser les classes de requêtes et de réponses dans l’espace de noms System.Net pour manipuler directement des sources de données à distance. Vous apprendrez également à utiliser les services de données de Windows Communication Foundation (WCF) pour exposer et consommer un modèle de données d’une entité (EDM) sur le web.
+  #### Leçons
+  - Accès aux Données à Travers le web.
+  - Accès aux Données à l’aide des Services Connectés OData.
+
+
+  ### Laboratoire&#58; Récupération et Modification des Données sur les Notes à Distance
+  - Création d’un Service de Données WCF pour la Base de Données SchoolGrades.
+  - Intégration du Service de Données à l’Application.
+  - Récupération des Photos des Etudiants sur le web (si le Temps le Permet).
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Envoyer et de recevoir des données des services Web et d’autres sources de données à distance.
+  - Accéder aux données à l’aide des services de données de WCF.
+
+
+  ### Module 9&#58; Conception de l’Interface Utilisateur pour une Application Graphique
+  Dans ce module, vous apprendrez à utiliser Extensible Application Markup Language (XAML) et Windows Presentation Foundation (WPF) pour créer des IU engageants.
+  #### Leçons
+  - Utilisation de XAML pour Concevoir une Interface Utilisateur.
+  - Lien des Commandes aux Données.
+
+
+  #### Laboratoire&#58; Personnalisation des Photos des Etudiants et Stylisation de l’Application
+  - Personnalisation de l’Aspect des Photos des Etudiants.
+  - Stylisation de la Vue de Connexion.
+  - Animation de la Commande StudentPhoto (si le Temps le Permet).
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Utiliser XAML pour concevoir une IU.
+  - Lier une commande XAML à des données.
+  - Appliquer des styles à une IU XAML.
+
+
+  ### Module 10&#58; Amélioration de la Performance et de la Réactivité de l’Application
+  Dans ce module, vous apprendrez à améliorer les performances de vos applications en distribuant vos opérations dans plusieurs fils.
+  #### Leçons
+  - Mise en œuvre du Multitâche.
+  - Exécution des Opérations de Manière Asynchrone.
+  - Synchronisation de l’Accès Concurrent aux Données.
+
+
+  #### Laboratoire&#58; Amélioration de la Réactivité et de la Performance de l’application
+  - Assurance que l’IU Reste Réactif lors de la Récupération des Données de l’Enseignant.
+  - Fourniture du Retour d’Information Visuel Pendant des Opérations Longues.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Utiliser la bibliothèque du parallèle de tâches pour mettre en œuvre le multitâche.
+  - Exécuter des opérations longues sans bloquer les fils.
+  - Contrôler la façon dont plusieurs fils peuvent accéder à des ressources de façon concurrente.
+
+
+  ### Module 11&#58; Intégration avec un Code non Géré
+  Dans ce module, vous apprendrez à interopérer un code non géré dans vos applications et à vous assurer que votre code libère toute ressource non gérée.
+  #### Leçons
+  - Création et Utilisation des Objets Dynamiques.
+  - Gestion de la Durée de Vie des Objets et Contrôle des Ressources Non Gérées.
+
+
+  #### Laboratoire&#58; Mise à niveau du Rapport des Notes
+  - Génération du Rapport des Notes à l’Aide de Word.
+  - Contrôle de la Durée de Vie des Objets Word en Mettant en œuvre le Motif d’Elimination.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Intégrer un code non géré à une application Microsoft Visual C# à l’aide de l’exécution de langage dynamique (DLR).
+  - Contrôler la durée de vie des ressources non gérées et de vous assurer que votre application libère les ressources.
+
+
+  ### Module 12&#58; Création de Types et d’Assemblages Réutilisables
+  Dans ce module, vous apprendrez à consommer des assemblages existants à l’aide du reflet et à ajouter des métadonnées supplémentaires à des types et des membres de type à l’aide des attributs. Vous apprendrez également à générer un code au moment de l’exécution à l’aide du modèle d’objet de document du code (CodeDOM) et à vous assurer que vos assemblages sont signés et versionés et sont disponibles pour d’autres applications à l’aide du cache d’assemblage global (GAC).
+  #### Leçons
+  - Examen des Métadonnées de l’Objet.
+  - Création et Utilisation des Attributs Personnalisés.
+  - Génération du Code Géré.
+  - Production de la Version, Signature et Déploiement des Assemblages.
+
+
+  #### Laboratoire&#58; Spécification des Données à Inclure dans le Rapport des Notes.
+  - Création et Application de l’Attribut IncludeInReport.
+  - Mise à jour du Rapport.
+  - Stockage des Notes. Assemblage des Outils de Façon Centrale (si le Temps le Permet).
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Utiliser le reflet pour inspecter et exécuter des assemblages.
+  - Créer et de consommer des attributs personnalisés.
+  - Générer le code géré au moment de l’exécution à l’aide de CodeDOM.
+  - Produire la version, de signer et de déployer vos assemblages dans le GAC.
+
+
+  ### Module 13&#58; Cryptage et Décryptage des Données.
+  Dans ce module, vous apprendrez à mettre en œuvre un cryptage symétrique et asymétrique et à utiliser le hachage pour générer des représentations mathématiques de vos données. Vous apprendrez également à créer et gérer des certificats X509 et à les utiliser dans le processus de cryptage asymétrique.
+  #### Leçons
+  - Mise en œuvre du Cryptage Symétrique.
+  - Mise en œuvre du Cryptage Asymétrique.
+
+
+  #### Laboratoire&#58; Cryptage et Décryptage du Rapport des Notes
+  - Cryptage du Rapport des Notes.
+  - Cryptage du Rapport des Notes.
+
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Crypter des données à l’aide du cryptage symétrique.
+  - Crypter des données à l’aide du cryptage asymétrique.
+

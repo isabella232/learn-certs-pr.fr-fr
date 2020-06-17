@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Developing Microsoft SQL Server 2014 Databases
+metadata:
+  title: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+  description: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+uid: course.20464
+courseNumber: '20464-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Introduction à la totalité de la plateforme SQL Server et à ses outils principaux. Il couvrira les éditions, les versions, les bases des auditeurs du réseau et les concepts de service et de comptes de service.
+- skill: Détermination des types de données adéquats lors de la conception des tables, la conversion des données entre les types de données et la création de types de données pseudonymes.
+- skill: 'Soyez conscient des bonnes pratiques en matière de design concernant les tables de SQL Server et soyez capable de créer des tables à l’aide de T-SQL. (Remarque : les tables partitionnés ne sont pas couverts.)'
+- skill: Mise en œuvre des contraintes PRIMARY KEY, FOREIGN KEY, DEFAULT, CHECK et UNIQUE et étude des contraintes FOREIGNKEY en cascade.
+- skill: Détermination de la colonne unique adéquate et des stratégies d’index composites.
+- skill: Création de tables en tant que tas et de tables avec des index en groupes. Tenez également compte de la conception d’un table et suggérez une structure adéquate.
+- skill: Lisez et interprétez les détails des éléments courants des plans d’exécution.
+- skill: Conception d’index efficaces non groupés.
+- skill: Conception et mise en œuvre des vues
+- skill: Conception et mise en œuvre de procédures stockées.
+- skill: Travailler avec des types de tables, des paramètres à valeur table et utilisation de l’instruction MERGE pour créer des procédures stockées qui mettent à jour les entrepôts de données.
+- skill: Conception et mise en œuvre de fonction, aussi bien scalaires que valeur de table. (Également description de la façon dont ils peuvent entraîner des problèmes de performance.)
+- skill: Conduire une investigation de base d’une situation de blocage et apprendre comment les niveaux d’isolation d’une transaction affectent la simultanéité d’une application.
+- skill: Utilisation du code de gestion des erreurs T-SQL traditionnel et la gestion des exceptions structurée.
+- skill: Conception et mise en œuvre du déclenchement DML.
+- skill: Apprentissage des utilisations adéquates de l’intégration de SQL CLR et mise en œuvre d’un assemblage .NET existant au sein de SQL Server.
+- skill: Stockage de données XML et schémas dans SQL Server.
+- skill: Envoi des requêtes de base sur des données XML dans SQL Server.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-464
+summary: |-
+  Cette formation en 5 jours donnée par un instructeur présente SQL Server 2014 et décrit la conception logique de tables, l’indexation et les plans de requête. Elle se concentre également sur la création d’objets de base de données, y compris les vues, les procédures stockées ainsi que des paramètres et des fonctions. D’autres aspects communs du codage de la procédure, tels que les index, l’accès simultané, la gestion des erreurs et les déclenchements sont également couverts par cette formation. Cette formation vous aide également à vous préparer pour l’examen 70-464.
+
+  Remarque&#58; Cette formation est conçue pour les clients qui souhaitent découvrir SQL Server 2012 ou SQL Server 2014. Elle couvre les nouvelles fonctionnalités de SQL Server 2014, mais également les capacités importantes de la plateforme de données SQL Server.
+
+  #### Profil de l’audience
+  L’audience principale de cette formation est les professionnels des TI qui souhaitent obtenir des compétences relatives aux fonctionnalités et technologies de SQL Server 2014 pour la mise en œuvre d’une base de données. 
+
+  Les audiences secondaires de cette formation sont des personnes qui sont des développeurs d’autres plateformes de produits ou de versions antérieures de SQL Server qui cherchent à acquérir des compétences dans la mise en œuvre d’une base de données SQL Server 2014.
+prerequisitesSection: |-
+  Cette formation exige que vous remplissiez les prérequis suivants&#58;
+  - Connaissances en matière de rédaction des requêtes T-SQL.
+  - Connaissances des concepts de base de données relationnelle de base.
+outlineSection: |-
+  ### Module 1&#58; Introduction au Développement de Bases de Données
+  Ce module présente le développement de bases de données et les tâches clés qu’un développeur de bases de données doit remplir généralement.
+  #### Leçons
+  - Introduction à la Plateforme SQL Server.
+  - Tâches de Développement de Bases de Données SQL Server.
+
+
+  #### Laboratoire&#58; Introduction au Développement de Bases de Données
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire l’architecture et les éditions de SQL Server 2012. 
+  - Travailler avec les outils de SQL Server.
+  - Configurer des services SQL Server.
+
+
+  ### Module 2&#58; Conception et Mise en œuvre des Table
+  Ce module explique comment concevoir, créer et modifier les tables. Il vise également le travail avec des schémas.
+  #### Leçons
+  - Conception de Tables.
+  - Types de Données
+  - Travail avec des Schémas.
+  - Création et Modification de Tables.
+  - Partitionnement de Données.
+  - Compression de Données.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre de Tables
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Concevoir des tables.
+  - Travailler avec des schémas.
+  - Créer et modifier des tables.
+
+
+  ### Module 3&#58; Assurance de l’Intégrité des Données grâce aux Contraintes.
+  Ce module explique comment imposer l’intégrité des données et comment mettre en œuvre l’intégrité des domaines afin de conserver des données de haute qualité. Il vise également la mise en œuvre de l’Intégrité de l’Entité et de l’Intégrité Référentielle.
+  #### Leçons
+  - Imposition de l’Intégrité des Données.
+  - Mise en œuvre de l’Intégrité du Domaine.
+  - Mise en œuvre de l’Intégrité de l’Entité et de l’Intégrité Référentielle.
+
+
+  #### Laboratoire&#58; Assurance de l’Intégrité des Données grâce aux Contraintes
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Expliquer les options disponibles pour imposer l’intégrité des données et les niveaux auxquels elles doivent être appliquées.
+  - Mettre en œuvre l’intégrité du domaine.
+  - Mettre en œuvre l’intégrité de l’entité et l’intégrité référentielle.
+
+
+  ### Module 4&#58; Introduction à l’Indexation
+  Ce module décrit le concept d’index et discute de la sélectivité, la densité et les statistiques. Il couvre les choix de types de données adéquats et les choix relatifs aux structures d’index composite.
+  #### Leçons
+  - Concepts d’Indexation de Base.
+  - Types de Données et Index.
+  - Colonne Unique et Index Composites.
+
+
+  #### Laboratoire&#58; Mise en œuvre des Index
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les concepts d’indexation de base. 
+  - Choisir les types de données adéquats pour les index.
+  - Concevoir et mettre en œuvre des index groupés et non groupés.
+
+
+  ### Module 5&#58; Conception de Stratégies d’Index Optimisées
+  Ce module explique la couverture des index et la clause INCLUDE ainsi que l’utilisation du remplissage, des indicateurs et des statistiques. Ce module couvre également l’utilisation de l’assistant de Réglage du Moteur de Base de Données et des vues de la gestion dynamique relative à l’index afin d’évaluer les stratégies d’indexation.
+  #### Leçons
+  - Couverture des Index.
+  - Gestion des Index.
+  - Travailler avec des Plans d’Exécution.
+  - Utilisation de DTE.
+
+
+  #### Laboratoire&#58; Conception de Stratégies d’Indexation Optimisées
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire les éléments d’un plan d’exécution. 
+  - Concevoir des stratégies d’indexation efficaces.
+  - Surveiller votre système pour évaluer la performance de votre stratégie d’indexation.
+
+
+  ### Module 6&#58; Gestion des Index
+  Ce module explique les index de stockage de colonne et la façon de les utiliser pour maximiser la performance et la flexibilité des applications de bases de données.
+  #### Leçons
+  - Introduction aux Index de Stockage de Colonne.
+  - Création d’Index de Stockage de Colonne.
+  - Travailler avec des Index de Stockage de Colonne.
+
+
+  #### Laboratoire&#58; Utilisation des Index de Stockage de Colonne
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Créer des index de stockage de colonnes.
+  - Décrire les considérations relatives à la mise à jour des tables avec des index de stockage de colonne non groupés.
+
+
+  ### Module 7&#58; Conception et Mise en œuvre des Vues
+  Ce module présente les Vues et explique comment créer et gérer des Vues. Il vise également la considération de performance pour les Vues.
+  #### Leçons
+  - Introduction aux Vues.
+  - Création et Gestion des Vues.
+  - Considérations de Performance pour les Vues.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre des Vues
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Expliquer le rôle des vues dans le développement de bases de données. 
+  - Mettre en œuvre des vues.
+  - Décrire les conséquences relatives à la performance des vues.
+
+
+  ### Module 8&#58; Conception et Mise en œuvre des Procédures Stockées
+  Ce module décrit les avantages potentiels de l’utilisation de procédures stockées ainsi que les lignes directrices relatives à leur création.
+  #### Leçons
+  - Introduction aux Procédures Stockées.
+  - Travailler avec des Procédures Stockées.
+  - Mise en œuvre de Procédures Stockées Paramétrées.
+  - Contrôle du Contexte d’Exécution.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre des Procédures Stockées
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire le rôle des procédures stockées et les avantages potentiels de leur utilisation. 
+  - Travailler avec des procédures stockées. 
+  - Mettre en œuvre des procédures stockées paramétrées.
+  - Contrôler le contexte d’exécution d’une procédure stockée.
+
+
+  ### Module 9&#58; Conception et mise en œuvre des Fonctions Définies par l’Utilisateur.
+  Ce module explique comment concevoir et mettre en œuvre des fonctions définies par l’utilisateur qui imposent des règles métiers ou la cohérence des données et modifier et conserver des fonctions existantes rédigées par d’autres développeurs.
+  #### Leçons
+  - Présentation des Fonctions.
+  - Conception et Mise en œuvre des Fonctions Scalaires.
+  - Conception et Mise en œuvre des Fonctions de Table.
+  - Mise en œuvre des Considérations Relatives aux Fonctions.
+  - Alternatives aux Fonctions.
+
+
+  #### Laboratoire&#58; Conception et Mise en œuvre des Fonctions Définies par l’Utilisateur
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Concevoir et mettre en œuvre des fonctions scalaires. 
+  - Concevoir et mettre en œuvre des fonctions de table. 
+  - Décrire des considérations de mise en œuvre relatives aux fonctions.
+  - Décrire des alternatives aux fonctions.
+
+
+  ### Module 10&#58; Réponse à la Manipulation des Données par le biais de Déclencheurs
+  Ce module défini les déclencheurs DML et comment ils imposent l’intégrité des données. Il vise également les différents types de déclencheurs disponibles et comment définir des déclencheurs dans une base de données.
+  #### Leçons
+  - Conception des Déclencheurs DML.
+  - Mise en œuvre des Déclencheurs de DML.
+  - Concepts avancés de Déclencheur.
+
+
+  #### Laboratoire&#58; Réponse à la Manipulation des Données par le biais de Déclencheurs
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Concevoir des déclencheurs DML. 
+  - Mettre en œuvre des déclencheurs DML.
+  - Expliquer des concepts avancés de déclencheurs DML.
+
+
+  ### Module 11&#58; Utilisation de Tables en Mémoire
+  Ce module couvre la création de tables en mémoire et les procédures stockées natives. Il discute également des avantages et des inconvénients de l’utilisation des tables en mémoire.
+  #### Leçons
+  - Tables En Mémoire.
+  - Procédures Stockées Natives.
+
+
+  #### Laboratoire&#58; OLTP en Mémoire
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Concevoir et mettre en œuvre des tables en mémoire optimisées.
+  - Créer des procédures stockées natives.
+
+
+  ### Module 12&#58; Mise en œuvre du Code Géré dans SQL Server 2014
+  Ce module explique comment utiliser le code intégré à CLR pour créer des objets de base de données définis par l’utilisateur et qui sont gérés par la .NET Framework.
+  #### Leçons
+  - Introduction à l’Intégration de SQL CLR.
+  - Importation et Configuration des Assemblages.
+  - Mise en œuvre de l’Intégration SQL CLR.
+
+
+  #### Laboratoire&#58; Mise en œuvre du Code Géré dans SQL Server 2014
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Expliquer l’importance de l’intégration de SQL Server CLR. 
+  - Importer et configurer des assemblages.
+  - Mettre en œuvre des objets qui ont été créés dans des assemblages .NET.
+
+
+  ### Module 13&#58; Stockage et Requête de Données XML dans SQL Server
+  Ce module présente XML et montre de quelle façon les données XML peuvent être stockées dans SQL Server avant d’être requises, y compris les requêtes rédigées dans un langage appelé XQuery.
+  #### Leçons
+  - Introduction à XML et aux Schémas XML.
+  - Stockage de Données et de Schémas XML dans SQL Server.
+  - Mise en œuvre du Type de Données XML.
+  - Utilisation de l’Instruction T-SQL FOR XML.
+  - Démarrage avec XQuery.
+
+
+  ### Laboratoire&#58; Stockage et Requête de Données XML dans SQL Server 2014
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire XML et les schémas XML.
+  - Stocker des Données XML et les Schémas XML associés dans SQL Server.
+  - Mettre en œuvre le Type de Données XML dans SQL Server. 
+  - Utiliser l’Instruction T-SQL FOR XML. 
+  - Travailler avec des Requêtes XQuery de Base.
+  - Découper XML dans une forme relationnelle.
+
+
+  ### Module 14&#58; Travailler avec les Données spatiales SQL Server 2014
+  Ce module présente les Données Spatiales et explique comment travailler avec les Types de Données Spatiales SQL Server.
+  #### Leçons
+  - Introduction aux Données Spatiales.
+  - Travailler avec les Types de Données Spatiales SQL Server.
+  - Utilisation des Données Spatiales dans des Applications.
+
+
+  #### Laboratoire&#58; Travailler avec les Données Spatiales SQL Server
+  Après avoir terminé ce module, vous serez capable de&#58;
+  - Décrire l’importance des données spatiales et les normes du secteur qui y sont relatives. 
+  - Expliquer comment stocker des données spatiales dans SQL Server.
+  - Procéder à des calculs et des requêtes sur les données spatiales de SQL Server.
+
+
+  ### Module 15&#58; Incorporation des Fichiers de Données dans des Bases de Données
+  #### Leçons
+  - Requête de Données avec des Procédures Stockées.
+  - Mise en œuvre de FILESTREAM et de Tables de Fichiers.
+  - Recherche de Fichiers de Données.
+
+
+  #### Laboratoire&#58; Mise en œuvre d’une Solution pour le Stockage de Fichiers de Données.
+

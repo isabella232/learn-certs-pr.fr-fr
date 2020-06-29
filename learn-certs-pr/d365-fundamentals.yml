@@ -6,17 +6,17 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle; la réalité mélangée; Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.
+  ‘Prouvez que vous maîtrisez Microsoft Dynamics 365 ; l’intelligence artificielle ; la réalité mélangée ; Power Platform ; les concepts de Cloud ; la sécurité du Cloud ; la sécurité Dynamics 365 ; le service des données communes ; la génération de rapports Dynamics 365 ; les intégrations Dynamics 365 ; et le déploiement dans le Cloud.’
 subTitle: 'Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle (AI); la réalité mélangée (MR); Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.'
 levels:
 - beginner
 skills:
-- Identifier les composants de la plateforme Microsoft pour Dynamics 365.
+- Identifier les composants de la plateforme Microsoft pour Dynamics 365
 - Décrire l’intelligence artificielle (IA) et la réalité mélangée (RM) dans Dynamics 365
-- Décrire les applications basées sur des modèles.
-- Décrire les applications de Finance and Operations.
+- Décrire les applications basées sur des modèles
+- Décrire les applications de Finance and Operations
 roles:
 - functional-consultant
 type: fundamentals
@@ -43,7 +43,7 @@ resources:
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

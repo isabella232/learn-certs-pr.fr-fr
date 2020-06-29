@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les charges de travail et les considérations de l’intelligence artificielle.
+- skill: Décrire les principes fondamentaux de l’apprentissage automatique sur Azure
+- skill: Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure.
+- skill: Décrire les caractéristiques des charges de travail du traitement du langage naturel (NLP) sur Azure
+- skill: Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  Cette formation présente les concepts fondamentaux liés à l’intelligence artificielle (AI) ainsi que les services de Microsoft Azure qui peuvent être utilisés pour créer des solutions d’intelligence artificielle. Cette formation n’est pas destinée à enseigner aux étudiants à devenir des scientifiques spécialistes des données ou des développeurs de logiciels, mais plutôt pour développer une prise de conscience des charges de travail courantes d’intelligence artificielle et une capacité à identifier les services Azure pour les prendre en charge. La formation a été conçue sous la forme d’une expérience d’apprentissage mixte qui combine la formation dispensée par un instructeur avec le matériel disponible en ligne sur la plateforme Microsoft Learn (https://azure.com/learn). Les exercices pratiques de la formation se basent sur les modules Learn et les étudiants sont encouragés à utiliser le contenu sur Learn comme matériel de référence pour renforcer ce qu’ils ont appris en classe et pour explorer les thèmes de manière plus approfondie.
+
+  #### Profil de l’audience
+  La formation Azure AI Fundamentals est destinée à tous ceux qui s’intéressent à découvrir les types de solutions qui peuvent être réalisés grâce à l’intelligence artificielle, et les services sur Microsoft Azure utilisés pour les créer. Vous n’avez besoin de maîtriser l’utilisation de Microsoft Azure pour suivre cette formation, mais vous devez avoir un niveau de familiarité de base avec la technologie informatique et l’Internet. Certains concepts traités dans cette formation exigent une compréhension de base des mathématiques, notamment l’aptitude à interpréter les graphiques. Cette formation englobe des activités pratiques qui impliquent le travail avec des données et l’exécution de code ; il serait donc utile d’avoir des connaissances fondamentales des principes de programmation.
+prerequisitesSection: |-
+  Familiarité avec les ordinateurs et utilisation d’un navigateur Web.
+outlineSection: |-
+  ### Module 1&#58; Introduction à AI
+  Dans ce module, vous découvrirez les utilisations courantes de l’intelligence artificielle (AI) et les différents types de charges de données associés avec l’intelligence artificielle. Vous explorerez ensuite les considérations et les principes d’un développement responsable de l’intelligence artificielle.
+  #### Leçons
+  - L’intelligence artificielle dans Azure
+  - L’intelligence artificielle responsable
+  
+  Après avoir terminé ce module, vous seront capables de&#58;
+  - Décrire les charges de travail et les considérations de l’intelligence artificielle.
+
+
+  ### Module 2&#58; Machine Learning
+  L’apprentissage automatique constitue la fondation des solutions modernes d’intelligence artificielle. Dans ce module, vous découvrirez certains concepts de base de l’apprentissage automatique, ainsi que la façon d’utiliser le service Azure Machine Learning pour créer et publier des modèles d’apprentissage automatique.
+  #### Leçons
+  - Introduction à l’apprentissage automatique
+  - Azure Machine Learning
+  
+  Après avoir terminé ce module, vous seront capables de&#58;
+  - Décrire les principes fondamentaux de l’apprentissage automatique sur Azure
+  
+
+  ### Module 3&#58; Vision par ordinateur
+  La vision par ordinateur est le domaine de l'IA qui traite de la compréhension du monde visuellement, par le biais d'images, de fichiers vidéo et de caméras. Dans ce module, vous explorerez plusieurs techniques et services de vision par ordinateur.
+  #### Leçons
+  - Concepts de la vision par ordinateur
+  - Vision par ordinateur dans Azure
+  
+  Après avoir terminé ce module, vous seront capables de&#58;
+  - Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure.
+
+
+  ### Module 4&#58; Traitement du langage naturel
+  Ce module décrit les scénarios des solutions d’intelligence artificielle que peuvent traiter le langage écrit et parlé. Vous découvrirez les services Azure qui peuvent être utilisés pour développer des solutions qui analysent le texte, reconnaissent et synthétisent le langage parlé, traduisent entre les langues, et interprètent les commandes.
+  
+  
+  Après avoir terminé ce module, vous seront capables de&#58;
+  - Décrire les caractéristiques des charges de travail du traitement du langage naturel (NLP) sur Azure
+
+
+  ### Module 5&#58; Intelligence artificielle conversationnelle
+  L’intelligence artificielle conversationnelle permet aux utilisateurs de dialoguer avec un agent d’intelligence artificielle, ou *bot*, par le biais de chaînes de communications telles que le courrier électronique, les interfaces de discussion en ligne, les médias sociaux, etc. Ce module décrit quelques principes de base de travail avec les bots et vous fournit une opportunité de créer un bot qui puisse répondre intelligemment aux questions des utilisateurs.
+  #### Leçons
+  - Concepts d’intelligence artificielle conversationnelle
+  - Intelligence artificielle conversationnelle dans Azure
+
+  Après avoir terminé ce module, vous seront capables de&#58;
+  - Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure

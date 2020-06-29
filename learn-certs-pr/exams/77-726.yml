@@ -1,17 +1,26 @@
 ### YamlMime:Examination
 title: 'Word 2016 Expert: Creating Documents for Effective Communication'
 metadata:
-  title: 'Examen 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
-  description: 'Examen 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
+  title: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
+  description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: "Les candidats de niveau expert à l'examen Word 2016 utilisent couramment les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé. \n\nLes candidats créent et gèrent des documents professionnels de quatre pages ou plus pour une variété d'objectifs et de situations spécialisés. Ils personnalisent leurs environnements Word en fonction de leurs besoins et pour améliorer la productivité. Les documents de niveau expert incluent notamment un plan commercial, un document de recherche, un livre, une brochure spécialisée et le publipostage. Les candidats peuvent inclure des éditeurs, des gestionnaires de projets, des travailleurs de l'information commerciale, des éducateurs et autres. \n\nLes examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;\n- Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. \n- Le format d'examen MOS 2016 intègre plusieurs projets.\n"
-subTitle: Les candidats de niveau expert à l'examen Word 2016 utilisent couramment les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé.
+summary: |+
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats de niveau expert à l'examen Word 2016 utilisent avec compétence les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé.
+
+  Les candidats créent et gèrent des documents professionnels de quatre pages ou plus pour une variété d'objectifs et de situations spécialisés. Ils personnalisent leurs environnements Word en fonction de leurs besoins et pour améliorer la productivité. Les documents de niveau expert comprennent notamment des plans commerciaux, des documents de recherche, des livres, des brochures spécialisées et du publipostage. Les candidats peuvent inclure des éditeurs, des gestionnaires de projets, des travailleurs de l'information commerciale, des éducateurs et autres.
+
+  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
+  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
+  - Le format d'examen MOS 2016 intègre plusieurs projets.
+subTitle: Les candidats de niveau expert à l'examen Word 2016 utilisent avec compétence les fonctionnalités avancées de Word 2016 pour la gestion de documents et de contenu et pour le formatage avancé.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -25,10 +34,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer les options et les paramètres de document (35 à 40%)
-- Concevoir des documents avancés (20 à 25%)
-- Créer des références avancées (20 à 25%)
-- Créer des éléments Word personnalisés (15 à 20%)
+- Gérer les options et les paramètres de document (35-40%)
+- Conception des documents avancés (20-25%)
+- Créer des références avancées (20-25%)
+- Créer des éléments Word personnalisés (15-20%)
 roles:
 - developer
 products:
@@ -44,8 +53,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

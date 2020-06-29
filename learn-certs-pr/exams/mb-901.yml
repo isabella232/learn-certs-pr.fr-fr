@@ -8,7 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 17 avril. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 10 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
   </div>
 
   Cet examen couvre le positionnement et les bénéfices résultant de l’adoption de Dynamics 365.
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen sera mis à jour le 17 avril. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 10 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Identifier les composants de la plateforme Microsoft pour Dynamics 365 (30-35%)
 - Décrire l’intelligence artificielle (IA) et la réalité mélangée (RM) dans Dynamics 365 (10-15%)
 - Décrire les applications basées sur des modèles (25-30%)
@@ -56,7 +56,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

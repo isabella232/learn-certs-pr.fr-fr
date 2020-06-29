@@ -2,11 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
-  description: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
+  description: "Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients."
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
-subTitle: Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
+subTitle: "Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients."
 levels:
 - intermediate
 skills:
@@ -25,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-310t01
-- uid: course.mb-310t02
-- uid: course.mb-310t03
+- uid: course.mb-300t00
+- uid: course.mb-310t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -57,13 +56,14 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
-- title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

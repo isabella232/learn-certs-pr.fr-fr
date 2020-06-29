@@ -31,7 +31,6 @@ locales:
 levels:
 - advanced
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Planifier, déployer, gérer et dépanner les bases de données de boîtes aux lettres (15-20%)
 - Planifier, déployer, gérer et dépanner les services d'accès client (15-20%)
 - Planifier, déployer, gérer et dépanner les services de transport (15-20%)

@@ -5,21 +5,13 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-    
-  Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>
-
-  Le créateur d’applications crée et soutient les processus opérationnels, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus opérationnels.
-
-  Le créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend comment les appliquer.
-
-  Le créateur d’applications est autonome est axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.  
-
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible aux alentours de juillet 2020.</div>
+summary: "<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>\r\n  \r\nLe créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>\r\n\r\nLe créateur d’applications crée et soutient les processus opérationnels, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus opérationnels.\r\n\r\nLe créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend comment les appliquer.\r\n\r\nLe créateur d’applications est autonome est axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible aux alentours de juillet 2020.</div>"
 subTitle: 'Cet examen sera disponible aux alentours de juillet 2020. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: la conception les des solutions, la création de solutions, l’analyse des données, et la mise en œuvre et la gestion des solutions.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+providers:
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:

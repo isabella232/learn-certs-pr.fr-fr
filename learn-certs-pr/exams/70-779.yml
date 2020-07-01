@@ -14,7 +14,7 @@ summary: |-
 subTitle: Les candidats à cet examen doivent avoir une bonne compréhension de la façon d'utiliser Microsoft Excel pour effectuer des analyses de données. Les candidats doivent être en mesure de consommer, transformer, modéliser, et visualiser des données dans Excel. Les candidats doivent également être en mesure de configurer et de manipuler des données dans PowerPivot, dans les PivotTables et les PivotCharts. Les candidats peuvent inclure des professionnels BI, des analystes de données et d'autres rôles chargés d'analyser des données avec Excel.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:

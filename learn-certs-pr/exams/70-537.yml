@@ -20,7 +20,7 @@ summary: |-
 subTitle: Cet examen est conçu pour les administrateurs Azure et les opérateurs Azure Stack Hub qui utilisent Azure Stack Hub pour offrir des services de cloud à leur utilisateurs finaux ou aux clients dans le cadre de leur propre centre de données.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
 locales:
 - en
 levels:

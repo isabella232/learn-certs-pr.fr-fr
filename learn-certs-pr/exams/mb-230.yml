@@ -8,7 +8,7 @@ displayName: MB-230
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise du service client. Les candidats sont responsables de la mise en œuvre de solutions omnicanal axées sur le service, la qualité, la fiabilité, l'efficacité et la satisfaction de la clientèle.
@@ -28,11 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Effectuer la configuration (25 à 30%)
-- Gérer les cas et la base de connaissances (30 à 35%)
-- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25 à 30%)
-- Configurer les Pro des formulaires(15 -20%)
+- Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Effectuer la configuration (25-30%)
+- Gérer les cas et la base de connaissances (30-35%)
+- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25-30%)
+- Configurer les Pro des formulaires(15-20%)
 roles:
 - functional-consultant
 products:
@@ -46,13 +46,13 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Parcours de formation en vue de la certification
-  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

@@ -24,14 +24,16 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer les paramètres et les ressources organisationnelles (30 à 35%)
-- Planifier et gérer l’architecture de messagerie électronique (20 à 25%)
+- Gérer les paramètres et les ressources organisationnelles (30-35%)
+- Planifier et gérer l’architecture de messagerie électronique (20-25%)
 - Planifier et mettre en œuvre une configuration et une migration hybrides (20-25%)
-- Sécuriser l'environnement de messagerie (20 à 25%)
+- Sécuriser l'environnement de messagerie (20-25%)
 roles:
 - administrator
 products:
 - m365
+courses:
+- uid: course.ms-203t00
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

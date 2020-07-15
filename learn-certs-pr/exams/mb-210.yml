@@ -8,7 +8,7 @@ displayName: MB-210
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise des ventes. Les candidats sont responsables de la mise en œuvre de solutions prenant en charge un cycle de vie des ventes afin de fonctionner efficacement afin de respecter les objectifs de revenus, les stratégies commerciales et les objectifs de l'entreprise.
@@ -25,10 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Effectuer la configuration (40 à 45%)
-- Gérer les principales entités de vente (20 à 25%)
-- Gérer les entités de vente (35 à 40%)
+- Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Effectuer la configuration (40-45%)
+- Gérer les principales entités de vente (20-25%)
+- Gérer les entités de vente (35-40%)
 roles:
 - functional-consultant
 products:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-sales
 resources:
 - title: Parcours de formation en vue de la certification
-  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate. »'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

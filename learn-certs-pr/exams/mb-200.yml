@@ -8,7 +8,7 @@ displayName: MB-200
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels ayant accès aux fonctionnalités du produit sous licence d'entreprise. En tant que consultant fonctionnel, le candidat est au courant des versions groupées des fonctionnalités mais ne travaille pas principalement avec ces produits groupés.
@@ -27,13 +27,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Effectuer la découverte, la planification et l'analyse (5 à 10%)
-- Gérer la conception de l’expérience utilisateur (20 à 25%)
-- Gérer les entités et les données (15 à 20%)
-- Mettre en œuvre la sécurité (5 à 10%)
-- Mettre en œuvre l'intégration (15 à 20%)
-- Effectuer le déploiement et l’essai des solutions (25 à 30%)
+- Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Effectuer la découverte, la planification et l'analyse (5-10%)
+- Gérer la conception de l’expérience utilisateur (20-25%)
+- Gérer les entités et les données (15-20%)
+- Mettre en œuvre la sécurité (5-10%)
+- Mettre en œuvre l'intégration (15-20%)
+- Effectuer le déploiement et l’essai des solutions (25-30%)
 roles:
 - functional-consultant
 products:

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Analyzing Data with Power BI
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
 hoursToComplete: 120
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  Cette formation abordera les diverses méthodes et les meilleures pratiques conformes aux exigences professionnelles et techniques de la modélisation, visualisation et analyse des données avec Power BI. Cette formation montrera également comment accéder et traiter les données provenant d’une gammes de sources de données, y compris des données à la fois relationnelles et non relationnelles. Cette formation explorera également la mise en œuvre des normes de sécurité et des politiques adéquates dans le spectre de Power BI, y compris les jeux de données et les groupes. Cette formation traitera aussi de la gestion et du déploiement des rapports et des tableaux de bord pour le partage et la distribution de contenu. Finalement, cette formation vous montrera comment élaborer des rapports paginés dans le service Power BI et les publier sur votre espace de travail aux fins d’inclusion dans Power BI.
+  Cette formation sera publiée le 24 juillet 2020. Cette formation abordera les diverses méthodes et les meilleures pratiques conformes aux exigences professionnelles et techniques de la modélisation, visualisation et analyse des données avec Power BI. Cette formation montrera également comment accéder et traiter les données provenant d’une gammes de sources de données, y compris des données à la fois relationnelles et non relationnelles. Cette formation explorera également la mise en œuvre des normes de sécurité et des politiques adéquates dans le spectre de Power BI, y compris les jeux de données et les groupes. Cette formation traitera aussi de la gestion et du déploiement des rapports et des tableaux de bord pour le partage et la distribution de contenu. Finalement, cette formation vous montrera comment élaborer des rapports paginés dans le service Power BI et les publier sur votre espace de travail aux fins d’inclusion dans Power BI.
 
   #### Profil de l’audience
   Cette formation est adressée aux professionnels des données et de business intelligence qui souhaitent apprendre à effectuer une analyse de données précises à l’aide de Power BI. Cette formation est également adressée à ceux qui développent des rapports qui visualisent des données provenant des technologies de plateformes de données qui existent sur le cloud et sur le site.
@@ -43,7 +43,7 @@ outlineSection: |-
   #### Laboratoire &#58; Démarrage
   - Démarrage.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Décrire le paysage Power BI des produits et des services.
   - Décrire les cas d’utilisation de Power BI.
   - Identifier les tâches effectuées par un analyste de données.
@@ -61,7 +61,7 @@ outlineSection: |-
   #### Laboratoire &#58; Préparation des données dans Power BI Bureau
   - Préparer des données.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Identifier les différentes sources de données.
   - Expliquer les différentes méthodes de connexion et leurs causes.
   - Identifier les problèmes de requête et optimiser.
@@ -82,7 +82,7 @@ outlineSection: |-
   #### Laboratoire &#58; Chargement des données dans Power BI Bureau
   - Chargement des données.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Résoudre les incohérences des données.
   - Appliquer les transformations de mise en forme des données.
   - Évaluer et transformer des types de données en colonnes.
@@ -103,7 +103,7 @@ outlineSection: |-
   - Réviser l’interface des modèles.
   - Créer des mesures rapides.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Définir des relations et leur cardinalité.
   - Configurer les propriétés des tables et des colonnes.
   - Définir des mesures rapides.
@@ -123,7 +123,7 @@ outlineSection: |-
   - Créer une relation plusieurs à plusieurs.
   - Appliquer une sécurité au niveau des lignes.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Résoudre des relations circulaires et plusieurs à plusieurs.
   - Créer des groupages et des répartitions.
   - Décrire et installer la fonctionnalité des questions/réponses.
@@ -148,7 +148,7 @@ outlineSection: |-
   - Travailler avec Time-Intelligence.
   - Publier le fichier de Power BI Bureau.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Utiliser DAX pour des formules et expressions simples.
   - Créer des tables et des colonnes de calcul.
   - Construire des mesures simples.
@@ -162,7 +162,7 @@ outlineSection: |-
   - Identifier les problèmes de performance.
 
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Analyser les plans et les dépendances des requêtes.
   - Identifier les mesures et relations de mauvaise performance.
   - Travailler avec les regroupements.
@@ -182,7 +182,7 @@ outlineSection: |-
   - Créer un rapport.
   - Se connecter au service Power BI.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Concevoir une mise en page.
   - Sélectionner et ajouter un type de visualisation approprié.
   - Ajouter une fonctionnalité basique de rapport.
@@ -204,7 +204,7 @@ outlineSection: |-
   - Ajouter des signets et des boutons.
   - Explorer le rapport.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Ajouter Quick Insights.
   - Configurer la synchronisation de segments.
   - Configurer les interactions entre les visualisations.
@@ -219,12 +219,12 @@ outlineSection: |-
   - Améliorations du tableau de bord.
 
 
-  #### Laboratoire &#58; Création d’un tableau de bord Power BI
+  #### Laboratoire &#58; Création d’un tableau de bord Power BI
   - Créer un tableau de bord.
   - Actualiser les jeux de données.
   - Réviser le tableau de bord.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Créer un tableau de bord.
   - Mettre au point la fonction des questions/réponses.
   - Gérer les tuiles et travailler avec les pages des rapports.
@@ -248,7 +248,7 @@ outlineSection: |-
   - Travailler avec un arbre de décomposition.
   - Travailler avec les influenceurs clés.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Explorer le résumé statistique.
   - Identifier les aberrations dans les données.
   - Utiliser le visuel des questions/réponses.
@@ -271,7 +271,7 @@ outlineSection: |-
   - Partager un tableau de bord.
   - Publier une APP.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Configurer l’actualisation des jeux de données.
   - Configurer une sécurité au niveau des lignes dans l’ensemble des données.
   - Créer et gérer un espace de travail.
@@ -292,7 +292,7 @@ outlineSection: |-
   - Démarrage.
   - Développer le rapport.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Expliquer les rapports paginés.
   - Créer un rapport paginé.
   - Créer et configurer une source de données et un jeu de données.

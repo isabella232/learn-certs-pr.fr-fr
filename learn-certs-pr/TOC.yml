@@ -4,6 +4,8 @@
   href: deals.md
 - name: Octroi de licences en volume
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: Certifications, examens et formations retirés
   expanded: false
   items:
@@ -17,9 +19,15 @@
   href: mct-certification.md
 - name: À propos des examens de certification Microsoft
   href: certification-exams.md
+- name: Examen et badges de certification Microsoft
+  href: badges.md
 - name: À propos des examens en ligne
   href: online-exams.md
 - name: Règles applicables aux examens et FAQ
   href: certification-exam-policies.md
 - name: Aide à la certification
   href: help.md
+- name: Microsoft Certification program FAQs 
+  href: microsoft-certification-program-faqs.md
+- name: Déplacer Microsoft Learning...
+  href: learnfaq.md

@@ -20,9 +20,9 @@ levels:
 - beginner
 skills:
 - Décrire la Concepts le cloud.
-- Décrire les services essentiels d’Azure.
-- Décrire la sécurité, la confidentialité, la conformité et la confiance.
-- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie.
+- Décrire les services essentiels d’Azure
+- Décrire la sécurité, la confidentialité, la conformité et la confiance
+- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie
 roles:
 - developer
 type: fundamentals
@@ -32,12 +32,15 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: Affiche des certifications Azure
+- title: Affiche de certification Azure
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guide de formation et de certification

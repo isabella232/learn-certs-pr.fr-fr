@@ -11,15 +11,17 @@ levels:
 - beginner
 skills:
 - Décrire les concepts des données de base
-- Décrire le travail avec les données relationnelles sur Azure.
-- Décrire le travail avec les données non relationnelles sur Azure.
-- Décrire une charge de travail analytique sur Azure.
+- Décrire le travail avec les données relationnelles sur Azure
+- Décrire le travail avec les données non relationnelles sur Azure
+- Décrire une charge de travail analytique sur Azure
 roles:
 - data-engineer
 - database-administrator
 type: fundamentals
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900
@@ -33,7 +35,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

@@ -18,17 +18,17 @@ summary: |-
   Cet examen est destiné aux personnes qui débutent leur travail avec des solutions et des services basés dans le cloud. Les candidats doivent pouvoir démontrer des connaissances fondamentales des concepts de cloud, ainsi que des services Azure, des charges de travail, de la sécurité, de la confidentialité, de la tarification, et du support. En outre, vous devez être familiarisé avec les concepts de mise en réseau, de stockage, de calcul, de support aux applications, et de développement d’applications.
 
   Azure Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles ou spécialisées, sans être un prérequis pour elles.
-subTitle: 'Cet examen mesure votre capacité à comprendre les concepts suivants: les concepts du cloud, les services de base Azure, la sécurité, la confidentialité, la conformité et la confiance et la tarification et le support d''Azure.'
+subTitle: "Cet examen mesure votre capacité à comprendre les concepts suivants: les concepts du cloud, les services de base Azure, la sécurité, la confidentialité, la conformité et la confiance et la tarification et le support d'Azure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -37,11 +37,11 @@ locales:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.'
+- Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Décrire la Concepts le cloud (15-20%)
-- Décrire les services essentiels d’Azure (30 à 35%)
-- Décrire la sécurité, la confidentialité, la conformité et la confiance (25 à 30%)
-- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie (20 à 25%)
+- Décrire les services essentiels d’Azure (30-35%)
+- Décrire la sécurité, la confidentialité, la conformité et la confiance (25-30%)
+- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie (20-25%)
 roles:
 - developer
 products:
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals

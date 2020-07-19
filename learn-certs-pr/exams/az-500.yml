@@ -17,7 +17,7 @@ summary: |-
 
   Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
 
-  Les candidats à cet examen doivent posséder de solides compétences en scripts et en automatisation; une compréhension solide de la mise en réseau, de la virtualisation et de l’architecture de cloud à N niveaux, ainsi qu’une bonne maîtrise des fonctionnalités, des produits et services du cloud pour Azure, ainsi que d’autres produits et services Microsoft.
+  Le candidat à cet examen doit être familiarisé avec le scriptage et l’automatisation, et doit avoir des connaissances approfondies de la mise en réseau et de la virtualisation. Le candidat doit également avoir d’excellentes connaissances avec les capacités du cloud, les produits et les services Azure, et d’autres produits et services Microsoft.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’identité et l’accès, mettre en œuvre une protection de plateforme, gérer les opérations de sécurité et sécuriser les données et les applications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -36,10 +36,10 @@ levels:
 - intermediate
 skills:
 - Le contenu de cet examen sera mis à jour le mercredi 29 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Gérer l’identité et l’accès (20-25 %)
-- Mettre en œuvre une protection de la plateforme (35-40 %)
-- Gérer les opérations de sécurité (15-20 %)
-- Sécuriser les données et les applications (30-35 %)
+- Gérer l’identité et l’accès (20-25%)
+- Mettre en œuvre une protection de la plateforme (35-40%)
+- Gérer les opérations de sécurité (15-20%)
+- Sécuriser les données et les applications (30-35%)
 roles:
 - security-engineer
 products:

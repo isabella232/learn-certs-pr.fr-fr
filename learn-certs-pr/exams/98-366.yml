@@ -10,12 +10,16 @@ summary: |-
 
   Les candidats à cet examen sont familiers avec les concepts et technologies généraux de réseautage. Les candidats doivent avoir une certaine expérience pratique avec Windows Server, la mise en réseau sous Windows, des outils de gestion de réseau, DNS, TCP / IP, le processus de résolution des noms et des protocoles et topologies réseau.
 
-  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du 31 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’Examen 98-366.</div>
+  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du mercredi 31 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’Examen 98-366.</div>
 subTitle: Les candidats à cet examen sont familiers avec les concepts et technologies généraux de réseautage. Les candidats doivent avoir une certaine expérience pratique avec Windows Server, la mise en réseau sous Windows, des outils de gestion de réseau, DNS, TCP / IP, le processus de résolution des noms et des protocoles et topologies réseau.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -46,7 +50,7 @@ relatedCertifications:
 - related:
     uid: certification.mta-networking-fundamentals
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

@@ -8,17 +8,11 @@ displayName: 77-422
 summary: |-
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  Guide d'étude MOS 2013 pour Microsoft PowerPoint Publié&#58; Octobre 2013
-
   Apprenez à démontrer votre expertise en PowerPoint. Exercez-vous et préparez-vous pour l’examen PowerPoint Microsoft Office Specialist (MOS) 2013 avec ce guide d’étude tout en un. Découvrez une couverture complète de l’examen par objectif, ainsi que des procédures et illustrations faciles à suivre pour réviser vos compétences essentielles. De plus, effectuez des tâches d’exercices pratiques pour appliquer ce que vous avez appris. Ce guide comprend des fichiers d’exercices pratiques à télécharger.
-
-  Acheter ce livre dans Microsoft Press Store
-
-  Les candidats à cet examen sont des professionnels de l'informatique (IT) qui utilisent Office pour créer des applications flexibles et sécurisées.
 subTitle: "Les candidats à cet examen sont des professionnels de l'informatique (IT) qui utilisent Office pour créer des applications flexibles et sécurisées."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
 locales:
 - en
 - zh-cn
@@ -34,6 +28,7 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:

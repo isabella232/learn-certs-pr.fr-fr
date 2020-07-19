@@ -8,12 +8,12 @@ displayName: 77-727
 summary: |+
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  Les candidats ayant réussi l'examen de certification Microsoft Office Specialist Excel 2016 maîtrisent les principes de base de l'environnement Excel et sont capables d'accomplir des tâches sans aide extérieure. Ils connaissent les principales fonctions d'Excel 2016 et sont en mesure de les utiliser sur un plan pratique. Les candidats créent et modifient un classeur contenant plusieurs feuilles et utilisent un élément graphique pour permettre la représentation visuelle des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données.
+  Les candidats ayant réussi l'examen de certification Microsoft Office Specialist Excel 2016 maîtrisent les principes de base de l'environnement Excel et sont capables d'accomplir des tâches sans aide extérieure. Ils connaissent les principales fonctions d'Excel 2016 et sont en mesure de les utiliser. Les candidats créent et modifient un classeur contenant plusieurs feuilles et utilisent un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données.
 
   Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
   - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
   - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats ayant réussi l'examen de certification Microsoft Office Specialist Excel 2016 maîtrisent les principes de base de l'environnement Excel et sont capables d'accomplir des tâches sans aide extérieure. Ils connaissent les principales fonctions d'Excel 2016 et sont en mesure de les utiliser sur un plan pratique. Les candidats créent et modifient un classeur contenant plusieurs feuilles et utilisent un élément graphique pour permettre la représentation visuelle des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données.
+subTitle: Les candidats ayant réussi l'examen de certification Microsoft Office Specialist Excel 2016 maîtrisent les principes de base de l'environnement Excel et sont capables d'accomplir des tâches sans aide extérieure. Ils connaissent les principales fonctions d'Excel 2016 et sont en mesure de les utiliser. Les candidats créent et modifient un classeur contenant plusieurs feuilles et utilisent un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
 providers:
@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br

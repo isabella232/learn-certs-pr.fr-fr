@@ -8,12 +8,12 @@ displayName: 77-730
 summary: |+
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  Les candidats qui réussissent l’examen Access 2016 maîtrisent les principes de base de l’environnement d'application. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables.
+  Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables
 
   Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
   - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
   - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats qui réussissent l’examen Access 2016 maîtrisent les principes de base de l’environnement d'application. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables.
+subTitle: Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
 providers:
@@ -28,7 +28,6 @@ locales:
 - fr
 - ja
 - ko
-- nb
 levels:
 - intermediate
 skills:

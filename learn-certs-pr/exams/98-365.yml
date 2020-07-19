@@ -10,11 +10,15 @@ summary: |-
 
   Les candidats à cet examen sont familiers avec les concepts et les technologies de Windows Server pour la gestion. Les candidats doivent posséder une certaine expérience pratique des outils et des concepts relatifs à Windows Server, aux réseaux Windows, à Active Directory, à la gestion de comptes et à la récupération du système.
 
-  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du 31 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’Examen 98-365.</div>
+  <div style='font-weight&#58; bold;'><br/>Il y a des mises à jour des examens à partir du mercredi 31 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’Examen 98-365.</div>
 subTitle: Les candidats à cet examen sont familiers avec les concepts et les technologies de Windows Server pour la gestion. Les candidats doivent posséder une certaine expérience pratique des outils et des concepts relatifs à Windows Server, aux réseaux Windows, à Active Directory, à la gestion de comptes et à la récupération du système.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -45,7 +49,7 @@ relatedCertifications:
 - related:
     uid: certification.mta-windows-server-administration-fundamentals
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

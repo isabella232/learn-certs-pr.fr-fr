@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 Les didacticiels qui ont été retirés ou seront bientôt retirés sont répertoriés dans les tableaux suivants. Les cours ne sont plus vendus après les dates de retrait.
 
+Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre ce lien: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## Formations retirées: Formations dispensées par un instructeur
 
 * Courseware retirements on 30 juin, 2020
@@ -112,7 +114,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 21331 | B | Konfigurieren und Verwalten von Microsoft® SharePoint 15 | allemand | 06/30/2020 |
     | 21341 | B | Kernlösungen von Microsoft® Exchange Server 2013 | anglais | 06/30/2020 |
     | 21415 | B | Implementieren von Umgebungen für Desktopanwendungen | allemand | 06/30/2020 |
-    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | allemand | 06/30/2020 |
+    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | allemand | 30/06/2020 |
     | 21687 | B | Konfigurieren von Windows® 8 | allemand | 06/30/2020 |
     | 21688 | A | Verwalten und Warten von Windows® 8 | allemand | 06/30/2020 |
     | 21689 | A | Erweitern der Kenntnisse auf MCSA für Windows 8 | allemand | 06/30/2020 |
@@ -120,11 +122,11 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 22416 | B | Implementing Desktop Application Environments | français | 06/30/2020 |
     | 22687 | B | Configuration de Windows® 8 | français | 06/30/2020 |
     | 22688 | A | Managing and Maintaining Windows 8 | français | 06/30/2020 |
-    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | japonais | 06/30/2020 |
+    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | japonais | 30/06/2020 |
     | 23336 | B | Core Solutions of Microsoft® Lync® Server 2013 | anglais | 06/30/2020 |
     | 23337 | B | Enterprise Voice and Online Services with Microsoft® Lync® Server 2013 | japonais | 06/30/2020 |
-    | 23341 | B | Core Solutions of Microsoft® Exchange Server 2013 | japonais | 06/30/2020 |
-    | 23342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | japonais | 06/30/2020 |
+    | 23341 | B | Core Solutions of Microsoft® Exchange Server 2013 | japonais | 30/06/2020 |
+    | 23342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | japonais | 30/06/2020 |
     | 23346 | C | Managing Office 365 Identities and Services | japonais | 06/30/2020 |
     | 23347 | A | Enabling and Managing Office 365 | japonais | 06/30/2020 |
     | 23409 | B | Server Virtualization with Windows Server Hyper-V® and System Center | japonais | 06/30/2020 |
@@ -182,10 +184,10 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | anglais | 02/28/2020 |
     | 10999 | A | SQL Server on Linux | anglais | 02/28/2020 |
     | 13969 | B | Active Directory® Services with Windows Server | japonais | 02/28/2020 |
-    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | anglais | 02/28/2020 |
+    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | anglais | 28/02/2020 |
     | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | anglais | 02/28/2020 |
-    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | anglais | 02/28/2020 |
-    | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | anglais | 02/28/2020 |
+    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | anglais | 28/02/2020 |
+    | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | anglais | 28/02/2020 |
     | 20415 | B | Implementing a Desktop Infrastructure | anglais | 02/28/2020 |
     | 20416 | B | Implementing Desktop Application Environments | anglais | 02/28/2020 |
     | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | anglais | 02/28/2020 |
@@ -208,7 +210,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | MB-200T02 | A | Dynamics 365: Power Platform automation | anglais | 01/31/2020 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | anglais | 01/31/2020 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | anglais | 01/31/2020 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | anglais | 01/31/2020 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | anglais | 01/31/2020 |
     | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | anglais | 01/31/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | anglais | 01/31/2020 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | anglais | 01/31/2020 |
@@ -230,19 +232,19 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | MD-100T01 | A | Installing Windows 10 | anglais | 31/12/2019 |
+    | MD-100T01 | A | Installing Windows 10 | anglais | 12/31/2019 |
     | MD-100T02 | A | Configuring Windows 10 | anglais | 31/12/2019 |
     | MD-100T03 | A | Protecting Windows 10 | anglais | 31/12/2019 |
     | MD-100T04 | A | Maintaining Windows 10 | anglais | 31/12/2019 |
     | MD-101T01 | A | Deploying the Modern Desktop | anglais | 31/12/2019 |
     | MD-101T02 | A | Managing Modern Desktops and Devices | anglais | 31/12/2019 |
     | MD-101T03 | A | Protecting Modern Desktops and Devices | anglais | 31/12/2019 |
-    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | anglais | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 31/12/2019 |
+    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | anglais | 12/31/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 12/31/2019 |
     | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | anglais | 31/12/2019 |
     | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | anglais | 31/12/2019 |
-    | 40389 | A | First Look Clinic: Windows Server 2016 | anglais | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 31/12/2019 |
+    | 40389 | A | First Look Clinic: Windows Server 2016 | anglais | 12/31/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 12/31/2019 |
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | anglais | 31/12/2019 |
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | anglais | 31/12/2019 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | japonais | 31/12/2019 |
@@ -315,10 +317,10 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | japonais | 31/12/2019 |
     | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | japonais | 31/12/2019 |
     | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | japonais | 31/12/2019 |
-    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | allemand | 31/12/2019 |
+    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | allemand | 12/31/2019 |
     | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | français | 31/12/2019 |
     | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | français | 31/12/2019 |
-    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | allemand | 31/12/2019 |
+    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | allemand | 12/31/2019 |
     | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | allemand | 31/12/2019 |
     | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
     | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
@@ -365,7 +367,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | anglais | 6/30/2019
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | anglais | 6/30/2019
     | 20776 | A | Engineering Data with Microsoft Cloud Services | anglais | 6/30/2019
-    | 32410 | B | Installing and Configuring Windows Server 2012 | turc | 6/30/2019
+    | 32410 | B | Installing and Configuring Windows Server 2012  | turc | 6/30/2019
     | 32411 | B | Administering Windows Server 2012 | turc | 6/30/2019
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | anglais | 6/30/2019
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | anglais | 6/30/2019
@@ -394,7 +396,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | anglais | 5/01/2019
     | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | anglais | 5/01/2019
     | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | anglais | 5/01/2019
-    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (retiring on 01-May-19) | anglais | 5/01/2019
+    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (Cette sera retirée le 01-mai-19) | anglais | /01/05/2019
     | AZ-200T01 | A | Select the appropriate Azure technology development solution | anglais | 5/01/2019
     | AZ-200T02 | A | Develop for Azure storage | anglais | 5/01/2019
     | AZ-200T03 | A | Develop Azure Platform as a Service solutions | anglais | 5/01/2019
@@ -510,7 +512,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 1846 | A | Microsoft® Solutions Framework Essentials | anglais | 30/6/2018
+    | 1846 | A | Microsoft® Solutions Framework Essentials | anglais | 6/30/2018
     | 1913 | A | Exchanging and Transforming Data Using XML and XSLT | anglais | 30/6/2018
     | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 Toolkit | anglais | 30/6/2018
     | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 - Delivery Guide | anglais | 30/6/2018
@@ -519,8 +521,8 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | allemand | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | français | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | allemand | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | français | 30/6/2018
-    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | allemand | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | français | 30/6/2018
+    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | allemand | 6/30/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | français | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | portugais | 30/6/2018
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | anglais | 30/6/2018
@@ -575,7 +577,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | anglais | 30/6/2018
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | anglais | 30/6/2018
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | anglais | 30/6/2018
-    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | anglais | 30/6/2018
+    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition  | anglais | 6/30/2018
     | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | anglais | 30/6/2018
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | anglais | 30/6/2018
     | 5105 | C | Deploying Windows Vista® Business Desktops | anglais | 30/6/2018
@@ -623,8 +625,8 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | arabe | 30/6/2018
     | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | arabe | 30/6/2018
     | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | anglais | 30/6/2018
-    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | anglais | 30/6/2018
-    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | anglais | 30/6/2018
+    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | anglais | 6/30/2018
+    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | anglais | 6/30/2018
     | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | allemand | 30/6/2018
     | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | allemand | 30/6/2018
     | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | français | 30/6/2018
@@ -648,10 +650,10 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | chinois | 30/6/2018
     | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | chinois | 30/6/2018
     | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | chinois | 30/6/2018
-    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | chinois | 30/6/2018
-    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | chinois | 30/6/2018
-    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | chinois | 30/6/2018
-    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | chinois | 30/6/2018
+    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | chinois | 6/30/2018
+    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | chinois | 6/30/2018
+    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | chinois | 6/30/2018
+    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | chinois | 6/30/2018
     | 10184 | A | Designing Windows Server 2008 Network Infrastructure | chinois | 30/6/2018
     | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | chinois | 30/6/2018
     | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(japonais) | japonais | 30/6/2018
@@ -678,7 +680,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
     | 80526 | A | Beschaffung in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
     | 80530 | A | Serviceverwaltung in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
-    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | anglais | 30/6/2018
+    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | anglais | 6/30/2018
     | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
     | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
     | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
@@ -686,9 +688,9 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 80544 | A | Warehouse Management System in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
     | 80545 | A | Customer Service in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
     | 80546 | A | Sales Management in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
-    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | anglais | 30/6/2018
-    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | anglais | 30/6/2018
-    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | anglais | 30/6/2018
+    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | anglais | 6/30/2018
+    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | anglais | 6/30/2018
+    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | anglais | 6/30/2018
     | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
     | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | allemand | 30/6/2018
     | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | espagnol | 30/6/2018
@@ -706,7 +708,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | français | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
 
-* Courseware retirements on vendredi 30 mars 2018
+* Retrait du matériel pédagogique le 30 mars 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -721,7 +723,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | anglais | 01/31/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | anglais | 01/31/2018
 
-* Courseware retirements on vendredi 30 juin 2017
+* Retrait du matériel pédagogique le 30 juin 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -765,7 +767,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | anglais | 4/15/2017
 
-* Courseware retirements on vendredi 31 mars 2017
+* Retrait du matériel pédagogique le 31 mars 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -855,26 +857,26 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | chinois Simplifié | 12/31/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | chinois Simplifié | 12/31/2016
 
-* Courseware retirements on lundi 31 octobre 2016
+* Retrait du matériel pédagogique le 31 octobre 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | anglais | 10/31/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | anglais | 10/31/2016
 
-* Courseware retirements on lundi 15 août 2016
+* Retrait du matériel pédagogique le 15 août 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | anglais | 8/15/2016
 
-* Courseware retirements on lundi 1 août 2016
+* Retrait du matériel pédagogique le 1 août 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | anglais | 8/1/2016
 
-* Courseware retirements on vendredi 24 juin 2016
+* Retrait du matériel pédagogique le 24 juin 2016
 
   [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
@@ -884,11 +886,11 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | anglais | 6/15/2016
 
-* Courseware retirements on lundi 18 avril 2016
+* Retrait du matériel pédagogique le 18 avril 2016
 
     | numéro de formation | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 38 | Office 2013 and Office 365 Demonstration Sessions | japonais | 18/4/2016
+    | 38 | Office 2013 and Office 365 Demonstration Sessions | japonais | 4/18/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | espagnol | 18/4/2016
     | 36 | Office 2013 and Office 365 Demonstration Sessions | allemand | 18/4/2016
     | 35 | Office 2013 and Office 365 Demonstration Sessions | russe | 18/4/2016
@@ -897,24 +899,24 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 32 | Office 2013 and Office 365 Demonstration Sessions | français | 18/4/2016
     | 31 | Office 2013 and Office 365 Demonstration Sessions | anglais | 18/4/2016
     | 23 | Windows 8 Demonstration Sessions | anglais | 18/4/2016
-    | 22 | Office 2010 Running Start: Demonstration Sessions | néerlandais | 4/18/2016
-    | 21 | Office 2010 Running Start: Demonstration Sessions | coréen | 18/4/2016
-    | 20 | Office 2010 Running Start: Demonstration Sessions | russe | 18/4/2016
-    | 19 | Office 2010 Running Start: Demonstration Sessions | chinois (Traditionnel) | 18/4/2016
-    | 18 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié) | 18/4/2016
-    | 17 | Office 2010 Running Start: Demonstration Sessions | portugais brésilien | 18/4/2016
-    | 16 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié), italien | 18/4/2016
-    | 15 | Office 2010 Running Start: Demonstration Sessions | espagnol | 18/4/2016
-    | 14 | Office 2010 Running Start: Demonstration Sessions | japonais | 18/4/2016
-    | 13 | Office 2010 Running Start: Demonstration Sessions | français | 18/4/2016
-    | 12 | Office 2010 Running Start: Demonstration Sessions | allemand | 18/4/2016
-    | 11 | Office 2010 Running Start: Demonstration Sessions | anglais | 18/4/2016
+    | 22 | Office 2010 Running Start: Demonstration Sessions | Dutch | 4/18/2016
+    | 21 | Office 2010 Running Start: Demonstration Sessions | coréen | 4/18/2016
+    | 20 | Office 2010 Running Start: Demonstration Sessions | russe | 4/18/2016
+    | 19 | Office 2010 Running Start: Demonstration Sessions | chinois (Traditionnel) | 4/18/2016
+    | 18 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié) | 4/18/2016
+    | 17 | Office 2010 Running Start: Demonstration Sessions | portugais brésilien | 4/18/2016
+    | 16 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié), italien | 4/18/2016
+    | 15 | Office 2010 Running Start: Demonstration Sessions | espagnol | 4/18/2016
+    | 14 | Office 2010 Running Start: Demonstration Sessions | japonais | 4/18/2016
+    | 13 | Office 2010 Running Start: Demonstration Sessions | français | 4/18/2016
+    | 12 | Office 2010 Running Start: Demonstration Sessions | allemand | 4/18/2016
+    | 11 | Office 2010 Running Start: Demonstration Sessions | anglais | 4/18/2016
 
 * Courseware retirements on jeudi 31 décembre 2015
 
   [Téléchargez la liste complète des instructor-led courses à la retraite](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Courseware retirements on lundi 31 août 2015
+* Retrait du matériel pédagogique le 31 août 2015
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -944,14 +946,14 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | anglais | 1/31/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | anglais | 1/31/2015
 
-* Courseware retirements on vendredi 31 octobre 2014
+* Retrait du matériel pédagogique le 31 octobre 2014
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | anglais | 10/31/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | anglais | 10/31/2014
 
-* Courseware retirements on lundi 25 août 2014
+* Retrait du matériel pédagogique le 25 août 2014
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -1002,7 +1004,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | 40005 | B | First Look Clinic: Windows Server 2012 | anglais | 12/31/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | anglais | 12/31/2013
 
-* Courseware retirements on lundi 30 septembre 2013
+* Retrait du matériel pédagogique le 30 septembre 2013
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -1018,13 +1020,13 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
 
     | retirés le 30 juin Numéro de formation | Version | titre | langue | Notes |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | anglais | Remplacé par le Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
-    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | anglais | Remplacé par le Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
-    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | anglais | Remplacé par le Course 6435B: Designing Windows Server 2008 Network and Applications Infrastructure
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | anglais | Replaced by Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
+    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | anglais | Replaced by Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
+    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | anglais | Replaced by Course 6435B: Designing Windows Server 2008 Network and Applications Infrastructure
 
 ## Formations retirées: Apprentissage en ligne
 
-* Courseware retirements on vendredi 29 décembre 2017
+* Retrait du matériel pédagogique le 29 décembre 2017
 
   * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
@@ -1035,7 +1037,7 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | anglais | 8/15/2017 |
 
-* Courseware retirements on vendredi 30 juin 2017
+* Retrait du matériel pédagogique le 30 juin 2017
 
   * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
@@ -1050,13 +1052,13 @@ Les didacticiels qui ont été retirés ou seront bientôt retirés sont répert
 
 ## Questions fréquemment posées (FAQ) concernant le retrait des cours et des MOC On-Demand
  
-**Q: Pourquoi les cours sont-ils retirés ?**
+**Q : Pourquoi les cours sont-ils retirés ?**
   
 Microsoft suit en permanence les tendances du secteur et révise les exigences de certification pour rester en phase avec la technologie. Afin de garantir que nous vous offrons les possibilités de formation les plus pertinentes, nous offrons régulièrement de nouveaux cours et révisons ou supprimons les anciens cours. 
 
-**Q: Quels critères sont-ils utilisés pour déterminer si un cours doit être retiré ?**
+**Q : Quels critères sont-ils utilisés pour déterminer si un cours doit être retiré ?**
  
-Un cours est  généralement retiré dans l'un des cas suivants:
+Un cours est  généralement retiré dans l'un des cas suivants :
 
 - Le cours a été remplacé. Si un nouveau cours est publié. Il remplace un ou plusieurs cours précédents et couvre la matière d'une manière substantiellement nouvelle.
 - Si la technologie abordée dans un cours n’est plus gérée par Microsoft, alors le cours sera généralement retiré.
@@ -1065,34 +1067,34 @@ Un cours est  généralement retiré dans l'un des cas suivants:
 - Les cours proposés par des auteurs non-affiliés à Microsoft via le programme de création communautaire peuvent être retirés pour n’importe quelle raison, à la demande de l'auteur.
 - Des problèmes de qualité peuvent entraîner le retrait d'un cours. Si un cours présente des problèmes de qualité, celui-ci peut être retiré jusqu'à ce que la qualité soit améliorée.
   
-**Q: Comment puis-je savoir si un cours est retiré ?**
+**Q : Comment puis-je savoir si un cours est retiré ?**
   
 Microsoft publie une liste trimestrielle des cours qui sont retirés et de ceux dont le retrait est prévu dans les trois à six prochains mois. Les annonces de retrait sont communiquées par le biais de communications avec les partenaires de formation, les formateurs, les fournisseurs et d'autres publics intéressés. Les descriptions de cours sur le catalogue de formation Microsoft et le catalogue de la bibliothèque de didacticiels sont mises à jour avec l'annonce de la date de retrait.
 
-**Q: Comment puis-je acheter des cours après la date de retrait ?**
+**Q : Comment puis-je acheter des cours après la date de retrait ?**
 
 Les cours ne sont plus vendus après les dates de retrait. La date de retrait est publiée sur la page web du catalogue pour chaque cours et par le biais de canaux de communication réguliers pour chaque public. À la date effective de retrait, le didacticiel est marqué comme n'étant plus à vendre. Pour éviter toute confusion, le cours reste inscrit comme non à vendre pendant un certain temps après le retrait effectif, jusqu'à ce qu'il soit archivé et entièrement retiré du catalogue.
 
-**Q: Puis-je acheter la version numérique d'un cours avant qu’il ne soit retiré, et le télécharger ou l’utiliser après sa date de retrait ?**
+**Q : Puis-je acheter la version numérique d'un cours avant qu’il ne soit retiré, et le télécharger ou l’utiliser après sa date de retrait ?**
 
 Une fois le cours retiré, il n’est plus possible de le télécharger. Si vous avez téléchargé ou reçu le didacticiel avant la date de retrait, vous pouvez l'utiliser conformément aux conditions de la licence.
 
-**Q: Qu’en est-il des cours retirés que l’on avait assigné, avant leur retrait, à mon Plan d'apprentissage et/ou ajouté à la section « Mes Cours » ?**
+**Q : Qu’en est-il des cours retirés que l’on avait assigné, avant leur retrait, à mon Plan d'apprentissage et/ou ajouté à la section « Mes Cours » ?**
 
 Vous verrez toujours ces cours dans la section « Mes Cours » après leur retrait, mais vous obtiendrez un message d’erreur si vous tentez de l’ouvrir.
 
-**Q: Si je n'ai pas complété un cours avant son retrait, serais-je autorisé à le terminer après qu’il ait été retiré ?**
+**Q : Si je n'ai pas complété un cours avant son retrait, serais-je autorisé à le terminer après qu’il ait été retiré ?**
 
 No. Après le retrait d’un cours, vous ne pouvez plus y avoir accès.
   
-**Q: Comment les rapports d'activité des cours afficheront les cours non terminés au moment de leur retrait ?**
+**Q : Comment les rapports d'activité des cours afficheront les cours non terminés au moment de leur retrait ?**
 
 Les rapports d'activité des cours reflètent votre progression dans un cours au moment de son retrait. Par exemple, si un cours est achevé à 60 % par un utilisateur au moment de son retrait, les rapports d'activité du cours indiqueront une progression de 60 %. Le pourcentage d'achèvement d'un cours ne peut pas être modifié après qu'un cours a été retiré.
 
-**Q: Sera-t-il toujours possible de trouver les cours retirés sur le site d'apprentissage en ligne ?**
+**Q : Sera-t-il toujours possible de trouver les cours retirés sur le site d'apprentissage en ligne ?**
 
 No. Les cours retirés n'apparaissent plus dans les résultats de recherche ou dans le catalogue de formation.
 
-**Q: Lorsqu’un cours est retiré, les MOC On-Demand (MOD) correspondantes sont-elles également retirées ?**
+**Q : Lorsqu’un cours est retiré, les MOC On-Demand (MOD) correspondantes sont-elles également retirées ?**
 
 Oui. Étant donné que le MOD correspond au didacticiel, lorsqu'un cours est retiré, il est retiré à la même date.

@@ -12,7 +12,7 @@ summary: |-
 subTitle: Les candidats peuvent formater le contenu des messages électroniques à l'aide des outils de formatage des paragraphes et caractères, créer ou insérer des éléments graphiques, tels que des graphiques, des tableaux et graphiques SmartArt, dans les messages. Ils peuvent également envoyer des messages à des destinataires privés à l'aide du champ Cci. Les candidats sont capables de créer des enregistrements de contact, des tâches et des rendez-vous à partir de messages entrants. Ils sont également capables de configurer des groupes de contact pour faciliter la communication avec d'autres utilisateurs d'Outlook. Ils savent également partager des informations de planification avec d'autres utilisateurs d'Outlook. Les candidats savent planifier des réunions impliquant des personnes et des ressources système et ils sont capables de déléguer des tâches à d'autres utilisateurs. Les utilisateurs de base savent personnaliser la fenêtre de programme Outlook et la barre d'outils d'accès rapide pour maximiser leur efficacité. Ils organisent les messages et d'autres éléments Outlook et ils affichent différentes vues des dossiers de messagerie et du calendrier, du carnet d'adresses et de la liste des tâches. Ils savent également afficher plusieurs calendriers et partager des calendriers avec d'autres utilisateurs d'Outlook.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-423&examname=Outlook%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-423
 locales:
 - en
 - zh-tw
@@ -22,13 +22,15 @@ locales:
 - ko
 - nb
 - nl
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:
-- Gérer l’environnement Outlook (25 à 30 %)
-- Gérer les messages (25 à 30 %)
-- Gérer les horaires (30 à 35 %)
-- Gérer les contacts et les groupes (15 à 20 %)
+- Gérer l’environnement Outlook (25-30%)
+- Gérer les messages (25-30%)
+- Gérer les horaires (30-35%)
+- Gérer les contacts et les groupes (15-20%)
 roles:
 - business-user
 products:

@@ -6,13 +6,16 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mardi 28 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  </div>
 
-  Les Solution Architects (architectes en solutions) pour applications pour les finances et les opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui travaillent en tant que consultants pour des organisations et les membres de l’équipe de mise en œuvre pour préciser les besoins de l’entreprise en une solution bien définie et rentable.
+  Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
 
-  Un Solution Architects (architectes en solutions) est responsable de l’intégrité et de la bonne livraison de la conception de la solution complète. L’architecte offre des conseils essentiels pendant la période avant la mise sur le marché et la conception et donne des conseils pendant le reste du projet pour régler les problèmes qui se présentent tout au long de la mise en œuvre.
+  Un architecte de solutions est responsable de l'intégrité et de la livraison réussie de la solution de bout en bout. L'architecte fournit des conseils essentiels pendant les préventes tout au long du processus de conception et continue de surveiller tout le reste du cycle de vie du projet afin de régler les problèmes qui surviennent tout au long de la mise en œuvre et d'assurer la réalisation des objectifs de mise en œuvre.
 
-  L’Solution Architects (architectes en solutions) doit avoir d'importantes connaissance et expérience qui couvrent les besoins de l’entreprise et les capacités des produits. L’Solution Architects (architectes en solutions) doivent avoir une importante expertise fonctionnelle et technique en tant que développeur ou en tant que consultant fonctionnel dans un des domaines suivants&#58; finances, production ou gestion de la chaîne logistique. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
+  L'architecte de solutions doit posséder une vaste connaissance et expérience des normes de l'industrie et des capacités des produits. L'architecte de solution doit posséder une vaste expertise dans les domaines fonctionnels et techniques de la solution Dynamics. Ils devraient connaître les plates-formes, les outils et les secteurs fonctionnels comme les finance, la gestion de la chaîne d'approvisionnement et la fabrication. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: identifier les exigences des solutions, concevoir les composants des solutions et définir le test des solutions et des stratégies de gestion.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -22,10 +25,12 @@ locales:
 levels:
 - advanced
 skills:
-- Identifier les exigences des solutions (30-35 %)
-- Concevoir les composants des solutions (40-45 %)
-- Définir le test des solutions et des stratégies de gestion (25-30 %)
+- Le contenu de cet examen sera mis à jour le mardi 28 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Identifier les exigences des solutions (30-35%)
+- Concevoir les composants des solutions (40-45%)
+- Définir le test des solutions et des stratégies de gestion (25-30%)
 roles:
+- functional-consultant
 - solution-architect
 products:
 - dynamics
@@ -38,7 +43,7 @@ relatedCertifications:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
 - title: Parcours de formation en vue de la certification
-  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

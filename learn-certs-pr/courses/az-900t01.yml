@@ -31,14 +31,12 @@ products:
 exams:
 - uid: exam.az-900
 summary: |-
-  Cette formation fournira un niveau de connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure. Cette formation peut être suivie comme une première étape facultative d’apprentissage des services de cloud et de Microsoft Azure, avant de suivre les cours suivants sur Microsoft Azure et les services de cloud de Microsoft.
+  Cette formation sur une jours fournira des connaissances fondamentales sur les concepts du Cloud; les services de base d’Azure; la sécurité, la confidentialité, la conformité et la confiance; et la tarification et le support d’Azure.
 
-  Cette formation traitera des concepts informatiques généraux du cloud, ainsi que des modèles et services informatiques généraux du cloud, tels que le cloud public, privé ou hybride, l’infrastructure en tant que service (IaaS), la plateforme en tant que service (PaaS), et le logiciel en tant que service (SaaS).
-
-  Elle couvre également certains services et solutions de base d’Azure, ainsi que les services essentiels d’Azure relatifs à la sécurité, la confidentialité, la conformité et la confiance. Elle traite finalement de la tarification et des services de support disponibles avec Azure.
+  Remarque &#58; Cette formation ne fournit pas aux étudiants de passe Azure ni de temps de participation au laboratoire pratique. Si vous êtes intéressé par une expérience de laboratoire pratique plus interactive, considérez la formation sur deux jours AZ-900T00 &#58; Microsoft Azure Fundamentals, qui inclut un laboratoire pratique dirigé par un instructeur. Le contenu des deux formations s’aligne sur le domaine de l’objectif de l’examen AZ-900.
 
   #### Profil de l’audience
-  Il n’y a pas de prérequis à cette formation. Elle est destinée à toute personne qui souhaite en savoir plus sur Microsoft Azure.
+  Cette formation convient aux gestionnaires de programmes et de ventes techniques, possédant une formation informatique. Ces étudiants souhaitent s’informer sur nos offres, voir comment les composants sont mis en œuvre, et poser des questions sur les produits et les fonctionnalités. Cette formation ne fournit pas de passe Azure ni du temps de classe aux étudiants pour réaliser des activités de laboratoire pratique. Les étudiants peuvent obtenir un essai gratuit et essayer les exercices en dehors de la classe. Cette formation se compose principalement de conférence et de démonstrations. Cette formation contribuera à préparer les personnes à l’examen AZ-900.
 prerequisitesSection: |-
   Il n’y a pas de prérequis à cette formation. Aucune expérience technique en informatique n’est requise, mais des connaissances ou une expérience générales en informatique seront utiles.
 outlineSection: |-
@@ -47,10 +45,10 @@ outlineSection: |-
   #### Leçons
   - Objectifs d’apprentissage
   - Pourquoi des services de cloud?
-  - l’ « infrastructure as a service » (IaaS), la « platform as a service » (PaaS), , et le « software as a service » (SaaS)
+  - l’ « infrastructure as a service » (IaaS), la « platform as a service » (PaaS), et le « software as a service » (SaaS)
   - Modèles de cloud public, privé et hybride
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Comprendre les concepts généraux du cloud computing
 
 
@@ -63,7 +61,8 @@ outlineSection: |-
   - Outils de gestion Azure
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre les services de base disponibles avec Microsoft Azure
+  - Comprendre les services de base disponibles avec
+  Microsoft Azure
 
   ### Module 3&#58; Sécurité, confidentialité, conformité et confiance
   Dans ce module, vous découvrirez la sécurité, la confidentialité, la conformité, et la confiance avec Microsoft Azure.
@@ -75,17 +74,17 @@ outlineSection: |-
   - Surveillance et génération de rapports dans Azure.
   - Normes de confidentialité, de conformité, et de protection des données dans Azure.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
-  - Comprendre la sécurité, la confidentialité, la conformité et la confiance avec Microsoft Azure.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Comprendre
+  Sécurité, confidentialité, conformité et confiance avec Microsoft Azure.
 
-  ### Module 4&#58; Tarification et prise en charge d’Azure
+  ### Module 4&#58; Tarification, accords de niveau de service et cycle de vie Azure
   Dans ce module, vous vous concentrerez sur la tarification et les modèles de soutien disponibles avec Microsoft.
   #### Leçons
   - Abonnements Azure
   - Planification et gestion des coûts
-  - Options de support disponibles avec Azure.
   - Cycle de vie des services dans Azure
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre la tarification et les modèles de support disponibles avec Microsoft.
+  - Comprendre la tarification et les modèles de cycle de vie des services avec Microsoft.
 

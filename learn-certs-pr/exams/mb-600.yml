@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le jeudi 30 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  </div>
 
   Les architectes de solutions pour Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière selon laquelle les solutions répondent aux besoins opérationnels et techniques plus vastes des entreprises.
 
@@ -22,9 +25,10 @@ locales:
 levels:
 - advanced
 skills:
-- Procéder à une analyse des exigences et de la conception de la solution (30-35 %)
-- Créer une solution (45-50 %)
-- Mettre une solution en œuvre (20-25 %)
+- Le contenu de cet examen sera mis à jour le jeudi 30 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Procéder à une analyse des exigences et de la conception de la solution (30-35%)
+- Créer une solution (45-50%)
+- Mettre une solution en œuvre (20-25%)
 roles:
 - solution-architect
 products:
@@ -39,7 +43,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Parcours de formation en vue de la certification
-  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

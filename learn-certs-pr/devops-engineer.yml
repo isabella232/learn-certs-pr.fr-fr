@@ -2,24 +2,28 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Les experts Azure DevOps comprennent des personnes, des processus et des technologies pour délivrer de façon continue des produits et services de valeur, à la hauteur des besoins et objectifs professionnels des utilisateurs finaux.'
+  description: Les experts Azure DevOps comprennent des personnes, des processus et des technologies pour délivrer de façon continue des produits et services de valeur, à la hauteur des besoins et objectifs professionnels des utilisateurs finaux.
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les experts Azure DevOps comprennent des personnes, des processus et des technologies pour délivrer de façon continue des produits et services de valeur, à la hauteur des besoins et objectifs professionnels des utilisateurs finaux.
+  Les candidats à la certification DevOps Engineer Expert doivent avoir des connaissances spécialisées pratiques avec les gens, les processus, et les technologies, afin de livrer une valeur métier continue.
+
+  Les responsabilités de ce rôle incluent la conception et l’implémentation de stratégies pour la collaboration, le code, l’infrastructure, le code, l’infrastructure, le contrôle des sources, la sécurité, la conformité, l’intégration continue, les essais, la livraison, le monitoring et le retour d’information.
+
+  Le candidat à cette certification doit être à la fois familier avec l’administration et le développement Azure et doit être expert dans au moins l’un de ces domaines.
 subTitle: Les experts Azure DevOps comprennent des personnes, des processus et des technologies pour délivrer de façon continue des produits et services de valeur, à la hauteur des besoins et objectifs professionnels des utilisateurs finaux.
 levels:
 - advanced
 skills:
-- Concevoir une stratégie DevOps
-- Mettre en œuvre des processus de développement DevOps
-- Mettre en œuvre une intégration continue
-- Mettre en œuvre une livraison continue
-- Mettre en œuvre une gestion de la dépendance
-- Mettre en œuvre l’infrastructure d'application
-- Mettre en œuvre des commentaires continus
+- Développer une stratégie d’instrumentation.
+- Développer une stratégie d’ingénierie SRE (Site Reliability Engineering).
+- Développer un plan de sécurité et de conformité.
+- Gérer le contrôle des sources.
+- Faciliter la communication et la collaboration.
+- Définir et implémenter l’intégration continue.
+- Définir et implémenter une livraison continue et une stratégie de gestion des publications.
 roles:
 - devops-engineer
 type: role-based
@@ -45,7 +49,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 exams:
 - uid: exam.az-400
 resources:
-- title: Affiche des certifications Azure
+- title: Affiche de certification Azure
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Parcours vers la certification

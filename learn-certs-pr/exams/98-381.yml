@@ -10,12 +10,16 @@ summary: |-
 
   Les candidats à cet examen doivent être en mesure de reconnaître et d'écrire un code Python syntaxiquement correct, de reconnaître les types de données pris en charge par Python et de pouvoir reconnaître et écrire le code Python qui résoudra logiquement un problème donné.
 
-  Les candidats doivent avoir au minimum une formation et/ou une expérience pratique d'environ 100 heures avec le langage de programmation Python, connaître ses fonctionnalités et ses capacités et comprendre comment écrire, déboguer et maintenir un code Python bien formé et bien documenté.
+  On s'attend à ce que les candidats aient au minimum une formation et/ou une expérience pratique d'environ 100 heures avec le langage de programmation Python, connaissent leurs fonctionnalités et leurs capacités et comprennent comment écrire, déboguer et maintenir un code Python bien formé et bien documenté.
 subTitle: Les candidats à cet examen doivent être en mesure de reconnaître et d'écrire un code Python syntaxiquement correct, de reconnaître les types de données pris en charge par Python et de pouvoir reconnaître et écrire le code Python qui résoudra logiquement un problème donné.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
 practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -45,7 +49,7 @@ relatedCertifications:
 - related:
     uid: certification.mta-introduction-to-programming-using-python
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

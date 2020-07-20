@@ -8,12 +8,12 @@ displayName: 77-729
 summary: |+
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et sont en mesure d'utiliser correctement PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
+  Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 
   Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
   - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
   - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et sont en mesure d'utiliser correctement PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
+subTitle: Les candidats qui réussissent l'examen maîtrisent les principes de base de l'environnement PowerPoint et seront en mesure de l'utiliser sur une application de PowerPoint 2016. Les candidats pourront créer, modifier et améliorer des présentations et des diaporamas. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
 providers:
@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br

@@ -12,7 +12,11 @@ summary: |-
 subTitle: Les candidats à cet examen cherchent à attester de leurs compétences élémentaires en développement logiciel. Les candidats doivent de préférence être familiarisés avec les concepts technologiques présentés ici et en avoir une expérience pratique en suivant les formations pertinentes ou en s'aidant des didacticiels et exemples disponibles sur MSDN ainsi que dans Microsoft Visual Studio. Les candidats à cet examen doivent également connaître les rudiments du langage C# ou du langage Microsoft Visual Basic .NET.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -47,7 +51,7 @@ relatedCertifications:
 - related:
     uid: certification.mta-software-development-fundamentals
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

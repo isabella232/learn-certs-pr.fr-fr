@@ -23,6 +23,9 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
 - en
+- ja
+- zh-cn
+- ko
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
@@ -31,12 +34,12 @@ providers:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le lundi 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Développer des solutions informatiques Azure (25-30%)
 - Mettre au point pour le stockage Azure (10-15%)
 - Mettre en œuvre la sécurité Azure (15-20%)
 - Surveiller, dépanner et optimiser les solutions Azure (10-15%)
-- Se connecter et consommer les services Azure et les services de tiers (25-30%)
+- Se connecter et consommer les services Azure et les services des tiers (25-30%)
 roles:
 - developer
 products:

@@ -8,12 +8,12 @@ displayName: 77-725
 summary: |+
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  Les candidats ayant réussi l'examen Word 2016 maîtrisent les principes de base de l'environnement Word et sont capables d'accomplir des tâches sans aide extérieure. Ils sont en mesure d'utiliser correctement les principales fonctionnalités de Word 2016 en créant et en modifiant des documents de deux ou trois pages à diverses fins et dans diverses situations. Les exemples de documents comprennent des rapports professionnels, des lettres d'information à plusieurs rubriques, des C.V. et des lettres commerciales.
+  Les candidats ayant réussi l'examen Word 2016 maîtrisent les principes de base de l'environnement Word et sont capables d'accomplir des tâches sans aide extérieure. Ils sont en mesure d'utiliser correctement les principales fonctionnalités de Word 2016 en créant et en modifiant des documents de deux ou trois pages à diverses fins et dans diverses situations. Les exemples de documents comprennent des rapports professionnels, des lettres d'information à plusieurs rubriques, des terminer l'examen. et des lettres  commerciales.
 
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
+  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016 &#58;
   - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
   - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats ayant réussi l'examen Word 2016 maîtrisent les principes de base de l'environnement Word et sont capables d'accomplir des tâches sans aide extérieure. Ils sont en mesure d'utiliser correctement les principales fonctionnalités de Word 2016 en créant et en modifiant des documents de deux ou trois pages à diverses fins et dans diverses situations. Les exemples de documents comprennent des rapports professionnels, des lettres d'information à plusieurs rubriques, des C.V. et des lettres commerciales.
+subTitle: Les candidats ayant réussi l'examen Word 2016 maîtrisent les principes de base de l'environnement Word et sont capables d'accomplir des tâches sans aide extérieure. Ils sont en mesure d'utiliser correctement les principales fonctionnalités de Word 2016 en créant et en modifiant des documents de deux ou trois pages à diverses fins et dans diverses situations. Les exemples de documents comprennent des rapports professionnels, des lettres d'information à plusieurs rubriques, des terminer l'examen. et des lettres  commerciales.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
 providers:
@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br
@@ -45,7 +44,7 @@ skills:
 - Créer et gérer des documents (25-30%)
 - Mettre en forme le texte, les paragraphes et les sections (25-30%)
 - Créer des tables et des listes (20-25%)
-- Créer et gérer des références (5-10 %)
+- Créer et gérer des références (5-10%)
 - Insérer et mettre en forme des éléments graphiques (20-25%)
 roles:
 - developer

@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: 'Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.'
+  description: Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -23,15 +23,19 @@ type: role-based
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100
 resources:
-- title: Affiche des certifications Azure
+- title: Affiche de certification Azure
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guide de formation et de certification

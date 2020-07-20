@@ -1,6 +1,6 @@
 ---
-title: Offres | Microsoft Docs
-description: Offres 
+title: Offers | Microsoft Docs
+description: Offers 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Offres
 
-## Exam Replay [Retransmission de l'examen]
+## Exam Replay
 
 Validez vos compétences, obtenez un avantage professionnel et renforcez votre confiance en vous. Les bons de présentation aux examens Exam Replay expirent douze (12) mois après la date d'achat et ne peuvent pas être cumulés avec d'autres offres. Vous devez planifier et passer les examens (et les sessions de rattrapage) au cours des douze mois suivant l'achat. Consultez les [questions fréquemment posées](#frequently-asked-questions) pour plus d'informations. Si vous rencontrez des difficultés lors de l'achat ou de l'utilisation d'une offre de retransmission de l'examen, envoyez un courriel à l'[équipe de Support](mailto:mindhub@pearson.com).
 
@@ -42,11 +42,12 @@ Validez vos compétences, obtenez un avantage professionnel et renforcez votre c
 
 
 ## Économisez grâce aux remises pour étudiants
-Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professional) en attestant votre statut d'étudiant avant de vous inscrire à un examen. Si votre établissement est membre du programme Microsoft Imagine Academy, vous êtes peut-être également éligible à des remises supplémentaires. *Remarque: les remises étudiants pour les examens Microsoft Certified ne sont pas disponibles en Inde et en Chine.*
+
+Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professional) en attestant votre statut d'étudiant avant de vous inscrire à un examen. *Remarque: les remises étudiants pour les examens Microsoft Certified ne sont pas disponibles en Inde et en Chine.*
 
 [**En savoir plus**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>Foire aux questions
+## Foire aux questions
 
 **Q. Qu'est-ce qu'un Exam Replay ?**
 
@@ -74,7 +75,7 @@ Profitez d'importantes remises sur les examens MCP (Microsoft Certified Professi
 
 **Q. Puis-je planifier mon examen initial et la session de rattrapage en même temps ?**
 
-**R.** Non, vous ne pouvez pas vous inscrire à une session de rattrapage tant que vous n'avez pas passé et échoué à l'examen initial. Pour plus d'informations, consultez le [règlement concernant le rattrapage d'examens de certification Microsoft](/learn/certifications/certification-exam-policies#exam-retake-policy).
+**R.** Non, vous ne pouvez pas vous inscrire à une session de rattrapage tant que vous n'avez pas passé et échoué à l'examen initial. Pour plus d'informations, consultez la . [politique de rattrapage d'examen de certification Microsoft](/learn/certifications/certification-exam-policies#exam-retake-policy).
 
 **Q. Comment puis-je activer le test d'entraînement et combien de temps est-il valide ?**
 

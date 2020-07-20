@@ -15,7 +15,11 @@ subTitle: Les candidats à cet examen doivent être en mesure de reconnaître et
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
 practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -42,7 +46,7 @@ relatedCertifications:
 - related:
     uid: certification.mta-introduction-to-programming-using-html-and-css
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

@@ -1,0 +1,290 @@
+### YamlMime:Course
+title: Windows Server 2019 Administration
+metadata:
+  title: 'Course WS-011T00-A: Windows Server 2019 Administration'
+  description: 'Course WS-011T00-A: Windows Server 2019 Administration'
+uid: course.ws-011t00
+courseNumber: 'WS-011T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utiliser des techniques et des outils administratifs dans Windows Server 2019.
+- skill: Implémenter des services d’identité.
+- skill: Gérer des services d’infrastructure réseau.
+- skill: Configurer les serveurs de fichiers et le stockage.
+- skill: Gérer les machines virtuelles à l’aide de la virtualisation Hyper-V et les conteneurs.
+- skill: Implémenter des solutions de haute disponibilité et de reprise d’activités après sinistre.
+- skill: Appliquer des fonctionnalités de sécurité afin de protéger les ressources critiques.
+- skill: Configurer les services de bureau à distance.
+- skill: Configurer le déploiement d’une infrastructure bureau basé sur une machine virtuelle.
+- skill: Implémenter l’accès à distance et les services Web.
+- skill: Implémenter la surveillance des services et la surveillance des performances, et appliquer la résolution des problèmes.
+- skill: Effectuer des mises à niveau et une migration liées à l’AD DS, et le stockage.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Cette formation de cinq jours dispensée par un instructeur s’adresse principalement aux professionnels de l’informatique qui ont de l’expérience avec Windows Server. Elle est conçue pour les professionnels qui seront responsables de gérer l’identité, la mise en réseau, le stockage et le calcul à l’aide de Windows Server 2019 et qui doivent comprendre les scénarios, les exigences et les options disponibles et applicables à Windows Server 2019. Cette formation enseigne aux professionnels de l’informatique les compétences d’administration fondamentales nécessaires pour déployer et prendre en charge Windows Server 2019 dans la plupart des organisations.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels de l’informatique qui ont une expérience pratique avec Windows Server et qui cherchent une formation unique de cinq jours qui couvre les composants et les technologies d’administration de base dans Windows Server 2019. Cette formation aide également les administrateurs de serveurs des versions précédentes de Windows Server à actualiser leurs connaissances et compétences liées à Windows Server 2019.
+  En outre, cette formation peut aider les personnes qui recherchent du matériel de préparation aux examens liés à Windows Server. Cette formation s’adresse également aux personnes travaillant dans un centre d’assistance qui souhaitent passer à la maintenance des serveurs.
+prerequisitesSection: |-
+  - une exposition et de l’expérience des concepts et technologies d’Active Directory Domain Services (AD DS) dans Windows Server 2012 ou Windows Server 2016.
+  - une exposition et de l’expérience des concepts et technologies d’Active Directory Domain Services (AD DS) dans Windows Server 2012 ou Windows Server 2016.
+  - une expérience et une compréhension des technologies de mise en réseau de base, telles que l’adressage IP, la résolution de noms et le Dynamic Host Configuration Protocol (DHCP).
+  - une expérience de travail et une compréhension des concepts de virtualisation de Microsoft Hyper-V et du serveur de base.
+  - une conscience des meilleures pratiques en matière de sécurité.
+  - Une expérience pratique de travail avec les systèmes d’exploitation client Windows, tels que Windows 8, Windows 8.1 ou Windows 10.
+  - Une expérience de base avec Windows PowerShell.
+outlineSection: |-
+  ### Module 1#58; Présentation de l’administration de Windows Server
+  Ce module explique comment distinguer entre les différentes éditions, techniques de déploiement, de service et d’activation Windows Server 2019. Le module présente également Windows Server Core et le compare avec la version Desktop Experience. Le module décrit les outils et les concepts de l’administration de Windows Server, notamment Windows Admin Center, PowerShell, et la délégation des privilèges.
+  #### Leçons
+  - Introduction à Windows Server 2019
+  - Présentation de Windows Server Core
+  - Présentation des principes d’administration et des outils de Windows Server
+
+
+  #### Laboratoire &#58; Déployer et configurer Windows Server.
+  - Déployer et configurer Server Core.
+  - Implémenter et utiliser l’administration de serveur à distance.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire Windows Server ainsi que les techniques de déploiement, de service et d’activation.
+  - Décrire Windows Server Core, ses spécifications et les manières de l’administrer.
+
+
+  ### Module 2&#58; Services d’identité dans Windows Server.
+  Ce module présente les services d’identité et décrit Active Directory Domain Services (AD DS) dans un environnement Windows Server. Ce module décrit la manière de déployer les contrôleurs de domaine dans AD DS, ainsi que Azure Active Directory (AD) et les avantages obtenus de l’intégration d’Azure AD avec AD DS. Le module traite également des bases de la stratégie de groupe et de la manière de configurer les objets de la stratégie de groupe (GPO) dans un environnement de domaine. Finalement, le module décrit le rôle des services du certificat Active Directory et l’usage du certificat.
+  #### Leçons
+  - Présentation d’AD DS
+  - Déployer des contrôleurs de domaine Windows Server
+  - Aperçu d’Azure AD
+  - Mise en œuvre de la Stratégie de Groupe
+  - Présentation des services de certificats Active Directory
+
+
+  #### Laboratoire &#58; Implémenter des services d’identité et une stratégie de groupe
+  - Déployer un nouveau contrôleur de domaine sur Server Core.
+  - Configurer une stratégie de groupe.
+  - Déployer et utiliser des services de certificats.
+  - Expliquer les bases de la stratégie de groupe et configurer les GPO dans un environnement de domaine.
+  - Décrire décrit le rôle des services du certificat Active Directory et l’usage du certificat.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire AD DS dans un environnement Windows Server.
+  - Déployer des contrôleurs de domaine dans AD DS.
+  - Décrire Azure AD et les avantages obtenus de l’intégration d’Azure AD avec AD DS.
+
+
+  ### Module 3&#58; Services de l’infrastructure de réseau dans Windows Server
+  Ce module décrit la manière d’implémenter les services de l’infrastructure de réseau de base dans Windows Server. Ce module couvre le déploiement, la configuration et la gestion de DNS et IPAM. Le module décrit également l’utilisation des services d’accès à distance.
+  #### Leçons
+  - Déployer et gérer DHCP
+  - Déployer et gérer le service DNS
+  - Déployer et gérer IPAM
+  - Services d’accès à distance dans Windows Server
+
+
+  #### Laboratoire &#58; Implémenter et configurer les services de l’infrastructure de réseau dans Windows Server
+  - Déploiement et configuration d’DHCP
+  - Déploiement et configuration d’DNS
+  - Implémentation d’Proxy d’Application Web
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire, déployer et configurer le service DHCP.
+  - Déployer, configurer et gérer DNS.
+  - Décrire, déployer et gérer IPAM.
+
+
+  ### Module 4&#58; Gestion des serveurs de fichiers et du stockage dans Windows Server
+  Ce module décrit la manière de configurer les serveurs de fichiers et le stockage dans Windows Server. Le module couvre le partage de fichiers et le déploiement de la technologie des espaces de stockage. Le module décrit la manière d’implémenter la déduplication des données, le stockage basé iSCSI dans Windows Server, et finalement, la manière de déployer DFS.
+  #### Leçons
+  - Volumes et systèmes de fichiers dans Windows Server
+  - Implémenter le partage dans Windows Server
+  - Implémenter des espaces de stockage dans Windows Server
+  - Implémentation de la déduplication des données
+  - Implémenter iSCSI
+  - Déployer le système de fichiers distribués
+
+
+  #### Laboratoire &#58; Implémenter des solutions de stockage dans Windows Server
+  - Implémentation de la déduplication des données.
+  - Configuration du stockage iSCSI.
+  - Configurer des espaces de stockage redondants.
+  - Mise en œuvre de Storage Spaces Direct.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Implémenter le partage dans Windows Server.
+  - Déployer la technologie des espaces de stockage.
+  - Implémenter la fonctionnalité de déduplication des données.
+  - Implémenter le stockage basé sur iSCSI.
+  - Déployer et gérer le système de fichiers distribués (DFS).
+
+
+  ### Module 5&#58; Virtualisation Hyper-V et conteneurs dans Windows Server
+  Ce module décrit la manière d’implémenter et de configurer les machines virtuelles et les conteneurs Hyper-V. Le module couvre les fonctionnalités principales de Hyper-V dans Windows Server et décrit les paramètres des machines virtuelles et la configuration des machines virtuelles dans Hyper-V. Le module traite également des technologies de sécurité utilisées avec la virtualisation, telles que les machines virtuelles blindées, le service Host Guardian, l’administrateur approuvé et l’attestation TPM approuvée, et les KPS.
+  #### Leçons
+  - Hyper-V dans Windows Server
+  - Configurer les machines virtuelles
+  - Sécuriser la virtualisation dans Windows Server
+  - Conteneurs dans Windows Server
+  - Présentation de Kubernetes
+
+
+  #### Laboratoire &#58; Implémenter et configurer la virtualisation dans Windows Server
+  - Créer et configurer des machines virtuelles.
+  - Installer et configurer des conteneurs.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les principales fonctionnalités de Hyper-V dans Windows Server.
+  - Décrire les paramètres des machines virtuelles et déployer et configurer les machines virtuelles dans Hyper-V.
+  - Expliquer l’utilisation des technologies de sécurité dans la virtualisation.
+  - Décrire et déployer des conteneurs dans Windows Server.
+  - Expliquer l’utilisation de Kubernetes sur Windows.
+
+
+  ### Module 6&#58; Haute disponibilité sur Windows Server
+  Ce module décrit les technologies de haute disponibilité actuelles sur Windows Server. Le module décrit le clustering de basculement et les considérations de son implantation, ainsi que la création et la configuration du clustering de basculement. Le module décrit également les clusters extensibles et les options de réalisation de la haute disponibilité avec les machines virtuelles Hyper-V.
+  #### Leçons
+  - Planifier l’implémentation du clustering de basculement
+  - de créer et configurer un clustering de basculement
+  - Présentation des clusters extensibles
+  - Solutions de haute disponibilité et de reprise d’activités après sinistre avec des machines virtuelles Hyper-V
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un clustering de basculement
+  - Configurer le stockage et créer un cluster.
+  - Déployer et configurer un serveur de fichiers hautement disponible.
+  - Valider le déploiement d’un serveur de fichier hautement disponible.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire le clustering de basculement et les considérations de son implantation.
+  - de créer et configurer un clustering de basculement.
+  - Décrire les clusters extensibles.
+  - Décrire des options pour réaliser la haute disponibilité avec des machines virtuelles Hyper-V.
+
+
+  ### Module 7&#58; Reprise d’activités après sinistre dans Windows Server
+  Ce module décrit les technologies de reprise d’activités après sinistre dans Windows Server et la manière de les implémenter. Ce module traite de la manière de configurer et d’utiliser la réplication Hyper-V et décrit Azure Site Recovery. Le module couvre également la manière d’implémenter la sauvegarde de Windows Server et décrit le service de sauvegarde Azure.
+  #### Leçons
+  - Réplication Hyper-V
+  - Infrastructure de sauvegarde et de restauration dans Windows Server
+
+
+  #### Laboratoire &#58; Implémentation de la réplication Hyper-V et sauvegarde de Windows Server
+  - Implémentation une réplication Hyper-V.
+  - Implémentation de la sauvegarde et de la restauration à l’aide de la sauvegarde de Windows Server.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire et implémenter la réplication Hyper-V.
+  - Décrire la reprise d’activités du site Azure.
+  - Décrire et implémenter la sauvegarde de Windows Server.
+  - Décrire le service de sauvegarde Azure.
+
+
+  ### Module 8&#58; Présentation de la sécurité de Windows Server
+  Ce module décrit les fonctionnalités de sécurité de Windows Server et la manière de les mettre en œuvre. Le module aborde les informations d’identification utilisées dans Windows Server et explique la manière d’implémenter la protection de l’accès privilégié. Outre la description de méthodes et de technologies pour renforcer la sécurité de Windows Server, el module explique comment configurer Just Enough Administration (JEA) et comment sécuriser le trafic SMB. Finalement, le module couvre Windows Update, son déploiement et ses options en matière de gestion.
+  #### Leçons
+  - Informations d’identification et protection de l’accès privilégié
+  - Renforcer Windows Server
+  - JEA dans Windows Server
+  - Sécurisation et analyse du trafic SMB
+  - Gestion de la mise à niveau de Windows Server
+
+
+  #### Laboratoire &#58; Configurer la sécurité dans Windows Server
+  - Configurer Windows Defender Credential Guard.
+  - Localisation des comptes problématiques.
+  - Implémentation de l’LAPS.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les informations d’identification utilisées dans Windows Server.
+  - Expliquer la manière d’implémenter la protection de l’accès privilégié.
+  - Décrire les méthodes et les technologies visant à renforcer la sécurité dans Windows Server.
+  - Décrire et configurer Just Enough Administration (JEA).
+  - Sécuriser le trafic SMB dans Windows Server.
+  - Décrire Windows Update et les options de son déploiement et gestion.
+
+
+  ### Module 9&#58; RDS dans Windows Server
+  Ce module décrit les fonctionnalités essentielles du Remote Desktop Protocol (RDP) et Virtual Desktop Infrastructure (VDI) dans Windows Server. Le module couvre le déploiement des ordinateurs de bureau à base de sessions et décrit les ordinateurs bureau personnels et virtuels polarisés.
+  #### Leçons
+  - Présentation du RDS
+  - Configurer un déploiement bureau à base de session
+  - Présentation des ordinateurs bureau personnels et virtuels polarisés
+
+
+  #### Laboratoire &#58; Implémenter RDS dans Windows Server
+  - Implémentation de l’RDS.
+  - Configurer les paramètres de collection de sessions et l’utilisation du RDC.
+  - Configurer un modèle d’ordinateur bureau virtuel.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les Remote Desktop Services (RDS) dans Windows Server.
+  - Décrire et déployer les ordinateurs bureau à base de session.
+  - Décrire les ordinateurs bureau personnels et virtuels polarisés..
+
+
+  ### Module 10&#58; Accès à distance et services Web dans Windows Server
+  Ce module décrit la manière d’implémenter des réseaux privés virtuels (VPN), un serveur de stratégie réseau (NPS), et des Microsoft Internet Information Services (IIS). Le module décrit la fonctionnalité VPN Always On, ainsi que la manière de configurer les NPS et les serveurs Web (IIS) dans Windows Server.
+  #### Leçons
+  - Mise en œuvre des VPN
+  - Implémenter le VPN Always On
+  - Implémentation de l’NPS
+  - Implémenter le serveur Web dans Windows Server
+
+
+  #### Laboratoire &#58; Déploiement des charges de travail de réseau
+  - Implémenter le VPN dans Windows Server.
+  - Déployer et configurer un serveur Web.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les options VPN dans Windows Server.
+  - Décrire la fonctionnalité de VPN Always On.
+  - Décrire et configurer NPS.
+  - Décrire et configurer un serveur Web (IIS).
+
+
+  ### Module 11&#58; Surveillance du serveur et des performances dans Windows Server
+  Ce module décrit la manière d’implémenter la surveillance des services et des performances, et appliquer la résolution des problèmes dans Windows Server. Le module souligne les outils et décrit la manière de surveiller la performance, notamment la journalisation des événements et la manière d’effectuer la surveillance de la journalisation des événements à des fins de dépannage.
+  #### Leçons
+  - Présentation des outils de suivi de Windows Server
+  - Utilisation de la surveillance de la performance
+  - Surveillance des journaux des événements à des fins de dépannage
+
+
+  #### Laboratoire &#58; Suivi et dépannage de Windows Server
+  - Établissement d’un point de départ des performances.
+  - Identification de la source d’un problème de performance.
+  - Identification de la source d’un problème de performance.
+
+  Identification de la source d’un problème de performance
+  - Décrire les outils de surveillance dans Windows Server.
+  - Décrire la surveillance des performances et son utilisation dans Windows Server.
+  - Décrire la journalisation des événements et réalisation d’une surveillance de la journalisation des événements à des fins de dépannage.
+
+
+  ### Module 12&#58; Mise à niveau et migration dans Windows Server
+  Ce module décrit la manière d’effectuer des mises à niveau et des migrations pour AD DS, le stockage, et Windows Server. Le module couvre également les outils à utiliser pour la migration AD DS. Le module traite également du service de migration du stockage, et finalement, des outils de migration de Windows Server et les scénarios de leur utilisation.
+  #### Leçons
+  - Migration AD DS
+  - Service de migration du stockage
+  - Outils de migration de Windows Server
+
+
+  #### Laboratoire &#58; Migrer les charges de travail du serveur
+  - Implémenter le service de migration du stockage.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les outils à utiliser pour la migration AD DS.
+  - Décrire le service de migration du stockage.
+  - Décrire les outils de migration de Windows Server et les scénarios de leur utilisation.
+

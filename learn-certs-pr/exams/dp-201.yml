@@ -32,7 +32,7 @@ skills:
 - Le contenu de cet examen sera mis à jour le 31 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Concevoir des solutions de stockage de données Azure (40-45%)
 - Concevoir des solutions de traitement des données (25-30%)
-- Concevoir la sécurité et la conformité des données (25-30%)
+- Concevoir pour la sécurité et la conformité des données (25-30%)
 roles:
 - data-engineer
 products:
@@ -63,6 +63,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Data Engineer Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

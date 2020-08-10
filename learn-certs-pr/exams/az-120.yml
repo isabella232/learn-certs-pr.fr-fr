@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div><div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 20 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div><div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 21 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des architectes ou ingénieurs possédant une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
@@ -16,7 +16,7 @@ summary: |-
 
   Les architectes ou ingénieurs travaillant sur les charges de travail SAP sur Azure collaborent avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
 
-  Le candidat à cet examen doit posséder une large expérience et des connaissances des applications SAP &#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
+  Le candidat à cet examen doit posséder une large expérience et des connaissances des applications SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
 
   Pour cet examen, il est fortement recommandé d’avoir une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP HANA et Linux.
 subTitle: 'Cet examen évalue votre aptitude à accomplir les tâches techniques suivantes: la migration des charges de travail SAP vers Azure, la conception d’une solution Azure pour prendre en charge les charges de travail SAP, le développement et le déploiement de charges de travail Azure SAP, et l’opérationnalisation de l’architecture Azure SAP.'
@@ -53,13 +53,16 @@ relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification de la spécialité des charges de travail SAP sur Azure ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification

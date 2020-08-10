@@ -8,7 +8,7 @@ displayName: AZ-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mardi 21 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 21 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans le développement de composants de cloud et de bord d’une solution Azure IoT.
@@ -21,6 +21,7 @@ summary: |-
 subTitle: 'Cet examen mesure votre aptitude à mettre en œuvre une infrastructure des solutions d’IoT; provisionner et gérer les périphériques; mettre en œuvre des solutions sur des périphériques Azure IoT Edge; traiter et gérer des données; surveiller, dépanner, et optimiser les solutions d’IoT; et mettre en œuvre la sécurité.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
@@ -30,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le mardi 21 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 21 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Mettre en œuvre l’infrastructure des solutions d’IoT (15-20%)
 - Provisionner et gérer des appareils mobiles (20-25%)
 - Mettre en œuvre Edge (15-20%)
@@ -55,7 +56,7 @@ relatedCertifications:
     uid: certification.azure-iot-developer-specialty
 resources:
 - title: Parcours vers la certification
-  description: Explorez les étapes d’obtention d’une certification de spécialisation Azure IoT Developer ainsi que les ressources disponibles pour vous aider à vous préparer.
+  description: Explorez les étapes d’obtention d’une certification de la spécialité de développeur d'IdO sur Azure ainsi que les ressources disponibles pour vous aider à vous préparer.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

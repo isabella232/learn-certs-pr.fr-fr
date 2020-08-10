@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 15 juin 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour 15 juin 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées pratiques avec les gens, les processus, et les technologies, afin de livrer une valeur métier continue.
@@ -15,7 +15,7 @@ summary: |-
   Les responsabilités de ce rôle incluent la conception et l’implémentation de stratégies pour la collaboration, le code, l’infrastructure, le code, l’infrastructure, le contrôle des sources, la sécurité, la conformité, l’intégration continue, les essais, la livraison, le monitoring et le retour d’information.
 
   Le candidat à cet examen doit être à la fois familier avec l’administration et le développement Azure et doit être expert dans au moins l’un de ces domaines.
-subTitle: 'Cet examen mesure votre aptitude à accomplir les tâches techniques suivantes : développer une stratégie d’instrumentation, développer une stratégie d’ingénierie SRE (Site Reliability Engineering), développer un plan de sécurité et de conformité, gérer le contrôle des sources, faciliter la communication et la collaboration, définir et implémenter l’intégration continue, et définir et implémenter une livraison continue et une stratégie de gestion des publications.'
+subTitle: 'Cet examen mesure votre aptitude à accomplir les tâches techniques suivantes: développer une stratégie d’instrumentation, développer une stratégie d’ingénierie SRE (Site Reliability Engineering), développer un plan de sécurité et de conformité, gérer le contrôle des sources, faciliter la communication et la collaboration, définir et implémenter l’intégration continue, et définir et implémenter une livraison continue et une stratégie de gestion des publications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 15 juin 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Développer une stratégie d’instrumentation (5-10%)
-- Développer une stratégie d’ingénierie SRE (Site Reliability Engineering) (5-10%)
-- Développer un plan de sécurité et de conformité (10-15%)
-- Gérer le contrôle des sources (10-15%)
-- Faciliter la communication et la collaboration (10-15%)
-- Définir et implémenter l’intégration continue (20-25%)
-- Définir et implémenter une livraison continue et une stratégie de gestion des publications (10-15%)
+- 'Le contenu de cet examen sera mis à jour 15 juin 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.'
+- Développer une stratégie d’instrumentation (5 à 10%)
+- Développer une stratégie d’ingénierie SRE (Site Reliability Engineering) (5 à 10%)
+- Développer un plan de sécurité et de conformité (10 à 15%)
+- Gérer le contrôle des sources (10 à 15%)
+- Faciliter la communication et la collaboration (10 à 15%)
+- Définir et implémenter l’intégration continue (20 à 25%)
+- Définir et implémenter une livraison continue et une stratégie de gestion des publications (10 à 15%)
 roles:
 - devops-engineer
 products:
@@ -45,11 +45,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 relatedCertifications:

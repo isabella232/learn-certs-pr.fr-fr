@@ -13,12 +13,12 @@ subTitle: Démontrez votre compréhension des capacités essentielles de Power P
 levels:
 - beginner
 skills:
-- Décrire la valeur commerciale de Power Platform.
-- Identifier les composants de base de Power Platform.
-- Décrire la valeur commerciale de Power BI.
-- Décrire la valeur commerciale de Power Apps.
-- Décrire la valeur commerciale de Power Automate.
-- Démontrer la valeur commerciale des Power Virtual Agents.
+- Décrire la valeur commerciale de Power Platform
+- Identifier les éléments essentiels de Power Platform
+- Démontrer les capacités de Power BI
+- Décrire les capacités de Power Apps
+- Démontrer les capacités de Power Automate
+- Démontrer la valeur commerciale des Power Virtual Agents
 roles:
 - business-user
 - functional-consultant
@@ -34,7 +34,7 @@ exams:
 - uid: exam.pl-900
 resources:
 - title: Parcours de formation en vue de la certification
-  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals. »'
+  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

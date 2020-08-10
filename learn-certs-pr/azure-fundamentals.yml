@@ -19,7 +19,7 @@ subTitle: La certification Azure Fundamentals valide les connaissances fondament
 levels:
 - beginner
 skills:
-- Décrire la Concepts le cloud.
+- Décrire la Concepts le cloud
 - Décrire les services essentiels d’Azure
 - Décrire la sécurité, la confidentialité, la conformité et la confiance
 - Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie
@@ -40,9 +40,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzV
 exams:
 - uid: exam.az-900
 resources:
-- title: Affiche de certification Azure
+- title: Azure certifications poster
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Fundamentals ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

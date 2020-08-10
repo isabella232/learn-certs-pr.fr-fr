@@ -15,7 +15,7 @@ levels:
 skills:
 - Mettre en œuvre des solutions de stockage de données
 - Gérer et développer le traitement des données
-- Surveiller et optimiser les solutions de données
+- Surveiller et optimiser des solutions de données
 - Concevoir des solutions de stockage de données Azure
 - Concevoir des solutions de traitement des données
 - Concevoir pour la sécurité et la conformité des données
@@ -50,16 +50,19 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
-- title: Affiche de certification Azure
+- title: Azure certifications poster
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Data Engineer Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

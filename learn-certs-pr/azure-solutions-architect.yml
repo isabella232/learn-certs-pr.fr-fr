@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Les architectes de solutions Azure conçoivent et mettent en œuvre des solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.
+  description: 'Les architectes de solutions Azure conçoivent et mettent en œuvre des solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -23,11 +23,11 @@ skills:
 - Mettre en œuvre des solutions de gestion et de sécurité
 - Mettre en œuvre des solutions pour les applications
 - Mettre en œuvre et gérer des plateformes de données
-- Concevoir le monitoring.
-- Concevoir l’identité et la sécurité.
+- Concevoir le monitoring
+- Concevoir l’identité et la sécurité
 - Conception du stockage des données
-- Concevoir la continuité des activités.
-- Concevoir l’infrastructure.
+- Concevoir continuité des activités
+- Concevoir d'infrastructure
 roles:
 - solution-architect
 type: role-based
@@ -54,15 +54,9 @@ products:
 - azure-sql-database
 - azure-event-hubs
 courses:
-- uid: course.az-300t01
-- uid: course.az-300t02
-- uid: course.az-300t03
-- uid: course.az-300t04
-- uid: course.az-300t06
-- uid: course.az-301t01
-- uid: course.az-301t02
-- uid: course.az-301t03
-- uid: course.az-301t04
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -78,9 +72,12 @@ exams:
 - uid: exam.az-303
 - uid: exam.az-304
 resources:
-- title: Affiche de certification Azure
+- title: Azure certifications poster
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Solutions Architect (Architecte de Solutions ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

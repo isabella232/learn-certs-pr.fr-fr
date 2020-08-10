@@ -34,14 +34,28 @@ roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
 exams:
 - uid: exam.az-304
 courses:
 - uid: course.az-303t00
+- uid: course.az-030t00
 relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Solutions Architect (Architecte de Solutions ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

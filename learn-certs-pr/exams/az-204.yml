@@ -7,7 +7,7 @@ uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le lundi 18 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen a été mis à jour le 18 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception, le développement, les essais, et la maintenance des applications et services de cloud sur Microsoft Azure.
@@ -34,12 +34,12 @@ providers:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen a été mis à jour le 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Développer des solutions informatiques Azure (25-30%)
 - Mettre au point pour le stockage Azure (10-15%)
 - Mettre en œuvre la sécurité Azure (15-20%)
 - Surveiller, dépanner et optimiser les solutions Azure (10-15%)
-- Se connecter et consommer les services Azure et les services des tiers (25-30%)
+- Se connecter et consommer les services Azure et les services de tiers (25-30%)
 roles:
 - developer
 products:
@@ -71,8 +71,8 @@ products:
 - azure-traffic-manager
 - azure-virtual-machines
 courses:
-- uid: course.az-020t00
 - uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together

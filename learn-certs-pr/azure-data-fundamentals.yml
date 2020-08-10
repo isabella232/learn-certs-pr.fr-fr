@@ -5,7 +5,7 @@ metadata:
   description: Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</font></strong><br/><br/></div>\r\n\r\nLes candidats à la certification Azure Data Fundamentals doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure.  \r\n\r\nCette certification est destinée aux candidats qui viennent de commencer à travailler avec des données sur le cloud.  \r\n\r\nLes candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques.  \r\n\r\nLa certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles."
+summary: "<div><strong><font color='red'>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</font></strong><br/><br/></div>\r\n\r\nLes candidats à la certification Azure Data Fundamentals doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure. \r\n\r\nCette certification est destinée aux candidats qui viennent de commencer à travailler avec des données sur le cloud. \r\n\r\nLes candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques. \r\n\r\nLa certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles."
 subTitle: Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
 levels:
 - beginner
@@ -22,13 +22,19 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900
 resources:
-- title: Affiche de certification Azure
+- title: Azure certifications poster
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Data Fundamentals ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

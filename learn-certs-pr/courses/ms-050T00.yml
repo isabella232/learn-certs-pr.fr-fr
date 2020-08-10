@@ -1,0 +1,203 @@
+### YamlMime:Course
+title: SharePoint Hybrid Deployment and Migration
+metadata:
+  title: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+  description: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+uid: course.ms-050t00
+courseNumber: 'MS-050T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire la fonctionnalité MinRole dans SharePoint 2019.
+- skill: Décrire la manière d’installer et de configurer SharePoint 2019.
+- skill: Décrire la manière d’implémenter la haute disponibilité pour SharePoint.
+- skill: Provisionner une instance d’application de services BDC.
+- skill: Configurer l’application du service de Banque d’informations sécurisé.
+- skill: Décrire comment configurer Mes Sites dans SharePoint 2019.
+- skill: Décrire les scénarios hybrides SharePoint disponibles.
+- skill: Décrire les exigences de configuration hybride dans SharePoint.
+- skill: Planifier le serveur hybride SharePoint.
+- skill: Planifier le processus de migration de contenu.
+- skill: Décrire les ressources et les outils disponibles à exploiter durant le processus de migration.
+- skill: Accéder aux données à migrer à l’aide de l’outil d’évaluation de la migration SharePoint (SMAT).
+- skill: Migrer du contenu vers le cloud à l’aide de l’outil de migration SharePoint (SPMT).
+- skill: Gérer et surveiller le processus de migration.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  L’environnement des affaires a changé. Les personnes souhaitent communiquer sans barrières collaboratives. Les entreprises souhaitent obtenir des solutions qui soient à la fois économiques et flexibles. Les organisations commencent à configurer des environnements hybrides et à migrer du contenu vers le cloud comme solution. Dans cette formation, vous apprendrez à déployer et à configurer SharePoint Server 2019 qui est conçu pour répondre aux demandes des styles de travail modernes. Vous apprendrez également à configurer et à gérer plusieurs applications de services SharePoint visant à préparer un déploiement hybride. Vous apprendrez ensuite à planifier et implémenter des scénarios hybrides SharePoint qui fournissent une expérience utilisateur harmonieuse. En fin de compte, vous apprendrez à concevoir les processus de migration de contenu et les ressources et outils disponibles à utiliser au cours de la migration de contenu vers SharePoint et OneDrive dans Microsoft 365.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels de l’informatique qui déploient et gèrent un environnement SharePoint sur site et s’intéressent à déployer des scénarios hybrides et à migrer du contenu vers Microsoft 365.
+prerequisitesSection: |-
+  - Expériences avec Windows PowerShell.
+  - Compréhension de base de la gestion de SQL Server.
+  - Compréhension de base de la mise en réseau, notamment le DNS.
+  - Connaissances pratiques de l’administration des serveurs Windows.
+  - Compréhension de base d’Active Directory et d’Azure AD.
+  - Compréhension de base de la gestion des appareils mobiles, et des systèmes d’exploitation alternatifs (Android et macOS).
+outlineSection: |-
+  ### Module 1&#58; Infrastructure SharePoint
+  Ce module aborde l’infrastructure fondamentale SharePoint. Il décrit les composants de la batterie de serveurs SharePoint. Il aborde également la manière d’installer et de configurer la batterie de serveurs SharePoint.
+  #### Leçons
+  - Planifier une batterie de serveurs SharePoint
+  - SharePoint 2019
+  - Installer et gérer une batterie de serveurs SharePoint
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire la fonctionnalité MinRole dans SharePoint 2019.
+  - Décrire la manière d’installer et de configurer SharePoint 2019.
+  - Décrire la manière d’implémenter la haute disponibilité pour SharePoint.
+  - Planifier la sauvegarde et la restauration des batteries de serveurs.
+
+
+  ### Module 2&#58; Authentification et sécurité SharePoint
+  Ce module aborde l’authentification et la sécurité dans SharePoint. Il présente des méthodes d’authentification différentes dans SharePoint 2019.
+  #### Leçons
+  - Planification d'une authentification
+  - Configurer l’authentification fédérée
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire l’infrastructure de l’authentification dans SharePoint 2019.
+  - Décrire l’authentification NTLM et Kerberos.
+  - Décrire l’authentification serveur à serveur.
+  - Expliquer les concepts de l’identité fédérée.
+
+
+  ### Module 3&#58; Gestion du contenu SharePoint
+  Ce module aborde la gestion de contenu dans SharePoint. Il traite de la structure du contenu dans SharePoint. Il fournit également des détails sur l’autorisation et l’accès au contenu dans SharePoint.
+  #### Leçons
+  - Présentation de la structure du contenu dans SharePoint
+  - Gérer l’accès au contenu
+  - Gérer des regroupements de sites
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Expliquer les concepts de collection de sites.
+  - Décrire la création des collections de sites.
+  - Décrire comment planifier l’autorisation dans SharePoint 2019.
+  - Décrire comment gérer les niveaux de permission dans SharePoint 2019.
+  - Décrire comment gérer les groupes SharePoint dans SharePoint 2019.
+
+
+  ### Module 4&#58; Applications de service SharePoint
+  Ce module traite les applications de service et le flux de travail SharePoint. Il décrit la manière de provisionner et de gérer une application de services BCS et une application de service de profil utilisateur. Nous discutons plus précisément de l’importation et de l’exportation des modèles BDC ainsi que de la manière d’importer les propriétés de l’utilisateur vers SharePoint.
+  #### Leçons
+  - Applications de service et flux de travail SharePoint
+  - Planifier et configurer un service de connectivité d'entreprise (BCS) et un magasin sécurisé
+  - Planifier et configurer des profils utilisateur
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Expliquer les composants essentiels d’un modèle BDC.
+  - Décrire l’architecture de haut niveau du service de connectivité d’entreprise (BCS).
+  - Provisionner une instance d’application de services BDC.
+  - Configurer l’application du service de Banque d’informations sécurisé.
+  - Expliquer l’objet du service Banque d’informations sécurisé.
+  - Gérer des autorisations pour une instance d’application de services BDC.
+  - Décrire la manière de configurer les propriétés du profil utilisateur.
+  - Décrire comment gérer les audiences dans SharePoint 2019.
+  - Décrire comment configurer Mes Sites dans SharePoint 2019.
+  - Décrire comment configurer l’application de service de profils utilisateur.
+  - Décrire comment planifier l’importation et la synchronisation de SharePoint Active Directory.
+
+
+  ### Module 5&#58; Planifier et configurer des métadonnées gérées
+  Ce module traite des fonctionnalités intégrales, telles que le service de métadonnées gérées, les types de contenu, et les ensembles de termes, qui vous permettent de créer et de disséminer une architecture d’informations. Il présente l’objet des types de contenu ainsi que les concepts des services de métadonnées gérées, notamment les taxonomies, les ensembles de termes, et les mots clés des entreprises.
+  #### Leçons
+  - Gérer les types de contenu
+  - Métadonnées gérées
+  - Configurer le service de métadonnées gérées
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Expliquer la fonction et l’utilisation des types de contenu.
+  - Décrire les fonctions du service des métadonnées gérées.
+  - Expliquer comment créer et publier un type de contenu dans plusieurs collections de sites.
+  - Identifier les capacités du service des métadonnées gérées.
+  - Créer et gérer des groupes de termes, des ensembles de termes, et des termes.
+  - Configurer les ensembles de termes et les termes de la navigation gérée.
+
+
+  ### Module 6&#58; Planifier et configurer la recherche
+  Ce module aborde l’application de service de recherche d’entreprise. Il fournit des détails sur la planification et la configuration des sources de contenu, les horaires d’analyse, et les règles d’analyse. Il traite également le provisionnement de la gestion de recherche d’une plage de composants de recherche, notamment les règles de recherche, les types de résultats, et les modèles d’affichage.
+  #### Leçons
+  - Planifier la recherche d’entreprise
+  - Configurer une recherche d’entreprise
+  - Gérer la recherche d’entreprise
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire la fonction des composants de recherche.
+  - Expliquer comment planifier et configurer une topologie de recherche.
+  - Décrire la manière de planifier et de configurer les sources de contenu.
+  - Décrire la manière de planifier et de configurer les horaires d’analyse.
+  - Décrire la manière de planifier et de configurer les règles d’analyse.
+  - Décrire la manière de gérer le schéma de recherche
+  - Décrire la manière de configurer un centre de recherche.
+  - Expliquer l’utilisation et le déploiement des règles de requête.
+  - Expliquer l’utilisation et le déploiement de la source des résultats.
+
+
+  ### Module 7&#58; Présentation des scénarios hybrides SharePoint
+  Ce module traite de la planification du serveur hybride SharePoint. Il fournit un aperçu des scénarios hybrides SharePoint ainsi que les exigences en matière de configuration.
+  #### Leçons
+  - Présentation des scénarios hybrides SharePoint
+  - Planifier le serveur hybride SharePoint
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les scénarios hybrides SharePoint disponibles.
+  - Décrire les exigences de configuration hybride dans SharePoint.
+  - Planifier le serveur hybride SharePoint.
+
+
+  ### Module 8&#58; Implémenter des scénarios hybrides SharePoint
+  Ce module est axé sur l’implémentation des scénarios hybrides SharePoint. Il traite plus précisément des feuilles de route de configuration hybride, notamment la configuration de l’infrastructure hybride et du sélecteur hybride. Il introduit également la passerelle de données sur site afin de favoriser l’utilisation des fonctionnalités de Microsoft 365 dans SharePoint Server 2019.
+  #### Leçons
+  - Implémenter des scénarios hybrides SharePoint
+  - Configurer une passerelle de données sur site
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Configurer des scénarios hybrides SharePoint.
+  - Configurer une passerelle de données sur site.
+
+
+  ### Module 9&#58; Implémenter des recherches hybrides dans SharePoint
+  Ce module est axé sur la recherche hybride dans SharePoint. Il présente plusieurs types de recherche hybride, notamment la recherche hybride dans le cloud et la recherche hybride fédérée. Il explique la manière de mettre en place une recherche hybride et de configurer les résultats de la recherche.
+  #### Leçons
+  - Présentation de la recherche hybride dans SharePoint
+  - Configurer la recherche hybride dans SharePoint
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire la différence entre la recherche hybride dans le cloud et la recherche hybride fédérée.
+  - Évaluer les différents types de recherche hybride.
+  - Configurer la recherche hybride dans le cloud.
+  - Configurer les résultats de la recherche hybride.
+
+
+  ### Module 10&#58; Introduction à la migration
+  Ce module traite la planification du processus de migration vers le cloud. Il fournit un aperçu des ressources et des outils à exploiter durant le processus de migration.
+  #### Leçons
+  - Présentation de la migration
+  - Tirer parti de FastTrack et des services des partenaires
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Planifier le processus de migration de contenu.
+  - Décrire les ressources et les outils disponibles à exploiter durant le processus de migration.
+
+
+  ### Module 11&#58; Migrer vers SharePoint Online
+  Ce module traite l’utilisation de l’outil de migration SharePoint (SPMT) pour migrer du contenu vers le cloud. Il discute plus précisément des exigences et des limitations du SPMT. Il introduit des méthodes de migration différentes pour des sources de données différentes, notamment les partages de fichiers et le contenu SharePoint.
+  #### Leçons
+  - Se préparer à la migration
+  - Migrer du contenu vers le cloud
+  - Gérer et surveiller le processus de migration
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Accéder aux données à migrer à l’aide de l’outil d’évaluation de la migration SharePoint (SMAT).
+  - Migrer du contenu vers le cloud à l’aide de l’outil de migration SharePoint (SPMT).
+  - Gérer et surveiller le processus de migration.
+ 

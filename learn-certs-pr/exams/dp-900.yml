@@ -9,16 +9,20 @@ summary: "<div style='color&#58; red;'><strong>En réponse à la situation du co
 subTitle: 'Prouvez votre capacité à décrire les questions suivantes: les concepts des données de base, le travail avec les données relationnelles dans Azure, le travail avec les données non relationnelles dans Azure, et la charge de travail analytique sur Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - beginner
 skills:
-- Décrire les concepts des données de base (15-20%)
-- Décrire le travail avec les données relationnelles sur Azure (25-30%)
-- Décrire le travail avec les données non relationnelles sur Azure (25-30%)
-- Décrire une charge de travail analytique sur Azure (25-30%)
+- Décrire les concepts des données de base (15 à 20%)
+- Décrire le travail avec les données relationnelles sur Azure (25 à 30%)
+- Décrire le travail avec les données non relationnelles sur Azure (25 à 30%)
+- Décrire une charge de travail analytique sur Azure (25 à 30%)
 roles:
 - data-engineer
 - database-administrator
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Data Fundamentals ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

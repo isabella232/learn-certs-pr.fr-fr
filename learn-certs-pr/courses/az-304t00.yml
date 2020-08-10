@@ -36,10 +36,10 @@ summary: |-
   Cette formation enseigne aux architectes de solutions la traduction des exigences de l’entreprise en solutions sécurisées, évolutives et fiables. Les leçons comprennent des considérations liées à la connexion, l’analyse des coûts, l’authentification et l’autorisation, la gouvernance, la sécurité, le stockage, la haute disponibilité, et la migration. Ce rôle nécessite des prises de décision dans plusieurs domaines, affectant la solution de conception globale.
 
   #### Profil de l’audience
-  Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions  exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les architectes de solutions Azure utilisent le portail Azure et en se familiarisant davantage, ils utiliseront l’interface de ligne de commande. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
+  Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les architectes de solutions Azure utilisent le portail Azure et en se familiarisant davantage, ils utiliseront l’interface de ligne de commande. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
 prerequisitesSection: |-
   Les architectes de solutions Azure réussis débutent cette fonction en ayant de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, et la mise en réseau.
-  - Compréhension des technologies de virtualisation sur site, y compris &#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
+  - Compréhension des technologies de virtualisation sur site, y compris&#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
   - Comprendre la configuration du réseau, ce qui inclut TCP/IP, le système de nom de domaine (DNS), les réseaux privés virtuels (VPN), les pare-feux et les technologies de cryptage.
   - Comprendre les concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplication, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
   - Comprendre la résilience et la récupération après sinistre, ce qui inclut les opérations de sauvegarde et de récupération.
@@ -62,7 +62,7 @@ outlineSection: |-
   - Service de monitoring Azure.
   - Azure Monitor.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Surveiller les ressources d’Azure avec Azure Monitor.
   - Recueillir et analyser les journaux de ressources pour les ressources d’Azure.
   - Comprendre comment Azure Sentinel recueille les données sur les périphériques, les utilisateurs, l’infrastructure et les applications.
@@ -90,7 +90,7 @@ outlineSection: |-
   - Protection de l’infrastructure.
   - Recommander une structure hiérarchique pour les groupes de gestion, les abonnements, et les groupes de ressources.
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  Après avoir terminé ce module, les étudiants seront capables de &#58;
   - Recommander une hiérarchie des groupes de gestion et des abonnements.
   - Configurer les définitions et les missions des rôles RBAC personnalisés.
 
@@ -170,7 +170,7 @@ outlineSection: |-
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Recommander des solutions pour les charges de travail hybrides et sur site Azure qui répondent aux objectifs de récupération.
   - Recommander une solution pour la capacité de récupération d’urgence.
-  - Recommander les types de stockage et la méthodologie d'archivage des données
+  - Recommander les types de stockage et la méthodologie d'archivage des données.
   - Identifier les exigences d’archivage des données.
 
 
@@ -183,9 +183,9 @@ outlineSection: |-
   - Identifier les types de stockage pour la haute disponibilité.
   - Recommander une solution pour la géo-redondance des charges de travail.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Recommander des solutions de mise à l’échelle automatique.
-  - Identifier les types de stockage pour la haute disponibilité
+  - Identifier les types de stockage pour la haute disponibilité.
   - Recommander des solutions pour la géo-redondance des charges de travail.
 
 
@@ -197,7 +197,7 @@ outlineSection: |-
   - Recommander une solution pour les conteneurs.
   - Recommander une solution pour l’automatisation de la gestion des calculs.
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Référer une solution pour l’automatisation de la gestion des calculs.
   - Recommander les technologies de calcul appropriées, y compris les machines virtuelles et les services d’applications.
   - Recommander les AKS, les ACI et les configurations appropriées.
@@ -230,7 +230,7 @@ outlineSection: |-
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Recommander des solutions de déploiement à l’aide des modèles ARM, Logic Apps, ou Azure Functions.
   - Recommander une solution pour le monitoring de l’automatisation.
-  - Recommander une structure d'hébergement pour la gestion des API
+  - Recommander une structure d'hébergement pour la gestion des API.
 
 
   ### Module 15&#58;Concevoir Migrations
@@ -243,4 +243,5 @@ outlineSection: |-
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Évaluation des serveurs sur site et applications pour la migration.
   - Recommander une solution pour la migration des applications et des machines virtuelles.
-  - Déterminer l'étendue de la migration, y compris les données redondantes, associées, triviales et obsolètes
+  - Déterminer l'étendue de la migration, y compris les données redondantes, associées, triviales et obsolètes.
+

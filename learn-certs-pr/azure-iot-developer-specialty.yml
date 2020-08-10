@@ -19,11 +19,11 @@ subTitle: Le développeur Azure IoT développe les composants du cloud et de bor
 levels:
 - intermediate
 skills:
-- Mettre en œuvre l’infrastructure des solutions d’IoT.
-- Provisionner et gérer des appareils mobiles.
-- Mettre en œuvre Edge.
-- Traiter et gérer les données.
-- Surveiller, dépanner et optimiser les solutions IoT.
+- Mettre en œuvre l’infrastructure des solutions d’IoT
+- Provisionner et gérer des appareils mobiles
+- Mettre en œuvre Edge
+- Traiter et gérer les données
+- Surveiller, dépanner et optimiser les solutions IoT
 - Mettre en œuvre la sécurité
 roles:
 - developer
@@ -43,11 +43,11 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
-- title: Affiche des certifications Azure
+- title: Azure certifications poster
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Parcours vers la certification
-  description: Explorez les étapes d’obtention d’une certification de spécialisation Azure IoT Developer ainsi que les ressources disponibles pour vous aider à vous préparer.
+  description: Explorez les étapes d’obtention d’une certification de la spécialité de développeur d'IdO sur Azure ainsi que les ressources disponibles pour vous aider à vous préparer.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

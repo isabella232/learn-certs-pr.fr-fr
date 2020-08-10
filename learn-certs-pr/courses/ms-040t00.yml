@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurer les sites SharePoint.
+- skill: Gérer les limites de stockage des sites.
+- skill: Déployer la synchronisation client sur OneDrive.
+- skill: Utiliser la stratégie de groupe pour contrôler les paramètres de synchronisation client sur OneDrive.
+- skill: Gérer le partage externe des données dans Microsoft SharePoint et OneDrive.
+- skill: Configurer les propriétés du profil utilisateur.
+- skill: Gérer les audiences.
+- skill: Utiliser le catalogue d’applications pour gérer les applications personnalisées.
+- skill: Créer et gérer des groupes de termes, des ensembles de termes, et des termes.
+- skill: Décrire la différence entre les expériences de recherche moderne et classique.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  Le contenu est le bien numérique le plus critique de chaque organisation. Dans cette formation, vous apprendrez à planifier, configurer, et gérer les sites SharePoint et OneDrive pour favoriser les services de contenu moderne qui transforment le cycle de vie du contenu. Cette formation aborde la structure moderne du site SharePoint, notamment les sites hub de SharePoint. Elle fournit les meilleures pratiques pour l’adoption et le déploiement de OneDrive dans votre organisation. Elle traite également du partage, de la sécurité, et de la surveillance dans SharePoint et OneDrive dans Microsoft 365. En outre, vous apprendrez à gérer les profils utilisateur et les applications avec les paramètres d’autorisation appropriés. Nous discuterons également de la façon de planifier et de configurer les métadonnées gérées, Business Connectivity Services, et la recherche permettant au contenu d’être découvert, consommée et gouvernée à travers Microsoft 365.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels de l’informatique qui déploient et gèrent Microsoft SharePoint et OneDrive dans leur organisation. Les étudiants de cette formation s’intéressent à Microsoft SharePoint et OneDrive.
+prerequisitesSection: |-
+  Les étudiant doivent débuter ce cours en possédant déjà les aptitudes suivantes&#58;
+  - Une compréhension parfaite du une expérience fonctionnelle de base avec les services de Microsoft 365.
+  - Une compréhension approfondie des pratiques informatiques générales, ce qui inclut PowerShell.
+  - Compréhension de base d’Active Directory et d’Azure AD.
+  - Compréhension de base de la gestion des appareils mobiles, et des systèmes d’exploitation alternatifs (Android et macOS).
+outlineSection: |-
+  ### Module 1&#58; Planifier et configurer les sites SharePoint.
+  Ce module aborde la planification, la configuration et la gestion des sites SharePoint. Il discute comment les administrateurs de SharePoint utilisent le centre d’administration SharePoint pour gérer le cycle de vie des sites SharePoint dans votre organisation.
+  #### Leçons
+  - Présentation de SharePoint dans Microsoft 365
+  - Configurer les sites SharePoint
+  - Gérer des sites de SharePoint
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Créer des sites SharePoint.
+  - Gérer les limites de stockage des sites SharePoint.
+  - Créer et configurer les sites hub de SharePoint.
+  - Décrire l’utilisation du centre d’administration SharePoint pour gérer les sites SharePoint.
+
+
+  ### Module 2&#58; Configurer et gérer OneDrive
+  Ce module explique la façon de planifier le déploiement de OneDrive en abordant différentes approches pour déployer OneDrive en se basant sur divers scénarios. Il présente également les moyens de gérer du contenu dans OneDrive.
+  #### Leçons
+  - Présentation de OneDrive dans Microsoft 365
+  - Déployer OneDrive
+  - Gérer OneDrive
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Gérer les limites de stockage des utilisateurs.
+  - Configurer la rétention des données dans OneDrive.
+  - Utiliser la stratégie de groupe pour contrôler les paramètres de synchronisation client sur OneDrive.
+  - Décrire les différentes méthodes de déploiement de OneDrive.
+  - Décrire l’utilisation du centre d’administration OneDrive pour gérer OneDrive.
+
+
+  ### Module 3&#58; Partage et sécurité dans SharePoint et OneDrive
+  Ce module est axé sur le partage, la sécurité et la surveillance dans Microsoft SharePoint et OneDrive. Il aborde plus précisément la planification et la gestion du partage externe, ainsi que le contrôle d’accès dans SharePoint et OneDrive. Il porte également sur la façon d’utiliser le centre d’administration Microsoft 365 pour surveiller les activités de Microsoft SharePoint et OneDrive.
+  #### Leçons
+  - Gérer les autorisations de site sur SharePoint
+  - Gérer le partage dans SharePoint et OneDrive
+  - Gérer la sécurité dans SharePoint et OneDrive
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire le partage externe dans Microsoft SharePoint et OneDrive.
+  - Décrire les options pour gérer l’accès des appareils à Microsoft SharePoint et OneDrive.
+  - Afficher les rapports de Microsoft 365 qui mesurent l’usage de SharePoint et OneDrive.
+
+
+  ### Module 4&#58; Gérer des profils utilisateur et des applications
+  Ce module traite du profil utilisateur et de la personnalisation dans Microsoft SharePoint. Il aborde la gestion des profils utilisateur dans Microsoft SharePoint. Il décrit également la manière d’utiliser le catalogue d’applications pour mettre les applications métiers personnalisées à disposition de votre SharePoint dans Microsoft 365.
+  #### Leçons
+  - Gérer des profils utilisateur
+  - Gérer les applications
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire la manière de configurer les propriétés du profil utilisateur.
+  - Décrire la manière de gérer les audiences.
+  - Décrire la manière d’utiliser le catalogue d’applications pour gérer les applications personnalisées.
+
+
+  ### Module 5&#58; Planifier et configurer des métadonnées gérées et les Business Connectivity Services
+  Ce module traite des métadonnées gérées et des Business Connectivity Services. Il présente les concepts des métadonnées gérées ainsi que les processus d’importation des ensembles de termes. Il décrit également la manière de gérer Business Connectivity Services et créer une liste externe.
+  #### Leçons
+  - Planifier et configurer des métadonnées gérées
+  - Planifier et configurer Business Connectivity Services
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les fonctions des métadonnées gérées.
+  - Créer et gérer des groupes de termes, des ensembles de termes, et des termes.
+  - Expliquer les composants essentiels d’un modèle BDC.
+  - Décrire l’architecture de haut niveau du service de connectivité d’entreprise (BCS).
+  - Expliquer l’objet du service Banque d’informations sécurisé.
+
+
+  ### Module 6&#58; Planifier et configurer la recherche
+  Ce module aborde le service de recherche de SharePoint. Il fournit des détails sur la planification et la configuration de la recherche de SharePoint, notamment la différence entre les expériences de recherche classique et moderne. Il discute également la façon de personnaliser l’expérience de recherche grâce à différents paramètres.
+  #### Leçons
+  - Planifier la recherche
+  - Configurer la recherche
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire la différence entre les expériences de recherche moderne et classique.
+  - Décrire la manière de gérer le schéma de recherche
+  - Expliquer l’utilisation et le déploiement des règles de requête.
+  - Expliquer l’utilisation et le déploiement de la source des résultats.
+

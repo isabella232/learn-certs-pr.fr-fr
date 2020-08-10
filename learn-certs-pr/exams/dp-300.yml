@@ -48,6 +48,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Database Administrateur Associate sur Azure ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

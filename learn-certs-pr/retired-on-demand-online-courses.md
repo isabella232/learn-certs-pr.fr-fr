@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # MOC On-Demand Courses are Retired
 
-Tous les cours sur demande de Microsoft Official Course (MOC), y compris ceux énumérés ci-dessous, ont été retirés au 30 juin 2020.  Pour les clients qui ont acheté ou obtenu un code de cours MOC sur demande avant la date de retrait, vous avez 90 jours pour activer le cours, puis 90 jours après l'activation pour terminer le cours, après quoi le cours ne sera plus disponible .
+Tous les cours sur demande de Microsoft Official Course (MOC), y compris ceux énumérés ci-dessous, ont été retirés au 30 juin 2020.  Pour les clients qui ont acheté ou obtenu un code de cours MOC sur demande avant la date de retrait, vous avez 90 jours pour activer le cours, puis 90 jours après l'activation pour terminer le cours, après quoi le cours ne sera plus disponible.
 
 Veuillez consulter les cours en ligne et les ressources d'apprentissage GRATUITS sur le site suivant: [https://aka.ms/learn](https://aka.ms/learn)
 
@@ -48,7 +48,7 @@ Veuillez consulter les cours en ligne et les ressources d'apprentissage GRATUITS
 - OD20339-1: Planification et administration de SharePoint 2016 (90 jour)  
 - OD20339-2: Technologies avancées de SharePoint 2016 (90 jour)  
 - OD20341: Core Solutions of Microsoft® Exchange Server 2013 (90 jour)  
-- OD20342: Advanced Solutions of Microsoft® Exchange Server 2013 (90 jour)  
+- OD20342: Advanced Solutions of Microsoft Exchange Server 2013 (90 jour)  
 - OD20345-1: Administration de Microsoft Exchange Server 2016 (90 jour)  
 - OD20345-2: Designing and Deploying Microsoft Exchange Server 2016 (90 jour)  
 - OD20347: Habilitation et gestion de Office 365 (90 jour)  

@@ -30,10 +30,10 @@ summary: |-
   Cette formation enseigne aux architectes de solutions la traduction des exigences de l’entreprise en solutions sécurisées, évolutives et fiables. Les leçons comprennent l’infrastructure de virtualisation, d’automatisation, de la mise en réseau, du stockage, de l’identité, de la sécurité, de la plateforme de données, et des applications. Cette formation souligne la manière dont les décisions prises dans chacun de ces domaines affectent une solution globale.
 
   #### Profil de l’audience
-  Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions  exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les architectes de solutions Azure utilisent le portail Azure et en se familiarisant davantage, ils utiliseront l’interface de ligne de commande. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps. Pas de puces ou de listes.
+  Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les architectes de solutions Azure utilisent le portail Azure et en se familiarisant davantage, ils utiliseront l’interface de ligne de commande. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
 prerequisitesSection: |-
   Les architectes de solutions Azure réussis débutent cette fonction en ayant de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, et la mise en réseau.
-  - Compréhension des technologies de virtualisation sur site, y compris&#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
+  - Compréhension des technologies de virtualisation sur site, y compris &#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
   - Comprendre la configuration du réseau, ce qui inclut TCP/IP, le système de nom de domaine (DNS), les réseaux privés virtuels (VPN), les pare-feux et les technologies de cryptage.
   - Comprendre les concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplication, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
   - Comprendre la résilience et la récupération après sinistre, ce qui inclut les opérations de sauvegarde et de récupération.
@@ -57,7 +57,7 @@ outlineSection: |-
   ### Module 2&#58; Automatiser le déploiement et la configuration des ressources
   Dans ce module, vous découvrirez les outils qu’un administrateur Azure utilise pour gérer son infrastructure. Cela inclut le portail Azure, Cloud Shell, Azure PowerShell, CLL et les modèles du gestionnaire de ressources. Ce module comprend&#58;
   #### Leçons
-  - Créer des modèles Azure Resource Manager
+  - Créer des modèles Azure Resource Manager.
   - Enregistrer un modèle pour une machine virtuelle.
   - Évaluer l’emplacement des nouvelles ressources.
   - Configurer un modèle de disque dur virtuel.
@@ -89,7 +89,7 @@ outlineSection: |-
   Dans ce module, vous découvrirez les stratégies relatives au trafic du réseau, ce qui inclut le routage du réseau et les points de terminaison des services, l’équilibreur de charge Azure, la passerelle d’applications Azure et le gestionnaire du trafic.
   #### Leçons
   - Implémenter l'équilibreur de charges Azure.
-  - Implémenter une passerelle de données
+  - Implémenter une passerelle de données.
   - Comprendre le pare-feu des applications Web.
   - Implémenter le pare-feu Azure.
   - Implémenter une porte d’entrée Azure.
@@ -194,7 +194,7 @@ outlineSection: |-
   - Gérer les mises à jour et les correctifs des machines virtuelles Azure.
 
 
-  ### Module 10&#58; Implémenter la surveillance de l’infrastructure cloud
+  ### Module 10 &#58; Implémenter la surveillance de l’infrastructure cloud
   Dans ce modèle, vous découvrirez Azure Monitor, Azure Workbooks, Azure Alerts, Network Watcher, Azure Service Health, et Azure Application Insights.
   #### Leçons
   - Surveillance de la sécurité de l’infrastructure Azure.
@@ -212,7 +212,7 @@ outlineSection: |-
   ### Module 11&#58; Gérer la sécurité des applications
   Dans ce module, vous découvrirez Azure Key Vault et vous implémenterez l’authentification à l’aide des identités gérées d’Azure.
   #### Leçons
-  - azurekeyvault
+  - azurekeyvault.
   - Identité gérée Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
@@ -229,7 +229,7 @@ outlineSection: |-
   - Configurer la mise en réseau d’un App Service.
   - Créer et gérer des emplacements de déploiement.
   - Implémenter Logic Apps.
-  - Mise en œuvre des fonctions Azure
+  - Mise en œuvre des fonctions Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Configurer un Azure App Service.
@@ -249,7 +249,7 @@ outlineSection: |-
   - Déployer Kubernetes avec AKS.
 
 
-  ### Module 14&#58; Implémenter des bases de données noSQL.
+  ### Module 14&#58; Implémenter des bases de données NoSQL.
   Dans ce module, vous découvrirez le Stockage Table Azure et recommanderez des options pour les API de CosmosDB.
   #### Leçons
   - Configurer les tables des comptes de stockage.
@@ -258,7 +258,7 @@ outlineSection: |-
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Exposer le modèle de données de service de table.
   - Comprendre les options d’Azure Cosmos DB.
-  - Comprendre la haute disponibilité à l’aide de Cosmos DB.
+  - Comprendre la haute disponibilité à l’aide de CosmosDB.
 
 
   ### Module 15&#58; Implémenter Azure SQL Databases
@@ -272,3 +272,4 @@ outlineSection: |-
   - Créer une base de données simple dans Azure SQL Database.
   - Créer une instance gérée d’Azure SQL Database.
   - Recommander des modèles architecturaux de la haute disponibilité utilisés dans Azure SQL Database.
+

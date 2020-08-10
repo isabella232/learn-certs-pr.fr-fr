@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Functional Consultant (beta)'
+metadata:
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+uid: exam.pl-200
+displayName: PL-200
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Un consultant fonctionnel Power Platform est responsable de la découverte, de la saisie des besoins, de l’engagement d’experts et de parties prenantes, de la traduction des besoins et de la configuration des solutions et applications Power Platform.
+
+  Le candidat implémente les composants d’une solution, notamment les améliorations des applications, l’expérience utilisateur personnalisée, l’intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
+
+  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible en octobre 2020.</div>
+subTitle: 'Cet examen sera disponible en Octobre 2020. Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: configurer le service des données communes, développer une Power App, créer des automatisations avec Power Automate, configurer Power Virtual Agents, et créer des visualisations avec Power BI.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Configurer Common Data Service.
+- Développer une Power App.
+- Créer des automatisations Power Automate.
+- Configurer Power Virtual Agents.
+- Créer des visualisations avec Power BI.
+roles:
+- business-analyst
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- dynamics-virtual-agent
+relatedCertifications:
+- related:
+    uid: certification.power-platform-functional-consultant-associate
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

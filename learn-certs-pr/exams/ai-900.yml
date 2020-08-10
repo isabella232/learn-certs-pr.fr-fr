@@ -10,18 +10,18 @@ subTitle: 'Prouvez votre capacité à décrire les questions suivantes: Les char
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - beginner
 skills:
 - Décrire les charges de travail et les considérations de l’intelligence artificielle (15-20%)
-- Décrire les principes fondamentaux de l’apprentissage automatique sur Azure(30-35%)
-- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure.(15-20%)
+- Décrire les principes fondamentaux de l’apprentissage automatique sur Azure (30-35%)
+- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure(15-20%)
 - Décrire les caractéristiques des charges de travail du traitement du langage naturel (NLP) sur Azure (15-20%)
 - Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure( 15-20%)
 roles:
@@ -45,17 +45,28 @@ products:
 - azure-text-speech
 - azure-translator-speech
 - azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
 relatedCertifications:
 - related:
     uid: certification.azure-ai-fundamentals
 resources:
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure AI Fundamentals ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification

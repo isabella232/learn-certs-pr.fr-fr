@@ -8,7 +8,7 @@ displayName: MB-230
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen a été mis à jour le 1 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise du service client. Les candidats sont responsables de la mise en œuvre de solutions omnicanal axées sur le service, la qualité, la fiabilité, l'efficacité et la satisfaction de la clientèle.
@@ -22,17 +22,18 @@ summary: |-
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la configuration; gérer des cas et la base de connaissances; gérer les files d’attente, les attributions et les accords de niveau de service; et configurer Forms Pro.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
+practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le mercredi 1 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Effectuer la configuration (25-30%)
-- Gérer les cas et la base de connaissances (30-35%)
-- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25-30%)
-- Configurer les Pro des formulaires(15-20%)
+- Le contenu de cet examen a été mis à jour le 1 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Effectuer la configuration (25 à 30%)
+- Gérer les cas et la base de connaissances (30 à 35%)
+- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25 à 30%)
+- Configurer les Pro des formulaires(15 -20%)
 roles:
 - functional-consultant
 products:

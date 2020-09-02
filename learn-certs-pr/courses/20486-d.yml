@@ -1,0 +1,350 @@
+### YamlMime:Course
+title: Developing ASP.NET Core MVC Web Applications
+metadata:
+  title: 'Course 20486-D: Developing ASP.NET Core MVC Web Applications'
+  description: 'Course 20486-D: Developing ASP.NET Core MVC Web Applications'
+uid: course.20486-d
+courseNumber: '20486-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Description de l’ensemble des technologies Web de Microsoft et sélection d’une technologie adéquate à utiliser pour développer une application donnée.
+- skill: Conception de l’architecture et de la mise en œuvre d’une application Web qui répondra à l’ensemble des exigences fonctionnelles, des exigences d’interface utilisateur et correspondra aux modèles commerciaux.
+- skill: Configuration du pipeline d’applications Web d’ASP.NET Core à l’aide d’un intergiciel et mise à profit de l’injection de dépendances dans l’application MVC.
+- skill: Ajout de contrôleurs à une application MVC pour gérer l’interaction utilisateur, mettre les modèles à jour et sélectionner et renvoyer les vues.
+- skill: Développement d’une application Web qui utilise ASP.NET core le moteur de routage afin de présenter des URL conviviales et une hiérarchie de navigation logique aux utilisateurs.
+- skill: Création de vues dans une application MVC qui affichent et modifient des données et interagissent avec les modèles et les contrôleurs.
+- skill: Création de modèles MVC et rédaction d’un code qui met en œuvre une logique d’entreprise au sein des méthodes, des propriétés et des événements des modèles.
+- skill: Connexion d’une application ASP.NET Core à une base de données à l’aide de Entity Framework Core.
+- skill: Mise en œuvre d’un aspect et d’une convivialité constants dans l’intégralité d’une application Web MVC.
+- skill: Rédaction d’un code JavaScript qui s’exécute du côté du client et utilise la bibliothèque de scripts jQuery afin d’optimiser la réactivité d’une application Web MVC.
+- skill: Ajout de progiciels côté client et configuration des exécuteurs de tâches.
+- skill: Exécution des tests d’unité et des outils de débogage par rapport à une application Web dans Visual Studio 2017.
+- skill: Rédaction d’une application MVC qui authentifie et autorise l’accès des utilisateurs au contenu de manière sécurisée à l’aide de l’identité.
+- skill: Construction d’une application MVC qui résiste aux attaques malveillantes.
+- skill: Utilisation de la mise en cache pour accélérer la réponse aux requêtes des utilisateurs.
+- skill: Utilisation de SignaIR pour permettre la communication à deux voies entre un client et un serveur.
+- skill: Description d’une API Web et de la raison pour laquelle les développeurs peuvent ajouter une API Web à une application.
+- skill: Description du conditionnement et du déploiement d’une application Web ASP.NET Core MVC depuis un ordinateur de développement vers un serveur Web.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- aspnet-core
+exams:
+- uid: exam.70-486
+summary: |-
+  Au cours de cette formation de 5 jours, les développeurs Web professionnels apprendront à mettre au point des applications ASP.NET Core MVC à l’aide des outils et technologies .NET Core. L’accent sera mis sur les activités de codage qui améliorent les performances et l’évolutivité de l’application d’un site Web. Cette formation préparera également l’étudiant à l’examen 70-486.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux développeurs Web professionnels qui utilisent Microsoft Visual Studio dans un environnement de développement individuel ou d’équipe, de petite ou de grande taille. Les candidats à cette formation s’intéressent au développement d’applications Web avancées et souhaitent gérer le HTML rendu de manière complète. Ils souhaitent créer des sites Internet qui séparent l’interface utilisateur, l’accès aux données et la logique de l’application.
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  - de l’expérience avec Visual Studio 2017.
+  - de l’expérience avec la programmation de C# et les concepts tels que les expressions Lambda, LINQ et les types anonymes.
+  - de l’expérience dans l’utilisation du .NET Framework.
+  - de l’expérience avec HTML, CSS et JavaScript.
+  - de l’expérience avec l’interrogation et la manipulation des données avec ADO.NET.
+  - des connaissances des structures de données XML et JSON.
+outlineSection: |-
+  ### Module 1&#58; Exploration de ASP.NET Core MVC
+  Microsoft ASP.NET Core MVC et les autres technologies Web de l’ASP.NET Core peuvent vous aider à créer et à héberger des applications Web dynamiques, puissantes et extensibles. ASP.NET Core, dont ASP.NET Core MVC fait partie, est un cadre interplateforme en open source qui vous permet de construire des applications Web. Vous pouvez développer et exécuter des applications Web ASP.NET Core sur Windows, macOS, Linus ou toute autre plateforme qui le prend en charge.
+
+  ASP.NET Core MVC prend en charge un cycle de développement agile et mené par des tests. Il vous permet également d’utiliser la dernière norme HTML et les cadres frontaux tels que Angular, React, etc.
+  #### Leçons
+  - Présentation des technologies Microsoft Web.
+  - Présentation d’ASP.NET 4.x.
+  - Introduction à ASP.NET Core MVC.
+
+
+  #### Laboratoire&#58; Exploration d’ASP.NET Core MVC
+  - Exploration d’une application Razor Pages.
+  - Exploration d’une application API Web.
+  - Exploration d’une application MVC.
+
+  Après avoir terminé ce cours, les étudiants seront capables de&#58;
+  - de comprendre la gamme de technologies disponibles dans l’ensemble Microsoft Web.
+  - de décrire les différents modèles de programmation disponibles pour les développeurs dans ASP.NET.
+  - de choisir entre ASP.NET Core et ASP.NET 4.x.
+  - de décrire le rôle de ASP.NET Core MVC dans l’ensemble de technologies Web et comment utiliser ASP.NET Core MVC pour construire des applications Web.
+  - de faire la distinction entre les modèles MVC, les contrôleurs MVC et les vues MVC.
+
+
+  ### Module 2&#58; Conception d’applications Web ASP.NET Core MVC
+  Microsoft ASP.NET Core MVC est un modèle de programmation que vous pouvez utiliser pour créer des applications Web puissantes et complexes. Cependant, tous les projets de développement complexes, les grands projets en particulier, peuvent être difficiles et complexes à comprendre intégralement. Sans une compréhension complète des objectifs d’un projet, vous ne pouvez pas mettre au point une solution efficace qui réponde au problème du client. Vous devez savoir identifier un ensemble de besoins d’entreprise et planifier l’application Web Model View Controller (MVC) pour répondre à ces besoins. Le plan du projet que vous créez assure aux parties prenantes que vous comprenez leurs exigences et communique la fonctionnalité de l’application Web, son interface utilisateur, sa structure et le stockage des données aux développeurs. En rédigeant un plan de projet détaillé et précis, vous garantissez l’utilisation efficace des fonctionnalités puissantes de MVC pour résoudre les problèmes professionnels du client.
+  #### Leçons
+  - Planification de la phase de conception du projet.
+  - Conception de modèles, de contrôleurs et de vues.
+
+
+  #### Laboratoire&#58; Conception d’applications Web ASP.NET Core MVC
+  - Planification des classes de modèles.
+  - Planification des contrôleurs.
+  - Planification des vues.
+  - Architecture et application Web MVC.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - de planifier l’architecture globale d’une application Web MVC ASP.NET Core et de tenir compte des aspects tels que la gestion des états.
+  - de planifier des modèles, des contrôleurs et des vues nécessaires pour mettre en œuvre un ensemble donné d’exigences fonctionnelles.
+
+
+  ### Module 3&#58; Configuration des intergiciels et des services dans ASP.NET Core
+  ASP.NET Core est un cadre qui nous permet de construire de nombreuses applications différentes. Dans ce module, vous apprendrez à tirer parti du cadre ASP.NET Core pour gérer des requêtes et des réponses par le biais d’un intergiciel existant personnalisé et à configurer des services à utiliser dans l’intergiciel et dans d’autres parties de l’application, telles que les contrôleurs.
+  Un intergiciel est un segment de code qui peut être utilisé dans le cadre du pipeline de requête et de réponse et qui nous permet de les gérer en fonction de paramètres pertinents. Cela permet de gérer potentiellement plusieurs requêtes de façon complètement différente et de recevoir des réponses séparées.
+  Les services sont des classes qui exposent une fonctionnalité que vous pouvez ensuite utiliser dans différentes parties de l’application sans devoir suivre la portée manuellement à chaque emplacement individuel et sans instancier des dépendances. Cela se fait grâce à l’injection de dépendances.
+  L’injection de dépendances est une technique utilisée par ASP.NET Core qui nous permet d’ajouter des dépendances au code sans avoir à s’inquiéter des objets d’instanciation, de les garder en mémoire ou de transmettre des dépendances requises. Cela permet à l’application de devenir plus flexible et de réduire les points potentiels de défaillance lors de la modification d’un service.
+  #### Leçons
+  - Configuration des intergiciels.
+  - Configuration des services.
+
+
+  #### Laboratoire&#58; Configuration de l’intergiciel et des services dans ASP.NET Core
+  - Travail avec des fichiers statiques.
+  - Création d’un intergiciel personnalisé.
+  - Utilisation de l’injection de dépendances.
+  - Injection d’un service dans un contrôleur.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’utiliser l’intergiciel existant pour configurer une application ASP.NET Core.
+  - de créer leur propre intergiciel et de l’utiliser pour définir un comportement personnalisé.
+  - de comprendre les principes de base qui se cachent derrière l’injection de dépendances et son utilisation dans ASP.NET Core.
+  - de savoir créer un service personnalisé, configurer sa portée et l’injecter à l’intergiciel et aux contrôleurs ASP.NET Core MVC.
+
+
+  ### Module 4&#58; Développement de contrôleurs
+  ASP.NET Core MVC est un cadre de construction d’applications Web qui utilise le modèle architectural Model-View-Controller (MVC). Le contrôleur est essentiellement responsable du traitement d’une requête Web par interaction avec le modèle et le passage des résultats à la vue. Le modèle représente la couche de l’entreprise, parfois appelée le domaine, et peut inclure des objets de données, la logique d’application et les règles de l’entreprise. La vue utilise les données qu’elle reçoit du contrôleur pour produire le HTML ou toute autre production qui est renvoyée au navigateur.
+  Dans ce module, vous apprendrez à développer des contrôleurs. Les contrôleurs sont essentiels aux applications MVC. Il est essentiel de comprendre le fonctionnement des contrôleurs pour pouvoir créer les objets de modèles adéquats, les manipuler et les transférer aux vues adéquates.
+  Un contrôleur est une classe. Il contient plusieurs méthodes. Ces méthodes s’appellent des actions. Lorsqu’une application MVC reçoit une requête, elle trouve le contrôleur et l’action qui doivent traiter la requête. Cela est déterminé en utilisant l’acheminement Uniform Resource Locator (URL).
+  L’acheminement URL est un autre concept très important nécessaire au développement d’applications MVC. Le cadre MVC ASP.NET Core inclut un système d’acheminement URL flexible qui vous permet de définir les règles de cartographie de l’URL dans vos applications.
+  Pour maximiser la réutilisation du code dans les contrôleurs, il est important de savoir comment rédiger des filtres d’action. Vous pouvez utiliser des filtres d’actions pour exécuter le code avant ou après chaque action de votre application Web, sur chaque action dans un contrôleur ou sur d’autres combinaisons d’actions de contrôleurs.
+  #### Leçons
+  - Rédaction des contrôleurs et des actions.
+  - Configuration des routes.
+  - Rédaction des filtres d’actions.
+
+
+  #### Laboratoire&#58; Développement des contrôleurs
+  - Ajout de contrôleurs et d’actions à une application MVC.
+  - Configuration des routes à l’aide de la table d’acheminement.
+  - Configuration des routes à l’aide des attributs.
+  - Ajout d’un filtre d’actions.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’ajouter un contrôleur à une application Web qui répond aux actions des utilisateurs spécifiées dans la conception du projet.
+  - d’ajouter des routes au moteur de routage ASP.NET Core et s’assurer de la convivialité des URL dans une application Web MVC.
+  - de rédiger un code dans des filtres d’actions qui s’exécute avant ou après une action du contrôleur.
+
+
+  ### Module 5&#58; Développement des vues
+  Les vues représentent un des trois composants principaux du modèle de programmation Model-View-Controller (MVC). Vous pouvez définir l’interface utilisateur pour votre application Web en créant des vues. Une vue est une association de marquage HTML et de code C# qui s’exécute sur un serveur Web. Par conséquent, pour créer une vue, vous devez savoir comment rédiger le marquage HTML et le code C# et utiliser les différentes classes d’aidants intégrées à MVC. Vous devez également savoir comment créer des vues partielles et des composants de vue, qui font des rendus de sections HTML qui peuvent être réutilisées dans votre application Web.
+  #### Leçons
+  - Création de vues avec Razor Syntax.
+  - Utilisation des aidants HTML et des aidants de référence.
+  - Réutilisation du code dans les vues.
+
+
+  #### Laboratoire&#58; Mise au point de vues
+  - Ajout de vues dans une application MVC.
+  - Ajout d’une vue partielle.
+  - Ajout d’un composant de vue.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - de créer une vue MVC et d’y ajouter un marquage Razor pour afficher les données pour les utilisateurs.
+  - d’utiliser des aidants HTML et de référence dans une vue, de réutiliser le marquage Razor à plusieurs endroits d’une application.
+
+
+  ### Module 6&#58; Développement de modèles
+  La plupart des applications Web interagissent avec différents types de données ou d’objets. Une application de e-commerce, par exemple, gère des produits, des paniers, des clients et des commandes. Une application de réseau social peut aider à gérer des utilisateurs, des mises à jour de statut, des commentaires, des photos et des vidéos. Un blog est utilisé pour gérer des entrées de blog, des commentaires, des catégories et des références. Lorsque vous rédigez une application Web Model-View-Controller (MVC), vous créer un modèle MVC pour modéliser les données pour votre application Web. Dans ce modèle, vous créez une classe de modèle pour chaque type d’objet. La classe de modèle décrit les propriétés de chaque type d’objet et peut inclure une logique d’entreprise qui correspond aux processus d’affaires. Par conséquent, le modèle est une pierre angulaire d’une application MVC. Dans ce module, vous apprendrez à créer le code pour des modèles.
+  #### Leçons
+  - Création de modèles MVC.
+  - Travail avec des formes.
+  - Validation de l’application MVC.
+
+
+  #### Laboratoire&#58; Développement de modèles
+  - Ajout d’un modèle.
+  - Travail avec des formes.
+  - Ajout d’une validation.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’ajouter un modèle à une application MVC et d’y rédiger un code pour mettre en œuvre la logique d’entreprise.
+  - d’utiliser l’affichage et de modifier des annotations de données.
+  - de valider l’entrée de l’utilisateur avec des annotations des données.
+
+
+  ### Module 7&#58; Utilisation de Entity Framework Core dans ASP.NET Core
+  Les applications Web utilisent souvent des informations et nécessitent généralement un magasin de données pour ces informations. En faisant le rendu des pages Web qui utilisent des données d’un magasin de données, vous pouvez créer une application Web qui change continuellement en réponse aux entrées de l’utilisateur, aux actions de l’administrateur et aux événements de publication. Le magasin de données est généralement une base de données, mais d’autres types de magasins de données sont parfois utilisés. Dans des applications Model-View-Controller (MVC), vous pouvez créer un modèle qui mette en œuvre une logique d’accès aux données et une logique d’entreprise. Alternativement, vous pouvez séparer la logique d’entreprise de la logique d’accès aux données en utilisant un dépôt. Un dépôt est une classe qu’un contrôleur peut appeler pour lire des données d’un magasin de données et pour stocker et rédiger des données dans un magasin de données. Lorsque vous rédigez une application ASP.NET, vous pouvez utiliser les technologies Entity Framework Core (EF Core) et Language Integrated Query (LINQ), ce qui rend le code d’accès aux données très rapide à rédiger et simple à comprendre. Dans ce module, vous verrez comment construire un site Web basé sur une base de données dans MVC.
+  #### Leçons
+  - Introduction à Entity Framework Core.
+  - Travail avec Entity Framework Core.
+  - Utilisation de Entity Framework Core pour se connecter à Microsoft SQL Server.
+
+
+  #### Laboratoire&#58; Utilisation de Entity Framework Core dans ASP.NET Core
+  - Ajout de Entity Framework Core.
+  - Utilisation de Entity Framework Core pour récupérer et stocker des données.
+  - Utilisation de Entity Framework Core pour se connecter à Microsoft SQL Server.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - de connecter une application à une base de données pour accéder aux données et les stocker.
+  - d’expliquer EF Core.
+  - de travailler avec Entity Framework Core.
+  - d’utiliser EF Core pour se connecter à une base de données, notamment Microsoft SQL Server.
+
+
+  ### Module 8&#58; Utilisation de présentations, de CSS et de JavaScript dans ASP.NET Core MVC
+  Lors de la construction d’applications Web, vous devez appliquer une présentation et un mode de fonctionnement cohérents à votre application. Vous devez inclure des sections d’en-tête et de pied de page cohérentes dans toutes les vues. Microsoft ASP.NET Core MVC comprend des fonctionnalités telles que des styles et présentations de feuilles de style en cascade (CSS) qui améliorent l’aspect et la convivialité de votre application Web.
+  Dans ASP.NET Core MVC, vous pouvez créer des éléments HTML interactifs à l’aide de JavaScript. Vous devez savoir comment utiliser JavaScript dans votre application Web. Pour simplifier l’ajout de JavaScript à votre application Web, vous devez savoir comment utiliser des bibliothèques telles que jQuery.
+  #### Leçons
+  - Utilisation des présentations.
+  - Utilisation de CSS et de JavaScript.
+  - Utilisation de jQuery.
+
+
+  #### Laboratoire&#58; Utilisation de présentations, de CSS et de JavaScript dans ASP.NET Core MVC
+  - Application d’une présentation et y connecter des vues.
+  - Utilisation de CSS.
+  - Utilisation de JavaScript.
+  - Utilisation de jQuery.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’appliquer une présentation cohérente aux applications ASP.NET Core MVC.
+  - d’ajouter un code JavaScript à l’application Web.
+  - d’utiliser la bibliothèque jQuery dans l’application Web.
+
+
+  ### Module 9&#58; Développement côté client
+  Lors de la création d’une application, il est important de savoir comment développer les côtés client et serveur de l’application. Dans ce module, vous découvrirez les outils du côté client, ce qui vous permettra de créer des applications Web étendues à n’importe quelle échelle. Ces outils se basent sur les sujets couverts dans le Module 8 « Utilisation des présentations, de CSS et de JavaScript dans ASP.NET Core MVC ».
+  Dans ce module, vous apprendrez à utiliser le cadre Bootstrap pour styliser votre application Web. Vous allez ensuite apprendre à utiliser Sass and Less, deux préprocesseurs de feuilles de style en cascade (CSS) courants qui ajoutent des fonctionnalités à CSS, telles que des variables, des règles imbriquées et des fonctions. Ils améliorent grandement la maintenabilité d’applications Web complexes.
+  Ensuite, vous apprendrez à configurer des exécuteurs de tâches, tels que Grunt and Gulp et à les utiliser pour compiler des fichiers Sass pendant la construction de Microsoft Visual Studio. Vous apprendrez à utiliser l’exécuteur de tâches Gulp pour exécuter le regroupement et la réduction de fichiers CSS et JavaScript et à configurer une tâche d’observateur pour compiler des fichiers Sass au fur et à mesure que vous rédigez votre code sans devoir reconstruire la solution.
+  Enfin, vous découvriez des outils de conception réactifs qui vous permettent de personnaliser l’affichage de votre application Web en fonction des capacités et spécifications d’un navigateur Internet ou d’un dispositif. Vous apprendrez à rédiger des requêtes de médias CSS, à utiliser le système de grille réactif Bootstrap et à appliquer la présentation CSS Flexbox à vos vues.
+  #### Leçons
+  - Application de styles.
+  - Utilisation d’exécuteurs de tâches.
+  - Conception réactive.
+
+
+  #### Laboratoire&#58; Développement côté client
+  - Utilisation de Gulp pour exécuter des tâches.
+  - Stylisation à l’aide de Sass.
+  - Utilisation de Bootstrap.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’utiliser Bootstrap, Sass and Less dans une application Microsoft ASP.NET Core.
+  - d’utiliser des exécuteurs de tâches dans une application ASP.NET Core.
+  - de s’assurer qu’une application Web s’affiche correctement sur des appareils dont la taille d’écran est différente.
+
+
+  ### Module 10&#58; Test et dépannage
+  Les systèmes logiciels, tels que des applications Web, sont complexes et nécessitent le fonctionnement simultané de plusieurs composants, qui sont souvent rédigés par différents développeurs. Des hypothèses incorrectes, une mauvaise compréhension, des erreurs de codage et de nombreuses autres sources peuvent créer des bugs qui entraînent des exceptions ou un comportement inattendu. Pour améliorer la qualité de votre application Web et créer une expérience utilisateur satisfaisante, vous devez identifier les bugs de toutes les sources et les éliminer.
+  Traditionnellement, les testeurs procèdent à la majeure partie des tests à la fin d’un projet de développement. Cependant, il est récemment devenu largement accepté que les tests tout au long du cycle de vie du projet améliorent la qualité et assurent l’absence de bogues dans le logiciel de production. Vous devez comprendre comment exécuter des tests sur de petits composants de votre application Web pour vous assurer qu’ils fonctionnent comme prévu avant de les assembler dans une application Web complète.
+  Il est également important de savoir gérer les exceptions au fur et à mesure de leur survenue. Lorsqu’une application fonctionne, il est possible que vous rencontriez des événements imprévus. Il est important que vous gériez vos exceptions correctement et que vous fournissiez un bon retour d’information de l’utilisateur tout en évitant toute fuite d’informations relatives à la structure de l’application.
+  Enfin, grâce à l’utilisation des journaux dans l’intégralité de l’application, vous pouvez suivre les activités des utilisateurs qui pourraient causer des problèmes imprévus. Vous pouvez ensuite trouver une solution à ces bugs, que vous ne sauriez normalement pas exactement comment reproduire, en suivant les flux qui se sont produits dans l’environnement de production et en trouvant des erreurs supplémentaires.
+  #### Leçons
+  - Test des applications MVC.
+  - Mise en œuvre d’une stratégie de gestion des exceptions.
+  - Enregistrement des applications MVC.
+
+
+  #### Laboratoire&#58; Test et dépannage
+  - Test d’un modèle.
+  - Test d’un contrôleur à l’aide d’un faux dépôt.
+  - Mise en œuvre d’un dépôt dans un projet MVC.
+  - Ajout d’une gestion des exceptions.
+  - Ajout d’enregistrements.
+
+  Après avoir terminé ce cours, les étudiants seront capables de&#58;
+  - d’exécuter des tests d’unités par rapport aux composants de Model-View-Controller (MVC), tels que les classes et contrôleurs de modèles, et de localiser les bogues potentiels.
+  - de construire une application Microsoft ASP.NET Core MVC qui gère les exceptions sans heurts et de façon robuste.
+  - d’exécuter des fournisseurs de registres bénéfiques pour vos applications et les exécuter à l’aide de l’API d’enregistrement courant.
+
+
+  ### Module 11&#58; Gestion de la sécurité
+  Étant donné que les applications ciblent normalement les utilisateurs qui utilisent uniquement un navigateur pour ces applications, il y aura probablement beaucoup plus d’utilisateurs que dans le cas d’applications installées. Cependant, la nature ouverte d’une application Web signifie que vous devez toujours avoir la sécurité à l’esprit lorsque vous la construisez. Dans le cadre de la sécurité, vous devez décider quels utilisateurs peuvent exécuter quelles actions tout en protégeant les utilisateurs et votre application des tiers malveillants qui pourraient avoir accès à votre application.
+  L’authentification est l’acte d’utiliser plusieurs paramètres pour vous assurer qu’un utilisateur est qui il affirme être. En mettant en œuvre l’authentification, vous pouvez confirmer l’identité d’un utilisateur et lui fournir le contenu adéquat lors de l’utilisation de vos applications.
+  L’autorisation est le processus par lequel un utilisateur déjà authentifié dans l’application peut avoir accès à des actions ou des ressources spécifiques. En utilisant l’autorisation, vous pouvez empêcher des utilisateurs d’avoir accès à du matériel sensible qui ne leur est pas destiné ou d’exécuter des actions qu’ils ne devraient pas pouvoir exécuter.
+  Enfin, à un moment de leur vie, vos applications peuvent être attaquées par des utilisateurs malveillants. Les attaques peuvent varier en termes de moyens et de tentatives, mais le coût d’un manque de défenses peut être élevé. Vous pouvez perdre des utilisateurs potentiels qui sont affectés, des données de valeur pourraient erronément être modifiées et, dans les pires scénarios, la totalité de l’application pourrait être inutilisable. Des solutions à certaines des attaques les plus courantes seront révisées dans ce module.
+  #### Leçons
+  - Authentification dans ASP.NET Core.
+  - Autorisation dans ASP.NET Core.
+  - Défense contre des attaques.
+
+
+  #### Laboratoire&#58; Gestion de la sécurité
+  - Utilisation de l’identité.
+  - Ajout de l’autorisation.
+  - Évitement de falsification de requête intersite.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’ajouter une authentification de base à leur application.
+  - de configurer l’identité de Microsoft ASP.NET Core.
+  - d’ajouter une autorisation de base à leur application.
+  - d’utiliser plusieurs approches d’autorisation différentes.
+  - de savoir comment la sécurité utilise le travail et comment mieux se défendre.
+
+
+  ### Module 12&#58; Performance et communication
+  Les applications Web modernes nécessitent des interactions complexes avec les utilisateurs. Les utilisateurs demandent souvent un grand nombre de données dans un petit laps de temps, tout en attendant également des données pertinentes dès qu’elles sont mises en ligne. Cela peut facilement entraîner une lourde charge sur un serveur non préparé, ce qui entraîne des opérations complexes ou répétées inutilement et une lourde charge sur votre serveur. Heureusement, il existe plusieurs façons de réduire la charge.
+  La mise en cache vous permet de stocker des requêtes couramment répétées, ce qui supprime le besoin d’exécuter la même logique de façon répétée. En utilisant la mise en cache, vous pouvez réutiliser des données qui ont déjà été chargées et les présenter à l’utilisateur. Cela donne à l’utilisateur un temps de réponse court et réduit les ressources du système utilisées dans l’exécution de la logique pour l’action.
+  Pendant ce temps-là, l’état permet d’atteindre un état de cohérence entre différentes requêtes. En utilisant plusieurs formes de gestion des états, vous pouvez transformer une expérience Web normalement sans état en une expérience qui est personnalisée pour chaque client, différents utilisateurs appréciant une expérience séparée et pertinente dans la même application.
+  Enfin, SignalR est un cadre qui permet l’abstraction de différents protocoles de communication en une API facile à utiliser, ce qui vous permet de créer facilement un ensemble unique d’outils sur le serveur et le client pour faciliter les communications à deux voies. Cela vous permet de vous concentrer sur la logique que vous souhaitez mettre en œuvre tout en vous permettant de ne pas répondre aux besoins de navigateurs spécifiques.
+  #### Leçons
+  - Mise en œuvre d’une stratégie de mise en cache.
+  - Gestion de l’état.
+  - Communication à deux voies.
+
+
+  #### Laboratoire&#58; Performance et communication
+  - Mise en œuvre d’une stratégie de mise en cache.
+  - Gestion de l’état.
+  - Communication à deux voies.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - de mettre en œuvre la mise en cache dans une application Microsoft ASP.NET Core.
+  - d’utiliser des technologies de gestion des états pour améliorer l’expérience client en offrant une expérience utilisateur cohérente.
+  - de mettre en œuvre une communication à deux voies à l’aide de SignalR, ce qui permet au serveur d’avertir le client en cas d’événements importants.
+
+
+  ### Module 13&#58; Mise en œuvre des API Web
+  La plupart des applications Web exigent l’intégration de systèmes externes tels que des applications mobiles. Vous devez savoir utiliser les API Web pour encourager des interactions entre les applications et des systèmes externes. Vous pouvez utiliser l’API Web pour mettre en œuvre des services Representational State Transfer (REST) dans votre application. Les services REST aident à réduire les frais généraux des applications et limitent les données transmises entre les systèmes du client et du serveur. Vous devez savoir comment appeler une API Web à l’aide du code côté serveur et du code jQuery pour efficacement mettre en œuvre des API Web de style REST dans votre application.
+  #### Leçons
+  - Introduction aux API Web.
+  - Développement d’une API Web.
+  - Appel d’une API Web.
+
+
+  #### Laboratoire&#58; Mise en œuvre des API Web
+  - Ajout d’actions et appel à l’aide de Microsoft Edge.
+  - Appel d’une API Web à l’aide du code côté serveur.
+  - Appel d’une API Web à l’aide de jQuery.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - de créer des services à l’aide de l’API Web ASP.NET Core.
+  - d’appeler une API Web du code côté serveur et avec jQuery.
+
+
+  ### Module 14&#58; Hébergement et déploiement
+  Les applications ASP.NET Core MVC sont conçues pour fournir un service simultanément à plusieurs utilisateurs en n’exigeant que l’installation du serveur et les clients utilisent des navigateurs pour y accéder. Cela entraîne des applications hautement attrayantes qui ne comptent pas sur l’installation d’un logiciel spécifique par l’utilisateur et s’assure qu’elles sont accessibles aux clients sur une large gamme de machines.
+  Afin de configurer une application ASP.NET Core pour un environnement de production, vous devez compiler votre code et le comprimer. Vous devez ensuite le configurer et l’exécuter sur un serveur dédié.
+  L’hébergement implique l’utilisation d’un serveur dédié pour contenir l’application compilée et la servir aux utilisateurs en tant que service basé sur le Web. Il existe de nombreuses technologies que vous pouvez utiliser pour héberger votre application et vous devriez en choisir une qui soit adaptée à vos exigences.
+  Le déploiement est le processus au cours duquel le code du projet est compilé, puis transféré au serveur hôte de sorte qu’il fonctionne conformément aux exigences de l’environnement hôte.
+  Microsoft Azure est un service de cloud fourni par Microsoft. Il peut être utilisé pour accueillir des applications ASP.NET Core et représente un outil populaire sur le marché des technologies du cloud. Il fournit des services liés aux applications Web pratiques avec plusieurs options de facturation en fonction des exigences.
+  #### Leçons
+  - Hébergement et déploiement sur site.
+  - Déploiement sur Microsoft Azure.
+  - Microsoft Azure Fundamentals.
+
+
+  #### Laboratoire&#58; Hébergement et déploiement
+  - Déploiement d’une application Web sur Microsoft Azure.
+  - Chargement d’une image sur le stockage Azure Blob.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - d’héberger et de déployer une application ASP.NET Core MVC sur IIS.
+  - d’héberger et de déployer une application ASP.NET Core MVC sur Microsoft Azure.
+  - d’utiliser des services proposés par Microsoft Azure pour renforcer les capacités de leurs applications Web.
+

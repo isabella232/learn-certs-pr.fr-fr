@@ -13,19 +13,20 @@ subTitle: 'Les Dynamics 365 Supply Chain Management Functional Consultants sont 
 levels:
 - intermediate
 skills:
-- Utiliser les outils communs de fonctionnalité et de mise en œuvre
-- Configurer la sécurité, les processus et les options
-- Effectuer la migration des données
-- Valider et soutenir la solution
-- Mettre en œuvre la gestion des informations sur le produit
-- Mettre en œuvre la gestion de l’inventaire
-- Mettre en œuvre et gérer les processus de la chaîne logistique
-- Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels
+- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Utiliser les outils communs de fonctionnalité et de mise en œuvre.
+- Configurer la sécurité, les processus et les options.
+- Effectuer la migration des données.
+- Valider et soutenir la solution.
+- Mettre en œuvre la gestion des informations sur le produit.
+- Mettre en œuvre la gestion de l’inventaire.
+- Mettre en œuvre et gérer les processus de la chaîne logistique.
+- Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels.
 roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 courses:
 - uid: course.mb-300t00
@@ -37,31 +38,34 @@ paths:
 - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
-- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
 - uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
-- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
 - uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
 exams:
 - uid: exam.mb-300
 - uid: exam.mb-330
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
-  href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
 

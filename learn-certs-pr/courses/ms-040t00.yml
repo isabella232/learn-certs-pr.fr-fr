@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -42,8 +42,8 @@ outlineSection: |-
   ### Module 1&#58; Planifier et configurer les sites SharePoint.
   Ce module aborde la planification, la configuration et la gestion des sites SharePoint. Il discute comment les administrateurs de SharePoint utilisent le centre d’administration SharePoint pour gérer le cycle de vie des sites SharePoint dans votre organisation.
   #### Leçons
-  - Présentation de SharePoint dans Microsoft 365
-  - Configurer les sites SharePoint
+  - Présentation de SharePoint dans Microsoft 365.
+  - Configurer les sites SharePoint.
   - Gérer des sites de SharePoint
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
@@ -56,9 +56,9 @@ outlineSection: |-
   ### Module 2&#58; Configurer et gérer OneDrive
   Ce module explique la façon de planifier le déploiement de OneDrive en abordant différentes approches pour déployer OneDrive en se basant sur divers scénarios. Il présente également les moyens de gérer du contenu dans OneDrive.
   #### Leçons
-  - Présentation de OneDrive dans Microsoft 365
-  - Déployer OneDrive
-  - Gérer OneDrive
+  - Présentation de OneDrive dans Microsoft 365.
+  - Déployer OneDrive.
+  - Gérer OneDrive.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Gérer les limites de stockage des utilisateurs.
@@ -71,9 +71,9 @@ outlineSection: |-
   ### Module 3&#58; Partage et sécurité dans SharePoint et OneDrive
   Ce module est axé sur le partage, la sécurité et la surveillance dans Microsoft SharePoint et OneDrive. Il aborde plus précisément la planification et la gestion du partage externe, ainsi que le contrôle d’accès dans SharePoint et OneDrive. Il porte également sur la façon d’utiliser le centre d’administration Microsoft 365 pour surveiller les activités de Microsoft SharePoint et OneDrive.
   #### Leçons
-  - Gérer les autorisations de site sur SharePoint
-  - Gérer le partage dans SharePoint et OneDrive
-  - Gérer la sécurité dans SharePoint et OneDrive
+  - Gérer les autorisations de site sur SharePoint.
+  - Gérer le partage dans SharePoint et OneDrive.
+  - Gérer la sécurité dans SharePoint et OneDrive.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire le partage externe dans Microsoft SharePoint et OneDrive.
@@ -85,7 +85,7 @@ outlineSection: |-
   Ce module traite du profil utilisateur et de la personnalisation dans Microsoft SharePoint. Il aborde la gestion des profils utilisateur dans Microsoft SharePoint. Il décrit également la manière d’utiliser le catalogue d’applications pour mettre les applications métiers personnalisées à disposition de votre SharePoint dans Microsoft 365.
   #### Leçons
   - Gérer des profils utilisateur
-  - Gérer les applications
+  - Gérer les applications.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire la manière de configurer les propriétés du profil utilisateur.
@@ -97,7 +97,7 @@ outlineSection: |-
   Ce module traite des métadonnées gérées et des Business Connectivity Services. Il présente les concepts des métadonnées gérées ainsi que les processus d’importation des ensembles de termes. Il décrit également la manière de gérer Business Connectivity Services et créer une liste externe.
   #### Leçons
   - Planifier et configurer des métadonnées gérées
-  - Planifier et configurer Business Connectivity Services
+  - Planifier et configurer Business Connectivity Services.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire les fonctions des métadonnées gérées.
@@ -110,12 +110,12 @@ outlineSection: |-
   ### Module 6&#58; Planifier et configurer la recherche
   Ce module aborde le service de recherche de SharePoint. Il fournit des détails sur la planification et la configuration de la recherche de SharePoint, notamment la différence entre les expériences de recherche classique et moderne. Il discute également la façon de personnaliser l’expérience de recherche grâce à différents paramètres.
   #### Leçons
-  - Planifier la recherche
-  - Configurer la recherche
+  - Planifier la recherche.
+  - Configurer la recherche.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire la différence entre les expériences de recherche moderne et classique.
-  - Décrire la manière de gérer le schéma de recherche
+  - Décrire la manière de gérer le schéma de recherche.
   - Expliquer l’utilisation et le déploiement des règles de requête.
   - Expliquer l’utilisation et le déploiement de la source des résultats.
 

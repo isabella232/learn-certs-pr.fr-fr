@@ -7,8 +7,8 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 31 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour i 31 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des ingénieurs de données Microsoft Azure qui collaborent avec des parties prenantes professionnelles pour identifier et répondre aux exigences de données afin de mettre en œuvre des solutions de données qui utilisent les services de données Azure.
@@ -16,7 +16,7 @@ summary: |-
   Les ingénieurs en données Azure sont responsables des tâches de mise en œuvre relatives aux données qui comprennent la fourniture de services de stockage de données, l’acquisition des données de diffusion en contenu et en masse, la transformation de données, la mise en œuvre des exigences de sécurité, la mise en œuvre des politiques de rétention de données, l’identification des goulots d’étranglement de performance et l’accès aux sources de données externes.
 
   Les candidats à cet examen doivent être capable de mettre en œuvre des solutions de données qui utilisent les services Azure suivants&#58; Azure Cosmos DB, la base de données Azure SQL, Azure Synapse Analytics (précédemment Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks et le stockage Azure Blob.
-subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: mettre en œuvre des solutions de stockage de données, gérer et mettre au point le traitement des données et surveiller et optimiser les solutions de données. '
+subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: mettre en œuvre des solutions de stockage de données, gérer et mettre au point le traitement des données et surveiller et optimiser les solutions de données.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 31 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen a été mis à jour 31 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Mettre en œuvre des solutions de stockage de données (40-45%)
 - Gérer et développer le traitement des données (25-30%)
 - Surveiller et optimiser des solutions de données (30-35%)

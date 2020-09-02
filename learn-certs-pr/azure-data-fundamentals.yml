@@ -5,21 +5,23 @@ metadata:
   description: Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</font></strong><br/><br/></div>\r\n\r\nLes candidats à la certification Azure Data Fundamentals doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure. \r\n\r\nCette certification est destinée aux candidats qui viennent de commencer à travailler avec des données sur le cloud. \r\n\r\nLes candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques. \r\n\r\nLa certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles."
+summary: "<div><strong><font color='red'>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</font></strong><br/><br/></div>\r\n\r\nLes candidats à la certification Azure Data Fundamentals doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure.  \r\n\r\nCette certification est destinée aux candidats qui viennent de commencer à travailler avec des données sur le cloud.  \r\n\r\nLes candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques.  \r\n\r\nLa certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles."
 subTitle: Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
 levels:
 - beginner
 skills:
-- Décrire les concepts des données de base
-- Décrire le travail avec les données relationnelles sur Azure
-- Décrire le travail avec les données non relationnelles sur Azure
-- Décrire une charge de travail analytique sur Azure
+- Décrire les concepts des données de base.
+- Décrire le travail avec les données relationnelles sur Azure.
+- Décrire le travail avec les données non relationnelles sur Azure.
+- Décrire une charge de travail analytique sur Azure.
 roles:
 - data-engineer
 - database-administrator
 type: fundamentals
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data

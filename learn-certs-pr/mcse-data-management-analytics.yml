@@ -7,21 +7,28 @@ uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
   <div><strong> Cette certification sera retirée le 31 janvier 2021. Vous ne pourrez plus l'obtenir après cette date. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href='https://www.microsoft.com/learning/dashboard.aspx'>tableau de bord de certification</a>. Vous pouvez également <a href='/learn/certifications/retired-certifications'>Parcourez toutes les certifications retirées</a>.</strong><br/><br/></div>
   </div>
 
-  Atteste de votre large éventail de compétences en administration SQL, en développement de solutions de données à l'échelle de l'entreprise et en exploitation de données de veille stratégique, à la fois sur site et dans les environnements de cloud.
+  Cette certification atteste que vous êtes capable de gérer un centre de données hautement efficace et moderne, la gestion des identités, la gestion des systèmes, la virtualisation, le stockage et la mise en réseau.
 
-  Pour obtenir la certification MCSE&#58; Data Management and Analytics, vous devez réussir un des examens suivants &#58;
-  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+  Pour obtenir la certification MCSE&#58; Data Management & Analytics, complétez les exigences suivantes&#58;
+  - Obtenez l’une des certifications prérequises&#58;
+    - Prérequis Option 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - Prérequis Option 2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - Prérequis Option 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - Prérequis Option 4&#58; [MCSA&#58; SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - Prérequis Option 5&#58; [MCSA&#58; BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - Et réussissez l’un des examens en option &#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
 subTitle: Atteste de votre large éventail de compétences en administration SQL, en développement de solutions de données à l'échelle de l'entreprise et en exploitation de données de veille stratégique, à la fois sur site et dans les environnements de cloud.
 levels:
 - intermediate
@@ -45,6 +52,17 @@ exams:
 - uid: exam.70-464
 - uid: exam.70-465
 - uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -52,7 +70,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

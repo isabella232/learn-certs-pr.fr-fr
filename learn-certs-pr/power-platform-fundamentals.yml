@@ -13,12 +13,12 @@ subTitle: Démontrez votre compréhension des capacités essentielles de Power P
 levels:
 - beginner
 skills:
-- Décrire la valeur commerciale de Power Platform
-- Identifier les éléments essentiels de Power Platform
-- Démontrer les capacités de Power BI
-- Décrire les capacités de Power Apps
-- Démontrer les capacités de Power Automate
-- Démontrer la valeur commerciale des Power Virtual Agents
+- Décrire la valeur commerciale de Power Platform.
+- Identifier les éléments essentiels de Power Platform.
+- Démontrer les capacités de Power BI.
+- Décrire les capacités de Power Apps.
+- Démontrer les capacités de Power Automate.
+- Démontrer la valeur commerciale des Power Virtual Agents.
 roles:
 - business-user
 - functional-consultant
@@ -33,22 +33,25 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
-  href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
 

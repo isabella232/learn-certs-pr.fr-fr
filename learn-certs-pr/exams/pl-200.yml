@@ -6,25 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Un consultant fonctionnel Power Platform est responsable de la découverte, de la saisie des besoins, de l’engagement d’experts et de parties prenantes, de la traduction des besoins et de la configuration des solutions et applications Power Platform.
+  Les candidats à cet examen effectuent la découverte, capturent les besoins, entrent en contact avec les experts et les parties prenantes, traduisent les besoins et configurent des solutions et applications Power Platform. Ils créent des améliorations de l’application, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, une automatisation personnalisée des processus et des visualisations personnalisées.
 
-  Le candidat implémente les composants d’une solution, notamment les améliorations des applications, l’expérience utilisateur personnalisée, l’intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
+  Les candidats implémentent le design réalisé par un architecte de solutions avec leur collaboration, ainsi que les normes, marques et artefacts mis en place par les concepteurs de l’expérience utilisateur. Ils conçoivent des intégrations afin de fournir une intégration transparente avec les applications et services des tiers.
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible en octobre 2020.</div>
-subTitle: 'Cet examen sera disponible en Octobre 2020. Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: configurer le service des données communes, développer une Power App, créer des automatisations avec Power Automate, configurer Power Virtual Agents, et créer des visualisations avec Power BI.'
+  Les candidats collaborent activement avec les membres de l’équipe d’assurance qualité afin de s’assurer que les solutions répondent aux exigences fonctionnelles et non fonctionnelles. Ils identifient, génèrent, et délivrent des artefacts pour le packaging et le déploiement aux ingénieurs DevOps, et assurent la formation des administrateurs de Power Platform pour les opérations et la maintenance.
+
+  <div><strong><br/>Remarque&#58; Cet examen sera disponible en septembre 2020.</strong></div>
+subTitle: 'Cet examen sera disponible en septembre 2020. Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Configurer Common Data Service.
-- Développer une Power App.
-- Créer des automatisations Power Automate.
-- Configurer Power Virtual Agents.
-- Créer des visualisations avec Power BI.
+- Configurer Common Data Service (25-30%)
+- Créer des applications à l’aide de Power Apps (20-25%)
+- Créer et gérer Power Automate (15-20%)
+- Implémenter les bots conversationnels de Power Virtual Agents (10-15%)
+- Intégrer Power Apps avec d’autres applications et services (15-20%)
 roles:
 - business-analyst
 - developer
@@ -46,8 +49,8 @@ resources:
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

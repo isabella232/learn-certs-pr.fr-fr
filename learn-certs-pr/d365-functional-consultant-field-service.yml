@@ -6,7 +6,9 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>MB-200 SERA REMPLACÉ PAR UN NOUVEL EXAMEN, <a href="/learn/certifications/exams/pl-200">PL-200</a>, EN SEPTEMBRE 2020. Vous pourrez obtenir cette certification en passant l’examen MB-200 ou PL-200, en plus de MB-240, jusqu’au retrait du MB-200 le 31 décembre 2020. Après le retrait de l’examen MB-200, vous devrez réussir aux examens PL-200 et MB-240 pour obtenir cette certification.</strong><br/><br/></div></div>
 
   Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).
 subTitle: Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).
@@ -29,7 +31,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 courses:
 - uid: course.mb-200t00
@@ -49,22 +51,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-240
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
-  href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
 

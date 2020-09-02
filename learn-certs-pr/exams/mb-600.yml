@@ -7,11 +7,11 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le jeudi 30 juillet 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour 30 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les architectes de solutions pour Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière selon laquelle les solutions répondent aux besoins opérationnels et techniques plus vastes des entreprises.
+  Les architectes de solutions de Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière dont les solutions répondent aux besoins professionnels et techniques plus larges des organisations.
 
   Un Solution Architects (architectes en solutions) a des connaissances fonctionnelles et techniques des applications de modélisation Power Platform dans Dynamics 365, telles que Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing et Dynamics 365 Sales, liées à des solutions de cloud Microsoft et des technologies de tiers. Un Solution Architects (architectes en solutions) applique ses connaissances et son expérience par le biais d'un engagement. L’Solution Architects (architectes en solutions) réalise un travail proactif et préventif afin d'augmenter la valeur de l’investissement de son client et de promouvoir la santé de l’organisation. Ce rôle requiert la capacité à identifier les possibilités pour résoudre des problèmes professionnels.
 
@@ -25,14 +25,14 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le jeudi 30 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen a été mis à jour 30 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Procéder à une analyse des exigences et de la conception de la solution (30-35%)
 - Créer une solution (45-50%)
 - Mettre une solution en œuvre (20-25%)
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 - power-apps
 courses:
 - uid: course.mb-600t00
@@ -43,14 +43,14 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

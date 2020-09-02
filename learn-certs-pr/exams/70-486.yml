@@ -6,7 +6,7 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
   <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
   </div>
 
@@ -19,7 +19,7 @@ summary: |+
   - Développement et déploiement dans des environnements à plusieurs niveaux, notamment Azure
   - Conception et développement des solutions asynchrones
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 15 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 486.</div>
+  <div><strong><br/>Remarque&#58; Des mises à jour des examens sont en vigueur à partir du 15 janvier 2018. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 486.</strong></div>
 subTitle: Les candidats à cet examen sont des développeurs professionnels qui utilisent Microsoft Visual Studio 2017 et ASP.NET pour concevoir et développer des solutions Web. Les candidats doivent avoir un minimum de trois à cinq années d'expérience dans le développement de solutions Microsoft ASP.NET MVC basées sur et la connaissance de Microsoft Azure Web Apps.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
@@ -47,14 +47,15 @@ roles:
 products:
 - aspnet-core
 courses:
-- uid: course.20486
+- uid: course.20486-c
+- uid: course.20486-d
 relatedCertifications:
 - related:
     uid: certification.mcsa-web-applications-certification
 - related:
     uid: certification.mcsd-app-builder-certification
 resources:
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Tableau de bord des certifications

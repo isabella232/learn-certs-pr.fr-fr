@@ -4,19 +4,25 @@ metadata:
   title: 'MCSA: Web Applications'
   description: 'MCSA: Web Applications'
 uid: certification.mcsa-web-applications-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
   <div><strong> Cette certification sera retirée le 31 janvier 2021. Vous ne pourrez plus l'obtenir après cette date. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href='https://www.microsoft.com/learning/dashboard.aspx'>tableau de bord de certification</a>. Vous pouvez également <a href='/learn/certifications/retired-certifications'>Parcourez toutes les certifications retirées</a>.</strong><br/><br/></div>
   </div>
 
   Démontrer votre maîtrise dans la mise en œuvre d'applications Web modernes.
+
+  Pour obtenir la certification MCSA&#58; Web Applications, complétez les exigences suivantes&#58;
+  - Réussissez à l’examen [70-486&#58; Developing ASP.NET MVC Web Applications](/learn/certifications/exams/70-486)
+  - Et réussissez l’un des examens suivants&#58;
+    - [70-480&#58; Programming in HTML5 with JavaScript and CSS3](/learn/certifications/exams/70-480)
+    - [70-483&#58; Programming in C#](/learn/certifications/exams/70-483)
 subTitle: Démontrer votre maîtrise dans la mise en œuvre d'applications Web modernes.
 levels:
 - intermediate
 skills:
-- aucun
+- none
 roles:
 - developer
 type: mcsa
@@ -37,7 +43,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

@@ -5,15 +5,18 @@ metadata:
   description: "Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services cloud, le logiciel comme un modèle de cloud service (SaaS), et la mise en œuvre de Microsoft 365 services de cloud computing."
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>\r\n\r\nProuvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services cloud, le logiciel comme un modèle de cloud service (SaaS), et la mise en œuvre de Microsoft 365 services de cloud computing."
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services cloud, le logiciel comme un modèle de cloud service (SaaS), et la mise en œuvre de Microsoft 365 services de cloud computing.
 subTitle: Prouvez que vous comprenez les options disponibles dans Microsoft 365 et les avantages de l'adoption des services cloud, le logiciel comme un modèle de cloud service (SaaS), et la mise en œuvre de Microsoft 365 services de cloud computing.
 levels:
 - beginner
 skills:
-- Décrire la Concepts le cloud
-- Décrire la base des services et des concepts de Microsoft 365
-- Expliquer la sécurité, la conformité, la confidentialité et la confiance dans Microsoft 365
-- Décrire la tarification et le support de Microsoft 365
+- Décrire la Concepts le cloud.
+- Décrire la base des services et des concepts de Microsoft 365.
+- Expliquer la sécurité, la conformité, la confidentialité et la confiance dans Microsoft 365.
+- Décrire la tarification et le support de Microsoft 365.
 roles:
 - business-user
 - administrator
@@ -25,7 +28,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
 exams:
 - uid: exam.ms-900

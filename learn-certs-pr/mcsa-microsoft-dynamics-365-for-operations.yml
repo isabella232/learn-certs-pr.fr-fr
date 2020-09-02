@@ -4,19 +4,25 @@ metadata:
   title: 'MCSA: Microsoft Dynamics 365 for Operations'
   description: 'MCSA: Microsoft Dynamics 365 for Operations'
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
   <div><strong> Cette certification sera retirée le 31 janvier 2021. Vous ne pourrez plus l'obtenir après cette date. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href='https://www.microsoft.com/learning/dashboard.aspx'>tableau de bord de certification</a>. Vous pouvez également <a href='/learn/certifications/retired-certifications'>Parcourez toutes les certifications retirées</a>.</strong><br/><br/></div>
   </div>
 
-  Cette certification démontre votre expertise dans les technologies Microsoft Dynamics 365, notamment la mise en œuvre des tâches techniques et de développement de base nécessaires à la personnalisation de Microsoft Dynamics 365 for Operations. Ces candidats exercent généralement les fonctions suivantes &#58; consultants techniques, programmeurs et personnel informatique.
+  Cette certification démontre votre expertise dans les technologies Microsoft Dynamics 365, notamment la mise en œuvre des tâches techniques et de développement de base nécessaires à la personnalisation de Microsoft Dynamics 365 for Operations. Ces candidats exercent généralement les fonctions suivantes&#58; consultants techniques, programmeurs et personnel informatique.
+
+  Pour obtenir la certification MCSA&#58; Microsoft Dynamics 365 for Operations, complétez les exigences suivantes&#58;
+  - Réussissez à l’examen [MB6-894&#58; Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)
+  - Et réussissez l’un des examens suivants&#58;
+    - [70-764&#58; Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
+    - [70-765&#58; Provisioning SQL Databases](/learn/certifications/exams/70-765)
 subTitle: 'Cette certification démontre votre expertise dans les technologies Microsoft Dynamics 365, notamment la mise en œuvre des tâches techniques et de développement de base nécessaires à la personnalisation de Microsoft Dynamics 365 for Operations. Ces candidats exercent généralement les fonctions suivantes: consultants techniques, programmeurs et personnel informatique.'
 levels:
 - intermediate
 skills:
-- aucun
+- none
 roles:
 - business-analyst
 type: mcsa
@@ -36,7 +42,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

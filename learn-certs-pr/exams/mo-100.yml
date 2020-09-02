@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-100
 displayName: MO-100
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Cet examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de Word et de compléter les tâches de façon indépendante.
 subTitle: Cette application évalue les compétence de l’utilisation correcte des principales fonctionnalités de Word en créant et en modifiant des documents à diverses fins et dans diverses situations. L’examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle.
@@ -28,15 +28,19 @@ locales:
 - fr
 - it
 - pt-br
+- pl
+- el-gr
+- zh-cn
+- zh-tw
 levels:
 - intermediate
 skills:
 - Gérer des documents (20-25%)
-- Insérer et formater un texte, des paragraphes et des sections (20 à 25%)
-- Gérer des tableaux et des listes (15 à 20%)
+- Insérer et formater un texte, des paragraphes et des sections (20-25%)
+- Gérer des tableaux et des listes (15-20%)
 - Créer et gérer des références (5-10%)
-- Insérer et mettre en forme des éléments graphiques (15 à 20%)
-- Gérer la collaboration entre les documents (5 à 10%)
+- Insérer et mettre en forme des éléments graphiques (15-20%)
+- Gérer la collaboration entre les documents (5-10%)
 roles:
 - developer
 products:

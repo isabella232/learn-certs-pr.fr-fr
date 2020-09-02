@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Décrire les composants de Power Platform : Power Apps, Power BI et Microsoft Automate.'
-- skill: 'Décrire les composants de Power Platform : Common Data Service, Connectors et AI builder.'
+- skill: 'Décrire les composants de Power Platform: Power Apps, Power BI et Microsoft Automate.'
+- skill: 'Décrire les composants de Power Platform: Common Data Service, Connectors et AI builder.'
 - skill: Décrire des scénarios dans plusieurs clouds dans M365, Dynamics 365, Microsoft Azure et les services de tiers.
 - skill: Identifier les avantages et les capacités de Power Platform.
 - skill: Identifier les fonctionnalités de base et la valeur commerciale des composants de Power Platform.
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Connaître la valeur commerciale et les capacités du produit de Power Platform. Créer une simple application PowerApp, connecter des données avec CDS, construire un tableau de bord Power BI et automatiser un processus avec Microsoft Flow.
+  Connaître la valeur commerciale et les capacités du produit de Power Platform. Créer un simple Power App, connecter les données avec Common Data Service, créer un tableau de bord Power BI, et automatiser un processus avec Power Automate.
 
   #### Profil de l’audience
   Les candidats à cet examen sont des utilisateurs qui cherchent à améliorer leur productivité en automatisant les processus d'affaires, en analysant des données pour avoir des perspectives du marché et en agissant plus efficacement en créant des expériences d'application simples.
@@ -39,36 +39,19 @@ outlineSection: |-
   - Aperçu de Power Platform
   - Résumé du module
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Identifier le moment où utiliser chaque application des composants de Power Platform afin de créer des solutions pour les entreprises
   - Découvrir la valeur de l’utilisation de Power Platform pour créer des solutions pour les entreprises
   - Découvrir les composants et les caractéristiques de Power Platform
 
-  ### Module 2&#58; Démarrer avec les applications Power
-  Découvrir la valeur et les capacités de Power Apps et des façons dont d'autres organisations ont tiré parti de cette technologie pour construire des applications simples pour leur entreprise.
-  #### Leçons
-  - Aperçu des applications Power
-  - Comment construire une solution d'application
-  - Créer une application Canvas pour le personnel
-  - Compléter l’application
 
-  #### Laboratoire &#58; Comment construire une application de base Canvas 2
-  - Créer une application Canvas de sécurité
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Découvrir comment les autres organisations numérisent leurs processus à l’aide de Power Apps
-  - Voir Power Apps en action et découvrir les options pour créer votre première application
-  - Découvrir ce qu’est Power Apps et sa valeur commerciale
-
-
-  ### Module 3&#58; Introduction au service de données communes
+  ### Module 2&#58; Introduction au service de données communes
   Le service de données communes vous permet d’étudier plus profondément des solutions de données puissantes et flexibles dans le cloud. Découvrir ce que coche le service de données communes et comment il fonctionne avec Power Platform pour créer des solutions commerciales uniques et efficaces.
   #### Leçons
   - Aperçu du service de données communes
   - Résumé du module
 
-
-  #### Laboratoire &#58; Modélisation des données
+  #### Laboratoire&#58; Modélisation des données
   - Créer un environnement et une solution
   - Créer des entités et des relations
   - Importer des données
@@ -79,18 +62,40 @@ outlineSection: |-
   - Expliquer ce que les environnements, les entités, les champs et les relations sont dans le service de données communes
 
 
+  ### Module 3&#58; Démarrer avec les applications Power
+  Découvrez la valeur et les capacités de Power Apps et les manières par lesquelles d’autres organisations tirent parti de cette technologie pour construire de simples applications pour leurs entreprises.
+  #### Leçons
+  - Aperçu des applications Power
+  - Comment construire une solution d'application
+
+  #### Laboratoire&#58; Application Canvas, 1re partie
+  - Créer une application Canvas pour le personnel
+  - Compléter l’application
+
+  #### Laboratoire&#58; Application Canvas, 2e partie
+  - Créer une application Canvas de sécurité
+
+  #### Laboratoire&#58; Application basée sur un modèle
+  - Personnaliser les vues et les formulaires.
+  - Créer une application basée sur un modèle.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Découvrir comment les autres organisations numérisent leurs processus à l’aide de Power Apps
+  - Voir Power Apps en action et découvrir les options pour créer votre première application
+  - Découvrir ce qu’est Power Apps et sa valeur commerciale
+
+
   ### Module 4&#58; Démarrer avec Power Automate
   Découvrir comment les utilisateurs peuvent tirer parti de Power Automate pour renforcer l’efficacité et la productivité de leur entreprise.
   #### Leçons
   - Aperçu de Power Automate
   - Comment construire une solution automatisée
 
-
-  #### Laboratoire &#58; Construire un flux simple
+  #### Laboratoire&#58; Power Automate
   - Créer un flux de notification de visite
   - Créer un flux de balai de sécurité
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Voir comment Power Automate fonctionne et à quoi il ressemble du point de vue de l’utilisateur
   - Construire un flux simple
   - Découvrir la valeur et les caractéristiques pour les entreprises de Power Automate
@@ -102,8 +107,9 @@ outlineSection: |-
   - Aperçu de Power BI
   - Comment construire un tableau de bord simple
 
-
-  #### Laboratoire &#58; Construire un rapport de Power BI
+  #### Laboratoire&#58; Power BI
+  - Créer un rapport Power BI.
+  - Créer un tableau de bord Power BI.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Voir comment Power BI fonctionne et à quoi il ressemble du point de vue de l’utilisateur

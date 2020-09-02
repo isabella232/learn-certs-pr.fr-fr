@@ -1,20 +1,20 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (beta)
+title: Administering Relational Databases on Microsoft Azure
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Les candidats à cet examen sont des administrateurs de base de données et des spécialistes en gestion de données qui gèrent des bases de données relationnelles sur site et dans le Cloud reposant sur Microsoft SQL Server et Microsoft Azure Data Services.
 
-  L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. L’Administrateur des bases de données Azure utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
+  L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. L'administrateur des bases de données Azure utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
 
   Ce rôle et responsable de la gestion, la disponibilité, la performance, la surveillance et l’optimisation des solutions de bases de données relationnelles. Ce rôle travaille avec le rôle d’ingénieur de données Azure pour gérer les aspects opérationnels des solutions de plateformes de données.
 
-  <div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
+  <div><strong><br/>Les examens bêta ne sont pas immédiatement notés parce que nous recueillons les données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</strong></div>
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier et mettre œuvre des ressources de plateformes de données; mettre en œuvre un environnement sécurisé; surveiller et optimiser les ressources d’exploitation; optimiser la performance des requêtes; effectuer une automatisation des tâches; planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR); et effectuer l’administration à l’aide de T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -44,6 +44,14 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate

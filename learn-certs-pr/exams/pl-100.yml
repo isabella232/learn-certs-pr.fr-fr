@@ -5,7 +5,7 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>\r\n  \r\nLe créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>\r\n\r\nLe créateur d’applications crée et soutient les processus opérationnels, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus opérationnels.\r\n\r\nLe créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend comment les appliquer.\r\n\r\nLe créateur d’applications est autonome est axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sur la valeur et l’importance des examens bêta</a>.</div>"
+summary: "<div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>\r\n  \r\nLe créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>\r\n\r\nLe créateur d’applications crée et soutient les processus opérationnels, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus opérationnels.\r\n\r\nLe créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend comment les appliquer.\r\n\r\nLe créateur d’applications est autonome est axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.\r\n\r\n<div><strong><br/>Les examens bêta ne sont pas immédiatement notés parce que nous recueillons les données sur la qualité des questions et sur l’examen. En savoir plus <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sur la valeur et l’importance des examens bêta</a>.</strong></div>"
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: la conception les des solutions, la création de solutions, l’analyse des données, et la mise en œuvre et la gestion des solutions.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
@@ -19,10 +19,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Concevoir des solutions (10 à 15%)
-- Créer des solutions (50 à 55%)
-- Analyser données (5 à 10%)
-- Mettre en œuvre et de gérer des solutions (15 à 20%)
+- Concevoir des solutions (10-15%)
+- Créer des solutions (55-60%)
+- Analyser et visualiser des données (5-10%)
+- Mettre en œuvre et de gérer des solutions (15-20%)
 roles:
 - business-analyst
 - business-owner
@@ -34,7 +34,7 @@ roles:
 - maker
 - technology-manager
 products:
-- dynamics
+- dynamics-365
 - office
 - office-access
 - office-excel
@@ -58,7 +58,6 @@ products:
 - power-platform
 - ai-builder
 - common-data-service
-- forms-pro
 - power-automate
 - power-bi
 - power-apps
@@ -79,12 +78,15 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker
 resources:
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

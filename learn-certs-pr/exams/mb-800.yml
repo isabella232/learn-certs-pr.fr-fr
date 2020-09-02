@@ -6,19 +6,29 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Un consultant fonctionnel des applications de base Dynamics 365 Business Central implémente et configure l’application Business Central, y compris la mise en place de la fonctionnalité des applications de base, des modules, et la migration de données vers Business Central. Les consultants configurent l’interface utilisateur en collaboration avec l’équipe de mise en œuvre pour fournir une facilité de gestion et de navigation à l’entreprise. Ils configurent les centres de rôle, y compris l’adaptation des perspectives, des indices, des tuiles d’action, des rapports, des graphiques, et l’extension de Business Central à l’aide des composants Power Platform.
+  Les candidats à cet examen sont des consultants fonctionnels qui implémentent des processus de base de configuration d’applications pour les petites et moyennes entreprises. Ils implémentent et configurent l’application Dynamics 365 Business Central, y compris la mise en place de la fonctionnalité d’application de base et des modules et la migration des données vers Business Central.
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible en Septembre 2020.</div>
-subTitle: 'Cet examen sera disponible en septembre 2020. Cet examen mesure votre aptitude à réaliser les tâches suivantes: mettre en place Business Central, configurer les finances, configurer les ventes et les achats, mettre en place les opérations, et utiliser les composants Power Platform.'
+  Les candidats exécutent l’interface utilisateur en collaboration avec l’équipe de mise en œuvre pour fournir une facilité de gestion et de navigation à l’entreprise. Ils configurent les centres de rôle, y compris l’adaptation des perspectives, des indices, des tuiles d’action, des rapports, des graphiques, et l’extension de Business Central à l’aide des composants Microsoft Power Platform.
+
+  Les candidats ont des connaissances pratiques pour répondre aux besoins des utilisateurs à travers l’application Business Central, notamment une compréhension fondamentale de la gestion financière, des ventes, des achats et de l’inventaire.
+
+  Les candidats à cet examen sont généralement des spécialistes en un ou plusieurs ensembles de fonctions de Business Central. Ils comprennent le rôle de Business Central en relation avec la suite des applications Dynamics 365.
+
+  <div><strong><br/>Remarque&#58; Cet examen sera disponible en octobre 2020.</strong></div>
+subTitle: 'Cet examen sera disponible en Octobre 2020. Cet examen mesure votre aptitude à réaliser les tâches suivantes: mettre en place Business Central, configurer les finances, configurer les ventes et les achats, et effectuer les opérations de Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Pas encore disponible
+- Configurer Business Central (20 à 25%)
+- Configurer les finances (25 à 30%)
+- Configurer les ventes et les achats (10 à 15%)
+- Effectuer les opérations de Business Central (30 à 35%)
 roles:
 - functional-consultant
 products:

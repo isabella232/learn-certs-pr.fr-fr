@@ -25,7 +25,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance
 courses:
 - uid: course.mb-300t00
@@ -48,22 +48,25 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-310
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
-  href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
 

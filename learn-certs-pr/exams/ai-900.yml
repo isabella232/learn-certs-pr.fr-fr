@@ -1,11 +1,11 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure AI Fundamentals (beta)'
+title: 'Microsoft Azure AI Fundamentals'
 metadata:
-  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
-  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>\r\n\r\nLes candidats à cet examen doivent avoir des connaissances fondamentales des concepts d’apprentissage automatique et d’intelligence artificielle et des services Microsoft Azure connexes.\r\n\r\nCet examen représente une opportunité pour démontrer vos connaissances des charges de travail courantes d’apprentissage automatique et d’intelligence artificielle et de leur mise en œuvre dans Azure.  \r\n\r\nCet examen est destiné aux candidats avec ou sans formation technique. Une expérience des sciences des données et de l’ingénierie logicielle informatique n’est pas requise, toutefois, certaines connaissances ou une expérience en programmation générale seraient utiles.  \r\n\r\nAzure AI Fundamentals peut être utilisé pour préparer d’autres certifications Azure basées sur les rôles tels que Azure Data Scientist Associate ou Azure AI Engineer Associate, sans être un prérequis pour eux.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sur la valeur et l’importance des examens bêta</a>.</div>"
+summary: "<div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>\r\n\r\nLes candidats à cet examen doivent avoir des connaissances fondamentales des concepts d’apprentissage automatique et d’intelligence artificielle et des services Microsoft Azure connexes.\r\n\r\nCet examen représente une opportunité pour démontrer vos connaissances des charges de travail courantes d’apprentissage automatique et d’intelligence artificielle et de leur mise en œuvre dans Azure.  \r\n\r\nCet examen est destiné aux candidats avec ou sans formation technique. Une expérience des sciences des données et de l’ingénierie logicielle informatique n’est pas requise, toutefois, certaines connaissances ou une expérience en programmation générale seraient utiles.  \r\n\r\nAzure AI Fundamentals peut être utilisé pour préparer d’autres certifications Azure basées sur les rôles tels que Azure Data Scientist Associate ou Azure AI Engineer Associate, sans être un prérequis pour eux."
 subTitle: 'Prouvez votre capacité à décrire les questions suivantes: Les charges de travail et les considérations de l’intelligence artificielle, les principes fondamentaux de l’apprentissage automatique sur Azure, les caractéristiques des charges de travail de la vision par ordinateur sur Azure, les caractéristiques des charges de travail du traitement automatique du langage naturel (NLP) sur Azure et les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -21,9 +21,9 @@ levels:
 skills:
 - Décrire les charges de travail et les considérations de l’intelligence artificielle (15-20%)
 - Décrire les principes fondamentaux de l’apprentissage automatique sur Azure (30-35%)
-- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure(15-20%)
+- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure (15-20%)
 - Décrire les caractéristiques des charges de travail du traitement du langage naturel (NLP) sur Azure (15-20%)
-- Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure( 15-20%)
+- Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure (15-20%)
 roles:
 - ai-engineer
 - data-scientist

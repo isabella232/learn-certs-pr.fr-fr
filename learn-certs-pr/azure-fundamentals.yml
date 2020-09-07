@@ -8,18 +8,16 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les candidats à la certification Azure Fundamentals doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure.
+  Les candidats à la certification Azure Fundamentals doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure. Cette certification est destinée aux candidats qui commencent juste à travailler sur les solutions et services basés sur le cloud, ou qui ont récemment découvert Azure.
 
-  La certification Azure Fundamentals représente une opportunité de prouver la connaissance des concepts du cloud, les services de base d’Azure, la tarification d’Azure, SLA, et le cycle de vie ainsi que les bases de la sécurité, la confidentialité, la conformité et la confiance dans le cloud.
-
-  Cette certification est destinée aux personnes qui débutent leur travail avec des solutions et des services basés dans le cloud. Les candidats doivent pouvoir démontrer des connaissances fondamentales des concepts de cloud, ainsi que des services Azure, des charges de travail, de la sécurité, de la confidentialité, de la tarification, et du support. En outre, vous devez être familiarisé avec les concepts de mise en réseau, de stockage, de calcul, de support aux applications, et de développement d’applications.
+  La certification Azure Fundamentals présente une opportunité de prouver les connaissances des concepts du cloud, des services Azure, des charges de travail Azure, de la sécurité et la confidentialité dans Azure, ainsi que de la tarification et de l’assistance Azure. Les candidats doivent connaître les concepts généraux de la technologie, notamment les concepts de mise en réseau, de stockage, de calcul, de soutien aux applications, et de développement d'applications.
 
   Azure Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles ou spécialisées, sans être un prérequis pour elles.
 subTitle: La certification Azure Fundamentals valide les connaissances fondamentales des services de cloud et la manière dont ces services sont fournis avec Microsoft Azure.
 levels:
 - beginner
 skills:
-- Décrire la Concepts le cloud
+- Décrire de Concepts le cloud
 - Décrire les services essentiels d’Azure
 - Décrire la sécurité, la confidentialité, la conformité et la confiance
 - Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie

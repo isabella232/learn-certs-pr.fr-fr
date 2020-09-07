@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour 29 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour 24 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
@@ -26,7 +26,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour 29 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Gérer l’identité et l’accès (30-35%)
 - Mettre en œuvre une protection de la plateforme (15-20%)
 - Gérer les opérations de sécurité (25-30%)

@@ -8,14 +8,12 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour 28 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour 15 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure.
+  Les candidats à cet examen doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure. L’examen est destiné aux candidats qui commencent juste à travailler sur les solutions et services basés sur le cloud, ou qui ont récemment découvert Azure.
 
-  L’examen Azure Fundamentals fournit une opportunité de prouver la connaissance des concepts du cloud, les services de base d’Azure, la tarification d’Azure, SLA, et le cycle de vie ainsi que les bases de la sécurité, la confidentialité, la conformité et la confiance dans le cloud.
-
-  Cet examen est destiné aux personnes qui débutent leur travail avec des solutions et des services basés dans le cloud. Les candidats doivent pouvoir démontrer des connaissances fondamentales des concepts de cloud, ainsi que des services Azure, des charges de travail, de la sécurité, de la confidentialité, de la tarification, et du support. En outre, vous devez être familiarisé avec les concepts de mise en réseau, de stockage, de calcul, de support aux applications, et de développement d’applications.
+  L’examen Azure Fundamentals présente une opportunité de prouver les connaissances des concepts du cloud, des services Azure, des charges de travail Azure, de la sécurité et la confidentialité dans Azure, ainsi que de la tarification et de l’assistance Azure. Les candidats doivent connaître les concepts généraux de la technologie, notamment les concepts de mise en réseau, de stockage, de calcul, de soutien aux applications, et de développement d'applications.
 
   Azure Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles ou spécialisées, sans être un prérequis pour elles.
 subTitle: "Cet examen mesure votre capacité à comprendre les concepts suivants: les concepts du cloud, les services de base Azure, la sécurité, la confidentialité, la conformité et la confiance et la tarification et le support d'Azure."
@@ -28,7 +26,7 @@ providers:
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -40,11 +38,11 @@ locales:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen a été mis à jour 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Décrire la Concepts le cloud (15 à 20%)
-- Décrire les services essentiels d’Azure (30 à 35%)
-- Décrire la sécurité, la confidentialité, la conformité et la confiance (25 à 30%)
-- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie (20 à 25%)
+- Le contenu de cet examen sera mis à jour 15 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Décrire de Concepts le cloud (15-20%)
+- Décrire les services essentiels d’Azure (30-35%)
+- Décrire la sécurité, la confidentialité, la conformité et la confiance (25-30%)
+- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie (20-25%)
 roles:
 - developer
 products:

@@ -3,6 +3,7 @@ title: Gérer les identités et l’accès de Microsoft 365
 metadata:
   title: 'Course MS-500T01-A: Gérer les identités et l’accès de Microsoft 365'
   description: 'Course MS-500T01-A: Gérer les identités et l’accès de Microsoft 365'
+  iltScheduling: true
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24

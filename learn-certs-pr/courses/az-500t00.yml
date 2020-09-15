@@ -3,6 +3,7 @@ title: Technologies de sécurité de Microsoft Azure
 metadata:
   title: 'Course AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
   description: 'Course AZ-500T00-A: Technologies de sécurité de Microsoft Azure'
+  iltScheduling: true
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96

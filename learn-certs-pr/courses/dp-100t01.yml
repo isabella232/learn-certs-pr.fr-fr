@@ -3,6 +3,7 @@ title: Concevoir et mettre en œuvre une solution Data Science sur Azure
 metadata:
   title: 'Course DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
   description: 'Course DP-100T01-A: Concevoir et mettre en œuvre une solution Data Science sur Azure'
+  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72

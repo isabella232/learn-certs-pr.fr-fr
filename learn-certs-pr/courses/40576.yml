@@ -1,0 +1,47 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir et réaliser une solution complète avancée d'analytique de bout en bout à l'aide d'Azure Synapse Analytics.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Pendant cette séance de design sur tableau blanc, vous travaillerez en groupe sur la conception d'une solution de bout en bout à l'aide d'Azure Synapse Analytics. Cette séance portera sur le chargement de données, la préparation des données, la transformation des données, le service des données, l'apprentissage automatique et le traitement des données batch et temps réel.
+
+  #### Profil du public
+  Cet atelier est destiné aux architectes cloud et aux professionnels de l'informatique dotés d'une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies cloud et qui souhaitent en savoir plus sur Azure et sur les services d'Azure tels qu'ils sont décrits dans les sections "À propos de ce cours" et "À la fin du cours". Les participants à cet atelier doivent également être expérimentés dans d'autres technologies cloud en dehors de Microsoft, répondre aux prérequis du cours et suivre une formation croisée sur Azure.
+prerequisitesSection: |-
+  Le contenu de cet atelier requiert un niveau 300 en expertise architecturale d'infrastructures et conception de solutions. Nous conseillons aux apprenants de suivre ce cours prérequis avant de participer à cet atelier.
+    - Cours de base sur Microsoft Azure, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Séance de design sur tableau blanc - Azure Synapse Analytics et AI
+  #### Leçons
+  - Examiner l'étude de cas client
+  - Concevoir une solution de preuve de concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Travaux pratiques - Azur Synapse Analytics et IA
+  #### Leçons
+  - Accéder à l'espace de travail Azure Synapse Analytics
+  - Créer et remplir les tableaux de support dans le Pool SQL
+  - Explorer le Parquet brut
+  - Explorer les données de texte brut à l'aide d'Azure Synapse SQL Serverless
+  - Pipelines de synapses et recherche cognitive
+  - Sécurité
+  - Apprentissage automatique
+  - Surveillance
+

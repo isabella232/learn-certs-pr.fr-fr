@@ -35,12 +35,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer des documents (20-25%)
-- Insérer et formater un texte, des paragraphes et des sections (20-25%)
-- Gérer des tableaux et des listes (15-20%)
-- Créer et gérer des références (5-10%)
-- Insérer et mettre en forme des éléments graphiques (15-20%)
-- Gérer la collaboration entre les documents (5-10%)
+- Gérer des documents (20 à 25%)
+- Insérer et formater un texte, des paragraphes et des sections (20 à 25%)
+- Gérer des tableaux et des listes (15 à 20%)
+- Créer et gérer des références (5 à 10%)
+- Insérer et mettre en forme des éléments graphiques (15 à 20%)
+- Gérer la collaboration entre les documents (5 à 10%)
 roles:
 - developer
 products:
@@ -60,6 +60,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

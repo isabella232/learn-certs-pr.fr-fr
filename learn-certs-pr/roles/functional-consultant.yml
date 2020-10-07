@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Consultant fonctionnel  
+title: Functional Consultant 
 metadata: 
-  title: Consultant fonctionnel 
-  description: Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 pour anticiper et planifier les besoins des clients. 
+  title: Functional Consultant 
+  description: Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 et de Microsoft Power Platform pour anticiper et planifier les besoins des clients. 
 uid: role.functional-consultant 
 summary: | 
-  Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 pour anticiper et planifier les besoins des clients.
-subTitle: Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 pour anticiper et planifier les besoins des clients.
+  Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 et de Microsoft Power Platform pour anticiper et planifier les besoins des clients.
+subTitle: Les Consultants Fonctionnels tirent parti de Microsoft Dynamics 365 et de Microsoft Power Platform pour anticiper et planifier les besoins des clients.
 certificationPaths: 
-- title: Dynamics 365 Customer Service Functional Consultant
-  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
+- title: Dynamics 365 Customer Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
   uid: certification-path.d365-functional-consultant-customer-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -32,8 +32,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 Consultant fonctionnel des finance
-  linkedInKeywords: Dynamics 365 Consultant fonctionnel des finance
+- title: Dynamics 365 Finance Functional Consultant
+  linkedInKeywords: Dynamics 365 Finance Functional Consultant
   uid: certification-path.d365-functional-consultant-financials 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -129,13 +129,19 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
-- title: Guide de formation et de certification Microsoft
+- title: Guide de Formation et de Certification Microsoft
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Affiche de formation et de certification
+- title: Affiche de Formation et de Certification
   description: Choisissez la voie de la réussite avec cette affiche de formation et de certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Support pour les certifications
+- title: Aide à la certification
   href: ../help.md
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).

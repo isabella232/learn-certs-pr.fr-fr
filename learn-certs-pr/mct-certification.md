@@ -11,39 +11,40 @@ ms.author: micsullivan
 ---
 # Become a Microsoft Certified Trainer
 
-Les Microsoft Certified Trainers (MCT) sont des experts de premier plan en technique et formation sur les technologies Microsoft. Rejoignez ce groupe exclusif de professionnels, spécialistes de la formation technique Microsoft et bénéficiez de tous les avantages de la formation et de l'adhésion MCT.
+Les Microsoft Certified Trainers (MCT) sont les meilleurs experts techniques et pédagogiques en technologies Microsoft. Rejoignez ce groupe exclusif de professionnels de la formation technique Microsoft du monde entier et profitez des avantages de la certification et de l’adhésion à la formation MCT.
 
-Vous aurez accès à des avantages exclusifs en tant que MCT, y compris l’accès à toute la bibliothèque de produits de formation et de certification officiels Microsoft, des remises substantielles sur le prix des examens, des livres et des produits Microsoft. De plus, vous pourrez utiliser les ressources Microsoft pour vous préparer, ce qui vous aidera à solidifier votre carrière de formateur et à interagir avec d'autres membres MCT dans un forum de la communauté en ligne. Vous recevrez également des invitations pour assister à des événements exclusifs Microsoft et de la communauté MCT locale.
+Vous aurez accès à des avantages exclusifs en tant que MCT, y compris l’accès à toute la bibliothèque de produits de formation et de certification officiels Microsoft, des remises substantielles sur le prix des examens, des livres et des produits Microsoft. En outre, vous pourrez utiliser les ressources de préparation de Microsoft pour vous aider à améliorer votre carrière de formation et vous engager avec d’autres membres MCT dans un forum communautaire en ligne. Vous recevrez également des invitations à des événements exclusifs Microsoft et de la communauté locale MCT.
 
-En tant que formateur certifié Microsoft, vous devez obtenir une certification Microsoft attestant de votre expérience et de vos connaissances dans les produits et solutions Microsoft traités dans les cours que vous dispensez.
+En tant que Formateur Certifié Microsoft, vous devez obtenir une Certification Microsoft attestant de votre expérience et de vos connaissances dans les produits et solutions Microsoft traités dans les cours que vous dispensez.
 
-Le programme de formateur certifié Microsoft est un programme d'adhésion annuelle. Vous devez satisfaire aux exigences du programme, remplir un formulaire de demande en ligne et vous acquitter des frais annuels pour renouveler votre certification de formation pour l’année prochaine.
+Le programme de Formateur Certifié Microsoft est un programme d'adhésion annuelle. Vous devez satisfaire aux exigences du programme, remplir un formulaire de demande en ligne et vous acquitter des frais annuels pour renouveler votre certification de formation pour l’année prochaine.
 
 Contactez [L’assistance MCT](https://aka.ms/mctforum) si vous avez des questions sur les exigences du programme MCT, le processus d’inscription ou de renouvellement MCT, ou pour toute autre question sur le programme MCT.
 
-## Avantages du programme MCT
+## Avantages du Programme MCT
 
-En tant que formateur certifié Microsoft, vous aurez accès à un [tableau de bord](https://www.microsoft.com/learning/dashboard.aspx) personnalisé où vous pourrez trouver une grande variété de ressources MCT utiles, télécharger votre certificat MCT et voir les remises qui vous sont offertes !
+En tant que Formateur Certifié Microsoft, vous aurez accès à un [tableau de bord](https://www.microsoft.com/learning/dashboard.aspx) personnalisé où vous pourrez trouver une grande variété de ressources MCT utiles, télécharger votre certificat MCT et consulter les remises qui vous sont offertes !
 
-De plus, vous aurez accès à [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), qui aide les MCT à rester à jour par rapport aux dernières informations, à trouver un emploi, à se connecter avec d'autres MCT dans le monde ou à contacter le responsable régional MCT.
+De plus, vous aurez accès à [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), qui aide les MCT à rester à jour par rapport aux dernières informations, à trouver un emploi, à se connecter avec d'autres MCT dans le monde ou à contacter le Responsable Régional MCT.
 
 [Découvrez tous les avantages pour les MCT](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
 ## Exigences
 
-Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en continu des formations sur les technologies Microsoft. Si vous possédez une certification et que donner une formation sur les technologies Microsoft vous passionne, nous vous encourageons à faire une demande.
+Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en continu des formations sur les technologies Microsoft. Si vous possédez une certification et que donner une formation sur les technologies Microsoft vous passionne, nous vous encourageons à y postuler.
 
-Pour en savoir plus sur les conditions liées au programme MCT, consultez le guide du programme MCT et l'accord du programme MCT dans la section [Procédure de candidature](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de cette page.
+Pour en savoir plus sur les conditions liées au programme MCT, consultez le Guide du Programme MCT et l'Accord du Programme MCT dans la section [Procédure de Candidature](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de cette page.
+
 
 ### Exigences en matière d'accès au programme MCT
 
-- Posséder une qualification ou une certification Microsoft donnant accès au programme MCT.
+- Posséder une qualification ou une certification Microsoft donnant accès au programme MCT. 
 (Voir ci-dessous pour obtenir une liste des certifications éligibles).
 - Démontrer des compétences pédagogiques attestées par:
-  - Certification des compétences de formation
+  - Certification des Compétences de Formation
     - CompTIA CTT+
     - Formateur essentiel d’éducation (certification interne Microsoft)
-    - Fourth Dimension Technologies, Inc.
+	- Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Certification de compétences de formation Global Knowledge
     - Formateur technique approuvé IAMCT (IAMCT ATT)
@@ -52,12 +53,14 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
     - Le programme de formation Learning Tree
     - Marcom Deli
     - Certification des compétences de formation de Microsoft Certified Trainer (MCT-ISC)
-    - Certification de compétences de formation New Horizons
+	- Certification de formateur Microsoft Service et support client (CSS)
+	- Compétences de formation de base Microsoft
+    - Certification de ompétences de formation New Horizons
     - PrepMasters USA
   
   OU<br/><br/>
 
-  - Fournir des références attestant d'au moins une année d'expérience en tant qu'instructeur
+  - Fournir des références attestant d'au moins une année d'expérience en tant qu'instructeur 
 
 **Remarque** Pour renouveler votre statut de MCT, vous devez satisfaire aux exigences de renouvellement du programme MCT avant la date anniversaire de votre certificat.
 
@@ -82,10 +85,11 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 - [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
 - [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
 - [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Azure Database Administrator Associate](/learn/certifications/azure-database-administrator-associate)
 - [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (Cette sera retirée le 31 août 2020)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (retiré le 31 août 2020)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -110,7 +114,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 
 ## Procédure de candidature
 
-Si vous souhaitez devenir membre du programme MCT, reportez-vous au Guide du programme MCT et au contrat du programme MCT pour prendre connaissance des conditions d'adhésion.
+Si vous souhaitez devenir membre du programme MCT, reportez-vous au Guide du Programme MCT et au contrat du programme MCT pour prendre connaissance des conditions d’adhésion.
 
 ### Guide d'inscription et de renouvellement
 
@@ -130,40 +134,41 @@ Les candidatures en ligne au programme MCT sont disponibles à partir de l'[outi
 
 **Remarque** Veuillez vous connecter avec votre MSA pour accéder à l'outil d'inscription MCT.
 
-Si vous êtes Microsoft Office Specialist et que vous n'avez pas d'identifiant de certification Microsoft (MCID), envoyez un courrier électronique à [customerservices@certiport.com](mailto:customerservices@certiport.com) pour en obtenir un. Ensuite, rendez-vous sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT) Avant de remplir le formulaire de candidature en ligne, prenez connaissance des informations détaillées disponibles sur l'inscription MCT dans la section qui suit.
+Si vous êtes Microsoft Office Specialist et que vous n'avez pas d'identifiant de certification Microsoft (MCID), envoyez un courrier électronique à [customerservices@certiport.com](mailto:customerservices@certiport.com) pour en obtenir un. Ensuite, rendez-vous sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT) Avant de compléter le formulaire de candidature en ligne, prenez connaissance des informations détaillées disponibles sur l'inscription MCT dans la section qui suit.
 
 Utilisez l'outil d'inscription MCT pour:
 
-- **Consulter les exigences du programme MCT et signer le contrat et le guide du programme MCT.** Votre signature électronique atteste que vous acceptez les conditions générales de l'accord MCT.
-- **Mettez à jour les informations de votre profil.** Les informations de contact que vous devez fournir sont utilisées pour les communications MCT.
+- **Consultez les exigences du programme MCT et signer le contrat et le guide du programme MCT.** Votre signature électronique atteste que vous acceptez les conditions générales du contrat MCT.
+- **Mettez à jour les informations de votre profil.** Les coordonnées que vous fournissez sont utilisées pour les communications MCT.
 - **Précisez votre statut professionnel.** Si vous êtes employé par un partenaire de formation ou une Microsoft Imagine Academy, vous avez besoin du numéro d’identification du partenaire de formation ou du Microsoft Imagine Academy de votre employeur.
-- **Sélectionnez votre mode de paiement.** Les frais de programme à acquitter varient,en fonction de votre pays/région et de votre statut professionnel. Pour avoir accès aux frais d'adhésion MCT et MCT Alumni correspondant à votre pays/région, utilisez l'outil de recherche qui se trouve dans le bas de la page.
+- **Sélectionnez votre mode de paiement.** Les frais de programme à acquitter varient,en fonction de votre pays/région et de votre statut professionnel. Pour rechercher les frais d’adhésion MCT et Alumni MCT correspondant à votre pays/région, utilisez l’outil de recherche qui se trouve en bas de la page.
 
-## Le programme alumni MCT
+## Le programme Alumni MCT
 
-Depuis plus de vingt ans, les MCT sont à l'avant-garde de l'adoption et de la formation à la technologie Microsoft. En reconnaissance de leurs importantes contributions, nous proposons désormais le programme Élèves MCT. Ce programme est destiné à tous les MCT certifiés par Microsoft qui ne suivent plus de formation dans le cadre du programme MCT et qui souhaitent maintenir leurs relations avec la communauté MCT.
+Depuis plus de vingt ans, les MCT sont à l'avant-garde de l'adoption et de la formation à la technologie Microsoft. En reconnaissance de leurs importantes contributions, nous proposons désormais le programme Alumni MCT. Ce programme est destiné à tous les MCT certifiés par Microsoft qui ne suivent plus de formation dans le cadre du programme MCT et qui souhaitent maintenir leurs relations avec la communauté MCT.
 
-Conditions du programme Élèves MCT:
+Exigences du programme Alumni MCT:
 
 - Avoir participé ou participer actuellement au programme MCT
-- Certifié par Microsoft
+- En règle avec Microsoft
 
-Les frais de programme à acquitter varient en fonction de votre pays/région et de votre statut professionnel. Pour avoir accès aux frais d'adhésion MCT et MCT Alumni correspondant à votre pays/région, utilisez l'outil de recherche qui se trouve dans le bas de la page.
+Les frais de programme à acquitter varient en fonction de votre pays/région et de votre statut professionnel. Pour rechercher les frais d’adhésion MCT et Alumni MCT correspondant à votre pays/région, utilisez l’outil de recherche qui se trouve en bas de la page.
 
 ### Avantages du programme Alumni MCT
 
 En tant que membre des anciens étudiants de MCT, vous avez un accès exclusif au contenu des anciens étudiants de MCT sur votre [tableau de bord de certification](https://www.microsoft.com/learning/dashboard.aspx). Vous pouvez aussi accéder au [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), où vous trouverez la liste des actualités et des événements, ainsi qu'une large gamme de ressources spécialement conçues pour le programme Alumni MCT et où vous avez la possibilité d'être en contact avec l'ensemble de la communauté MCT.
 
-Le programme MCT Alumni propose les avantages suivants:
+Le programme Alumni MCT offre les avantages suivants:
 
-- des réductions sur les examens, afin de vous aider à maintenir votre certification à niveau et faciliter une nouvelle inscription au programme MCT,
-- l'accès à des réductions sur les livres électroniques et les livres, qui sont des manuels de référence pour la préparation des examens et le développement professionnel.
+- Des réductions sur les examens, afin de vous aider à maintenir votre certification à niveau et faciliter une nouvelle inscription au programme MCT,
+- L'accès à des réductions sur les livres électroniques et les livres, qui sont des manuels de référence pour la préparation des examens et le développement professionnel.
 
 ### Procédure de candidature au programme Alumni MCT
 
-Si vous souhaitez devenir membre du programme Alumni MCT, consultez le contrat relatif au programme Alumni MCT pour prendre connaissance des conditions d'adhésion.<br/>
+Si vous souhaitez devenir membre du programme Alumni MCT, veuillez consulter le contrat relatif au programme Alumni MCT pour prendre connaissance des conditions d'adhésion.<br/>
 
-[Contrat du programme Alumni MCT](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
+
+[Contrat du Programme Alumni MCT](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **Remarque** Sauf indication contraire, l'intégralité du contenu est en anglais.
 
@@ -173,16 +178,16 @@ Inscrivez-vous au programme Alumni MCT avec l’[outil d'inscription MCT](https:
 
 **Passer du programme Alumni MCT au programme MCT**
 
-Les membres du programme Élèves MCT sont invités à rejoindre le programme MCT lors de leur à la formation active.
+Les Alumni MCT sont les bienvenues à rejoindre le programme MCT lors de leur à la formation active.
 
 Pour revenir au programme MCT:
 
-- **Assurez-vous de satisfaire aux exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les certifications et qualifications Microsoft donnant actuellement accès au programme MCT.
-- **Inscrivez-vous au programme MCT.** Les membres du programme Élèves MCT peuvent au choix: fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
+- **Assurez-vous de satisfaire aux exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les Certifications et qualifications Microsoft éligibles au programme MCT.
+- **Postulez au programme MCT.** Les Alumni MCT peuvent au choix : fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
 
-## Frais d'adhésion au programme MCT et au programme Élèves MCT
+## Frais d'adhésion au programme MCT et au programme Alumni MCT
 
-[Cliquez ici pour connaître les frais annuels du programme MCT et les frais d’introduction pour les anciens étudiants MCT pour votre pays/région](https://www.microsoft.com/en-us/learning/mct-programfees.aspx)
+[Cliquez ici pour connaître les frais annuels du programme MCT et les frais d’introduction de l'Alumni MCT pour votre pays/région](https://www.microsoft.com/en-us/learning/mct-programfees.aspx)
 
 ## Service d' assistance MCT
 

@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Architecte de Solutions
+title: Solutions Architect (Architecte de Solutions) 
 metadata: 
-  title: Architecte de Solutions
-  description: Les architectes de solutions Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité.
-uid: role.solution-architect  
+  title: Solutions Architect (Architecte de Solutions)
+  description: Les Solutions Architects (architectes de solutions) Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité. 
+uid: role.solution-architect
 summary: | 
-  Les architectes de solutions Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité.
-subTitle: Les architectes de solutions Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité.
+  Les Solutions Architects (architectes de solutions) Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité.
+subTitle: Les Solutions Architects (architectes de solutions) Microsoft doivent posséder une expertise en informatique, réseau, stockage et sécurité.
 certificationPaths: 
 - title: Azure Solutions Architect
   linkedInKeywords: Azure Solutions Architect
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced    
-- title: Architecte en solutions d'applications pour Dynamics 365 pour les finances et les opérations
-  linkedInKeywords: Architecte en solutions d'applications pour Dynamics 365 pour les finances et les opérations
+- title: Dynamics 365 Finance and Operations Apps Solution Architect
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
   uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -42,8 +42,8 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
     - advanced  
-- title: Architecte en solutions Power Apps + Dynamics 365
-  linkedInKeywords: Architecte en solutions Power Apps + Dynamics 365
+- title: Power Apps + Dynamics 365 Solution Architect
+  linkedInKeywords: Power Apps + Dynamics 365 Solution Architect
   uid: certification.power-apps-and-d365-solution-architect-expert
   prerequisites: 
   - uid: certification.power-platform-fundamentals
@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,14 +71,17 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
 - title: Guide de formation et de certification Microsoft
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -86,6 +89,6 @@ resources:
 - title: Affiche de formation et de certification
   description: Choisissez la voie de la réussite avec cette affiche de formation et de certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Support pour les certifications
+- title: Aide à la certification
   href: ../help.md
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).

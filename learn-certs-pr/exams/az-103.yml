@@ -7,8 +7,8 @@ uid: exam.az-103
 displayName: AZ-103
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-104">AZ-104</a>, SERA DISPONIBLE LE 2 AVRIL 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du 31 août 2020. Remarque &#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre).<br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong> Cette examen sera retirée le lundi 31 août 2020. L’examen de remplacement AZ-104 est disponible. Pour plus d’informations, consultez la page<a href="/learn/certifications/exams/az-104"> des détails de l’examen AZ-104.
   </div>
 
   À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100.
@@ -16,13 +16,10 @@ summary: |-
   Les candidats à cet examen sont des administrateurs Azure qui gèrent les services de cloud couvrant le stockage, la sécurité, le réseau et les capacités de l'informatique du cloud. Les candidats ont une connaissance approfondie de chaque service tout au long du cycle de vie informatique et prennent en charge les demandes de services d'infrastructure, d'applications et d'environnements. Ils formulent des recommandations sur les services à utiliser pour optimiser les performances et l'évolutivité et fournissent, dimensionnent, surveillent et ajustent les ressources, le cas échéant.
 
   Les candidats à cet examen doivent maîtriser PowerShell, l'interface de la ligne de commande, le portail Azure, les modèles ARM, les systèmes d'exploitation, la virtualisation, l'infrastructure du cloud, les structures de stockage et les réseaux.
-
-  <div style='font-weight&#58; bold;'><br/>REMARQUE&#58; Si vous réussissez dans cet examen, vous obtiendrez la certification suivante&#58; <a href="/learn/certifications/azure-administrator">Microsoft Certified&#58; Azure Administrator Associate</a>.</div>
-subTitle: 'À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer des abonnements et des ressources Azure, mettre en œuvre et gérer le stockage, déployer et gérer des machines virtuelles (VM), configurer et gérer les réseaux virtuels et gérer les identités.'
+subTitle: 'À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer des abonnements et des ressources Azure, mettre en œuvre et gérer le stockage, déployer et gérer des machines virtuelles(VM), configurer et gérer les réseaux virtuels et gérer les identités.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
@@ -31,7 +28,6 @@ locales:
 levels:
 - intermediate
 skills:
-- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-104, SERA DISPONIBLE LE 2 AVRIL 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du 31 août 2020. Veuillez télécharger le document des compétences mesurées ci-dessous pour consulter les informations détaillées relatives aux modifications.
 - Gérer les abonnements et les ressources Azure (15-20%)
 - Mettre en œuvre et gérer le stockage (15-20%)
 - Déployer et gérer les machines virtuelles (VM) (15-20%)
@@ -72,7 +68,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
@@ -85,6 +81,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

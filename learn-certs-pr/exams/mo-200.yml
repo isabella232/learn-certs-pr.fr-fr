@@ -31,14 +31,15 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
 levels:
 - intermediate
 skills:
-- Gérer des feuilles de calcul et des classeurs (10-15%)
-- Gérer des cellules et des plages de données (20-25%)
-- Gérer des tableaux et des données de tables (15-20%)
-- Effectuer des opérations en utilisant des formules et des fonctions (20-25%)
-- Gestion des données (20-25%)
+- Gérer des feuilles de calcul et des classeurs (10 à 15%)
+- Gérer des cellules et des plages de données (20 à 25%)
+- Gérer des tableaux et des données de tables (15 à 20%)
+- Effectuer des opérations en utilisant des formules et des fonctions (20 à 25%)
+- Gestion des données (20 à 25%)
 roles:
 - developer
 products:
@@ -58,6 +59,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

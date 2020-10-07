@@ -8,10 +8,10 @@ displayName: MB-400
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>CET EXAMEN SERA RETIRÉ LE 31 DÉCEMBRE 2020. Pour en savoir plus, <a href="https://aka.ms/microsoftlearncommunity">visitez notre blog</a> et consultez nos articles sur les « Examens retirés ». Remarque&#58; Les examens seront retirés à 23h59 CST (heure normale du Centre).</strong><br/><br/></div>
+  <div><strong>CET EXAMEN SERA RETIRÉ LE 31 DÉCEMBRE 2020. Un nouvel examen, <a href="/learn/certifications/exams/pl-400">PL-400</a>, sera disponible en septembre 2020. Pour en savoir plus, <a href="https://aka.ms/microsoftlearncommunity">visitez notre blog</a> et consultez nos articles sur les Examens Retirés. Remarque&#58; Les examens seront retirés à 23h59 CST (heure normale du Centre).</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des développeurs qui travaillent avec des applications de modélisation de Microsoft Power Apps dans Dynamics 365 pour concevoir, mettre au point, sécuriser et étendre une mise en œuvre dans Dynamics 365. Les candidats mettent en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
+  Les candidats à cet examen sont des développeurs qui travaillent avec des applications de modélisation de Microsoft Power Apps dans Dynamics 365 pour concevoir, mettre au point, sécuriser et étendre une mise en œuvre dans Dynamics 365. Les candidats mettent en œuvre les composants d’une solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
 
   Les candidats doivent avoir de solides connaissances appliquées des applications de modélisation de Power Apps dans Dynamics 365, ce qui inclut une solide connaissance de la personnalisation, de la configuration, de l’intégration et de l’extensibilité ainsi que des limites et contraintes. Les candidats doivent avoir des connaissances de base des pratiques DevOps pour des applications de modélisation Power Apps dans Dynamics 365. Les candidats doivent exposer, stocker et rapporter les données.
 
@@ -25,14 +25,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour 22 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen a été mis à jour vendredi 22 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Créer un design technique (10-15%)
 - Configurer Common Data Service (15-20%)
 - Créer et configurer des applications Power Apps (10-15%)
 - Configurer l’automatisation du processus d'affaires (10-15%)
 - Étendre l’expérience utilisateur (15-20%)
 - Étendre la plateforme (15-20%)
-- Mettre au point des intégrations (10-15%)
+- Développer des intégrations (10-15%)
 retirementDate: 12/31/2020
 roles:
 - developer
@@ -74,6 +74,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

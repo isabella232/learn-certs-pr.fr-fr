@@ -5,7 +5,26 @@ metadata:
   description: 'Exam AZ-301: Microsoft Azure Architect Design'
 uid: exam.az-301
 displayName: AZ-301
-summary: "<div>\r\n<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>\r\n<div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href=\"/learn/certifications/exams/az-304\">AZ-304</a>, SERA DISPONIBLE LE 29 juin 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du mercredi 30 septembre 2020. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>\r\n</div>\r\n\r\nLes candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et la mise en œuvre de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.\r\n\r\nLes responsabilités d’un architecte de solutions Azure à cet examen englobent la prestation de conseils aux parties prenantes et la traduction des exigences de l’entreprise en solutions dans le cloud sécurisées, évolutives et fiables.\r\n\r\nUn architecte de solution Azure collabore avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.\r\n\r\nLe candidat à cet examen doit posséder une expérience et des connaissances avancées dans les divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des affaires, la récupération après désastre, la gestion des données, la budgétisation, et la gouvernance – ce rôle doit gérer l’impact des décisions prises dans chaque secteur sur la solution globale. En outre, ce rôle doit maîtriser au moins un des domaines de connaissances d’Azure suivants&#58; l’administration, le développement, ou DevOps.\r\n\r\n<div style='font-weight&#58; bold;'><br/>REMARQUE &#58; Si vous réussissez dans cet examen, vous obtiendrez la certification suivante&#58; <a href=\"/learn/certifications/azure-solutions-architect\">Microsoft Certified&#58; Azure Solutions Architect Expert</a>.</div> "
+summary: |-
+  <div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div style='font-weight:bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-304"> AZ-304</a>, SERA DISPONIBLE LE lundi 29 juin 2020. Vous pourrez passer cet examen jusqu’à son retrait ou aux environs du mercredi 30 septembre 2020. Remarque&#58; Les examens seront retirés à 23h59 CST (Heure Normale du Centre).</strong><br/><br/></div>
+  </div>
+
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et la mise en œuvre de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.
+
+  Les responsabilités d’un Azure Solution Architect à cet examen englobent la prestation de conseils aux parties prenantes et la traduction des exigences de l’entreprise en solutions dans le cloud sécurisées, évolutives et fiables.
+
+  Un Azure Solution Architect collabore avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
+
+  Le candidat à cet examen doit posséder une expérience et des connaissances avancées dans les divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des affaires, la récupération après désastre, la gestion des données, la budgétisation, et la gouvernance – ce rôle doit gérer l’impact des décisions prises dans chaque secteur sur la solution globale. En outre, ce rôle doit maîtriser au moins un des domaines de connaissances d’Azure suivants &#58; l’administration, le développement, ou DevOps.
+
+  <div><strong><br/>REMARQUE&#58; Vous obtiendrez la <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Certification Azure Solutions Architect Expert</a> si vous réussissez l’une des combinaisons d’examens suivantes&#58; <ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> and <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> and <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> and <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> and <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: "Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: déterminer les exigences de la charge de travail, concevoir l'identité et la sécurité, concevoir une solution de plateforme de données, concevoir une stratégie de continuité des activités, concevoir le déploiement, la migration et l'intégration et concevoir une stratégie d'infrastructure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
@@ -19,12 +38,12 @@ locales:
 levels:
 - advanced
 skills:
-- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-304, SERA DISPONIBLE LE 29 juin 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du mercredi 30 septembre 2020. Veuillez télécharger le document des compétences mesurées ci-dessous pour consulter les informations détaillées relatives aux modifications.
+- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-304, SERA DISPONIBLE LE lundi 29 juin 2020. Vous pourrez passer cet examen jusqu’à son retrait ou aux environs du mercredi 30 septembre 2020. Veuillez télécharger le document des compétences mesurées ci-dessous pour consulter les informations détaillées relatives aux modifications.
 - Déterminer les exigences de la charge de travail (10-15%)
 - Concevoir l'identité et la sécurité (20-25%)
 - Concevoir une solution de plateforme de données (15-20%)
 - Concevoir une stratégie de continuité des activités (15-20%)
-- Concevoir le déploiement, la migration et l'intégration (10-15%)
+- Concevoir pour le déploiement, la migration et l'intégration (10-15%)
 - Concevoir une stratégie d'infrastructure (15-20%)
 retirementDate: 09/30/2020
 roles:
@@ -91,6 +110,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

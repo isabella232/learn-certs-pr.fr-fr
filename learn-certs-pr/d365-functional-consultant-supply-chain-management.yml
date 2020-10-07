@@ -13,15 +13,14 @@ subTitle: 'Les Dynamics 365 Supply Chain Management Functional Consultants sont 
 levels:
 - intermediate
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Utiliser les outils communs de fonctionnalité et de mise en œuvre.
-- Configurer la sécurité, les processus et les options.
-- Effectuer la migration des données.
-- Valider et soutenir la solution.
-- Mettre en œuvre la gestion des informations sur le produit.
-- Mettre en œuvre la gestion de l’inventaire.
-- Mettre en œuvre et gérer les processus de la chaîne logistique.
-- Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels.
+- Utiliser les outils communs de fonctionnalité et de mise en œuvre
+- Configurer la sécurité, les processus et les options
+- Effectuer la migration des données
+- Valider et soutenir la solution
+- Mettre en œuvre la gestion des informations sur le produit
+- Mettre en œuvre la gestion de l’inventaire
+- Mettre en œuvre et gérer les processus de la chaîne logistique
+- Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels
 roles:
 - functional-consultant
 type: role-based

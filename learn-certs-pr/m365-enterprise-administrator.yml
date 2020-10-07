@@ -10,18 +10,18 @@ summary: |-
 
   Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 
-  <div><br/><strong>La certification MCSE Productivity solutions Expert sera retirée le 31 janvier 2021. Par conséquent, la certification MCSE Productivity solutions Expert ne constituera pas une option de prérequis pour la certification Microsoft 365 Certified&#58; Enterprise Administrator Expert, après le 31 janvier 2022. (Un an après le retrait de MCSE).</strong></div>
+  <div><br/><strong>La certification MCSE Productivity solutions Expert sera retirée le 31 janvier 2021. Par conséquent, la certification MCSE Productivity solutions Expert ne constituera pas une option de prérequis pour la certification Microsoft 365 Certified&#58; Enterprise Administrator Expert après la date du 31 janvier 2022 (1 an après le retrait de MCSE).</strong></div>
 subTitle: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 levels:
 - advanced
 skills:
 - Concevoir et mettre en œuvre les services Microsoft 365
-- Gérer l’identité et les rôles des utilisateurs.
+- Gérer l’identité et les rôles des utilisateurs
 - Gérer l'accès et l’authentification
 - Planifier les charges de travail et les applications d’Office 365
-- Mettre en œuvre des services les périphériques modernes.
-- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365.
-- Gérer la gouvernance et la conformité de Microsoft 365.
+- Mettre en œuvre des services les périphériques modernes
+- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365
+- Gérer la gouvernance et la conformité de Microsoft 365
 roles:
 - administrator
 type: role-based
@@ -54,7 +54,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

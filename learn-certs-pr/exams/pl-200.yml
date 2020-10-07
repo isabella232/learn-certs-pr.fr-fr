@@ -14,8 +14,8 @@ summary: |-
 
   Les candidats collaborent activement avec les membres de l’équipe d’assurance qualité afin de s’assurer que les solutions répondent aux exigences fonctionnelles et non fonctionnelles. Ils identifient, génèrent, et délivrent des artefacts pour le packaging et le déploiement aux ingénieurs DevOps, et assurent la formation des administrateurs de Power Platform pour les opérations et la maintenance.
 
-  <div><strong><br/>Remarque&#58; Cet examen sera disponible en septembre 2020.</strong></div>
-subTitle: 'Cet examen sera disponible en septembre 2020. Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
+  <div><strong><br/>Remarque&#58; Cette examen sera disponible aux alentours du vendredi 25 septembre 2020.</strong></div>
+subTitle: 'Ce examen sera disponible aux environs du vendredi 25 septembre 2020. Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
@@ -23,11 +23,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Configurer Common Data Service (25-30%)
-- Créer des applications à l’aide de Power Apps (20-25%)
-- Créer et gérer Power Automate (15-20%)
-- Implémenter les bots conversationnels de Power Virtual Agents (10-15%)
-- Intégrer Power Apps avec d’autres applications et services (15-20%)
+- Configurer Common Data Service (25 à 30%)
+- Créer des applications à l’aide de Power Apps (20 à 25%)
+- Créer et gérer Power Automate (15 à 20%)
+- Implémenter les bots conversationnels de Power Virtual Agents (10 à 15%)
+- Intégrer Power Apps avec d’autres applications et services (15 à 20%)
 roles:
 - business-analyst
 - developer
@@ -64,6 +64,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

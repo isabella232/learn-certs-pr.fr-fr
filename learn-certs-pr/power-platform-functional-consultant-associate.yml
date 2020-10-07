@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Cette certification sera disponible en septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  description: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,16 +10,16 @@ summary: |-
 
   Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes. Ils doivent avoir de l’expérience dans l’utilisation des outils du créateur de Power Platform afin de créer des solutions qui utilisent Power Platform et Microsoft 365. Les consultants fonctionnels certifiés doivent maîtriser la modélisation des données, la conception de l’expérience utilisateur, l’analyse des exigences, et l’analyse des processus.
 
-  <div><br/><strong>Remarque&#58; Cette certification sera disponible en Septembre 2020.</strong></div>
-subTitle: Cette certification sera disponible en septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  <div><br/><strong>Remarque&#58; Cette certification sera disponible aux alentours du vendredi 25 septembre 2020.</strong></div>
+subTitle: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
 levels:
 - intermediate
 skills:
-- Configurer Common Data Service.
-- Créer des applications à l’aide de Power Apps.
-- Créer et gérer Power Automate.
-- Implémenter les bots conversationnels de Power Virtual Agents.
-- Intégrer Power Apps avec d’autres applications et services.
+- Configurer Common Data Service
+- Créer des applications à l’aide de Power Apps
+- Créer et gérer Power Automate
+- Implémenter les bots conversationnels de Power Virtual Agents
+- Intégrer Power Apps avec d’autres applications et services
 roles:
 - business-analyst
 - developer

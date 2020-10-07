@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir des applications et automatiser des flux de travail.
+- skill: Créer des applications et automatiser des flux de travail.
+- skill: Analyser et visualiser des données dans le contexte d’une application ou d’un flux de travail automatisé.
+- skill: Mettre en œuvre et gérer des applications et des flux de travail automatisés.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  Ce cours vous enseignera à développer des applications avec des techniques faible-code afin de simplifier, automatiser et transformer les tâches et processus métiers à l’aide de Microsoft Power Platform.
+
+  #### Profil de l’audience
+  Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions d’affaires. Il possède des compétences de base en modélisation de données, en conception de l’expérience utilisateur, en analyse des exigences, et en analyse des processus. Le créateur d’applications crée et soutient les processus métiers, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus métiers. Le créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut utiliser des fonctions avancées des applications Microsoft ainsi que des outils de productivité de tiers. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend la manière de les appliquer. Le créateur d’applications est autonome et axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.
+prerequisitesSection: |-
+  - Compétences de base en modélisation de données, en conception de l’expérience utilisateur, en analyse des exigences, et en analyse des processus.
+  - Mentalité de croissance personnelle et confort dans le recours à la technologie pour résoudre les problèmes professionnels.
+  - Compréhension des besoins opérationnels et vision du résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.
+outlineSection: |-
+  ### Module 1&#58; Créer une application basée sur un modèle dans Power Apps
+  Ce module vous initie à la création d’une application basée sur un modèle dans Power Apps, en utilisant le service de données communes.
+
+  ### Module 2&#58; Créer une application canevas dans Power Apps
+  Ce module vous présente Power Apps et vous aide à créer et à personnaliser une application, puis à la gérer et la distribuer.
+
+  ### Module 3&#58; Utiliser l’Interface Utilisateur et les contrôles dans une application canevas dans Power Apps
+  Ce module portera sur la manière de fournir la meilleure navigation d’application et de développer la meilleure interface utilisateur à l’aide des thèmes, des icônes, des images, de la personnalisation, de différents facteurs de forme et de contrôles.
+
+  ### Module 4&#58; Automatiser un processus métier à l’aide de Power Automate
+  Ce module vous présente Power Automate, vous enseigne comment développer des flux de travail et la façon de gérer les flux.
+
+  ### Module 5&#58; Créer et utiliser des rapports d’analytique avec Power BI
+  Découvrez ce qu’est Power BI, y compris les blocs de construction et leur interaction.
+
+  ### Module 6&#58; Débuter avec AI Builder
+  Ce module vous aide à construire un modèle d’Intelligence Artificielle dès le début et vous montre comment l’utiliser dans votre entreprise sans écrire une seule ligne de code.
+

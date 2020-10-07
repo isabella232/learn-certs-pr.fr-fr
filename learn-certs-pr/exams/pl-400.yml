@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Les candidats à cet examen conçoivent, développent, sécurisent, et dépannent les solutions Power Platform. Le consultant fonctionnel implémente les composants d’une solution, notamment les améliorations des applications, les expériences utilisateur personnalisées, l’intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
 
@@ -14,8 +14,8 @@ summary: |-
 
   Les candidats doivent posséder de l’expérience en matière de développement, notamment dans les services Power Platform, JavaScript, JSON, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, les services web RESTful, ASP.NET, et Microsoft Power BI.
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible en octobre 2020.</div>
-subTitle: "Cet examen sera disponible en Octobre 2020. Cet examen mesure votre capacité à remplir les tâches techniques suivantes: créer un design technique, configurer Common Data Service, créer et configurer des Power Apps, configurer l’automatisation du processus d'affaires, étendre l’expérience utilisateur, étendre la plateforme et mettre au point des intégrations."
+  <div><strong><br/>Remarque&#58; Cette examen sera disponible aux alentours du vendredi 25 septembre 2020.</strong></div>
+subTitle: 'Ce examen sera disponible aux environs du vendredi 25 septembre 2020. Cet examen mesure votre capacité à remplir les tâches techniques suivantes: créer un design technique, configurer Common Data Service, créer et configurer des Power Apps, configurer l’automatisation du processus d''affaires, étendre l’expérience utilisateur, étendre la plateforme et mettre au point des intégrations.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
 locales:
@@ -44,8 +44,8 @@ resources:
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
@@ -59,6 +59,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

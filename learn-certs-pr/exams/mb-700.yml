@@ -8,7 +8,7 @@ displayName: MB-700
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour 28 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour lundi 28 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
   </div>
 
   Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour 28 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour lundi 28 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Identifier les exigences des solutions (30-35%)
 - Concevoir les composants des solutions (40-45%)
 - Définir le test des solutions et des stratégies de gestion (25-30%)
@@ -64,6 +64,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

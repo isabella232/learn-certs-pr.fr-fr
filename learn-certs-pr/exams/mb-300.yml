@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  </div>
 
   Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
   <br/>
@@ -25,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
 - Utiliser les outils communs de fonctionnalité et de mise en œuvre (20 à 25%)
 - Configurer la sécurité, les processus et les options (45 à 50%)
 - Effectuer la migration des données (15 à 20%)
@@ -33,7 +36,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 - dynamics-finance
 exams:
@@ -73,6 +76,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

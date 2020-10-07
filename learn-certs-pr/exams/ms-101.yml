@@ -6,11 +6,14 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour jeudi 24 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  </div>
 
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils réalisent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
 
-  Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique du réseautage, de l'administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
+   Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique du réseautage, de l'administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: mettre en œuvre les services des périphériques modernes, mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365 et gérer la gouvernance et la conformité de Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -22,9 +25,10 @@ locales:
 levels:
 - advanced
 skills:
-- Mettre en œuvre des services les périphériques modernes (30-35%)
-- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365 (30-35%)
-- Gérer la gouvernance et la conformité de Microsoft 365 (35-40%)
+- Le contenu de cet examen sera mis à jour jeudi 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Mettre en œuvre des services les périphériques modernes (30 à 35%)
+- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365 (30 à 35%)
+- Gérer la gouvernance et la conformité de Microsoft 365 (35 à 40%)
 roles:
 - administrator
 products:
@@ -45,7 +49,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
@@ -58,6 +62,6 @@ resources:
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  description: Vérifiez les Règles applicables aux examens et FAQ.
   href: ../certification-exam-policies.md
 

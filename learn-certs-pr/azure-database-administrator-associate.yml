@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. L’Administrateur des bases de données Azure utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
+  L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. L'administrateur des bases de données Azure utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
 subTitle: L’administrateur de base de données Azure met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server.
 levels:
 - intermediate
@@ -19,7 +19,7 @@ skills:
 - Optimiser la performance des requêtes.
 - Effectuer une automatisation des tâches.
 - Planifier et mettre en œuvre un environnement de haute disponibilité et de reprise après sinistre (HADR).
-- Effectuer l’administration à l’aide de T-SQL
+- Effectuer l’administration à l’aide de T-SQL.
 roles:
 - database-administrator
 type: role-based

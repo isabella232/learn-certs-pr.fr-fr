@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Développeur 
+title: Developer (Développeur) 
 metadata: 
-  title: Développeur 
-  description: Les développeurs conçoivent, construisent, testent et maintiennent des solutions. Les développeurs mettent en œuvre des applications et des services en s'associant à des architecte en solutions et des clients.
+  title: Developer (Développeur) 
+  description: Les Developers (développeurs) conçoivent, construisent, testent et maintiennent des solutions. Les Developers (développeurs) mettent en œuvre des applications et des services en s'associant à des architecte en solutions et des clients.
 uid: role.developer 
 summary: | 
-  Les développeurs conçoivent, construisent, testent et maintiennent des solutions. Les développeurs mettent en œuvre des applications et des services en s'associant à des architecte en solutions et des clients. 
-subTitle: Les développeurs conçoivent, construisent, testent et maintiennent des solutions de cloud.
+  Les Developers (développeurs) conçoivent, construisent, testent et maintiennent des solutions. Les Developers (développeurs) mettent en œuvre des applications et des services en s'associant à des architecte en solutions et des clients. 
+subTitle: Les Developers (développeurs) conçoivent, construisent, testent et maintiennent des solutions de cloud.
 certificationPaths: 
 - title: Azure Developer
   linkedInKeywords: Azure Developer
@@ -30,8 +30,8 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
     - intermediate 
-- title: Développeur Microsoft 365
-  linkedInKeywords: Développeur Microsoft 365
+- title: Microsoft 365 Developer
+  linkedInKeywords: Microsoft 365 Developer
   uid: certification.m365-developer-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -41,8 +41,8 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
-- title: Développeur Power Apps + Dynamics 365
-  linkedInKeywords: Développeur Power Apps + Dynamics 365
+- title: Power Apps + Dynamics 365 Developer
+  linkedInKeywords: Power Apps + Dynamics 365 Developer
   uid: certification.power-apps-and-d365-developer-associate
   prerequisites: 
   - uid: certification.power-platform-fundamentals
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,7 +65,13 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Guide de formation et de certification Microsoft
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -73,6 +79,6 @@ resources:
 - title: Affiche de formation et de certification
   description: Choisissez la voie de la réussite avec cette affiche de formation et de certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Support pour les certifications
+- title: Aide à la certification
   href: ../help.md
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).

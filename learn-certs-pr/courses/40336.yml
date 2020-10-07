@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'First Look Clinic: Windows 10 for IT Professionals'
+metadata:
+  title: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+  description: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+uid: course.40336
+courseNumber: '40336-A'
+hoursToComplete: 12
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Citer et expliquer les nouvelles fonctionnalités de Windows 10.
+- skill: Comprendre les fonctionnalités actuellement disponibles et dans quelle version on les retrouve.
+- skill: Utiliser et personnaliser la nouvelle interface utilisateur de Windows 10
+- skill: Décrire les préparatifs nécessaires au déploiement et à la gestion de Windows 10
+- skill: Comprendre les choix de déploiement
+- skill: Comprendre les options de gestion
+- skill: Comprendre les fonctionnalités de sécurité globales de Windows 10
+- skill: Citer les caractéristiques de Device Guard
+- skill: Comprendre une méthodologie de déploiement de Device Guard
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Ce cours Microsoft First Look Clinic présente aux professionnels de l'informatique les nouvelles caractéristiques et fonctionnalités de Windows 10, en utilisant l'édition Entreprise de Windows 10. Il portera également sur les principaux écosystèmes Windows 10 comme la gestion des identités, les services cloud comme Azure Active Directory (AAD), les outils de déploiement/gestion et la nouvelle interface utilisateur. Aucun sujet n'est étudié en profondeur, mais les apprenants termineront ce cours en ayant compris les nouvelles caractéristiques et fonctionnalités de Windows 10, des services associés et des outils d'administration.
+
+  #### Profil du public
+  Ce cours est destiné aux professionnels de l'informatique souhaitant en savoir plus sur les nouvelles fonctionnalités de Windows 10. D'une manière générale, ce cours First Look Clinic profitera également aux utilisateurs des nouvelles technologies et aux personnes à la recherche d'un premier aperçu des fonctionnalités de Windows 10 et des services et outils cloud connexes. Les principaux influenceurs techniques et les décideurs technologiques des entreprises d'informatique peuvent également participer à ce cours, car ils peuvent profiter d'un premier aperçu de certaines des dernières fonctionnalités et technologies de Windows 10.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Windows 10
+  Windows 10 est la dernière version du système d'exploitation client Windows. Il possède les mêmes fonctionnalités de base que Windows 8.1, plusieurs améliorations importantes ainsi que des améliorations de fonctionnalités ayant un impact sur l'environnement de l'entreprise, en particulier en matière de sécurité. La conception de Windows 10 répond à un large éventail de besoins informatiques et rend les utilisateurs efficaces dans la réalisation des tâches. Ce module présente les principales nouvelles fonctionnalités de Windows 10.
+  #### Leçons
+  - Nouvelles fonctionnalités de Windows 10
+  - Fonctionnalités de Windows 10 non disponibles dans la version initiale
+  - Exploration de la nouvelle interface utilisateur (IU) de Windows 10
+  - Windows 10 pour ordinateurs de bureau et tablettes
+  - Configuration matérielle requise pour Windows 10
+
+  Après avoir terminé cette leçon, vous serez en mesure de&#58;
+  - Citer et expliquer les nouvelles fonctionnalités de Windows 10.
+  - Citer les fonctionnalités disponibles actuellement et dans quelle version.
+  - Utiliser la nouvelle interface utilisateur de Windows 10.
+  - Énumérer et décrire les appareils compatibles avec Windows 10.
+  - Décrire la configuration matérielle requise pour Windows 10.
+  - Décrire les différentes éditions de Windows 10
+
+
+  ### Module 2&#58; Déploiement et gestion de Windows 10
+  Évaluer les exigences de déploiement dans une entreprise commence par prendre connaissance de son environnement et de son infrastructure matérielle, afin de déterminer si ces équipements peuvent fonctionner avec Windows 10 et quelles fonctionnalités de Windows 10 sont jugées importantes pour l'entreprise. Le passage à Windows 10 est le plus souvent très facile et ne nécessite d'apporter que peu de modifications dans la procédure de déploiement d'une enterprise, mais cela permet d'augmenter les possibilités. La stratégie recommandée est de déployer Windows 10 comme plate-forme de base ; les nouvelles fonctionnalités seront ensuite fournies à travers Windows en tant que service. Le passage à Windows 10, comme indiqué précédemment, ne sera pas aussi coûteux ou long qu'une mise à niveau de Windows XP vers Windows 7. Dans la plupart des cas, le matériel et les logiciels sont compatibles avec Windows 10.  Dans ce module, nous examinerons la capacité des outils de gestion et de déploiement face à cette évolution.
+  #### Leçons
+  - Déploiement de Windows 10
+  - Approvisionnement pour Windows 10
+  - Gestion de Windows 10
+  - Soutien de Windows 10
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire les préparatifs nécessaires au déploiement et à la gestion de Windows 10
+  - Comprendre les choix de déploiement
+  - Comprendre les options de gestion
+
+
+  ### Module 3&#58; Caractéristiques de sécurité de Windows 10
+  Windows 10 est conçu pour vous protéger contre les menaces de sécurité modernes, nous nous intéressons ainsi aux thèmes suivants &#58; appareil/matériel sécurisé, identités sécurisées, protection de l'information, et résistance aux menaces.
+
+  Dans ce module, vous aurez un aperçu des fonctionnalités de sécurité de Windows 10, nous explorerons ensuite en profondeur les facettes de Device Guard.
+  #### Leçons
+  - Présentation de la sécurité de Windows 10
+  - Aperçu de Device Guard
+  - Intégrité du code configurable
+  - Planification pour Device Guard
+  - Fichiers de catalogue Device Guard
+  - Utilisation de Device Guard
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Comprendre les fonctionnalités de sécurité globales de Windows 10
+  - Comprendre les caractéristiques de Device Guard
+

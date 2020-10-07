@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong> CETTE CERTIFICATION SERA RETIRÉE LE 31 AOÛT 2020. Vous ne pourrez plus l'obtenir après cette date. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href="https://www.microsoft.com/learning/dashboard.aspx">tableau de bord de certification</a>.</strong><br/><br/></div>
+  <div><strong> Cette certification sera retirée le lundi 31 août 2020. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href="https://www.microsoft.com/learning/dashboard.aspx">tableau de bord de certification</a>.</strong><br/><br/></div>
   </div>
 
   Les administrateurs Microsoft 365 Teamwork configurent, déploient et gèrent les charges de travail de Office 365 qui se concentrent sur une collaboration efficiente et efficace, telle que SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
@@ -57,7 +57,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

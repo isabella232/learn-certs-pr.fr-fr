@@ -51,7 +51,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: ../certification-exam-policies.md

@@ -8,13 +8,13 @@ displayName: MS-100
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour jeudi 24 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils réalisent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
+  Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
 
-  Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique du réseautage, de l'administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
-subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
+  Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l’administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +25,11 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour jeudi 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Concevoir et mettre en œuvre les services Microsoft 365 (25 à 30%)
-- Gérer l’identité et les rôles des utilisateurs (35 à 40%)
-- Gérer l'accès et l’authentification (20 à 25%)
-- Planifier les charges de travail et les applications Office 365 (10 à 15%)
+- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Concevoir et implémenter les services Microsoft 365 (25-30%)
+- Gérer l’identité et les rôles des utilisateurs (35-40%)
+- Gérer l’accès et l’authentification (20-25%)
+- Planifier les charges de travail et les applications Office 365 (10-15%)
 roles:
 - administrator
 products:
@@ -51,10 +51,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -62,7 +62,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les Règles applicables aux examens et FAQ.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

@@ -7,10 +7,10 @@ uid: exam.da-100
 displayName: DA-100
 summary: |-
   <div>
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen sera mis à jour le 24 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Microsoft Power BI. En leur qualité d’experts du domaine, les analystes de données sont responsables de la conception et de la création de modèles de données évolutifs, du nettoyage et de la transformation des données, et de la favorisation des compétences analytiques avancées qui fournissent une valeur commerciale considérable par des visualisations de données faciles à saisir. Les analystes de données collaborent également avec les principales parties prenantes à travers les marchés verticaux pour fournir des données pertinentes sur les prescriptions commerciales recensées.
+  Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Power BI. En leur qualité d’experts du domaine, les analystes de données sont responsables de la conception et de la création de modèles de données évolutifs, du nettoyage et de la transformation des données, et de la favorisation des compétences analytiques avancées qui fournissent une valeur commerciale considérable par des visualisations de données faciles à saisir. Les analystes de données collaborent également avec les principales parties prenantes à travers les marchés verticaux pour fournir des données pertinentes sur les prescriptions commerciales recensées.
   <br/>
 
   L’analyste des données devrait maîtriser les principes de bases des référentiels de données et du traitement des données à la fois sur site et dans le Cloud.
@@ -21,7 +21,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn
@@ -30,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour jeudi 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Préparer les données (20-25%)
-- Modéliser les données (25-30%)
-- Visualiser les données (20-25%)
-- Analyser les données (10-15%)
+- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Préparer les données (20-25%)
+- Modéliser les données (25-30%)
+- Visualiser les données (20-25%)
+- Analyser les données (10-15%)
 - Déployer et maintenir les produits (10-15%)
 roles:
 - data-analyst
@@ -63,10 +63,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -74,7 +74,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les Règles applicables aux examens et FAQ.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

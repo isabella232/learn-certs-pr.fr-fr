@@ -9,7 +9,7 @@ summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Cet examen couvre les compétences dans la création et gestion des présentations, l’insertion et la gestion des formes et des diapositives, la création de contenus de diapositives, l’application des transitions et des animations et la gestion de plusieurs présentations. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de PowerPoint et de compléter les tâches de façon indépendante.
-subTitle: Cet examen mesure les compétences de création, d’édition et d’amélioration des présentations et des diaporamas, y compris la capacité de créer et gérer des présentations, à insérer et mettre en forme des formes et des diapositives, à créer un contenu de diapositive, à appliquer des transitions et des animations et à gérer plusieurs présentations. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
+subTitle: Cet examen mesure les compétences de création, d’édition et d’amélioration des présentations et des diaporamas, y compris la capacité à créer et gérer des présentations, insérer et formater des formes et des diapositives, créer un contenu de diapositive, appliquer des transitions et des animations, et gérer plusieurs présentations. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
 providers:
@@ -30,16 +30,18 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
+- ja
 levels:
 - intermediate
 skills:
 - Gérer des présentations
 - Gérer des diapositives
-- Insérer et mettre en forme du texte, des formes et des images
-- Insérer des tableaux, des diagrammes, smartArt, des modèles en 3D et des médias
+- Insérer et mettre en forme des textes, des formes et des images
+- Insérer des tableaux, des graphiques, SmartArt, des modèles 3D et des médias
 - Appliquer des transitions et des animations
 roles:
-- developer
+- business-user
 products:
 - office
 - office-powerpoint
@@ -56,7 +58,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

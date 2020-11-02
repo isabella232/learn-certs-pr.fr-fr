@@ -2,12 +2,13 @@
 title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
 description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/26/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Become a Microsoft Certified Trainer
 
@@ -35,9 +36,7 @@ Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en
 
 Pour en savoir plus sur les conditions liées au programme MCT, consultez le Guide du Programme MCT et l'Accord du Programme MCT dans la section [Procédure de Candidature](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de cette page.
 
-
 ### Exigences en matière d'accès au programme MCT
-
 - Posséder une qualification ou une certification Microsoft donnant accès au programme MCT. 
 (Voir ci-dessous pour obtenir une liste des certifications éligibles).
 - Démontrer des compétences pédagogiques attestées par:
@@ -60,7 +59,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
   
   OU<br/><br/>
 
-  - Fournir des références attestant d'au moins une année d'expérience en tant qu'instructeur 
+  - Fournir des références attestant d'au moins une année d'expérience en tant qu'instructeur
 
 **Remarque** Pour renouveler votre statut de MCT, vous devez satisfaire aux exigences de renouvellement du programme MCT avant la date anniversaire de votre certificat.
 
@@ -75,7 +74,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
 
 ### Qualifications et certifications Microsoft en cours de validité donnant accès au programme MCT
 
-**Certifications Microsoft**
+**Microsoft Certifications**
 
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
@@ -94,6 +93,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -109,7 +109,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (retrait le dimanche 31 janvier 2021), Data Management and Analytics (retrait le dimanche 31 janvier 2021), Productivity (retrait le dimanche 31 janvier 2021) ou Core Infrastructure (retrait le dimanche 31 janvier 2021)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (retrait le dimanche 31 janvier 2021)
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) ou [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
- 
+
 **Remarque** Les certifications et qualifications Microsoft donnant accès au programme MCT sont sujettes à modification. La toute nouvelle certification basée sur la fonction sera éligible pour le programme MCT dès sa publication. Les certifications retirées seront éligibles pour le programme MCT jusqu’à six mois après leur date de retrait. [Pour en savoir plus sur les certifications retirées](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## Procédure de candidature
@@ -134,7 +134,7 @@ Les candidatures en ligne au programme MCT sont disponibles à partir de l'[outi
 
 **Remarque** Veuillez vous connecter avec votre MSA pour accéder à l'outil d'inscription MCT.
 
-Si vous êtes Microsoft Office Specialist et que vous n'avez pas d'identifiant de certification Microsoft (MCID), envoyez un courrier électronique à [customerservices@certiport.com](mailto:customerservices@certiport.com) pour en obtenir un. Ensuite, rendez-vous sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT) Avant de compléter le formulaire de candidature en ligne, prenez connaissance des informations détaillées disponibles sur l'inscription MCT dans la section qui suit.
+Si vous êtes Microsoft Office Specialist et que vous n'avez pas d'identifiant de certification Microsoft (MCID), envoyez un courrier électronique à [customerservices@certiport.com](mailto:customerservices@certiport.com) pour en obtenir un. Ensuite, rendez-vous sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT) Avant de remplir le formulaire de candidature en ligne, prenez connaissance des informations détaillées disponibles sur l'inscription MCT dans la section qui suit.
 
 Utilisez l'outil d'inscription MCT pour:
 
@@ -167,7 +167,6 @@ Le programme Alumni MCT offre les avantages suivants:
 
 Si vous souhaitez devenir membre du programme Alumni MCT, veuillez consulter le contrat relatif au programme Alumni MCT pour prendre connaissance des conditions d'adhésion.<br/>
 
-
 [Contrat du Programme Alumni MCT](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **Remarque** Sauf indication contraire, l'intégralité du contenu est en anglais.
@@ -178,12 +177,12 @@ Inscrivez-vous au programme Alumni MCT avec l’[outil d'inscription MCT](https:
 
 **Passer du programme Alumni MCT au programme MCT**
 
-Les Alumni MCT sont les bienvenues à rejoindre le programme MCT lors de leur à la formation active.
+Les membres du programme Élèves MCT sont invités à rejoindre le programme MCT lors de leur à la formation active.
 
 Pour revenir au programme MCT:
 
 - **Assurez-vous de satisfaire aux exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les Certifications et qualifications Microsoft éligibles au programme MCT.
-- **Postulez au programme MCT.** Les Alumni MCT peuvent au choix : fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
+- **Postulez au programme MCT.** Les Alumni MCT peuvent au choix: fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
 
 ## Frais d'adhésion au programme MCT et au programme Alumni MCT
 

@@ -8,8 +8,8 @@ displayName: MO-200
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Cet examen couvre l'aptitude à créer et modifier un cahier d'activités contenant plusieurs feuilles et utiliser un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités d’Excel et de compléter les tâches de façon indépendante.
-subTitle: Cet examen évalue les compétences dans les bases essentielles de la création et gestion des feuilles de travail et des classeurs, création des cellules et des lignes, création des tableaux, application de formules et de fractions et création de graphiques et d’objets. L'examen couvre l'aptitude à créer et modifier un cahier d'activités contenant plusieurs feuilles et utiliser un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d'une équipe, des factures de vente et des journaux de saisie de données.
+  Cet examen couvre l’aptitude à créer et modifier un cahier d’activités contenant plusieurs feuilles et utiliser un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d’une équipe, des factures de vente et des journaux de saisie de données. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités d’Excel et de compléter les tâches de manière autonome.
+subTitle: Cet examen évalue les compétences dans les bases essentielles de la création et gestion des feuilles de travail et des classeurs, création des cellules et des lignes, création des tableaux, application de formules et de fractions et création de graphiques et d’objets. L’examen couvre l’aptitude à créer et modifier un cahier d’activités contenant plusieurs feuilles et utiliser un élément graphique pour représenter visuellement des données. Les exemples de classeurs comprennent des budgets professionnels, des états financiers, des tableaux des performances d’une équipe, des factures de vente et des journaux de saisie de données.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
 providers:
@@ -35,13 +35,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer des feuilles de calcul et des classeurs (10 à 15%)
-- Gérer des cellules et des plages de données (20 à 25%)
-- Gérer des tableaux et des données de tables (15 à 20%)
-- Effectuer des opérations en utilisant des formules et des fonctions (20 à 25%)
-- Gestion des données (20 à 25%)
+- Gérer des feuilles de calcul et des classeurs (10-15%)
+- Gérer des cellules et des plages de données (20-25%)
+- Gérer des tableaux et tables de données (15-20%)
+- Effectuer des opérations en utilisant des formules et des fonctions (20-25%)
+- Gérer des graphiques (20-25%)
 roles:
-- developer
+- business-user
 products:
 - office
 - office-excel
@@ -58,7 +58,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les Règles applicables aux examens et FAQ.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

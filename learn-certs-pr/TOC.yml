@@ -1,10 +1,10 @@
-- name: Certifications Microsoft
+- name: Microsoft Certifications
   href: index.yml
 - name: Offres
   href: deals.md
 - name: Octroi de licences en volume
   href: volume-licensing-program.md
-- name: Microsoft Learning Partners
+- name: Partenaires de formation Microsoft
   href: partners.md
 - name: Certifications, examens et formations retirés
   expanded: false
@@ -15,19 +15,44 @@
     href: retired-certification-exams.md 
   - name: Formations retirées
     href: retired-courses.md
-- name: Devenir un formateur certifié Microsoft
+- name: Devenir un Microsoft Certified Trainer
   href: mct-certification.md
 - name: À propos des examens de certification Microsoft
   href: certification-exams.md
-- name: Examen et badges de certification Microsoft
+- name: Examens et badges de certification Microsoft
   href: badges.md
-- name: À propos des examens en ligne
+- name: À propos des examens en ligne de Pearson VUE
   href: online-exams.md
+- name: À propos des examens en ligne de PSI
+  href: online-exams-psi.md
 - name: Règles applicables aux examens et FAQ
-  href: certification-exam-policies.md
-- name: Aide à la certification
+  expanded: false
+  items:
+  - name: Présentation de la procédure d’examen
+    href: exam-process-overview.md  
+  - name: Politique de sécurité des examens et règlement concernant le rattrapage d’examens
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: Politique relative au report et à l’annulation des examens
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Contrat du programme de certification Microsoft
+    href: microsoft-certification-program-agreement.md
+  - name: Accord de confidentialité relatif aux examens Microsoft
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Demander un hébergement
+    href: request-accommodations.md
+  - name: Procédure de contestation de question d’examen
+    href: exam-item-challenge-process.md
+  - name: Les examens beta
+    href: beta-exams.md
+  - name: Crédits collégiaux pour les examens de certification
+    href: college-credit-for-certification-exams.md
+  - name: Remises pour les étudiants
+    href: student-discounts.md
+- name: Assistance à la certification
   href: help.md
-- name: Microsoft Certification program FAQs 
+- name: Aide aux didacticiels officiels Microsoft (MOC)
+  href: certification-and-training-help.md
+- name: Microsoft Certification Program FAQs 
   href: microsoft-certification-program-faqs.md
-- name: Déplacer Microsoft Learning...
+- name: Déplacement Microsoft Learning…
   href: learnfaq.md

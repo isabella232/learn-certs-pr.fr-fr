@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Excel 2013 Expert Part Two
+title: Microsoft Excel 2013 Expert Part Two
 metadata:
-  title: 'Exam 77-428: Excel 2013 Expert Part Two'
-  description: 'Exam 77-428: Excel 2013 Expert Part Two'
+  title: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
 uid: exam.77-428
 displayName: 77-428
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les candidats de niveau expert à l'examen Excel 2013 doivent attester d'une maîtrise avancée de l'environnement Excel et être capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions d'Excel 2013 dans Office Professional Plus. Ils doivent connaître et pouvoir démontrer leur connaissance des fonctionnalités spécialisées et avancées de l'application.
+  Les candidats de niveau expert à l’examen Excel 2013 doivent attester d’une maîtrise avancée de l’environnement Excel et être capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions dans Excel 2013 d’Office Professional Plus. Ils doivent connaître et pouvoir démontrer leur connaissance des fonctionnalités spécialisées et avancées de l’application.
 
-  Les candidats doivent être capables de créer, gérer et distribuer des feuilles de calcul professionnelles à des fins diverses et dans différentes situations et doivent être en mesure de personnaliser leur environnement Excel afin de répondre aux besoins et d'améliorer la productivité. Les exemples de classeur incluent des modèles professionnels personnalisés, des graphiques financiers à plusieurs axes, des tableaux d'amortissement et des calendriers d'inventaire. Les candidats peuvent inclure des comptables, des analystes financiers, des analystes de données, des banquiers commerciaux et autres.
-subTitle: Les candidats de niveau expert à l'examen Excel 2013 doivent attester d'une maîtrise avancée de l'environnement Excel et être capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions d'Excel 2013 dans Office Professional Plus. Ils doivent connaître et pouvoir démontrer leur connaissance des fonctionnalités spécialisées et avancées de l'application.
+  Les candidats doivent être capables de créer, gérer et distribuer des feuilles de calcul professionnelles à des fins diverses et dans différentes situations et doivent être en mesure de personnaliser leur environnement Excel afin de répondre aux besoins et d’améliorer la productivité. Les exemples de classeur incluent des modèles professionnels personnalisés, des graphiques financiers à plusieurs axes, des tableaux d’amortissement et des calendriers d’inventaire. Les candidats peuvent inclure des comptables, des analystes financiers, des analystes de données, des banquiers commerciaux et autres.
+subTitle: Les candidats de niveau expert à l’examen Excel 2013 doivent attester d’une maîtrise avancée de l’environnement Excel et être capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions d’Excel 2013 dans Office Professional Plus.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
 scheduleExamUrl: https://www.certiport.com/locator
@@ -28,23 +28,26 @@ locales:
 - nl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
-- Gérer et partager ldes classeurs
+- Gérer et partager des classeurs
 - Appliquer des formats et des mises en page personnalisés
 - Créer des formules avancées
-- Créer des diagrammes et des tableaux avancés
+- Créer des tableaux et des graphiques avancés
 roles:
 - business-user
 products:
 - office-excel
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-excel-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

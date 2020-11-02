@@ -1,15 +1,15 @@
 ### YamlMime:Examination
-title: Word 2013 Expert Part Two
+title: Microsoft Word 2013 Expert Part Two
 metadata:
-  title: 'Exam 77-426: Word 2013 Expert Part Two'
-  description: 'Exam 77-426: Word 2013 Expert Part Two'
+  title: 'Exam 77-426: Microsoft Word 2013 Expert Part Two'
+  description: 'Exam 77-426: Microsoft Word 2013 Expert Part Two'
 uid: exam.77-426
 displayName: 77-426
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Cet examen est destiné aux candidats de niveau expert qui attestent d'une maîtrise avancée de l'environnement Word et sont capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions dans Word 2013. Ils doivent savoir utiliser les fonctionnalités spécialisées et avancées de l'application. Les candidats doivent être capables de créer, gérer et distribuer des documents professionnels à des fins diverses et variées et doivent être en mesure de personnaliser leurs environnements Word afin de répondre aux besoins et d'améliorer la productivité. Voici quelques exemples de documents&#58; plans commerciaux, documents juridiques, brochures publicitaires et publipostages. Les candidats intéressés par cet examen peuvent être des éditeurs, des chefs de projet, des formateurs, des étudiants de deuxième et troisième cycles, des rédacteurs techniques, etc.
-subTitle: "Cet examen est destiné aux candidats de niveau expert qui attestent d'une maîtrise avancée de l'environnement Word et sont capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions dans Word 2013. Ils doivent savoir utiliser les fonctionnalités spécialisées et avancées de l'application. Les candidats doivent être capables de créer, gérer et distribuer des documents professionnels à des fins diverses et variées et doivent être en mesure de personnaliser leurs environnements Word afin de répondre aux besoins et d'améliorer la productivité. Voici quelques exemples de documents: plans commerciaux, documents juridiques, brochures publicitaires et publipostages. Les candidats intéressés par cet examen peuvent être des éditeurs, des chefs de projet, des formateurs, des étudiants de deuxième et troisième cycles, des rédacteurs techniques, etc."
+  Cet examen est conçu pour les candidats de niveau expert qui possèdent une compréhension avancée de l’environnement Word et sont capables de montrer aux autres utilisateurs comment utiliser correctement les fonctionnalités dans Word 2013. Ils doivent savoir utiliser les fonctionnalités spécialisées et avancées de l’application. Les candidats doivent être capables de créer, gérer et distribuer des documents professionnels à des fins diverses et variées et doivent être en mesure de personnaliser leurs environnements Word afin de répondre aux besoins et d’améliorer la productivité. Voici quelques exemples de documents&#58; plans commerciaux, documents juridiques, brochures publicitaires et publipostages. Les candidats intéressés par cet examen peuvent être des éditeurs, des chefs de projet, des formateurs, des étudiants de deuxième et troisième cycles, des rédacteurs techniques, etc.
+subTitle: Cet examen est conçu pour les candidats de niveau expert qui possèdent une compréhension avancée de l’environnement Word et sont capables de montrer aux autres utilisateurs comment utiliser correctement les fonctionnalités dans Word 2013.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIV
 scheduleExamUrl: https://www.certiport.com/locator
@@ -26,23 +26,26 @@ locales:
 - nl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
-- Gérer et partager des documents (25 à 30 %)
-- Concevoir des documents avancés (25 à 30 %)
-- Créer des références avancées (25 à 30 %)
-- Créer des éléments Word personnalisés (20 à 25 %)
+- Gérer et des paramètres du document (25-30%)
+- Concevoir des documents avancés (25-30%)
+- Créer des références avancées (25-30%)
+- Créer des éléments Word personnalisés (20-25%)
 roles:
 - business-user
 products:
 - office-word
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-expert-certification-2013
+    uid: certification.mos-word-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

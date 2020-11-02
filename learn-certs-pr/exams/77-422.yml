@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: PowerPoint 2013
+title: Microsoft PowerPoint 2013
 metadata:
-  title: 'Exam 77-422: PowerPoint 2013'
-  description: 'Exam 77-422: PowerPoint 2013'
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Apprenez à démontrer votre expertise en PowerPoint. Exercez-vous et préparez-vous pour l’examen PowerPoint Microsoft Office Specialist (MOS) 2013 avec ce guide d’étude tout en un. Découvrez une couverture complète de l’examen par objectif, ainsi que des procédures et illustrations faciles à suivre pour réviser vos compétences essentielles. De plus, effectuez des tâches d’exercices pratiques pour appliquer ce que vous avez appris. Ce guide comprend des fichiers d’exercices pratiques à télécharger.
-subTitle: "Les candidats à cet examen sont des professionnels de l'informatique (IT) qui utilisent Office pour créer des applications flexibles et sécurisées."
+  Les candidats à l’examen Microsoft Office Specialist (MOS) PowerPoint 2013 doivent maîtriser les principes de base de l’environnement PowerPoint et être capables d’accomplir des tâches de manière autonome. Les candidats sont capables de créer et gérer des présentations, d’insérer et de formater des formes et des diapositives, de créer du contenu de diapositive, d’appliquer des transitions et des animations et de gérer plusieurs présentations.
+subTitle: 'Les candidats à l’examen Microsoft Office Specialist (MOS) PowerPoint 2013 doivent avoir une compréhension de base de l’environnement PowerPoint et la capacité de remplir des tâches de manière autonome.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -34,7 +34,7 @@ levels:
 skills:
 - Créer et gérer des présentations
 - Insérer et formater des formes et des diapositives
-- Créer un contenu de diapositives
+- Créer des contenus de diapositives
 - Appliquer des transitions et des animations
 - Gérer plusieurs présentations
 roles:
@@ -43,12 +43,12 @@ products:
 - office-powerpoint
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-powerpoint-2013
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

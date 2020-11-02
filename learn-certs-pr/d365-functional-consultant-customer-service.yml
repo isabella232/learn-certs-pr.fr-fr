@@ -2,29 +2,30 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: 'Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.'
+  description: 'Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200 SERA REMPLACÉ PAR UN NOUVEL EXAMEN, <a href="/learn/certifications/exams/pl-200">PL-200</a>, EN SEPTEMBRE 2020. Vous pourrez obtenir cette certification en passant l’examen MB-200 ou PL-200, en plus de MB-230, jusqu’au retrait du MB-200 le 31 décembre 2020. Après le retrait de l’examen MB-200, vous devrez réussir aux examens PL-200 et MB-230 pour obtenir cette certification.</strong><br/><br/></div></div>
+  <div><strong>MB-200 SERA REMPLACÉ PAR UN NOUVEL EXAMEN, <a href="/learn/certifications/exams/pl-200">PL-200</a>, EN SEPTEMBRE 2020. Vous pourrez obtenir cette certification en passant l’examen MB-200 ou PL-200, en plus de MB-230, jusqu’au retrait du MB-200 le 31 décembre 2020. Après le retrait de l’examen MB-200, vous devrez réussir aux examens PL-200 et MB-230 pour obtenir cette certification.</strong><br/><br/></div></div>
 
-  Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
-subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+  Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
 levels:
 - intermediate
 skills:
-- Effectuer la découverte, la planification et l'analyse
+- Réaliser la découverte, la planification et l’analyse
 - Gérer la conception de l’expérience utilisateur
 - Gérer les entités et les données
 - Mettre en œuvre la sécurité
-- Mettre en œuvre l'intégration
-- Effectuer le déploiement et l’essai des solutions
-- Effectuer la configuration
-- Gérer les cas et la base de connaissances
-- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA)
-- Configurer les Pro des formulaires
+- Mettre en œuvre l’intégration
+- Exécuter le déploiement et le test des solutions
+- Gérer des cas et Knowledge Management
+- Gérer les files d’attente, les droits et les accords de service (SLA)
+- Mettre en œuvre la planification
+- Mettre en œuvre Omnicanal pour le service après-vente
+- Gérer les analyses
 roles:
 - functional-consultant
 type: role-based
@@ -52,7 +53,7 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Parcours vers la certification
   description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
@@ -64,12 +65,12 @@ resources:
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 

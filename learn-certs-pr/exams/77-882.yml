@@ -6,36 +6,25 @@ metadata:
 uid: exam.77-882
 displayName: 77-882
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Microsoft Office Excel 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Excel 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
-subTitle: Microsoft Office Excel 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Excel 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+  L’utilisateur de niveau de base de Microsoft Office Excel 2010 doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau des fonctionnalités et des fonctions. Il doit connaître et savoir utiliser au moins 80% des fonctions et fonctionnalités de Microsoft Office Excel 2010. L’utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des personnes exerçant une variété de fonctions, presque dans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+subTitle: L’utilisateur de niveau de base de Microsoft Office Excel 2010 doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau des fonctionnalités et des fonctions. Il doit connaître et savoir utiliser au moins 80% des fonctions et fonctionnalités de Microsoft Office Excel 2010. L’utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des personnes exerçant une variété de fonctions, presque dans tous les domaines de la vie professionnelle, estudiantine et personnelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-882&examname=Excel%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-882
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
-- Gérer l’environnement de la feuille de calcul
-- Créer des données de cellules
-- Formater des cellules et des feuilles de calcul
-- Gérer des feuilles de calcul et des classeurs
+- Gérer l’environnement de la feuille de travail
+- Créer des données dans une cellule
+- Formater des cellules et des feuilles de travail
+- Gérer des feuilles de travail et des manuels
 - Appliquer des formules et des fonctions
 - Présenter des données visuellement
-- Partager des données d’une feuille de calcul avec d'autres utilisateurs
+- Partager les données de la feuille de travail avec d’autres utilisateurs
 - Analyser et organiser des données
 roles:
 - business-user
@@ -46,7 +35,7 @@ relatedCertifications:
     uid: none
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

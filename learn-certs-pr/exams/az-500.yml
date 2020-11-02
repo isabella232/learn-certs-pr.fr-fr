@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour 24 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
@@ -17,8 +17,8 @@ summary: |-
 
   Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
 
-  Le candidat à cet examen doit être familiarisé avec le scriptage et l’automatisation, et doit avoir des connaissances approfondies de la mise en réseau et de la virtualisation. Le candidat doit également avoir d’excellentes connaissances avec les capacités du cloud, les produits et les services Azure, et d’autres produits et services Microsoft.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’identité et l’accès, mettre en œuvre une protection de plateforme, gérer les opérations de sécurité et sécuriser les données et les applications.'
+  Le candidat à cet examen doit maîtriser les scripts et l’automatisation, et avoir des connaissances approfondies de la mise en réseau et de la virtualisation. Le candidat doit également avoir d’excellentes connaissances des capacités du cloud, des produits et services Azure, et d’autres produits et services Microsoft.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’identité et l’accès, mettre en œuvre une protection de plateforme, gérer les opérations de sécurité, et sécuriser les données et les applications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -35,11 +35,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Gérer l’identité et l’accès (30-35%)
-- Mettre en œuvre une protection de la plateforme (15-20%)
-- Gérer les opérations de sécurité (25-30%)
-- Sécuriser les données et les applications (20-25%)
+- Mettre en œuvre une Protection de Plateforme (15-20%)
+- Gérer les Opérations de Sécurité (25-30%)
+- Sécuriser les Données et les Applications (20-25%)
 roles:
 - security-engineer
 products:
@@ -72,10 +72,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -83,7 +83,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

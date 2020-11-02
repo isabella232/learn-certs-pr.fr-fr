@@ -8,8 +8,8 @@ displayName: MO-101
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Cet examen évalue sa capacité à personnaliser des environnements Word pour répondre aux besoins d'un projet , et améliorer la productivité. Les documents de niveau expert comprennent notamment des plans commerciaux, des documents de recherche, des livres, des brochures spécialisées et du publipostage. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de Word à un niveau Expert et de compléter les tâches de façon indépendante.
-subTitle: Cet examen évalue sa capacité à créer et à gérer des documents professionnels pour une variété d'objectifs et de situations spécialisés. Cet examen évalue sa capacité à personnaliser des environnements Word pour répondre aux besoins d'un projet et améliorer la productivité. Les documents de niveau expert comprennent notamment des plans commerciaux, des documents de recherche, des livres, des brochures spécialisées et du publipostage.
+  Cet examen couvre l’aptitude à personnaliser les environnements Word pour répondre aux besoins des porjets et améliorer la productivité. Les documents de niveau expert comprennent notamment des plans commerciaux, des documents de recherche, des livres, des brochures spécialisées et du publipostage. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de Word à un niveau expert et de compléter les tâches de manière autonome.
+subTitle: Cet examen évalue les compétences dans la création et la gestion de documents professionnels pour une variété d’objectifs et de situations spécialisés. Cet examen couvre les compétences de personnalisation des environnements Word pour répondre aux besoins d’un projet et améliorer la productivité. Les documents de niveau expert comprennent notamment des plans commerciaux, des documents de recherche, des livres, des brochures spécialisées et du publipostage.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
 providers:
@@ -18,15 +18,17 @@ providers:
 locales:
 - en
 - es-mx
+- fr
+- de
 levels:
 - intermediate
 skills:
-- Gérer les options et les paramètres d’un document
+- Gérer les options et les paramètres des documents
 - Utiliser les fonctionnalités de modification et de mise en forme avancées
 - Créer des éléments personnalisés dans un document
 - Utiliser des fonctionnalités avancées de Word
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word
@@ -43,7 +45,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

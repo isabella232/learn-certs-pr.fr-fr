@@ -1,19 +1,20 @@
 ---
 title: Microsoft Certification help | Microsoft Docs
-description: Microsoft Certification exams
+description: Microsoft Certification help
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/20/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
-### Microsoft Certification help
+# Microsoft Certification help
 
 <div style='color: red;'><strong><font color="red"><br/>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>En savoir plus</a>.</font></strong><br/><br/></div>
 
-Avez-vous besoin d’aide avec les produits de Certification Microsoft ? Veuillez consulter nos options de d'assistance ci-dessous.
+Avez-vous besoin d’aide avec les produits de Certification Microsoft? Veuillez consulter nos options de d'assistance ci-dessous.
 
 ## Comment contacter l’assistance
 

@@ -5,17 +5,17 @@ metadata:
   description: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: |+
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les candidats de niveau expert à l'examen Excel 2016 possèdent une connaissance avancée de l'environnement Excel et ont la capacité de guider les autres dans l'utilisation appropriée des fonctionnalités du programme.
+  Les candidats de niveau expert à l’examen Excel 2016 font preuve d’une maîtrise avancée de l’environnement Word et sont capables de montrer aux autres utilisateurs comment utiliser correctement les fonctions dans Excel.
 
-  Ils créent, gèrent et distribuent des feuilles de calcul professionnelles pour une variété d'objectifs et de situations spécialisés. Ils personnalisent leurs environnements Excel pour répondre aux besoins du projet et améliorer la productivité. Les exemples de classeur de niveau expert incluent des modèles professionnels personnalisés, des graphiques financiers à plusieurs axes, des tableaux d'amortissement et des calendriers d'inventaire. Les rôles des candidats peuvent inclure des comptables, des analystes financiers, des analystes de données, des banquiers commerciaux et autres.
+  Ils créent, gèrent et distribuent des feuilles de calcul professionnelles pour une variété d’objectifs et de situations spécialisés. Ils personnalisent leurs environnements Excel pour répondre aux besoins du projet et améliorer la productivité. Les exemples de classeur de niveau expert incluent des modèles professionnels personnalisés, des graphiques financiers à plusieurs axes, des tableaux d’amortissement et des calendriers d’inventaire. Les candidats peuvent occuper des postes de comptables, d’analystes financiers, d’analystes de données, de banquiers commerciaux et autres.
 
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
-  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
-  - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats de niveau expert à l'examen Excel 2016 possèdent une connaissance avancée de l'environnement Excel et ont la capacité de guider les autres dans l'utilisation appropriée des fonctionnalités du programme.
+  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d’un candidat à l’aide des programmes MOS 2016&#58;
+  - Les instructions de tâche d’examen MOS 2016 n’incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d’exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l’utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
+  - Le format d’examen MOS 2016 intègre plusieurs projets.
+subTitle: Les candidats de niveau expert à l’examen Excel 2016 possèdent une connaissance avancée de l’environnement Excel et sont capables de guider les autres dans l’utilisation appropriée des fonctionnalités du programme.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
 providers:
@@ -34,17 +34,19 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer les options et les paramètres du classeur (10-15%)
-- Appliquer des formats et des mises en page de données personnalisés (20-25%)
+- Gérer des options et des paramètres du classeur (10-15%)
+- Appliquer des formats et des mises en page personnalisés (20-25%)
 - Créer des formules avancées (35-40%)
-- Créer des graphiques et des tables avancés (25-30%)
+- Créer des tableaux et des graphiques avancés (25-30%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-excel-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -55,7 +57,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

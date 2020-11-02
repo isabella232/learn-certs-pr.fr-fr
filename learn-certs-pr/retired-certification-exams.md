@@ -2,12 +2,13 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Examens dont le retrait est prévu
 
@@ -54,27 +55,21 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | [70-777](/learn/certifications/exams/70-777): Implementing Microsoft Azure Cosmos DB Solutions |
 | [70-778](/learn/certifications/exams/70-778): Analyzing and Visualizing Data with Power BI |
 | [70-779](/learn/certifications/exams/70-779): Analyzing and Visualizing Data with Microsoft Excel |
-| [MB2-716](/learn/certifications/exams/ms2-716): Microsoft Dynamics 365 Customization and Configuration |
-| [MB6-894](/learn/certifications/exams/ms6-894): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |
-| [MB6-897](/learn/certifications/exams/ms6-897): Microsoft Dynamics 365 for Retail |
-| [MB6-898](/learn/certifications/exams/ms6-898): Microsoft Dynamics 365 for Talent |
+| [MB2-716](/learn/certifications/exams/mb2-716): Microsoft Dynamics 365 Customization and Configuration |
+| [MB6-894](/learn/certifications/exams/mb6-894): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |
+| [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
+| [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
 | Cette sera retirée 31 décembre 2020 |
 | --- |
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
-| Cette sera retirée le mercredi 30 septembre 2020 |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
-
-
 ## Examens récemment retirés
 
 À des fins de référence, les examens qui ont été retirés au cours de la dernière année contiennent un lien vers leur page de détails d'examen pour une période de 12 mois.
 
-Basé sur les rôles| | |
+| Role-based| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 mai, 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 mai, 2019
@@ -84,12 +79,14 @@ Basé sur les rôles| | |
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (publié le 24 septembre 2018) | 3 janvier 2019
 | AZ-202 | Microsoft Azure Developer Certification Transition (publié le 24 septembre 2018) | 31 mars 2019
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 Août, 2020
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 juin, 2019
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 31Août, 2020
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 31Août, 2020
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 septembre, 2019
-| [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | 31Août, 2020
-| [MS-301](/learn/certifications/exams/ms-301) | Deploying Microsoft 365 Teamwork | 31Août, 2020
+| [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | 31 Août, 2020
+| [MS-301](/learn/certifications/exams/ms-301) | Deploying SharePoint Server Hybrid | 31 Août, 2020
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 septembre, 2019
 
 <br/>
@@ -116,7 +113,7 @@ Basé sur les rôles| | |
 | 70-532 | Developing Microsoft Azure Solutions | 31 décembre 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 décembre 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31 décembre 2017
-| 70-535 | Architecting Microsoft Azure Solutions | lundi 31 décembre 2018
+| 70-535 | Architecting Microsoft Azure Solutions | 31 décembre 2018
 | 70-680 | Windows 7, Configuring | 31 juillet 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 juillet 2018
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 juillet 2018
@@ -254,7 +251,7 @@ Basé sur les rôles| | |
 | 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 30 juin 2011
 | 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 30 juin 2011
 | 70-444 | TS: Bing Maps Platform, Application Development | 31 décembre 2011
-| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 30 juin 2011
+| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | June 30, 2011
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 30 juin 2011
 | 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 30 juin 2011
 | 70-448 | Microsoft SQL Server 2008, Business Intelligence Development and Maintenance | 31 juillet 2016

@@ -7,19 +7,19 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen a été mis à jour le 21 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen a été mis à jour le 17 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des architectes ou ingénieurs possédant une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
+  Les candidats à cet examen sont des architectes ou ingénieurs possédant une large expérience et connaissance du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
 
   Les responsabilités d’un architecte ou d’un ingénieur dans le cadre des charges de travail SAP sur Azure comprennent l’élaboration des recommandations sur les services et l’ajustement des ressources de manière appropriée pour obtenir une résilience, une performance, une mise à l’échelle, un provisionnement, un dimensionnement, et un contrôle optimaux.
 
   Les architectes ou ingénieurs travaillant sur les charges de travail SAP sur Azure collaborent avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
 
-  Le candidat à cet examen doit posséder une large expérience et des connaissances des applications SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
+  Le candidat à cet examen doit posséder une large expérience et connaissance des applications SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
 
   Pour cet examen, il est fortement recommandé d’avoir une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP HANA et Linux.
-subTitle: 'Cet examen évalue votre aptitude à accomplir les tâches techniques suivantes: la migration des charges de travail SAP vers Azure, la conception d’une solution Azure pour prendre en charge les charges de travail SAP, le développement et le déploiement de charges de travail Azure SAP, et l’opérationnalisation de l’architecture Azure SAP.'
+subTitle: 'Cet examen évalue vos compétences dans l’accomplissement des tâches techniques suivantes: la migration des charges de travail SAP vers Azure, la conception d’une solution Azure pour prendre en charge les charges de travail SAP, le développement et le déploiement de charges de travail Azure SAP et l’opérationnalisation de l’architecture Azure SAP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -31,10 +31,10 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour 21 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
-- Migrer les charges de travail SAP vers Azure (10-15%)
-- Concevoir une solution Azure pour prendre en charge les charges de travail SAP (20-25%)
-- Construire et déployer Azure pour les charges de travail SAP (35-40%)
+- Le contenu de cet examen a été mis à jour le 17 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Migrer les charges de travail SAP dans Azure (10-15%)
+- Concevoir une solution Azure pour soutenir les charges de travail SAP (20-25%)
+- Développer et déployer des charges de travail SAP pour Azure (35-40%)
 - Valider l’infrastructure Azure pour les charges de travail SAP (10-15%)
 - Rendre l’architecture Azure SAP opérationnelle (10-15%)
 roles:
@@ -63,10 +63,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -74,7 +74,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

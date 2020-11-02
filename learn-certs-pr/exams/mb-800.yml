@@ -8,7 +8,7 @@ displayName: MB-800
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les candidats à cet examen sont des consultants fonctionnels qui implémentent des processus de base de configuration d’applications pour les petites et moyennes entreprises. Ils implémentent et configurent l’application Dynamics 365 Business Central, y compris la mise en place de la fonctionnalité d’application de base et des modules et la migration des données vers Business Central.
+  Les candidats à cet examen sont des consultants fonctionnels qui implémentent des processus de base de configuration d’applications pour les petites et moyennes entreprises. Ils implémentent et configurent l’applicationBusiness Central de Dynamics 365, y compris la mise en place de la fonctionnalité d’application de base et des modules et la migration des données vers Business Central.
 
   Les candidats exécutent l’interface utilisateur en collaboration avec l’équipe de mise en œuvre pour fournir une facilité de gestion et de navigation à l’entreprise. Ils configurent les centres de rôle, y compris l’adaptation des perspectives, des indices, des tuiles d’action, des rapports, des graphiques, et l’extension de Business Central à l’aide des composants Microsoft Power Platform.
 
@@ -16,8 +16,8 @@ summary: |-
 
   Les candidats à cet examen sont généralement des spécialistes en un ou plusieurs ensembles de fonctions de Business Central. Ils comprennent le rôle de Business Central en relation avec la suite des applications Dynamics 365.
 
-  <div><strong><br/>Remarque&#58; Cet examen sera disponible en octobre 2020.</strong></div>
-subTitle: 'Cet examen sera disponible en Octobre 2020. Cet examen mesure votre aptitude à réaliser les tâches suivantes: mettre en place Business Central, configurer les finances, configurer les ventes et les achats, et effectuer les opérations de Business Central.'
+  <div><strong><br/>Remarque&#58; Cet examen sera disponible aux alentours du 6 octobre 2020.</strong></div>
+subTitle: 'Cet examen sera disponible aux alentours du 6 octobre 2020. Cet examen mesure votre aptitude à réaliser les tâches suivantes: mettre en place Business Central, configurer les finances, configurer les ventes et les achats, et effectuer les opérations de Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -25,15 +25,28 @@ locales:
 levels:
 - intermediate
 skills:
-- Configurer Business Central (20 à 25%)
-- Configurer les finances (25 à 30%)
-- Configurer les ventes et les achats (10 à 15%)
-- Effectuer les opérations de Business Central (30 à 35%)
+- Configurer Business Central (20-25%)
+- Configurer les finances (25-30%)
+- Configurer les ventes et les achats (10-15%)
+- Effectuer les opérations de Business Central (30-35%)
 roles:
 - functional-consultant
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
@@ -45,10 +58,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -56,7 +69,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

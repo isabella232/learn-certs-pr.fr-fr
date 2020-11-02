@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: Cette certification sera disponible en octobre 2020. Les consultants fonctionnels Dynamics 365 Business Central sont responsables de l’implémentation des processus d’installation des applications de base pour les petites et moyennes entreprises.
+  description: Cette certification sera disponible aux alentours du 6 octobre 2020. Les consultants fonctionnels Dynamics 365 Business Central sont responsables de l’implémentation des processus d’installation des applications de base pour les petites et moyennes entreprises.
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,27 +10,40 @@ summary: |-
 
   Les consultants fonctionnels Dynamics 365 Business Central sont responsables de l’implémentation des processus d’installation des applications de base pour les petites et moyennes entreprises.
 
-  <div><br/><strong>Remarque&#58; Cette certification sera disponible en octobre 2020.</strong></div>
-subTitle: Cette certification sera disponible en octobre 2020. Les consultants fonctionnels Dynamics 365 Business Central sont responsables de l’implémentation des processus d’installation des applications de base pour les petites et moyennes entreprises.
+  <div><br/><strong>Remarque&#58; Cette certification sera disponible aux alentours du 6 octobre 2020.</strong></div>
+subTitle: Cette certification sera disponible aux alentours du 6 octobre 2020. Les consultants fonctionnels Dynamics 365 Business Central sont responsables de l’implémentation des processus d’installation des applications de base pour les petites et moyennes entreprises.
 levels:
 - intermediate
 skills:
-- Configurer Business Central.
-- Configurer les finances.
-- Configurer les ventes et les achats.
-- Effectuer les opérations de Business Central.
+- Configurer Business Central
+- Configurer les finances
+- Configurer les ventes et les achats
+- Effectuer les opérations de Business Central
 roles:
 - functional-consultant
 type: role-based
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
 exams:
 - uid: exam.mb-800
 resources:
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Parcours vers la certification
   description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
@@ -39,12 +52,12 @@ resources:
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 

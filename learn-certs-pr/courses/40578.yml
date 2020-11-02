@@ -1,0 +1,47 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+metadata:
+  title: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+  description: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+uid: course.40578
+courseNumber: '40578-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Tirer parti des technologies Microsoft 365 et Azure pour développer une infrastructure de bureau virtuel Windows.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Cet atelier vous permettra d’acquérir de l’expérience dans la conception de solutions pour le bureau virtuel Windows à l’aide des technologies Microsoft 365 et Azure. Les composants suivants doivent être déterminés dans le cadre des solutions. Le premier consiste en une inscription à Microsoft 365 qui sera exigée pour répondre aux exigences en matière de sécurité, Azure Active Directory, les applications et l’octroi de licences Windows aux utilisateurs. Ensuite, l’infrastructure Azure nécessaire pour prendre en charge l’environnement de bureau virtuel Windows qui a besoin d’être configuré. Finalement, les exigences en matière de mise en réseau devront être déterminées pour assurer une connectivité à l’infrastructure actuelle sur site pour les serveurs des applications, et un bon accès aux bureaux de l’utilisateur et au réseau sur site avec un niveau élevé de sécurité et une latence limitée.
+
+  #### Profil de l’audience
+  Cet atelier est destiné aux architectes du cloud et aux professionnels de l’informatique qui disposent d’une expertise architecturale en matière de conception d’infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure tels que décrits dans les rubriques « À propos de ce cours » et « À la fin du cours ». Ceux qui assistent à cet atelier doivent également être des experts en technologies du cloud non Microsoft, remplir les prérequis du cours et rechercher une formation croisée sur Azure.
+prerequisitesSection: |-
+  Le contenu de l’atelier suppose une expertise architecturale de niveau 300 en matière de conception d’infrastructures et de solutions. Nous suggérons aux étudiants de compléter ce prérequis avant de participer à cet atelier.
+  - Cours Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc – Implémenter le bureau virtuel Windows dans l’entreprise
+  #### Leçons
+  - Examiner une étude de cas client
+  - Concevoir une preuve d’une solution de concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique – Implémenter le bureau virtuel Windows dans l’entreprise
+  #### Leçons
+  - Configurer Azure AD Connect avec AD DS.
+  - Créer des groupes Azure AD pour WVD.
+  - Créer un partage de fichiers Azure pour FSLogix.
+  - Créer une image principale pour WVD.
+  - Créer un pool d’hôtes pour les ordinateurs bureau personnels.
+  - Créer un pool d’hôtes et attribuer des applications à distance en pool.
+  - Se connecter au WVD avec le client web.
+  - Mettre en place un suivi pour le WVD.
+

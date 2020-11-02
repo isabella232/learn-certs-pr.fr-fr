@@ -6,33 +6,29 @@ metadata:
 uid: exam.77-887
 displayName: 77-887
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les utilisateurs de Microsoft Word 2010 de niveau expert maîtrisent parfaitement l’utilisation du logiciel Word 2010 au niveau des options et fonctionnalités. Les utilisateurs experts utilisent les fonctionnalités avancées de Word 2010 pour améliorer leurs documents professionnels, créer des documents prêts à la publication et collaborer de manière efficace dans des projets d’édition en groupe. Les utilisateurs experts manipulent les options de Word pour personnaliser leur environnement et répondre aux besoins variables et améliorer la productivité.
-subTitle: Les utilisateurs de Microsoft Word 2010 de niveau expert maîtrisent parfaitement l’utilisation du logiciel Word 2010 au niveau des options et fonctionnalités. Les utilisateurs experts utilisent les fonctionnalités avancées de Word 2010 pour améliorer leurs documents professionnels, créer des documents prêts à la publication et collaborer de manière efficace dans des projets d’édition en groupe. Les utilisateurs experts manipulent les options de Word pour personnaliser leur environnement et répondre aux besoins variables et améliorer la productivité.
+  L’utilisateur de niveau expert de Microsoft Word 2010 maîtrise parfaitement l’utilisation du logiciel Word 2010 au niveau des fonctionnalités et des fonctions. Les utilisateurs experts utilisent les fonctionnalités avancées de Word 2010 pour améliorer leurs documents professionnels, créer des documents prêts à la publication et collaborer de manière efficace dans des projets d’édition en groupe. Les utilisateurs experts manipulent les options de Word pour personnaliser leur environnement et répondre aux besoins variables et améliorer la productivité.
+subTitle: Les utilisateurs de niveau expert de Microsoft Word 2010 maîtrisent parfaitement l’utilisation du logiciel Word 2010 au niveau des options et fonctionnalités. Les utilisateurs experts utilisent les fonctionnalités avancées de Word 2010 pour améliorer leurs documents professionnels, créer des documents prêts à la publication et collaborer de manière efficace dans des projets d’édition en groupe. Les utilisateurs experts manipulent les options de Word pour personnaliser leur environnement et répondre aux besoins variables et améliorer la productivité.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
 - ko
 - nl
 - ar-sa
-- it
 - pt-br
 levels:
 - beginner
 skills:
 - Partager et maintenir des documents (15-20%)
-- Formater du contenu (25-30%)
+- Mettre du contenu en forme (25-30%)
 - Suivre et référencer des documents (20-25%)
-- Effectuer des opérations de fusion de courrier (15-20%)
-- Gérer les macros et les formulaires (25-30%)
+- Procéder à des opérations de fusion des e-mails (15-20%)
+- Gérer des macros et des formes (25-30%)
 roles:
 - business-user
 products:
@@ -42,7 +38,7 @@ relatedCertifications:
     uid: none
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

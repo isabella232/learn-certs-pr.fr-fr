@@ -2,27 +2,25 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform.
+  description: Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></font></div>
 
-  Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform. Elles mettent en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
+  Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform. Ils mettent en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l’intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
 
-  Les candidats doivent posséder des connaissances pratiques solides dans les services Power Platform. Les candidats doivent avoir une compréhension approfondie de leurs capacités, de leurs limites et de leurs contraintes. Ils doivent avoir des connaissances de base des pratiques DevOps pour les solutions Power Platform.
+  Les candidats doivent posséder des connaissances pratiques solides dans les services Power Platform. Les candidats doivent avoir une compréhension approfondie de leurs capacités, de leurs limites et de leurs contraintes. Ils doivent avoir des connaissances de base des pratiques DevOps pour Power Platform.
 
-  Leur expérience en matière de développement pour ce poste doit inclure les services Power Platform, JavaScript, JSON, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, les services web RESTful, ASP.NET, et Power BI.
-
-  <div><br/><strong>Remarque&#58; Cette certification sera disponible aux alentours du vendredi 25 septembre 2020.</strong></div>
-subTitle: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform.
+  Leur expérience en matière de développement pour ce poste doit inclure les services Power Platform, JavaScript, JSON, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, les services web RESTful, ASP.NET et Power BI.
+subTitle: Les candidats à la certification Microsoft Power Platform Developer Associate conçoivent, développent, sécurisent, et dépannent des solutions Power Platform.
 levels:
 - intermediate
 skills:
 - Créer un design technique
 - Configurer Common Data Service
-- Créer et configurer des applications Power Apps
-- Configurer l’automatisation du processus d'affaires
+- Créer et configurer des Power Apps
+- Configurer l’automatisation du processus d’affaires
 - Étendre l’expérience utilisateur
 - Étendre la plateforme
 - Mettre au point des intégrations
@@ -33,12 +31,22 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
 resources:
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Parcours vers la certification
   description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
@@ -47,12 +55,12 @@ resources:
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 

@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
+  description: Les architectes en solutions pour les applications de Finance and Operations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques recommandées dans le secteur et les capacités du logiciel. Ils dirigent les membres de leur équipe afin de mettre en œuvre des solutions Dynamics qui peuvent atteindre les objectifs de mise en œuvre prédéfinis.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
-subTitle: Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
+  Les architectes en solutions pour les applications de Finance and Operations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques recommandées dans le secteur et les capacités du logiciel. Ils dirigent les membres de leur équipe afin de mettre en œuvre des solutions Dynamics qui peuvent atteindre les objectifs de mise en œuvre prédéfinis.
+subTitle: Les architectes en solutions pour les applications de Finance and Operations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques recommandées dans le secteur et les capacités du logiciel. Ils dirigent les membres de leur équipe afin de mettre en œuvre des solutions Dynamics qui peuvent atteindre les objectifs de mise en œuvre prédéfinis.
 levels:
 - advanced
 skills:
@@ -40,7 +40,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Parcours vers la certification
   description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
@@ -52,12 +52,12 @@ resources:
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 

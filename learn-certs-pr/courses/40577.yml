@@ -1,0 +1,54 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Capturer les données de l’Internet des Objets (IoT) des appareils avec Azure IoT Hub.
+- skill: Traiter les données des appareils avec Azure Stream Analytics.
+- skill: Appliquer le modèle Command and Query Responsibility Segregation (CQRS) avec Azure Functions.
+- skill: Développer un modèle de maintenance prédictive à l’aide des carnets de notes Azure Synapse Analytics Spark.
+- skill: Déployer le modèle sur un registre du modèle d’Azure Machine Learning.
+- skill: Déployer le modèle sur une instance Azure Container.
+- skill: Générer des prédictions avec Azure Functions en accédant à un flux de changement de Cosmos DB.
+- skill: Moderniser les applications et intégrer l’intelligence artificielle dans l’application.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Au cours de cet atelier, vous examinerez le processus d’implémentation d’une application moderne grâce aux services Azure. L’atelier portera sur l’approvisionnement d’événements et le modèle Command and Query Responsibility Segregation (CQRS), le chargement des données, la préparation des données, la transformation des données, le service des données, la détection des anomalies, la création d’un modèle de maintenance prédictive et la notation en temps réel d’un modèle de maintenance prédictive.
+
+  #### Profil de l’audience
+  Cet atelier est destiné aux architectes du cloud et aux professionnels de l’informatique qui disposent d’une expertise architecturale en matière de conception d’infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure tels que décrits dans les rubriques « À propos de ce cours » et « À la fin du cours ». Ceux qui assistent à cet atelier doivent également être des experts en technologies du cloud non Microsoft, remplir les prérequis du cours et rechercher une formation croisée sur Azure.
+prerequisitesSection: |-
+  Le contenu de l’atelier suppose une expertise architecturale de niveau 300 en matière de conception d’infrastructures et de solutions. Nous suggérons aux étudiants de compléter ce prérequis avant de participer à cet atelier.
+  - Cours Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc – Innover et moderniser des applications avec les données et l’intelligence artificielle
+  #### Leçons
+  - Examiner l’étude de cas client
+  - Concevoir une preuve d’une solution de concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique – Innover et moderniser des applications avec les données et l’intelligence artificielle
+  #### Leçons
+  - Déployer un simulateur de charge d’usine.
+  - Utiliser Azure Machine Learning pour vous former et enregistrer un modèle de maintenance prédictive.
+  - Créer une Azure Function pour envoyer une télémesure d’événement à Cosmos DB.
+  - Enrichir la télémesure d’événements avec des résultats de maintenance prédictive.
+  - Enrichir la télémesure d’événements avec une détection automatisée des anomalies.
+  - Envoyer les données de télémétrie notées à PostgreSQL.
+  - Moderniser la logique des services afin d’utiliser l’approvisionnement d’événements et CQRS.
+  - Afficher le statut de l’usine dans un rapport de Power BI.
+

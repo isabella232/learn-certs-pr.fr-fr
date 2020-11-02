@@ -6,39 +6,28 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
+  Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
 
-  L'utilisateur principal de PowerPoint 2010 doit maîtriser les outils de productivité et collaborer fréquemment avec d'autres sur des projets et personnaliser son environnement de travail pour plus d’efficacité. Les candidats doivent savoir créer et produire efficacement des diaporamas.
-subTitle: Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
+  L’utilisateur principal de PowerPoint 2010 doit maîtriser les outils de productivité et collaborer fréquemment avec d’autres sur des projets et personnaliser son environnement de travail pour plus d’efficacité. Les candidats doivent connaître et démontrer leur aptitude à créer et produire des diaporamas efficaces et pratiques.
+subTitle: Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
 - Gérer l’environnement PowerPoint
-- Créer une présentation de diapositives
-- Travailler avec des éléments graphiques et multimédias
-- Créer des diagrammes et des tableaux
+- Créer une présentation avec des diapositives
+- Travailler avec des éléments graphiques et multimédia
+- Créer des graphiques et des tableaux
 - Appliquer des transitions et des animations
 - Collaborer sur des présentations
-- Préparer des présentations pour la livraison
-- Délivrer des présentations
+- Préparer des présentations en vue de leur livraison
+- Livrer des présentations
 roles:
 - business-user
 products:
@@ -48,7 +37,7 @@ relatedCertifications:
     uid: none
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

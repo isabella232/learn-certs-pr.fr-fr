@@ -7,15 +7,14 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour lundi 28 septembre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen a été mis à jour le 28 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les architectes de solutions des applications de finance et d’opérations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques métiers recommandées, les capacités logicielles, et l’implémentation des résultats afin de pouvoir diriger des membres d’équipe de mise en œuvre pour implémenter les solutions Dynamics qui peuvent réaliser les objectifs de mise en œuvre prédéfinis.
+  Les architectes en solutions pour les applications de Finance and Operations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques recommandées dans le secteur et les capacités du logiciel. Ils dirigent les membres de leur équipe afin de mettre en œuvre des solutions Dynamics qui peuvent atteindre les objectifs de mise en œuvre prédéfinis.
 
-  Un architecte de solutions est responsable de l'intégrité et de la livraison réussie de la solution de bout en bout. L'architecte fournit des conseils essentiels pendant les préventes tout au long du processus de conception et continue de surveiller tout le reste du cycle de vie du projet afin de régler les problèmes qui surviennent tout au long de la mise en œuvre et d'assurer la réalisation des objectifs de mise en œuvre.
+  Un architecte de solutions est responsable de l’intégrité et de la livraison réussie de la solution de bout en bout. L’architecte fournit des conseils essentiels pendant les préventes tout au long du processus de conception et continue de surveiller tout le reste du cycle de vie du projet afin de régler les problèmes qui surviennent tout au long de la mise en œuvre et d’assurer la réalisation des objectifs de mise en œuvre.
 
-  L'architecte de solutions doit posséder une vaste connaissance et expérience des normes de l'industrie et des capacités des produits. L'architecte de solution doit posséder une vaste expertise dans les domaines fonctionnels et techniques de la solution Dynamics. Ils devraient connaître les plates-formes, les outils et les secteurs fonctionnels comme les finance, la gestion de la chaîne d'approvisionnement et la fabrication. En outre, il doit avoir d’importantes connaissances d'un ou de plusieurs secteurs des clients.
+  L’architecte en solutions doit avoir d’importantes connaissances et expérience des normes du secteur et des capacités des produits. L’architecte de solution doit posséder une vaste expertise dans les domaines fonctionnels et techniques de la solution Dynamics. Il doit connaître les plates-formes, les outils et les secteurs fonctionnels comme les finance, la gestion de la chaîne d’approvisionnement et la fabrication. En outre, il doit avoir d’importantes connaissances d’un ou de plusieurs secteurs des clients.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: identifier les exigences des solutions, concevoir les composants des solutions et définir le test des solutions et des stratégies de gestion.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -25,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour lundi 28 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 28 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Identifier les exigences des solutions (30-35%)
 - Concevoir les composants des solutions (40-45%)
 - Définir le test des solutions et des stratégies de gestion (25-30%)
@@ -49,13 +48,13 @@ resources:
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
-- title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
@@ -63,7 +62,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les Règles applicables aux examens et FAQ.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

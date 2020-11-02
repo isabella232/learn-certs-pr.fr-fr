@@ -2,24 +2,24 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Le Microsoft 365 Enterprise Administrator participe à l’évaluation, la planification, la migration, le déploiement et la gestion des services Microsoft 365.'
+  description: 'Le Microsoft 365 Enterprise Administrator participe à l’évaluation, la planification, la migration, le déploiement et la gestion des services Microsoft 365.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
+  Les Microsoft 365 Enterprise Administrators évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 
-  <div><br/><strong>La certification MCSE Productivity solutions Expert sera retirée le 31 janvier 2021. Par conséquent, la certification MCSE Productivity solutions Expert ne constituera pas une option de prérequis pour la certification Microsoft 365 Certified&#58; Enterprise Administrator Expert après la date du 31 janvier 2022 (1 an après le retrait de MCSE).</strong></div>
-subTitle: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
+  <div><br/><strong>La certification MCSE&#58; Productivity Solutions Expert sera retirée le 31 janvier 2021. Elle continuera d’être considérée comme une option de prérequis pour cette certification jusqu’au 31 janvier 2022 (un an après le retrait de la certification). </strong></div>
+subTitle: Les Microsoft 365 Enterprise Administrators évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 levels:
 - advanced
 skills:
 - Concevoir et mettre en œuvre les services Microsoft 365
 - Gérer l’identité et les rôles des utilisateurs
-- Gérer l'accès et l’authentification
-- Planifier les charges de travail et les applications d’Office 365
-- Mettre en œuvre des services les périphériques modernes
+- Gérer l’accès et l’authentification
+- Planifier les charges de travail et les applications d’Office 365
+- Mettre en œuvre les services des périphériques modernes
 - Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365
 - Gérer la gouvernance et la conformité de Microsoft 365
 roles:
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false
@@ -55,10 +53,10 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

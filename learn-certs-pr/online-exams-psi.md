@@ -2,16 +2,17 @@
 title: À propos des examens en ligne de PSI | Microsoft Docs
 description: À propos des examens en ligne de PSI 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # À propos des examens en ligne de PSI
 
-Les examens des fondamentaux et des certifications basées sur les rôles faisant partie de [l’offre d’examen pour les chercheurs de travail](https://aka.ms/skillscert) doivent être pris en ligne par le biais de PSI. Passer un examen en ligne fournit une expérience complètement numérique dans le confort de votre maison ou bureau tout en maintenant l’intégrité des résultats de l’examen en étant contrôlé par un surveillant par le biais d’une webcam et d’un microphone. Pour comprendre à quoi ressemble cette expérience [visionnez la vidéo YouTube de PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) et informez-vous au sujet des examens surveillés en ligne avec PSI.
+Les examens de certification sur les bases et basées sur les rôles qui font partie de [l’offre d’examen pour demandeurs d'emploi USD15](https://aka.ms/skillscert) doivent être passés en ligne avec PSI, le partenaire d’examen de Microsoft pour cette offre. Passer un examen en ligne fournit une expérience complètement numérique dans le confort de votre maison ou bureau tout en maintenant l’intégrité des résultats de l’examen en étant contrôlé par un surveillant par le biais d’une webcam et d’un microphone. Pour comprendre à quoi ressemble cette expérience [visionnez la vidéo YouTube de PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) et informez-vous au sujet des examens surveillés en ligne avec PSI.
 
 ## <a name="participating-countries-and-supported-languages"></a> Pays participants et langues prises en charge
 
@@ -23,7 +24,7 @@ Les examens en ligne de PSI sont disponibles dans la plupart des pays et peuvent
 2. Complétez le [test système](#run-a-system-check) exigé sur le même ordinateur et au même endroit où vous effectuerez l’examen afin de s’assurer de la compatibilité avec le logiciel de surveillance en ligne.
 3. Confirmez que votre identifiant est compatible (lisez les [exigences de vérification d’identité](/learn/certifications/online-exams-psi#identity-verification-requirements) ci-dessous) et que le nom de votre profil de Certification Microsoft que vous avez utilisé pour fixer le rendez-vous de l’examen est à jour. Pour passer l’examen, le nom que vous avez utilisé pour fixer le rendez-vous de l’examen doit correspondre à l’identifiant que vous présenterez.
 
-Si vous souhaitez demander des aménagements d’examen, veuillez [présenter une demande d’aménagement avec PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) avant de planifier l’examen. PSI vous répondra dans les 24 à 48 heures ouvrables.
+Si vous souhaitez demander des aménagements d’examen, veuillez [présenter une demande d’aménagement avec PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) avant de planifier l’examen. PSI vous répondra dans les 24 à 48 heures ouvrables.
 
 ## <a name="system-requirements"></a> Configuration système requise
 
@@ -45,7 +46,7 @@ Vous devrez peut-être configurer votre sécurité Internet et votre logiciel an
             <td>
             <p>Windows 8, 8.1, 10, 32bit (x86) et 64bit (x64)</p>
             <p>Mac OS X 10.13 et ultérieur</p>
-            <p>Remarque : Les systèmes d’exploitation Windows doivent être approuvés par une validation Windows authentique.</p>
+            <p>Remarque: Les systèmes d’exploitation Windows doivent être approuvés par une validation Windows authentique.</p>
             <p>
             Windows Vista, Windows XP, Windows 7, et tous les systèmes d’exploitation basés sur Linux/Unix sont strictement interdits.</p>
             </td>
@@ -98,7 +99,7 @@ Vous devrez peut-être configurer votre sécurité Internet et votre logiciel an
                 <p><strong>Son et microphone</strong></p>
             </td>
             <td>
-                <p>Vérifiez que le son et le microphone ne sont pas mis en sourdine dans Windows.</p><p> Les utilisateurs de Mac peuvent devoir permettre le navigateur sécurisé PSI dans leurs « Préférences système: Sécurité et confidentialité : Confidentialité » pour le micro, la caméra, l’automatisation et la surveillance des entrées.</p>
+                <p>Vérifiez que le son et le microphone ne sont pas mis en sourdine dans Windows.</p><p> Les utilisateurs de Mac peuvent devoir permettre le navigateur sécurisé PSI dans leurs « Préférences système: Sécurité et confidentialité: Confidentialité » pour le micro, la caméra, l’automatisation et la surveillance des entrées.</p>
             </td>
         </tr>
         <tr>
@@ -143,7 +144,7 @@ Votre bureau ou votre domicile doit remplir les conditions suivantes:
 
 ### Communiquer avec l'accueil et le surveillant:
 
-- **Téléphone.** Au cours de la procédure d’enregistrement, vous serez invité à saisir votre numéro de téléphone.  Si des problèmes techniques surviennent, l’assistance technique vous contactera sur le numéro de téléphone fourni.
+- **Téléphone.** Au cours de la procédure d’enregistrement, vous serez invité à saisir votre numéro de téléphone. Si des problèmes techniques surviennent, l’assistance technique vous contactera sur le numéro de téléphone fourni.
 - **Fenêtre de discussion en ligne.** Toutes les communications avec l’accueil et le surveillant s’effectueront par le biais de la fenêtre de conversation.
 - **Langue.** Toute communication avec l’agent d’accueil et le surveillant s’effectue uniquement en anglais.
 
@@ -154,14 +155,14 @@ Votre bureau ou votre domicile doit remplir les conditions suivantes:
   - Passeport
   - Carte d’identité (nationale/d’état/de province)
   - Carte d’étranger résident (carte verte, résident permanent, visa)
-  - Carte rédigée dans la langue locale (pas en caractères romains) et délivrée par un gouvernement — _uniquement acceptée si délivrée par le pays dans lequel le candidat passe l’épreuve_
-- Une photo de votre pièce d'identité et de vous-même sera prise à l'aide de la webcam
-- Le nom figurant sur votre pièce d’identité doit être exactement identique au nom de votre profil de certification Microsoft et de PSI
+  - Carte rédigée dans la langue locale (pas en caractères romains) et délivrée par un gouvernement —_uniquement acceptée si délivrée par le pays dans lequel le candidat passe l’épreuve_
+- Une photo de votre pièce d'identité et de vous-même sera prise à l'aide de la webcam.
+- Le nom figurant sur votre pièce d’identité doit être exactement identique au nom de votre profil de certification Microsoft et de PSI.
 Si vous êtes en train de mettre à jour ou de renouveler votre pièce d'identité, notez que les formulaires juridiques de changement de nom, y compris les formulaires de renouvellement de la carte d'identité, seront refusés pour les examens surveillés en ligne.
 
 ### Scan de l'espace de travail:
 
-- Avec votre webcam, téléphone ou ordinateur portable, vous devrez balayer lentement la pièce de gauche à droite pour montrer les murs environnants et balayer de haut en bas pour montrer le sol et le plafond. Si vous n'êtes pas en mesure d'effectuer un balayage de la pièce, vous ne pourrez pas continuer ni passer l'examen
+- Avec votre webcam, téléphone ou ordinateur portable, vous devrez balayer lentement la pièce de gauche à droite pour montrer les murs environnants et balayer de haut en bas pour montrer le sol et le plafond. Si vous n'êtes pas en mesure d'effectuer un balayage de la pièce, vous ne pourrez pas continuer ni passer l'examen.
 - Vous devrez ensuite balayer tout votre espace de travail. Le surveillant vérifie les risques liés à la sécurité, notamment, mais pas seulement:
   - Écrans supplémentaires (doivent être débranchés et non orientés vers vous)
   - Ordinateurs supplémentaires (doivent être éteints et les écrans doivent être noirs)
@@ -220,7 +221,7 @@ La procédure de démarrage et d'enregistrement dure environ 15 minutes.
 - Avant de démarrer votre examen, passez en revue les [PSI Web Delivery - FAQ sur les examens en ligne surveillés à distance](https://home.psiexams.com/#/faq) afin de savoir à quoi vous devez vous attendre.
 - Assurez-vous que votre appareil portable soit proche, au cas où le surveillant aurait besoin de vous contacter.
 
-Pour commencer la session de l’examen et vous connecter avec un surveillant :
+Pour commencer la session de l’examen et vous connecter avec un surveillant:
 
 1. Connectez-vous à votre [tableau de bord de certification Microsoft](https://aka.ms/CertDashboard) avec l’adresse électronique associée à votre profil de ertification Microsoft qui est enregistrée pour l’examen.
 2. Sélectionnez « **Commencer l’examen en ligne.** » dans la section **Rendez-vous**.
@@ -233,7 +234,7 @@ Pour commencer la session de l’examen et vous connecter avec un surveillant :
 
 Si un problème technique se produit durant l’épreuve, le surveillant essaiera de vous contacter par l’intermédiaire de la fenêtre de conversation. Si vous rencontrez un problème après l’examen, [contactez l’assistance PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112). Veuillez enregistrer le numéro du Rapport d’incident fourni.
 
-Vous recevrez la notification de votre réussite/échec quelques minutes après la fin de l'examen. Vous recevrez également un courrier électronique de PSI contenant votre note d’examen ainsi que des remarques sur vos performances dans les domaines de compétence évalués.  
+Vous recevrez la notification de votre réussite/échec quelques minutes après la fin de l'examen. Vous recevrez également un courrier électronique de PSI contenant votre note d’examen ainsi que des remarques sur vos performances dans les domaines de compétence évalués.
 
 Une fois que vous aurez terminé votre examen avec PSI, **désinstallez le fichier exécutable pour le navigateur sécurisé de PSI** en le supprimant des Applications et Fonctions sur Windows 10, ou en le déplaçant vers la Poubelle sur MacOS.
 
@@ -251,7 +252,7 @@ Non, vous ne devez pas vous inscrire à un examen en ligne avec PSI sou votre sy
 
 ### Comment puis-je demander des aménagements d’examen?
 
-Afin de demander des aménagements d’examen, veuillez [présenter une demande d’aménagements d’examen à PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) avant de planifier votre examen. PSI répondra à votre demande dans un délai de 24 à 48 heures ouvrables.
+Afin de demander des aménagements d’examen, veuillez [présenter une demande d’aménagements d’examen à PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) avant de planifier votre examen. PSI répondra à votre demande dans un délai de 24 à 48 heures ouvrables.
 
 ### Comment puis-je planifier un examen en ligne avec PSI?
 
@@ -259,15 +260,15 @@ Consultez la section « **[Inscription à un examen en ligne](/learn/certificat
 
 ### Puis-je reporter ou annuler mon examen?
 
-Oui, mais vous devez le faire au plus tard 24 heures avant le rendez-vous de votre examen. Connectez-vous à votre [tableau de bord de certification Microsoft](https://aka.ms/CertDashboard) et sélectionnez le bouton « **Annuler/Reporter** » dans la section des **Rendez-vous**. Vous serez redirigé au site de PSI afin d’annuler ou de reporter votre examen.  
+Oui, mais vous devez le faire au plus tard 24 heures avant le rendez-vous de votre examen. Connectez-vous à votre [tableau de bord de certification Microsoft](https://aka.ms/CertDashboard) et sélectionnez le bouton « **Annuler/Reporter** » dans la section des **Rendez-vous**. Vous serez redirigé au site de PSI afin d’annuler ou de reporter votre examen.
 
 Remarque: L’offre de l’examen du chercheur de travail à 15 USD doit être réclamée avant le 31 décembre 2020, et l’examen doit être passé avant le 31 mars 2021. Le report de l’examen peut être effectué à tout moment avant le 31 décembre 2020. Toutefois, si vous annulez votre rendez-vous d’examen après le 31 décembre 2020, vous ne pourrez plus le planifier à nouveau en profitant de l’offre à prix réduit.
 
-### Puis-je repasser l’examen au prix réduit de 15 USD? 
+### Puis-je repasser l’examen au prix réduit de 15 USD?
 
-Non, l’offre pour l’examen vous permet de vous inscrire et de vous présenter à un (1) examen de certification Microsoft valable à un prix réduit de 15 USD conformément aux [Conditions générales](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions) de l’offre. Toutefois, vous pourrez repasser un examen de certification au prix normal en visitant la page des examens de certification sélectionnée et en cliquant le bouton « Planifier avec Pearson VUE ».  
+Non, l’offre pour l’examen vous permet de vous inscrire et de vous présenter à un (1) examen de certification Microsoft valable à un prix réduit de 15 USD conformément aux [Conditions générales](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions) de l’offre. Toutefois, vous pourrez repasser un examen de certification au prix normal en visitant la page des examens de certification sélectionnée et en cliquant le bouton « Planifier avec Pearson VUE ».
 
-### Il semble qu’il serait plus facile de tricher si je ne me trouve pas dans un centre d’examens. Les examens en ligne sont-ils sécurisés ?
+### Il semble qu’il serait plus facile de tricher si je ne me trouve pas dans un centre d’examens. Les examens en ligne sont-ils sécurisés?
 
 Nous nous engageons à protéger l’intégrité de nos examens de certification, quelle que soit la manière dont ils sont fournis. Lorsque vous passez un examen en ligne, vous devez d’abord installer un navigateur sécurisé qui applique des protections rigoureuses tout au long de la procédure de l’examen, et vous devez répondre aux exigences de la [configuration système](/learn/certifications/online-exams-psi#system-requirements) et du [protocole d’examen](/learn/certifications/online-exams-psi#testing-protocol-requirements).
 
@@ -275,7 +276,7 @@ Nous nous engageons à protéger l’intégrité de nos examens de certification
 
 Non. Les examens sont équivalents en termes de difficulté.
 
-### Puis-je prendre des notes pendant mon examen en ligne ?
+### Puis-je prendre des notes pendant mon examen en ligne?
 
 Non. Cette option n’est pas disponible avec les examens en ligne de PSI. Consulter les [exigences du protocole d’examen](/learn/certifications/online-exams-psi#testing-protocol-requirements).
 
@@ -321,21 +322,21 @@ Fermez toutes les applications identifiées comme étant en cours d’exécution
 
 Déconnectez-vous de votre tableau de bord de certification Microsoft et initiez la procédure de connexion à nouveau à l’aide d’un navigateur basé sur Chrome. Cliquez sur le bouton **Démarrer l’examen**. *Notez que le bouton sera actif au plus tôt 15 minutes avant l’heure prévue pour le rendez-vous.*
 
-### Que dois-je faire si un surveillant ne se joint pas à ma session?
+### Que dois-je faire si un surveillant ne se joint pas à ma session ?
 
 Cliquez avec le bouton droit n’importe où sur la page du navigateur sécurisé de PSI et sélectionnez « Recharger », ou sélectionnez « Afficher » dans le coin supérieur gauche et puis « Recharger ». Si cela ne fonctionne pas, fermez le navigateur sécurisé de PSI et redémarrez-le. Notez que vous ne serez **pas** capable de vous connecter ou de démarrer votre examen avant au moins 15 minutes précédant l’heure de votre rendez-vous.
 
 ## FAQ sur le relevé de notes
 
-### Comment et quand vais-je recevoir mes résultats d'examen?
+### Comment et quand vais-je recevoir mes résultats d'examen?
 
 Vous recevrez la notification de votre réussite/échec quelques minutes après la fin de l'examen. Vous recevrez également un courrier électronique de PSI contenant votre note d’examen ainsi que des remarques sur vos performances dans les domaines de compétence évalués. Le prestataire de services d’examen transmettra votre note à Microsoft dans un délai de 24 heures.
 
-### Comment se présente le relevé de notes?
+### Comment se présente le relevé de notes?
 
 Le relevé de notes est un courrier électronique contenant une note numérique se rapportant à vos performances globales à l’examen, votre statut de réussite/d’échec, des informations sur vos performances dans chaque domaine de compétence évalué pendant l’examen ainsi que des détails sur la façon d’interpréter vos résultats et les étapes suivantes.
 
-### À quoi correspondent les pourcentages figurant dans le relevé de notes?
+### À quoi correspondent les pourcentages figurant dans le relevé de notes?
 
 Les pourcentages montrent vos performances dans chaque section ou domaine de compétence, telles qu’évaluées lors de l’examen. Ces pourcentages fournissent des informations relatives à vos performances par section. Des pourcentages plus élevés reflètent une meilleure performance.
 
@@ -349,17 +350,17 @@ Veuillez ignorer la barre des « éléments d’enquête non notés » si elle
 
 Non, nous ne fournissons pas de niveau moins détaillé de vos performances autre que celui qui est fourni dans votre relevé de notes.
 
-### Les pourcentages du relevé de notes indiquent que j’ai obtenu plus de 70 %. Pourquoi n'ai-je pas réussi l'examen?
+### Les pourcentages du relevé de notes indiquent que j’ai obtenu plus de 70%. Pourquoi n'ai-je pas réussi l'examen?
 
 Chaque section de l'examen contient un nombre différent de questions. Par conséquent, les résultats de chaque section individuelle d'examen peuvent ne pas refléter votre résultat d'examen final. En d’autres termes, les pourcentages reportés pour chaque section ne représentant pas une indication directe de votre statut de réussite/échec.
 
 En outre, les candidats croient souvent à tort qu'ils doivent répondre correctement à 70 pour cent des questions pour réussir l'examen parce que la note de passage est de 700. Il s'agit toutefois d'une note échelle. Le pourcentage réel de questions auxquelles vous devez répondre correctement varie d'un examen à l'autre. Il peut être supérieur ou inférieur à 70 pour cent, en fonction de l'opinion des spécialistes qui nous ont aidés à définir la note de passage au cours de la mise au point de l'examen, de l'entretien constant et selon la difficulté des questions qui vous sont posées à l'examen.
 
-### Où puis-je trouver des informations supplémentaires sur les éléments pour lesquels j'ai des lacunes?
+### Où puis-je trouver des informations supplémentaires sur les éléments pour lesquels j'ai des lacunes?
 
 Bien que les examens de certification Microsoft fournissent des remarques sur les domaines dans lesquels les candidats doivent améliorer leurs compétences, les examens ne sont pas conçus pour fournir un diagnostic ou un rapport détaillé. Nous vous encourageons à revoir la section des « Compétences mesurées » sur la page des détails de l’examen concernant l’exploitation des ressources d’apprentissage en bas de la page d’examen sur [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) et d’évaluer honnêtement vos compétences par rapport à ce qui est évalué dans l’examen. La meilleure façon de procéder consiste à exécuter les tâches énumérées, en notant les difficultés que vous rencontrez. Entraînez-vous jusqu'à ce que vous n'ayez plus de difficultés.
 
-Vous pouvez également demander à d'autres personnes comment elles effectuent ces tâches. Procèdent-elles différemment ? Essayez d’en comprendre les raisons. Lisez les livres blancs, consultez les [Microsoft Docs](https://docs.microsoft.com?WT.mc_id=gsi) and [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) pour obtenir des informations supplémentaires sur les tâches figurant dans l’examen.
+Vous pouvez également demander à d'autres personnes comment elles effectuent ces tâches. Procèdent-elles différemment? Essayez d’en comprendre les raisons. Lisez les livres blancs, consultez les [Microsoft Docs](https://docs.microsoft.com?WT.mc_id=gsi) and [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) pour obtenir des informations supplémentaires sur les tâches figurant dans l’examen.
 
 En outre, des [Microsoft Official Practice Tests (tests d’entraînement Microsoft officiels)](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 

@@ -6,29 +6,25 @@ metadata:
 uid: exam.77-888
 displayName: 77-888
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les utilisateurs de Microsoft Office Excel 2010 de niveau expert maîtrisent parfaitement l’utilisation du logiciel Excel 2010 au niveau des options et fonctionnalités. Les utilisateurs experts maîtrisent les formules avancées, les fonctions et les outils d'analyse des données. Les utilisateurs experts peuvent manipuler les données pour l’analyse, la présentation et la collaboration. De plus, les utilisateurs experts peuvent manipuler les options d’Excel pour personnaliser leur environnement et répondre aux besoins variables et améliorer leur productivité.
-subTitle: Les utilisateurs de Microsoft Office Excel 2010 de niveau expert maîtrisent parfaitement l’utilisation du logiciel Excel 2010 au niveau des options et fonctionnalités. Les utilisateurs experts maîtrisent les formules avancées, les fonctions et les outils d'analyse des données. Les utilisateurs experts peuvent manipuler les données pour l’analyse, la présentation et la collaboration. De plus, les utilisateurs experts peuvent manipuler les options d’Excel pour personnaliser leur environnement et répondre aux besoins variables et améliorer leur productivité.
+  Les utilisateurs de niveau expert de Microsoft Office-Excel 2010 maîtrisent parfaitement l’utilisation du logiciel Excel 2010 au niveau des fonctions et fonctionnalités. Les utilisateurs experts maîtrisent les formules avancées, les fonctions et les outils d’analyse des données. Les utilisateurs experts peuvent manipuler les données pour l’analyse, la présentation et la collaboration. De plus, les utilisateurs experts peuvent manipuler les options d’Excel pour personnaliser leur environnement, répondre aux besoins variables et améliorer leur productivité.
+subTitle: Les utilisateurs de Microsoft Office Excel 2010 de niveau expert maîtrisent parfaitement l’utilisation du logiciel Excel 2010 au niveau des fonctions et fonctionnalités. Les utilisateurs experts maîtrisent les formules avancées, les fonctions et les outils d’analyse des données. Les utilisateurs experts peuvent manipuler les données pour l’analyse, la présentation et la collaboration. De plus, les utilisateurs experts peuvent manipuler les options d’Excel pour personnaliser leur environnement, répondre aux besoins variables et améliorer leur productivité.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
 - ko
 - nl
 - ar-sa
-- it
 - pt-br
 levels:
 - beginner
 skills:
-- Partager et maintenir des classeurs
+- Partager et maintenir des manuels
 - Appliquer des formules et des fonctions
 - Présenter des données visuellement
 - Travailler avec des macros et des formulaires
@@ -41,7 +37,7 @@ relatedCertifications:
     uid: none
 resources:
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

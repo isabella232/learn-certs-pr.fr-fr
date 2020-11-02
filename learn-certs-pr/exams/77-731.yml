@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
+title: 'Outlook 2016: Core Communication, Collaboration, and Email Skills'
 metadata:
-  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |+
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers. Les candidats utiliseront Outlook 2016 pour améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d'application incluent la coordination la construction des ressources, l'envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l'affectation des éléments de la réunion.
+  Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers. Les candidats utiliseront Outlook 2016 pour améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d’application incluent la coordination du développement des ressources, l’envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l’affectation des éléments de la réunion.
 
-  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016 &#58;
-  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
-  - Le format d'examen MOS 2016 intègre plusieurs projets.
-subTitle: Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers. Les candidats utiliseront Outlook 2016 pour améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d'application incluent la coordination la construction des ressources, l'envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l'affectation des éléments de la réunion.
+  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d’un candidat à l’aide des programmes MOS 2016&#58;
+  - Les instructions de tâche d’examen MOS 2016 n’incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d’exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l’utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
+  - Le format d’examen MOS 2016 intègre plusieurs projets.
+subTitle: Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers. Les candidats utiliseront Outlook 2016 pour améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d’application incluent la coordination du développement des ressources, l’envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l’affectation des éléments de la réunion.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
 providers:
@@ -33,12 +33,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Gérer l'environnement Outlook pour la productivité (20-25%)
+- Gérer l’environnement Outlook pour la productivité (20-25%)
 - Gérer les messages (35-40%)
 - Gérer les horaires (35-40%)
 - Gérer les contacts et les groupes (10-15%)
 roles:
-- developer
+- business-user
 products:
 - office-outlook
 relatedCertifications:
@@ -54,7 +54,7 @@ resources:
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: ../request-accommodations.md
-- title: Règles applicables aux examens et FAQ
-  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
   href: ../certification-exam-policies.md
 

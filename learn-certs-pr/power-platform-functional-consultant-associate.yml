@@ -2,23 +2,21 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  description: Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></font></div>
 
-  Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes. Ils doivent avoir de l’expérience dans l’utilisation des outils du créateur de Power Platform afin de créer des solutions qui utilisent Power Platform et Microsoft 365. Les consultants fonctionnels certifiés doivent maîtriser la modélisation des données, la conception de l’expérience utilisateur, l’analyse des exigences, et l’analyse des processus.
-
-  <div><br/><strong>Remarque&#58; Cette certification sera disponible aux alentours du vendredi 25 septembre 2020.</strong></div>
-subTitle: Cette certification sera disponible aux alentours du vendredi 25 septembre 2020. Le consultant fonctionnel Power Platform doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes. Il doit posséder de l’expérience dans l’utilisation des outils du créateur de Power Platform afin de créer des solutions qui utilisent Power Platform et Microsoft 365. Les Certified Functional Consultants doivent maîtriser la modélisation des données, la conception de l’expérience utilisateur, l’analyse des exigences et l’analyse des processus.
+subTitle: Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
 levels:
 - intermediate
 skills:
 - Configurer Common Data Service
 - Créer des applications à l’aide de Power Apps
 - Créer et gérer Power Automate
-- Implémenter les bots conversationnels de Power Virtual Agents
+- Implémenter les bots conversationnels Power Virtual Agents
 - Intégrer Power Apps avec d’autres applications et services
 roles:
 - business-analyst
@@ -34,26 +32,40 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
 resources:
 - title: Affiche de la certification
-  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Parcours vers la certification
   description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: deals.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 

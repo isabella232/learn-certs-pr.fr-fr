@@ -1,26 +1,25 @@
 ---
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
-documentationcenter: NA
-author: bipach
+documentationcenter: NA 
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 04/01/2020
-ms.author: micsullivan
+ms.date: 09/01/2020
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Accès aux Microsoft Learning Azure Passes pour les étudiants des partenaires d’apprentissage autorisés de Microsoft
 
-<div>Vous trouverez ci-dessous des informations relatives aux passes Azure qui sont fournis par Microsoft afin de soutenir les solutions en laboratoire pour des cours spécifiques sur les technologies Microsoft dans le cloud.  Pour en savoir plus sur les solutions alternatives soutenues par les accords de mise en service, veuillez contacter l’un des hébergeurs de laboratoire autorisés (ALH) qui fournissent actuellement un accès à Azure.</div>
+<div>Vous trouverez ci-dessous des informations relatives aux passes Azure qui sont fournis par Microsoft afin de soutenir les solutions en laboratoire pour des cours spécifiques sur les technologies Microsoft dans le cloud. Pour en savoir plus sur les solutions alternatives soutenues par les accords de mise en service, veuillez contacter l’un des hébergeurs de laboratoire autorisés (ALH) qui fournissent actuellement un accès à Azure.</div>
 
-Dernière mise à jour: **jeudi 6 août 2020**
+Dernière mise à jour: **06 Août 2020**
 
 Microsoft offre à vos étudiants l’accès à un Microsoft Azure Pass gratuit de 30 jours lorsqu’ils s’inscrivent à une formation éligible connexe à Azure grâce aux formations officielles Microsoft. Les Passes pour les étudiants ne peuvent être obtenus que par le partenaire d’apprentissage de Microsoft autorisé par le biais du marché des didacticiels. Ils sont directement liés à l’achat d’une formation MOC et sont limités à un Pass par formation MOC commandée. Aucun autre mécanisme d’obtention des Passes pour les étudiants ne sera disponible. Si un partenaire d’apprentissage commande une formation MOC sans sélectionner le Azure Pass disponible avec la formation au moment de l’achat, il pourra revenir au marché des didacticiels et commander le Pass par la suite si nécessaire.
 
 Partenaires, veuillez vous référer aux conditions générales des Azure Passes distribués grâce au marché des didacticiels [ici](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions). Les Passes seront valables pendant 90 jours à compter de leur attribution sur le marché des didacticiels. Les Passes arrivés à expiration ne peuvent pas être réémis.
-
-Les Passes ne peuvent pas être obtenus ou utilisés pour des formations ou des cours dirigés par des non-partenaires d’apprentissage ou des MCT non affiliés à un partenaire d’apprentissage actuel. Les Passes ne peuvent pas être obtenus ou utilisés pour des formations non éligibles, telles que le didacticiel sur les communautés.
 
 Les MCT peuvent demander un Pass pour les besoins de leur préparation à une formation Azure éligible. Cela reste valable et les MCT peuvent demander leur Pass de préparation à une formation Azure éligible [ici](https://vouchers.cloudapp.net/AzurePass/). Cependant, il est possible que cette offre disparaisse à tout moment.
 
@@ -113,7 +112,7 @@ Remarque: Cette liste peut être modifiée et des titres peuvent y être ajouté
 
 Êtes-vous un employé d’un partenaire d’apprentissage de Microsoft? Obtenez votre Azure Pass via le [marché des didacticiels](https://shop.courseware-marketplace.com/) lors de l’achat d’une formation MOC éligible.
 
-Êtes-vous un formateur certifié Microsoft qui enseigne pour un partenaire d’apprentissage de Microsoft? Veuillez contacter le partenaire d’apprentissage pour obtenir un Azure Pass pour la durée de la formation.
+Êtes-vous un formateur certifié Microsoft qui enseigne pour un partenaire d’apprentissage de Microsoft ? Veuillez contacter le partenaire d’apprentissage pour obtenir un Azure Pass pour la durée de la formation.
 
 ## Informations sur le Microsoft Learning Azure Pass
 

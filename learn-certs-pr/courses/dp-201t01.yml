@@ -31,12 +31,22 @@ exams:
 - uid: exam.dp-201
 summary: |-
   Dans cette formation, les étudiants concevront différentes technologies de plateformes de données dans des solutions qui sont alignées aux exigences des entreprises et techniques. Cela peut inclure des scénarios de données sur site, dans le cloud et hybrides qui incluent des données relationnelles, non SQL ou d’entrepôts de données. Ils découvriront également comment concevoir des architectures de données en utilisant une gamme de technologies pour la diffusion et la mise en lots de données. Les étudiants découvriront également comment concevoir la sécurité des données, ce qui inclut l’accès aux données, les politiques de données et les normes. Ils concevront également des solutions de données Azure, ce qui inclut l’optimisation, la disponibilité et la reprise après sinistre de big data, le traitement de lots et la diffusions de solutions de données.
+
   #### Profil de l’audience
   L'audience de cette formation sont des professionnels des données, des architectes en données et des professionnels des solutions décisionnelles qui souhaitent découvrir les technologies de plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est des personnes qui mettent au point des applications qui fournissent du contenu à partir des technologies des plateformes de données qui existent sur Microsoft Azure.
 prerequisitesSection: |-
-  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes&#58;
-  - [Azure Fundamentals](https&#58;//docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
-  - DP-200&#58; Mise en œuvre d'une solution de données Azure.
+  Les étudiants qui réussissent ce cours commencent par une connaissance des concepts du cloud computing et une expérience professionnelle des solutions de données.
+  
+  Plus précisément&#58;
+  - Création de ressources Cloud dans Microsoft Azure
+  - Identifier les cas d'utilisation de données volumineuses
+  - Comprendre comment les services de Cloud computing peuvent répondre aux besoins communs des entreprises
+  
+  Pour acquérir ces compétences préalables, suivez la formation en ligne gratuite suivante avant de participer au cours&#58;
+  - [Explore Microsoft cloud concepts](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Identify tasks of a data engineer](/learn/modules/data-engineering-processes/)
+  - [Core cloud services – Azure data storage options](/learn/modules/intro-to-data-in-azure/)
+  - [Core cloud services – Azure compute options](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Module 1&#58; Considérations d'une architecture de plateforme de données
   Dans ce module, les étudiants découvriront comment concevoir et construire des solutions sécurisées, évolutives et performantes dans Azure en examinant les principes de base qui se trouvent dans toute bonne architecture. Ils découvriront comment l’utilisation de ces principes clés dans l’architecture, peu importe le choix de la technologie, peut vous aider à concevoir, construire et continuellement améliorer l’architecture pour le bénéfice d'une organisation.
@@ -65,10 +75,10 @@ outlineSection: |-
   ### Module 2&#58; Architectures de référence du traitement par lots Azure
   Dans ce module, les étudiants découvriront les schémas de référence en matière de conception et d’architecture pour la gestion du traitement de données en lots. Les étudiants seront exposés à cette gestion avec le mouvement des données de systèmes sur site vers un entrepôt de données dans le cloud et de la façon dont ils peuvent être automatisés. Les étudiants seront également exposés à une architecture en IA et à la façon dont la plateforme de données peut être intégrée à une solution d’IA.
   #### Leçons
-  - Architectures lambda d’un point de vue du mode lot
+  - Architectures lambda d’un point de vue du mode lot.
   - Conception d’une solution décisionnelle d’entreprise dans Azure.
-  - Automatisation de solutions décisionnelles d’entreprise dans Azure
-  - Création d'un bot de conversation au niveau de l’entreprise dans Azure
+  - Automatisation de solutions décisionnelles d’entreprise dans Azure.
+  - Création d'un bot de conversation au niveau de l’entreprise dans Azure.
 
 
   #### Laboratoire&#58; Conception d'un bot de conversation au niveau de l’entreprise dans Azure
@@ -77,12 +87,11 @@ outlineSection: |-
   - Automatisation d’une solution décisionnelle d’entreprise dans Azure.
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de comprendre les principes de base de la création d’architectures,
-  - de décrire des architectures lambda d’un point de vue du mode lot,
+  - de comprendre les principes de base de la création d’architectures.
+  - de décrire des architectures lambda d’un point de vue du mode lot.
   - Conception d’une solution décisionnelle d’entreprise dans Azure.
-  - Automatisation de solutions décisionnelles d’entreprise dans Azure
-  - Création d'un bot de conversation au niveau de l’entreprise dans Azure
-
+  - Automatisation de solutions décisionnelles d’entreprise dans Azure.
+  - Création d'un bot de conversation au niveau de l’entreprise dans Azure.
 
 
   ### Module 3&#58; Architectures de référence en temps réel Azure
@@ -100,7 +109,7 @@ outlineSection: |-
   - Création d’une architecture de référence Azure IoT
 
   Après avoir terminé ce module, les étudiants seront capables&#58;
-  - de décrire des architectures lambda pour un point de vue du mode en temps réel,
+  - de décrire des architectures lambda pour un point de vue du mode en temps réel
   - Création d'un pipeline de traitement de flux avec Azure Stream Analytics
   - Conception d'un pipeline de traitement des flux avec Azure Databricks
   - Création d’une architecture de référence Azure IoT
@@ -175,4 +184,3 @@ outlineSection: |-
   - Maximisation de l’efficacité de votre environnement de cloud
   - Utilisation de la surveillance et de l’analyse pour obtenir des informations opérationnelles
   - Utilisation de l’automatisation pour réduire les efforts et les erreurs
-

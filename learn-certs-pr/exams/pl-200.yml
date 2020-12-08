@@ -13,7 +13,9 @@ summary: |-
   Les candidats implémentent le design réalisé par un architecte de solutions avec leur collaboration, ainsi que les normes, marques et artefacts mis en place par les concepteurs de l’expérience utilisateur. Ils conçoivent des intégrations afin de fournir une intégration transparente avec les applications et services des tiers.
 
   Les candidats collaborent activement avec les membres de l’équipe d’assurance qualité afin de s’assurer que les solutions répondent aux exigences fonctionnelles et non fonctionnelles. Ils identifient, génèrent, et délivrent des artefacts pour le packaging et le déploiement aux ingénieurs DevOps, et assurent la formation des administrateurs de Power Platform pour les opérations et la maintenance.
-
+  
+  Les consultants fonctionnels de Power Platform doivent être familiarisés avec les applications basées sur le modèle Dynamics 365 et doivent avoir l'expérience de l'utilisation des composants de Power Platform pour étendre et personnaliser les applications basées sur le modèle Dynamics 365.
+  
   <div><strong><br/>Les examens bêta ne sont pas immédiatement notés parce que nous recueillons les données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</strong></div>
 subTitle: 'Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

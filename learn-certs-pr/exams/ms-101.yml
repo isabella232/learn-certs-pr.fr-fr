@@ -8,12 +8,12 @@ displayName: MS-101
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
 
-   Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l’administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
+  Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l’administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: implémenter les services des périphériques modernes, implémenter la gestion de la sécurité et des menaces de Microsoft 365 et gérer la gouvernance et la conformité de Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Implémenter les services des périphériques modernes (30-35%)
 - Implémenter la gestion de la sécurité et des menaces de Microsoft 365 (30-35%)
 - Gérer la gouvernance et la conformité de Microsoft 365 (35-40%)

@@ -15,13 +15,6 @@ summary: |-
   Un Azure Solution Architect collabore avec des administrateurs de cloud, des DBA de cloud, et des clients afin d’implémenter des solutions.
 
   Le candidat à cette certification doit posséder une expérience et des connaissances avancées dans les opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des affaires, la récupération après désastre, la plateforme des données, la budgétisation, et la gouvernance – ce rôle doit gérer l’impact des décisions prises dans chaque secteur sur la solution globale. En outre, ce rôle doit avoir des compétences de niveau expert dans l’administration d’Azure, et une expérience pratique avec le développement sur Azure et les processus DevOps.
-
-  <div><strong><br/>Vous obtiendrez cette certification si vous réussissez une des combinaisons d’examens suivantes (veuillez remarquer que les versions en anglais des examens AZ-300 et AZ-301 ont été retirées le 30 septembre 2020 et que les versions traduites seront retirées le 30 octobre 2020)&#58;<ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a>et <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a>et <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> et<a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> et <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
 subTitle: Les Azure Solutions Architects conçoivent et mettent en œuvre des solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.
 levels:
 - advanced

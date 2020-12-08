@@ -7,6 +7,8 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
+  </div>
 
   Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent les destinataires, les autorisations, la protection du courrier, le flux de courrier et les dossiers publics dans les environnements d’entreprise hybrides et dans le cloud.
 
@@ -18,12 +20,14 @@ summary: |-
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: la gestion des paramètres et des ressources organisationnelles, la planification et la gestion de l’architecture de messagerie électronique, la planification et la mise en œuvre d’une configuration et migration hybrides, et la sécurisation de l’environnement de messagerie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
+- Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Gérer les paramètres et les ressources organisationnelles (30-35%)
 - Planifier et gérer l’architecture de messagerie électronique (20-25%)
 - Planifier et mettre en œuvre une configuration et une migration hybrides (20-25%)

@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Procédure de contestation de question d’examen
 
-## Polices et accords
-
 Les examens de certification Microsoft sont conçus pour garantir que les candidats qui réussissent aux épreuves et méritent nos certifications ont démontré qu’ils avaient le(s) niveau(x) de compétence requis pour chaque domaine d’expertise. Toutes les questions des examens de certification Microsoft sont soigneusement passées en revue par un panel d’experts techniques et métiers pour en vérifier la précision, la clarté et la pertinence techniques. Si vous pensez qu’une question figurant dans un examen de certification Microsoft est erronée, vous pouvez demander à ce qu’on l’évalue en suivant le processus de contestation conçu pour aider à identifier et corriger les questions problématiques. Toutefois, même si une question présente quelque problème que ce soit, nous ne pouvons partir du principe que vous y auriez répondu de façon correcte si cela n’avait pas été le cas; par conséquent, la plupart des épreuves ne font pas l’objet d’une réévaluation des notes. Dans ces cas, nous offrons aux apprenants la possibilité de repasser l’examen gratuitement.
 
 ### Critères validant une contestation portant sur les questions d’examen:

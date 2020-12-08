@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md

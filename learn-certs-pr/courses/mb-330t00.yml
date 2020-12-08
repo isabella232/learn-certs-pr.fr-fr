@@ -8,7 +8,9 @@ courseNumber: 'MB-330T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Gérer l’inventaire et l’entreposage dans Dynamics 365
+- skill: Configurer les principales fonctionnalités de Dynamics 365 Supply Chain Management.
+- skill: Traiter la plupart des transactions de Dynamics 365 Supply Chain Management.
+- skill: Expliquer aux autres comment fonctionnent les caractéristiques et les fonctionnalités de Dynamics 365 Supply Chain Management.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -22,353 +24,130 @@ products:
 exams:
 - uid: exam.mb-330
 summary: |-
-  Cette formation examine la gestion de la chaîne logistique dans la suite d’applications Dynamics 365.
+  Ce cours est conçu pour vous permettre d'acquérir des connaissances de base sur les applications de Dynamics 365 Supply Chain Management. Ce cours couvrira les caractéristiques et les fonctionnalités les plus importantes dont a besoin le consultant fonctionnel de Dynamics 365 Supply Chain Management, y compris&#58; Les informations sur le produit et comment configurer, créer et gérer votre produit et votre inventaire. La configuration et le traitement de la gestion de la chaîne d'approvisionnement. Les fonctionnalités de gestion du transport et de gestion des entrepôts. Les fonctionnalités de gestion de la qualité et de contrôle de la qualité. La configuration et le traitement de la planification générale. Ce cours comprend des cours magistraux et plusieurs exercices pratiques. Les exercices vous seront présentés sous la forme d'une étude de cas présentée à un consultant fonctionnel de Dynamics 365 Supply Chain Management. Chaque exercice sera basé sur un scénario commercial suivi d'une question ou d'une discussion puis d'un guide étape par étape pour réaliser les étapes liées au système.
 
   #### Profil de l’audience
-  Un Dynamics 365 for Finance Functional Consultant est chargé de découvrir, de capturer les exigences, d’engager les experts du domaine et les parties prenantes, de traduire des exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution à l’aide de capacités prêtes à l'emploi, d’une extensibilité sans code, d'une application et d’intégrations de services.
+  Ce cours est conçu pour le consultant fonctionnel de Dynamics 365 Supply Chain Management. Le consultant fonctionnel de Dynamics 365 Supply Chain Management est une ressource clé qui conçoit et configure des applications pour répondre aux besoins d'un client. Le consultant fonctionnel analyse les besoins de l'entreprise et traduit ces besoins en processus et solutions d'entreprise entièrement réalisés qui mettent en œuvre les pratiques recommandées par l'industrie. Le consultant fonctionnel est spécialisé dans un ou plusieurs des domaines suivants de Dynamics&#58; finance, fabrication ou gestion de la chaîne d'approvisionnement. Il travaille en partenariat avec des architectes, des développeurs, des administrateurs et d'autres parties prenantes pour fournir des solutions qui répondent ou dépassent les besoins de leurs clients.
 outlineSection: |-
-  ### Module 1&#58; Gestion de l’approvisionnement
-  Pour configurer l'inventaire, vous devez d'abord comprendre les opérations quotidiennes de l’inventaire. Dans cette leçon, nous discuterons d'abord des opérations d'inventaire entrantes et sortantes.
-
-  Ce module explique comment configurer les composants de l’inventaire pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  ### Module 1&#58; Implémenter la gestion de l'information sur les produits
+  Ce module vous présentera les sujets suivants&#58; créer et lancer des produits et des variantes de produits créer et appliquer des modèles de produits créer des nomenclatures Identifier l'objectif et les capacités des modèles de configuration de produits configurer les poids de prise configurer les produits à livraison directe créer et gérer les dimensions des stocks configurer les groupes d'articles créer et attribuer des codes à barres et des codes GTIN (Global Trade Identification Number) configurer les hiérarchies de catégories et les attributs de produits configurer les conversions d'unités de produits configurer les paramètres de commande par défaut décrire les méthodes de calcul du coût de revient des stocks et les groupes de modèles configurer les versions de calcul du coût de revient pour les coûts standard et planifiés configurer les prix d'achat, les prix de vente et les accords commerciaux par défaut.
   #### Leçons
-  - Introduction
-  - Configurer des numéros de série et de lots
-  - Configurer la répartition de l’inventaire
-  - Configurer les journaux de l’inventaire et de l’entrepôt
-  - Configurer les dimensions de l’inventaire
-  - Clôture et ajustements de l’inventaire
-  - Laboratoires pratiques
-  - Résumé du module
+  - Créer et gérer des produits
+  - Configurer les produits pour la gestion de la chaîne d'approvisionnement
+  - Gérer la tarification et le coût des stocks
 
-  Effectuer des opération d'inventaire entrantes et sortantes,
-  - Configurer les paramètres de l’inventaire,
-  - Configurer les groupes des numéros de suivi,
-  - Configurer la répartition de l’inventaire
-  - Configurer les journaux de l’inventaire et de l’entrepôt
-  - Configurer les unités,
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Implémenter la gestion de l'information sur les produits
 
 
-  ### Module 2&#58; Utiliser les journaux d'inventaire
-  Ce sujet explique comment utiliser les journaux d’inventaire dans Finance and Operations
+  ### Module 2&#58; Implémenter la gestion des stocks
+  Ce module vous présentera les domaines suivants&#58; Mettre en place les paramètres de gestion des stocks et les journaux configurer la ventilation des structure de stocks  configurer les classifications ABC configurer les rapports de valorisation des stocks créer et traiter les journaux, y compris la nomenclature, l'arrivée des articles, le transfert, le mouvement, l'ajustement des stocks, le comptage et le comptage des étiquettes créer et traiter les ordres de transfert effectuer les clôtures et les ajustements des stocks.
   #### Leçons
-  - Introduction
-  - Utiliser les journaux d'inventaire
-  - Laboratoires pratiques
-  - Résumé du module
+  - Configurer la gestion de l'inventaire
+  - Gérer et traiter les activités d'inventaire
 
-  Utiliser les journaux de mouvement,
-  - utiliser les journaux d’ajustement d'inventaire,
-  - utiliser les journaux de transfert,
-  - utiliser les journaux de comptage et de comptage de balises,
-  - utiliser les journaux d’arrivée des articles,
-  - utiliser les journaux de consignation.
+  #### Laboratoire&#58; Étude de cas 1 Implémenter la gestion de l'inventaire
+  - Exercice #1 Ajouter des produits dans un nouvel entrepôt en utilisant la gestion de base des stocks
+  - Exercice #2 Créer une version à coût standard qui utilise un groupe modèle spécifique
+  - Exercice #3 Ajouter et libérer de nouveaux produits dans un entrepôt
+  - Exercice #4 Utiliser le journal des mouvements de stock pour initialiser les niveaux de stock dans un entrepôt
+  - Exercice #5 Utiliser le journal de transfert d'inventaire pour déplacer des articles vers un nouvel emplacement dans l'entrepôt
+  - Exercice #6 Ajustement des niveaux de stock à l'aide du journal d'ajustement des stocks
+  - Exercice #7 Utiliser le journal de comptage des stocks pour comparer les quantités de stocks D365 à celles comptées manuellement
+  - Exercice #8 Créer une nomenclature dans le concepteur de nomenclature
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Mettre en œuvre la gestion des stocks
 
 
-  ### Module 3&#58; Utiliser les rapports d'inventaire
-  Ce sujet explique comment utiliser les rapports d’inventaire pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  ### Module 3&#58; Mettre en œuvre et gérer les processus de la chaîne d'approvisionnement
+  Ce module vous présentera les sujets suivants&#58; créer et gérer les demandes d'achat, les demandes de devis (RFQ) et les commandes d'achat (PO) configurer les processus de gestion des changements configurer et appliquer les rabais des fournisseurs Introduction à la collaboration entre fournisseurs gérer les stocks en consignation gérer les livraisons en plus et en moins configurer les catégories d'achat et les politiques d'achat configurer les frais configurer les devis, les commandes de vente et les commandes de retour configurer les groupes de vente et les commissions configurer les recherches de clients, de produits et de prospects configurer et traiter les documents relatifs aux relations commerciales interentreprises Introduction aux guides D365 Rédaction des guides D365 Exploitation des guides D365.
   #### Leçons
-  - Introduction
-  - Comprendre la classification ABC
-  - Utiliser d'autres demandes et rapports d’inventaire
-  - Laboratoires pratiques
-  - Résumé du module
+  - Mettre en œuvre la passation de marchés et l'approvisionnement
+  - Mettre en œuvre des caractéristiques communes de vente et de marketing
+  - Utilisation des guides Microsoft
 
-  Comprendre la classification ABC
-  - utiliser les demandes et les rapports d’inventaire.
+  #### Laboratoire&#58; Étude de cas 2A Approvisionnement et sourcing
+  - Exercice #1 Créer, soumettre et approuver une demande d'achat
+  - Exercice #2 Créer, répondre et accepter une demande de devis
+  - Exercice #3 Créer une demande d'achat et des politiques d'achat
+  - Exercice #4 Créer un bon de commande pour une livraison à plusieurs sites
+  - Exercice #5 Créer un code de frais
+  - Exercice #6 Créez un groupe de frais pour les vendeurs et attribuez-les aux vendeurs
+  - Exercice #7 Créer une charge automatique
+  - Exercice #8 Approuver les commandes d'achat avant la confirmation
+  - Exercice #9 Créer des accords commerciaux pour les vendeurs
+  - Exercice #10 Créer une commande d'achat basée sur un accord commercial
+  
+  #### Laboratoire&#58; Étude de cas 2B Ventes et marketing
+  - Exercice #1 Saisir et confirmer la commande
+  - Exercice #2 Créer et examiner un bon de commande pour la commission
+  - Exercice #3 Créer un accord commercial avec les clients
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Mettre en œuvre et gérer les processus de la chaîne d'approvisionnement
 
 
-  ### Module 4 &#58;  Créer produits et des références de produits
-  La gestion des informations du produit dans Dynamics 365 for Finance and Operations sert à la création et à la maintenance d’un référentiel des produits de l’entreprise. Il prend en charge les grandes organisations avec une approche centralisée et structurée en créant et en maintenant des données de référence essentielles telles que les définitions de produits. Les petites organisations qui exigent une approche moins centralisée peuvent créer et maintenir leurs produits respectifs, avec quelques restrictions, tandis que leurs produits sont automatiquement ajoutés au référentiel de produits partagés.
-
-  Ce sujet explique comment configurer les produits pour les processus de gestion de la chaîne logistique dans Finance and Operations
+  ### Module 4&#58; Implémenter une gestion d'entrepôt et la gestion du transport
+  Ce module vous présentera les sujets suivants&#58; créer des sites, des entrepôts, des emplacements, des formats d'emplacement, des profils d'emplacement, des types d'emplacement et des zones mettre en œuvre les directives d'emplacement configurer les statuts d'inventaire, les groupes de séquences d'unités et les hiérarchies de réservation mettre en œuvre les modèles de vagues et de travail mettre en œuvre le modèle de construction de la charge des vagues configurer les menus des appareils mobiles, les éléments de menu, et les paramètres d'affichage gérer les processus de mouvement des stocks Effectuer le comptage des cycles traiter les commandes entrantes et sortantes traiter les expéditions Décrire le processus de réapprovisionnement cross-docking Introduction configurer les transporteurs maritimes et les groupes de transporteurs effectuer la planification et l'exécution des chargements et des expéditions configurer et générer les factures de fret et les factures configurer les plans et les guides d'itinéraire configurer les moteurs d'itinéraire et de tarification configurer et utiliser la planification des rendez-vous au quai.
   #### Leçons
-  - Introduction
-  - Créer des produits
-  - Créer des références de produits avec des variantes
-  - Créer et configurer des attributs et des hiérarchies de catégories
-  - Configurer la tarification des articles
-  - Laboratoires pratiques
-  - Résumé du module
+  - Configurer la gestion de l'entrepôt
+  - Effectuer des processus de gestion d'entrepôt
+  - Mettre en œuvre la gestion des transports
 
-  Créer des produits en tant qu’articles et services types,
-  - configurer les paramètres des commandes par défaut,
-  - créer des références de produits avec des variantes prédéfinies,
-  - créer et configurer des hiérarchies de catégories,
-  - créer des attributs de produits.
+  #### Laboratoire&#58; Étude de cas n° 3 Gestion d'entrepôt et gestion du transport
+  - Exercice #1 Configurer la gestion de l'entrepôt
+  - Exercice #2 Créer une hiérarchie de réservation
+  - Exercice #3 Créer des codes de disposition et des directives de localisation entrantes
+  - Exercice #4 Configurer les appareils mobiles
+  - Exercice #5 Configurer les bons de commande
+  - Exercice #6 Configurer le traitement des ondes
+  - Exercice #7 Configurer le comptage des cycles
+  - Exercice #8 Définir le comptage des cycles
+  - Exercice #9 Définir un processus partiel de comptage de cycles de localisation
+  - Exercice #10 Ordres de transfert et réapprovisionnement
+  - Exercice #11 Mise en place du réapprovisionnement
+  - Exercice #12 Configurer le traitement des documents sortants
+  - Exercice #13 Configurer la sélection des grappes
+  - Exercice #14 Préparation du conditionnement manuel
+  - Exercice #15 Configurer les transporteurs
+  - Exercice #16 Configurer les tarifs maîtres
+  - Exercice #17 Mise en place des plans de route et des guides d'itinéraire
+  - Exercice #18 Traitement des envois entrants
+  - Exercice #19 Traitement des envois sortants
+  - Exercice #20 Configurer la réconciliation du fret
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Implémenter une gestion d'entrepôt et de transport
 
 
-  ### Module 5&#58; Créer une nomenclature
-  Une nomenclature est une liste globale de tous les composants, éléments, matières premières, assemblages et des quantités requises pour obtenir un produit fini.
-
-  Ce module explique comment créer une nomenclature et des versions de nomenclatures à l’aide du concepteur de nomenclatures dans Finance and Operations.
+  ### Module 5&#58; Configurer et gérer le contrôle et la gestion de la qualité
+  Ce module vous présentera les sujets suivants&#58; configurer le contrôle de la qualité; configurer la gestion de la qualité; gérer les ordres de qualité et de quarantaine; commander; gérer le blocage des stocks.
   #### Leçons
-  - Introduction
-  - Utiliser le concepteur de nomenclature
-  - Laboratoire pratique
-  - Résumé du module
+  - Configurer le contrôle et la gestion de la qualité
+  - Gérer le contrôle et la gestion de la qualité
 
-  Créer une nomenclature et des versions de nomenclature à l’aide du concepteur de nomenclature
-
-  ### Module 6&#58; Configurer et effectuer des processus Procure-to-Purchase
-  Ce sujet explique comment configurer et réaliser les processus de Procure-to-Purchase dans Finance and Operations
+  #### Laboratoire&#58; Étude de cas 4 Contrôle de la qualité et gestion de la qualité
+  - Exercice #1 Activer le processus de gestion de la qualité
+  - Exercice #2 Créer un ordre de qualité manuel avec une spécification
+  - Exercice #3 Définir les conditions de travail pour les questions de non-conformité
+  - Exercice #4 Utiliser l'ordre de non-conformité pour réparer un article et une machine défectueuse
+  - Exercice #5 Exécution des rapports de non-conformité
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Configurer et gérer le contrôle de la qualité et la gestion de la qualité
+  
+  
+  ### Module 6&#58; Mettre en œuvre un plan directeur
+  Ce module vous présentera les sujets suivants&#58; Distinguer l'optimisation de la planification et la planification principale créer des groupes de couverture et la couverture des articles configurer les paramètres de planification principale, le plan directeur, les plans de prévision et les plans de continuité distinguer les messages d'action, les messages de retard, les clôtures temporelles et les jours négatifs traiter et visualiser les ordres planifiés créer et utiliser le formulaire de planification de l'approvisionnement configurer et traiter les journaux des stocks de sécurité créer et mettre en œuvre la planification principale interentreprises mettre en œuvre la prévision de la demande mettre en œuvre l'optimisation de la planification.
   #### Leçons
-  - Introduction
-  - Procurement and sourcing business scenario
-  - Créer un flux des demandes d'achat
-  - Créer des demandes d'achat
-  - Créer des demandes de devis
-  - Utiliser des politiques d’achat
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Appliquer les processus d'achat et d'approvisionnement dans un scénario d’entreprise
-  - Utiliser des politiques d’achat
-  - Créer et gérer les fournisseurs
-  - Créer des demandes d'achat
-  - créer des demandes de devis.
-
-
-  ### Module 7&#58; Configurer les collaborations avec les fournisseurs
-  Ce sujet explique comment configurer les collaborations avec les fournisseurs dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Configurer les collaborations avec les fournisseurs
-  - Utiliser la collaboration avec le fournisseur
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Configurer les collaborations avec les fournisseurs
-  - travailler avec l’espace de travail de la collaboration avec le fournisseur,
-  - utiliser la collaboration avec le fournisseur dans le cadre d’un processus Procure-to-Pay.
-
-
-  ### Module 8&#58; Configurer et effectuer des processus Purchase-to-Pay
-  Le module des bons d’achat passe en revue les processus exigés pour créer et gérer les bons d'achat dans Dynamics 365 for Finance and Operations. Une entreprise utilise des ordres d’achat pour enregistrer les informations sur les marchandises et les services qu’elle a achetés de divers fournisseurs.
-  #### Leçons
-  - Introduction
-  - Créer des bons d'achat
-  - Utiliser la gestion de la modification du bon d’achat
-  - Utiliser les commandes et arrivées des articles
-  - Gérer les sur-livraisons et les sous-livraisons et les frais
-  - Créer des retours aux fournisseurs
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Comprendre un aperçu des scénarios Purchase-to-Pay
-  - Utiliser la gestion de la modification du bon d’achat
-  - créer un bon d'achat,
-  - utiliser les arrivées d’articles et l’aperçu des arrivées
-  - générer et comptabiliser la facture
-  - créer le journal de factures
-  - générer et comptabiliser les paiements aux fournisseurs
-  - Créer des retours aux fournisseurs
-
-
-  ### Module 9&#58; Configurer et utiliser des accords
-  Ce sujet explique comment configurer et utiliser des accords dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Maintenir des accords commerciaux
-  - Créer des accords de vente
-  - Créer des accords d'achat
-  - Configurer des allocations commerciales
-  - Configurer le courtage
-  - Configurer les redevances
-  - Configurer les remises
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Maintenir des accords commerciaux
-  - Configurer des règles judicieuses,
-  - Créer des accords de vente
-  - Utiliser des politiques d’achat
-  - Créer des accords d'achat
-  - Configurer des allocations commerciales
-  - Configurer le courtage
-  - Configurer les redevances
-  - Configurer les remises
-
-
-  ### Module 10&#58; Configurer et utiliser des processus Order-to-Cash
-  Ce sujet explique comment configurer et utiliser les processus Order-to-Cash dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Comprendre le scénario Order-to-Cash
-  - Configurer et utiliser des commissions
-  - Configurer les recherches de clients et d’articles
-  - Créer et confirmer des devis et commandes
-  - Configurer la remise de délais
-  - Configurer les codes de blocage d’ordre
-  - Imprimer et publier des listes de prélèvement
-  - Effectuer les retours de la part des clients
-  - Laboratoire pratique
-  - Résumé du module
-
-  Effectuer le processus Order-to-Cash,
-  - Configurer et utiliser des commissions
-  - Configurer les recherches de clients et d’articles
-  - créer et confirmer des devis,
-  - créer et confirmer des commandes,
-  - Imprimer et publier des listes de prélèvement
-  - générer et comptabiliser la facture
-  - Configurer les codes de blocage d’ordre
-  - Effectuer les retours de la part des clients
-
-
-  ### Module 11&#58; Configurer et utiliser des processus de contrôle et de gestion de la qualité
-  Nous décrivons dans ce module la manière de configurer et d’utiliser le contrôle de la qualité dans Finance and Operations, la manière d'utiliser la fonctionnalité de contrôle de la qualité, la manière de définir et de maintenir le manque de conformité et la manière de gérer les corrections.
-
-  Mais familiarisons-nous d'abord avec les processus généraux de gestion de la qualité.
-  #### Leçons
-  - Introduction
-  - Effectuer les processus de contrôle et de gestion de la qualité
-  - Appliquer le blocage d'inventaire
-  - Effectuer la gestion de la quarantaine
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Effectuer les processus de contrôle et de gestion de la qualité,
-  - Appliquer le blocage d'inventaire
-  - Effectuer la gestion de la quarantaine
-
-
-  ### Module 12&#58; Configurer et utiliser les relations commerciales intersociétés
-  La fonctionnalité intersociété dans Dynamics 365 for Finance and Operations fournit un mécanisme pour la consolidation des données statiques et dynamiques de plusieurs entreprises en tant qu’entités légales séparées dans une seule base de données.
-
-  Le commerce intersociété permet de fournir des sites de fabrication, des centres de distribution et des filiales de vente dispersés dans le monde pour agir en qualité d’organisation unifiée.
-
-  Ce sujet explique comment configurer et utiliser les relations commerciales intersociétés et les commandes de processus intersociétés dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Comprendre le commerce intersociété
-  - Établir des relations commerciales intersociétés
-  - Traiter des ordres en chaîne intersociétés
-  - Établir des accords et des livraisons directes intersociétés
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Configurer des produits pour les relations commerciales intersociétés,
-  - configurer des relations commerciales intersociétés,
-  - configurer des accords intersociétés,
-  - traiter des ordres intersociétés,
-  - traiter des livraisons directes intersociétés,
-  - traiter des frais intersociétés,
-  - comprendre la chaîne de retours d'ordres intersociétés.
-
-
-  ### Module 13&#58; Configurer et utiliser la planification principale
-  Ce sujet explique comment configurer et utiliser la planification principale dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Considérations et mise en place de la planification principale
-  - Créer des plans maîtres
-  - Découvrir les prévisions de la demande et de l’approvisionnement
-  - Configurer la couverture d'un article
-  - Brève introduction à la planification intersociété
-  - Exécuter des plans et des ordres planifiés fermes
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Définir les politiques de planification principale,
-  - Découvrir les prévisions de la demande et de l’approvisionnement
-  - configurer les délais calculés,
-  - Configurer la couverture d'un article
-  - comprendre la brève introduction à la planification intersociété principale,
-  - Exécuter des plans et des ordres planifiés fermes
-
-
-  ### Module 14&#58; Configurer la gestion des entrepôts
-  Le module de gestion des entrepôts pour Dynamics 365 for Finance and Operations aide à gérer les processus de l’entrepôt dans la fabrication, la distribution et les sociétés de vente au détail.
-
-  Il comprend une vaste gamme de fonctionnalités pour prendre en charge les installations d’un entrepôt à un niveau optimal, à tout moment. La gestion des entrepôts est complètement intégrée aux autres processus métier dans Finance and Operations, tels que le transport, la fabrication, le contrôle de la qualité, les achats, les transferts, le ventes et les retours.
-  #### Leçons
-  - Introduction
-  - Configurer la gestion des entrepôts
-  - Comprendre les hiérarchies de réservation
-  - Directives liées à l’emplacement et modèles de travail
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Configurer les paramètres de gestion des entrepôts,
-  - créer des entrepôts et des emplacements,
-  - configurer les pools de travail, les zones, les formats d’emplacements et les profils
-  - créer les hiérarchies de réservation
-  - configurer les directives d’emplacement
-  - configurer des vagues
-  - configurer des charges
-  - configurer les statuts d’inventaire
-  - configurer le compte des cycles
-  - configurer l’emballage et la mise en conteneurs
-  - définir et générer des étiquettes
-
-
-  ### Module 15&#58; Configurer des périphériques mobiles pour la gestion des entrepôts
-  Ce sujet explique comment configurer des périphériques mobiles dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Configurer des périphériques mobiles
-  - Laboratoire pratique
-  - Résumé du module
-
-  créer des nouvelles classes de travail
-  - Configurer des périphériques mobiles
-  - configurer des articles de menu pour les activités et les demandes,
-  - configurer des articles de menu pour créer du travail pour un autre travailleur ou processus,
-  - configurer des articles de menu pour traiter le travail existant,
-  - définir la mise en page des menus des périphériques mobiles,
-  - configurer le look et le caractère de base des périphériques mobiles,
-  - créer des utilisateurs de périphériques mobiles,
-  - préparer la mise en page des étiquettes et définir des paramètres pour l’impression des étiquettes.
-
-
-  ### Module 16&#58; Utiliser la gestion des entrepôts
-  Vous devez installer l’application avant de pouvoir utiliser le périphérique mobile pour la gestion de l’entrepôt. Ce sujet explique comment utiliser les processus de gestion des entrepôts dans Finance and Operations
-  #### Leçons
-  - Introduction
-  - Configurer le périphérique mobile
-  - Les opérations entrantes
-  - Le comptage de cycles
-  - Les transferts et le réapprovisionnement
-  - Les opérations sortantes
-  - Choix en clusters
-  - Emballage et mise en conteneurs
-  - Laboratoires pratiques
-  - Résumé du module
-
-  Les opérations entrantes
-  - Les opérations sortantes
-  - Choix en clusters
-  - Emballage et mise en conteneurs
-  - Le comptage de cycles
-  - Les transferts et le réapprovisionnement
-
-
-  ### Module 17&#58; Configurer la gestion des transports
-  Ce module donne un aperçu de la fonctionnalité de gestion des transports dans Microsoft Dynamics 365 for Finance and Operations et enseigne à configurer et utiliser la gestion des transports.
-  #### Leçons
-  - Introduction
-  - Planification et configuration de la gestion des transports
-  - Procédures
-  - Routage et flux de transports
-  - Engins de transport et gestion du fret
-  - Laboratoires pratiques
-  - Résumé du module
-
-  La planification des transports
-  - Le routage
-  - La cotation
-  - Les opérations entrantes
-  - Les processus de chargement
-  - Les opérations sortantes
-
-
-  ### Module 18&#58; Conclusion de la formation
-  Une évaluation finale et un résumé de la formation, ainsi qu’un sondage sur la formation après sa conclusion.
-  #### Leçons
-  - Évaluation finale
-  - Résumé de la formation
-  - Sondage après la conclusion de la formation
-
-  Vous auront terminé la formation.
-
+  - Configurer la planification et les prévisions générales
+  - Exécuter les plans directeurs et gérer les commandes planifiées
+  - Mettre en œuvre des fonctions supplémentaires de planification générale
+  
+  #### Laboratoire&#58; Étude de cas 5 Plan directeur
+  - Exercice #1 Traiter et visualiser les ordres planifiés
+  - Exercice #2 Créer et gérer des plans directeurs interentreprises
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Implémenter un plan directeur

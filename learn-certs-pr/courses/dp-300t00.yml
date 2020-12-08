@@ -35,12 +35,19 @@ summary: |-
   #### Profil de l’audience
   Cette formation s’adresse aux professionnels des données qui gèrent des données et des bases de données et qui souhaitent en savoir plus sur l’administration des technologies de plateformes de données disponibles sur Microsoft Azure. Ce cours est également précieux pour les architectes de données et les développeurs d'applications qui ont besoin d'identifier les technologies disponibles pour la plate-forme de données avec Azure et comment travailler avec ces technologies via des applications.
 prerequisitesSection: |-
-  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation devraient avoir des connaissances techniques équivalentes aux cours suivants&#58;
-  Azure Fundamentals
-  - Azure Data Fundamentals
+  Les administrateurs de base de données Azure débutent leur carrière avec une expérience professionnelle dans la gestion de bases de données et une connaissance technique des technologies du cloud.
+  
+  Plus précisément&#58;
+  - Travailler avec, maintenir et développer avec SQL Server
+  - Expérience avec Azure, comme le déploiement et la gestion des ressources
+  
+  Vous devez au moins connaître les informations contenues dans la formation en ligne suivante avant de participer au cours&#58;
+  - [Introduction to Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### Module 1&#58; Le rôle de l'Administrateur de Base de Données Azure
-  Ce module explore le rôle d'un administrateur de base de données dans le monde d'Azure. Il fournit également certains informations de bases pertinentes au contenu global. Cela inclut un examen des différentes options basées sur SQL Server (SQL Server dans une MV, instances gérées et Base de Données Azure SQL,) Les étudiants apprendront pourquoi le niveau de compatibilité est un concept crucial lorsqu'ils travaillent avec des bases de données SQL dans Azure. Les étudiants sont également initiés à d'autres plateformes de base de données disponibles sur Azure en plus de celles basées sur SQL Server, en particulier PostgreSQL et MySQL 
+  Ce module explore le rôle d'un administrateur de base de données dans le monde d'Azure. Il fournit également certains informations de bases pertinentes au contenu global. Cela inclut un examen des différentes options basées sur SQL Server (SQL Server dans une MV, instances gérées et Base de Données Azure SQL) Les étudiants apprendront pourquoi le niveau de compatibilité est un concept crucial lorsqu'ils travaillent avec des bases de données SQL dans Azure. Les étudiants sont également initiés à d'autres plateformes de base de données disponibles sur Azure en plus de celles basées sur SQL Server, en particulier PostgreSQL et MySQL
   #### Leçons
   - Rôles des Plateformes de Données Azure
   - Plateformes et options de la Base de Données Azure
@@ -48,7 +55,7 @@ outlineSection: |-
   - Fonctionnalités de Prévisualisation Azure
 
 
-  #### Lab&#58; Utilisation du Portail Azure et de SQL Server Management Studio
+  #### Laboratoire&#58; Utilisation du Portail Azure et de SQL Server Management Studio
   - Provision d'un Serveur SQL sur une Machine Virtuelle Azure
   - Se connecter au Serveur SQL  et Restaurer une Sauvegarde
 
@@ -56,7 +63,7 @@ outlineSection: |-
   - Comprendre le rôle de l'administrateur de base de données Azure comme il s'inscrit dans d'autres rôles de plate-forme de données
   - Être capable de décrire les principales différences entre les opérations de la base de données SQL Server
   - Être capable de décrire la différence entre les versions et les Niveaux de Compatibilité
-  - Savoir activer et désactiver les Fonctionnalités de prévusialisation 
+  - Savoir activer et désactiver les Fonctionnalités de prévusialisation
 
 
   ### Module 2&#58; Planification et mise en œuvre des ressources de la plateforme de données 
@@ -66,10 +73,10 @@ outlineSection: |-
   - Déploiement de SQL Server à l'aide de PaaS
   - Déploiement de solutions de base de données Open Source sur Azure
 
-  #### Lab&#58; Déploiement de la Base de Données SQL Azure
+  #### Laboratoire&#58; Déploiement de la Base de Données SQL Azure
   - Déployer une MV à l'aide d'un modèle ARM
   - Configurer les ressources nécessaires avant la création d'une base de données
-  - Déployer une base de données SQL Azure.
+  - Déployer une base de données SQL Azure
   - Enregistrer l'instance Azure SQL Database dans Azure Data Studio et valider la connectivité
   - Déployer PostgreSQL ou MySQL à l'aide d'un outil client pour valider la connectivité
 
@@ -81,7 +88,7 @@ outlineSection: |-
 
 
   ### Module 3&#58; Mettre en oeuvre un environnement sécurisé
-  Ce module explore les pratiques de sécurisation de votre base de données SQL Server ainsi que d'une base de données SQL Azure. Cela comprend un examen des différentes options basées sur SQL Server ainsi que les différentes options Azure pour sécuriser Azure SQL Database ainsi que les bases de données résidant dans Azure SQL Database. . Les étudiants comprendront pourquoi la sécurité est cruciale lorsqu'ils travaillent avec des bases de données. . Les étudiants sont également initiés à d'autres plateformes de base de données disponibles sur Azure en plus de celles basées sur SQL Server, en particulier, Azure Database pour MariaDB / MySQL / PostgreSQL
+  Ce module explore les pratiques de sécurisation de votre base de données SQL Server ainsi que d'une base de données SQL Azure. Cela comprend un examen des différentes options basées sur SQL Server ainsi que les différentes options Azure pour sécuriser Azure SQL Database ainsi que les bases de données résidant dans Azure SQL Database. . Les étudiants comprendront pourquoi la sécurité est cruciale lorsqu'ils travaillent avec des bases de données. . Les étudiants sont également initiés à d'autres plateformes de base de données disponibles sur Azure en plus de celles basées sur SQL Server, en particulier, Azure Database pour MariaDB/MySQL/PostgreSQL
   #### Leçons
   - Configurer l'authentification de la base de données
   - Configurer l'autorisation de la base de données
@@ -89,7 +96,7 @@ outlineSection: |-
   - Mettre en œuvre la sécurité des données en transit
   - Mettre en œuvre des contrôles de conformité pour les données sensibles
 
-  #### Lab&#58; Mettre en oeuvre un environnement sécurisé
+  #### Laboratoire&#58; Mettre en oeuvre un environnement sécurisé
   - Configurer une règle de pare-feu basée sur le serveur à l'aide du portail Azure
   - Autoriser l'accès à Azure SQL Database avec Azure Active Directory
   - Activer la sécurité et la classification des données avancées
@@ -110,7 +117,7 @@ outlineSection: |-
   - Configuration de la base de données des utilisateurs
   - Tâches de maintenance liées aux performances
 
-  #### Lab&#58; Suivi et optimissation des ressources
+  #### Laboratoire&#58; Suivi et optimissation des ressources
   - Isoler les problèmes de CPU
   - Utilisez Query Store pour observer les problèmes de blocage
   - Détecter et corriger les problèmes de fragmentation
@@ -130,7 +137,7 @@ outlineSection: |-
   - Explorer la conception de bases de données basées sur les performances
   - Évaluer les améliorations de performance
 
-  #### Lab&#58; Résolution des problèmes de performance des requêtes
+  #### Laboratoire&#58; Résolution des problèmes de performance des requêtes
   - Identifier les problèmes liés à la conception de base de données AdventureWorks2017
   - Isoler les zones problématiques dans les requêtes peu performantes dans AdventureWorks2017
   - Utiliser Query Store pour détecter et gérer la régression dans AdventureWorks2017
@@ -151,7 +158,7 @@ outlineSection: |-
   - Configuration des événements étendus
   - Gestion des ressources Azure PaaS à l'aide de méthodes automatisées
 
-  #### Lab&#58; Automatisation des tâches
+  #### Laboratoire&#58; Automatisation des tâches
   - Déployer un modèle Azure à partir d'un modèle Quickstart sur GitHub
   - Configurer les notifications en fonction des indicateurs de performance
   - Déployer un Runbook Azure Automation (ou un travail élastique) pour reconstruire des index sur une base de données SQL Azure 

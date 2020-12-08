@@ -15,12 +15,12 @@ levels:
 skills:
 - Utiliser les outils communs de fonctionnalité et de mise en œuvre
 - Configurer la sécurité, les processus et les options
-- Effectuer la migration des données
+- Gérer les données relatives aux finances et aux opérations
 - Valider et soutenir la solution
 - Configurer la gestion financière
-- Gérer et appliquer les processus communs
-- Mettre en œuvre et gérer lles comptes débiteurs et créditeurs
-- Gérer la budgétisation et les actifs immobilisés
+- Implémenter et gérer les comptes créditeurs et les dépenses
+- Implémenter les comptes débiteurs, le crédit, les recouvrements et la constatation des recettes
+- Gérer la budgétisation et les immobilisations
 roles:
 - functional-consultant
 type: role-based

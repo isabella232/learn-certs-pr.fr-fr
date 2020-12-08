@@ -31,21 +31,29 @@ summary: |-
   #### Profil de l’audience
   Cette formation est adressée aux professionnels des données et de business intelligence qui souhaitent apprendre à effectuer une analyse de données précises à l’aide de Power BI. Cette formation est également adressée à ceux qui développent des rapports qui visualisent des données provenant des technologies de plateformes de données qui existent sur le cloud et sur le site.
 prerequisitesSection: |-
-  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent posséder des connaissances techniques équivalentes aux informations incluses dans le cours Azure Fundamentals.
+  Les analystes de données performants commencent ce rôle avec l'expérience du travail avec des données dans le Cloud.
+  
+  Plus précisément&#58;
+  - Comprendre les concepts de base des données.
+  - Connaissance du travail avec des données relationnelles dans le Cloud.
+  - Connaissance du travail avec des données non relationnelles dans le Cloud.
+  - Connaissance des concepts d'analyse et de visualisation des données.
+  
+  Vous pouvez acquérir les conditions préalables et une meilleure compréhension du travail avec des données dans Azure en complétant [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) avant de suivre ce cours.
 outlineSection: |-
   ### Module 1&#58; Commencer à utiliser l’Analytique données Microsoft
   Ce module explore les différents rôles de l’espace des données, souligne les rôles et responsabilités d’importance d’un analyste des données, puis explore le paysage du portefeuille Power BI.
   #### Leçons
   - Analytique données et Microsoft.
   - Démarrer avec Power BI.
-
+  
   #### Laboratoire&#58; Démarrage
   - Démarrage.
 
   Après avoir terminé ce module, vous seront capables de&#58;
   - Explorer les différents rôles dans les données.
   - Identifier les tâches effectuées par un analyste de données.
-  - Décrire le paysage Power BI des produits et des services
+  - Décrire le paysage Power BI des produits et des services.
   - Utiliser le service Power BI.
 
 
@@ -158,7 +166,7 @@ outlineSection: |-
   #### Laboratoire&#58; Améliorer les rapports de Power BI grâce à l’interaction et à la mise en forme
   - Créer et configurer une synchronisation de segments.
   - Créer une page d’extraction.
-  Appliquer un formatage conditionnel
+  - Appliquer un formatage conditionnel.
   - Créer et utiliser des filigranes.
 
   Après avoir terminé ce module, vous seront capables de&#58;
@@ -206,7 +214,7 @@ outlineSection: |-
   Après avoir terminé ce module, vous seront capables de&#58;
   - Expliquer les rapports paginés.
   - Créer un rapport paginé.
-  - Créer et configurer une source de données et un jeu de données
+  - Créer et configurer une source de données et un jeu de données.
   - Travailler avec des graphiques et des tables.
   - Publier un rapport.
 
@@ -271,4 +279,3 @@ outlineSection: |-
   Après avoir terminé ce module, vous seront capables de&#58;
   - Comprendre les aspects de la sécurité Power BI.
   - Configurer les rôles de sécurité au niveau des lignes et les abonnements des membres.
-

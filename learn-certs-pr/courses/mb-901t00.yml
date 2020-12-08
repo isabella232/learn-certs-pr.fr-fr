@@ -32,7 +32,7 @@ summary: |-
   Cette formation donne aux apprenants un aperçu général des applications de Dynamics 365 Nous vous présenterons chaque application, nous définirons leur valeur commerciale et nous discuterons et présenterons sa fonctionnalité principale. Nous parcourrons la sécurité et le rapport dans Dynamics 365 et vous vous familiariserez aux intégrations des données et des produits disponibles.
 
   #### Profil de l’audience
-  Cette formation vise les apprenants qui cherchent à acquérir des connaissances solides dans les bases fondamentales de Dynamics 365.
+  Ce cours s'adresse aux apprenants qui souhaitent acquérir une base solide dans les fondamentaux de Dynamics 365.
 prerequisitesSection: |-
   Aucun
 outlineSection: |-
@@ -83,11 +83,11 @@ outlineSection: |-
   - Gérer le processus et la filière de vente
   - Avantages de la solution Microsoft Relationship Sales (MRSS)
   - Informations sur les ventes dans Dynamics 365
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365 Product Visualize
   - Summary
 
-  #### Laboratoire &#58; Explorer Microsoft Dynamics 365 Sales
+  #### Laboratoire&#58; Explorer Microsoft Dynamics 365 Sales
   - Créer ou modifier des devis
   - Créer ou modifier des commandes
   - Créer ou modifier des factures
@@ -97,7 +97,7 @@ outlineSection: |-
   - Exprimer comment gérer le processus de vente dans Dynamics 365 Sales.
   - Découvrir Microsoft Relationship Sales Solution (MRSS).
   - Expliquer la valeur commerciale des informations de Dynamics 365 Sales.
-  - Expliquer la valeur commerciale de Microsoft Forms Pro.
+  - Expliquer la valeur commerciale de Dynamics 365 Customer Voice.
 
 
   ### Module 4&#58; Introduction à Microsoft Dynamics 365 Marketing
@@ -112,7 +112,7 @@ outlineSection: |-
   - Gestion des événements
   - Summary
 
-  #### Laboratoire &#58; Explorer Dynamics 365 Marketing
+  #### Laboratoire&#58; Explorer Dynamics 365 Marketing
   - Créer des e-mails engageants
   - Identifier votre public
   - Construire une campagne
@@ -136,7 +136,7 @@ outlineSection: |-
   - Informations sur Dynamics 365 Customer Service
   - Summary
 
-  #### Laboratoire &#58; Explorer Dynamics 365 Customer Service
+  #### Laboratoire&#58; Explorer Dynamics 365 Customer Service
   - Créer et gérer un cas
 
   Après avoir terminé ce module, vous seront capables de&#58;
@@ -166,14 +166,14 @@ outlineSection: |-
 
 
   ### Module 7&#58; Introduction à Dynamics 365 Finance
-  Réussir dans l’environnement professionnel actuel requiert de tirer parti de la technologie pour gérer les finances dans le monde entier, surveiller les performances en temps réel, automatiser et simplifier les fonctions, protéger les résultats opérationnels futurs et maximiser la productivité. Dans ce module, nous vous présenterons Dynamics 365 Finance, l’application professionnelle de gestion financière de Microsoft qui permet aux moyennes entreprises et aux organisations de surveiller les performances de leurs opérations financières dans le monde en temps réel, de prédire les résultats et de prendre des décisions fondées sur les données pour encourager la croissance. 
+  Réussir dans l’environnement professionnel actuel requiert de tirer parti de la technologie pour gérer les finances dans le monde entier, surveiller les performances en temps réel, automatiser et simplifier les fonctions, protéger les résultats opérationnels futurs et maximiser la productivité. Dans ce module, nous vous présenterons Dynamics 365 Finance, l’application professionnelle de gestion financière de Microsoft qui permet aux moyennes entreprises et aux organisations de surveiller les performances de leurs opérations financières dans le monde en temps réel, de prédire les résultats et de prendre des décisions fondées sur les données pour encourager la croissance.
   #### Leçons
   - Introduction
   - Aperçu de Dynamics 365 Finance
   - Capacités essentielles de Dynamics 365 Finance
   - Summary
 
-  #### Laboratoire &#58; Explorer Dynamics 365 Finance
+  #### Laboratoire&#58; Explorer Dynamics 365 Finance
 
   Après avoir terminé ce module, vous seront capables de&#58;
   - Décrire les avantages de Dynamics 365 Finance.
@@ -186,11 +186,11 @@ outlineSection: |-
   #### Leçons
   - Introduction
   - Aperçu de Dynamics 365 Supply Chain Management
-  - Capacités essentielles de Dynamics 365 Supply Chain Management.
+  - Capacités essentielles de Dynamics 365 Supply Chain Management
   - Présentation de Dynamics 365
   - Summary
 
-  #### Laboratoire &#58; Explorer Dynamics 365 Supply Chain Management
+  #### Laboratoire&#58; Explorer Dynamics 365 Supply Chain Management
   - Créer un produit
   - Créer des produits de référence
   - Créer un bon de commande
@@ -206,7 +206,7 @@ outlineSection: |-
   Dynamics 365 Business Central est une solution de gestion des affaires complète qui aide à connecter les données, les personnes et les processus. Elle est conçue pour les petites et moyennes entreprises qui ont dépassé leurs outils de gestion et ont besoin d’uniformiser et d'améliorer leurs opérations. Dans ce module, nous vous présenterons comment Dynamics 365 Business Central rassemble automatiquement les systèmes et les processus, permettant aux utilisateurs de gérer les finances, les ventes, les services et les opérations intégrés.
   #### Leçons
   - Introduction
-  - Présentation de Dynamics 365 Business Central.
+  - Présentation de Dynamics 365 Business Central
   - Finance et budgétisation
   - Gestion de la chaîne logistique
   - Gestion de projet
@@ -230,7 +230,7 @@ outlineSection: |-
   - Progression des employés
   - Summary
 
-  #### Laboratoire &#58; Explorer Dynamics 365 Human Resources
+  #### Laboratoire&#58; Explorer Dynamics 365 Human Resources
   - Créer un emploi
 
   Après avoir terminé ce module, vous seront capables de&#58;
@@ -242,12 +242,12 @@ outlineSection: |-
   Le shopping des clients ne se limite plus à un moment précis. L’engagement commence bien avant que les clients ne viennent dans votre magasin ou sur votre site Internet et la nature des interactions avec les clients a également changé. Les clients ne cherchent plus des vendeurs pour connaître des informations sur les produits, mais engagent des détaillants quand ils ont déjà bien avancé dans leur parcours d'achat. Avec ce changement vient une nouvelle attente des clients qui souhaitent que leur expérience d’achat soit personnalisée, engageante et sans friction. Une telle expérience n’est possible qu’en réunissant les canaux de shopping numériques et physiques pour offrir des expériences personnalisées et différentes qui donnent un avantage concurrentiel et construisent la loyauté envers la marque. Dans ce module, nous vous présenterons Dynamics 365 Commerce.
   #### Leçons
   - Introduction
-  - Présentation de Dynamics 365 Commerce.
-  - Gestion d’Omnicanal et Canal.
-  - Zones fonctionnelles de base de Dynamics 365 Commerce.
+  - Présentation de Dynamics 365 Commerce
+  - Gestion d’Omnicanal et Canal
+  - Zones fonctionnelles de base de Dynamics 365 Commerce
   - Vente assistée
-  - Merchandising et inventaire.
-  - Options de déploiement de Dynamics 365 Commerce.
+  - Merchandising et inventaire
+  - Options de déploiement de Dynamics 365 Commerce
   - Dynamics 365 Fraud Protection
   - Summary
 
@@ -263,16 +263,16 @@ outlineSection: |-
   #### Leçons
   - Introduction
   - Dynamics 365 cloud security
-  - Bases de la sécurité dans le cloud.
+  - Bases de la sécurité dans le cloud
   - Comprendre la sécurité basée sur les rôles
-  - Sécurité dans les applications de Finance and Operations.
+  - Sécurité dans les applications de Finance and Operations
   - Summary
 
-  #### Laboratoire &#58; Explorer les fonctions de sécurité dans les applications fondées sur des modèles dans Dynamics 365
+  #### Laboratoire&#58; Explorer les fonctions de sécurité dans les applications fondées sur des modèles dans Dynamics 365
 
-  #### Laboratoire &#58; Explorer les fonctions de sécurité dans les applications de Finance and Operations
+  #### Laboratoire&#58; Explorer les fonctions de sécurité dans les applications de Finance and Operations
 
-  #### Laboratoire &#58; Renforcez la sécurité en cryptant vos données
+  #### Laboratoire&#58; Renforcez la sécurité en cryptant vos données
 
   Après avoir terminé ce module, vous seront capables de&#58;
   - Décrire la sécurité dans le cloud de Dynamics 365.
@@ -315,7 +315,7 @@ outlineSection: |-
 
 
   ### Module 15&#58; Explorer les intégrations interapplications de Finance and Operations
-  Dans ce module, nous vous aiderons à prendre la bonne décision de conception lorsque vous mettez en œuvre des scénarios d'intégration dans Microsoft Dynamics 365 Finance et Supply Chain Management. 
+  Dans ce module, nous vous aiderons à prendre la bonne décision de conception lorsque vous mettez en œuvre des scénarios d'intégration dans Microsoft Dynamics 365 Finance et Supply Chain Management.
   #### Leçons
   - Introduction
   - Intégration à des applications Dynamics 365
@@ -328,5 +328,5 @@ outlineSection: |-
   Après avoir terminé ce module, vous seront capables de&#58;
   - Décrire le cadre de gestion des données.
   - Décrire les intégrations Office 365.
-  - Explorer les capacités d’intégration aux systèmes externes .
+  - Explorer les capacités d’intégration aux systèmes externes.
 

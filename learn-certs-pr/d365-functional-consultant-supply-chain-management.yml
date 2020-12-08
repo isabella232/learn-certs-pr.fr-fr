@@ -15,12 +15,13 @@ levels:
 skills:
 - Utiliser les outils communs de fonctionnalité et de mise en œuvre
 - Configurer la sécurité, les processus et les options
-- Effectuer la migration des données
+- Gérer les données relatives aux finances et aux opérations
 - Valider et soutenir la solution
 - Mettre en œuvre la gestion des informations sur le produit
 - Mettre en œuvre la gestion de l’inventaire
-- Mettre en œuvre et gérer les processus de la chaîne logistique
-- Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels
+- Implémenter et gérer les processus de la chaîne d'approvisionnement
+- Implémenter la gestion des entrepôts et du transport
+- Implémenter un plan directeur
 roles:
 - functional-consultant
 type: role-based

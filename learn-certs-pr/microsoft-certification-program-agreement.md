@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Certification Program Agreement | Microsoft Docs'
-description: 'Microsoft Certification Program Agreement' 
+description: 'Microsoft Certification Program Agreement'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -11,8 +11,6 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ---
 # Microsoft Certification Program Agreement
-
-## Polices et accords
 
 Le présent contrat du Microsoft Certification Program (**« Contrat »**) est un document juridique entre vous (**« vous »** ou **« votre »**) et Microsoft (**« Microsoft »**) concernant votre participation au Microsoft Certification Program (**« Programme »**). Les conditions générales du présent Contrat s'appliquent à (a) toutes les certifications Microsoft que vous avez obtenues et (b) à votre participation au Programme, y compris à votre accès à et à votre utilisation de l'ensemble des prestations du Microsoft Certification Program et du nom de certification Microsoft que Microsoft met à votre disposition dans le cadre du Programme. Veuillez lire attentivement le présent Contrat. EN ACCÉDANT À OU EN UTILISANT UNE PRESTATION DU MICROSOFT CERTIFICATION PROGRAM OU UN NOM DE CERTIFICATION MICROSOFT, VOUS ACCEPTEZ LES CONDITIONS GÉNÉRALES DU PRÉSENT CONTRAT. SI VOUS N'ACCEPTEZ PAS CE CONTRAT, VOUS NE DEVEZ NI ACCÉDER NI UTILISER LES PRESTATIONS OU NOMS DU MICROSOFT CERTIFICATION PROGRAM.
 

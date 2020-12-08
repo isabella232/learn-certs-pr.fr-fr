@@ -29,6 +29,14 @@ summary: |-
 
   #### Profil de l’audience
   Ce cours vise les personnes qui souhaitent étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur de Microsoft Azure.
+
+prerequisitesSection: |-
+  Aucune certification préalable n'est requise avant de suivre ce cours. Les étudiants qui réussissent le cours Azure Data Fundamentals commencent par une connaissance de base de l'informatique et des concepts d'Internet, et s'intéressent à l'extraction d'informations à partir de données.
+  
+  Plus précisément&#58;
+  - Expérience de l'utilisation d'un navigateur web, tel que [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui).
+  - Familiarité avec les concepts de base liés aux données, comme le travail avec des tableaux de données dans un tableur et la visualisation de données à l'aide de graphiques.
+  - Une volonté d'apprendre par l'exploration pratique.
 outlineSection: |-
   ### Module 1&#58; Explorer des concepts de base des bases de données
   Les étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur de Microsoft Azure. Les étudiants devront identifier et écrire les concepts des données de base telles que les relationnelles, les non relationnels, les Big Data, et l’analytique, et exploreront le moyen d’implémenter cette technologie à l’aide de Azure. Les étudiants exploreront les rôles, les tâches, et les responsabilités dans le monde des données.
@@ -83,4 +91,3 @@ outlineSection: |-
   - Décrire les options de traitement disponibles pour la création de solutions d’analytique de données dans Azure.
   - Décrire Azure Synapse Analytics, Azure Databricks, et Azure HDInsight.
   - Expliquer ce qu’est Microsoft Power BI, ainsi que les blocs de construction et leur collaboration ensemble.
-

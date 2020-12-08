@@ -1,7 +1,7 @@
 ---
 title: À propos des examens de certification Microsoft | Microsoft Docs
 description: À propos des examens de Certification Microsoft 
-documentationcenter: NA 
+documentationcenter: NA
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -13,7 +13,6 @@ ms.author: micsullivan
 
 La Certification Microsoft peut vous amener du début de votre carrière à son summum. Cette certification peut augmenter votre visibilité, vous distinguer de vos pairs et faire valider votre savoir et vos compétences.
 
-
 ## S'inscrire à un examen de Certification Microsoft
 
 Pour les examens MOS (Microsoft Office Specialist) et tout autre examen proposé par des organismes académiques, [inscrivez-vous auprès de Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
@@ -24,15 +23,15 @@ Pour les examens proposés par des organismes commerciaux, [sélectionnez votre 
 
 La page des détails de l'examen pour chaque examen contient une section « Compétences mesurées » qui énumère les compétences qui seront évaluées lors de l'examen ainsi que les outils de préparation disponibles et les ressources fournies par Microsoft.
 
-### Ressources supplémentaires qui peuvent vous aider à démarrer :
+### Ressources supplémentaires qui peuvent vous aider à démarrer:
 
 #### Formations dispensées par un instructeur
 
-[Trouvez des formations en classe et à la demande sur les technologies de Microsoft données par des Formateurs Certifiés de Microsoft.](https://www.microsoft.com/learning/find-partner.aspx)
+[Trouvez des formations en classe et à la demande sur les technologies de Microsoft données par des Formateurs Certifiés de Microsoft.](/learn/certifications/partners)
 
 #### Explorer les formations en ligne gratuites
 
-Apprenez de nouvelles compétences et découvrez la puissance des produits Microsoft avec des conseils étape par étape.  
+Apprenez de nouvelles compétences et découvrez la puissance des produits Microsoft avec des conseils étape par étape.
 [Débutez votre voyage dès aujourd’hui en explorant nos parcours et modules d’apprentissage.](/learn/browse/)
 
 #### Tests d'Entraînement Officiels de Microsoft
@@ -55,14 +54,12 @@ Pour garantir la sécurité des examens et la valeur de nos certifications, nous
 	<br/>
 </div>
 
-
 #### Meilleure réponse (0:20)
 
 <div>
 	<a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
 	<br/>
 </div>
-
 
 #### Construction de liste (0:45)
 
@@ -71,14 +68,12 @@ Pour garantir la sécurité des examens et la valeur de nos certifications, nous
 	<br/>
 </div>
 
-
 #### Études de cas (1:13)
 
 <div>
 	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
 	<br/>
 </div>
-
 
 #### Glisser-déplacer (0:37)
 
@@ -87,7 +82,6 @@ Pour garantir la sécurité des examens et la valeur de nos certifications, nous
 	<br/>
 </div>
 
-
 #### Zone chaude(0:17)
 
 <div>
@@ -95,14 +89,12 @@ Pour garantir la sécurité des examens et la valeur de nos certifications, nous
 	<br/>
 </div>
 
-
 #### Choix multiple (0:37)
 
 <div>
 	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
 	<br/>
 </div>
-
 
 #### Plusieurs choix de réponse (0:20)
 
@@ -143,8 +135,6 @@ Pour garantir la sécurité des examens et la valeur de nos certifications, nous
 	<br/>
 </div>
 
-
-
 ## Élaboration des examens
 
 Microsoft Certification examens sont soigneusement élaborés avec la participation de spécialistes, de manière à refléter comment les produits Microsoft sont utilisés dans les entreprises et les organisations à travers le monde.
@@ -176,18 +166,17 @@ Des prestataires de services d’examen indépendants gèrent l’examen de cert
 9. Soutenir/maintenir pendant la durée de l’examen.
 Microsoft surveille la performance psychométrique des examens tout au long de leur vie, en veillant à ce qu'ils continuent à représenter des mesures valides et fiables du domaine des compétences. Les questions qui ne sont pas valables sur le plan psychométrique sont supprimées et de nouveaux éléments sont ajoutés lors de la mise à jour des fonctionnalités et/ou pour remplacer les éléments supprimés pour des raisons psychométriques ou en raison de changements dans la technologie.
 
-
 ## Participation aux examens bêta
 
 Une partie essentielle du processus de création de l'examen est l'examen bêta. En passant la version bêta de l'examen, les candidats nous fournissent des informations utiles pour évaluer l'exactitude technique, la pertinence et les caractéristiques psychométriques des questions avant la notation des candidats.
 
 ### Comment participer
 
-Les examens Microsoft bêta sont offerts avec une remise de 80 % (code requis). Les candidats qui profitent de la remise de 80 % pour passer l’examen bêta recevront une remise de 25 % sur leur prochain examen après avoir complété leur score, comme expliqué ici: [Mises à jour du programme d’examen bêta de Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Cette remise n’est généralement PAS disponible à tous les participants bêta. Si vous payez pour l’examen bêta par une toute autre méthode, vous ne serez pas éligible au bon de remise de 25 %_
+Les examens Microsoft bêta sont offerts avec une remise de 80% (code requis). Les candidats qui profitent de la remise de 80% pour passer l’examen bêta recevront une remise de 25% sur leur prochain examen après avoir complété leur score, comme expliqué ici: [Mises à jour du programme d’examen bêta de Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Cette remise n’est généralement PAS disponible à tous les participants bêta. Si vous payez pour l’examen bêta par une toute autre méthode, vous ne serez pas éligible au bon de remise de 25%_
 
-Pour obtenir le code, vous pouvez soit être un membre de notre base de données de profils d’experts techniques, soit l’obtenir dans la section « Annonces » du côté gauche de notre [page sur les règles relatives aux examens et les questions fréquemment posées](/learn/certifications/certification-exam-policies). Les participants qualifiés du programme de base de données de profils d’experts techniques recevront un code de remise unique pour participer aux examens bêta, ce qui augmente leur chance de trouver une place à l’examen bêta.
+Pour obtenir le code, vous pouvez soit être membre de notre base de données de profil des PME, soit l'obtenir en consultant les annonces sur le [Microsoft Learn Blog](https://aka.ms/learningblog). Les participants qualifiés du programme de base de données de profils d’experts techniques recevront un code de remise unique pour participer aux examens bêta, ce qui augmente leur chance de trouver une place à l’examen bêta.
 
-Le programme de base de données de profil d’expert technique est maintenant hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter le blog de la communauté [aidez-nous à créer des examens et un contenu d’apprentissage ! Rejoignez notre base de données d’experts techniques dès aujourd’hui !](/learn/certifications/posts/help-us-create-exams-and-learning-content) pour obtenir les instructions sur la manière de rejoindre le programme de Collaborate.
+Le programme de base de données de profil d’expert technique est maintenant hébergé sur [Microsoft Collaborate](https://aka.ms/collaborate). Consulter le blog de la communauté [aidez-nous à créer des examens et un contenu d’apprentissage! Rejoignez notre base de données d’experts techniques dès aujourd’hui!](/learn/certifications/posts/help-us-create-exams-and-learning-content) pour obtenir les instructions sur la manière de rejoindre le programme de Collaborate.
 
 Pour certaines fonctions, le nombre de candidats qualifiés figurant dans la base de données de profils d’experts techniques est nettement plus élevé que celui des places disponibles. Dans ce cas, nous choisissons au hasard un nombre approprié de candidats compatibles et envoyons l'invitation à ceux qui ont été sélectionnés de façon aléatoire. Si vous n’êtes pas sélectionné, vous pouvez toujours participer en consultant la page des annonces où nous publierons un code différent le jour de l’ouverture de l’enregistrement pour l’examen bêta.
 
@@ -203,7 +192,7 @@ Les candidats se trouvant en Chine, en Inde, au Pakistan, ou en Turquie ne sont 
 
 Vous aurez accès à la page « Détails de l'examen » qui énumère les compétences qui seront évaluées lors de l'examen. Même si notre objectif est de s'assurer qu’il existe une formation avant le lancement d'un examen beta, cela n’est pas toujours possible. Les personnes souhaitant passer les examens bêta ont généralement accès à d'autres ressources, connaissent bien la technologie ou utilisent la version bêta du produit. Nous vous recommandons de consulter vos collègues, les ressources de la communauté et les articles rédigés par les premiers utilisateurs si vous avez besoin de matériel de préparation supplémentaire.
 
-Pour plus de suggestions et d'idées sur la préparation des examens bêta sans matériel de préparation, consultez: [Comment se prépare-t-on aux examens bêta sans matériel de préparation ?](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
+Pour plus de suggestions et d'idées sur la préparation des examens bêta sans matériel de préparation, consultez: [Comment se prépare-t-on aux examens bêta sans matériel de préparation?](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
 
 ### Notations et résultats de l'examen bêta
 
@@ -221,9 +210,5 @@ Si vous échouez à l'examen bêta, vous ne pourrez pas le repasser. Si vous êt
 
 Si vous pensez que votre note bêta doit être disponible (parce que l’examen est en direct et que vous avez vu un tweet qui disait qu’elle l’était), vérifiez d'abord si le fournisseur de services d'examen l'a publiée en ligne. Si ce n'est pas le cas, contactez le fournisseur de services d'examen. (Notez qu'un délai pouvant atteindre deux semaines peut s'écouler entre la mise à disposition publique de l'examen et l'affichage en ligne des notes obtenues à l'examen bêta.) Si le fournisseur de services d’examen a publié les notes, mais que vous ne les voyez pas dans votre relevé de résultats Microsoft, contactez [Assistance à la certification](https://aka.ms/mcpforum).
 
-## Obtenez la reconnaissance pour vos connaissances et vos compétences. 
+## Obtenez la reconnaissance pour vos connaissances et vos compétences.
 [Explorez tous les examens de certification.](/learn/certifications/browse/?resource_type=examination)
-
-
-
-

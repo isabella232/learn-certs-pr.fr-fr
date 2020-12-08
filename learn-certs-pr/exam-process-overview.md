@@ -1,6 +1,6 @@
 ---
-title: 'Exam process overview | Microsoft Docs'
-description: 'Exam process overview' 
+title: 'Frequently asked questions | Microsoft Docs'
+description: 'Frequently asked questions'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -12,20 +12,9 @@ ms.prod: non-product-specific
 ---
 # Présentation de la procédure d’examen
 
-## Polices et accords
-
 Trouvez des réponses aux questions fréquemment posées sur les examens de certification Microsoft.
 
-- Principes de base des examens
-- Détails des examens
-- Notation et résultats
-- Règlement concernant la sécurité et l'intégrité
-- Test basé sur les performances
-- Certifications basées sur les rôles
-- Tarif universitaire des examens
-- Demandes d’aménagement
-
-### Principes de base des examens
+## Principes de base des examens
 
 **Combien de questions l'examen comporte-t-il?**
 
@@ -56,7 +45,7 @@ La durée de l'examen varie en fonction du type d'examen que vous passez.
 
 **Comment Microsoft décide-t-il du nombre de questions à inclure dans l'examen pour un sujet particulier?**
 
-Les compétences évaluées dans un examen sont identifiées par des experts externes à Microsoft (en d'autres termes, il ne s'agit pas d'employés de Microsoft). Cette liste de compétences, appelée « domaine des objectifs » constitue la base à partir de laquelle les examens sont développés. Le nombre de questions évaluant chaque domaine de compétence est déterminé par le processus de schéma directeur ; les sections de l'examen mesurant des compétences critiques et/ou des compétences plus fréquemment mises en œuvre comprendront plus de questions que celles qui évaluent des compétences de moindre importance ou moins fréquemment exécutées.
+Les compétences évaluées dans un examen sont identifiées par des experts externes à Microsoft (en d'autres termes, il ne s'agit pas d'employés de Microsoft). Cette liste de compétences, appelée « domaine des objectifs » constitue la base à partir de laquelle les examens sont développés. Le nombre de questions évaluant chaque domaine de compétence est déterminé par le processus de schéma directeur; les sections de l'examen mesurant des compétences critiques et/ou des compétences plus fréquemment mises en œuvre comprendront plus de questions que celles qui évaluent des compétences de moindre importance ou moins fréquemment exécutées.
 
 **L'examen peut-il porter sur des éléments qui ne sont pas couverts par la formation Microsoft ou les livres Microsoft Press que j'utilise pour préparer l'examen?**
 
@@ -76,7 +65,7 @@ Microsoft Certified Trainers travaillent avec plusieurs candidats qui se prépar
 
 Vous pourriez aussi demander à d’autres personnes comment elles font ces exercices, lire des livres blancs, MSDN ou TechNet pour obtenir des informations supplémentaires sur les tâches qui sont incluses dans l’examen et/ou explorer les ressources fournies dans la section « Matériel de préparation » sur la page des détails des examens qui fera le lien vers toute formation en ligne, tout micro-apprentissage, toute option disponibles et un portail où vous pourrez trouver des options de formations dispensées par un instructeur dans votre région.
 
-En outre, les [Microsoft Official Practice Tests (tests d’entraînement Microsoft officiels)](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
+En outre, les [Microsoft Official Practice Tests (tests d’entraînement Microsoft officiels)](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) sont disponibles pour certains de nos examens de certification. Ces tests peuvent vous fournir plus d'informations sur vos points forts et vos lacunes spécifiques. Toutefois, la réussite d'un test de pratique ne garantit pas votre réussite à l'examen de certification.
 
 Si vous avez pris l’examen sans toutefois le réussir, classez par ordre d'importance les compétences que vous devez améliorer en vous concentrant sur les zones de contenu d'examen dans lesquelles vos performances ont été les plus faibles ainsi que sur les zones de contenu ayant le pourcentage de questions le plus élevé.
 
@@ -86,11 +75,11 @@ Rendez-vous sur la [page d'inscription à l’examen](https://docs.microsoft.com
 
 **Suis-je obligé de passer un examen en anglais?**
 
-Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L’octroi de temps supplémentaire est alloué au cas par cas et doit être demandé avant le déroulement de l’examen. La demande doit se faire par le biais du [procédé d’aménagement](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Les examens de certification Microsoft sont disponibles dans de nombreuses langues. Toutefois, les candidats qui doivent passer l'examen en anglais plutôt que dans leur langue maternelle peuvent demander une mesure d'adaptation pour bénéficier d'un délai supplémentaire. L’octroi de temps supplémentaire est alloué au cas par cas et doit être demandé avant le déroulement de l’examen. La demande doit se faire par le biais du [procédé d’aménagement](/learn/certifications/request-accomodations).
 
 **Quels sont les aménagements possibles pour les personnes handicapées?**
 
-Microsoft s'engage à rendre ses examens accessibles à tous, y compris aux personnes handicapées. Pour obtenir une liste des aménagements possibles, reportez-vous à la [section des aménagements](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Microsoft s'engage à rendre ses examens accessibles à tous, y compris aux personnes handicapées. Pour obtenir une liste des aménagements possibles, reportez-vous à la [section demandes d'hébergement](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
 
 **Combien coûtent les examens?**
 
@@ -114,7 +103,7 @@ Pour fournir d’autres types de commentaires, veuillez contacter [L’assistanc
 
 Pour signaler un problème de sécurité, contactez [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Détails des examens
+## Détails des examens
 
 **Quels types de questions les examens de certification Microsoft contiennent-ils?**
 
@@ -136,7 +125,7 @@ Nous révisons nos examens basés sur le cloud tous les deux mois. Toute modific
 
 Microsoft se réserve le droit de mettre à jour le contenu, pour quel que motif que ce soit et à tout moment, afin de préserver la validité et la pertinence de ses certifications. Cela inclut, mais sans s'y limiter, l'ajout de fonctionnalités ou de paramètres liés à des modifications de la technologie, la modification de compétences nécessaires à une fonction, etc.
 
-REMARQUE : Sauf indication contraire sur les compétences évaluées ou dans la description de l’examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu’il s'agit d'une DG (disponibilité générale).
+REMARQUE: Sauf indication contraire sur les compétences évaluées ou dans la description de l’examen, les examens ne couvrent pas les caractéristiques précédentes. Dans la plupart des cas, les caractéristiques ne seront ajoutées aux examens que lorsqu’il s'agit d'une DG (disponibilité générale).
 
 **Comment saurai-je que l'examen a été mis à jour lorsqu'un nouveau paramètre ou une nouvelle fonction sont ajoutés ou lorsque quelque chose a été modifié dans la technologie associée?**
 
@@ -195,7 +184,7 @@ Avant de quitter une section ou de terminer l'examen, vous avez la possibilité 
 
 Non. Un même examen ne peut pas être utilisé pour satisfaire aux exigences d'une certification MCSA et d’une exigence en option pour le même chemin MCSE ou MCSD.
 
-### Notation et résultats
+## Notation et résultats
 
 **Comment et quand vais-je recevoir mes résultats d'examen?**
 
@@ -323,7 +312,7 @@ Si vous pensez qu'une question d'examen de certification Microsoft est inexacte,
 
 Un employé de Microsoft procédera à une évaluation initiale. Si une évaluation supplémentaire est nécessaire, un expert indépendant (technique et spécialiste du poste de travail) examinera et évaluera également votre demande.
 
-**Que se passe-t-il si je ne suis pas d'accord avec la décision de l'évaluateur ? Puis-je faire appel?**
+**Que se passe-t-il si je ne suis pas d'accord avec la décision de l'évaluateur? Puis-je faire appel?**
 
 Non. Microsoft applique un processus de développement d'examen rigoureux pour garantir l'exactitude technique, la clarté, la pertinence et l'objectivité de nos examens. En outre, compte tenu de la compétence des experts indépendants et de l'estime dont ils jouissent dans la communauté informatique, nous considérons leur évaluation comme finale.
 
@@ -335,7 +324,7 @@ Afin de protéger la sécurité des examens, la justification des décisions ren
 
 Non. Microsoft n'accorde pas de remboursement pour les examens que vous ne passez pas ou lorsque vous ne vous présentez pas à l'examen à la date prévue.
 
-### Règlement concernant la sécurité et l'intégrité
+## Règlement concernant la sécurité et l'intégrité
 
 **Pourquoi suis-je obligé d'accepter un accord de confidentialité (NDA) avant de passer un examen?**
 
@@ -373,7 +362,7 @@ Un «brain dump» se rapporte aux examens de certification. Il s'agit d'une sour
 
 **Pourquoi faut-il s'inquiéter de l'utilisation de sites de « brain dump » ou de matériel provenant de ces sites?**
 
-Si un candidat, sciemment ou non, mémorise un contenu non autorisé provenant de « brain dumps » pour réussir un examen, il ou elle n'aura de toute évidence par les compétences requises pour utiliser et gérer efficacement les logiciels ou les systèmes Microsoft. À terme, son responsable identifiera ce manque de connaissances et compétences techniques et prendra les mesures appropriées. Si Microsoft apprend qu'un candidat a utilisé un site de « brain dump » pour se préparer à un examen, celui-ci sera définitivement exclu ou il ne pourra plus s'inscrire aux futurs examens de certification Microsoft ; en outre, ses certifications peuvent être supprimées du Microsoft Certification Program. Ses notes de test et certifications, le cas échéant, peuvent également être révoquées. Ces mesures peuvent être prises même si le candidat n'a pas eu l'intention de frauder au Microsoft Certification Program.
+Si un candidat, sciemment ou non, mémorise un contenu non autorisé provenant de « brain dumps » pour réussir un examen, il ou elle n'aura de toute évidence par les compétences requises pour utiliser et gérer efficacement les logiciels ou les systèmes Microsoft. À terme, son responsable identifiera ce manque de connaissances et compétences techniques et prendra les mesures appropriées. Si Microsoft apprend qu'un candidat a utilisé un site de « brain dump » pour se préparer à un examen, celui-ci sera définitivement exclu ou il ne pourra plus s'inscrire aux futurs examens de certification Microsoft; en outre, ses certifications peuvent être supprimées du Microsoft Certification Program. Ses notes de test et certifications, le cas échéant, peuvent également être révoquées. Ces mesures peuvent être prises même si le candidat n'a pas eu l'intention de frauder au Microsoft Certification Program.
 
 De nombreux fournisseurs de « brain dump » communiquent et décrivent ouvertement leurs produits et l'usage auquel ils sont destinés, tandis que d'autres sont beaucoup plus subtils dans leurs messages et pratiques. De ce fait, les candidats doivent être prudents lors de l'utilisation de matériel de préparation à l'examen qui semble trop beau pour être vrai.
 
@@ -399,7 +388,7 @@ Envoyez un courrier électronique à [mlsecure@microsoft.com](mailto:mlsecure@mi
 
 Oui. Toute correspondance adressée à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) peut rester anonyme et nous ne partagerons vos informations de contact avec aucune autre personne. Si vous souhaitez inclure vos informations de contact pour nous permettre d'obtenir plus d'informations, nous veillerons à ce qu'elles restent confidentielles.
 
-### Test basé sur les performances
+## Test basé sur les performances
 
 **Qu'est-ce qu'un test basé sur les performances (PBT)?**
 
@@ -448,7 +437,7 @@ La plupart des tâches valent un point. Si la tâche vaut plus d'un point, cette
 
 **De combien temps est-ce que je dispose pour remplir les tests de laboratoire?**
 
- Les tests au laboratoire ne sont pas chronométrées séparément de l'examen. Le nombre d'exercices de laboratoire, les études de cas et les questions ainsi que la durée de l'examen sont donnés au début de l'examen. Vous devez répondre à toutes les questions et remplir les tâches associées aux laboratoires pendant le délai fourni. Gérez votre temps pour pouvoir réaliser toutes les activités à remplir.
+Les tests au laboratoire ne sont pas chronométrées séparément de l'examen. Le nombre d'exercices de laboratoire, les études de cas et les questions ainsi que la durée de l'examen sont donnés au début de l'examen. Vous devez répondre à toutes les questions et remplir les tâches associées aux laboratoires pendant le délai fourni. Gérez votre temps pour pouvoir réaliser toutes les activités à remplir.
 
 **Aurai-je suffisamment de temps pour remplir les tâches de laboratoire?**
 
@@ -490,7 +479,7 @@ Non. Les compétences évaluées restent les mêmes, quel que soit le format des
 
 Les examens comprenant des tests de laboratoire exigent que les centres de test répondent à certaines exigences de connectivité Internet. Par conséquent, un plus petit ensemble de centres de test est disponible. Au fur et à mesure que des tests de laboratoire sont ajoutés aux nouveaux examens basés sur les rôles, ils feront également l’objet d'une évaluation de l’ensemble des centres de test. Si vous avez des centres de test spécifiques en tête, contactez un centre de test spécifique pour savoir s’ils peuvent organiser des testes de laboratoire. Sinon, ils ne seront pas répertoriés comme centres de test disponibles une fois l’examen sélectionné. Dans ce cas, nous vous recommandons de trouver un autre centre d’examen ou de passer l’examen par le biais de la surveillance en ligne. Remarque: Il se peut que vous puissiez suivre les exercices de laboratoire par le biais de la surveillance en ligne, toutefois, cela dépendra de votre bande passante et de votre connexion Internet.
 
-### Certifications basées sur les rôles
+## Certifications basées sur les rôles
 
 **Comment les certifications basées sur les rôles seront-elles nommées? S'appelleront-elles toujours MCSA, MCSD et MCSE?**
 
@@ -512,7 +501,7 @@ Avant la fin des examens, assurez-vous de réussir toutes les certifications MCS
 
 Non, nous ne réduisons pas l’expérience dont les gens ont besoin pour réussir les examens ou obtenir nos certifications. La formation est conçue pour préparer les candidats aux examens, mais elle est probablement insuffisante en soi. Les questions de nos examens basés sur les rôles exigent que vous appliquiez les compétences et les connaissances acquises lors de problèmes de formation réels.
 
-### Tarif universitaire des examens
+## Tarif universitaire des examens
 
 **Puis-je obtenir un remboursement si je me suis initialement inscrit et ai payé des frais d’examen sans valider une réduction universitaire si j’ai obtenu une vérification?**
 
@@ -530,11 +519,11 @@ Oui. Vous devez suivre la même procédure qu'un étudiant. En d'autres termes, 
 
 Si vous avez des questions générales liées à l'inscription examens ou à des questions spécifiques relatives à une nouvelle demande de vérification ou à une demande en attente, Veuillez contacter [Assistance de certification](https://aka.ms/mcpforum).
 
-### Demandes d’aménagement
+## Demandes d’aménagement
 
 **Comment puis-je demander un aménagement?**
 
-Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section [Special Accommodations when Taking Exams (Aménagements spéciaux lors d’un examen)](/learn/certifications/request-accomodations) ci-dessus.
+Si vous avez besoin d'un matériel spécial ou d'autres aménagements lorsque vous passez un examen, vous pouvez demander un aménagement à travers de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) à l’aide de leur « Système de demande d'ajustements raisonnables » [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Des détails supplémentaires sont disponibles dans la section [Demande d'hébergement](/learn/certifications/request-accomodations) ci-dessus.
 
 **Pour quelle raison dois-je présenter des documents?**
 

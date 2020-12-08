@@ -24,11 +24,11 @@ skills:
 - Configurer les paramètres des applications
 - Gérer les segments et les listes
 - Créer et gérer des formulaires et des pages de marketing
-- Gérer les prospects
+- Gérer les prospects, les contacts et les comptes
 - Créer et gérer des e-mails pour le marketing
 - Gérer les parcours des clients
 - Gérer des événements et des webinaires
-- Configurer et analyser les réponses des clients
+- Configurer Dynamics 365 Customer Voice
 roles:
 - functional-consultant
 type: role-based

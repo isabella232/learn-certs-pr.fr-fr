@@ -1,6 +1,6 @@
 ---
 title: 'Exam security policy and Exam retake policy | Microsoft Docs'
-description: 'Exam security policy and Exam retake policy' 
+description: 'Exam security policy and Exam retake policy'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -12,14 +12,12 @@ ms.prod: non-product-specific
 ---
 # Politique de sécurité des examens et règlement concernant le rattrapage d’examens
 
-## <a name="security-policies"></a> Polices et accords
-
 Microsoft a mis en œuvre des stratégies spécifiques se rapportant aux domaines de sécurité pertinents aux examens de certification Microsoft.
 
-### Expiration des certifications et recertifications
+## Expiration et re-certification des certifications
 Les certifications Microsoft basées sur les rôles et de spécialisation sont actuellement valables pour une période de deux ans à compter de la date d’obtention de la certification. En raison de la pandémie de COVID-19 et de son incidence sur les personnes et les entreprises, nous avons autorisé une extension des certifications dont l’expiration était initialement prévue avant le 31 décembre 2020. Nous continuerons de suivre la situation de la COVID-19. Si nécessaire, nous avertirons les personnes dont la certification arrive à expiration et leur donnerons plus de temps. Pour le moment, « aucune action » n’est requise de votre part afin de vous assurer que votre certification reste valide. Nous continuerons à vous garder informés sur cette situation et les changements. Restez informés des futures mises à jour du programme et des exigences de recertification en vous inscrivant sur le [blog Microsoft Learn](https://aka.ms/learningblog).
 
-### Exclusion de candidats
+## Exclusion de candidats
 
 Si un candidat enfreint une règle d’examen, la politique en matière d’examens ou les conditions du contrat lié à l’examen (clause de confidentialité) ou agit d’une manière portant atteinte à la sécurité et à l’intégrité du Microsoft Certification Program de quelque manière que ce soit, le candidat se verra définitivement interdit de passer des examens de certification Microsoft. En outre, la certification du candidat peut être annulée par le Microsoft Certification Program et les notes des examens ainsi que les certifications peuvent être révoquées.
 
@@ -40,7 +38,7 @@ Des exemples de conduite inacceptable, d’utilisation abusive et de fraude incl
 - Violation de l’accord de confidentialité de Microsoft (NDA) de quelque façon que ce soit
 - Violation de l’accord conclu avec le prestataire de services d’examen de quelque façon que ce soit
 
-### Procédure d’appel du candidat
+## Procédure d’appel du candidat
 
 1. Les candidats peuvent faire appel de leur exclusion auprès de [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 2. Un candidat peut faire appel de son exclusion suite à la falsification d’un relevé de notes en soumettant le relevé original (et non des copies numérisées ou électroniques) à:
@@ -51,7 +49,7 @@ Des exemples de conduite inacceptable, d’utilisation abusive et de fraude incl
 
 3. Microsoft Worldwide Learning Security Team passera en revue toutes les demandes de recours qui lui seront adressées et mènera une enquête approfondie pour chaque cas spécifique. Elle informera directement le candidat du résultat de l’enquête et de la décision finale concernant l’appel.
 
-### Règles relatives aux examens de rattrapage
+## Règles relatives aux examens de rattrapage
 
 1. Politique générale de rattrapage d’examen de certification Microsoft.
     1. Si un candidat n’obtient pas la note de passage requise pour un examen la première fois, il doit attendre 24 heures avant de repasser cet examen. À ce moment, les candidats peuvent se connecter à leur [tableau de bord de certification](https://aka.ms/certdashboard) et reporter eux-mêmes l’examen.
@@ -91,20 +89,20 @@ Des exemples de conduite inacceptable, d’utilisation abusive et de fraude incl
     1. Les examens bêta ne peuvent être passés qu’une seule fois au cours de la période bêta. Si le candidat réussit l’examen (déterminé à la fin de la période bêta), cela compte pour l’obtention du crédit de la certification. Si le candidat échoue à l’examen, il peut le repasser conformément aux politiques ci-dessus.
     2. Cette politique remplace la règle générale relative aux examens de rattrapage.
 
-### Fermeture d’un centre de tests pour des raisons de sécurité
+## Fermeture d’un centre de tests pour des raisons de sécurité
 
 1. Microsoft peut suspendre les examens dans tout centre s’il estime qu’il y a un problème de sécurité ou d’intégrité.
 2. Microsoft peut suspendre les examens sur les sites associés aux centres de tests présentant des risques de sécurité.
 
-### Procédure d’appel des centres de tests
+## Procédure d’appel des centres de tests
 
 Les propriétaires des centres de tests peuvent faire appel contre la fermeture de leur site en soumettant un appel auprès de [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Analyse statistique des données
+## Analyse statistique des données
 
 Microsoft utilisera une analyse statistique des données comme base pour toute action engagée à l’encontre d’un candidat. Des preuves statistiques peuvent confirmer une atteinte à l’intégrité d’un examen et/ou être utilisées pour corroborer toute activité répréhensible. Les examens et les notes peuvent être annulés, les candidats peuvent être exclus et les centres de tests peuvent être fermés sur la base de preuves statistiques.
 
-### Tests à l’étranger
+## Tests à l’étranger
 
 **Pour pouvoir vous présenter à un examen de certification Microsoft dans un centre de tests en Inde, en Chine ou au Pakistan, vous devez être un résident légitime dans ce pays. Si vous êtes un résident légitime dans ce pays, veuillez noter les points suivants:**
 
@@ -120,15 +118,15 @@ En raison des lois slovènes sur la protection de la vie privée, les examens su
 
 - Les candidats résidant hors de Slovénie pourront éventuellement voir que l’option de surveillance en ligne est disponible pour l’épreuve, mais ils ne pourront pas valider leur examen s’ils présentent une pièce d’identité slovène (passeport ou autre) pour s’identifier formellement. Ces candidats doivent programmer un examen dans un centre d’examens.
 
-### Examen de rattrapage d’un candidat à la demande de Microsoft
+## Examen de rattrapage d’un candidat à la demande de Microsoft
 
 1. Microsoft se réserve le droit de demander à n’importe quel candidat de repasser l’examen à tout moment. En cas de soupçon d’activité frauduleuse ou d’anomalies relevées dans l’examen.
 2. Un nouveau test aura lieu sur un site sélectionné par Microsoft, à une date convenue entre Microsoft et le candidat.
 
-### Révocation de certifications
+## Révocation de certifications
 
 Si un candidat enfreint une règle d’examen, la politique en matière d’examens ou les conditions du contrat lié à l’examen (clause de confidentialité) ou agit d’une manière portant atteinte à la sécurité et à l’intégrité du Microsoft Certification Program de quelque manière que ce soit, le candidat se verra définitivement interdit de passer des examens de certification Microsoft. En outre, la certification du candidat peut être annulée par le Microsoft Certification Program et les notes des examens ainsi que les certifications peuvent être révoquées.
 
-### Droit d’exclusion
+## Droit d’exclusion
 
 Pour des raisons de sécurité et d’intégrité, Microsoft se réserve le droit d’exclure des régions, des pays et des centres de tests de l’ensemble du Microsoft Certification Program.

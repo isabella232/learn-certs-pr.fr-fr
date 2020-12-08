@@ -36,8 +36,18 @@ summary: |-
   #### Profil de l’audience
   L'audience principale de cette formation est les professionnels des données, les architectes en données et les professionnels en solutions décisionnelles qui souhaitent découvrir les technologies des plateformes de données qui existent sur Microsoft Azure. L’audience secondaire de cette formation est les personnes qui mettent au point des applications qui fournissent du contenu des technologies de plateformes de données qui existent sur Microsoft Azure.
 prerequisitesSection: |-
-  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent avoir des connaissances techniques équivalent aux formations suivantes &#58;
-  - [Azure Fundamentals](https&#58;//docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/)
+  Les étudiants qui réussissent ce cours commencent par une connaissance des concepts du Cloud computing et une expérience professionnelle des solutions de données.
+  
+  Plus précisément&#58;
+  - Création de ressources Cloud dans Microsoft Azure
+  - Identifier les cas d'utilisation de données volumineuses
+  - Comprendre comment les services de Cloud computing peuvent répondre aux besoins communs des entreprises
+  
+  Pour acquérir ces compétences préalables, suivez la formation en ligne gratuite suivante avant de participer au cours&#58;
+  - [Explore Microsoft cloud concepts](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Identify tasks of a data engineer](/learn/modules/data-engineering-processes/)
+  - [Core cloud services – Azure data storage options](/learn/modules/intro-to-data-in-azure/)
+  - [Core cloud services – Azure compute options](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Module 1&#58; Azure pour l’ingénieur en données
   Ce module explore l’évolution du monde des données et la façon dont les technologies de plateformes de données dans le cloud offrent de nouvelles possibilités aux entreprises d’explorer leurs données de différentes façons. Les étudiants obtiendront un aperçu des différentes technologies de plateformes de données disponibles et de la façon dont le rôle et les responsabilités d’une ingénieur en données ont évolué pour travailler dans ce nouveau monde pour le bénéfice d'une organisation.
@@ -232,4 +242,3 @@ outlineSection: |-
   - Dépannage des problèmes courants de stockage des données
   - Dépannage des problèmes courants de traitement des données
   - Gestion de la reprise après sinistre
-

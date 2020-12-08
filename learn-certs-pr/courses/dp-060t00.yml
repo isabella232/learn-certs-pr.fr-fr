@@ -26,8 +26,16 @@ summary: |-
   #### Profil de l’audience
   Les principaux candidats à cette formation sont les développeurs de bases de données qui prévoient la migration de leurs charges de travail Mongo DB et Cassandra DB vers Azure à l’aide de Cosmos DB.
 prerequisitesSection: |-
-  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes &#58;
-  - Les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour créer et configurer des applications évolutives NoSQL indépendantes d’une API de Cosmos DB.
+  Les étudiants qui débutent avec succès dans ce métier ont une connaissance fondamentale des concepts du Cloud computing et une expérience professionnelle dans la configuration d'applications NoSQL.
+  
+  Plus précisément&#58;
+  - Les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour construire et configurer des applications NoSQL évolutives qui sont agnostiques à l'API Cosmos DB.
+  - Expérience avec Azure, telle que le déploiement et la gestion des ressources
+  
+  Pour acquérir ces compétences, suivez la formation en ligne gratuite suivante avant de participer au cours&#58;
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
+  - [Core cloud services – Azure compute options](/learn/modules/intro-to-azure-compute/)
+  - [Case studies&#58; NoSQL databases and cloud object storage](/learn/modules/cmu-case-study-nosql-databases/)
 outlineSection: |-
   ### Module 1&#58; Développer des applications distribuées sur le plan mondial avec Cosmos DB
   Ce module décrit les avantages et l’architecture des Cosmos DB.
@@ -37,7 +45,7 @@ outlineSection: |-
   - Capacité de traitement du provisionnement.
   - Meilleures pratiques de partitionnement/diffusion.
 
-  À la fin de ce module, les étudiants seront capables de décrire &#58;
+  À la fin de ce module, les étudiants seront capables de décrire&#58;
   - Introduction à Cosmos DB
   - Cosmos DB APIs
   - Capacité de traitement du provisionnement.
@@ -49,21 +57,21 @@ outlineSection: |-
   #### Leçons
   - Comprendre les avantages de la migration.
   - Planification de la migration.
-  - Migration des données
-  - Migration des applications
-  - Considérations post-migrations
+  - Migration des données.
+  - Migration des applications.
+  - Considérations post-migrations.
 
 
-  #### Travaux pratiques &#58; Migrer les charges de travail MongoDB vers Cosmos DB.
+  #### Travaux pratiques&#58; Migrer les charges de travail MongoDB vers Cosmos DB.
   - Créer un projet de migration.
   - Définir une source et une cible.
-  - Réalisation de la migration
-  - Vérification de la migration
+  - Réalisation de la migration.
+  - Vérification de la migration.
 
-  À la fin de ce module, les étudiants seront capables de &#58;
+  À la fin de ce module, les étudiants seront capables de&#58;
   - Comprendre les avantages de la migration.
   - Effectuer la planification de la migration.
-  - Effectuer la migration des données
+  - Effectuer la migration des données.
   - Effectuer la migration des applications.
   - Établir les considérations post-migration.
 
@@ -73,24 +81,23 @@ outlineSection: |-
   #### Leçons
   - Comprendre les avantages de la migration.
   - Planification de la migration.
-  - Migration des données
-  - Migration des applications
-  - Considérations post-migrations
+  - Migration des données.
+  - Migration des applications.
+  - Considérations post-migrations.
 
 
   #### Travaux pratiques &#58; Migrer les charges de travail Cassandra DB vers Cosmos DB
   - Exporter le schéma.
   - Déplacer les données à l’aide de CQLSH COPY.
   - Déplacer les données à l’aide de Spark.
-  - Vérification de la migration
+  - Vérification de la migration.
 
   À la fin de ce module, les étudiants seront capables de&#58;
   - Comprendre les avantages de la migration.
   - Effectuer la planification de la migration.
-  - Effectuer la migration des données
+  - Effectuer la migration des données.
   - Effectuer la migration des applications.
   - Établir les considérations post-migration.
 
   #### Lecture supplémentaire
   Aucune lecture supplémentaire n’est requise pour suivre cette formation.
-

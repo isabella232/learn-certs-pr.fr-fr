@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Comprendre les concepts généraux du cloud computing.
 - skill: Comprendre les services essentiels disponibles avec Microsoft Azure.
-- skill: Comprendre la sécurité, la confidentialité, la conformité et la confiance avec Microsoft Azure.
+- skill: Comprendre la sécurité, la vie privée, la conformité et la confiance avec Microsoft Azure.
 - skill: Comprendre la tarification et les modèles de support disponibles avec Microsoft.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -34,12 +34,12 @@ exams:
 summary: |-
   Cette formation sur une jours fournira des connaissances fondamentales sur les concepts du Cloud; les services de base d’Azure; la sécurité, la confidentialité, la conformité et la confiance; et la tarification et le support d’Azure.
 
-  Remarque &#58; Cette formation ne fournit pas aux étudiants de passe Azure ni de temps de participation au laboratoire pratique. Si vous êtes intéressé par une expérience de laboratoire pratique plus interactive, considérez la formation sur deux jours AZ-900T00 &#58; Microsoft Azure Fundamentals, qui inclut un laboratoire pratique dirigé par un instructeur. Le contenu des deux formations s’aligne sur le domaine de l’objectif de l’examen AZ-900.
+  Remarque&#58; Cette formation ne fournit pas aux étudiants de passe Azure ni de temps de participation au laboratoire pratique. Si vous êtes intéressé par une expérience de laboratoire pratique plus interactive, considérez la formation sur deux jours AZ-900T00&#58; Microsoft Azure Fundamentals, qui inclut un laboratoire pratique dirigé par un instructeur. Le contenu des deux formations s’aligne sur le domaine de l’objectif de l’examen AZ-900.
 
   #### Profil de l’audience
   Cette formation convient aux gestionnaires de programmes et de ventes techniques, possédant une formation informatique. Ces étudiants souhaitent s’informer sur nos offres, voir comment les composants sont mis en œuvre, et poser des questions sur les produits et les fonctionnalités. Cette formation ne fournit pas de passe Azure ni du temps de classe aux étudiants pour réaliser des activités de laboratoire pratique. Les étudiants peuvent obtenir un essai gratuit et essayer les exercices en dehors de la classe. Cette formation se compose principalement de conférence et de démonstrations. Cette formation contribuera à préparer les personnes à l’examen AZ-900.
 prerequisitesSection: |-
-  Il n’y a pas de prérequis à cette formation. Aucune expérience technique en informatique n’est requise, mais des connaissances ou une expérience générales en informatique seront utiles.
+  Il n'y a pas de pré-requis pour suivre ce cours. Une expérience dans le domaine de l'informatique technique n'est pas requise, mais des connaissances ou une expérience générales en informatique seraient utiles.
 outlineSection: |-
   ### Module 1&#58; Concepts du cloud
   Dans ce module, vous découvrirez les concepts de base du cloud.
@@ -49,7 +49,7 @@ outlineSection: |-
   - l’ « infrastructure as a service » (IaaS), la « platform as a service » (PaaS), et le « software as a service » (SaaS)
   - Modèles de cloud public, privé et hybride
 
-  Après avoir terminé ce module, les étudiants seront capables de &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Comprendre les concepts généraux du cloud computing
 
 
@@ -62,22 +62,20 @@ outlineSection: |-
   - Outils de gestion Azure
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre les services de base disponibles avec
-  Microsoft Azure
+  - Comprendre les services de base disponibles avec Microsoft Azure
 
   ### Module 3&#58; Sécurité, confidentialité, conformité et confiance
   Dans ce module, vous découvrirez la sécurité, la confidentialité, la conformité, et la confiance avec Microsoft Azure.
   #### Leçons
   - Sécurisation de la connectivité de réseau dans Azure.
-  - Services d’identité de base Azure
-  - Outils et fonctionnalités de sécurité
-  - Méthodologies de gouvernance Azure
+  - Services d’identité de base Azure.
+  - Outils et fonctionnalités de sécurité.
+  - Méthodologies de gouvernance Azure.
   - Surveillance et génération de rapports dans Azure.
   - Normes de confidentialité, de conformité, et de protection des données dans Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre
-  Sécurité, confidentialité, conformité et confiance avec Microsoft Azure.
+  - Comprendre Sécurité, confidentialité, conformité et confiance avec Microsoft Azure.
 
   ### Module 4&#58; Tarification, accords de niveau de service et cycle de vie Azure
   Dans ce module, vous vous concentrerez sur la tarification et les modèles de soutien disponibles avec Microsoft.
@@ -88,4 +86,3 @@ outlineSection: |-
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Comprendre la tarification et les modèles de cycle de vie des services avec Microsoft.
-

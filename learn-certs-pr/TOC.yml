@@ -28,8 +28,8 @@
 - name: Règles applicables aux examens et FAQ
   expanded: false
   items:
-  - name: Présentation de la procédure d’examen
-    href: exam-process-overview.md  
+  - name: Questions fréquemment posées
+    href: frequently-asked-questions.md  
   - name: Politique de sécurité des examens et règlement concernant le rattrapage d’examens
     href: exam-security-policy-and-exam-retake-policy.md
   - name: Politique relative au report et à l’annulation des examens

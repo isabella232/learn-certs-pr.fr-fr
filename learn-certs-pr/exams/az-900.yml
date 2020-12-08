@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong> La diffusion du nouvel examen OD, de l'examen et de la formation correspondante a été reportée du 15 septembre 2020 à début novembre. Veuillez vous renseigner ultérieurement pour de plus amples informations. Nous veillerons à ce que vous ayez un préavis d’au moins 30 jours avant la  publication de la nouvelle version de l’examen. </strong><br/><br/></div> 
+  <div><strong>Le contenu de cet examen sera mis à jour le 9 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.</strong><br/><br/></div> 
   </div>
   
   Les candidats à cet examen doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure. L’examen est destiné aux candidats venant de commencer à travailler avec des solutions et des services cloud ou qui découvrent Azure.
@@ -38,6 +38,7 @@ locales:
 levels:
 - beginner
 skills:
+- Le contenu de cet examen sera mis à jour le 9 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Décrire la Concepts le cloud (15-20%)
 - Décrire les services essentiels d’Azure (30-35%)
 - Décrire la sécurité, la confidentialité, la conformité et la confiance (25-30%)

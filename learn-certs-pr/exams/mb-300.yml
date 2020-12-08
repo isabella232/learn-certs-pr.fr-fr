@@ -8,16 +8,16 @@ displayName: MB-300
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour le 16 octobre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
+  Les candidats à cet examen analysent les besoins des entreprises et traduisent ces besoins en processus et solutions d'entreprise pleinement réalisés qui mettent en œuvre les meilleures pratiques de l'industrie. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
   <br/>
 
-  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur site, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
+  Les candidats comprennent les caractéristiques et les capacités communes des applications Finance et Opérations et savent comment les configurer et les utiliser. Ils doivent également savoir comment les applications Finance et Opérations s'intègrent à des systèmes et outils externes, notamment Power Platform. Le candidat gère activement le cycle de vie des applications en utilisant Lifecycle Services (LCS) et d'autres outils et plateformes Microsoft.
 
-  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Finance and Operations de Microsoft Dynamics 365, y compris la finance, la fabrication et la gestion de la chaîne logistique.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: utiliser les outils communs de fonctionnalité et de mise en œuvre, configurer la sécurité, les processus et les options, effectuer la migration des données et valider et soutenir la solution.'
+  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de fonctionnalités des applications Finance et Opérations, notamment la finance, la fabrication et la gestion de la chaîne d'approvisionnement.
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: utiliser des fonctionnalités et des outils de mise en œuvre communs; configurer la sécurité, les processus et les options; gérer les données financières et opérationnelles; et valider et soutenir la solution.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,11 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Utiliser les outils communs de fonctionnalité et de mise en œuvre (20 à 25%)
-- Configurer la sécurité, les processus et les options (45 à 50%)
-- Effectuer la migration des données (15 à 20%)
-- Valider et soutenir la solution (15 à 20%)
+- Le contenu de cet examen a été mis à jour le 16 octobre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Utiliser des fonctionnalités communes et des outils d'implémentation (15-20%)
+- Configurer la sécurité, les processus et les options (30-35%)
+- Gérer les données relatives aux finances et aux opérations (25-30%)
+- Valider et soutenir la solution (15-20%)
 roles:
 - functional-consultant
 products:

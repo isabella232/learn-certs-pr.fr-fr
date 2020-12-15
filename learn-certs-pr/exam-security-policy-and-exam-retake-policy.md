@@ -14,9 +14,6 @@ ms.prod: non-product-specific
 
 Microsoft a mis en œuvre des stratégies spécifiques se rapportant aux domaines de sécurité pertinents aux examens de certification Microsoft.
 
-## Expiration et re-certification des certifications
-Les certifications Microsoft basées sur les rôles et de spécialisation sont actuellement valables pour une période de deux ans à compter de la date d’obtention de la certification. En raison de la pandémie de COVID-19 et de son incidence sur les personnes et les entreprises, nous avons autorisé une extension des certifications dont l’expiration était initialement prévue avant le 31 décembre 2020. Nous continuerons de suivre la situation de la COVID-19. Si nécessaire, nous avertirons les personnes dont la certification arrive à expiration et leur donnerons plus de temps. Pour le moment, « aucune action » n’est requise de votre part afin de vous assurer que votre certification reste valide. Nous continuerons à vous garder informés sur cette situation et les changements. Restez informés des futures mises à jour du programme et des exigences de recertification en vous inscrivant sur le [blog Microsoft Learn](https://aka.ms/learningblog).
-
 ## Exclusion de candidats
 
 Si un candidat enfreint une règle d’examen, la politique en matière d’examens ou les conditions du contrat lié à l’examen (clause de confidentialité) ou agit d’une manière portant atteinte à la sécurité et à l’intégrité du Microsoft Certification Program de quelque manière que ce soit, le candidat se verra définitivement interdit de passer des examens de certification Microsoft. En outre, la certification du candidat peut être annulée par le Microsoft Certification Program et les notes des examens ainsi que les certifications peuvent être révoquées.

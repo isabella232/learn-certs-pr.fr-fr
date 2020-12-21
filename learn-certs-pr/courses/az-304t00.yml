@@ -38,11 +38,19 @@ summary: |-
   #### Profil de l’audience
   Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les Azure Solution Architects utilisentAzure Portal et en se familiarisant davantage, ils utiliseront le Command Line Interface. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
 prerequisitesSection: |-
-  Les Azure Solution Architects réussis débutent cette fonction en ayant de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, et la mise en réseau.
+  Les architectes Azure qui ont du succès débutent ce poste avec une expérience des systèmes d'exploitation, de la virtualisation, de l'infrastructure cloud, des structures de stockage, de la mise en réseau, des applications et des bases de données.
   - Comprendre les technologies de virtualisation sur site, y compris &#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
   - Comprendre la configuration du réseau, ce qui inclut TCP/IP, le système de nom de domaine (DNS), les réseaux privés virtuels (VPN), les pare-feux et les technologies de cryptage.
   - Comprendre les concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplication, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
   - Comprendre la résilience et la récupération après sinistre, ce qui inclut les opérations de sauvegarde et de récupération.
+  - Comprendre le développement des applications et les APIs. 
+  - Comprendre les bases de données, tant SQL comme MS SQL, MySQL ou Postgres, que les bases de données non-SQL comme MongoDB. 
+  - Compréhension du découplage Applications et services, par exemple, Files d'attente, tables, Cache.  
+  - Compréhension des concepts de sécurité pour protéger votre environnement, comme le cryptage au repos, le cryptage en transit, SSL, TLS.
+  
+  Cours pré-requis (ou connaissances équivalentes)&#58;
+  - AZ-900 Azure Fundamentals 
+  - AZ-303 Azure Solution Architect Technologies 
 outlineSection: |-
   ### Module 1&#58; Concevoir une Solution de Calcul
   Dans ce module, vous découvrirez les technologies de calcul appropriées, notamment les machines virtuelles, App Services, Service Fabric, Azure Functions, Windows Virtual Desktop, et les conteneurs.

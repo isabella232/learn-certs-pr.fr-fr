@@ -17,13 +17,18 @@ providers:
   examUrl: http://www.certiport.com/locator
 locales:
 - en
+- es
+- fr
+- de
+- ja
+- ko
 levels:
 - advanced
 skills:
-- Gérer des options et des paramètres dans un manuel (15 à 20%)
-- Gérer et formater des données (20 à 25%)
-- Créer des formules et des macros avancés (30 à 35%)
-- Gérer des tableaux et des graphiques avancés (25 à 30%)
+- Gérer des options et des paramètres dans un manuel (15-20%)
+- Gérer et formater des données (20-25%)
+- Créer des formules et des macros avancés (30-35%)
+- Gérer des tableaux et des graphiques avancés (25-30%)
 roles:
 - business-user
 products:

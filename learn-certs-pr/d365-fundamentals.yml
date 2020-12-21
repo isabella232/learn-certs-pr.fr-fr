@@ -9,6 +9,8 @@ summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle; la réalité mélangée; Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.
+
+  <div><br/><strong>Remarque&#58; Microsoft ne mettra pas à jour les références de “Common Data Service” à “Microsoft Dataverse” pour le moment.</strong></div> 
 subTitle: 'Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle (AI); la réalité mélangée (MR); Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.'
 levels:
 - beginner
@@ -18,7 +20,10 @@ skills:
 - Décrire les applications basées sur des modèles.
 - Décrire les applications de Finance and Operations.
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 type: fundamentals
 products:
 - dynamics-365

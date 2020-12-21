@@ -16,6 +16,8 @@ summary: |-
   Les candidats sont principalement responsables de la configuration du système pour répondre aux besoins des clients, de la réalisation des tâches de conception liées à la mise en œuvre de nouvelles fonctionnalités, de la mise en œuvre et du test des modifications apportées au système.
 
   Les candidats planifient la conception fonctionnelle des solutions, mettent en œuvre une application de gestion du cycle de vie (ALM), migrent les données et les objets de systèmes existants et externes, intègrent Power Platform à d’autres systèmes et gèrent l’environnement Power Platform.
+
+  <div><strong><br/>Comme cet examen est retiré le 31 décembre 2020, Microsoft ne mettra pas à jour les références de "Common Data Service" à "Microsoft Dataverse".</strong></div>
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la découverte, la planification et l’analyse, gérer la conception de l’expérience utilisateur, gérer les entités et les données, mettre en œuvre la sécurité, mettre en œuvre l’intégration et effectuer le déploiement et le test des solutions.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

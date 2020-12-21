@@ -8,7 +8,7 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour mercredi 7 octobre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
+  <div><strong>Le contenu de cet examen a été mis à jour le 10 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels de Dynamics 365 Customer Engagement ayant une expertise dans le domaine des services de terrain. Les candidats sont responsables de la mise en œuvre de solutions qui gèrent les ressources qui complètent le cycle de vie des services sur le terrain.
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 10 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 10 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Configurer les applications de service sur le terrain (15-20%)
 - Gérer les ordres de travail (15-20%)
 - Programmer et expédier les ordres de travail (25-30%)

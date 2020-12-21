@@ -17,12 +17,18 @@ subTitle: La certification Azure Fundamentals valide les connaissances fondament
 levels:
 - beginner
 skills:
-- Décrire de Concepts le cloud
-- Décrire les services essentiels d’Azure
-- Décrire la sécurité, la confidentialité, la conformité et la confiance
-- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie
+- Décrire les concepts du Cloud
+- Décrire les services principaux Azure
+- Décrire les solutions de base et les outils de gestion sur Azure
+- Décrire les caractéristiques générales de sécurité et de sécurité des réseaux
+- Décrire les caractéristiques d'identité, de gouvernance, de respect de la vie privée et de conformité
+- Décrire la gestion des coûts Azure et les Service Level Agreements
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 type: fundamentals
 products:
 - azure
@@ -30,10 +36,12 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
-- uid: learn.wwl.distinguish-microsoft-azure-core-services
-- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
-- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900

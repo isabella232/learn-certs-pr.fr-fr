@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color: red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight: bold;'>Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.<br/><br/></div>
+  <div style='font-weight: bold;'> Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées pratiques avec les gens, les processus, et les technologies, afin de livrer une valeur métier continue.
@@ -28,8 +28,8 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
-- Développer une stratégie d’instrumentation (5 à 10%)
+- Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé. 
+- Développer une stratégie d’instrumentation (5 à 10%) 
 - Développer une stratégie d’ingénierie SRE (Site Reliability Engineering) (5 à 10%)
 - Développer un plan de sécurité et de conformité (10 à 15%)
 - Gérer le contrôle des sources (10 à 15%)

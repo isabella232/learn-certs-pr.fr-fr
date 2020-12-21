@@ -56,6 +56,8 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
 	- Compétences de formation de base Microsoft
     - Certification de ompétences de formation New Horizons
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OU<br/><br/>
 

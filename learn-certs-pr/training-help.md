@@ -52,18 +52,9 @@ Pour commencer, l’inscription aux cours ne sera disponible qu’en anglais. De
 			<td>
 				<ul>
 					<li>Veuillez consulter la <a href="/learn/certifications/training-faq">FAQs</a>.</li>
-					<li>Si vous ne trouvez pas une réponse à votre question, veuillez publier votre question sur le Forum d’assistance de <a href="https://trainingsupport.microsoft.com/iltvilt/forum">Learn sur la planification des formations dispensées par un instructeur chez un Partenaire d’apprentissage</a>.
+					<li>Si vous ne trouvez pas une réponse à votre question, veuillez publier votre question sur le Forum d’assistance de <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">Learn sur la planification des formations dispensées par un instructeur chez un Partenaire d’apprentissage</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>Commentaires généraux</em></strong> pour améliorer l’expérience ou le service </p>
-            </td>
-            <td>
-                <p>Veuillez <a href="/learn/support/troubleshooting#report-feedback">soumettre des commentaires dans ce formulaire et</a> sélectionnez « Produit ou fonctionnalité », puis « Formation dispensée par un instructeur » et fournissez vos commentaires détaillés.</p>
-				<p>Soyez assuré que vos commentaires seront traités, mais vous ne recevrez pas de réponse à vos commentaires.</p>
             </td>
         </tr>
         <tr>

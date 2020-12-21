@@ -32,277 +32,283 @@ summary: |-
   #### Profil de l’audience
   Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les Azure Solution Architects utilisentAzure Portal et en se familiarisant davantage, ils utiliseront le Command Line Interface. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
 prerequisitesSection: |-
-  Les Azure Solution Architects réussis débutent cette fonction en ayant de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, et la mise en réseau.
-  - Comprendre les technologies de virtualisation sur site, y compris&#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
-  - Comprendre la configuration du réseau, ce qui inclut TCP/IP, le système de nom de domaine (DNS), les réseaux privés virtuels (VPN), les pare-feux et les technologies de cryptage.
-  - Comprendre les concepts d’Active Directory, ce qui inclut les domaines, les forêts, les contrôleurs de domaine, la réplication, le protocole Kerberos et le Lightweight Directory Access Protocol (LDAP).
-  - Comprendre la résilience et la récupération après sinistre, ce qui inclut les opérations de sauvegarde et de récupération.
+  Les étudiants en architecture Azure ayant réussi ont une expérience préalable des systèmes d'exploitation, de la virtualisation, de l'infrastructure dans le Cloud, des structures de stockage et de la mise en réseau&#58;
+  - Compréhension des technologies de virtualisation sur site, y compris les VMs et les réseaux virtuels
+  - Compréhension de la configuration du réseau, y compris le TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), les pare-feu et les technologies de cryptage  
+  - Compréhension des concepts d'Active Directory, y compris les domaines, les arborescences et les contrôleurs de domaine
+  
+  Si vous êtes novice sur Azure et en matière de Cloud Computing, envisagez l'une des ressources suivantes&#58;
+  - Gratuitement en ligne&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/) 
+  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01) 
 outlineSection: |-
-  ### Module 1&#58; Mise en Réseau Virtuelle.
-  Dans ce module, vous découvrirez les concepts de la mise en réseau virtuelle de base comme les réseaux virtuels et les sous-réseaux, l’adresse IP, les groupes de sécurité du réseau, Azure Firewall et Azure DNS.
-  #### Leçons
-  - Virtual Network Peering.
-  - Mise en œuvre de VNet Peering.
+  ### Module 1&#58; Implement Azure Active Directory
+  Dans ce module, vous apprendrez comment sécuriser les identités avec Azure Active Directory, et mettre en place des utilisateurs et des groupes. Ce module comprend&#58;
+  #### Enseignements
+  - Aperçu Azure Active Directory
+  - Utilisateurs et groupes
+  - Domaines et domaines personnalisés
+  - Protection de l'identité Azure AD 
+  - Mettre en œuvre un Conditional Access
+  - Configurer des Fraud Alerts pour MFA
+  - Mettre en œuvre Bypass Options
+  - Configurer les utilisateurs invités dans Azure AD
+  - Configurer les IPs de confiance
+  - Gérer plusieurs répertoires
+  
+  À l’issue de ce module, les étudiants seront capables de&#58;
+  - Comprendre les interactions entre plusieurs organisations AAD
+  - Ajouter des utilisateurs invités à Azure AD
+  - Configurer la configuration des conditions d'emplacement
+  - Configurer les paramètres Azure MFA 
+  - Implémenter un Conditional Access Azure MFA
+  - Créer un plan d'action
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Connecter des services à l’aide de Virtual Network Peering.
-  - Configurer VNet Peering.
-  - Comprendre le Service Chaining.
-  - Modifier ou supprimer le VNet Peering.
-
-
-  ### Module 2&#58; Mise en œuvre des machines virtuelles pour Windows et Linux
-  Dans ce module, vous découvrirez les machines virtuelles Azure, ce qui inclut la planification, la création, la disponibilité et les extensions. Ce module comprend &#58;
-  #### Leçons
-  - Sélectionner la taille de la machine virtuelle.
-  - Configurer la haute disponibilité.
-  - Mise en œuvre d' Azure Dedicated Hosts.
-  - Déployer et configurer des ensembles d'échelle.
-  - Configurer Azure Disk Encryption.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
+  
+  ### Module 2&#58; Mettre en œuvre et gérer les identités hybrides
+  Dans ce module, vous apprendrez comment installer et configurer Azure AD Connect et implémenter Azure AD Connect Health. Ce module comprend&#58;
+  #### Enseignements
+  - Installer et configurer Azure AD Connect
+  - Configurer Password Sync et Password Writeback
+  - Configurer Azure AD Connect Health
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Implémenter la signature unique sans faille  sur Azure AD 
+  - Effectuer une installation Azure AD Connect
+  - Implémenter Azure AD Connect Health
+  
+  
+  ### Module 3&#58; Mettre en œuvre la mise en réseau virtuelle
+  Dans ce module, vous apprendrez les concepts de base des réseaux virtuels comme les réseaux et sous-réseaux virtuels, l'adressage IP, les groupes de sécurité réseau, Azure firewall et Azure DNS. Ce module comprend&#58;
+  #### Enseignements
+  - Virtual Network Peering
+  - Implémenter VNet Peering
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Connecter les services avec Virtual Network Peering
+  - Configurer VNet Peering
+  - Comprendre Service Chaining
+  - Modifier ou supprimer VNet Peering
+  
+  
+  ### Module 4&#58; Mettre en oeuvre VMs pour Windows et Linux
+  Dans ce module, vous apprendrez à connaître les machines virtuelles Azure, notamment la planification, la création, la disponibilité et les extensions.
+  #### Enseignements
+  - Sélectionner Virtual Machine Size
+  - Configurer la haute disponibilité
+  - Implémenter Azure Dedicated Hosts
+  - Déploiement et configuration des ensembles d'échelles
+  - Configurer Azure Disk Encryption
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
   - Planifier la mise en œuvre des machines virtuelles
   - Créer des machines virtuelles
-  - Configurer la disponibilité des machines virtuelles, ce qui inclut les ensembles de mise à l’échelle
-  - Comprendre les options de haute disponibilité pour les machines virtuelles dans Azure
+  - Configurer la disponibilité des machines virtuelles, y compris les ensembles d'échelles
+  - Comprendre les options de haute disponibilité pour VMs dans Azure
+  
+  
+  ### Module 5&#58; Mettre en œuvre l'équilibrage des charges et la sécurité des réseaux
+  Dans ce module, vous apprendrez les stratégies de trafic de réseau, y compris le routage de réseau et les points terminaux de service, Azure Load Balancer, Azure Application Gateway, et Traffic Manager.
+  #### Enseignements
+  - Mettre en œuvre Azure Load Balancer
+  - Mettre en place un portail d'applications
+  - Comprendre la notion de pare-feu pour les applications web
+  - Mettre en œuvre Azure Firewall
+  - Mettre en œuvre Azure Front Door
+  - Mettre en œuvre Azure Traffic Manager
+  - Mettre en œuvre Network Security Groups et Application Security Groups
+  - Mettre en œuvre Azure Bastion
+  
+  #### Lab &#58; Mise en œuvre de l'architecture de calcul Azure IaaS hautement disponible
+  - Décrire les caractéristiques des Azure VMs hautement disponibles résidant dans le même ensemble de disponibilité
+  - Décrire les caractéristiques des Azure VMs hautement disponibles résidant dans différents ensembles de disponibilité
+  - Décrire les caractéristiques de la mise à l'échelle automatique horizontale Azure VM Scale Sets
+  - Décrire les caractéristiques de la mise à l'échelle automatique verticale Azure VM Scale Sets
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Choisir une solution Load Balancer
+  - Configure Application Gateway
+  - Mettre en œuvre Azure Firewall
+  - Créer une Azure Front Door
+  - Comprendre les méthodes de routage du Traffic Manager
+  - Configurer Network Security Groups (NSGs)
+  
+  
+  ### Module 6&#58; Mettre en place des comptes de stockage
+  Dans ce module, vous découvrirez les caractéristiques de base du stockage, notamment les comptes de stockage, le stockage de blob, les fichiers Azure et File Sync, la sécurité du stockage et les outils de stockage.
+  #### Enseignements
+  - Storage Accounts
+  - Blob Storage
+  - Sécurité du stockage
+  - Gestion du stockage
+  - Accès Blobs et Queues via AAD
+  
+  #### Lab &#58; Mise en œuvre et configuration Azure Storage File and Blob Services
+  - Mettre en œuvre l'autorisation des blobs Azure Storage en exploitant les signatures d'accès partagé
+  - Mettre en œuvre l'autorisation des blobs Azure Storage en exploitant Azure Active Directory
+  - Mettre en œuvre l'autorisation de partage de fichiers Azure Storage en utilisant des clés d'accès
+  - Configurer Azure Storage Firewalls etVirtual Networks
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Comprendre les services et les types de comptes de stockage
+  - Configurer le stockage, les comptes, les conteneurs et les niveaux d'accès Blob
+  - Implémenter Shared Access Signatures (SAS)
+  - Comprendre les pare-feux et les réseaux virtuels Azure Storage 
+  
+  
+  ### Module 7&#58; Mettre en œuvre les bases de données NoSQL
+  Dans ce module, vous découvrirez Azure Table Storage les options recommandées pour les CosmsoDB APIs.
+  #### Enseignements
+  - Configurer Storage Account Tables
+  - Sélectionner la bonne CosmosDB APIs
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Décrire la Table Service Data Model
+  - Comprendre les options pour Azure Cosmos DB
+  - Comprendre la haute disponibilité en utilisant CosmosDB
+  
+  
+  ### Module 8&#58; Mettre en œuvre les bases de données Azure SQL
+  Dans ce module, vous allez créer une base de données unique Azure SQL Database, créer une base de donnée Azure SQL Managed Instance, et examiner la haute disponibilité et base de donnée Azure SQL.
+  #### Enseignements
+  - Configurer les paramètres Azure SQL 
+  - Mettre en œuvre les instances gérées par des bases de données Azure
+  - Haute disponibilité et base de donnée Azure SQL
+  
+  Dans ce module, vous apprendrez à
+  - Créer une base de données Azure SQL (base de données unique)
+  - Créer une instance gérée par la base de données Azure SQL
+  - Recommander des modèles architecturaux à haute disponibilité utilisés dans la base de données Azure SQL
+  
+  
+  ### Module 9&#58; Automatiser le déploiement et la configuration des ressources
+  Dans ce module, vous découvrirez les outils qu’un Azure Administrator utilise pour gérer leur infrastructure. Cela inclut le Azure Portal, Cloud Shell, Azure PowerShell, CLI, et Resource Manager Templates.
+  #### Enseignements
+  - Azure Resource Manager Templates
+  - Enregistrer un modèle pour une VM
+  - Évaluer le positionnement des nouvelles ressources
+  - Configurer un Virtual Hard Disk Template
+  - Déployer à partir d'un modèle
+  - Créer et exécuter un Automation Runbook
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Exploiter Azure Resource Manager pour organiser les ressources
+  - Utiliser les modèles ARM pour déployer les ressources
+  - Créer et exécuter un Automation Runbook
+  - Déployer une Azure VM à partir d'un VHD
+  - Comprendre les technologies de cryptage Azure
+  
+  
+  ### Module 10&#58; Mettre en œuvre et gérer Azure Governance
+  Dans ce module, vous apprendrez à gérer vos abonnements et vos comptes, à mettre en œuvre les politiques Azure, et à utiliser Role-Based Access Control.
+  #### Enseignements
+  - Créer des groupes de gestion, des abonnements et des groupes de ressources
+  - Aperçu des Role-Based Access Control (RBAC)
+  - Des roles Role-Based Access Control (RBAC) 
+  - Revues d'accès Azure AD 
+  - Mettre en œuvre et configurer une politique Azure 
+  - Plans d'action Azure 
+  
+  #### Lab &#58; Mise en œuvre et configuration Azure Storage File and Blob Services
+  - Mettre en œuvre l'autorisation Azure Storage blobs en tirant parti des signatures d'accès partagé
+  - Mettre en œuvre l'autorisation Azure Storage blobs en tirant parti Azure Active Directory
+  - Mettre en œuvre l'autorisation Azure Storage partage de fichiers en utilisant des clés d'accès
+  
+  #### Lab &#58; Gérer Azure Role-Based Access Control
+  - Définir un rôle personnalisé pour RBAC
+  - Attribuer un rôle personnalisé pour RBAC
+  
+  À l’issue de ce module, les étudiants seront capables de&#58; 
+  - Comprendre l'organisation du groupe de ressources
+  - Comprendre le fonctionnement du RBAC
+  - Créer une révision de l'accès à l'AD Azure
+  - Créer et gérer des politiques visant à faire respecter les règles
+
+  ### Module 11&#58; Gérer la sécurité des applications
+  Dans ce module, vous découvrirez Azure Key Vault et la mise en œuvre de l'authentification au moyen Azure Managed Identities.
+  #### Enseignements
+  - Azure Key Vault
+  - Azure Managed Identity
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Expliquer les utilisations de Key Vault, telles que les secrets, les clés et la gestion des certificats
+  - Utiliser Managed Identities avec les ressources Azure
+  
+  
+  ### Module 12&#58; Gérer les charges de travail dans Azure
+  Dans ce module, vous apprendrez à migrer des charges de travail en utilisant Azure Migrate, à effectuer des migrations VMware avec et sans agent, et à utiliser Azure Backup et Azure Site Recovery.
+  #### Enseignements
+  - Migrer les charges de travail en utilisant Azure Migrate
+  - VMware - Migration sans agent
+  - VMware - Migration basée sur les agents
+  - Implémenter Azure Backup
+  - Azure à Azure Site Recovery
+  - Implémenter Azure Update Management
+  
+  #### Lab &#58; Protéger les Hyper-V VMs en utilisant Azure Site Recovery
+  - Configurer Azure Site Recovery
+  - Effectuer le basculement des tests
+  - Effectuer le basculement prévu
+  - Effectuer un basculement imprévu
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Comprendre l'architecture de migration basée sur les agents
+  - Préparer Azure à la migration
+  - Préparer un environnement VMware sur site
+  - Comprendre l'architecture de sauvegarde de la VM Azure
+  - Gérer les mises à jour et les correctifs pour Azure VMs
+  
+  
+  ### Module 13&#58; Mettre en œuvre les applications basées sur les conteneurs
+  Dans ce module, vous apprendrez comment gérer les instances Azure Container et comment déployer des Kubernetes avec AKS.
+  #### Enseignements
+  - Instances Azure Container 
+  - Configurer Azure Kubernetes Service
+  
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Exécuter les instances Azure Container 
+  - Déployer Kubernetes avec AKS
 
 
-  ### Module 3&#58; Automatiser le Déploiement et la Configuration des Ressources
-  Dans ce module, vous découvrirez les outils qu’un Azure Administrator utilise pour gérer son infrastructure. Cela inclut Azure Portal, Cloud Shell, Azure PowerShell, CLL et les Modèles du Gestionnaire de Ressources. Ce module comprend&#58;
-  #### Leçons
-  - Créer des Modèles Azure Resource Manager
-  - Enregistrer un Modèle pour une Machine Virtuelle.
-  - Évaluer l’emplacement des nouvelles ressources.
-  - Configurer un modèle de disque dur virtuel.
-  - Déployer à partir d'un modèle.
-  - Créer et exécuter un Runbook d'automatisation.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Tirer parti du gestionnaire de ressources Azure pour organiser les ressources.
-  - Utiliser les modèles ARM pour déployer les ressources.
-  - Créer et exécuter un Runbook d'automatisation.
-  - Déployer une machine virtuelle Azure depuis un disque dur virtuel (VHD).
-  - Comprendre les technologies de cryptage Azure.
-
-
-  ### Module 4&#58; Mise en œuvre de l’équilibrage de charges et la sécurité réseau.
-  Dans ce module, vous découvrirez les stratégies relatives au trafic du réseau, ce qui inclut le routage du réseau et les points de terminaison des services, l’équilibreur de charge Azure, la passerelle d’applications Azure et le gestionnaire du trafic.
-  #### Leçons
-  - Mise en œuvre de l'équilibreur de charges Azure.
-  - Mise en œuvre d'une passerelle de données
-  - Comprendre le pare-feu des applications Web.
-  - Mise en œuvre du pare-feu Azure.
-  - Mise en œuvre d'une porte d’entrée Azure.
-  - Mise en œuvre d'Azure Traffic Manager.
-  - Mise en œuvre des groupes de sécurité réseau et les groupes de sécurité applications.
-  - Mise en œuvre d'Azure Bastion.
-
-  #### Laboratoire&#58; Mise en œuvre de l’architecture informatique IaaS Azure hautement disponible
-  - Décrire les caractéristiques des machines virtuelles Azure hautement disponibles résidant dans le même ensemble de disponibilité
-  - Décrire les caractéristiques des machines virtuelles Azure hautement disponibles résidant dans des zones de disponibilité différentes
-  - Décrire les caractéristiques de la mise à l’échelle horizontale automatique des groupes identiques de machines virtuelles Azure.
-  - Décrire les caractéristiques de la mise à l’échelle horizontale manuelle des groupes identiques de machines virtuelles Azure.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Sélectionner une solution d’équilibreur de charges.
-  - Configuration une passerelle d’applications.
-  - Mise en œuvre du pare-feu Azure.
-  - Créer une porte d’entrée Azure.
-  - Comprendre les méthodes de routage de Traffic Manager.
-  - Configurer les groupes de sécurité réseau (NSG).
-
-
-  ### Module 5&#58; Mise en œuvre des comptes de stockage
-  Dans ce module, vous découvrirez les fonctionnalités de stockage de base, ce qui inclut les comptes de stockage, le stockage des blobs, les fichiers Azure et File Sync, la sécurité du stockage et les outils de stockage.
-  #### Leçons
-  - Comptes de stockage.
-  - Stockage des blobs.
-  - Sécurité du stockage.
-  - Gestion du stockage.
-  - Accéder à des Blobs et des files d'attente à l’aide d’Azure Active Directory (AAD).
-  - Configurer les pares-feux du stockage Azure et les réseaux virtuels.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Comprendre les services et les types des comptes de stockage.
-  - Configurer le stockage Blob, les comptes, les conteneurs et les niveaux d'accès.
-  - Mise en œuvre des signatures d'accès partagé.
-  - Comprendre les pares-feux du stockage Azure et les réseaux virtuels.
-
-
-  ### Module 6&#58; Mettre en œuvre Azure Active Directory
-  Dans ce module, vous découvrirez comment sécuriser les identités avec Azure Active Directory et mettre en œuvre des utilisateurs et des groupes.
-  #### Leçons
-  - Présentation d’Azure Active Directory.
-  - Utilisateurs et groupes.
-  - Domaines et domaines personnalisés.
-  - Protection de l'identité Azure AD
-  - Mise en œuvre d'un accès conditionnel.
-  - Configurer des alertes de fraude pour l’authentification multifacteur (MFA).
-  - Mise en œuvre des options de contournement.
-  - Configurer des adresses IP approuvées.
-  - Configurer les utilisateurs invités dans Azure AD.
-  - Gérer plusieurs répertoires.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Comprendre l’interaction entre les différentes organisations Azure Active Directory.
-  - Ajouter ses utilisateurs invités dans Azure AD.
-  - Configurer le paramétrage des conditions de localisation.
-  - Configurer les paramètres avancés de l’authentification multifacteur (MFA) Azure.
-  - Mise en œuvre d'un accès conditionnel de l’authentification multifacteur (MFA) Azure.
-
-
-  ### Module 7&#58; Mise en œuvre et gestion de la gouvernance Azure
-  Dans ce module, vous découvrirez comment gérer vos abonnements et vos comptes, mettre en œuvre les politiques d’Azure et utiliser le contrôle d’accès en fonction du rôle.
-  #### Leçons
-  - Créer des groupes de gestion, des abonnements et des groupes de ressources.
-  - Présentation du contrôle d'accès en fonction du rôle (RBAC).
-  - Rôles du contrôle d'accès en fonction du rôle (RBAC).
-  - Commentaires sur l'accès à Azure AD.
-  - Mise en œuvre et configurationd'une stratégie Azure.
-  - Azure Blueprints.
-
-  #### Laboratoire&#58; Mise en œuvre et configuration des services de stockage de fichiers et de Stockage Blob Azure
-  - Mise en œuvre d'une autorisation du Stockage Blob Azure en tirant parti des signatures d’accès partagé.
-  - Mise en œuvre d'une autorisation du Stockage Blob Azure en tirant parti d’Azure Active Directory.
-  - Mise en œuvre d'une autorisation du stockage de fichiers Azure en tirant parti des clés d’accès.
-
-  #### Laboratoire&#58; Gérer le contrôle d’accès en fonction du rôle Azure
-  - Définir un rôle RBAC personnalisé.
-  - Attribuer un rôle RBAC personnalisé.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Comprendre l’organisation des groupes de ressources.
-  - Comprendre le fonctionnement de RBAC.
-  - Créer un commentaire sur l'accès à Azure AD.
-  - Créer et gérer des stratégies pour appliquer la conformité.
-  - Créer un blueprint.
-
-
-  ### Module 8&#58; Mise en œuvre et gestion les identités hybrides
-  Dans ce module, vous apprendrez à installer et configurer Azure AD Connect et à mettre en œuvre Azure AD Connect Health.
-  #### Leçons
-  - Installer et configurer Azure AD Connect.
-  - Configurer la synchronisation et l'écriture des mots de passe.
-  - Configurer Azure AD Connect Health.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Mise en œuvre de l’authentification unique transparente sur Azure AD.
-  - Effectuer une installation d’Azure AD Connect.
-  - Mise en œuvre d'Azure AD Connect Health.
-
-
-  ### Module 9&#58; Gérer les charges de travail dans Azure
-  Dans ce module, vous apprendrez à migrer les charges de travail à l’aide d’Azure Migrate, à effectuer des migrations basées sur l’agent et sans agent des machines virtuelles VMware, et effectuer une sauvegarde Azure et une récupération d’urgence Azure.
-  #### Leçons
-  - Migrer des charges de travail à l’aide d’Azure Migrate.
-  - Migration sans agent des machines virtuelles VMware.
-  - Migration basée sur l’agent des machines virtuelles VMware.
-  - Mise en œuvre de la sauvegarde Azure.
-  - Récupération d’urgence Azure à Azure.
-  - Mise en œuvre de la gestion de l'actualisation Azure.
-
-  #### Laboratoire&#58; Protéger les machines virtuelles Hyper-V à l’aide d’Azure Site Recovery
-  - Configurer Azure Site Recovery.
-  - Exécuter un test de basculement.
-  - Exécuter un basculement planifié.
-  - Exécuter un basculement non planifié.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Comprendre l’architecture de la migration basée sur l’agent.
-  - Se préparer à la migration sur Azure.
-  - Préparer un environnement de machines virtuelles VMware sur site.
-  - Comprendre l’architecture de sauvegarde des machines virtuelles Azure.
-  - Gérer les mises à jour et les correctifs des machines virtuelles Azure.
-
-
-  ### Module 10&#58; Mise en œuvre de la surveillance de l’infrastructure cloud
-  Dans ce modèle, vous découvrirez Azure Monitor, Azure Workbooks, Azure Alerts, Network Watcher, Azure Service Health, et Azure Application Insights.
-  #### Leçons
-  - Surveillance de la sécurité de l’infrastructure Azure
-  - Azure Monitor
-  - Classeurs Azure
-  - Alertes Azure
+  ### Module 14&#58; Mettre en place une infrastructure d'application
+  Dans ce module, vous apprendrez à créer une application web App Service pour les conteneurs, à créer et configurer un plan de service App, et à créer et gérer des créneaux de déploiement.
+  #### Enseignements
+  - Créer et configurer Azure App Service
+  - Créer une application Web de service d'application pour les conteneurs
+  - Créer et configurer un plan de service d'application
+  - Configurer la mise en réseau pour un service d'application
+  - Créer et gérer les créneaux de déploiement
+  - Mettre en œuvre des applications logiques
+  - Mettre en œuvre les fonctions Azure
+  
+  #### Lab &#58; Configuration d'une architecture d'intégration basée sur les messages
+  - Configurer et valider un déclenchement Azure Function App Storage Blob 
+  - Configurer et valider un Azure Event Grid basé sur un abonnement à la messagerie de file d'attente
+  
+  #### Lab &#58; Mise en œuvre Azure App Service Web App avec Staging Slot
+  - Mettre en œuvre le modèle de déploiement Bleu/Vert en utilisant des créneaux de déploiement Azure App Service web apps
+  - Effectuer des tests A/B en utilisant des créneaux de déploiement Azure App Service web apps
+  
+  À l'issue de ce module, les étudiants seront capables de&#58;
+  - Configurer un Azure App Service
+  - Créer un App Service Plan
+  - Créer un flux de travail en utilisant Azure Logic Apps
+  - Créer une Function App
+  
+  
+  ### Module 15&#58; Implémenter Cloud Infrastructure Monitoring
+  Dans ce module, vous apprendrez à surveiller Azure, à connaitre les cahiers de travail Azure, les alertes Azure, Network Watcher, Azure Service Health, les Informations sur les applications Azure.
+  #### Enseignements
+  - Surveillance de la sécurité des infrastructures Azure 
+  - Surveiller Azure 
+  - Cahiers de travail Azure 
+  - Alertes Azure 
   - Log Analytics
   - Network Watcher
   - Azure Service Health
-  - Suivi des coûts Azure
-  - Azure Application Insights
-  - Supervision unifiée dans Azure
-
-  Dans ce module, vous apprendrez à 
-  - Comprendre Azure Log Analytics.
-  - Comprendre Azure Service Health.
-
-
-  ### Module 11&#58; Gérer la sécurité des applications
-  Dans ce module, vous découvrirez Azure Key Vault et vous mettrez en œuvre l’authentification à l’aide des identités gérées d’Azure.
-  #### Leçons
-  - Azure Key Vault
-  - Identité gérée Azure.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Expliquer les utilisations de Key Vault, notamment la gestion des secrets, des clés et des certificats.
-  - Utiliser les identités gérées avec les ressources Azure.
-
-
-  ### Module 12&#58; Mise en œuvre d'une infrastructure d'application
-  Dans ce module, vous apprendrez la création d’une application Web App Service pour les conteneurs, la création et la configuration d’un plan App Service, et la création et la gestion des emplacements de déploiement.
-  #### Leçons
-  - Créer et configurer Azure App Service.
-  - Créer une application Web App Service pour les conteneurs.
-  - Créer et configurer un plan App Service.
-  - Configurer la mise en réseau d’un App Service.
-  - Créer et gérer des emplacements de déploiement.
-  - Mise en œuvre de Logic Apps.
-  - Mise en œuvre des fonctions Azure.
-
-  #### Laboratoire&#58; Configurer une architecture d’intégration basée sur les messages
-  - Configurer et valider le déclencheur de Stockage Blob Azure dans l’application Azure Function.
-  - Configurer et valider une messagerie de file d’attente par inscription dans Azure Event Grid.
-
-  #### Laboratoire&#58; Mise en œuvre d'une application Web Azure App Service avec un emplacement de simulation
-  - Mise en œuvre d'un modèle de déploiements bleus-verts à l’aide des emplacements de déploiement des applications Web Azure App Service.
-  - Exécuter un test A/B à l’aide des emplacements de déploiement des applications Web Azure App Service.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Configurer un Azure App Service.
-  - Créer un plan App Service.
-  - Créer un flux de travail à l’aide d’Azure Logic Apps.
-  - Créer une application Function.
-
-
-  ### Module 13&#58; Mise en œuvre des applications basées sur les conteneurs.
-  Dans ce module, vous apprendrez à exécuter les instances des conteneurs Azure et à déployer Kubernetes avec AKS.
-  #### Leçons
-  - Instances de conteneurs Azure
-  - Configurer le service Azure Kubernetes
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Exécuter les instances de conteneurs Azure.
-  - Déployer Kubernetes avec AKS.
-
-
-  ### Module 14&#58; Mettre en œuvre des bases de données NoSQL.
-  Dans ce module, vous découvrirez le Stockage Table Azure et recommanderez des options pour les API de CosmosDB.
-  #### Leçons
-  - Configurer les tables des comptes de stockage.
-  - Sélectionner les API appropriés à CosmosDB.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Exposer le modèle de données de service de table.
-  - Comprendre les options d’Azure Cosmos DB.
-  - Comprendre la haute disponibilité à l’aide de CosmosDB.
-
-
-  ### Module 15&#58; Mise en œuvre d'Azure SQL Databases
-  Dans ce module, vous créerez une simple base de données dans Azure SQL Database, une instance de base de données gérée SQL Azure, et réviserez la haute disponibilité et la base de données SQL Azure.
-  #### Leçons
-  - Configurer les paramètres d’Azure SQL Database.
-  - Mise en œuvre des instances gérées d’Azure SQL Database.
-  - Haute disponibilité et Azure SQL Database.
-
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Créer une base de données simple dans Azure SQL Database.
-  - Créer une instance gérée d’Azure SQL Database.
-  - Recommander des modèles architecturaux de la haute disponibilité utilisés dans Azure SQL Database.
-
+  - Surveiller les coûts Azure
+  - Informations sur les applications Azure
+  - Contrôle unifié dans Azure
+  
+  Dans ce module, vous apprendrez à
+  - Comprendre Azure Log Analytics
+  - Comprendre Azure Service Health

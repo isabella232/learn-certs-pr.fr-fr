@@ -30,7 +30,24 @@ summary: |-
   Ce cours est conçu pour le consultant fonctionnel de Dynamics 365 Supply Chain Management. Le consultant fonctionnel de Dynamics 365 Supply Chain Management est une ressource clé qui conçoit et configure des applications pour répondre aux besoins d'un client. Le consultant fonctionnel analyse les besoins de l'entreprise et traduit ces besoins en processus et solutions d'entreprise entièrement réalisés qui mettent en œuvre les pratiques recommandées par l'industrie. Le consultant fonctionnel est spécialisé dans un ou plusieurs des domaines suivants de Dynamics&#58; finance, fabrication ou gestion de la chaîne d'approvisionnement. Il travaille en partenariat avec des architectes, des développeurs, des administrateurs et d'autres parties prenantes pour fournir des solutions qui répondent ou dépassent les besoins de leurs clients.
 outlineSection: |-
   ### Module 1&#58; Implémenter la gestion de l'information sur les produits
-  Ce module vous présentera les sujets suivants&#58; créer et lancer des produits et des variantes de produits créer et appliquer des modèles de produits créer des nomenclatures Identifier l'objectif et les capacités des modèles de configuration de produits configurer les poids de prise configurer les produits à livraison directe créer et gérer les dimensions des stocks configurer les groupes d'articles créer et attribuer des codes à barres et des codes GTIN (Global Trade Identification Number) configurer les hiérarchies de catégories et les attributs de produits configurer les conversions d'unités de produits configurer les paramètres de commande par défaut décrire les méthodes de calcul du coût de revient des stocks et les groupes de modèles configurer les versions de calcul du coût de revient pour les coûts standard et planifiés configurer les prix d'achat, les prix de vente et les accords commerciaux par défaut.
+  Ce module vous présentera les sujets suivants&#58; 
+  
+  Créer et diffuser des produits et des variantes de produits  
+  Créer et appliquer des modèles de produits  
+  Créer des nomenclatures (BOMs)  
+  Identifier l'objectif et les capacités des modèles de configuration des produits  
+  Configurer les poids des captures  
+  Configurer les produits de livraison directe  
+  Créer et gérer les dimensions de l'inventaire  
+  Configurer les groupes d'articles  
+  Créer et attribuer des codes à barres et des codes Global Trade Identification Number (GTIN)  
+  Configurer les hiérarchies de catégories et les attributs des produits  
+  Configurer les conversions d'unités de produits  
+  Configurer les paramètres de commande par défaut  
+  Décrire les méthodes de calcul des coûts d'inventaire et les groupes modèles  
+  Configurer les versions de calcul des coûts pour les coûts standard et planifiés  
+  Configurer et fixer par défaut les prix d'achat, les prix de vente par défaut et les accords commerciaux. 
+
   #### Leçons
   - Créer et gérer des produits
   - Configurer les produits pour la gestion de la chaîne d'approvisionnement
@@ -41,7 +58,16 @@ outlineSection: |-
 
 
   ### Module 2&#58; Implémenter la gestion des stocks
-  Ce module vous présentera les domaines suivants&#58; Mettre en place les paramètres de gestion des stocks et les journaux configurer la ventilation des structure de stocks  configurer les classifications ABC configurer les rapports de valorisation des stocks créer et traiter les journaux, y compris la nomenclature, l'arrivée des articles, le transfert, le mouvement, l'ajustement des stocks, le comptage et le comptage des étiquettes créer et traiter les ordres de transfert effectuer les clôtures et les ajustements des stocks.
+  Ce module vous présentera les domaines suivants&#58; 
+  
+  Mettre en place des paramètres de gestion des inventaires et des journaux  
+  Configurer la structure de la ventilation de l'inventaire  
+  Configurer les classifications ABC  
+  Configurer les rapports de valorisation des stocks  
+  Créer et traiter les journaux, y compris les journaux de nomenclatures, d'arrivée, de transfert, de mouvement, d'ajustement des stocks, de comptage et de comptage des étiquettes  
+  Créer et traiter les ordres de transfert  
+  Effectuer des clôtures et des ajustements d'inventaire.
+
   #### Leçons
   - Configurer la gestion de l'inventaire
   - Gérer et traiter les activités d'inventaire
@@ -61,7 +87,24 @@ outlineSection: |-
 
 
   ### Module 3&#58; Mettre en œuvre et gérer les processus de la chaîne d'approvisionnement
-  Ce module vous présentera les sujets suivants&#58; créer et gérer les demandes d'achat, les demandes de devis (RFQ) et les commandes d'achat (PO) configurer les processus de gestion des changements configurer et appliquer les rabais des fournisseurs Introduction à la collaboration entre fournisseurs gérer les stocks en consignation gérer les livraisons en plus et en moins configurer les catégories d'achat et les politiques d'achat configurer les frais configurer les devis, les commandes de vente et les commandes de retour configurer les groupes de vente et les commissions configurer les recherches de clients, de produits et de prospects configurer et traiter les documents relatifs aux relations commerciales interentreprises Introduction aux guides D365 Rédaction des guides D365 Exploitation des guides D365.
+  Ce module vous présentera les sujets suivants&#58; 
+  
+  Créer et gérer les demandes d'achat, les appels d'offres (RFQs) et les bons de commande (POs)   
+  Configurer les processus de gestion du changement  
+  Configurer et appliquer les rabais des vendeurs  
+  Introduction à la collaboration entre vendeurs  
+  Gérer l'inventaire des envois  
+  Gérer les livraisons en plus et en moins  
+  Configurer les catégories de marchés et les politiques d'achat  
+  Configurer les frais  
+  Configurer les devis, les commandes et les ordres de retour  
+  Configurer les groupes de vente et les commissions  
+  Configurer les recherches de clients, de produits et de prospects  
+  Configurer et traiter les documents relatifs aux relations commerciales interentreprises  
+  Introduction à D365 Guides  
+  Création de D365 Guides  
+  Exploitation de D365 Guides.  
+
   #### Leçons
   - Mettre en œuvre la passation de marchés et l'approvisionnement
   - Mettre en œuvre des caractéristiques communes de vente et de marketing
@@ -89,7 +132,27 @@ outlineSection: |-
 
 
   ### Module 4&#58; Implémenter une gestion d'entrepôt et la gestion du transport
-  Ce module vous présentera les sujets suivants&#58; créer des sites, des entrepôts, des emplacements, des formats d'emplacement, des profils d'emplacement, des types d'emplacement et des zones mettre en œuvre les directives d'emplacement configurer les statuts d'inventaire, les groupes de séquences d'unités et les hiérarchies de réservation mettre en œuvre les modèles de vagues et de travail mettre en œuvre le modèle de construction de la charge des vagues configurer les menus des appareils mobiles, les éléments de menu, et les paramètres d'affichage gérer les processus de mouvement des stocks Effectuer le comptage des cycles traiter les commandes entrantes et sortantes traiter les expéditions Décrire le processus de réapprovisionnement cross-docking Introduction configurer les transporteurs maritimes et les groupes de transporteurs effectuer la planification et l'exécution des chargements et des expéditions configurer et générer les factures de fret et les factures configurer les plans et les guides d'itinéraire configurer les moteurs d'itinéraire et de tarification configurer et utiliser la planification des rendez-vous au quai.
+  Ce module vous présentera les sujets suivants&#58; 
+  
+  Créer des sites, des entrepôts, des emplacements, des formats d'emplacement, des profils  d'emplacement, des types d'emplacement et des zones  
+  Mettre en œuvre les directives de localisation  
+  Configurer les statuts de l'inventaire, les groupes de séquences d'unités et les hiérarchies de réservation  
+  Mettre en œuvre les templates de vague et de travail  
+  Mettre en œuvre le template de construction de la vague de charge  
+  Configurer les menus, les éléments de menu et les paramètres d'affichage des appareils mobiles  
+  gérer les processus de mouvement des stocks  
+  Effectuer le comptage des cycles  
+  Traiter les commandes entrantes et sortantes  
+  Traiter les envois  
+  Décrivez le processus de réapprovisionnement par transbordement  
+  Introduction  
+  Configurer les transporteurs maritimes et les groupes de transporteurs  
+  Effectuer la planification et l'exécution des chargements et des expéditions  
+  Configurer et générer des factures de fret et des factures  
+  Configurer les plans de route et les guides  
+  Configurer les moteurs d'itinéraires et de tarifs  
+  Configurer et utiliser la planification des rendez-vous au quai  
+
   #### Leçons
   - Configurer la gestion de l'entrepôt
   - Effectuer des processus de gestion d'entrepôt
@@ -122,7 +185,13 @@ outlineSection: |-
 
 
   ### Module 5&#58; Configurer et gérer le contrôle et la gestion de la qualité
-  Ce module vous présentera les sujets suivants&#58; configurer le contrôle de la qualité; configurer la gestion de la qualité; gérer les ordres de qualité et de quarantaine; commander; gérer le blocage des stocks.
+  Ce module vous présentera les sujets suivants&#58; 
+  
+  Configurer le contrôle de la qualité  
+  Configurer la gestion de la qualité  
+  Gérer les ordres de qualité et les ordres de quarantaine  
+  Gérer le blocage de l'inventaire
+
   #### Leçons
   - Configurer le contrôle et la gestion de la qualité
   - Gérer le contrôle et la gestion de la qualité
@@ -139,7 +208,19 @@ outlineSection: |-
   
   
   ### Module 6&#58; Mettre en œuvre un plan directeur
-  Ce module vous présentera les sujets suivants&#58; Distinguer l'optimisation de la planification et la planification principale créer des groupes de couverture et la couverture des articles configurer les paramètres de planification principale, le plan directeur, les plans de prévision et les plans de continuité distinguer les messages d'action, les messages de retard, les clôtures temporelles et les jours négatifs traiter et visualiser les ordres planifiés créer et utiliser le formulaire de planification de l'approvisionnement configurer et traiter les journaux des stocks de sécurité créer et mettre en œuvre la planification principale interentreprises mettre en œuvre la prévision de la demande mettre en œuvre l'optimisation de la planification.
+  Ce module vous présentera les sujets suivants&#58; 
+  
+  Faire la différence entre l'optimisation de la planification et le schéma directeur  
+  Mettre en place des groupes de couverture et la couverture des articles  
+  Configurer les paramètres de planification, le schéma directeur, les plans de prévision et les plans de continuité  
+  Distinguer les messages d'action, les messages de retard, les barrières temporelles et les jours négatifs  
+  Traiter et visualiser les commandes prévues
+  Configurer et utiliser le formulaire Supply Schedule  
+  Configurer et traiter les journaux des stocks de sécurité  
+  Établir et mettre en œuvre un schéma directeur interentreprises  
+  Mettre en œuvre des prévisions fondées sur la demande  
+  Mettre en œuvre l'optimisation de la planification  
+
   #### Leçons
   - Configurer la planification et les prévisions générales
   - Exécuter les plans directeurs et gérer les commandes planifiées

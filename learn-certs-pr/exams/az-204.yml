@@ -18,6 +18,8 @@ summary: |-
   Les développeurs Azure collaborent avec des architectes de solutions de cloud, des DBA de cloud, des administrateurs de cloud et des clients pour mettre en œuvre des solutions.
 
   Le candidat à cet examen doit avoir un à deux ans d’expérience de développement professionnel et d’expérience avec Microsoft Azure. En outre, cette fonction exige une aptitude à programmer dans un langage pris en charge par Azure et des compétences dans les SDK Azure, Azure PowerShell, Azure CLI, les options de stockage des données, les connexions des données, les API, l’authentification et l’autorisation des applications, le déploiement des calculs et des conteneurs, le débogage, le réglage des performances, et la surveillance.
+
+  Vous pouvez avoir droit à des crédits universitaires ACE si vous réussissez cet examen de certification. Voir [crédits universitaires ACE pour les examens de certification](/learn/certifications/ace-credit-for-certification-exams) pour en savoir plus.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: développer des solutions informatiques Azure; développer le stockage Azure; mettre en œuvre la sécurité Azure; surveiller, dépanner et optimiser les solutions Azure; et se connecter et consommer les services Azure et les services des tiers.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B

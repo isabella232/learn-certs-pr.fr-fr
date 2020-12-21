@@ -7,10 +7,10 @@ uid: exam.az-303
 displayName: AZ-303
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
+  <div><strong> Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et l’implémentation de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et l’implémentation de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité. Les candidats doivent avoir des compétences de niveau intermédiaire pour administrer Azure. Les candidats doivent comprendre le développement Azure et les processus de DevOps.
 
   Les responsabilités d’un Azure Solution Architect englobent la prestation de conseils aux parties prenantes et la traduction des exigences de l’entreprise en solutions dans le cloud sécurisées, évolutives et fiables.
 
@@ -30,7 +30,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Implémenter et surveiller une infrastructure Azure (50-55%)
 - Implémenter des solutions de gestion et de sécurité (25-30%)
 - Implémenter des solutions pour les applications (10-15%)

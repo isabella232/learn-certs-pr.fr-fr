@@ -15,6 +15,8 @@ summary: |-
   Les candidats doivent avoir de solides connaissances appliquées des applications de modélisation de Power Apps dans Dynamics 365, ce qui inclut une solide connaissance de la personnalisation, de la configuration, de l’intégration et de l’extensibilité ainsi que des limites et contraintes. Les candidats doivent avoir des connaissances de base des pratiques DevOps pour des applications de modélisation Power Apps dans Dynamics 365. Les candidats doivent exposer, stocker et rapporter les données.
 
   Les candidats doivent avoir une expériences de développement qui inclut JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET, and Power BI.
+
+  <div><strong><br/>Comme cet examen est retiré le 31 décembre 2020, Microsoft ne mettra pas à jour les références de "Common Data Service" à "Microsoft Dataverse".</strong></div>
 subTitle: 'Cet examen mesure votre capacité à remplir les tâches techniques suivantes: créer un design technique, configurer Common Data Service (CDS), créer et configurer des Power Apps, configurer l’automatisation du processus d’affaires, étendre l’expérience utilisateur, étendre la plateforme et mettre au point des intégrations.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0

@@ -11,7 +11,10 @@ ms.author: micsullivan
 ---
 # À propos des examens en ligne de Pearson VUE
 
-Vous pouvez passer n’importe quel examen de certification Microsoft parmi les examens basés sur les rôles et les fundamentals en ligne sur Pearson VUE, dans le confort de votre maison ou bureau. L'examen surveillé en ligne permet de maintenir l'intégrité des résultats de l'examen, en surveillant votre expérience de l'examen par un surveillant via une webcam et un microphone. Si vous souhaitez passer un examen surveillé en ligne via Pearson VUE et que vous voulez savoir à quoi vous attendre avant de vous inscrire, cette page comporte d’importants détails. Visionnez la [vidéo YouTube](https://youtu.be/Gm1PqdbwBP0) de Pearson VUE pour en savoir plus sur les examens surveillés en ligne. (Cette partie ne concerne pas les examens proposés par Certiport).
+Vous pouvez passer n'importe quel examen de Microsoft Certification basé sur le poste ou sur les principes fondamentaux à Pearson VUE en ligne, et dans le confort de votre maison ou de votre bureau. L'organisation de l'examen en ligne par un surveillant maintient l'intégrité des résultats de l'examen, en surveillant votre passage de l'examen au moyen d'une webcam et d'un microphone. Si vous souhaitez passer un examen surveillé en ligne par Pearson VUE et si vous voulez avoir une meilleure idée de ce à quoi vous attendre avant de vous inscrire, cette page contient des détails importants. Regardez la vidéo ci-dessous pour en savoir plus sur les examens surveillés en ligne. (Cette section ne traite pas des examens délivrés par Certiport).
+<br/>
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 ## <a name="take-a-system-test"></a> Faites un test du système
 

@@ -25,6 +25,10 @@ products:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 courses:
 - uid: course.ms-203t00
+paths:
+- uid: learn-m365.m365-messaging-hybrid-migration
+- uid: learn-m365.m365-messaging-architecture
+- uid: learn-m365.m365-messaging-secure-environment
 exams:
 - uid: exam.ms-203
 resources:

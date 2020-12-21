@@ -1,6 +1,6 @@
 ---
-title: 'College credit for certification exams | Microsoft Docs'
-description: 'College credit for certification exams' 
+title: 'NCCRS Crédit d'université pour les examens de certification | Microsoft Docs'
+description: 'NCCRS Crédit d'université pour les examens de certification' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Crédits collégiaux pour les examens de certification
+# NCCRS Crédit d'université pour les examens de certification
 
 ## Certification pour les étudiants
 

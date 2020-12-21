@@ -8,7 +8,7 @@ displayName: MS-101
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
+  <div><strong> Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé. 
 - Implémenter les services des périphériques modernes (30-35%)
 - Implémenter la gestion de la sécurité et des menaces de Microsoft 365 (30-35%)
 - Gérer la gouvernance et la conformité de Microsoft 365 (35-40%)
@@ -39,6 +39,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

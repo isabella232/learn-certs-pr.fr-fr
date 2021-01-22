@@ -2,14 +2,23 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  description: En tant que consultant fonctionnel, utilisez cette certification pour mieux vous vendre dans le cadre de projets et d'autres engagements. La certification Microsoft Power Platform Functional Consultant Associate permet aux organisations de savoir qu'en l'absence de code ou avec un code faible, il est possible de construire des solutions qui nécessiteraient normalement l'expertise d'un développeur.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></font></div>
-
-  Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes. Il doit posséder de l’expérience dans l’utilisation des outils du créateur de Power Platform afin de créer des solutions qui utilisent Power Platform et Microsoft 365. Les Certified Functional Consultants doivent maîtriser la modélisation des données, la conception de l’expérience utilisateur, l’analyse des exigences et l’analyse des processus.
-subTitle: Le Power Platform Functional Consultant doit avoir de vastes connaissances appliquées dans Power Platform, notamment une compréhension pratique des capacités, des limites et des contraintes.
+  
+  Vous êtes un consultant fonctionnel, un analyste de données ou un développeur qui cherche à affiner ses compétences en matière de conseil et de configuration, ou un architecte de solutions en voie d'obtenir la certification d'architecte de solutions? Ou peut-être êtes-vous un professionnel IT ayant des connaissances et de l'expérience dans la configuration de Microsoft Power Platform. Si cela vous décrit et que vous êtes familier avec Microsoft Dynamics 365 et les principes de modélisation des données, étudiez comment la certification Microsoft Power Platform Functional Consultant Associate peut vous aider à faire progresser votre carrière et faire de vous un membre clé de votre équipe. Cette certification indique au monde entier que vous êtes considéré comme qualifié pour construire et mettre en œuvre des solutions qui utilisent Power Apps, Power BI, et Power Virtual Agents.
+  
+  En tant que candidat à cette certification, vous travaillez avec les parties prenantes d'une organisation et les experts en la matière, tels que les architectes, les développeurs et les testeurs de solutions, pour rassembler les exigences et ensuite mettre en œuvre les solutions Microsoft Power Platform. Vous construisez des modèles, canvas, et des applications de portail. Et vous créez des flux Power Automate, concevez des chatbots en utilisant Power Virtual Agents, et analysez les données en utilisant la visualisation et les tableaux de bord de Power BI. Vous pouvez même concevoir des améliorations pour les applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, des automatisations de processus et des visualisations personnalisées.
+  
+  En tant que consultant fonctionnel, utilisez cette certification pour mieux vous vendre dans le cadre de projets et d'autres engagements. La certification Microsoft Power Platform Functional Consultant Associate permet aux organisations de savoir qu'en l'absence de code ou avec un code faible, il est possible de construire des solutions qui nécessiteraient normalement l'expertise d'un développeur.
+  
+  Si vous avez besoin de plus d'expérience avant d'essayer d'obtenir cette certification, voici quelques suggestions&#58;
+  - Construire un tableau de bord de base en utilisant Power BI.
+  - Suivre les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - S'inscrire à un cours de formation dirigé par un instructeur.
+subTitle: En tant que consultant fonctionnel, utilisez cette certification pour mieux vous vendre dans le cadre de projets et d'autres engagements. La certification Microsoft Power Platform Functional Consultant Associate permet aux organisations de savoir qu'en l'absence de code ou avec un code faible, il est possible de construire des solutions qui nécessiteraient normalement l'expertise d'un développeur.
 levels:
 - intermediate
 skills:
@@ -32,6 +41,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service

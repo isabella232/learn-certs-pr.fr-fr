@@ -6,11 +6,14 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-
+  <div><strong>CETTE CERTIFICATION SERA RETIRÉE LE 30 JUIN 2021. Vous ne pourrez plus obtenir cette certification après cette date. Toute certification que vous aurez obtenue avant la date de leur retrait continuera à figurer sur votre relevé de notes dans le <a href="https://aka.ms/certdashboard">Tableau de bord de la certification</a>.</strong><br/><br/></div>
+  </div>
+  
   Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle; la réalité mélangée; Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.
-
-  <div><br/><strong>Remarque&#58; Microsoft ne mettra pas à jour les références de “Common Data Service” à “Microsoft Dataverse” pour le moment.</strong></div> 
+  
+  <div><br/><strong>Parce que cette certification est retirée le 30 juin 2021, Microsoft ne mettra pas à jour les références de “Common Data Service” et“Microsoft Dataverse.”</strong></div>
 subTitle: 'Prouvez que vous maîtrisez Microsoft Dynamics 365; l’intelligence artificielle (AI); la réalité mélangée (MR); Power Platform; les concepts de Cloud; la sécurité du Cloud; la sécurité Dynamics 365; le service des données communes; la génération de rapports Dynamics 365; les intégrations Dynamics 365; et le déploiement dans le Cloud.'
 levels:
 - beginner

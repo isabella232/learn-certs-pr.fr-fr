@@ -108,7 +108,7 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
                 <p><strong>Display</strong></p>
             </td>
             <td>
-                <p>Résolution minimale : <strong>1024 x 768</strong> en <strong>couleurs 16-bit</strong>.
+                <p>Résolution minimale: <strong>1024 x 768</strong> en <strong>couleurs 16-bit</strong>.
                 <br/>
                 Remarque: Toutes les tablettes sont strictement interdites, sauf si elles sont dotées d'un clavier physique et qu’elles répondent également aux exigences de système d’exploitation mentionnées précédemment.</p>
             </td>
@@ -118,7 +118,7 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
                 <p><strong>Navigateurs Internet</strong></p>
             </td>
             <td>
-                <p>Les dernières versions de Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> et <strong>Firefox</strong> pour les enregistrements sur le Web, téléchargement du navigateur sécurisé ou encore <strong>Internet Explorer 11</strong>.</p>
+                <p>Les dernières versions de Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>, and <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

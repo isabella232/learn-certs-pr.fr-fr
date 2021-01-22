@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+metadata:
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+uid: exam.mb-910
+displayName: MB-910
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  
+  Cet examen couvre les caractéristiques et les capacités des applications d'engagement des clients de Microsoft Dynamics 365.
+  
+  Les candidats à cet examen doivent avoir des connaissances générales ou une expérience professionnelle pertinente en matière de technologies de l'information (IT). Ils doivent également avoir une compréhension fondamentale des principes financiers et des opérations commerciales.
+  
+  <div><br/><strong>Note&#58; Cet examen sera disponible en février 2021.</strong></div>
+subTitle: "Cet examen sera disponible en février 2021. Cet examen mesure votre capacité à décrire ce qui suit: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; Opérations du projet; et les caractéristiques communes."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
+locales:
+- en
+levels:
+- beginner
+skills:
+- Décrire Dynamics 365 Marketing (10-15%)
+- DécrireDynamics 365 Sales (15-20%)
+- Décrire Dynamics 365 Customer Service (15-20%)
+- Décrire Dynamics 365 Field Service (15-20%)
+- Décrire les opérations du projet (15-20%)
+- Décrire les caractéristiques communes (15-20%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-customer-engagement-apps-crm
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: ../request-accommodations.md
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
+  href: ../certification-exam-policies.md
+

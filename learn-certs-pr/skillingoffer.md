@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Élargissez vos options de carrière dans l’informatique en renforçant votre crédibilité grâce à une certification Microsoft, afin de valider vos compétences et vos aptitudes à occuper un poste utilisant les technologies Microsoft. Dans le cadre de l’évolution des affaires en raison de la transformation numérique, le fait de suivre une formation et de recevoir une certification peut contribuer à accélérer votre aptitude à décrocher un poste technique convoité.
 
-Les demandeurs d’emploi qui ont complété la formation de ces rôles spécifiques techniques Microsoft et peuvent prouver qu’ils étaient au chômage ou qu’ils ont été congédiés à cause de COVID-19 peuvent obtenir une certification Microsoft à un prix réduit de 15 USD. Les candidats qui souhaitent passer un test pourront planifier un examen **avant le 31 décembre 2020 et auront un délai jusqu’au 31 mars 2021** pour se présenter et compléter l’examen. Consulter les [conditions générales](#terms-conditions).
+Les demandeurs d'emploi qui ont suivi une formation pour ces rôles techniques spécifique Microsoft - et peuvent attester qu'ils ont été au chômage ou licenciés en raison de la COVID-19 peut obtenir une certification  Microsoft reconnue par l'industrie à un prix réduit de USD15. Les candidats aux tests auront la possibilité de programmer un examen **avant le 30 décembre 2021 et auront jusqu'au 31 décembre 2021** pour se présenter à l'examen et de le terminer. Voir [conditions générales](#terms-conditions).
 <br/>
 <br/>
 
@@ -41,7 +41,7 @@ Les certifications reconnues par l’industrie vous offriront la possibilité d�
 
 ## Liste de contrôle de la planification de l’examen
 
-Pour vous aider à vous préparer et s’assurer que vous pourrez vous inscrire et passer votre examen de Certification Microsoft, veuillez suivre les étapes ci-dessous. **Remarque:** Les participants éligibles doivent planifier l’examen à prix réduit avant le 31 décembre 2020.
+Pour vous aider à vous préparer et s’assurer que vous pourrez vous inscrire et passer votre examen de Certification Microsoft, veuillez suivre les étapes ci-dessous. **Remarque:** Les participants éligibles doivent planifier l’examen à prix réduit avant le 30 décembre 2021.
 
 1. Consultez les ressources essentielles suivantes de la Certification Microsoft:
 	1. [À propos des examens en ligne avec PSI](/learn/certifications/online-exams-psi) comprenant les pays participants, la configuration système requise, les exigences du protocole d’examen, la procédure de l’examen en ligne, et plus encore.  
@@ -62,16 +62,17 @@ Pour les questions-réponses communes sur les examens en ligne avec PSI, consult
 - Cette offre d’examen est disponible pour les demandeurs d’emploi qui peuvent prouver qu’ils sont au chômage ou qu’ils ont été congédiés à cause de COVID-19.
 - Vous devez avoir 18 ans ou plus pour accéder à cette offre d’examen et en bénéficier.
 - Cette offre d’examen est disponible pour un nombre limité de personnes éligibles et de rendez-vous d’examen.
-- Cette offre d’examen vous permet de vous inscrire et de vous présenter à un (1) examen de certification Microsoft valable à un prix réduit de 15 USD pour une période limitée. L’offre expire le 31 décembre 2020.
+- Cette offre d’examen vous permet de vous inscrire et de vous présenter à un (1) examen de certification Microsoft valable à un prix réduit de 15 USD pour une période limitée. L'offre expire le 31 décembre 2021.
 - Cette offre d’examen peut être échangée pour passer un (1) examen de certification Microsoft valable, fournie uniquement comme un examen surveillé en ligne.
 - Cette offre d’examen est spécifique et ne peut être échangée que contre une sélection spécifique d’examens de certification Microsoft.
-- La fenêtre de planification de l’offre d’examen sera disponible plus tard au cours de l’année, entre le 1er septembre 2020 et le 31 décembre 2020.
-- Cette offre d’examen doit être planifiée au plus tard le 31 décembre 2020. Les rendez-vous pour passer l’examen doivent être fixés au plus tard le 31 mars 2021.
+- La fenêtre pour programmer l'offre d'examen sera disponible plus tard cette année, entre le 1er septembre 2020 et le 31 décembre 2021.&#42;TL'offre d'examen doit être programmée avant le 30 décembre 2021.&#42; Les inscriptions aux examens doivent être terminées au plus tard le 31 décembre 2021.
 - La date d’expiration de cette offre d’examen ne peut être reportée en aucun cas.
 - Cette offre d’examen ne peut pas être échangée contre de l'argent, un avoir ou un remboursement.
 - Cette offre d’examen n’est pas transférable et ne sera pas valide si vous la modifiez, l’adaptez ou la transférez de quelque manière que ce soit.
 - Les politiques en matière d’annulation et de report et tous les frais associés sont applicables.
 - Les candidats souhaitant passer l’examen doivent accepter [l’accord de confidentialité relatif à l’examen de certification](/learn/certifications/certification-exam-policies#non-disclosure-agreement).
 - Les candidats à l’examen doivent répondre aux exigences de [configuration système](/learn/certifications/online-exams-psi#system-requirements) et de [protocole d’examen](/learn/certifications/online-exams-psi#testing-protocol-requirements).
+
+*&#42;Les examens doivent être programmés 24 heures à l'avance. Par conséquent, si vous souhaitez passer un examen le dernier jour de l'offre, le 31 décembre 2021, vous devez le programmer avant le 30 décembre 2021.*
 
 Pour obtenir de plus amples informations, veuillez lire la totalité des [Conditions d'utilisation de Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).

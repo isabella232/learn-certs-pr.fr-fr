@@ -213,6 +213,7 @@ Avant de vous inscrire et d’acheter votre examen, [complétez le test système
 - Afin de planifier un examen en ligne avec PSI, cliquez sur la certification Microsoft que vous souhaitez obtenir dans la [liste des examens admissibles](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer), puis sélectionnez le bouton « **Planifier un examen pour 15 USD** ».
 - Si les examens en ligne sont disponibles dans votre pays, vous pourrez sélectionner cette option durant la procédure de planification de l’examen. Vous serez amené au site de planification de PSI sur lequel vous choisirez le pays et le fuseau horaire, une langue, et une date et heure pour passer votre examen.
 - Quand vous aurez terminé, vous devrez payer l’examen.
+- Les examens doivent être programmés 24 heures à l'avance. Par conséquent, si vous souhaitez passer un examen le dernier jour de l'offre, le 31 décembre 2021, vous devez le programmer avant le 30 décembre 2021.
 
 ## Lancer l’épreuve et procédure d’enregistrement du candidat
 
@@ -262,7 +263,9 @@ Consultez la section « **[Inscription à un examen en ligne](/learn/certificat
 
 Oui, mais vous devez le faire au plus tard 24 heures avant le rendez-vous de votre examen. Connectez-vous à votre [tableau de bord de certification Microsoft](https://aka.ms/CertDashboard) et sélectionnez le bouton « **Annuler/Reporter** » dans la section des **Rendez-vous**. Vous serez redirigé au site de PSI afin d’annuler ou de reporter votre examen.
 
-Remarque: L’offre de l’examen du chercheur de travail à 15 USD doit être réclamée avant le 31 décembre 2020, et l’examen doit être passé avant le 31 mars 2021. Le report de l’examen peut être effectué à tout moment avant le 31 décembre 2020. Toutefois, si vous annulez votre rendez-vous d’examen après le 31 décembre 2020, vous ne pourrez plus le planifier à nouveau en profitant de l’offre à prix réduit.
+Note: L'offre d'examen de demandeur d'emploi USD15 doit être demandée avant le 31 décembre 2021&#42; et l'examen doit être passé avant le 31 décembre 2021. Le report de l'examen peut être effectué à tout moment avant le 30 décembre 2021; toutefois, si vous annulez votre convocation à l'examen après le 31 décembre 2021&#42;, vous ne pourrez plus planifier une nouvelle session en utilisant l'offre à prix réduit.
+
+*&#42;Les examens doivent être planifiés 24 heures à l'avance. Par conséquent, si vous souhaitez passer un examen le dernier jour de l'offre, c'est-à-dire le 31 décembre 2021, vous devez le planifier avant le 30 décembre 2021.*
 
 ### Puis-je repasser l’examen au prix réduit de 15 USD?
 
@@ -322,7 +325,7 @@ Fermez toutes les applications identifiées comme étant en cours d’exécution
 
 Déconnectez-vous de votre tableau de bord de certification Microsoft et initiez la procédure de connexion à nouveau à l’aide d’un navigateur basé sur Chrome. Cliquez sur le bouton **Démarrer l’examen**. *Notez que le bouton sera actif au plus tôt 15 minutes avant l’heure prévue pour le rendez-vous.*
 
-### Que dois-je faire si un surveillant ne se joint pas à ma session ?
+### Que dois-je faire si un surveillant ne se joint pas à ma session?
 
 Cliquez avec le bouton droit n’importe où sur la page du navigateur sécurisé de PSI et sélectionnez « Recharger », ou sélectionnez « Afficher » dans le coin supérieur gauche et puis « Recharger ». Si cela ne fonctionne pas, fermez le navigateur sécurisé de PSI et redémarrez-le. Notez que vous ne serez **pas** capable de vous connecter ou de démarrer votre examen avant au moins 15 minutes précédant l’heure de votre rendez-vous.
 

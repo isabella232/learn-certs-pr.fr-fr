@@ -25,53 +25,67 @@ products:
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform permet aux organisations d'automatiser leurs processus commerciaux, de développer leurs propres expériences d'applications riches et de se connecter mieux et plus rapidement avec leurs clients. Dans ce cours, les étudiants apprendront à effectuer des découvertes, à saisir les exigences, à engager des experts et des parties prenantes, à traduire les exigences et à configurer les solutions et les applications Power Platform. Ils compléteront leur apprentissage par des travaux pratiques en laboratoire pour créer des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, des automatisations de processus personnalisés et des visualisations personnalisées. Power Platform est composé de quatre produits clés : Power Apps, Power Automate, Power BI et Power Virtual Agents. Dans ce cours, nous couvrirons ces quatre applications en profondeur, avec un accent supplémentaire sur Common Data Service, l'AI Builder, les connecteurs et les portails.
+  Power Platform permet aux organisations d'automatiser leurs processus commerciaux, de développer leurs propres expériences d'applications riches et de se connecter mieux et plus rapidement avec leurs clients. Dans ce cours, les étudiants apprendront à effectuer des découvertes, à saisir les exigences, à engager des experts et des parties prenantes, à traduire les exigences et à configurer les solutions et les applications Power Platform. Ils compléteront leur apprentissage par des travaux pratiques en laboratoire pour créer des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, des automatisations de processus personnalisés et des visualisations personnalisées. Power Platform est composé de quatre produits clés&#58; Power Apps, Power Automate, Power BI et Power Virtual Agents. Dans ce cours, nous couvrirons ces quatre applications en profondeur, en mettant l'accent sur Microsoft Dataverse (anciennement Common Data Service), AI Builder, connecteurs, et portails.
 
   #### Profil de l’audience
   Un consultant fonctionnel sur Power Platform est responsable de la découverte, de la saisie des besoins, de l'engagement d'experts et de parties prenantes, de la traduction des besoins et de la configuration des solutions et des applications Power Platform. Le consultant fonctionnel met en œuvre les composants d'une solution qui comprend des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, l'automatisation de processus personnalisés et des visualisations personnalisées.
 prerequisitesSection: |-
   - Expérience en tant que professionnel ou étudiant en informatique
   - Connaissance pratique de Power Platform et de ses composantes clés
-  - Une connaissance du service commun de données et des concepts de sécurité.
+  - Une connaissance de Microsoft Dataverse (ou de la modélisation générale des données) et des concepts de sécurité
 outlineSection: |-
   ### Module 1&#58; Introduction à Power Platform
-  Ce module fournira à l'apprenant des informations générales sur Power Platform et ses 4 composants clés: Power Apps, Power Automate, Power BI et Power Virtual Agents.
+  Ce module fournira à l'apprenant des informations générales sur Power Platform et ses 4 composants clés&#58; Power Apps, Power Automate, Power BI et Power Virtual Agents.
   #### Leçons
   - Aperçu de Power Platform 
   
   #### Laboratoire &#58; Valider l'environnement du laboratoire
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
   - Identifier les éléments clés de Power Platform
   - Décrire le rôle d'un consultant fonctionnel
   
   
-  ### Module 2&#58; Travailler avec Common Data Service
-  Dans ce module, les étudiants apprendront à créer un modèle de données dans  Common Data Service, y compris l'importation de données, l'utilisation des options de rapport tabulaire et la configuration de la sécurité. Ils apprendront également à créer une IA simple avec AI Builder.
+  ### Module 2&#58; Le rôle du consultant fonctionnel
+  Dans ce module, les étudiants en apprendront davantage sur le rôle de consultant fonctionnel et les compétences requises pour mettre en œuvre avec succès une solution Power Platform pour une organisation.
+  - Aperçu des compétences des consultants
+  - Créer et valider la documentation
+  - Engager les parties prenantes
+  - Effectuer l'assurance qualité
+  - Configurer les intégrations
+  
+  À l’issue de ce module, les étudiants seront capables de&#58;
+  - Engager les parties prenantes avec des démonstrations
+  - Créer des diagrammes de relations entre tableaux (entités)
+  - Intégrations de la conception
+  - Interagir avec les équipes de consultants et d'organisations de clients
+  
+  
+  ### Module 3&#58; Travailler avec Dataverse
+  Dans ce module, les étudiants apprendront à créer un modèle de données dans Microsoft Dataverse, notamment à importer des données, à utiliser des options de rapport tabulaire et à configurer la sécurité. Ils apprendront également à créer une AI simple avec AI Builder.
   #### Leçons
   - Travailler avec le modèle de données
   - Créer et gérer des processus
   - Travailler avec AI Builder
-  - Configurer les paramètres de Common Data Service
+  - Configurer les paramètres de Dataverse
   - Importation et exportation de données
   - Utiliser les options de rapport tabulaire
   - Configurer les paramètres de sécurité
   
   #### Laboratoire &#58; Créer une application
   
-  #### Laboratoire &#58; Créer des entités et des champs
+  #### Laboratoire &#58; Créer des tableaux et des colonnes
   
   #### Laboratoire &#58; Créer des relations
   
-  #### Laboratoire &#58; Options supplémentaires pour les entités
+  #### Laboratoire &#58; Options de tableaux supplémentaires
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Créer un modèle de données
-  - Configurer les paramètres de Common Data Service
-  - Configurer la sécurité
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les tableaux, les colonnes, les lignes et les relations
+  - Configurer un modèle de données dans Dataverse
+  - Travailler dans un environnement au sein du centre d'administration de la Power Platform
   
-  
-  ### Module 3&#58; Créer des Power Apps
+  ### Module 4&#58; Créer des Power Apps
   Dans ce module, les étudiants apprendront la valeur commerciale des trois types de Power Apps. Ils apprendront ensuite à les configurer et à les concevoir, en tenant compte de l'expérience de l'utilisateur pour chaque type d'application.
   #### Leçons
   - Créer des applications basées sur des modèles
@@ -92,13 +106,13 @@ outlineSection: |-
   
   #### Laboratoire &#58; Expérience utilisateur
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Créer et concevoir une Power App
-  - Connecter une Power App aux données
-  - Navigation dans l'application de conception
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Se connecter aux données dans Power Apps
+  - Construire une Power App
+  - Concevoir une expérience utilisateur de l'application
   
   
-  ### Module 4&#58; Créer des flux avec Power Automate 
+  ### Module 5&#58; Créer des flux avec Power Automate 
   Dans ce module, les étudiants apprendront comment automatiser les processus commerciaux en utilisant les flux Power Automate, les flux de processus commerciaux et les flux UI.
   #### Leçons
   - Créer des flux
@@ -121,13 +135,13 @@ outlineSection: |-
   
   #### Laboratoire &#58; Ajouter des ramifications au flux des processus d'entreprise
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Automatiser les processus commerciaux en utilisant les flux
-  - Se connecter aux données dans Power Automate
-  - Créer un flux de processus d'entreprise avec une logique de ramification
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Créer des flux
+  - Créer des flux de processus commerciaux
+  - Comprendre les flux UI
   
   
-  ### Module 5&#58; Travailler avec Power Virtual Agents
+  ### Module 6&#58; Travailler avec Power Virtual Agents
   Dans ce module, les étudiants apprendront comment automatiser les interactions avec les clients grâce à un chatbot utilisant Power Virtual Agents.
   #### Leçons
   - Créer un chatbot
@@ -138,14 +152,12 @@ outlineSection: |-
   
   #### Laboratoire &#58; Créer un chatbot
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Configurer les thèmes, les entités et les variables
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
   - Créer un chatbot
-  - Intégrer avec Omnichannel pour le service à la clientèle
-  - Travailler dans l'interface PVA
-  
-  
-  ### Module 6&#58; Analyser les données avec Power BI
+  - Inclure un flux dans un chatbot
+  - Créer des thèmes et des entités
+
+  ### Module 7&#58; Analyser les données avec Power BI
   Dans ce module, les étudiants apprendront comment travailler avec Power BI Desktop et Power BI Service pour analyser les données et créer des visualisations.
   #### Leçons
   - Commencez avec Power BI
@@ -166,23 +178,7 @@ outlineSection: |-
   
   #### Laboratoire &#58; Suppression en bloc
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
   - Créer des visualisations
   - Consommation de données dans Power BI
   - Exporter des visualisations de données pour les parties prenantes
-  
-  
-  ### Module 7&#58; Compétences des consultants
-  Dans ce module, les étudiants en apprendront davantage sur le rôle de consultant fonctionnel et sur les compétences requises pour mettre en œuvre avec succès une solution Power Platform pour une organisation.
-  #### Leçons
-  - Aperçu des compétences des consultants
-  - Créer et valider la documentation
-  - Engager les parties prenantes
-  - Effectuer l'assurance qualité
-  - Configurer les intégrations
-  
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Identifier la documentation appropriée
-  - Rédiger une exigence commerciale
-  - Engager les parties prenantes avec des démonstrations
-  - Participer à l'ALM et aux tests

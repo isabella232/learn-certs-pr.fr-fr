@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant (beta)'
+title: 'Microsoft Power Platform Functional Consultant'
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
@@ -15,8 +15,6 @@ summary: |-
   Les candidats collaborent activement avec les membres de l’équipe d’assurance qualité afin de s’assurer que les solutions répondent aux exigences fonctionnelles et non fonctionnelles. Ils identifient, génèrent, et délivrent des artefacts pour le packaging et le déploiement aux ingénieurs DevOps, et assurent la formation des administrateurs de Power Platform pour les opérations et la maintenance.
   
   Les consultants fonctionnels de Power Platform doivent être familiarisés avec les applications basées sur le modèle Dynamics 365 et doivent avoir l'expérience de l'utilisation des composants de Power Platform pour étendre et personnaliser les applications basées sur le modèle Dynamics 365.
-  
-  <div><strong><br/>Les examens bêta ne sont pas immédiatement notés parce que nous recueillons les données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</strong></div>
 subTitle: 'Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs

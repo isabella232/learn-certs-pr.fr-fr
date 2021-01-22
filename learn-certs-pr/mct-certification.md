@@ -37,13 +37,13 @@ Le programme MCT est destiné aux instructeurs du monde entier qui dispensent en
 Pour en savoir plus sur les conditions liées au programme MCT, consultez le Guide du Programme MCT et l'Accord du Programme MCT dans la section [Procédure de Candidature](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de cette page.
 
 ### Exigences en matière d'accès au programme MCT
-- Posséder une qualification ou une certification Microsoft donnant accès au programme MCT. 
+- Posséder une qualification ou une certification Microsoft donnant accès au programme MCT.
 (Voir ci-dessous pour obtenir une liste des certifications éligibles).
 - Démontrer des compétences pédagogiques attestées par:
   - Certification des Compétences de Formation
     - CompTIA CTT+
     - Formateur essentiel d’éducation (certification interne Microsoft)
-	- Fourth Dimension Technologies, Inc.
+  - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Certification de compétences de formation Global Knowledge
     - Formateur technique approuvé IAMCT (IAMCT ATT)
@@ -52,12 +52,12 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
     - Le programme de formation Learning Tree
     - Marcom Deli
     - Certification des compétences de formation de Microsoft Certified Trainer (MCT-ISC)
-	- Certification de formateur Microsoft Service et support client (CSS)
-	- Compétences de formation de base Microsoft
+  - Certification de formateur Microsoft Service et support client (CSS)
+  - Compétences de formation de base Microsoft
     - Certification de ompétences de formation New Horizons
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®) [Réservé seulement au personnel des universités ou aux professeurs]
+    - Certified Virtual Educator [Réservé seulement au personnel des universités ou aux professeurs]
   
   OU<br/><br/>
 
@@ -95,7 +95,9 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le Gui
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)

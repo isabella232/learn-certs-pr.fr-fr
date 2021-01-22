@@ -6,13 +6,15 @@ metadata:
 uid: exam.77-882
 displayName: 77-882
 summary: |-
+  <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-
+  <div><strong>Cet examen est supprimé. Pour connaître les options actuellement disponibles, veuillez consulter la page <a href="/learn/certifications/browse/">Parcourir les certifications et les examens</a>.</strong><br/><br/></div>
+  </div>
+  
   L’utilisateur de niveau de base de Microsoft Office Excel 2010 doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau des fonctionnalités et des fonctions. Il doit connaître et savoir utiliser au moins 80% des fonctions et fonctionnalités de Microsoft Office Excel 2010. L’utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des personnes exerçant une variété de fonctions, presque dans tous les domaines de la vie professionnelle, estudiantine et personnelle.
 subTitle: L’utilisateur de niveau de base de Microsoft Office Excel 2010 doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau des fonctionnalités et des fonctions. Il doit connaître et savoir utiliser au moins 80% des fonctions et fonctionnalités de Microsoft Office Excel 2010. L’utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des personnes exerçant une variété de fonctions, presque dans tous les domaines de la vie professionnelle, estudiantine et personnelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ar-sa
@@ -37,6 +39,7 @@ skills:
 - Présenter des données visuellement
 - Partager les données de la feuille de travail avec d’autres utilisateurs
 - Analyser et organiser des données
+retirementDate: none
 roles:
 - business-user
 products:

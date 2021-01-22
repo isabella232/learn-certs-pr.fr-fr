@@ -7,8 +7,20 @@ uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-
-  Démontrez votre compréhension des capacités essentielles de Power Platform, de la valeur commercial aux capacités essentielles du produit au développement d’un canevas d’applications simples sur Power Apps, la connexion des sources de données, l’automatisation des processus opérationnels de base avec Power Automate, la création d’un tableau de bord Power BI, et la création de bots conversationnels puissants avec les Power Virtual Agents.
+  
+  Si vous êtes un étudiant, un utilisateur professionnel ou un professionnel technique débutant, cette certification peut accélérer votre progression et donner un coup de pouce à votre carrière, car vous utilisez vos compétences Microsoft Power Platform pour améliorer la productivité de votre équipe. Aucune expérience n'est nécessaire pour s'y former, juste une connaissance de base de la technologie informatique, de l'analyse des données, de l'informatique dans le cloud et de l'internet. Considérez une certification de base comme la première étape pour développer vos compétences et progresser vers d'autres certifications, telles que Microsoft Power Platform Functional Consultant.
+  
+  La certification Microsoft Power Platform Fundamentals pourrait vous convenir parfaitement, si vous souhaitez&#58;
+  - Construire des solutions avec Microsoft Power Platform.
+  - AAutomatiser les processus commerciaux de base avec Power Automate.
+  - Effectuer de l'analyse de données avec Power BI.
+  - Créer de simples expériences avec Power Apps.
+  - Construire des chatbots pratiques avec Power Virtual Agents.
+  
+  Cette certification n'a pas de conditions préalables. Toutefois, si vous souhaitez acquérir un peu plus d'expérience, vous pouvez&#58;
+  - Observez une personne de votre équipe qui travaille avec Microsoft Power Platform.
+  - Explorez les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - S'inscrire à un cours de formation dirigé par un instructeur.
 subTitle: Démontrez votre compréhension des capacités essentielles de Power Platform, de la valeur commercial aux capacités essentielles du produit au développement d’un canevas d’applications simples sur Power Apps, la connexion des sources de données, l’automatisation des processus opérationnels de base avec Power Automate, la création d’un tableau de bord Power BI, et la création de bots conversationnels puissants avec les Power Virtual Agents.
 levels:
 - beginner

@@ -35,12 +35,13 @@ Rechercher les certifications devant être retirées au cours des 12 prochains 
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Cette sera retirée le 31-Janvier- 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Cette sera retirée le 31-Janvier- 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | Cette sera retirée le 31 Décembre 2020 |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Retrait le 30 juin 2021 |
 
 ## Retired certifications
 
 Trouver des certifications qui ont été retirées au cours de la dernière année. Lorsqu’une certification a été retirée depuis plus d’un an, elle est supprimée de cette page. Une fois que la certification a été retirée, il ne sera plus possible de la passer mais, si elle a déjà été obtenue, elle restera dans votre relevé de résultats dans la section Active.
 
-REMARQUE : Quand une certification a été retirée, Microsoft continue de vérifier les technologies correspondantes pour déterminer si elle sont toujours pertinentes. S’il est déterminé que la technologie correspondante n’est plus pertinente, les certifications qui lui sont associées sont déplacées dans la section « Historique de certification » du relevé de résultats.
+REMARQUE: Quand une certification a été retirée, Microsoft continue de vérifier les technologies correspondantes pour déterminer si elle sont toujours pertinentes. S’il est déterminé que la technologie correspondante n’est plus pertinente, les certifications qui lui sont associées sont déplacées dans la section « Historique de certification » du relevé de résultats.
 
 | Basé sur les rôles                                     |          |
 | ---------------------------------------------------------------------------------- | ------------------ |

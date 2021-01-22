@@ -107,21 +107,21 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: Pourquoi obtenir une certification
-  summary: Les certifications vous donnent un atout professionnelle grâce à une preuve de compétences basées sur les rôles reconnue par le secteur.
+  title: Certifications Microsoft 
+  summary: Les certifications Microsoft confèrent un avantage professionnel en fournissant des preuves mondialement reconnues et approuvées par l'industrie de la maîtrise des compétences dans le domaine du numérique et du cloud.
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Avantages des certifications Microsoft
-    summary: Après avoir obtenu une certification, 23 % des technologues certifiés Microsoft ont déclaré avoir reçu jusqu'à 20 % d'augmentation de salaire. De plus, les employés certifiés sont souvent chargés de superviser leurs pairs, ce qui leur donne un accès plus rapide à une promotion. —Document technique sur la valeur de la Certification de Pearson VUE 2017
+    title: Avantages des certifications
+    summary: Après avoir obtenu une certification, 67% des professionnels de la technologie disent avoir davantage confiance en leurs capacités à accomplir leur travail, 41% déclarent avoir accru leur satisfaction professionnelle et 35% ont vu leur salaire ou leur rémunération augmenter.- 2018 Pearson VUE Valeur de la certification IT.
   items:
-    - title: 38%
-      summary: des positions de TI seront liées au cloud d'ici 2021.
-      note: IDC/Microsoft, compétences liées au cloud et influence organisationnelle * Comment les compétences liées au cloud accélèrent la progression de la carrière des professionnels de l’informatique, mai 2017
-    - title: 35%
-      summary: des professionnels de l’informatique affirment avoir plus d'influence pendant la mise en œuvre du cloud que leurs homologues pendant la mise en œuvre d'autres technologies.
-      note: IDC/Microsoft, compétences liées au cloud et influence organisationnelle * Comment les compétences liées au cloud accélèrent la progression de la carrière des professionnels de l’informatique, mai 2017
-    - title: 36.9%
-      summary: des professionnels de l’informatique affirment que la certification les a aidé à réaliser des tâches complexes avec plus de confiance.
-      note: Pearson VUE, The Value of IT Certification Survey, janvier 2017
+    - title: 91%
+      summary: des professionnels IT certifiés affirment que la certification leur confère une plus grande crédibilité professionnelle.
+      note: 2018 Pearson VUE Valeur de la certification
+    - title: 52%
+      summary: des professionnels IT certifiés déclarent que leur expertise est plus recherchée au sein de leur organisation.
+      note: Global Knowledge 2019 IT rapport sur les compétences et les salaires
+    - title: 93%
+      summary: des décideurs estiment que les employés certifiés apportent une valeur ajoutée.
+      note: Global Knowledge 2019 IT Decision Makers Insights

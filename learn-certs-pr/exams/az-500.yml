@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><strong> Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Gérer l’identité et l’accès (30-35%)
 - Mettre en œuvre une Protection de Plateforme (15-20%)
 - Gérer les Opérations de Sécurité (25-30%)

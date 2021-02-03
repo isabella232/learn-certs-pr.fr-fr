@@ -17,14 +17,20 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 ## Formations retirées: Formations dispensées par un instructeur
 
-* Courseware retirements on 31 Décembre 2020
+* Retrait des didacticiels le 31 mars 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
+
+* Retrait des didacticiels le 31 Décembre 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | Anglais | 12/31/2020 |
     | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | Anglais | 12/31/2020 |
 
-* Courseware retirements on 30 Novembre 2020
+* Retrait des didacticiels le 30 Novembre 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -76,7 +82,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | AZ-301T04KO | A | Designing an Infrastructure Strategy | Korean | 10/30/2020 |
     | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japanese | 10/30/2020 |
 
-* Courseware retirements on 31 Août 2020
+* Retrait des didacticiels le 31 Août 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -122,7 +128,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | Anglais | 08/31/2020 |
     | MS-301T04 | A | Migrating to SharePoint Online | Anglais | 08/31/2020 |
 
-* Courseware retirements on 30 juin, 2020
+* Retrait des didacticiels le 30 juin, 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -244,7 +250,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 23697-1 | B | Installing and Configuring Windows 10 | japonais | 06/30/2020 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | japonais | 06/30/2020 |
 
-* Courseware retirements on 29 Mai 2020
+* Retrait des didacticiels le 29 Mai 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -261,7 +267,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | anglais | 29/05/2020 |
     | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | anglais | 29/05/2020 |
 
-* Courseware retirements on 28 FÉVRIER, 2020
+* Retrait des didacticiels le 28 FÉVRIER, 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -306,7 +312,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 22697-1 | B | Installing and Configuring Windows 10 | français | 02/28/2020 |
     | MB-900T01 | A | Dynamics 365 fundamentals | anglais | 02/28/2020 |
 
-* Courseware retirements on 31 janvier 2020
+* Retrait des didacticiels le 31 janvier 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -333,7 +339,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | MB-330T02 | A | Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations | anglais | 01/31/2020 |
     | MB-330T03 | A | Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations | anglais | 01/31/2020 |
 
-* Courseware retirements on 31 Décembre 2019
+* Retrait des didacticiels le 31 Décembre 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -431,7 +437,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
     | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | chinois Simplifié | 31/12/2019 |
 
-* Courseware retirements on 27 Novembre 2019
+* Retrait des didacticiels le 27 Novembre 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -442,13 +448,13 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | MS-101T02 | A | Microsoft 365 Compliance Management | anglais | 11/27/2019 |
     | MS-101T03 | A | Microsoft 365 Device Management | anglais | 11/27/2019 |
 
-* Courseware retirements on 31 Octobre 2019
+* Retrait des didacticiels le 31 Octobre 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 20347 | B | Enabling & Managing Office 365 | anglais | 10/31/2019 |
 
-* Courseware retirements on 31 Juillet 2019
+* Retrait des didacticiels le 31 Juillet 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -456,7 +462,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 10971 | B | Storage and High Availability with Windows Server | anglais | 7/31/2019 |
     | 10974 | B | Deploying and Migrating Windows Servers | anglais | 7/31/2019 |
 
-* Courseware retirements on 30 juin, 2019 
+* Retrait des didacticiels le 30 juin, 2019 
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -491,7 +497,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | AZ-101T03 | A | Implement Advanced Virtual Networking | anglais | 6/30/2019
     | AZ-101T04 | A | Secure Identities | anglais | 6/30/2019
 
-* Courseware retirements on 1 Mai 2019
+* Retrait des didacticiels le 1 Mai 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -510,7 +516,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | AZ-201T02 | A | Implement Azure development integration Solutions | anglais | 5/01/2019
     | AZ-201T03 | A | Develop Azure Cognitive Services, Bot, and IoT solutions | anglais | 5/01/2019
 
-* Courseware retirements on 31 Mars 2019
+* Retrait des didacticiels le 31 Mars 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -518,13 +524,13 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 40457 | A | MOC Workshop: Azure Developer Hackathon | anglais | 3/31/2019
     | 40500 | A | DevOps Workshop | anglais | 3/31/2019
 
-* Courseware retirements on 31 janvier 2019
+* Retrait des didacticiels le 31 janvier 2019
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | AZ-300T05 | A | Implementing Authentication and Secure Data | anglais | 1/31/2019
 
-* Courseware retirements on 31 Décembre 2018
+* Retrait des didacticiels le 31 Décembre 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -532,13 +538,13 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 20533 | E | Implementing Microsoft Azure Infrastructure Solutions | anglais | 12/31/2018
     | 20535 | A | Architecting Microsoft Azure Solutions | anglais | 12/31/2018
 
-* Courseware retirements on 20 Août 2018
+* Retrait des didacticiels le 20 Août 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 6235 | A | Implementing and Maintaining Microsoft SQL Server 2008 Integration Services | anglais | 08/20/2018
 
-* Courseware retirements on 31 Juillet 2018
+* Retrait des didacticiels le 31 Juillet 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -613,7 +619,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 50572 | A | Premier Support for Lync Partners Tier 1 | anglais | 07/31/2018
     | 50573 | A | Premier Support for Lync Partners Tier 2 | anglais | 07/31/2018
 
-* Courseware retirements on samedi 30 juin 2018
+* Retrait des didacticiels le samedi 30 juin 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -819,7 +825,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | --- | --- | --- | --- | --- |
     | 20696 | C | Administering System Center Configuration Manager and Intune | anglais | 03/30/2018
 
-* Courseware retirements on mercredi 31 janvier 2018
+* Retrait des didacticiels le mercredi 31 janvier 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -866,7 +872,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 80580 | A | Microsoft Dynamics AX 2012 の個別の製造の詳細 | japonais | 6/30/2017
     | 80581 | A | Microsoft Dynamics AX 2012 の個別の製造の基本 | japonais | 6/30/2017
 
-* Courseware retirements on samedi 15 avril 2017
+* Retrait des didacticiels le samedi 15 avril 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -906,7 +912,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | anglais | 3/31/2017
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | anglais | 3/31/2017
 
-* Courseware retirements on samedi 31 décembre 2016
+* Retrait des didacticiels le samedi 31 décembre 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -985,7 +991,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
   [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* Courseware retirements on mercredi 15 juin 2016
+* Retrait des didacticiels le mercredi 15 juin 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -1017,7 +1023,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 12 | Office 2010 Running Start: Demonstration Sessions | German | 4/18/2016
     | 11 | Office 2010 Running Start: Demonstration Sessions | Anglais | 4/18/2016
 
-* Courseware retirements on jeudi 31 décembre 2015
+* Retrait des didacticiels le jeudi 31 décembre 2015
 
   [Téléchargez la liste complète des instructor-led courses à la retraite](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
@@ -1038,11 +1044,11 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 50430 | B | Administering Team Foundation Server 2010 | anglais | 8/31/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | anglais | 8/31/2015
 
-* Courseware retirements on mardi 30 juin 2015
+* Retrait des didacticiels le mardi 30 juin 2015
 
   [Téléchargez la liste complète des cours de instructor-led earning à la retraite](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
-* Courseware retirements on samedi 31 janvier 2015
+* Retrait des didacticiels le samedi 31 janvier 2015
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -1072,7 +1078,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | anglais | 8/25/2014
     | 10953 | A | HTML5 Programming | anglais | 8/25/2014
 
-* Courseware retirements on mardi 31 décembre 2013
+* Retrait des didacticiels le mardi 31 décembre 2013
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -1136,7 +1142,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
   * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Courseware retirements on mardi 15 août 2017
+* Retrait des didacticiels le mardi 15 août 2017
 
     | numéro de formation | titre | langue | date de retrait |
     | --- | --- | --- | --- |
@@ -1147,11 +1153,11 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
   * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Courseware retirements on mardi 30 juin 2015
+* Retrait des didacticiels le mardi 30 juin 2015
 
   * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
-* Courseware retirements on mercredi 12 mars 2014
+* Retrait des didacticiels le mercredi 12 mars 2014
 
   * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 

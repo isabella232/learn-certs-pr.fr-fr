@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+metadata:
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+uid: exam.az-600
+displayName: AZ-600
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  
+  Les candidats à l'examen AZ-600 sont des Azure administrators ou des opérateurs Azure Stack Hub operators qui fournissent des services cloud aux utilisateurs finaux ou aux clients depuis leur propre datacenter en utilisant  Azure Stack Hub.
+  
+  Les candidats à cet examen doivent avoir une expérience significative de la gestion et du fonctionnement des environnements Azure Stack Hub. TIls doivent avoir une bonne connaissance Azure, en plus d'une certaine connaissance de la virtualisation, de la mise en réseau et de la gestion de l'identité. Ils doivent comprendre comment Azure Stack Hub permet les processus DevOps et le modèle de développement hybride.
+  
+  <div><strong><br/>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. En savoir plus sur la valeur et l'importance des examens bêta <a href="/learn/certifications/certification-exams#participating-in-beta-exams"></a>.</strong></div>
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : fournir des services ; mettre en œuvre l'intégration des centres de données ; gérer l'identité et l'accès ; et gérer l'infrastructure."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- Fournir des services (30-35%)
+- Mettre en œuvre l'intégration des centres de données (15-20%)
+- Gérer l'identité et l'accès (10-15%)
+- Gérer les infrastructures (30-35%)
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+relatedCertifications:
+- related:
+    uid: certification.azure-stack-hub-operator
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: ../deals.md
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: ../request-accommodations.md
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
+  href: ../certification-exam-policies.md

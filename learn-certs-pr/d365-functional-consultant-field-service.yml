@@ -4,11 +4,12 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
   description: 'Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).'
 uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-  <div><strong>EXAMEN <a href="/learn/certifications/exams/mb-200">MB-200</a> EST REMPLACÉ PAR UN NOUVEL EXAMEN, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Vous pourrez obtenir cette certification en passant MB-200 ou PL-200, plus MB-240, avant que MB-200 soit retiré le le 31 décembre 2020. Après que MB-200 soit retiré, il sera nécessaire de passer PL-200 et MB-240 pour obtenir cette certification. Note&#58; Les examens seront retirés à 23h59 Heure Centrale Standard.</strong><br/><br/></div></div>
+  </div>
   
   Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).
 subTitle: Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).

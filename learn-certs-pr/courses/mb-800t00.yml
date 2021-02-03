@@ -14,7 +14,7 @@ skillsGained:
 - skill: Configurer les ventes et les achats
 - skill: Configurer les opérations
 - skill: Comprendre les scénarios d'intégration et d'automatisation
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -32,25 +32,56 @@ summary: |-
   #### Profil de l’audience
   Un Dynamics 365 Business Central core Functional Consultant est responsable de la mise en œuvre des processus de configuration des applications de base pour les petites et moyennes entreprises.
 prerequisitesSection: |-
-  Ce cours est destiné aux consultants fonctionnels travaillant avec Dynamics 365 Business Central, ou aux consultants fonctionnels qui travaillent avec d'autres applications de Dynamics 365 et qui souhaitent approfondir leurs connaissances de Business Central.
+  Ce cours est destiné aux consultants fonctionnels travaillant avec Dynamics 365 Business Central, ou aux consultants fonctionnels qui travaillent avec d'autres applications de Dynamics 365 et qui souhaitent approfondir leurs connaissances de Business Central
 outlineSection: |-
   ### Module 1&#58; Introduction à Business Central
-  Introduction aux modules de Business Central
+  Introduction aux modules Business Central
   #### Enseignements
+  - Introduction à Business Central
+  - Aperçu des technologies
+  - Naviguer dans l'interface utilisateur
+  - Maitriser les données pour le processus de vente et d'achat
   
-  ### Module 2&#58; Configurer l'application
+  ### Module  2&#58; Configuration de l'application
+  #### Enseignements
+  - Créer et configurer une nouvelle entreprise
+  - Migrer les données vers Business Central
+  - Gérer la sécurité
+  - Mettre en place les fonctionnalités de base de l'application
+  - Mise en place des dimensions
   
   
-  ### Module 3&#58; Configurer les finances
+  ### Module  3&#58; Configuration des finances
+  #### Enseignements
+  - Mettre en place une gestion financière
+  - Etablir le plan comptable
+  - Créer des groupes d'affichage
+  - Journaux généraux
+  - Mettre en place la gestion de trésorerie
+  - Mise en place des comptes créditeurs
+  - Configurer les comptes à recevoir
   
   
-  ### Module 4&#58; Configurer les ventes et les achats
+  ### Module  4&#58; Configurer les ventes et les achats
+  #### Enseignements
+  - Établir un inventaire
+  - Configurer les prix et les rabais
   
   
-  ### Module 5&#58; Opérations
+  ### Module  5&#58; Activités
+  #### Enseignements
+  - Acheter des articles
+  - Vendre des articles
+  - Traiter les transactions financières
+  - Calcul du coût des stocks
   
   
-  ### Module 6&#58; Intégration et automatisation
+  ### Module  6&#58; Intégration et automatisation
+  #### Enseignements
+  - Mettre en place et utiliser des approbations avec des flux de travail
+  - Connecter Power Apps
+  - Connecter Power Automate
+  - Connecter Power BI
   
   #### Lectures complémentaires
   Microsoft.com/learn

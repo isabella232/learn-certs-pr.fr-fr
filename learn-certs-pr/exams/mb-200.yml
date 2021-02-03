@@ -7,8 +7,8 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div><div><strong>Le contenu de cet examen a été mis à jour le 1er juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
-  <div><strong>CET EXAMEN SERA RETIRÉ LE 31 DÉCEMBRE 2020. Un nouvel examen, <a href="/learn/certifications/exams/pl-200">PL-200</a>, sera disponible en septembre 2020. Remarque&#58; Les examens seront retirés à 23 h 59 CST (Heure Normale du Centre).</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong>Cet examen a été retiré le 31 décembre 2020. Un examen de remplacement, PL-200, est disponible.  Pour plus d'informations, visitez la page des détails de l'examen <a href="/learn/certifications/exams/pl-200">PL-200 </a>.</strong><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des consultants fonctionnels ayant accès aux fonctionnalités du produit sous licence d’entreprise. En tant que consultant fonctionnel, le candidat est au courant des versions groupées des fonctionnalités mais ne travaille pas principalement avec ces produits groupés.
@@ -16,20 +16,16 @@ summary: |-
   Les candidats sont principalement responsables de la configuration du système pour répondre aux besoins des clients, de la réalisation des tâches de conception liées à la mise en œuvre de nouvelles fonctionnalités, de la mise en œuvre et du test des modifications apportées au système.
 
   Les candidats planifient la conception fonctionnelle des solutions, mettent en œuvre une application de gestion du cycle de vie (ALM), migrent les données et les objets de systèmes existants et externes, intègrent Power Platform à d’autres systèmes et gèrent l’environnement Power Platform.
-
-  <div><strong><br/>Comme cet examen est retiré le 31 décembre 2020, Microsoft ne mettra pas à jour les références de "Common Data Service" à "Microsoft Dataverse".</strong></div>
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la découverte, la planification et l’analyse, gérer la conception de l’expérience utilisateur, gérer les entités et les données, mettre en œuvre la sécurité, mettre en œuvre l’intégration et effectuer le déploiement et le test des solutions.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 1er juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Effectuer la découverte, la planification et l’analyse (5-10%)
 - Gérer la conception de l’expérience utilisateur (20-25%)
 - Gérer les entités et les données (15-20%)
@@ -46,10 +42,7 @@ products:
 - dynamics-field-service
 - dynamics-customer-service
 exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
+- uid: exam.mb-400
 courses:
 - uid: course.mb-200t00
 paths:
@@ -62,9 +55,7 @@ paths:
 - uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-sales
-- related:
-    uid: certification.d365-functional-consultant-customer-service
+    uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

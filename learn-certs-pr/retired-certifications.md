@@ -34,7 +34,6 @@ Rechercher les certifications devant être retirées au cours des 12 prochains 
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Cette sera retirée le 31-Janvier- 2021 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Cette sera retirée le 31-Janvier- 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | Cette sera retirée le 31 Décembre 2020 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Retrait le 30 juin 2021 |
 
 ## Retired certifications
@@ -45,6 +44,7 @@ REMARQUE: Quand une certification a été retirée, Microsoft continue de vérif
 
 | Basé sur les rôles                                     |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 décembre 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)       | 31 Août 2020 |
 
 | Microsoft Certified Solutions Developer                      |

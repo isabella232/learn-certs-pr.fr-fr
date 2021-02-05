@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-
   Cet examen couvre les compétences de création et de maintenance des objets de la base de données d’Access, notamment les tables, les relations, les formulaires de saisie de données, les rapports à niveaux multiples, et les requêtes multitables. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités d’Access et de compléter les tâches de façon indépendante.
 subTitle: Cet examen évalue les compétences en matière de principes de conception de bases de données. L’examen couvre les compétences de création et de maintenance des objets de la base de données d’Access, notamment les tables, les relations, les formulaires de saisie de données, les rapports à niveaux multiples, et les requêtes multitables.
 iconUrl: /media/learn/certification/badges/certification-exam.svg

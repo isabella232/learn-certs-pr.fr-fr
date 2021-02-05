@@ -17,7 +17,7 @@ skillsGained:
 - skill: Conception d'un schéma d’alerte pour une solution hébergée dans Azure
 - skill: Sélection de l’option de sauvegarde adaptée pour l’infrastructure et les données hébergées dans Azure
 - skill: Automatisation du déploiement de futures ressources pour la reprise de la sauvegarde ou à des fins d’évolutivité
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href=’https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-
   Le Azure Database Administrator met en œuvre et gère les aspects opérationnels des solutions de plateformes de données natives au cloud et hybrides, reposant sur Microsoft Azure Data Services et Microsoft SQL Server. Le Azure Database Administrator utilise des méthodes et des outils variés pour effectuer les opérations quotidiennes, notamment en appliquant ses connaissances dans l’utilisation de T-SQL à des fins de gestion administrative.
 
   <div></br>

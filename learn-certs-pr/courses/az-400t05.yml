@@ -15,7 +15,7 @@ skillsGained:
 - skill: Déploiement et configuration d’une infrastructure à l’aide d'outils tiers et de services avec Azure, tels que Chef, Puppet, Ansible, SaltStack et Terraform
 - skill: Définition d'une stratégie d'infrastructure et de configuration et d'un ensemble d'outils adaptés pour un pipeline de libération et une infrastructure d'application.
 - skill: Mise en œuvre de la conformité et de la sécurité dans votre infrastructure d'application
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

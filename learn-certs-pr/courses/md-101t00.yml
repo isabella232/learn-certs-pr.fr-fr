@@ -14,7 +14,7 @@ skillsGained:
 - skill: Gérer et déployer des applications et planifier une stratégie de gestion des applications mobiles.
 - skill: Gérer les utilisateurs et l’authentification à l’aide d’Azure AD et d’Active Directory DS.
 - skill: Décrire et mettre en œuvre des méthodes qui servent à protéger les dispositifs et les données.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

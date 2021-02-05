@@ -40,7 +40,7 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Module 1&#58; Explorer des concepts de base des bases de données
   Les étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur de Microsoft Azure. Les étudiants devront identifier et écrire les concepts des données de base telles que les relationnelles, les non relationnels, les Big Data, et l’analytique, et exploreront le moyen d’implémenter cette technologie à l’aide de Azure. Les étudiants exploreront les rôles, les tâches, et les responsabilités dans le monde des données.
-  #### Enseignements
+  #### Leçons
   - Explorer les concepts des données de base.
   - Explorer les rôles et les responsabilités dans le monde des données.
   - Décrire les concepts des données relationnelles.
@@ -55,33 +55,33 @@ outlineSection: |-
 
   ### Module 2&#58; Explorer les données relationnelles dans Azure
   Les étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur de Microsoft Azure. Les étudiants exploreront les offres de données relationnelles, ainsi que le provisionnement et le déploiement des bases de données relationnelles, et la requête de données relationnelles à travers des solutions de données dans le cloud avec Azure.
-  #### Enseignements
-  - Explorer les services de données relationnelles dans Azure
-  - Explorer le provisionnement et le déploiement de services de bases de données relationnelles dans Azure
+  #### Leçons
+  - Explorer les offres de données relationnelles dans Azure.
+  - Explorer le provisionnement et le déploiement des offres de bases de données relationnelles dans Azure.
   - Interroger les données relationnelles dans Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Décrire les services de données relationnelles sur Azure
-  - Expliquer le provisionnement et le déploiement des bases de données relationnelles sur Azure
-  - Interroger les données relationnelles par le biais des solutions de données dans le cloud dans Azure
+  - Décrire les offres de données relationnelles sur Azure.
+  - Expliquer le provisionnement et le déploiement des bases de données relationnelles sur Azure.
+  - Interroger les données relationnelles par le biais des solutions de données dans le cloud dans Azure.
 
 
   ### Module 3&#58; Explorer les données non relationnelles dans Azure
-  Les étudiants apprendront les concepts fondamentaux des bases de données dans un environnement cloud, acquerront des compétences de base en matière de services de données cloud et développeront leurs connaissances de base des services de données cloud au sein de Azure. Les élèves exploreront les services de données non relationnelles, l'approvisionnement et le déploiement de bases de données non relationnelles, et les magasins de données non relationnelles avec Microsoft Azure.
-  #### Enseignements
-  - Explorer les services de données non relationnelles dans Azure
-  - Explorer le provisionnement et le déploiement des services de données non relationnelles dans Azure
-  - Gérer les magasins de données non relationnelles dans Azure
+  Les étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur d’Azure. Les étudiants exploreront les offres de données non relationnelles, ainsi que le provisionnement et le déploiement des bases de données non relationnelles, et les magasins de données non relationnelles à l’aide de Microsoft Azure.
+  #### Leçons
+  - Explorer les offres de données non relationnelles dans Azure.
+  - Explorer le provisionnement et le déploiement des services de données non relationnelles dans Azure.
+  - Gérer les magasins de données non relationnelles dans Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Décrire les services de données non relationnelles sur Azure
+  - Décrire les offres de données non relationnelles sur Azure.
   - Expliquer le provisionnement et le déploiement des bases de données non relationnelles sur Azure.
   - Décrire les magasins de données non relationnelles sur Azure.
 
 
   ### Module 4&#58; Explorer l’analytique des entrepôts de données modernes dans Azure
   Les étudiants apprendront les principes fondamentaux des concepts de bases de données dans un environnement cloud, obtiendront des compétences de base dans les services de données sur le cloud, et développeront leurs propres connaissances fondamentales en services de données dans le cloud à l’intérieur d’Azure. Les étudiants exploreront les options de traitement disponibles pour la création de solutions d’analytique de données dans Azure. Les étudiants exploreront Azure Synapse Analytics, Azure Databricks, et Azure HDInsight. Les étudiants découvriront ce qu’est Power BI, ainsi que les blocs de construction et leur collaboration ensemble.
-  #### Enseignements
+  #### Leçons
   - Examiner les composants d’un entrepôt de données moderne.
   - Explorer l’ingestion des données dans Azure.
   - Explorer le stockage et le traitement des données dans Azure.

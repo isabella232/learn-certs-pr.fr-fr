@@ -21,7 +21,7 @@ skillsGained:
 - skill: Intégration de bibliothèques non gérées et de composants dynamiques dans une application Visual C#.
 - skill: Examen des métadonnées des types à l’aide du reflet, de la création et de l’utilisation d’attributs personnalisés, génération du code au moment de l’exécution et gestion des versions d’assemblage.
 - skill: Cryptage et décryptage des données à l’aide du cryptage symétrique et asymétrique.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -19,7 +19,7 @@ skillsGained:
 - skill: Surveillance, enregistrement et dépannage des services.
 - skill: Description des concepts et standards d’identité basés sur les revendications et mise en œuvre de l’authentification et de l’autorisation avec Azure Active Directory.
 - skill: Création d’applications de service évolutives.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

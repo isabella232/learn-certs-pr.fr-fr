@@ -21,7 +21,7 @@ skillsGained:
 - skill: Planification et mise en œuvre du déploiement d'une serveur AD FS et accès aux applications sensibles aux revendications.
 - skill: Planification et mise en œuvre du contrôle d'accès dynamique, de Workplace Join et des dossiers de travail.
 - skill: Planification et mise en œuvre d’un déploiement d’AD RMS, planification et gestion des modèles AD RMS et accès et planification et mise en œuvre de services AD RMS d'accès externe.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

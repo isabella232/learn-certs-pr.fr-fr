@@ -21,7 +21,7 @@ skillsGained:
 - skill: Performance de la maintenance continue des bases de données.
 - skill: Automatisation de la maintenance de SQL Server avec l’agent SQL Server.
 - skill: Configuration du courrier, des alertes et des notifications des bases de données.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -13,7 +13,7 @@ skillsGained:
 - skill: Migration des charges de travail SQL vers les machines virtuelles Azure
 - skill: Migration des charges de travail SQL vers les bases de données Azure
 - skill: Migration des charges de travail SQL vers l’instance gérée des bases de données SQL Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

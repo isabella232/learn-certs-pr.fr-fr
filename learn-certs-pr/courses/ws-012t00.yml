@@ -18,7 +18,7 @@ skillsGained:
 - skill: Planifier et implémenter des scénarios de migration, de sauvegarde et de reprise d’activité après sinistre hybrides et uniquement sur le cloud.
 - skill: Déployer des machines virtuelles Azure fonctionnant sous Windows Server 2019 et configurer la mise en réseau, le stockage et la sécurité.
 - skill: Gérer et maintenir les machines virtuelles Azure fonctionnant sous Windows Server 2019.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

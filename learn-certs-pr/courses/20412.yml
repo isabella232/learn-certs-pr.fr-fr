@@ -22,7 +22,7 @@ skillsGained:
 - skill: Mise en œuvre du clustering avec basculement et configuration et validation d’un service de réseau à haute disponibilité.
 - skill: Déploiement et gestion de machines virtuelles Hyper-V dans un clustering avec basculement.
 - skill: Mise en œuvre d’une solution de sauvegarde et de reprise après sinistre basée sur des exigences d’entreprise et techniques.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

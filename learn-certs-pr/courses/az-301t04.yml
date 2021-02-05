@@ -14,7 +14,7 @@ skillsGained:
 - skill: Conception d'un ensembles de disponibilité pour une ou plusieurs machines virtuelles
 - skill: Description des différences entre les domaines défectueux et mis à jour
 - skill: Création d'un modèle ARM d’ensemble d’évolutivité de VM
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

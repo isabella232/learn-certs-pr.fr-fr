@@ -26,7 +26,7 @@ skillsGained:
 - skill: Apprentissage des utilisations adéquates de l’intégration de SQL CLR et mise en œuvre d’un assemblage .NET existant au sein de SQL Server.
 - skill: Stockage de données XML et schémas dans SQL Server.
 - skill: Envoi des requêtes de base sur des données XML dans SQL Server.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

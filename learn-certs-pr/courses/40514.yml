@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: À la fin de cet atelier, vous saurez effectuer une bonne analyse de site pour comparer les coûts, les performances et le niveau d'effort nécessaire pour migrer d'Oracle vers SQL Server ou PostgreSQL. Étant donné le temps nécessaire pour terminer l'atelier, il est recommandé que l'apprenant et le formateur choisissent un seul chemin de migration.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

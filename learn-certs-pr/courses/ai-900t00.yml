@@ -13,7 +13,7 @@ skillsGained:
 - skill: Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure.
 - skill: Décrire les caractéristiques des charges de travail du traitement du langage naturel (NLP) sur Azure
 - skill: Décrire les caractéristiques des charges de travail conversationnelles de l’Intelligence artificielle sur Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

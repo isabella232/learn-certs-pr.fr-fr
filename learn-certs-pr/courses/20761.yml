@@ -24,7 +24,7 @@ skillsGained:
 - skill: Transformation de données grâce à la mise en œuvre de pivots, d’annulations de pivots, de groupements par roulement et de groupements par cube.
 - skill: Création et mise en œuvre de procédures stockées.
 - skill: Ajout de constructions de programmation telles que des variables, des conditions et des boucles au code T-SQL.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

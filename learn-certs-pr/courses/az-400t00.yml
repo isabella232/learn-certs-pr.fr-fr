@@ -41,7 +41,7 @@ skillsGained:
 - skill : Gérer les politiques de sécurité et de conformité de l'organisation
 - skill : intégrer les analyses de licences et de vulnérabilités dans les pipelines de construction et de déploiement
 - skill : Configurer les pipelines de construction pour accéder à la sécurité des paquets et à l'évaluation des licences
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

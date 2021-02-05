@@ -26,7 +26,7 @@ skillsGained:
 - skill: Utilisation de SignaIR pour permettre la communication à deux voies entre un client et un serveur.
 - skill: Description d’une API Web et de la raison pour laquelle les développeurs peuvent ajouter une API Web à une application.
 - skill: Description du conditionnement et du déploiement d’une application Web ASP.NET Core MVC depuis un ordinateur de développement vers un serveur Web.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

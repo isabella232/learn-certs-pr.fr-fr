@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></font></div>
-
   Les candidats à la certification Azure Administrator Associate doivent avoir des connaissances spécialisées dans la mise en œuvre, la gestion et la surveillance de l’environnement Microsoft Azure d’une organisation.
 
   Les responsabilités de cette fonction englobent la mise en œuvre, la gestion et la surveillance de l’identité, la gouvernance, el stockage, le calcul et les réseaux virtuels dans un environnement de cloud, ainsi que le provisionnement, la taille, le suivi et le réglage des ressources, le cas échéant.

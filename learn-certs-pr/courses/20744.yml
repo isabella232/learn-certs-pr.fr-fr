@@ -21,7 +21,7 @@ skillsGained:
 - skill: Optimisation et sécurisation des services de fichiers.
 - skill: Sécurisation du trafic du réseau avec des pare-feu et du cryptage.
 - skill: Sécurisation du trafic du réseau grâce à DNSSEC et l’analyste de messages.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

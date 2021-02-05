@@ -20,7 +20,7 @@ skillsGained:
 - skill: Configuration d’un clustering d’équilibrage de charge réseau (NLB) et planification de la mise en œuvre d’un NLB.
 - skill: Création et gestion des images de déploiement.
 - skill: Gestion, suivi et maintenance des installations de machines virtuelles.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

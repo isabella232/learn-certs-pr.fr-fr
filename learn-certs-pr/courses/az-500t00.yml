@@ -24,7 +24,7 @@ skillsGained:
 - skill: Mettre en œuvre Azure Monitor, notamment les sources connectées, l’analyse des journaux et les alertes.
 - skill: Mettre en œuvre Azure Security Center, notamment les stratégies, les recommandations, et l’accès aux machines virtuelles juste-à-temps.
 - skill: Mettre en œuvre Azure Sentinel, notamment les classeurs, les incidents et les playbooks.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

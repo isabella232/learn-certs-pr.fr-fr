@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Concevoir et réaliser une solution complète avancée d'analytique de bout en bout à l'aide d'Azure Synapse Analytics.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

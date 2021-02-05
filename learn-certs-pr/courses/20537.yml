@@ -18,7 +18,7 @@ skillsGained:
 - skill: Gérer des mises à jour dans Microsoft Azure Stack.
 - skill: Exécuter la surveillance et le dépannage dans Microsoft Azure Stack.
 - skill: Comprendre le fonctionnement de l’octroi de licences et de la facturation dans Microsoft Azure Stack.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

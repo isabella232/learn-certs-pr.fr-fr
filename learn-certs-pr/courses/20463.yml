@@ -21,7 +21,7 @@ skillsGained:
 - skill: Extension de SSIS avec des scripts et composants personnalisés
 - skill: Déploiement et Configuration des packages SSIS
 - skill: Description de la façon dont les solutions de BI peuvent consommer des données de l’entrepôt de données
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

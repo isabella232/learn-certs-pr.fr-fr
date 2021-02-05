@@ -12,7 +12,7 @@ skillsGained:
 - skill: Travailler avec Microsoft Graph
 - skill: Déterminer les objectifs de charge de travail de la plateforme
 - skill: Points d'intégration, ce qui inclut Microsoft Teams, les extensions de Office et le SharePoint Framework
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

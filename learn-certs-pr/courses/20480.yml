@@ -24,7 +24,7 @@ skillsGained:
 - skill: Utilisation de sockets Web pour envoyer et recevoir des données entre une application Web et un serveur.
 - skill: Amélioration de la réactivité d’une application Web qui exécute des opérations de longue durée grâce à des processus de traitement Web.
 - skill: Utilisation de WebPack pour créer des packages d’applications Web pour la production.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
-
   Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
 subTitle: Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
 levels:

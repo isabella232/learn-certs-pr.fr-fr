@@ -18,7 +18,7 @@ skillsGained:
 - skill: Gérer les autorisations d'administrateurs basées sur les rôles
 - skill: Gérer les autorisations des utilisateurs basées sur les rôles
 - skill: Planifier la configuration d’Exchange - les autorisations de fractionnement RBAC et AD
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

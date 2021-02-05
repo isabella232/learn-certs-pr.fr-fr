@@ -16,7 +16,7 @@ skillsGained:
 - skill: Créer et gérer Azure Cognitive Search solutions
 - skill: Créer des agents intelligents en utilisant le Bot Framework
 - skill: Implémentation de solutions Computer Vision
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

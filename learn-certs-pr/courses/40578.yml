@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Tirer parti des technologies Microsoft 365 et Azure pour développer une infrastructure de bureau virtuel Windows.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,16 +6,19 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Microsoft Dynamics 365 Marketing Functional Consultants sont responsables de la mise en œuvre de solutions qui attirent et convertissent les prospects, développent une prise de conscience de la marque, standardisent la messagerie omnicanal et délivrent des perspectives marketing.
+  Si vous êtes un consultant fonctionnel, un professionnel utilisant Microsoft Dynamics 365 Marketing dans les activités quotidiennes de votre organisation, ou un développeur qui cherche à affiner ses compétences en matière de conseil, cette certification pourrait donner un coup de pouce à votre carrière et vous permettre de vous positionner plus efficacement pour des projets et des promotions.
+  
+  En tant que candidat à cette certification, vous connaissez les applications orientées modèle et les principes de modélisation des données de Dynamics 365, et vous pouvez configurer Microsoft Power Platform. Vous mettez en œuvre des initiatives de marketing, comme des campagnes, des courriels et des voyages de clients. Vous avez une expérience de travail avec les parties prenantes d'une organisation pour recueillir les besoins et mettre en œuvre les solutions de Dynamics 365 Marketing. De plus, vous configurez  Dynamics 365 Marketing et mettez en place la sécurité organisationnelle de Dynamics 365. Vous pouvez même étendre les solutions Dynamics 365 en utilisant des composants Power Platform, comme Power Automate et Power Apps.
+  
+  Si vous avez besoin de plus d'expérience avant d'essayer d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travail sur un projet de mise en œuvre d'une application basée sur le modèle Dynamics 365.
+  - Suivre un consultant fonctionnel ou un architecte de solutions qui travaille avec Dynamics 365 Marketing.
+  - Suivre les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - S'inscrire à un cours de formation dirigé par un instructeur.
 subTitle: Les Microsoft Dynamics 365 Marketing Functional Consultants sont responsables de la mise en œuvre de solutions qui attirent et convertissent les prospects, développent une prise de conscience de la marque, standardisent la messagerie omnicanal et délivrent des perspectives marketing.
 levels:
 - intermediate
 skills:
-- Configurer le Common Data Service
-- Créer des applications en utilisant Power Apps
-- Créer et gérer Power Automate
-- Implémenter des chatbots avec Power Virtual Agents
-- Intégrer Power Apps avec d'autres applications et services
 - Configurer les paramètres des applications
 - Gérer les segments et les listes
 - Créer et gérer des formulaires et des pages de marketing
@@ -24,6 +27,11 @@ skills:
 - Gérer les parcours des clients
 - Gérer des événements et des webinaires
 - Configurer Dynamics 365 Customer Voice
+- Configurer le Common Data Service
+- Créer des applications en utilisant Power Apps
+- Créer et gérer Power Automate
+- Implémenter des chatbots avec Power Virtual Agents
+- Intégrer Power Apps avec d'autres applications et services
 roles:
 - functional-consultant
 type: role-based

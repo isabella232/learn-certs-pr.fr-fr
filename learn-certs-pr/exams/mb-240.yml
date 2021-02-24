@@ -6,15 +6,13 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 15 janvier 2021. Veuillez télécharger le descriptif des compétences évaluées ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
-
-  Les candidats à cet examen sont des consultants fonctionnels de Dynamics 365 Customer Engagement ayant une expertise dans le domaine des services de terrain. Les candidats sont responsables de la mise en œuvre de solutions qui gèrent les ressources qui complètent le cycle de vie des services sur le terrain.
-
+  <div><strong>Le contenu de cet examen a été mis à jour le 15 janvier 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
+  
+  Les candidats à cet examen sont des consultants fonctionnels Microsoft Dynamics 365 Customer Engagement avec une expertise de service de terrain. Les candidats sont chargés de mettre en œuvre des solutions de gestion des ressources qui complètent le cycle de vie de service de terrain.
+  
   Les candidats mettent en œuvre les processus de service sur le terrain conçus en collaboration avec des équipes internes et externes. Cette collaboration comprend la configuration des zones d'administration par défaut de l'application Field Service, le déploiement de la solution connectée Field Service (IoT) et de l'application mobile, et la mise en œuvre de toute personnalisation supplémentaire nécessaire. Les candidats sont responsables de la configuration et du déploiement de l'application Field Service en conjonction avec l'application de base du service à la clientèle.
-
-  Les candidats doivent savoir comment configurer et personnaliser les composants de l’application de services sur site, notamment la configuration des services, ressources, caractéristiques, incidents, intégration de l'inventaire, accords de service, planification des ressources, ordres de travail, tâches de services, rôles de l’utilisateur du service sur site, paramètres du service sur site, solution du service sur site connecté (Internet des objets), et configuration de l’application mobile de service sur site.
+  
+  Les candidats doivent savoir comment configurer et personnaliser les éléments de l'application service de terrain, y compris la configuration des services, des ressources, des caractéristiques, des incidents, l'intégration des stocks, les accords de service, la programmation des ressources, les ordres de travail, les tâches de service, les rôles des utilisateurs field service, le paramétrage de service de terrain, les solutions connectées de  service de terrain (IoT), et la configuration de l'application mobile  service de terrain. Les candidats doivent être familiers avec l'application mobile basée sur Microsoft Power Apps. L'application mobile basée sur Xamarin ne sera pas couverte par cet examen.
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: configurer des applications de service sur le terrain; gérer les ordres de travail; planifier et expédier les ordres de travail; gérer la mobilité du service sur le terrain; gérer les stocks et les achats; et mettre en œuvre le service sur le terrain connecté."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 15 janvier 2021. Veuillez télécharger le descriptif des compétences évaluées ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 15 janvier 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui a changé.
 - Configurer les applications de service sur le terrain (15-20%)
 - Gérer les ordres de travail (15-20%)
 - Programmer et expédier les ordres de travail (25-30%)
@@ -38,7 +36,7 @@ products:
 - dynamics-365
 - dynamics-field-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-240t00
 paths:

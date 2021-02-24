@@ -12,17 +12,17 @@ subTitle: Les Microsoft Dynamics 365 Field Service Functional Consultant sont re
 levels:
 - intermediate
 skills:
-- Configurer le Common Data Service
-- Créer des applications en utilisant Power Apps
-- Créer et gérer Power Automate
-- Implémenter des chatbots avec Power Virtual Agents
-- Intégrer Power Apps avec d'autres applications et services
 - Configurer les applications du service sur site
 - Gérer les ordres de travail
 - Programmer et répartir les ordres de travail
 - Gérer la mobilité du service sur site
 - Gérer les stocks et les achats
 - Mettre en place un service de terrain connecté
+- Configurer le Common Data Service
+- Créer des applications en utilisant Power Apps
+- Créer et gérer Power Automate
+- Implémenter des chatbots avec Power Virtual Agents
+- Intégrer Power Apps avec d'autres applications et services
 roles:
 - functional-consultant
 type: role-based

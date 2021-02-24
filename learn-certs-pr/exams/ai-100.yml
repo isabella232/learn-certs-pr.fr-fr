@@ -7,6 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
+  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, SERA DISPONIBLE LE 23 FÉVRIER 2021. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque&#58; les examens expirent à 23h59, heure normale centrale.</strong></font><br/><br/></div>
   <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 20 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
@@ -29,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le mercredi 20 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.'
+- Le contenu de cet examen sera mis à jour le mercredi 20 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Analyser les exigences des solutions (25-30%)
 - Concevoir des solutions en Intelligence Artificielle (40-45%)
 - Mettre en œuvre et surveiller les solutions en Intelligence Artificielle (AI) (25-30%)

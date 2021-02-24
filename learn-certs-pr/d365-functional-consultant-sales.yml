@@ -7,19 +7,27 @@ uid: certification.d365-functional-consultant-sales
 certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l’équipe de ventes à l’aide de l’analyse des données.
+  Si vous êtes un consultant fonctionnel, un professionnel travaillant avec Microsoft Dynamics 365 Sales, ou un développeur cherchant à aiguiser vos compétences en matière de conseil, cette certification pourrait vous aider à donner un coup de pouce à votre carrière. Il vous permet de vous commercialiser plus efficacement pour les projets et montre à votre organisation que vous pouvez utiliser Dynamics 365 Sales pour renforcer la force de vente.
+  
+  En tant que candidat à cette certification, vous avez de l'expérience dans la configuration de Microsoft Power Platform et vous connaissez les applications basées sur le modèle Dynamics 365 et les principes de modélisation des données. Vous travaillez avec les parties prenantes d'une organisation pour recueillir les besoins et mettre en œuvre les solutions Dynamics 365 Sales. Vous gérez les pistes, les opportunités, les devis et les commandes, et vous configurez les catalogues de produits et les listes de prix. En outre, vous configurez Dynamics 365 Sales pour correspondre au processus commercial unique de votre organisation, et vous modélisez les données Dynamics 365 Sales. Vous pouvez même étendre les solutions Dynamics 365 en utilisant des composants Power Platform, comme Power Automate et Power Apps.
+  
+  Si vous avez besoin de plus d'expérience avant d'essayer d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travailler sur un projet de mise en œuvre d'une application basée sur le modèle Dynamics 365.
+  - Suivre un consultant fonctionnel ou un architecte de solutions qui travaille avec Dynamics 365 Sales.
+  - Suivre les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - S'inscrire à un cours de formation dirigé par un instructeur.
 subTitle: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l’équipe de ventes à l’aide de l’analyse des données.
 levels:
 - intermediate
 skills:
+- Effectuer la configuration
+- Gérer les principales entités de vente
+- Réaliser la découverte, la planification et l’analyse
 - Configurer le Common Data Service
 - Créer des applications en utilisant Power Apps
 - Créer et gérer Power Automate
 - Implémenter des chatbots avec Power Virtual Agents
 - Intégrer Power Apps avec d'autres applications et services
-- Effectuer la configuration
-- Gérer les principales entités de vente
-- Réaliser la découverte, la planification et l’analyse
 roles:
 - functional-consultant
 type: role-based

@@ -24,7 +24,7 @@ skillsGained:
 - skill: Mettre en œuvre Azure Monitor, notamment les sources connectées, l’analyse des journaux et les alertes.
 - skill: Mettre en œuvre Azure Security Center, notamment les stratégies, les recommandations, et l’accès aux machines virtuelles juste-à-temps.
 - skill: Mettre en œuvre Azure Sentinel, notamment les classeurs, les incidents et les playbooks.
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -42,19 +42,25 @@ exams:
 - uid: exam.az-500
 summary: |-
   Ce cours fournit aux professionnels de la sécurité informatique les connaissances et les compétences nécessaires afin de mettre en œuvre des contrôles de sécurité, de maintenir la posture de sécurité d’une organisation, et d’identifier et de remédier aux vulnérabilités en matière de sécurité. Ce cours comporte la sécurité en matière d’identité et d’accès, la protection de plateforme, les données et les applications, ainsi que les opérations de sécurité.
-
+  
   #### Profil de l’audience
   Ce cours est destiné aux ingénieurs de sécurité Azure qui prévoient passer l’examen de certifications Associés ou qui exercent des tâches de sécurité dans le cadre de leur travail. Ce cours serait également utile aux ingénieurs qui souhaitent se spécialiser dans la prestation de sécurité pour les plateformes numériques basées sur Azure et jouer un rôle intégral dans la protection des données d’une organisation.
 prerequisitesSection: |-
-  Pour bénéficier au maximum de ce cours, les étudiants devraient&#58;
-  - Comprendre les meilleures pratiques de sécurité et les exigences de l’industrie en matière de sécurité, comme la défense approfondie, l’accès le moins privilégié, le contrôle de l’accès en fonction du rôle, l’authentification multifacteurs, la responsabilité partagée et le modèle confiance zéro.
+  Les étudiants qui réussissent auront une connaissance préalable et une compréhension de&#58;
+  - Les meilleures pratiques de sécurité et les exigences de sécurité du secteur, telles que la défense en profondeur, l'accès le moins privilégié, le contrôle d'accès basé sur les rôles, l'authentification à plusieurs facteurs, la responsabilité partagée et le modèle de confiance zéro.
   - Bien connaître les protocoles de sécurité, tels que les réseaux privés virtuels (VPN), le protocole de sécurité d’Internet (IPSec), le protocole Secure Socket Layer (SSL), les méthodes de cryptage du disque et des données.
   - Avoir de l’expérience dans le déploiement des charges de travail Azure. Ce cours ne couvre pas les bases de la gestion d’Azure, mais tient plutôt compte des connaissances existantes et y ajoute des informations spécifiques à la sécurité.
   - Avoir de l’expérience avec les systèmes d’exploitation Windows et Linux et les langages de script. Les cours de laboratoires peuvent utiliser PowerShell et CLI.
-
-  Pour vous préparer à ce cours, pensez à suivre cette formation gratuite en ligne.
-  - [Azure Fundamentals](/learn/paths/azure-fundamentals/)
-  - [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)
+  
+  Cours préalables (ou connaissances et expérience pratique équivalentes)&#58;
+  
+  Cette formation en ligne gratuite vous permettra d'acquérir l'expérience nécessaire pour réussir ce cours.
+  
+  - [AZ-104&#58; Gérer les identités et la gouvernance dans Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104&#58; Mettre en œuvre et gérer le stockage dans Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-manage-storage/)
+  - [AZ-104&#58; Configurer et gérer virtual networks pour Azure administrators - Apprendre | Microsoft Docs](/learn/paths/az-104-manage-virtual-networks/)
+  - [AZ-104&#58; Surveiller et sauvegarder les ressources Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-monitor-backup-resources/)
+  - [AZ-104&#58; Déployer et gérer les ressources informatiques Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-manage-compute-resources/)
 outlineSection: |-
   ### Module 1&#58; Gérer l’Identité et l’Accès
   Ce module porte sur Azure Active Directory, Azure Identity Protection, Enterprise Governance, Azure AD PIM, et Hybrid Identity.

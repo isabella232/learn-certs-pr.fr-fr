@@ -12,16 +12,16 @@ subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant con
 levels:
 - intermediate
 skills:
-- Configurer le Common Data Service
-- Créer des applications en utilisant Power Apps
-- Créer et gérer Power Automate
-- Implémenter des chatbots avec Power Virtual Agents
-- Intégrer Power Apps avec d'autres applications et services
 - Gérer des cas et Knowledge Management
 - Gérer les files d’attente, les droits et les accords de service (SLA)
 - Mettre en œuvre la planification
 - Mettre en œuvre Omnicanal pour le service après-vente
 - Gérer les analyses
+- Configurer le Common Data Service
+- Créer des applications en utilisant Power Apps
+- Créer et gérer Power Automate
+- Implémenter des chatbots avec Power Virtual Agents
+- Intégrer Power Apps avec d'autres applications et services
 roles:
 - functional-consultant
 type: role-based

@@ -7,13 +7,14 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
+  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, SERA DISPONIBLE LE 23 FÉVRIER 2021. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque&#58; les examens expirent à 23h59, heure normale centrale.</strong></font><br/><br/></div>
   <div><strong>Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
-
+  
   Les candidats à cet examen sont des ingénieurs de données Microsoft Azure qui collaborent avec des parties prenantes professionnelles pour identifier et répondre aux exigences de données afin de mettre en œuvre des solutions de données qui utilisent les services de données Azure.
-
+  
   Les ingénieurs en données Azure sont responsables des tâches de mise en œuvre relatives aux données qui comprennent le provisionnement des services de stockage de données, l’acquisition des données de diffusion en contenu et en masse, la transformation de données, la mise en œuvre des exigences de sécurité, la mise en œuvre des politiques de rétention de données, l’identification des goulots d’étranglement de performance et l’accès aux sources de données externes.
-
+  
   Les candidats à cet examen doivent être capables de mettre en œuvre des solutions de données qui utilisent les services Azure suivants&#58; Azure Cosmos DB, Azure Synapse Analytics (anciennement Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks et Azure Blob storage.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: implémenter des solutions de stockage de données, gérer et développer le traitement des données, et surveiller et optimiser les solutions de données.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -32,6 +33,7 @@ skills:
 - Mettre en œuvre des solutions de stockage de données (40-45%)
 - Gérer et développer le traitement des données (25-30%)
 - Surveiller et optimiser des solutions de données (30-35%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

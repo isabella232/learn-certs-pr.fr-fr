@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Scientist Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Data Scientist Associate'
+  description: 'Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.'
+uid: certification.azure-data-scientist
+certificationRenewalUid: renewal.azure-data-scientist
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
+subTitle: Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
+levels:
+- intermediate
+skills:
+- Mettre en place un espace de travail Azure Machine Learning
+- Exécuter des expériences et former les modèles
+- Optimiser et gérer les modèles
+- Déployer et consommer les modèles
+roles:
+- data-scientist
+type: role-based
+products:
+- azure
+- azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-studio
+courses:
+- uid: course.dp-100t01
+paths:
+- uid: learn.wwl.create-machine-learn-models
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
+exams:
+- uid: exam.dp-100
+resources:
+- title: Azure certifications poster
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Data Scientist Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

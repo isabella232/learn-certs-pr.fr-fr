@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Renouvellement de la Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.azure-security-engineer
+certificationUid: certification.azure-security-engineer
+assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Azure en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Renforcer l’authentification (accès conditionnel) avec Azure Active Directory
+- Sécuriser des comptes administrateurs dans Azure Active Directory
+- Autoriser la protection de l’identité dans Azure Active Directory
+- Sécuriser vos ressources Azure avec un contrôle de l’accès basé sur les rôles (RBAC)
+- Sécuriser et isoler l’accès aux ressources Azure à l’aide des groupes de sécurité réseau et des extrémités de service
+- Concevoir une stratégie de surveillance holistique dans Azure
+- Sécuriser votre compte de stockage Azure
+- Gérer des secrets dans vos applications sur serveur avec Azure Key Vault
+examsPassed:
+- az-500
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft Certified: Azure Security Engineer Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

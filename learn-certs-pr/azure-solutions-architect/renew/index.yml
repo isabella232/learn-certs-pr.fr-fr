@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Renouvellement de la Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: 'Renouvellement de la Microsoft Certified: Azure Solutions Architect Expert'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.azure-solutions-architect
+certificationUid: certification.azure-solutions-architect
+assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Azure en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Concevoir une stratégie de surveillance holistique dans Azure
+- Cadre bien structuré de Microsoft Azure - Efficacité de la performance
+- Microsoft Azure Well-Architected Framework - Sécurité
+- Protégez votre infrastructure Azure avec Azure Site Recovery
+- Protégez vos machines virtuelles à l’aide de Azure Backup
+- Sauvegardez et restaurez votre base de données Azure SQL
+- Utilisez la surveillance et l’analyse pour obtenir des connaissances sur les coûts
+- Analysez votre infrastructure Azure à l’aide des journaux Azure Monitor
+examsPassed:
+- az-303, az-304
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft Certified: Azure Solutions Architect Expert."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

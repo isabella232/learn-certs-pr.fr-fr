@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Renouvellement de la Microsoft 365 Certified: Security Administrator Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft 365 Certified: Security Administrator Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.m365-security-administrator
+certificationUid: certification.m365-security-administrator
+assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Microsoft 365 en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Protéger votre environnement avec Azure Advanced Threat Protection
+- Passer de Azure Information Protection à Microsoft Information Protection
+- Décrire les capacités de gestion de la conformité de Microsoft 365
+- Renforcer l’authentification (accès conditionnel) avec Azure Active Directory
+- Accueillir Zero Trust avec Azure Active Directory
+- Protéger vos données avec les étiquettes de sensibilité
+- Vous protéger contre les menaces avec Microsoft Defender Advanced Threat Protection
+- Préparer la conformité de la communication dans Microsoft 365
+examsPassed:
+- ms-500
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft 365 Certified: Security Administrator Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

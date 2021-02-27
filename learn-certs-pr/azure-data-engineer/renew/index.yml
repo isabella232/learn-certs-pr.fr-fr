@@ -14,7 +14,7 @@ skills:
 - Ingestion à l’échelle des pétaoctets avec Azure Data Factory
 - Effectuer une transformation sans code à l’échelle avec Azure Data Factory
 examsPassed:
-- dp-200, dp-201, dp-203
+- dp-200, dp-201 ou dp-203
 studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft Certified: Azure Data Engineer Associate."
 resources:
 - title: À propos du renouvellement de la certification

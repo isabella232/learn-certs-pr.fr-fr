@@ -1,0 +1,43 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
+  description: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist: PowerPoint Associate.'
+uid: certification.mos-powerpoint-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist &#58; PowerPoint Associate. Cette certification démontre les compétences dans la création, la modification et l’amélioration des présentations et des diaporamas.
+
+  Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de PowerPoint et peut compléter les tâches de manière indépendante.
+subTitle: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist: PowerPoint Associate.'
+levels:
+- intermediate
+skills:
+- Gérer des présentations
+- Gérer des diapositives
+- Insérer et mettre en forme du texte, des formes et des images
+- Insérer des tableaux, des diagrammes, smartArt, des modèles en 3D et des médias
+- Appliquer des transitions et des animations
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-powerpoint
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WKkE
+exams:
+- uid: exam.mo-300
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

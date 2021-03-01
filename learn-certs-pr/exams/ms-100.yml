@@ -6,12 +6,10 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
-  </div>
-
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
-
+  
   Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l’administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -24,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour le 24 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.
 - Concevoir et implémenter les services Microsoft 365 (25-30%)
 - Gérer l’identité et les rôles des utilisateurs (35-40%)
 - Gérer l’accès et l’authentification (20-25%)

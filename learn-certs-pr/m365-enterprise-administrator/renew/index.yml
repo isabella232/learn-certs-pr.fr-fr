@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renouvellement de la Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Renouvellement de la Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Microsoft 365 en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Gérer Windows 10 grâce à la cogestion à l’aide de System Center Configuration Manager
+- Simplifier la gestion des dispositifs avec Microsoft Endpoint Manager
+- Simplifier l’approvisionnement de l’accès et de l’identité avec Azure Active Directory
+- Livrer le courrier dans les boîtes de réception à l’extérieur de Microsoft 365 grâce à des connecteurs
+- Se défendre contre les menaces avec Microsoft Threat Protection
+- Migrer les fichiers et les paramètres des utilisateurs dans Microsoft 365
+- Fournir les applications Microsoft 365 et les applications professionnelles
+- Protéger vos données avec les étiquettes de sensibilité
+- Gérer le risque de délit d’initié dans Microsoft 365
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft 365 Certified: Enterprise Administrateur Expert."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

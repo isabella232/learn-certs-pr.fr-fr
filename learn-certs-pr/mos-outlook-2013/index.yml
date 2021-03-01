@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Outlook 2013'
+metadata:
+  title: 'Microsoft Office Specialist: Outlook 2013'
+  description: 'Microsoft Office Specialist: Outlook 2013'
+uid: certification.mos-outlook-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Cette certification est la preuve que vous avez une compréhension de base de l’environnement Microsoft Outlook 2013 et la capacité de remplir des tâches de manière autonome. Les candidats doivent connaître et démontrer qu’ils sont capables d’appliquer correctement les principales fonctionnalités d’Outlook 2013.
+subTitle: Cette certification est la preuve que vous avez une compréhension de base de l’environnement Microsoft Outlook 2013 et la capacité de remplir des tâches de manière autonome. Les candidats doivent connaître et démontrer qu’ils sont capables d’appliquer correctement les principales fonctionnalités d’Outlook 2013.
+levels:
+- intermediate
+skills:
+- Gérer l’environnement Outlook
+- Gérer des messages
+- Gérer des calendriers
+- Gérer des contacts et des groupes
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-outlook
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
+exams:
+- uid: exam.77-423
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

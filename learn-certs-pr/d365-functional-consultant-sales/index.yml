@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l’équipe de ventes à l’aide de l’analyse des données.'
+uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes un consultant fonctionnel, un professionnel travaillant avec Microsoft Dynamics 365 Sales, ou un développeur cherchant à aiguiser vos compétences en matière de conseil, cette certification pourrait vous aider à donner un coup de pouce à votre carrière. Il vous permet de vous commercialiser plus efficacement pour les projets et montre à votre organisation que vous pouvez utiliser Dynamics 365 Sales pour renforcer la force de vente.
+  
+  En tant que candidat à cette certification, vous avez de l'expérience dans la configuration de Microsoft Power Platform et vous connaissez les applications basées sur le modèle Dynamics 365 et les principes de modélisation des données. Vous travaillez avec les parties prenantes d'une organisation pour recueillir les besoins et mettre en œuvre les solutions Dynamics 365 Sales. Vous gérez les pistes, les opportunités, les devis et les commandes, et vous configurez les catalogues de produits et les listes de prix. En outre, vous configurez Dynamics 365 Sales pour correspondre au processus commercial unique de votre organisation, et vous modélisez les données Dynamics 365 Sales. Vous pouvez même étendre les solutions Dynamics 365 en utilisant des composants Power Platform, comme Power Automate et Power Apps.
+  
+  Si vous avez besoin de plus d'expérience avant d'essayer d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travailler sur un projet de mise en œuvre d'une application basée sur le modèle Dynamics 365.
+  - Suivre un consultant fonctionnel ou un architecte de solutions qui travaille avec Dynamics 365 Sales.
+  - Suivre les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - S'inscrire à un cours de formation dirigé par un instructeur.
+subTitle: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l’équipe de ventes à l’aide de l’analyse des données.
+levels:
+- intermediate
+skills:
+- Effectuer la configuration
+- Gérer les principales entités de vente
+- Réaliser la découverte, la planification et l’analyse
+- Configurer le Common Data Service
+- Créer des applications en utilisant Power Apps
+- Créer et gérer Power Automate
+- Implémenter des chatbots avec Power Virtual Agents
+- Intégrer Power Apps avec d'autres applications et services
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-210
+resources:
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+

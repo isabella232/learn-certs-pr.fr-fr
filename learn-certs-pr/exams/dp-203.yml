@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Data Engineering on Microsoft Azure (beta)
+metadata:
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+uid: exam.dp-203
+displayName: DP-203
+summary: |-
+  Les ingénieurs de données de Azure intègrent, transforment et consolident les données provenant de divers systèmes de données structurées et non structurées dans des structures qui conviennent à l'élaboration de solutions analytiques.
+  
+  Les candidats à l'examen DP-203&#58; Data Engineering on Microsoft Azure doivent posséder une solide connaissance des langues de traitement des données, tel que SQL, Python, ou Scala, et ils doivent comprendre les modèles de traitement parallèle et d'architecture des données.
+  
+  <div><br/><font color='red'><strong>Remarque&#58; Cet examen sera disponible le 23 février 2021.</strong></font></div>
+subTitle: 'Cet examen sera disponible le 23 février 2021. Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir et mettre en œuvre le stockage des données; concevoir et développer le traitement des données; concevoir et mettre en œuvre la sécurité des données ; et surveiller et optimiser le stockage et le traitement des données.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Concevoir et mettre en œuvre le stockage des données (40-45%)
+- Concevoir et développer le traitement des données (25-30%)
+- Concevoir et mettre en œuvre la sécurité des données (10-15%)
+- Surveiller et optimiser le stockage et le traitement des données (10-15%)
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: ../deals.md
+- title: Support pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: ../request-accommodations.md
+- title: Règlements applicables aux examens et FAQ
+  description: Réviser les Règlements applicables aux examens et la Foire aux questions
+  href: ../certification-exam-policies.md

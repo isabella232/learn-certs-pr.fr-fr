@@ -1,0 +1,38 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+  description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+uid: certification.mos-outlook-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Démontrez que vous disposez des compétences nécessaires pour tirer pleinement profit d’Outlook en obtenant une certification Microsoft Office Specialist (MOS) 2016. Les candidats qui réussissent l’examen maîtriseront la création et la modification d’e-mails de qualité professionnelle, la maintenance de calendriers à travers plusieurs fuseaux horaires ainsi que la planification de tâches pour des buts et situations divers.
+subTitle: Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit d’Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d’un programme Office spécifique.
+levels:
+- intermediate
+skills:
+- Gérer l’environnement Outlook pour la productivité
+- Gérer les messages
+- Gérer les horaires
+- Gérer les contacts et les groupes
+roles:
+- business-user
+type: mos
+products:
+- office-outlook
+exams:
+- uid: exam.77-731
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

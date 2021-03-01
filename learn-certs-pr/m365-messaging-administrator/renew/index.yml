@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: 'Renouvellement de la Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft 365 Certified: Messaging Administrator Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Exchange et Microsoft 365 en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Planifier et gérer des paramètres organisationnels avec Exchange Online
+- Planifier et gérer l’accès client avec Exchange
+- Gérer les permissions basées sur les rôles dans Microsoft 365 Messaging
+- Livrer le courrier dans des boîtes de réception à l’extérieur de Microsoft 365 à l’aide de connecteurs
+- Gérer l’hygiène des messages à l’aide de Exchange Online et de Microsoft 365 Advanced Threat Protection
+- Gérer la conformité dans Microsoft 365 et Exchange Online
+- Dépanner le flux de courrier avec Exchange
+examsPassed:
+- ms-203
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft 365 Certified: Messaging Administrator Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

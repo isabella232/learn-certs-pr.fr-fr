@@ -1,0 +1,65 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: Les architectes ou ingénieurs des charges de travail SAP pour Microsoft Azure possèdent une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Azure.
+uid: certification.azure-for-sap-workloads-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Les candidats à la certification de spécialisation Azure for SAP Workloads sont des architectes ou ingénieurs possédant une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
+
+  Les responsabilités de cette fonction englobent la formulation de recommandations sur les services et l’ajustement des ressources de manière appropriée pour obtenir une résilience, une performance, une mise à l’échelle, un provisionnement, un dimensionnement, et un contrôle optimaux.
+
+  Les architectes ou ingénieurs travaillant sur les charges de travail SAP sur Azure collaborent avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
+
+  Le candidat à cette certification doit posséder une large expérience et des connaissances des applications SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
+
+  Pour cette fonction, il est fortement recommandé d’avoir une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP HANA et Linux.
+subTitle: Les architectes ou ingénieurs des charges de travail SAP pour Microsoft Azure possèdent une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Azure.
+levels:
+- advanced
+skills:
+- Migrer les charges de travail SAP vers Azure
+- Concevoir une solution Azure pour prendre en charge les charges de travail SAP
+- Construire et déployer Azure pour les charges de travail SAP
+- Valider l’infrastructure Azure pour les charges de travail SAP
+- Rendre l’architecture Azure SAP opérationnelle
+roles:
+- administrator
+- solution-architect
+type: specialty
+products:
+- azure
+- azure-sap
+courses:
+- uid: course.az-120t00
+paths:
+- uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
+exams:
+- uid: exam.az-120
+resources:
+- title: Azure certifications poster
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification de la spécialité des charges de travail SAP sur Azure ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

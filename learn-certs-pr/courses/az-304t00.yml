@@ -21,7 +21,7 @@ skillsGained:
 - skill: Recommander une solution pour la sécurité réseau.
 - skill: Recommander une solution pour la migration des applications et des machines virtuelles.
 - skill: Recommander une solution pour la migration des bases de données.
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -34,7 +34,7 @@ exams:
 - uid: exam.az-304
 summary: |-
   Cette formation enseigne aux Solutions Architects la traduction des exigences de l’entreprise en solutions sécurisées, évolutives et fiables. Les leçons comprennent des considérations liées à la connexion, l’analyse des coûts, l’authentification et l’autorisation, la gouvernance, la sécurité, le stockage, la haute disponibilité et la migration. Ce rôle nécessite des prises de décision dans plusieurs domaines, affectant la solution de conception globale.
-
+  
   #### Profil de l’audience
   Cette formation est destinée aux professionnels de l'informatique qui possèdent de l’expérience dans la conception et la mise en œuvre de solutions exécutées sur Microsoft Azure. Ils doivent posséder des connaissances approfondies des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la plateforme de données, la budgétisation et la gouvernance. Les Azure Solution Architects utilisentAzure Portal et en se familiarisant davantage, ils utiliseront le Command Line Interface. Les candidats doivent posséder des compétences de niveau expert dans l’administration Azure et une expérience dans les procédés de développement Azure et les procédés DevOps.
 prerequisitesSection: |-
@@ -49,8 +49,9 @@ prerequisitesSection: |-
   - Compréhension des concepts de sécurité pour protéger votre environnement, comme le cryptage au repos, le cryptage en transit, SSL, TLS.
   
   Cours pré-requis (ou connaissances équivalentes)&#58;
-  - AZ-900 Azure Fundamentals 
-  - AZ-303 Azure Solution Architect Technologies 
+  - Gratuit en ligne&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Pré-requis pour les administrateurs Azure (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Module 1&#58; Concevoir une Solution de Calcul
   Dans ce module, vous découvrirez les technologies de calcul appropriées, notamment les machines virtuelles, App Services, Service Fabric, Azure Functions, Windows Virtual Desktop, et les conteneurs.

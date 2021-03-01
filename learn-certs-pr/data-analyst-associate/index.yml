@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Data Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Data Analyst Associate'
+  description: 'Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Microsoft Power BI.'
+uid: certification.data-analyst-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Microsoft Power BI. En leur qualité d’experts du domaine, les analystes de données sont responsables de la conception et de la création de modèles de données évolutifs, du nettoyage et de la transformation des données, et de la favorisation des compétences analytiques avancées qui fournissent une valeur commerciale considérable par des visualisations de données faciles à saisir.
+subTitle: Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Microsoft Power BI.
+levels:
+- intermediate
+skills:
+- Préparer les données
+- Modéliser les données
+- Visualiser les données
+- Analyser les données
+- Déployer et maintenir les produits
+roles:
+- data-analyst
+type: role-based
+products:
+- power-bi
+courses:
+- uid: course.da-100t00
+paths:
+- uid: learn-bizapps.get-started-data-analytics
+- uid: learn-bizapps.data-preparation-in-power-bi
+- uid: learn-bizapps.model-power-bi
+- uid: learn-bizapps.visual-data-power-bi
+- uid: learn-bizapps.data-analysis-power-bi
+- uid: learn-bizapps.manage-workspaces-datasets-power-bi
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
+exams:
+- uid: exam.da-100
+resources:
+- title: Azure certifications poster
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Data Analyst Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

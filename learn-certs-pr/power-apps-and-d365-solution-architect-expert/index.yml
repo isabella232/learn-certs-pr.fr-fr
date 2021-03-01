@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Les architectes de solutions de Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière dont les solutions répondent aux besoins professionnels et techniques plus larges des organisations.
+uid: certification.power-apps-and-d365-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>CETTE CERTIFICATION SERA RETIRÉE LE 30 JUIN 2021. Vous ne pourrez plus obtenir cette certification après cette date. Toutes les attestations que vous avez obtenues avant la date de votre retraite continueront à figurer sur votre relevé de notes dans le <a href='https://aka.ms/certdashboard'>Tableau de bord de certification</a>.</strong></font><br/><br/></div>
+  
+  Les architectes de solutions de Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière dont les solutions répondent aux besoins professionnels et techniques plus larges des organisations.
+  
+  <div><br/><strong>REMARQUE&#58; L'obtention des deux certifications suivantes est une condition préalable à cette certification. Cette condition préalable n'est pas énumérée ci-dessous en raison des limitations du site.</strong><ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
+subTitle: Les architectes de solutions de Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière dont les solutions répondent aux besoins professionnels et techniques plus larges des organisations.
+levels:
+- advanced
+skills:
+- Procéder à une analyse des exigences et de la conception de la solution
+- Créer une solution
+- Mettre une solution en œuvre
+roles:
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
+prerequisites:
+- uid: certification.d365-functional-consultant-sales
+  isOptional: false
+- uid: certification.d365-functional-consultant-marketing
+  isOptional: false
+- uid: certification.d365-functional-consultant-customer-service
+  isOptional: false
+- uid: certification.d365-functional-consultant-field-service
+  isOptional: false
+resources:
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+

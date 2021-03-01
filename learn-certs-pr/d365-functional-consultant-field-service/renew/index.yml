@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: 'Renouvellement de la Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.d365-functional-consultant-field-service
+certificationUid: certification.d365-functional-consultant-field-service
+assessmentId: 8ae55969-c279-47f9-83f7-2c75be7c57be
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Dynamics 365 Field Service en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Configurer des ressources réservables dans Dynamics 365 Field Service
+- Intégrer Dynamics 365 Remote Assist à Dynamics 365 Field Service
+- Personnaliser le panneau d’affichage dans Dynamics 365 Field Service
+- Déployer l’optimisation de la planification des ressources
+- Démarrer avec Microsoft Dynamics 365 Field Service Mobile
+- Démarrer avec Connected Field Service pour l’Internet des objets de Dynamics 365 et Azure IoT
+examsPassed:
+- pl-200, mb-240
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

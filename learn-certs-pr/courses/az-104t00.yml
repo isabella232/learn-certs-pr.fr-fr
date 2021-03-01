@@ -7,7 +7,7 @@ uid: course.az-104t00
 courseNumber: 'AZ-104T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -25,17 +25,26 @@ exams:
 - uid: exam.az-104
 summary: |-
   Cette formation enseigne aux professionnels de l’informatique à gérer leurs abonnements Azure, à sécuriser les identités, à administrer l’infrastructure, à configurer la mise en réseau virtuelle, à connecter Azure et sur site, à gérer le trafic du réseau, à mettre en œuvre des solutions de stockage, à créer et mettre à l’échelle des machines virtuelles, à mettre en œuvre des applications Web et des conteneurs, à sauvegarder et partager des données et à surveiller votre solution.
-
+  
   #### Profil de l’audience
   Cette formation est destinée aux Administrateurs Azure. L’Administrateur Azure met en œuvre, gère et surveille l’identité, la gouvernance, le stockage, le calcul et les réseaux virtuels dans un environnement Cloud. L’Administrateur Azure mettra en service, dimensionnera, surveillera et ajustera les ressources comme il convient.
 prerequisitesSection: |-
-  Un Administrateur Azure réussi débute dans ce poste avec une expérience en virtualisation, en mise en réseau, en identité et en stockage.
-  - Compréhension des technologies de virtualisation sur site, y compris&#58; les machines virtuelles, la mise en réseau virtuelle, et les disques durs virtuels.
-  - Compréhension des configurations de réseaux, y compris TCP/IP, le système de nom de domaine (DNS), les réseaux virtuels privés (VPN), les pare-feux, et les technologies de cryptage.
-  - Compréhension des concepts d’Active Directory, y compris les utilisateurs, les groupes, et le contrôle d’accès en fonction du rôle.
-  - Compréhension de la résilience et de la reprise d’activités , y compris les opérations de sauvegarde et de restauration.
-
-  Vous pouvez acquérir les prérequis et une meilleure compréhension d’Azure en suivant [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/). Cette formation gratuite en ligne vous fournira l’expérience nécessaire pour réussir ce cours.
+  Les administrateurs Azure qui réussissent commencent ce rôle avec une expérience dans la virtualisation, la mise en réseau, l'identité et le stockage.
+  - Compréhension des technologies de virtualisation sur site, notamment&#58; VMs, les réseaux virtuels et les disques durs virtuels.
+  - Compréhension des configurations de réseau, y compris TCP/IP, le système de noms de domaine (DNS), les réseaux privés virtuels (VPNs), les pare-feu et les technologies de cryptage.
+  - Compréhension des concepts de Active Directory, y compris les utilisateurs, les groupes et le contrôle d'accès basé sur les rôles.
+  - Comprendre la résilience et la reprise après sinistre, y compris les opérations de sauvegarde et de restauration.
+  
+  Cours préalables (ou connaissances et expérience pratique équivalentes)&#58;
+  
+  Cette formation en ligne gratuite vous permettra d'acquérir l'expérience nécessaire pour réussir ce cours.
+  - [Azure Fundamentals partie 1&#58; Décrire les concepts fondamentaux de Azure - Apprendre | Microsoft Docs](/learn/paths/az-900-describe-cloud-concepts/)
+  - [Azure Fundamentals partie 2&#58; Décrire le cœur de Azure services - Apprendre | Microsoft Docs](/learn/paths/az-900-describe-core-azure-services/)
+  - [Azure Fundamentals partie 3&#58; Décrivez les solutions de base et les outils de gestion sur Azure - Apprendre | Microsoft Docs](/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  - [Azure Fundamentals partie 4&#58; Décrire les caractéristiques générales de sécurité et de sécurité des réseaux - Apprendre | Microsoft Docs](/learn/paths/az-900-describe-general-security-network-security-features/)
+  - [Azure Fundamentals partie 5&#58; Décrire les caractéristiques d'identité, de gouvernance, de respect de la vie privée et de conformité](/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+  - [Azure Fundamentals partie 6&#58; Décrivez la gestion des coûts et les accords de niveau de service de Azure](/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+  - [AZ-104&#58; Conditions préalables pour les administrateurs Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ###Module 1&#58; Identité
   Dans ce module, vous découvrirez comment sécuriser les identités avec Azure Active Directory et mettre en œuvre des utilisateurs et des groupes.

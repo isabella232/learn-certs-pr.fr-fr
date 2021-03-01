@@ -1,0 +1,46 @@
+### YamlMime:Certification
+title: 'MCSA: BI Reporting'
+metadata:
+  title: 'MCSA: BI Reporting'
+  description: 'MCSA: BI Reporting'
+uid: certification.mcsa-bi-reporting
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong> Cette certification sera retirée le 31 janvier 2021. Vous ne pourrez plus l'obtenir après cette date. Toute certification obtenue avant sa date de retrait apparaîtra toujours sur votre relevé de notes dans le <a href='https://www.microsoft.com/learning/dashboard.aspx'>tableau de bord de certification</a>. Vous pouvez également <a href='/learn/certifications/retired-certifications'>Parcourez toutes les certifications retirées</a>.</strong><br/><br/></div>
+  </div>
+
+  Cette certification démontre votre expertise dans l'analyse de données avec Power BI et Excel.
+subTitle: Cette certification démontre votre expertise dans l'analyse de données avec Power BI et Excel.
+levels:
+- intermediate
+skills:
+- aucun
+roles:
+- data-analyst
+type: mcsa
+products:
+- power-bi
+courses:
+- uid: course.20778
+- uid: course.20779
+exams:
+- uid: exam.70-778
+- uid: exam.70-779
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Retransmission de l'examen]
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

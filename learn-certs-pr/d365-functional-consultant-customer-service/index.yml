@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.'
+uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+levels:
+- intermediate
+skills:
+- Gérer des cas et Knowledge Management
+- Gérer les files d’attente, les droits et les accords de service (SLA)
+- Mettre en œuvre la planification
+- Mettre en œuvre Omnicanal pour le service après-vente
+- Gérer les analyses
+- Configurer le Common Data Service
+- Créer des applications en utilisant Power Apps
+- Créer et gérer Power Automate
+- Implémenter des chatbots avec Power Virtual Agents
+- Intégrer Power Apps avec d'autres applications et services
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-dynamics.create-surveys
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-230
+resources:
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md

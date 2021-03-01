@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: 'Renouvellement de la Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.d365-functional-consultant-customer-service
+certificationUid: certification.d365-functional-consultant-customer-service
+assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Dynamics 365 Customer Service en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Utiliser les files d'attente de Microsoft Dynamics 365 Customer Service pour gérer la charge de travail des dossiers
+- Démarrer avec Omnicanal pour Customer Service
+- Intégrer un bot Power Virtual Agents avec Omnicanal pour Customer Service
+- Déployer des widgets de conversation avec Omnicanal pour Dynamics 365 Customer Service
+- Routage et distribution des tâches dans Omnicanal pour Dynamics 365 Customer Service
+- Démarre avec Customer Service Insights
+examsPassed:
+- pl-200, mb-230
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

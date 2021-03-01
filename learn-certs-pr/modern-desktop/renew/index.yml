@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renouvellement de la Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Renouvellement de la Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler.'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Microsoft 365 en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
+skills:
+- Automatiser les déploiements Windows à l’aide de Windows Autopilot
+- Simplifier la gestion des périphériques avec Microsoft Endpoint Manager
+- Réaliser plus de tâches et rester en sécurité avec Windows 10
+- Passer à un ordinateur bureau moderne avec Microsoft 365
+- Gérer des périphériques à l’aide de Microsoft Intune
+- Gérer Windows 10 via la cogestion à l’aide de System Center Configuration Manager
+- Simplifier la gestion des périphériques à l’aide de Microsoft Endpoint Manager
+- Déployer, mettre à niveau et migrer vers Windows 10
+- Gérer les applications à l'aide de Microsoft Intune
+examsPassed:
+- md-100, md-101
+studyGuideDescription: "Cette collection de modules d'apprentissage vous aidera à vous préparer à l'évaluation de renouvellement de Microsoft 365 Certified: Modern Desktop Administrator Associate."
+resources:
+- title: À propos du renouvellement de la certification
+  summary: Comprendre le processus et les exigences de renouvellement de vos certifications en ligne
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,22 +1,20 @@
 ### YamlMime:Examination
-title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
 metadata:
-  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
-  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
   Les candidats à l'examen AZ-600 sont des Azure administrators ou des opérateurs Azure Stack Hub operators qui fournissent des services cloud aux utilisateurs finaux ou aux clients depuis leur propre datacenter en utilisant  Azure Stack Hub.
   
   Les candidats à cet examen doivent avoir une expérience significative de la gestion et du fonctionnement des environnements Azure Stack Hub. TIls doivent avoir une bonne connaissance Azure, en plus d'une certaine connaissance de la virtualisation, de la mise en réseau et de la gestion de l'identité. Ils doivent comprendre comment Azure Stack Hub permet les processus DevOps et le modèle de développement hybride.
-  
-  <div><strong><br/>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. En savoir plus sur la valeur et l'importance des examens bêta <a href="/learn/certifications/certification-exams#participating-in-beta-exams"></a>.</strong></div>
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : fournir des services ; mettre en œuvre l'intégration des centres de données ; gérer l'identité et l'accès ; et gérer l'infrastructure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
 levels:
@@ -37,6 +35,8 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
+courses:
+- uid: course.az-600t00
 relatedCertifications:
 - related:
     uid: certification.azure-stack-hub-operator

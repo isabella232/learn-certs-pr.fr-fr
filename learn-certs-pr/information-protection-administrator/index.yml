@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Information Protection Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Information Protection Administrator Associate'
+  description: L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes.
+uid: certification.information-protection-administrator 
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes.
+  
+  Il travaille avec le personnel des technologies de l'information (IT), les propriétaires d'applications d'entreprise, les ressources humaines et les parties prenantes juridiques pour mettre en œuvre la technologie qui soutient les politiques et les contrôles nécessaires pour répondre de manière satisfaisante aux exigences réglementaires de l'organisation. Ils travaillent également avec les responsables de la conformité et de la sécurité, tels que le chef de la conformité et le responsable de la sécurité, afin d'évaluer toute l'étendue des risques associés à l'entreprise et de s'associer pour élaborer ces politiques.
+  
+  Cette personne définit les exigences applicables et teste les processus IT et les opérations par rapport à ces politiques et contrôles. Elle est chargée de créer des politiques et des règles pour la classification du contenu, la prévention des pertes de données, la gouvernance et la protection.
+subTitle: L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes.
+levels:
+- intermediate
+skills:
+- Mise en œuvre de la protection de l'information
+- Mise en œuvre de la prévention des pertes de données
+- Mise en œuvre de la gouvernance de l'information
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+type: role-based
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+exams:
+- uid: exam.sc-400
+resources:
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md

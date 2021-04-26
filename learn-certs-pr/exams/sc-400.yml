@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: 'Microsoft Information Protection Administrator (Examen de sécurité bêta)'
+metadata:
+  title: 'Exam SC-400: Microsoft Information Protection Administrator (Examen de sécurité bêta)'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator (Examen de sécurité bêta)'
+uid: exam.sc-400
+displayName: SC-400
+summary: |-
+  L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes.
+  
+  Il travaille avec le personnel des technologies de l'information (IT), les propriétaires d'applications d'entreprise, les ressources humaines et les parties prenantes juridiques pour mettre en œuvre la technologie qui soutient les politiques et les contrôles nécessaires pour répondre de manière satisfaisante aux exigences réglementaires de l'organisation. Ils travaillent également avec les responsables de la conformité et de la sécurité, tels que le chef de la conformité et le responsable de la sécurité, afin d'évaluer toute l'étendue des risques associés à l'entreprise et de s'associer pour élaborer ces politiques.
+  
+  Cette personne définit les exigences applicables et teste les processus IT et les opérations par rapport à ces politiques et contrôles. Elle est chargée de créer des politiques et des règles pour la classification du contenu, la prévention des pertes de données, la gouvernance et la protection.
+  
+  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: mettre en œuvre la protection de l'information; mettre en œuvre la prévention des pertes de données; et mettre en œuvre la gouvernance de l'information."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Mise en œuvre de la protection de l'information (35-40%)
+- Mise en œuvre de la prévention des pertes de données (30-35%)
+- Mise en œuvre de la gouvernance de l'information (25-30%)
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+relatedCertifications:
+- related:
+    uid: certification.information-protection-administrator
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: ../request-accommodations.md
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md

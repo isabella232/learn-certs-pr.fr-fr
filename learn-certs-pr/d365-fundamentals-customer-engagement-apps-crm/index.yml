@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
-  description: "Cette certification sera disponible en février 2021. Si vous êtes familier avec les opérations commerciales, la gestion de la relation client (CRM), et que vous avez des connaissances en IT - soit de manière générale, soit par le biais de votre expérience professionnelle - profitez de cette certification pour mettre en valeur ces compétences. Validez votre large exposition aux capacités d'engagement client de Dynamics 365 pour améliorer votre parcours professionnel."
+  description: "Si vous êtes familier avec les opérations commerciales, la gestion de la relation client (CRM), et que vous avez des connaissances en IT - soit de manière générale, soit par le biais de votre expérience professionnelle - profitez de cette certification pour mettre en valeur ces compétences. Validez votre large exposition aux capacités d'engagement client de Dynamics 365 pour améliorer votre parcours professionnel."
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -12,10 +12,8 @@ summary: |-
   - Les professionnels IT qui veulent montrer leur compréhension générale des applications avec lesquelles ils travaillent 
   - Les acteurs du monde des affaires et autres qui connaissent Dynamics 365 et qui souhaitent valider leurs compétences et leur expérience
   - Les développeurs qui veulent mettre en évidence leur compréhension des opérations commerciales et CRM
-  - Les étudiants, les jeunes diplômés et les personnes qui changent de carrière et qui souhaitent exploiter les capacités d'engagement client de Dynamics 365 pour passer au niveau supérieur
-  
-  <div><br/><strong>Note&#58; Cette certification sera disponible en février 2021.</strong></div>
-subTitle: "Cette certification sera disponible en février 2021. Si vous êtes familier avec les opérations commerciales, la gestion de la relation client (CRM), et que vous avez des connaissances en IT - soit de manière générale, soit par le biais de votre expérience professionnelle - profitez de cette certification pour mettre en valeur ces compétences. Validez votre large exposition aux capacités d'engagement client de Dynamics 365 pour améliorer votre parcours professionnel."
+  - Les étudiants, les jeunes diplômés et les personnes qui changent de carrière et qui veulent tirer le meilleur parti des capacités d'engagement client de Dynamics 365 pour passer au niveau supérieur.
+subTitle: "Si vous êtes familier avec les opérations commerciales, la gestion de la relation client (CRM), et que vous avez des connaissances en IT - soit de manière générale, soit par le biais de votre expérience professionnelle - profitez de cette certification pour mettre en valeur ces compétences. Validez votre large exposition aux capacités d'engagement client de Dynamics 365 pour améliorer votre parcours professionnel."
 levels:
 - beginner
 skills:
@@ -34,6 +32,14 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-customer-engagement
+courses:
+- uid: course.mb-910t00
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-marketing
+- uid: learn.wwl.explore-microsoft-dynamics-365-sales
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
 exams:
 - uid: exam.mb-910
@@ -41,9 +47,15 @@ resources:
 - title: Affiche de la certification
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes pour obtenir la certification et les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Parcours d'apprentissage en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et à obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
-  description: "Cette certification sera disponible en février 2021. Si vous avez une expérience étendue des capacités de planification des ressources de l'entreprise (ERP) de Dynamics 365 et comprenez les principes fondamentaux de la manière dont les applications financières et opérationnelles s'intègrent dans l'écosystème global de Microsoft ecosystem—cette certification est pour vous."
+  description: "Si vous avez une expérience étendue des capacités de planification des ressources de l'entreprise (ERP) de Dynamics 365 et comprenez les principes fondamentaux de la manière dont les applications financières et opérationnelles s'intègrent dans l'écosystème global de Microsoft ecosystem—cette certification est pour vous."
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -16,9 +16,7 @@ summary: |-
   - Les entreprises et les autres parties prenantes qui utilisent Dynamics 365 et veulent démontrer qu'ils comprennent les principes fondamentaux de la plate-forme
   - Les développeurs qui veulent montrer une compréhension plus approfondie des opérations commerciales, de la finance et des ERP
   - Les étudiants, les jeunes diplômés et les personnes qui changent de carrière et qui souhaitent tirer parti des applications de Dynamics 365 finance and operations pour passer au niveau supérieur
-  
-  <div><br/><strong>Note&#58; Cette certification sera disponible en février 2021.</strong></div>
-subTitle: "Cette certification sera disponible en février 2021. Si vous avez une expérience étendue des capacités de planification des ressources de l'entreprise (ERP) de Dynamics 365 et comprenez les principes fondamentaux de la manière dont les applications financières et opérationnelles s'intègrent dans l'écosystème global de Microsoft ecosystem—cette certification est pour vous."
+subTitle: "Si vous avez une expérience étendue des capacités de planification des ressources de l'entreprise (ERP) de Dynamics 365 et comprenez les principes fondamentaux de la manière dont les applications financières et opérationnelles s'intègrent dans l'écosystème global de Microsoft ecosystem—cette certification est pour vous."
 levels:
 - beginner
 skills:
@@ -27,7 +25,6 @@ skills:
 - Décrire Dynamics 365 Commerce
 - Décrire Dynamics 365 Human Resources
 - Décrire Project Operations
-- Décrire Dynamics 365 Business Central
 - Décrire les caractéristiques communes
 roles:
 - business-owner
@@ -38,6 +35,12 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
 exams:
 - uid: exam.mb-920
@@ -45,9 +48,15 @@ resources:
 - title: Affiche de la certification
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes pour obtenir la certification et les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Parcours d'apprentissage en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et à obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

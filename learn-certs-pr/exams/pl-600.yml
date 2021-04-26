@@ -12,10 +12,11 @@ summary: |-
   
   Les architectes solutions ont une expérience dans toutes les disciplines fonctionnelles et techniques de Power Platform. Les architectes de solutions devraient être en mesure de faciliter les décisions de conception en matière de développement, de configuration, d'intégration, d'infrastructure, de sécurité, de disponibilité, de stockage et de gestion des changements. Ce rôle permet d'équilibrer les besoins commerciaux d'un projet tout en répondant aux exigences fonctionnelles et non fonctionnelles.
   
-  <div><br/><font color='red'><strong>Remarque&#58; cet examen sera disponible en mars 2021.</strong></font></div>
-subTitle: "Cet examen sera disponible en mars 2021. Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: réaliser des analyses de vision et des analyses d'exigences, concevoir une solution et la mettre en œuvre."
+  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: réaliser des analyses de vision et des analyses d'exigences, concevoir une solution et la mettre en œuvre."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:

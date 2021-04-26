@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: Cette certification sera disponible en mars 2021. Power Platform Solution Architect Experts travaillent avec les parties prenantes et se concentrent sur les solutions qui ont une incidence sur les besoins commerciaux et techniques généraux de leur organisation.
+  description: Les architectes experts en solutions Power Platform travaillent avec les parties prenantes et se concentrent sur les solutions qui affectent les besoins commerciaux et techniques généraux de leur organisation. Les candidats ont une connaissance fonctionnelle et technique des applications d'engagement client Power Platform, Dynamics 365, des solutions liées Microsoft cloud, et des technologies tierces.
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -14,9 +14,7 @@ summary: |-
   - Travailler comme (ou suivre) architecte de solutions sur des projets Power Platform.
   - S'inscrire à un cours de formation dirigé par un instructeur.
   - Explorer les parcours d'apprentissage disponibles sur [Microsoft Learn](/learn/paths/become-solution-architect/).
-  
-  <div><font color='red'><strong>Remarque&#58; cette certification sera disponible en mars 2021.</strong></font></div>
-subTitle: Cette certification sera disponible en mars 2021. Les architectes experts en solutions Power Platform travaillent avec les parties prenantes et se concentrent sur les solutions qui affectent les besoins commerciaux et techniques généraux de leur organisation. Les candidats ont une connaissance fonctionnelle et technique des applications d'engagement client Power Platform, Dynamics 365, des solutions liées Microsoft cloud, et des technologies tierces.
+subTitle: Les architectes experts en solutions Power Platform travaillent avec les parties prenantes et se concentrent sur les solutions qui affectent les besoins commerciaux et techniques généraux de leur organisation. Les candidats ont une connaissance fonctionnelle et technique des applications d'engagement client Power Platform, Dynamics 365, des solutions liées Microsoft cloud, et des technologies tierces.
 levels:
 - advanced
 skills:

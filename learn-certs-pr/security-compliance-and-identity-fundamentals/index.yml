@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
 metadata:
   title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
-  description: "Prouvez que vous êtes familier avec Microsoft Azure et Microsoft 365 et que vous comprenez comment les solutions de sécurité, de conformité et d'identité de Microsoft peuvent s'étendre sur ces domaines de solution pour fournir une solution holistique et de bout en bout."
+  description: 'Prouvez que vous êtes familier avec Microsoft Azure et Microsoft 365 et que vous comprenez comment les solutions de sécurité, de conformité et d'identité de Microsoft peuvent s'étendre sur ces domaines de solution pour fournir une solution holistique et de bout en bout.'
 uid: certification.security-compliance-and-identity-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -67,3 +67,6 @@ resources:
 - title: Aide à la certification
   description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
+- title: Partagez vos badges de certification
+  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+  href: ../badges.md

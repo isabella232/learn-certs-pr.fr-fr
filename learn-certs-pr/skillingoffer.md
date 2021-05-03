@@ -48,18 +48,18 @@ Pour vous aider à vous préparer et s’assurer que vous pourrez vous inscrire 
 	2. [Exécutez un test système](https://syscheck.bridge.psiexams.com/) sur le même ordinateur et au même endroit que celui où vous passerez l’examen.
 2. Assurez-vous d’avoir un compte Microsoft
 	1. Si vous avez déjà une certification Microsoft ou que vous avez passé un examen de certification Microsoft, utilisez le même compte Microsoft.  
-	2. Si vous avez besoin d’un compte Microsoft [créez un compte](https://account.microsoft.com/account/manage-my-account).
+	2. Si vous avez besoin d’un compte Microsoft [créez un compte.](https://account.microsoft.com/account/manage-my-account)
 3. Si vous n’avez pas de profil de certification Microsoft, vous serez invité à en créer un en planifiant votre examen. <br/>**Important:** Lorsque vous créez votre profil de certification, assurez-vous que votre nom corresponde exactement au document d’identification émis par le gouvernement que vous utiliserez lorsque vous passerez votre examen. Dans le cadre du processus de vérification d’identité, le surveillant comparera le nom de votre document d’identification avec le nom de votre profil de certification. Découvrez plus de détails sur les [exigences de vérification d’identité](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
-Si vous avez besoin d’aide, veuillez visitez le [forum d’assistance à la certification Microsoft](https://aka.ms/mcpforum). Pour contacter un agent d’assistance client, cliquez sur *Poser une question* en haut de la page et complétez le formulaire. Un agent d’assistance vous répondra dans un délai d’un jour ouvrable.
+Si vous avez besoin d’aide, veuillez visitez le [forum d’assistance à la certification Microsoft.](https://aka.ms/mcpforum) Pour contacter un agent d’assistance client, cliquez sur *Poser une question* en haut de la page et complétez le formulaire. Un agent d’assistance vous répondra dans un délai d’un jour ouvrable.
 
 ## FAQ
 
-Pour les questions-réponses communes sur les examens en ligne avec PSI, consultez les [FAQ dans la section À propos des examens en ligne sur la page PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Pour des questions-réponses générales concernant l’initiative des compétences, consultez les [FAQ de l’initiative des compétences](https://aka.ms/JobSeekerFAQ).
+Pour les questions-réponses communes sur les examens en ligne avec PSI, consultez les [FAQ dans la section À propos des examens en ligne sur la page PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Pour des questions-réponses générales concernant l’initiative des compétences, consultez les [FAQ de l’initiative des compétences.](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> Conditions générales
 
-- Cette offre d’examen est disponible pour les demandeurs d’emploi qui peuvent prouver qu’ils sont au chômage ou qu’ils ont été congédiés à cause de COVID-19.
+- Cette offre d’examen est ouverte aux demandeurs d’emploi pouvant attester qu’ils sont au chômage ou qu’ils sont au chômage technique en raison de la COVID-19, ainsi qu’aux étudiants actifs de lycée, du supérieur, de faculté ou d’un organisme de formation technique professionnelle.
 - Vous devez avoir 18 ans ou plus pour accéder à cette offre d’examen et en bénéficier.
 - Cette offre d’examen est disponible pour un nombre limité de personnes éligibles et de rendez-vous d’examen.
 - Cette offre d’examen vous permet de vous inscrire et de vous présenter à un (1) examen de certification Microsoft valable à un prix réduit de 15 USD pour une période limitée. L'offre expire le 31 décembre 2021.
@@ -75,4 +75,4 @@ Pour les questions-réponses communes sur les examens en ligne avec PSI, consult
 
 *&#42;Les examens doivent être programmés 24 heures à l'avance. Par conséquent, si vous souhaitez passer un examen le dernier jour de l'offre, le 31 décembre 2021, vous devez le programmer avant le 30 décembre 2021.*
 
-Pour obtenir de plus amples informations, veuillez lire la totalité des [Conditions d'utilisation de Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
+Pour obtenir de plus amples informations, veuillez lire la totalité des [Conditions d'utilisation de Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)

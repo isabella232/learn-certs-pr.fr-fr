@@ -79,4 +79,7 @@ resources:
 - title: Aide à la certification
   description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
+- title: Partagez vos badges de certification
+  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+  href: ../badges.md
 

@@ -8,8 +8,6 @@ certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Les Microsoft 365 Enterprise Administrators évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
-
-  <div><br/><strong>La certification MCSE&#58; Productivity Solutions Expert sera retirée le 31 janvier 2021. Elle continuera d’être considérée comme une option de prérequis pour cette certification jusqu’au 31 janvier 2022 (un an après le retrait de la certification).</strong></div>
 subTitle: Les Microsoft 365 Enterprise Administrators évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 levels:
 - advanced
@@ -49,10 +47,10 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false
-- uid: certification.mcse-productivity-certification
-  isOptional: false
+  isOptional: false												   
 - uid: certification.m365-teams-administrator-associate
+  isOptional: false
+- uid: certification.identity-and-access-administrator
   isOptional: false
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
 exams:
@@ -74,4 +72,7 @@ resources:
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Partagez vos badges de certification
+  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+  href: ../badges.md
 

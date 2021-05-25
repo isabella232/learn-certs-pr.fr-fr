@@ -7,7 +7,7 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>Le contenu de cet examen a été mis à jour le 16 octobre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 16 octobre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   </div>
 
   Les candidats à cet examen analysent les besoins des entreprises et traduisent ces besoins en processus et solutions d'entreprise pleinement réalisés qui mettent en œuvre les meilleures pratiques de l'industrie. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
@@ -16,7 +16,7 @@ summary: |-
   Les candidats comprennent les caractéristiques et les capacités communes des applications Finance et Opérations et savent comment les configurer et les utiliser. Ils doivent également savoir comment les applications Finance et Opérations s'intègrent à des systèmes et outils externes, notamment Power Platform. Le candidat gère activement le cycle de vie des applications en utilisant Lifecycle Services (LCS) et d'autres outils et plateformes Microsoft.
 
   Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de fonctionnalités des applications Finance et Opérations, notamment la finance, la fabrication et la gestion de la chaîne d'approvisionnement.
-subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: utiliser des fonctionnalités et des outils de mise en œuvre communs; configurer la sécurité, les processus et les options; gérer les données financières et opérationnelles; et valider et soutenir la solution.'
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: utiliser des fonctionnalités et des outils de mise en œuvre communs; configurer la sécurité, les processus et les options; gérer les données financières et opérationnelles; et valider et soutenir la solution."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -52,16 +53,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

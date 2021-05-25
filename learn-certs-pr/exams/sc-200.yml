@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst (beta)'
+title: 'Microsoft Security Operations Analyst'
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  title: 'Exam SC-200: Microsoft Security Operations Analyst'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst'
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
   L'analyste des opérations de sécurité de Microsoft collabore avec les parties prenantes de l'organisation pour sécuriser les systèmes de technologie de l'information de l'organisation. Leur objectif est de réduire le risque organisationnel en remédiant rapidement aux attaques actives dans l'environnement, en donnant des conseils sur les améliorations à apporter aux pratiques de protection contre les menaces et en renvoyant les violations des politiques organisationnelles aux parties prenantes appropriées.
   
   Les responsabilités comprennent la gestion, la surveillance et la réponse aux menaces en utilisant une variété de solutions de sécurité dans leur environnement. Le rôle consiste principalement à enquêter sur les menaces, à y répondre et à les chasser en utilisant Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender et des produits de sécurité tiers. Étant donné que l'analyste des opérations de sécurité consomme le résultat opérationnel de ces outils, il est également une partie prenante essentielle dans la configuration et le déploiement de ces technologies.
-  
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: atténuer les menaces à l'aide de Microsoft 365 Defender; atténuer les menaces à l'aide de Azure Defender; et atténuer les menaces à l'aide de Azure Sentinel."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
@@ -47,10 +45,10 @@ relatedCertifications:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

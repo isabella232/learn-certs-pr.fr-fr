@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+title: Microsoft Dynamics 365 Fundamentals (ERP)
 metadata:
-  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
-  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
 uid: exam.mb-920
 displayName: MB-920
 summary: |-
   Cet examen couvre les caractéristiques et les capacités des applications de Microsoft Dynamics 365.
   
   Les candidats à cet examen doivent avoir des connaissances générales ou une expérience professionnelle pertinente en matière de technologies de l'information (IT). Ils doivent également avoir une compréhension fondamentale des principes financiers et des opérations commerciales.
-  
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
 subTitle: "Cet examen mesure votre capacité à décrire les éléments suivants: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Opérations du projet; et caractéristiques partagées."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
@@ -34,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -49,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

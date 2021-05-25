@@ -1,17 +1,15 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
   Les ingénieurs de données de Azure intègrent, transforment et consolident les données provenant de divers systèmes de données structurées et non structurées dans des structures qui conviennent à l'élaboration de solutions analytiques.
   
   Les candidats à l'examen DP-203&#58; Data Engineering on Microsoft Azure doivent posséder une solide connaissance des langues de traitement des données, tel que SQL, Python, ou Scala, et ils doivent comprendre les modèles de traitement parallèle et d'architecture des données.
-  
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
-subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir et mettre en œuvre le stockage des données; concevoir et développer le traitement des données; concevoir et mettre en œuvre la sécurité des données ; et surveiller et optimiser le stockage et le traitement des données.'
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir et mettre en œuvre le stockage des données; concevoir et développer le traitement des données; concevoir et mettre en œuvre la sécurité des données; et surveiller et optimiser le stockage et le traitement des données."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
@@ -33,6 +31,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

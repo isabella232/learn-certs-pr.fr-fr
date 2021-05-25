@@ -12,7 +12,7 @@ summary: |-
   
   Les architectes solutions ont une expérience dans toutes les disciplines fonctionnelles et techniques de Power Platform. Les architectes de solutions devraient être en mesure de faciliter les décisions de conception en matière de développement, de configuration, d'intégration, d'infrastructure, de sécurité, de disponibilité, de stockage et de gestion des changements. Ce rôle permet d'équilibrer les besoins commerciaux d'un projet tout en répondant aux exigences fonctionnelles et non fonctionnelles.
   
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: réaliser des analyses de vision et des analyses d'exigences, concevoir une solution et la mettre en œuvre."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -45,13 +45,16 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -93,7 +93,6 @@ outlineSection: |-
   - Planifier et implémenter la réplication de stockage
 
   #### Laboratoire&#58; Implémenter un cluster d’espaces de stockage direct
-  - Implémenter un cluster d’espaces de stockage direct à l’aide du centre d’administration Windows.
   - Implémenter un cluster d’espaces de stockage direct à l’aide de Windows PowerShell.
   - Gérer un cluster d’espaces de stockage direct à l’aide du centre d’administration Windows et de Windows PowerShell.
   - Gérer et surveiller la résilience d’un cluster d’espaces de stockage direct.

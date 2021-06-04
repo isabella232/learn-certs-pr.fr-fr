@@ -7,7 +7,7 @@ uid: exam.mb-6-898
 displayName: MB6-898
 summary: |-
   <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
   </div>
 
   Les candidats à cet examen sont des partenaires Microsoft Dynamics 365 qui configurent et utilisent la fonctionnalité de l'application dans Microsoft Dynamics 365 for Talent et fournissent une assistance pour l'application. Cet examen est également approprié pour le personnel de vente qui dispose de connaissances en solutions commerciales et souhaitent démontrer une compréhension fondamentale de l’application Microsoft Dynamics 365 for Talent.
@@ -18,7 +18,6 @@ summary: |-
 subTitle: Les candidats à cet examen sont des partenaires Microsoft Dynamics 365 qui configurent et utilisent la fonctionnalité de l'application dans Microsoft Dynamics 365 for Talent et fournissent une assistance pour l'application. Cet examen est également approprié pour le personnel de vente qui dispose de connaissances en solutions commerciales et souhaitent démontrer une compréhension fondamentale de l’application Microsoft Dynamics 365 for Talent.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
 locales:
 - en
 levels:
@@ -26,6 +25,7 @@ levels:
 skills:
 - Comprendre l'environnement de Dynamics 365 for Talent (45-50%)
 - Régler et utiliser l'application des talents (50-55%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

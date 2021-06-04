@@ -51,7 +51,15 @@ summary: |-
   #### Profil de l’audience
   Les étudiants de ce cours s’intéressent au développement Azure ou à passer l’examen de certification Microsoft Azure Developer Associate.
 prerequisitesSection: |-
-  Les étudiants doivent posséder une expérience de développement professionnel de un à deux ans et maîtriser Microsoft Azure. Ils doivent être capables de programmer dans un langage pris en charge par Azure.
+  Pour réussir ce cours, les apprenants doivent posséder les éléments suivants&#58;
+  - Expérience pratique des solutions Azure IaaS et PaaS, et du portail Azure.
+  - Expérience de l'écriture dans un langage supporté par Azure au niveau intermédiaire. (C#, JavaScript, Python, ou Java)
+  - Capacité d'écrire du code pour se connecter à une base de données SQL ou NoSQL et y effectuer des opérations (SQL Server, Oracle, MongoDB, Cassandra ou similaire)
+  - Expérience de l'écriture de code pour gérer l'authentification, l'autorisation et d'autres principes de sécurité à un niveau intermédiaire.
+  - Une compréhension générale de HTML, du protocole HTTP et des interfaces REST API.
+  Si vous êtes novice en matière Azure et de cloud computing, consultez l'une des ressources suivantes&#58;
+  - Gratuit en ligne&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Module 1&#58; Créer des applications Web à l’aide d’Azure App Service
   Les étudiants apprendront à développer une application Web sur la plateforme Azure App Service. Ils étudieront le fonctionnement de la plateforme et la manière de créer, de configurer, de mettre à l’échelle, de sécuriser et de déployer sur la plateforme App Service.

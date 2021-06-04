@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: Microsoft Information Protection Administrator
+metadata:
+  title: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+  description: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+uid: course.sc-400t00
+courseNumber: 'SC-400T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Expliquer et utiliser les étiquettes de sensibilité.
+- skill: Configurer les politiques de prévention de pertes de données.
+- skill: Sécuriser les messages dans Office 365.
+- skill: Décrire le processus de configuration de la gouvernance de l'information.
+- skill: Définir les termes clés associés aux solutions de protection et de gouvernance de l'information de Microsoft.
+- skill: Expliquer les explorateurs de contenu et d'activité.
+- skill: Décrire comment utiliser les types d'informations sensibles et les classificateurs programmables.
+- skill: Examiner et analyser les rapports DLP.
+- skill: Identifier et atténuer les violations de la politique DLP.
+- skill: Décrire l'intégration de DLP avec Microsoft Cloud App Security (MCAS).
+- skill: Déployer Endpoint DLP
+- skill: Décrire la gestion des enregistrements
+- skill: Configurer la rétention par événement
+- skill: Importer un plan de classement
+- skill: Configurer les politiques de conservation et les étiquettes
+- skill: Créer des dictionnaires de mots-clés personnalisés
+- skill: Implémenter l'empreinte digitale des documents
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+exams:
+- uid: exam.sc-400
+summary: |-
+  Apprenez à protéger les informations dans votre déploiement Microsoft 365. Ce cours se concentre sur la gouvernance des données et la protection des informations au sein de votre organisation. Le cours couvre la mise en œuvre des politiques de prévention des pertes de données, les types d'informations sensibles, les étiquettes de sensibilité, les politiques de conservation des données et le cryptage des messages Office 365, entre autres sujets connexes. Le cours aide les apprenants à se préparer à la Microsoft Information Protection Administrator exam (SC-400).
+
+  #### Profil du public
+  L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes. Il travaille avec le personnel des technologies de l'information (IT), les propriétaires d'applications d'entreprise, les ressources humaines et les parties prenantes juridiques pour mettre en œuvre la technologie qui soutient les politiques et les contrôles nécessaires pour répondre de manière satisfaisante aux exigences réglementaires de l'organisation. Ils travaillent également avec les responsables de la conformité et de la sécurité, tels que le chef de la conformité et le responsable de la sécurité, afin d'évaluer toute l'étendue des risques associés à l'entreprise et de s'associer pour élaborer ces politiques. Cette personne définit les exigences applicables et teste les processus et opérations IT par rapport à ces politiques et contrôles. Elle est chargée de créer des politiques et des règles pour la classification du contenu, la prévention des pertes de données, la gouvernance et la protection.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une connaissance de base des technologies de sécurité et de conformité de Microsoft.
+  - Une connaissance de base des concepts de protection de l'information.
+  - Compréhension des concepts du cloud computing.
+  - Compréhension des produits et services Microsoft 365.
+outlineSection: |-
+  ### Module 1&#58; Mettre en œuvre la protection des informations dans Microsoft 365
+  Les organisations ont besoin de solutions de protection des informations pour protéger leurs données contre le vol et la perte accidentelle. Découvrez comment protéger vos informations sensibles. Découvrez comment les solutions de protection et de gouvernance des informations de Microsoft 365 vous aident à protéger et à gouverner vos données, tout au long de leur cycle de vie, où qu'elles vivent ou qu'elles voyagent. Découvrez les informations disponibles pour vous aider à comprendre votre paysage de données et à connaître vos données. Découvrez comment utiliser les types d'informations sensibles pour soutenir votre stratégie de protection des informations. Découvrez comment les étiquettes de sensibilité sont utilisées pour classer et protéger les données d'entreprise tout en veillant à ce que la productivité des utilisateurs et leur capacité à collaborer ne soient pas entravées.
+  #### Cours
+  - Introduction à la protection et à la gouvernance des informations dans Microsoft 365
+  - Classer les données pour la protection et la gouvernance
+  - Créer et gérer des types d'informations sensibles
+  - Décrire le chiffrement dans Microsoft 365
+  - Déployer le chiffrement des messages dans Office 365
+  - Configurer les étiquettes de sensibilité
+  - Appliquer et gérer les étiquettes de sensibilité
+
+  #### Lab &#58; Mettre en œuvre la protection de l'information
+  - Attribuer des autorisations pour la conformité
+  - Gérer le cryptage des messages de Office 365
+  - Gérer les types d'informations sensibles
+  - Gestion des classificateurs formables
+  - Gestion des étiquettes de sensibilité
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire l'approche de Microsoft en matière de protection et de gouvernance de l'information.
+  - Énumérer les composants de la solution de classification des données.
+  - Décrire comment utiliser les types d'informations sensibles et les classificateurs formables.
+  - Mettre en œuvre l'empreinte digitale des documents
+  - Créer des dictionnaires de mots-clés personnalisés
+  - Déployer le chiffrement des messages dans Office 365
+  
+  
+  ### Module 2&#58; Mettre en œuvre la prévention des pertes de données dans Microsoft 365
+  Dans ce module, nous verrons comment mettre en œuvre des techniques de prévention des pertes de données pour sécuriser vos données Microsoft 365. Apprenez à découvrir, classer et protéger le contenu sensible et critique pour l'entreprise tout au long de son cycle de vie dans votre organisation. Découvrez comment configurer et mettre en œuvre des politiques de prévention des pertes de données et les intégrer à Microsoft Cloud App Security. Apprenez à répondre aux violations des politiques de perte de données et à les atténuer.
+  #### Cours
+  - Prévenir la perte de données dans Microsoft 365
+  - Mettre en œuvre la prévention des pertes de données au niveau de Endpoint
+  - Configurer les politiques DLP pour Microsoft Cloud App Security and Power Platform
+  - Gérer les politiques et les rapports DLP dans Microsoft 365
+  
+  #### Lab &#58; Mettre en œuvre la prévention des pertes de données
+  - Gérer les politiques DLP
+  - Gérer la DLP de Endpoint
+  - Tester les politiques DLP
+  - Gérer les rapports DLP
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de &#58;
+  - Décrire le processus de configuration de la protection de l'information.
+  - Articuler les meilleures pratiques de déploiement et d'adoption.
+  - Décrire l'intégration de DLP avec Microsoft Cloud App Security (MCAS).
+  - Configurer les politiques dans Microsoft Cloud App Security.
+  - Examiner et analyser les rapports DLP.
+  - Identifier et atténuer les violations des politiques DLP.
+  - Atténuer les violations DLP dans MCAS.
+  
+  
+  ### Module 3&#58; Mettre en œuvre la gouvernance de l'information dans Microsoft 365
+  Dans ce module, vous apprendrez à planifier et à mettre en œuvre des stratégies de gouvernance de l'information pour une organisation. Apprenez à gérer le cycle de vie de votre contenu à l'aide de solutions permettant d'importer, de stocker et de classer les données critiques pour l'entreprise afin de pouvoir conserver ce dont vous avez besoin et supprimer ce qui ne l'est pas. Découvrez comment gérer la rétention pour Microsoft 365, et comment les solutions de rétention sont mises en œuvre dans les différents services Microsoft 365. Apprenez à utiliser la classification intelligente pour automatiser et simplifier le calendrier de conservation des documents réglementaires, juridiques et stratégiques de votre entreprise.
+  #### Cours
+  - Gouverner les informations dans Microsoft 365
+  - Gérer la rétention des données dans les charges de travail Microsoft 365
+  - Gérer les enregistrements dans Microsoft 36
+  
+  #### Lab &#58; Mettre en œuvre la gouvernance de l'information
+  - Configurer les étiquettes de rétention
+  - Mise en œuvre des étiquettes de rétention
+  - Configuration de la rétention basée sur les services
+  - Utiliser le eDiscovery pour la récupération
+  - Configurer la gestion des documents
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire le processus de configuration de la gouvernance de l'information.
+  - Articuler les meilleures pratiques de déploiement et d'adoption.
+  - Décrire les fonctionnalités de rétention dans les charges de travail Microsoft 365.
+  - Configurer les paramètres de rétention dans Microsoft Teams et SharePoint Online.
+  - Mettre en œuvre la rétention pour les éléments de Exchange Mailboxes.
+  - Récupérer le contenu protégé par les paramètres de rétention.
+  - Récupérer les éléments protégés Exchange Mailboxes.
+  - Décrire le processus de configuration de la gestion des enregistrements.

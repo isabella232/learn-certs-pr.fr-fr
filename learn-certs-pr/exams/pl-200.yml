@@ -6,23 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
+  <div><div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  </div>
+
   Les candidats à cet examen effectuent la découverte, capturent les besoins, entrent en contact avec les experts et les parties prenantes, traduisent les besoins et configurent des solutions et applications Power Platform. Ils créent des améliorations de l’application, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, une automatisation personnalisée des processus et des visualisations personnalisées.
 
-  Les candidats implémentent le design réalisé par un architecte de solutions avec leur collaboration, ainsi que les normes, marques et artefacts mis en place par les concepteurs de l’expérience utilisateur. Ils conçoivent des intégrations afin de fournir une intégration transparente avec les applications et services des tiers.
+  Les candidats mettent en œuvre la conception fournie par un architecte de solutions et en collaboration avec lui, ainsi que les normes, l'image de marque et les artefacts établis par les concepteurs de l'expérience utilisateur. Ils conçoivent des intégrations pour assurer une intégration transparente avec des applications et des services tiers.
 
   Les candidats collaborent activement avec les membres de l’équipe d’assurance qualité afin de s’assurer que les solutions répondent aux exigences fonctionnelles et non fonctionnelles. Ils identifient, génèrent, et délivrent des artefacts pour le packaging et le déploiement aux ingénieurs DevOps, et assurent la formation des administrateurs de Power Platform pour les opérations et la maintenance.
   
-  Les consultants fonctionnels de Power Platform doivent être familiarisés avec les applications basées sur le modèle Dynamics 365 et doivent avoir l'expérience de l'utilisation des composants de Power Platform pour étendre et personnaliser les applications basées sur le modèle Dynamics 365.
-subTitle: 'Cet examen mesures votre aptitude à compléter les tâches suivantes: configurer Common Data Service, créer des applications à l’aide de Power Apps, créer et gérer Power Automate, implémenter les bots conversationnels Power Virtual Agents, et intégrer Power Apps avec d’autres applications et services.'
+  Les consultants fonctionnels Power Platform doivent être familiarisés avec l'utilisation des composants Power Platform pour étendre et personnaliser les applications et services Microsoft tels que Teams, Dynamics 365, Excel et Word.
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches suivantes: configurer Microsoft Dataverse; créer des applications à l'aide de Power Apps; créer et gérer Power Automate; mettre en œuvre des chatbots Power Virtual Agents; et intégrer Power Apps à d'autres applications et services."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Configurer Common Data Service (25-30%)
+- Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Configurer Microsoft Dataverse (25-30%)
 - Créer des applications à l’aide de Power Apps (20-25%)
 - Créer et gérer Power Automate (15-20%)
 - Implémenter les bots conversationnels Power Virtual Agents (10-15%)
@@ -65,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

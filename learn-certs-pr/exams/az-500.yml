@@ -6,17 +6,15 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div>
-  <div><strong> Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
-
-  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  
+  Les candidats à cet examen doivent avoir une expertise dans la mise en œuvre des contrôles de sécurité et la protection contre les menaces, la gestion des identités et des accès, et la protection des données, des applications et des réseaux.
 
   Les responsabilités d’un ingénieur de sécurité Azure englobent la maintenance d’une posture de sécurité, l’identification et la remédiation aux vulnérabilités à l’aide d’une variété d’outils de sécurité, la mise en œuvre de la protection contre les menaces, et la réponse aux escalades des incidents de sécurité.
 
-  Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
-
-  Le candidat à cet examen doit maîtriser les scripts et l’automatisation, et avoir des connaissances approfondies de la mise en réseau et de la virtualisation. Le candidat doit également avoir d’excellentes connaissances des capacités du cloud, des produits et services Azure, et d’autres produits et services Microsoft.
+  Les ingénieurs en sécurité Azure font souvent partie d'une équipe plus large dédiée à la gestion et à la sécurité du cloud et peuvent également sécuriser des environnements hybrides dans le cadre d'une infrastructure de bout en bout.
+  
+  Un candidat à cet examen doit être familier avec les scripts et l'automatisation, et doit avoir une connaissance approfondie des réseaux et de la virtualisation. Le candidat doit également avoir une bonne connaissance des capacités du cloud, des produits et services Azure et des autres produits et services Microsoft.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’identité et l’accès, mettre en œuvre une protection de plateforme, gérer les opérations de sécurité, et sécuriser les données et les applications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -34,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
 - Gérer l’identité et l’accès (30-35%)
 - Mettre en œuvre une Protection de Plateforme (15-20%)
 - Gérer les Opérations de Sécurité (25-30%)
@@ -66,10 +64,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

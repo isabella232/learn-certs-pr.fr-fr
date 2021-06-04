@@ -11,7 +11,7 @@ summary: |-
 
   Les responsabilités de cette fonction englobent la maintenance d’une posture de sécurité, l’identification et la remédiation aux vulnérabilités à l’aide d’une variété d’outils de sécurité, la mise en œuvre de la protection contre les menaces, et la réponse aux escalades des incidents de sécurité.
 
-  Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
+  Les ingénieurs en sécurité Azure font souvent partie d'une équipe plus large dédiée à la gestion et à la sécurité du cloud et peuvent également sécuriser des environnements hybrides dans le cadre d'une infrastructure de bout en bout.
 
   Le candidat à cette certification doit posséder de solides compétences en scripts et en automatisation, une compréhension solide de la mise en réseau, de la virtualisation et de l’architecture de cloud à N niveaux, et une bonne maîtrise des fonctionnalités, des produits et services du cloud pour Azure, ainsi que d’autres produits et services Microsoft.
 subTitle: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients.
+  Utilisez cette certification pour prouver vos compétences et contribuer à l'avancement de votre carrière, si vous avez de l'expérience en tant que consultant fonctionnel qui analyse les besoins de l'entreprise et les traduit en processus et solutions d'entreprise réussis basés sur les meilleures pratiques du secteur. Vous devez avoir de l'expérience dans la mise en œuvre et la configuration de Dynamics 365 Finance pour répondre aux besoins de l'entreprise.
+  
+  Cette certification convient bien aux personnes des services financiers qui travaillent dans les domaines suivants&#58; comptes débiteurs, comptes créditeurs, grand livre, immobilisations, budgétisation, comptabilité analytique et gestion des coûts, ou dépenses. Vous devez avoir une compréhension fondamentale des principes de la comptabilité d'entreprise et des opérations financières.
+  
+  Si vous avez besoin de plus d'expérience avant de tenter d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travaillez avec un consultant fonctionnel qui utilise Dynamics 365 Finance.
+  - Travaillez en tant que consultant fonctionnel sur un ou plusieurs projets.
+  - Travaillez sur un projet de conseil en finance.
+  - Rejoignez la communauté d'experts et de pairs sur [community.dynamics.com](https://community.dynamics.com/).
+  - Suivez les parcours d'apprentissage disponibles sur Microsoft Learn.
+  - Inscrivez-vous à un cours de formation dirigé par un instructeur.
+  - Effectuez davantage de travaux pratiques.
 subTitle: "Les Dynamics 365 Finance Functional Consultants sont responsables d’unifier les finances et opérations globales, d'automatiser les tâches et les flux de travail, de rationaliser les commandes, ventes, facturations et générations des rapports des clients."
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

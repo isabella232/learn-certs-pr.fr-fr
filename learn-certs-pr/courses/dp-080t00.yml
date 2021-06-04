@@ -1,0 +1,111 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utiliser les outils d'interrogation du serveur SQL
+- skill: Rédiger des instructions SELECT pour extraire des colonnes d'une ou plusieurs tables
+- skill: Trier et filtrer des données sélectionnées
+- skill: Utiliser des fonctions intégrées pour retourner des valeurs de données
+- skill: Créer des groupes de données et agréger les résultats
+- skill: Modifier des données avec Transact-SQL en utilisant INSERT, UPDATE, DELETE et MERGE
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  Ce cours enseignera les bases Microsoft's dialecte du langage SQL standard&#58; Transact-SQL. Les sujets abordés comprennent l'interrogation et la modification de données dans des bases de données relationnelles hébergées dans des systèmes de bases de données basés sur Microsoft SQL Server, notamment&#58; Microsoft SQL Server, Azure SQL Database et, Azure Synapse Analytics.
+
+  #### Profil du public
+  Ce cours peut être précieux pour toute personne qui a besoin d'écrire des requêtes SQL ou Transact-SQL de base. Cela inclut toute personne travaillant avec des données en tant qu'analyste de données, ingénieur de données, scientifique de données, administrateur de base de données ou développeur de base de données. Il peut également être utile à d'autres personnes impliquées de manière périphérique dans les données ou souhaitant en savoir plus sur le travail avec les données, comme les architectes de solutions, les étudiants et les responsables technologiques.
+outlineSection: |-
+  ### Module 1&#58; Premiers pas avec Transact-SQL
+  Dans ce module, vous découvrirez les bases du langage Transact-SQL (T-SQL), ainsi que les propriétés générales et la terminologie des bases de données relationnelles. Ce module présente également l'instruction SELECT de base permettant de récupérer des données dans une table.
+  #### Cours
+  - Introduction à Transact-SQL
+  - Utilisation de l'instruction SELECT
+
+  #### Lab &#58; Démarrer avec les outils de requête du serveur SQL et écrire des requêtes en T-SQL
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser un outil de requête pour écrire et exécuter des requêtes en Transact-SQL
+  - Comprendre les concepts de base de la base de données relationnelle et du langage T-SQL
+  - Écrire des instructions SELECT pour extraire des données d'une table de base de données relationnelle
+  - Comprendre les types de données de base et comment ils sont utilisés
+  - Comprendre les principes de base des valeurs NULL
+  
+  
+  ### Module 2&#58; Trier et filtrer les résultats des requêtes
+  Dans ce module, vous apprendrez à contrôler les données renvoyées et l'ordre dans lequel elles le sont. Vous utiliserez la clause ORDER BY, avec et sans pagination. Vous découvrirez les différents types de filtres qui peuvent être utilisés dans la clause WHERE pour contrôler les lignes de données renvoyées. Vous apprendrez également à gérer les résultats en supprimant les doublons à l'aide de la clause DISTINCT.
+  #### Cours
+  - Tri des résultats de la requête
+  - Filtrer les données
+  
+  #### Lab &#58; Trier et filtrer les données renvoyées par les requêtes SELECT
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser ORDER BY pour trier les résultats d'une instruction SELECT T-SQL.
+  - Ajouter une clause TOP pour limiter les rangées triées renvoyées.
+  - Mettre en page les données triées avec OFFSET-FET
+  - Rédiger des clauses WHERE pour filtrer les lignes renvoyées.
+  - Utiliser DISTINCT pour éliminer les lignes en double dans les résultats.
+  
+  
+  ### Module 3&#58; Utilisation de jointures et de sous-requêtes
+  Dans ce module, vous explorerez les requêtes T-SQL qui permettent d'accéder aux données de plusieurs tables à l'aide de différents types d'opérations JOIN et de sous-requêtes simples.
+  #### Cours
+  - Utilisation des opérations JOIN
+  - Utilisation des sous-requêtes
+  
+  #### Lab &#58; Rédiger des requêtes avec des opérations JOIN
+  
+  #### Lab &#58; Rédiger des instructions SELECT en utilisant des sous-requêtes
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Rédiger des requêtes accédant aux données de plusieurs tables à l'aide d'opérations JOIN.
+  - Comprendre les différences entre les types d'opérations JOIN&#58; INNER JOIN, OUTER JOIN, CROSS JOIN.
+  - Comprendre comment joindre une table à elle-même avec une auto-jonction.
+  - Rédiger des sous-requêtes dans une instruction SELECT
+  - Comprendre la différence entre les sous-requêtes scalaires et les sous-requêtes multivalentes.
+  - Comprendre la différence entre les sous-requêtes corrélées et les sous-requêtes autonomes.
+  
+  
+  ### Module 4&#58; Utilisation des fonctions intégrées
+  Dans ce module, vous explorerez l'utilisation des fonctions intégrées pour retourner des valeurs calculées ou spéciales dans la liste SELECT ou dans la clause WHERE. Les fonctions comprennent les fonctions mathématiques, les fonctions de chaîne de caractères et les fonctions système. Il existe d'autres types de fonctions qui seront mentionnées, mais pas abordées en détail. Vous apprendrez également à combiner des lignes de données en un seul groupe, en fournissant des informations récapitulatives pour le groupe, telles que SUM, MIN ou MAX.
+  #### Cours
+  - Démarrer avec les fonctions scalaires
+  - Regroupement des résultats agrégés
+  
+  #### Lab &#58; Fonctions intégrées
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Rédiger des requêtes à l'aide de fonctions scalaires
+  - Rédiger des requêtes à l'aide de fonctions agrégées
+  - Utiliser GROUP BY pour combiner des données dans des groupes basés sur la valeur d'une colonne commune.
+  - Comprendre comment HAVING est utilisé pour filtrer des groupes de lignes
+  
+  
+  ### Module 5&#58; Modifier les données
+  Dans ce module, vous apprendrez les instructions T-SQL permettant de modifier les données d'une table, notamment UPDATE, DELETE et MERGE, ainsi que diverses options pour INSERT, notamment la création d'une nouvelle table avec les données d'une table existante. Vous verrez également comment faire en sorte que le système fournisse automatiquement les valeurs des colonnes au fur et à mesure de l'insertion des données.
+  #### Cours
+  - Insertion de données dans des tableaux
+  - Modifier et supprimer des données
+  
+  #### Lab &#58; Modifier les données
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Insérer des données dans une table existante
+  - Spécifier qu'une colonne doit être automatiquement remplie avec une valeur de IDENTITY ou de SEQUENCE.
+  - Modifier des données à l'aide de l'instruction UPDATE
+  - Supprimer des données à l'aide de l'instruction DELETE
+  - Modifier des données en utilisant l'instruction MERGE pour synchroniser deux tables

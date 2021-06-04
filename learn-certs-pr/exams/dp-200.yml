@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, SERA DISPONIBLE LE 23 FÉVRIER 2021. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque&#58; les examens expirent à 23h59, heure normale centrale.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, EST DISPONIBLE. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque: les examens sont retirés à 23 h 59, Heure Centrale Standard.</strong></font><br/><br/></div>
   <div><strong>Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
   
@@ -19,7 +19,7 @@ summary: |-
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: implémenter des solutions de stockage de données, gérer et développer le traitement des données, et surveiller et optimiser les solutions de données.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
-practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
@@ -69,10 +69,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

@@ -42,7 +42,20 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Les applications Dynamics 365 Finance and Operations inclus, mais ne se limitent pas à, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, et Dynamics 365 Supply Chain Management, Manufacturing. Dynamics 365 Finance vous aide à: Automatiser et moderniser vos opérations financières mondiales. Surveiller les performances en temps réel, prévoir les résultats futurs et prendre des décisions fondées sur les données pour stimuler la croissance de l'entreprise. Prendre des décisions financières stratégiques grâce à l'intelligence artificielle (AI), unifier et automatiser vos processus financiers, réduire les dépenses opérationnelles et diminuer la complexité et les risques financiers mondiaux. Dynamics 365 Supply Chain Management vous aide à: Transformer vos opérations de fabrication et de chaîne d'approvisionnement. Utiliser les connaissances et les renseignements prédictifs de AI et de Internet of Things (IoT) dans la gestion de la planification, de la production, des stocks, des entrepôts et du transport. Maximiser l'efficacité opérationnelle, la qualité des produits et la rentabilité. Innover grâce à des opérations de fabrication intelligentes, moderniser la gestion des entrepôts, optimiser les performances de production, maximiser la durée de vie de vos actifs, et automatiser et rationaliser votre chaîne d'approvisionnement. Note: Pour plus d'informations, veuillez vous référer à  https://docs.microsoft.com/learn/paths/get-started-finance-operations/ Dans ce module, nous nous concentrerons sur les caractéristiques et les fonctionnalités de base pour les applications Dynamics 365 Dynamics 365 Finance qui sont les plus utilisés par les utilisateurs finaux et les consultants.
+  Les applications Dynamics 365 Finance and Operations comprennent, sans s'y limiter, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, et Dynamics 365 Supply Chain Management, Production.
+  Dynamics 365 Finance vous aide à&#58;
+  - Automatiser et moderniser vos opérations financières internationales.
+  - Surveiller les performances en temps réel, prédisez les résultats futurs et prendre des décisions fondées sur les données pour stimuler la croissance de l'entreprise.
+  - Prendre des décisions financières stratégiques grâce à l'intelligence artificielle (AI), unifier et automatiser vos processus financiers, réduire vos dépenses opérationnelles et diminuer la complexité et les risques financiers au niveau mondial.
+  
+  Dynamics 365 Supply Chain Management vous aide à&#58;
+  - Transformer vos opérations de fabrication et de chaîne d'approvisionnement.
+  - Utiliser les connaissances prédictives et l'intelligence de AI et de l'Internet des objets (IoT) dans la planification, la production, l'inventaire, l'entrepôt et la gestion du transport.
+  - Optimiser l'efficacité opérationnelle, la qualité des produits et la rentabilité.
+  - Innover avec des opérations de fabrication intelligentes, moderniser la gestion des entrepôts, optimiser les performances de production, maximiser la durée de vie de vos actifs, et automatiser et rationaliser votre chaîne logistique.
+  
+  Note&#58; Pour plus d'informations, veuillez vous référer à https://docs.microsoft.com/learn/paths/get-started-finance-operations/
+  Dans ce module, nous nous concentrerons sur les caractéristiques et fonctionnalités de base des apps Dynamics 365 Finance les plus utilisées par les utilisateurs finaux et les consultants.
   
   #### Profil de l’audience
   Un Dynamics 365 for Finance and Operations Functional Consultant est responsable de la découverte, de la saisie des exigences, de l'engagement d'experts en la matière et des parties prenantes, de la traduction des exigences et de la configuration de la solution et des applications. Le consultant fonctionnel met en œuvre une solution en utilisant des capacités prêtes à l'emploi, une extensibilité sans code, des intégrations d'applications et de services.
@@ -51,17 +64,8 @@ prerequisitesSection: |-
   - Connaissances générales de Microsoft Windows.
   - La capacité d’utiliser Dynamics 365 for Finance and Operations pour un traitement de base.
   - Connaissances générales des caractéristiques de base et de la navigation des périphériques mobiles.
-outlineSection: |-
-  ### Module 1&#58; Aperçu du cours
-  Ce cours couvre les fonctionnalités de base des applications Dynamics 365 Finance and Operations. Les thèmes généraux abordés ici comprennent les caractéristiques communes de base, la configuration de base, la migration des données et la préparation à la mise en service. Ce cours est un cours préliminaire pour les consultants fonctionnels et les consultants techniques. Ils doivent avoir une compréhension fondamentale de l’application Dynamics 365 Finance and Operations. Ils doivent également être conscients de la manière dont l’application Dynamics 365 Finance and Operations s'intégrer aux systèmes et outils externes, notamment Power Platform. Le consultant gère activement le cycle de vie des applications en utilisant Lifecycle Services et d'autres outils et plates-formes Microsoft.
-  #### Enseignements
-  - Objectifs de formation
-  - Présentation du module
-
-  Vous aurez assimilé les modules abordés dans ce cours.
-
-  
-  ### Module 2&#58; Utiliser des fonctionnalités et des outils de mise en œuvre communs
+outlineSection: |-  
+  ### Module 1&#58; Utiliser des fonctionnalités et des outils de mise en œuvre communs
   Dans ce module, vous apprendrez à&#58;
   - Utiliser des fonctionnalités et des outils de mise en œuvre communs.
   - Décrire les cas d'utilisation et les capacités des espaces de travail.
@@ -108,7 +112,7 @@ outlineSection: |-
   - Intégrer Power BI avec les applications de Dynamics 365 Dynamics 365 Finance.
   
   
-  ### Module 3&#58; Configurer la sécurité, les processus et les options
+  ### Module 2&#58; Configurer la sécurité, les processus et les options
   Dans ce module, vous apprendrez à&#58;
   - Distinguez les rôles, les devoirs, les privilèges et les autorisations.
   - Appliquer les rôles de sécurité aux utilisateurs.
@@ -173,7 +177,7 @@ outlineSection: |-
   - Utiliser la fonction de personnalisation.
   - Configurer et surveiller les travaux par lots et les alertes.
   
-  ### Module 4&#58; Gérer les données de Dynamics 365 Finance and Operation
+  ### Module 3&#58; Gérer les données de Dynamics 365 Finance and Operation
   Dans ce module, vous apprendrez à&#58;
   - Gérer les données dans l’application Dynamics 365 Finance and Operations.
   - Décrire les concepts de gestion des données.
@@ -239,7 +243,7 @@ outlineSection: |-
   - Mettre en œuvre l'automatisation des tâches liées aux données.
   
   
-  ### Module 5&#58; Valider et soutenir la solution
+  ### Module 4&#58; Valider et soutenir la solution
   Dans ce module, vous apprendrez à&#58;
   - Décrivez la corrélation entre les cas d'essai et les exigences commerciales.
   - Utiliser les meilleures pratiques pour l'enregistrement des cas de test.

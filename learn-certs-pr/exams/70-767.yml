@@ -6,18 +6,15 @@ metadata:
 uid: exam.70-767
 displayName: 70-767
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Cet examen est destiné aux développeurs d'entrepôts de données et de services d'extraction, de transformation et de chargement (ETL) qui créent des solutions d'aide à la décision (Business Intelligence). Leurs responsabilités incluent le nettoyage de données, en plus de la mise en œuvre de l'ETL et d'entrepôts de données.
 
-  <div style='font-weight&#58; bold;'><br/> Cet examen a été mis à jour en mars 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-767.</div>
+  <div><strong><br/>Cet examen a été mis à jour en mars 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-767.</strong></div>
 subTitle: Cet examen est destiné aux développeurs d'entrepôts de données et de services d'extraction, de transformation et de chargement (ETL) qui créent des solutions d'aide à la décision (Business Intelligence). Leurs responsabilités incluent le nettoyage de données, en plus de la mise en œuvre de l'ETL et d'entrepôts de données.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
 locales:
 - en
 levels:
@@ -25,7 +22,8 @@ levels:
 skills:
 - Conception, mise en œuvre et entretien d'un entrepôt de données (35-40%)
 - Extraction, transformation, et chargement des données (40-45%)
-- Génération de solutions de qualité des données (15-20 %)
+- Génération de solutions de qualité des données (15-20%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

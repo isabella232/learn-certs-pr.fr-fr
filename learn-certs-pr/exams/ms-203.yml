@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent les destinataires, les autorisations, la protection du courrier, le flux de courrier et les dossiers publics dans les environnements d’entreprise hybrides et dans le cloud.
@@ -20,14 +19,14 @@ summary: |-
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: la gestion des paramètres et des ressources organisationnelles, la planification et la gestion de l’architecture de messagerie électronique, la planification et la mise en œuvre d’une configuration et migration hybrides, et la sécurisation de l’environnement de messagerie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
-practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Gérer les paramètres et les ressources organisationnelles (30-35%)
 - Planifier et gérer l’architecture de messagerie électronique (20-25%)
 - Planifier et mettre en œuvre une configuration et une migration hybrides (20-25%)
@@ -48,10 +47,10 @@ relatedCertifications:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

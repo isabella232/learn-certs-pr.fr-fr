@@ -6,21 +6,15 @@ metadata:
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen a été mis à jour 22 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
-  </div>
-
-  Les candidats à cet examen sont des Developers (développeurs) qui travaillent sur des applications pour les finances et les opérations dans Microsoft Dynamics 365 afin de mettre en œuvre et d’étendre les applications pour répondre aux exigences de l’entreprise. Les candidats fournissent des solutions complètes en utilisant des modèles de codage d’application standardisés, des fonctionnalités extensibles et des intégrations externes.
-
-  Les candidats sont responsables de la mise au point d'une logique d’entreprise en utilisant X++, de la création et de la modification des rapports et espaces de travail pour les finances et les opérations, de la personnalisation des interfaces utilisateurs, de la fourniture de finalités et API pour soutenir les applications de Power Platform et des systèmes externes, de la réalisation de tests, du suivi des performances, de l’analyse et de la manipulation de données, de la création de designs techniques et de la mise en œuvre des détails ainsi que de la mise en œuvre des politique de permissions et des exigences de sécurité.
-
-  Les candidats participent à la migration des données et des objets des systèmes hérités et externes, à l’intégration des applications pour les finances et les opérations à d'autres systèmes, à la mise en œuvre du processus de gestion du cycle de vie des applications, à la planification de la conception fonctionnelle des solutions et à la gestion des environnement pour les finances et les opérations en utilisant Lifecycle Services (LS).
-
-  Les candidats doivent avoir des connaissances et une expérience importantes de l’utilisation du cadre sous-jacent, des structures de données et des objets associés aux solutions pour les finances et les opérations.
-
-  Les candidats doivent avoir de l’expérience avec les produits qui incluent Visual Studio, Azure DevOps, les outils LCS ou SQL Server Management Studio.
-
-  Les candidats doivent avoir de l’expérience dans la mise au point de codes en utilisant des langages de programmation orientés objets, l’analyse et la manipulation de données en utilisant le code Transact-SQL et la création et l’exécution de commandes et de scripts Windows PowerShell.
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 2 avril 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  
+  Les candidats à cet examen sont des développeurs qui travaillent avec les applications Finance et Opérations de Microsoft Dynamics 365 pour mettre en œuvre et étendre des applications qui répondent aux exigences d'une entreprise. Les candidats fournissent des solutions entièrement réalisées en utilisant des modèles de codage d'application standardisés, des fonctionnalités extensibles et des intégrations externes.
+  
+  Les candidats développent une logique d'entreprise à l'aide de X++, créent et modifient des rapports et des espaces de travail pour les finances et les opérations, personnalisent les interfaces utilisateur, fournissent des points d'accès et des APIs pour prendre en charge les applications Power Platform et les systèmes externes, effectuent des tests, contrôlent les performances, analysent et manipulent les données, créent des conceptions techniques et des détails de mise en œuvre, et mettent en œuvre des politiques d'autorisation et des exigences de sécurité.
+  
+  Les candidats doivent avoir une connaissance approfondie et une expérience de l'utilisation du cadre sous-jacent, des structures de données et des objets associés aux solutions Finance et Opérations.
+  
+  Les candidats doivent avoir une expérience des produits suivants Visual Studio, Azure DevOps, Lifecycle Services (LCS) outils, et SQL Server Management Studio.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: planifier la conception de l’architecture et de la solution, appliquer les outils du développeur, concevoir et mettre au point des éléments AOT, mettre au point et tester un code, mettre en œuvre un rapport, intégrer et gérer des solutions de données et mettre la sécurité en œuvre et optimiser les performances.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
@@ -30,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour 22 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen a été mis à jour le 2 avril 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.
 - Planifier la conception de l’architecture et de la solution (10-15%)
 - Appliquer les outils du développeur (10-15%)
 - Concevoir et mettre au point des éléments AOT (20-25%)
@@ -62,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

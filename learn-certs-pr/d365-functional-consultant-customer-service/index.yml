@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-customer-service
 certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+  Si vous êtes un consultant fonctionnel chargé de configurer et de mettre en œuvre des solutions Dynamics 365 pour les clients, vous pouvez utiliser cette certification pour mettre en lumière vos compétences et faire progresser votre carrière. Un consultant fonctionnel Dynamics 365 Customer Service met en œuvre des solutions omnicanales axées sur le service, la qualité, la fiabilité, l'efficacité et la satisfaction des clients. En tant que consultant fonctionnel, vous savez travailler avec des chefs de projet, des développeurs et des architectes de solutions. Vous devez avoir un minimum d'un à trois ans d'expérience en tant que consultant fonctionnel mettant en œuvre Dynamics 365.
+  
+  Si vous avez besoin de plus d'expérience avant de tenter d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travaillez en tant que consultant fonctionnel Dynamics 365 sur un ou plusieurs projets.
+  - Travaillez sur l'implémentation de Dynamics 365 Customer Service.
+  - Rejoignez la communauté sur [community.dynamics.com](https://community.dynamics.com/).
+  - Suivez les parcours d'apprentissage disponibles sur [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - Effectuez davantage de travaux pratiques.
+  - Inscrivez-vous à un cours de formation dirigé par un instructeur.
 subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
 levels:
 - intermediate
@@ -62,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87

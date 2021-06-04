@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: "Décrire les composants de Power Platform: Power Apps, Power BI et Microsoft Automate"
-- skill: "Décrire les composants de Power Platform: Common Data Service, Connectors et AI builder."
+- skill: Décrire les composants de la Power Platform Power Platform
+- skill: Décrire Microsoft Dataverse, Connecteurs et AI builder
 - skill: Décrire des scénarios inter-cloud à travers Microsoft 365, Dynamics 365, Microsoft Azure et des services tiers.
 - skill: Identifier les avantages et les capacités de Power Platform.
 - skill: Identifier la fonctionnalité de base et la valeur métier des composants de Power Platform.
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Découvrez la valeur professionnelle et les capacités de produit de Power Platform. Créez des Power Apps simples, connectez des données avec le service des données communes Common Data Service, développez un tableau de bord Power BI, automatisez un processus avec Power Automate, et développez un bot conversationnel avec Power Virtual Agents.
+  Découvrez la valeur commerciale et les capacités des produits de Power Platform. Créez des Power Apps simples, connectez des données avec Dataverse, construisez un tableau de bord Power BI, automatisez des processus avec Power Automate et créez un chatbot avec Power Virtual Agents.
 
   #### Profil de l’audience
   Les candidats à cet examen sont des utilisateurs qui aspirent à améliorer la productivité en automatisant des processus métier, en analysant les données pour produire des perspectives commerciales, et en agissant de manière plus efficace par la création d’expériences d’applications simples.
@@ -45,21 +45,22 @@ outlineSection: |-
   - Découvrir les composants et les fonctionnalités de Power Platform.
 
 
-  ### Module 2&#58; Introduction au Common Data Service
-  Le Common Data Service vous permet de vous approfondir dans des solutions de données puissantes et évolutives dans le cloud. Découvrez ce qui fait le succès du Common Data Service et comment il peut fonctionner avec la Power Platform pour créer des solutions commerciales uniques et efficaces.
-  #### Leçons
-  - Présentation de Common Data Service
+  ### Module 2&#58; Introduction à Microsoft Dataverse
+  Dataverse vous permet de vous plonger dans des solutions de données puissantes et évolutives dans le cloud. Découvrez ce qui fait la particularité de Dataverse et comment il peut fonctionner avec Power Platform pour créer des solutions commerciales uniques et efficaces.
+  #### Cours
+  - Aperçu de Microsoft Dataverse 
   - Résumé du module
-
-  #### Laboratoire&#58; Modélisation des données
-  - Créer des solutions.
-  - Créer des entités et des relations.
-  - Importer des données.
-
-  À la fin de ce module, les étudiants seront capables de&#58;
-  - Décrire la différence entre Common Data Service et Common Data Model.
-  - Expliquer les cas d’utilisation et les limites des règles métier et des flux de process.
-  - Expliquer quels environnements, entités, champs et relations sont dans le service des données communes.
+  
+  #### Lab &#58; Modélisation de données
+  - Créer une solution
+  - Ajouter des tables existantes et créer de nouvelles tables
+  - Créer des relations
+  - Importer des données
+  
+  Après avoir terminé ce module, les étudiants seront capables&#58;
+  - De décrire la différence entre le Dataverse et le modèle commun de données.
+  - D'expliquer les cas d'utilisation et les limites des règles métier et des flux de processus
+  - D’expliquer ce que sont les environnements, les tables, les colonnes et les relations dans Dataverse.
 
 
   ### Module 3&#58; Démarrer avec Power Apps
@@ -129,10 +130,10 @@ outlineSection: |-
 
   #### Laboratoire&#58; Comment construire un bot conversationnel de base
   - S’inscrire sur PVA et créer un nouveau bot.
-  - Créer des sujets.
-  - Tester les sujets.
-  - Modifier la salutation.
-  - Publier le bot.
+  - Créer des sujets
+  - Tester les sujets
+  - Modifier le message d'accueil
+  - Publier le robot
 
   À la fin de ce module, les étudiants seront capables de&#58;
   - Décrire la valeur et les fonctionnalités commerciales de Power Virtual Agents.

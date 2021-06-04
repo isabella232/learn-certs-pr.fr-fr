@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-705
 displayName: 70-705
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Les candidats à cet examen sont des professionnels qui proposent/vendent des solutions de licence à de grandes organisations. Les organisations de cette catégorie ont le plus souvent 250, voire davantage, appareils ou utilisateurs. Les candidats doivent avoir au moins six mois d’expérience dans la vente des solutions d’octroi de licences Microsoft, ainsi qu'une compréhension des principes de base des solutions d’octroi de licences d’entreprise Microsoft, notamment Enterprise Agreement, Enterprise Subscription Agreement, Cloud Solution Provider (CSP), MPSA, OEM, Open et Open Value.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Les candidats à cet examen sont des professionnels qui proposent/vendent des solutions de licence à de grandes organisations. Les organisations de cette catégorie ont le plus souvent 250, voire davantage, appareils ou utilisateurs. Les candidats doivent avoir au moins six mois d’expérience dans la vente des solutions d’octroi de licences Microsoft, ainsi qu'une compréhension des principes de base des solutions d’octroi de licences d’entreprise Microsoft, notamment Enterprise Agreement, Enterprise Subscription Agreement, Cloud Solution Provider (CSP), MPSA, OEM, Open et Open Value.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn
@@ -30,9 +27,10 @@ locales:
 levels:
 - beginner
 skills:
-- Proposer la solution technologique appropriée (de 60 à 65 %)
-- Recommandation des avantages liés à Software Assurance (de 10 à 15 %)
-- Recommandation de solutions d’octroi de licence (de 20 à 25 %)
+- Proposer la solution technologique appropriée (de 60 à 65%)
+- Recommandation des avantages liés à Software Assurance (de 10 à 15%)
+- Recommandation de solutions d’octroi de licence (de 20 à 25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

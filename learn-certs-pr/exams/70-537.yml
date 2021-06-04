@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-537
 displayName: 70-537
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23h59, heure centrale. Vous ne pourrez plus passer l'examen après cette date. Un examen de remplacement, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, est disponible et est nécessaire pour la nouvelle certification Microsoft Certified&#58; Azure Stack Hub Operator Associate .<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Un examen de remplacement, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, est disponible.<br/><br/></strong></font></div>
 
   Cet examen est conçu pour les administrateurs Azure et les opérateurs Azure Stack Hub qui utilisent Azure Stack Hub pour offrir des services de cloud à leur utilisateurs finaux ou aux clients dans le cadre de leur propre centre de données.
 
@@ -16,11 +14,10 @@ summary: |-
 
   Les candidats à cet examen doivent être capables de démontrer leur aptitude à planifier, déployer, emballer, mettre à jour et maintenir l’infrastructure Azure Stack Hub. Les candidats doivent aussi démontrer de leur aptitude à offrir des ressources de cloud hybride et de services nécessaires, et de gérer l’infrastructure comme service (IaaS) et la plateforme comme service (PaaS).
 
-  <div style='font-weight&#58; bold;'><br/>Cet examen a été mis à jour le 14 janvier 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-537.</div>
+  <div><strong><br/>Cet examen a été mis à jour le 14 janvier 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 70-537.</strong></div>
 subTitle: Cet examen est conçu pour les administrateurs Azure et les opérateurs Azure Stack Hub qui utilisent Azure Stack Hub pour offrir des services de cloud à leur utilisateurs finaux ou aux clients dans le cadre de leur propre centre de données.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
 locales:
 - en
 levels:
@@ -30,12 +27,11 @@ skills:
 - Configuration de PaaS et IaaS pour un environnement Azure Stack Hub (25-30%)
 - Fourniture de services et activation de DevOps pour les utilisateurs d’Azure Stack Hub (25-30%)
 - Maintenance et surveillance d’un environnement Azure Stack Hub (20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - azure
-courses:
-- uid: course.20537
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure

@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.
+  Si vous êtes un consultant fonctionnel ou un utilisateur professionnel ayant une connaissance approfondie des normes de l'industrie manufacturière, cette certification pourrait vous convenir. Vous devez également avoir de l'expérience dans la configuration et la mise en œuvre de Dynamics 365 Supply Chain Management pour répondre aux besoins de votre organisation. Les consultants fonctionnels en gestion de la chaîne d'approvisionnement et en fabrication sont des ressources clés qui travaillent avec les développeurs, les architectes de solutions, les chefs de projet et les consultants fonctionnels en finance, commerce et chaîne d'approvisionnement.
+  
+  Si vous avez besoin de plus d'expérience avant de tenter d'obtenir cette certification, voici quelques suggestions&#58;
+  
+  - Étudiez les modules de gestion de la chaîne d'approvisionnement et de gestion de la chaîne d'approvisionnement, fabrication sur Microsoft Learn, et effectuez davantage de travaux pratiques.
+  - Inscrivez-vous à un cours de formation dirigé par un instructeur qui couvre la série MB-300 ou MB-320.
+  - Participez à la communauté sur [community.dynamics.com](https://community.dynamics.com/), ou rejoignez un groupe d'utilisateurs.
+  - Observez un consultant fonctionnel en fabrication dans un flux de travail de fabrication.
+  - Trouvez un mentor, visitez les chaînes de fabrication et apprenez comment les choses sont fabriquées.
+  - Posez des questions et apprenez des experts et des clients.
 subTitle: 'Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.'
 levels:
 - intermediate
@@ -53,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE

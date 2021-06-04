@@ -6,20 +6,17 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Les candidats à cet examen gèrent les identités en utilisant les fonctionnalités dans Windows Server 2016. Les candidats installent, configurent, gèrent et maintiennent les Active Directory Domain Services (AD DS), ainsi que les objets de stratégie de groupe (GPO).
 
   Les candidats doivent également connaître la mise en œuvre et la gestion de Active Directory Certificate Services (AD CS), Active Directory Federations Services (AD FS), Active Directory Rights Management Services (AD RMS), et proxy d'application Web.
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 3 er novembre 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 742.</div>
+  <div><strong><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 3 er novembre 2017. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 742.</strong></div>
 subTitle: Les candidats à cet examen gèrent les identités en utilisant les fonctionnalités dans Windows Server 2016. Les candidats installent, configurent, gèrent et maintiennent les Active Directory Domain Services (AD DS), ainsi que les objets de stratégie de groupe (GPO).
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - Création et gestion d'une stratégie de groupe (25-30%)
 - Mise en œuvre des services de certificat Active Directory (AD CS) (10-15%)
 - Mise en œuvre des solutions de fédération des identités et d’accès (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

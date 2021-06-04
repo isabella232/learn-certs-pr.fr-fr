@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Si vous êtes un professionnel du monde des affaires possédant une expertise approfondie dans votre domaine de solutions et que vous souhaitez mettre à profit votre passion pour la création de solutions Microsoft Power Platform afin de simplifier, d'automatiser et de transformer les tâches et les processus de votre équipe, cette certification est faite pour vous. Vous devez avoir les compétences nécessaires pour accomplir des tâches techniques clés d'analyste commercial, telles que la modélisation des données, la conception de base des UX, l'analyse des besoins et l'analyse des processus. 
+  Si vous êtes un professionnel avec une expertise approfondie dans votre domaine de solution et que vous voulez utiliser votre passion pour la création de solutions Microsoft Power Platform pour simplifier, automatiser et transformer les tâches et les processus pour votre équipe, cette certification est conçue pour vous. Vous devez avoir les compétences nécessaires pour accomplir des tâches techniques clés d'analyste d'entreprise, telles que la modélisation des données, la conception UX de base, l'analyse des exigences et l'analyse des processus.  
   
   Vous correspondez au profil du créateur d'applications si vous êtes autonome et axé sur les solutions, et si vous travaillez avec les outils de Microsoft Power Platform pour résoudre des problèmes commerciaux. Vous pourriez avoir de l'expérience avec Visual Basic for Applications, Excel PivotTables, Teams, et d'autres outils. Même si vous n'avez pas de formation IT formelle, vous êtes à l'aise pour travailler avec des administrateurs IT et des développeurs Microsoft Power Platform qui utilisent la technologie pour résoudre des problèmes commerciaux. Vous êtes chargé de&#58;  
   - Concevoir et créer des applications et automatiser les flux de travail. 
@@ -90,7 +90,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF

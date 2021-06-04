@@ -19,9 +19,9 @@ certificationPaths:
   - uid: certification.azure-developer
     levels:
     - intermediate 
-- title: Développeur d'applications pour Dynamics 365 pour les finances et les opérations
-  linkedInKeywords: Développeur d'applications pour Dynamics 365 pour les finances et les opérations
-  uid: certification.d365-finance-and-operations-apps-developer-associate
+- title: Dynamics 365 Finance and Operations Apps Developer
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
+  uid: certification-path.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
     isOptional: true
@@ -32,7 +32,7 @@ certificationPaths:
     - intermediate 
 - title: Microsoft 365 Developer
   linkedInKeywords: Microsoft 365 Developer
-  uid: certification.m365-developer-associate
+  uid: certification-path.m365-developer-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -41,17 +41,17 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
-- title: Power Apps + Dynamics 365 Developer
-  linkedInKeywords: Power Apps + Dynamics 365 Developer
-  uid: certification.power-apps-and-d365-developer-associate
+- title: Power Platform Developer
+  linkedInKeywords: Power Platform Developer
+  uid: certification-path.power-platform-developer-associate
   prerequisites: 
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
     - beginner 
-  - uid: certification.power-apps-and-d365-developer-associate
+  - uid: certification.power-platform-developer-associate
     levels:
-    - intermediate 
+    - intermediate
 certifications:
 - uid: certification.azure-developer
   requiredExams:
@@ -72,10 +72,10 @@ certifications:
 resources:
 - title: Guide de formation et de certification Microsoft
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de formation et de certification
   description: Choisissez la voie de la réussite avec cette affiche de formation et de certification.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Aide à la certification
   href: ../help.md
   description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).

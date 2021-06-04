@@ -6,9 +6,7 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 23 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   Les candidats à cet examen doivent posséder des connaissances de base des concepts de l’apprentissage automatique (ML) et de l’intelligence artificielle (AI) et des services Microsoft Azure qui y sont liés.
 
@@ -39,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 23 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.
 - Décrire les charges de travail et les considérations de l’intelligence artificielle (15-20%)
 - Décrire les principes fondamentaux de l’apprentissage automatique sur Azure (30-35%)
 - Décrire les fonctionnalités des charges de travail de la vision par ordinateur sur Azure (15-20%)
@@ -83,10 +81,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

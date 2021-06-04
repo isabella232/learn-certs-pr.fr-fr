@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-744
 displayName: 70-744
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Les candidats à cet examen sécurisent les environnements Windows Server 2016. Les candidats sont familiarisés avec les méthodes et les technologies utilisées pour renforcer les environnements de serveur et pour sécuriser les infrastructures de machines virtuelles à l'aide de machines virtuelles prises en charge et protégées par un chiffrement et Guarded Fabric.
 
@@ -21,7 +19,6 @@ subTitle: Les candidats à cet examen sécurisent les environnements Windows Ser
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
 practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=744&examname=Securing%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-744
 locales:
 - en
 - es
@@ -40,6 +37,7 @@ skills:
 - Gérer les identités privilégiées (25-30%)
 - Mise en œuvre des solutions de détection des menaces (15-20%)
 - Mettre en œuvre la sécurité spécifique à la charge de travail (5-10%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

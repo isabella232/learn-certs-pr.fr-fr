@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div><div><strong> Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 28 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des architectes ou ingénieurs possédant une large expérience et connaissance du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
@@ -30,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 28 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Migrer les charges de travail SAP dans Azure (10-15%)
 - Concevoir une solution Azure pour soutenir les charges de travail SAP (20-25%)
 - Développer et déployer des charges de travail SAP pour Azure (35-40%)
@@ -57,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

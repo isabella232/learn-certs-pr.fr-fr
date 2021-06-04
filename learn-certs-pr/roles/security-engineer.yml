@@ -8,8 +8,8 @@ summary: |
   Les ingénieurs en sécurité mettent en œuvre des contrôles de sécurité et une protection contre les menaces, gèrent l’identité et l’accès et protègent les données, les applications et les réseaux.
 subTitle: Les ingénieurs en sécurité mettent en œuvre des contrôles de sécurité et une protection contre les menaces, gèrent l’identité et l’accès et protègent les données, les applications et les réseaux.
 certificationPaths: 
-- title: Ingénieur en sécurité Azure
-  linkedInKeywords: Ingénieur en sécurité Azure
+- title: Azure Security Engineer
+  linkedInKeywords: Azure Security Engineer
   uid: certification-path.azure-security-engineer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,18 +19,59 @@ certificationPaths:
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-   
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Security Operations Analyst
+  linkedInKeywords: Security Operations Analyst
+  uid: certification-path.security-operations-analyst
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-security-engineer
   requiredExams:
   - uid: exam.az-500
+- uid: certification.security-operations-analyst
+  requiredExams:
+  - uid: exam.sc-200
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
 resources:
 - title: Guide de formation et de certification Microsoft
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de formation et de certification
   description: Choisissez la voie de la réussite avec cette affiche de formation et de certification.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Support pour les certifications
   href: ../help.md
   description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.

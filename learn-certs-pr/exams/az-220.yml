@@ -6,18 +6,14 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
-  Les candidats à cet examen doivent avoir des connaissances spécialisées dans le développement de composants de cloud et de bord d’une solution Azure IoT.
+  Le développeur Azure IoT met en œuvre la configuration et effectue les tâches de codage nécessaires pour créer et maintenir les parties cloud et edge d'une solution IoT. Outre la configuration et la maintenance des appareils à l'aide de services cloud, le développeur IoT configure également les appareils physiques.  Le développeur IoT est responsable de la maintenance et du dépannage de la configuration des appareils tout au long de leur cycle de vie. 
 
-  Les responsabilités d’un développeur Azure IoT englobent la gestion du cycle de vie du périphérique et son installation, la configuration, et la maintenance à l’aide des services de cloud et d’autres outils. Vous implémentez des solutions Azure IoT comprenant la topologie du périphérique, la connectivité, le débogage, et la sécurité, ainsi que des solutions de gestion, de surveillance et de transformation IoT liées aux pipelines de données. Vous déployez également les composants d’Azure IoT Edge et configurez la mise en réseau des périphériques sur le bord.
+  Le développeur IoT met en œuvre les spécifications de conception des solutions IoT, notamment la topologie des appareils, la connectivité, les diagnostics et la surveillance, ainsi que la sécurité. Le développeur IoT développe et déploie des modules et configure la mise en réseau des dispositifs pour la partie IoT Edge de la solution. Le IoT Developer met en œuvre des conceptions de solutions pour gérer les pipelines de données, y compris la surveillance et la transformation des données en ce qui concerne IoT. Le développeur IoT travaille avec l'architecte Azure IoT, les ingénieurs de données et d'autres parties prenantes pour assurer une intégration commerciale réussie.
 
-  Le développeur Azure IoT collabore avec les ingénieurs de données et les autres parties prenantes pour assurer une intégration commerciale réussie.
-
-  Le candidat à cet examen doit savoir maîtriser l’implémentation des services Azure qui forment une solution IoT, notamment les options de stockage de données, l’analyse des données, le traitement des données et les options de plateforme en tant que service. Ce rôle doit également être capable de reconnaître les paramètres de configuration du service Azure IoT dans la portion de code d’une solution IoT et effectuer des tâches de codage spécifiques à IoT dans un ou plusieurs langages pris en charge par Azure, y compris C#, Node, C ou Python.
-subTitle: 'Cet examen mesure votre compétence pour implémenter une infrastructure des solutions d’IoT, provisionner et gérer les périphériques, mettre en œuvre des solutions sur des périphériques Azure IoT Edge, traiter et gérer des données, surveiller, dépanner, et optimiser les solutions d’IoT, et implémenter la sécurité.'
+  Les développeurs IoT doivent avoir une compréhension générale des types d'appareils et des services Azure, y compris les options de stockage des données, l'analyse des données, le traitement des données, AI et d'autres options de plateforme en tant que service. Les développeurs IoT doivent être capables de programmer dans au moins un langage pris en charge par Azure IoT SDK.
+subTitle: "Cet examen mesure votre capacité à mettre en place l'infrastructure de la solution IoT, à approvisionner et gérer les appareils, à mettre en œuvre IoT Edge, à traiter et gérer les données, à surveiller, dépanner et optimiser les solutions IoT et à mettre en œuvre la sécurité."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -30,13 +26,14 @@ locales:
 levels:
 - intermediate
 skills:
--  Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
-- Implémenter l’infrastructure des solutions d’IoT (15-20%)
-- Provisionner et gérer des appareils mobiles (20-25%)
-- Implémenter Edge (15-20%)
+- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Mise en place de l'infrastructure de la solution IoT (10-15%)
+- Approvisionnement et gestion des appareils (15-20%)
+- Mise en œuvre de IoT Edge (15-20%)
+- Mettre en œuvre l'intégration métier (5-10%)
 - Traiter et gérer les données (15-20%)
 - Surveiller, dépanner et optimiser les solutions IoT (15-20%)
-- Implémenter la sécurité (15-20%)
+- Implémenter la sécurité (10-15%)
 roles:
 - developer
 products:
@@ -50,6 +47,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -59,10 +57,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

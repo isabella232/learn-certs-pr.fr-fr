@@ -6,9 +6,7 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div>
-  <div><strong>Cet Certificats sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus l'obtenir après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certifications'>les prochains retraits des certifications</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cette certification a été retirée. Pour les options actuellement disponibles, veuillez vous référer à la page de <a href='/learn/certifications/browse/'>Consultez la page des certifications et des examens</a>. Toutes les certifications obtenues avant leur date de retrait continueront à figurer sur votre relevé de notes dans le <a href='https://aka.ms/certdashboard'>Tableau de bord de la certification</a>.</strong></font><br/><br/></div>
 
   Cette certification atteste que vous possédez les compétences nécessaires pour faire entrer votre entreprise dans l'informatique du cloud, accroître la productivité et la flexibilité des utilisateurs, minimiser la perte de données et renforcer la sécurité des données de votre organisation. Cette certification peut servir à satisfaire aux exigences pour devenir [Microsoft 365 Certified Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator).
 
@@ -50,10 +48,10 @@ prerequisites:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

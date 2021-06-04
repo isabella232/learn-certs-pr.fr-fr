@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-introduction-to-programming-using-javascript
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>Cette certification MTA sera retirée le 30 juin 2022. L'examen associé doit être acheté avant le 30 juin 2021, et doit être passé dans un délai d'un an, avant le 30 juin 2022. Reportez-vous à  <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> pour plus de détails.</strong></font></br></br></div>
+  
   Les certifications MTA sont un excellent point de départ si vous souhaitez entrer dans le domaine de la technologie. Les certifications MTA abordent un large spectre de concepts techniques basiques, évaluent et valident votre connaissance technique de base et améliorent votre crédibilité technique. Remarque&#58; Les examens MTA ne permettent pas d'obtenir la certification MCP et ne sont pas obligatoires pour la certification MCSA ou MCSD.
 subTitle: "Les certifications MTA sont un excellent point de départ si vous souhaitez entrer dans le domaine de la technologie. Les certifications MTA abordent un large spectre de concepts techniques basiques, évaluent et valident votre connaissance technique de base et améliorent votre crédibilité technique. Remarque: Les examens MTA ne permettent pas d'obtenir la certification MCP et ne sont pas obligatoires pour la certification MCSA ou MCSD."
 levels:
@@ -22,10 +24,10 @@ exams:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [Retransmission de l'examen]
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

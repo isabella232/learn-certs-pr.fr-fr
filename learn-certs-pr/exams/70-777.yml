@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-777
 displayName: 70-777
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Les candidats à cet examen sont des développeurs et des architectes qui tirent parti de Azure Cosmos DB. Les candidats doivent comprendre les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour créer et configurer des applications évolutives d'une Cosmos DB API. Les candidats doivent également avoir une connaissance de base de Cosmos DB SQL API.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Les candidats à cet examen sont des développeurs et des architectes qui tirent parti de Azure Cosmos DB. Les candidats doivent comprendre les concepts fondamentaux du partitionnement, de la réplication et de la gouvernance des ressources pour créer et configurer des applications évolutives d'une Cosmos DB API. Les candidats doivent également avoir une connaissance de base de Cosmos DB SQL API.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Répliquer mondialement les données
 - Optimisation et débogage des solutions Azure Cosmos DB
 - Effectuer l’intégration et développer des solutions.
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

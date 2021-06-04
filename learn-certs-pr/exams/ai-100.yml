@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, SERA DISPONIBLE LE 23 FÉVRIER 2021. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque&#58; les examens expirent à 23h59, heure normale centrale.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, EST DISPONIBLE. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque: les examens sont retirés à 23 h 59, Heure Centrale Standard.</strong></font><br/><br/></div>
   <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 20 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [Retransmission de l'examen]
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

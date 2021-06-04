@@ -6,9 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Les candidats à cet examen sont des administrateurs de bases de données et des spécialistes en gestion des données qui gèrent des bases de données relationnelles sur site et dans le cloud développéess avec Microsoft SQL Server et Microsoft Azure Data Services.
 
@@ -22,6 +20,7 @@ summary: |-
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier et mettre œuvre des ressources de plateformes de données; implémenter un environnement sécurisé; surveiller et optimiser les ressources d’exploitation; optimiser la performance des requêtes; effectuer une automatisation des tâches; planifier et implémenter un environnement de haute disponibilité et de récupération après sinistre (HADR); et effectuer l’administration à l’aide de T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+practiceTestUrl: https://in.mindhub.com/dp-300-administering-relational-databases-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
@@ -31,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer. 
+- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
 - Planifier et mettre œuvre des ressources de plateformes de données (15-20%)
 - Implémenter un environnement sécurisé (15-20%)
 - Surveiller et optimiser les ressources d’exploitation (15-20%)
@@ -69,10 +68,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

@@ -9,13 +9,18 @@ courseNumber: 'AI-102T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
+- skill: Décrire les considérations relatives au développement d'applications basées sur AI
 - skill: Créer, configurer, déployer et sécuriser Azure Cognitive Services
-- skill: Intégrer les services vocaux
-- skill: Intégrer l'analyse des textes
-- skill: Créer des capacités de compréhension des langues avec LUIS
-- skill: Créer et gérer Azure Cognitive Search solutions
-- skill: Créer des agents intelligents en utilisant le Bot Framework
-- skill: Implémentation de solutions Computer Vision
+- skill: Développer des applications qui analysent du texte
+- skill: Développer des applications basées sur la parole
+- skill: Créer des applications avec des capacités de compréhension du langage naturel
+- skill: Créer des applications QnA
+- skill: Créer des solutions conversationnelles avec des bots
+- skill: Utiliser des services de vision par ordinateur pour analyser des images et des vidéos
+- skill: Créer des modèles personnalisés de vision par ordinateur
+- skill: Développer des applications qui détectent, analysent et reconnaissent les visages
+- skill: Développer des applications qui lisent et traitent le texte dans les images et les documents
+- skill: Créer des solutions de recherche intelligente pour l'exploration des connaissances
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -32,183 +37,205 @@ products:
 exams:
 - uid: exam.ai-100
 summary: |-
-  AI-102 Designing and Implementing an Azure AI Solution est destiné aux développeurs de logiciels qui souhaitent créer des applications d'IA qui utilisent Azure Cognitive Services, Azure Cognitive Search et Microsoft Bot Framework. Le cours utilisera C#, Python ou JavaScript comme langage de programmation.
-
-  #### Profil de l’audience
-  Les ingénieurs en logiciel qui s'occupent de la création, de la gestion et du déploiement de solutions d'IA qui exploitent Azure Cognitive Services, Azure Cognitive Search et Microsoft Bot Framework. Les ingénieurs en logiciel sont familiarisés avec C#, Python ou JavaScript et savent utiliser les API basées sur REST pour créer des solutions de vision par ordinateur, d'analyse de langage, d'exploration des connaissances, de recherche intelligente et d'IA conversationnelle sur Azure.
+  AI-102 Designing and Implementing Azure AI Solution est destiné aux développeurs de logiciels souhaitant créer des applications infusées de AI qui exploitent Azure Cognitive Services, Azure Cognitive Search et Microsoft Bot Framework. Le cours utilisera C# ou Python comme langage de programmation.
+  
+  #### Profil du public
+  Ingénieurs logiciels concernés par la création, la gestion et le déploiement de solutions AI qui exploitent Azure Cognitive Services, Azure Cognitive Search et Microsoft Bot Framework. Ils sont familiers avec C# ou Python et ont des connaissances sur l'utilisation des APIs basées sur REST pour construire des solutions de vision par ordinateur, d'analyse du langage, d'exploration des connaissances, de recherche intelligente et de AI conversationnelle sur Azure.
 prerequisitesSection: |-
-  Connaissance de Microsoft Azure et capacité à naviguer sur le portail Azure
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Connaissance de Microsoft Azure et capacité à naviguer sur le portail Azure.
+  - Connaissance de C# ou de Python
+  - Connaissance de la sémantique de programmation JSON et REST
   
-  Connaissance de C#, Python ou JavaScript
+  TPour acquérir des compétences en C# ou en Python, suivez le parcours d'apprentissage gratuit [Faites vos premiers pas avec C#](/learn/paths/csharp-first-steps/) ou  [Faites vos premiers pas avec Python](/learn/paths/python-first-steps/) avant de suivre le cours.
+  
+  If you are new to artificial intelligence, and want an overview of AI capabilities on Azure, consider completing the [Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) certification before taking this one.
 outlineSection: |-
-  ### Module 1&#58; Créer et gérer les services cognitifs Azure
-  Avant d'accéder à l'une des fonctionnalités des services cognitifs sur Azure, vous devrez créer une ressource de services cognitifs. L'utilisation des différents services (parole, vision par ordinateur, etc.) nécessite, au minimum, une clé d'accès et une URL de point de terminaison du service. Ces informations sont nécessaires pour l'autorisation des applications qui accéderont à ces services. Vous créerez soit une ressource à service unique, soit une ressource à services multiples, en fonction des services auxquels vous accédez.
-  #### Leçons
-  - Créer et gérer des comptes de services cognitifs
-  - Services cognitifs sécurisés
-  - Déployer et consommer des conteneurs de services cognitifs
+  ### Module 1&#58; Introduction à AI sur Azure
+  L'intelligence artificielle (AI) est de plus en plus au cœur des applications et services modernes. Dans ce module, vous découvrirez certaines capacités AI courantes que vous pouvez exploiter dans vos applications, et comment ces capacités sont mises en œuvre dans Microsoft Azure. Vous découvrirez également certains aspects à prendre en compte pour concevoir et mettre en œuvre des solutions AI de manière responsable.
+  #### Cours
+  - Introduction à l'intelligence artificielle
+  - Intelligence artificielle dans Azure
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les considérations relatives à la création d'applications basées sur AI
+  - Identifier les services Azure pour le développement d'applications AI
+  
+  
+  ### Module 2&#58; Développer des applications AI avec des services cognitifs
+  Les services cognitifs sont les éléments de base pour intégrer des capacités AI dans vos apps. Dans ce module, vous apprendrez à provisionner, sécuriser, surveiller et déployer des services cognitifs.
+  #### Cours
+  - Démarrer avec des services cognitifs
+  - Utilisation de services cognitifs pour les applications d'entreprise
+  
+  #### Lab &#58; Démarrer avec des services cognitifs
 
-  #### Laboratoire &#58; Créer une ressource de service cognitif Azure
-  - Créer une ressource de service cognitif Azure
-  - Clés d'accès
-  - Utiliser le suivi des diagnostics
-  
-  #### Laboratoire &#58; Sécuriser les services cognitifs Azure
-  - Des clés sécurisées grâce à la chambre forte Azure Key
-  
-  #### Laboratoire &#58; Conteneuriser les services cognitifs Azure
-  - Créer des conteneurs pour la réutilisation
-  - Déploiement dans un conteneur
-  - Consommer des services cognitifs à partir d'un conteneur
+  #### Lab &#58; Gérer la sécurité des services cognitifs
 
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Créer et accéder aux ressources d'Azure Cognitive Services
-  - Sécuriser les ressources cognitives d’Azure
-  - Déployer et consommer les services cognitifs Azure à l'aide de conteneurs
-  
-  
-  ### Module 2&#58; Mettre en œuvre des solutions de vision par ordinateur
-  Apprenez à intégrer l'IA visuelle dans vos applications grâce à l'utilisation de la vision par ordinateur Azure. Détectez et identifiez des visages ou des objets dans des images et des vidéos, effectuez la détection d'objets, classifiez des images et mettez en œuvre des solutions de vision personnalisées.
-  #### Leçons
-  - Identifier les visages et les expressions en utilisant l'API de vision par ordinateur
-  - Traitement des images avec le service de vision par ordinateur
-  - Évaluer les exigences pour la mise en œuvre des API de la vision personnalisée
-  - Classifier les images avec le service de vision CUstomg de Microsoft
-  - Extraire des vidéos avec le service d'indexation des vidéos
+  #### Lab &#58; Surveillance des services cognitifs
 
-  #### Laboratoire &#58; Détecter les visages
-  - Obtenir les clés d'abonnement
-  - Test de détection des visages
+  #### Labo &#58; Utiliser un conteneur de services cognitifs
   
-  #### Laboratoire &#58; Créer un service de vision personnalisé
-  - Créer un service
-  - Télécharger les images marquées
-  - Modèle de train
-  - Modèle de test
-  - Point final de la prédiction d'appel
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Fournir et consommer des services cognitifs dans Azure
+  - Gérer la sécurité des services cognitifs
+  - Surveiller les services cognitifs
+  - Utiliser un conteneur de services cognitifs
   
-  #### Laboratoire &#58; Extrait de vidéos avec l'indexeur de vidéos
-  - S'abonner à l'API de l'indexeur vidéo
-  - Télécharger et indexer les images
-  - Examiner les résultats
-  - Trouver des moments en vidéo
-  - Consulter et modifier Insights
+  
+  ### Module 3&#58; S'initier au traitement du langage naturel
+  Le traitement du langage naturel (NLP) est une branche de l'intelligence artificielle qui consiste à extraire des informations du langage écrit ou parlé. Dans ce module, vous apprendrez à utiliser les services cognitifs pour analyser et traduire du texte.
+  #### Cours
+  - Analyse du texte
+  - Traduire un texte
+  
+  #### Lab &#58; Analyse du texte
 
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Mettre en œuvre des solutions de vision par ordinateur pour la détection des visages et des objets
-  - Traiter les images avec le service de vision par ordinateur
-  - Mettre en œuvre des solutions de vision personnalisée
-  - Extraire des informations de fichiers vidéo avec le service Video Indexer
+  #### Lab &#58; Traduire un texte
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser le service cognitif d'analyse de texte pour analyser du texte
+  - Utilisez le service cognitif de traduction pour traduire un texte
+  
+  
+  ### Module 4&#58; Création d'applications vocales
+  De nombreux services et applications modernes acceptent les entrées vocales et peuvent répondre en synthétisant du texte. Dans ce module, vous poursuivrez votre exploration des capacités de traitement du langage naturel en apprenant à créer des applications vocales.
+  #### Cours
+  - Reconnaissance et synthèse de la parole
+  - Traduction de la parole
+  
+  #### Lab &#58; Reconnaître et synthétiser la parole
 
+  #### Lab &#58; Traduire la parole
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser le service cognitif de la parole pour reconnaître et synthétiser la parole
+  - Utilisez le service cognitif vocal pour traduire la parole
+  
+  
+  ### Module 5&#58; Création de solutions de compréhension du langage
+  Pour créer une application capable de comprendre et de répondre intelligemment aux entrées en langage naturel, vous devez définir et former un modèle de compréhension du langage. Dans ce module, vous apprendrez à utiliser le modèle de compréhension du langage. 
+  Service de compréhension pour créer une application capable d'identifier l'intention de l'utilisateur à partir d'une entrée en langage naturel.
+  #### Cours
+  - Création d'une application de compréhension de la langue
+  - Publication et utilisation d'une application de compréhension du langage
+  - Utiliser la compréhension du langage avec la parole
 
-  ### Module 3&#58; Mettre en œuvre des solutions d'analyse linguistique
-  Apprenez à mettre en œuvre la fonctionnalité du langage naturel dans vos applications grâce à l'intégration du service de compréhension linguistique. Découvrez les intentions de vos utilisateurs grâce à des fonctions d'analyse de texte telles que l'analyse des sentiments et la détection de la langue. Identifier les informations importantes dans les fichiers texte grâce aux capacités d'extraction d'entités et de phrases clés.
-  #### Leçons
-  - Ajoutez l'intelligence conversationnelle de base à votre application en utilisant la compréhension des langues
-  - Gérer votre service de compréhension linguistique
-  - Utilisez des conteneurs pour votre service de compréhension linguistique
-  - Découvrez le sentiment dans les textes grâce à l'API d'analyse de textes
-  - Reconnaître les entités dans le texte avec l'API d'analyse de texte
-  - Extraire les phrases clés d'un texte avec l'API d'analyse de texte
-  - Détecter le langage avec l'API d'analyse de texte
+  #### Lab &#58; Créer une application de compréhension du langage
 
-  #### Laboratoire &#58; Mettre en œuvre le service de compréhension linguistique
-  - Créer un service de compréhension linguistique
-  - Travailler avec des intentions
-  - Travailler avec les énoncés
-  - Travailler avec les entités
-  - Former et publier un modèle
+  #### Labo &#58; Créer une application client de compréhension du langage
+
+  #### Lab &#58; Utiliser les services de compréhension de la parole et du langage
   
-  #### Laboratoire &#58; Gérer votre service de compréhension linguistique
-  - Gérer vos clés
-  - Gérer les versions
-  - Automatisation des scripts
-  
-  #### Laboratoire &#58; Contenir la compréhension des langues
-  - Installer et faire fonctionner les conteneurs
-  
-  #### Laboratoire &#58; Effectuer une analyse des sentiments
-  - Tester l'analyse du sentiment avec la console de test API
-  - Créer une application de fonction
-  - Appelez l'API d'analyse du sentiment à partir d'une fonction
-  - Trier les messages
-  
-  #### Laboratoire &#58; Effectuer la reconnaissance de l'entité
-  - Extraire les entités du texte
-  
-  #### Laboratoire &#58; Effectuer l'extraction des phrases clés
-  - Extraire les phrases clés du texte
-  
-  #### Laboratoire &#58; Effectuer la détection de la langue
-  - Détecter la langue dans le texte
-  
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Mettre en place et gérer un service de compréhension linguistique
-  - Mettre en œuvre la compréhension linguistique dans un environnement de conteneurs
-  - Détecter le sentiment dans le texte
-  - Reconnaître des entités et extraire des phrases clés dans un texte
-  - Détecter la langue dans le texte
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer une application pour la compréhension des langues
+  - Créer une application client pour la compréhension du langage
+  - Intégrer la compréhension du langage et la parole
   
   
-  ### Module 4&#58; Mettre en œuvre des solutions d'exploitation des connaissances
-  Azure Cognitive Search fournit une solution basée sur le cloud pour indexer et interroger un large éventail de sources de données, et créer des solutions de recherche complètes et à grande échelle. Lean pour mettre en œuvre une solution dans laquelle les documents sont indexés et rendus faciles à rechercher.
-  #### Leçons
-  - Créer une solution Azure Cognitive Search
-  - Créer un pipeline d'enrichissement avec Azure Cognitive Search
-  - Créer un magasin de connaissances avec Azure Cognitive Search
+  ### Module 6&#58; Construire une solution QnA 
+  L'un des types d'interaction les plus courants entre les utilisateurs et les agents logiciels de AI consiste pour les utilisateurs à soumettre des questions en langage naturel, et pour l'agent AI à répondre intelligemment avec une réponse appropriée. Dans ce module, vous découvrirez comment le service QnA Maker permet de développer ce type de solution.
+  #### Cours
+  - Créer une base de connaissances QnA
+  - Publier et utiliser une base de connaissances QnA
+
+  #### Lab &#58; Créer une solution QnA 
   
-  #### Laboratoire &#58; Créer une solution Azure Cognitive Search
-  - Créer une ressource Azure pour la recherche
-  - Créer une source de données
-  - Créer un index
-  - Créer et exécuter un indexeur
-  - Recherche et index
-  - Appliquer le filtrage et le tri
-  - Améliorer l'index
-  
-  #### Laboratoire &#58; Créer un pipeline d'enrichissement
-  - Créer une ressource Azure
-  - Créer une source de données
-  - Créer un ensemble de compétences
-  - Créer un index
-  - Créer et exécuter un indexeur
-  - Rechercher dans l'index enrichi
-  - Créer une compétence personnalisée
-  - Mise à jour de l'index
-  - Rechercher dans l'index mis à jour
-  
-  #### Laboratoire &#58; Créer un magasin de connaissances
-  - Créer des ressources Azure
-  - Créer une source de données
-  - Créer un ensemble de compétences
-  - Créer un index
-  - Créer et exécuter un indexeur
-  - Explorez un magasin de connaissances
-  
-  À l'issue de ce module, les étudiants seront en mesure de&#58;
-  - Créer une solution de recherche cognitive Azure
-  - Créer un pipeline d'enrichissement avec Azure Cognitive Search
-  - Créer un magasin de connaissances avec Azure Cognitive Search
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser QnA Maker pour créer une base de connaissances
+  - Utiliser une base de connaissances QnA dans une application ou un robot
   
   
-  ### Module 5&#58; Mettre en œuvre des solutions d'IA conversationnelle
-  Utiliser le Microsoft Bot Framework et le Bot Framework Composer pour concevoir et créer des solutions d'IA conversationnelle.
-  #### Leçons
-  - Construire un chat bot dans le portail Azure
-  - Concevoir un Bot de flux de conversation 
-  - Créer un bot avec Bot Framework Composer
+  ### Module 7&#58; AI conversationnelle et Azure Bot Service
+  Les bots sont la base d'un type d'application AI de plus en plus courant dans lequel les utilisateurs engagent des conversations avec des agents AI, souvent comme ils le feraient avec un agent humain. Dans ce module, vous explorerez Microsoft Bot Framework et Azure Bot Service, qui constituent ensemble une plateforme pour créer et fournir des expériences conversationnelles.
+  #### Cours
+  - Les bases du bot
+  - Mise en œuvre d'un robot conversationnel
+
+  #### Lab &#58; Créer un robot avec le Bot Framework SDK
+
+  #### Lab &#58; Créer un bot avec Bot Framework Composer
   
-  #### Laboratoire &#58; Créer un Bot avec le portail Azure
-  - Créer un Bot basique avec le portail Azure
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser le Bot Framework SDK pour créer un bot
+  - Utiliser le Bot Framework Composer pour créer un bot
   
-  #### Laboratoire &#58; Créer un bot avec Bot Framework Compose
-  - Créer un bot avec Bot Framework Compose
-  - Ajouter de l'aide et annuler une fonctionnalité
-  - Intégrer la génération linguistique
-  - Cartes d'utilisation
-  - Intégrer la compréhension des langues
   
-  À l'issue de ce module, les étudiants seront en mesure de &#58;
-  - Créer un robot de base dans le portail Azure
-  - Concevoir un flux conversationnel pour un Bot
-  - Créer un Bot à l'aide du Bot Framework Composer
+  ### Module 8&#58; Débuter avec la vision par ordinateur
+  La vision par ordinateur est un domaine de l'intelligence artificielle dans lequel les applications logicielles interprètent les données visuelles des images ou des vidéos. Dans ce module, vous commencerez votre exploration de la vision par ordinateur en apprenant à utiliser les services cognitifs pour analyser des images et des vidéos.
+  #### Cours
+  - Analyse des images
+  - Analyse des vidéos
+  
+  #### Lab &#58; Analyser les images avec la vision par ordinateur
+  
+  #### Lab &#58; Analysez la vidéo avec Video Indexer
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utilisez le service Computer Vision pour analyser les images
+  - Utilisez Video Indexer pour analyser les vidéos
+  
+  
+  ### Module 9&#58; Développer des solutions de vision personnalisées
+  Bien qu'il existe de nombreux scénarios dans lesquels les capacités générales prédéfinies de vision par ordinateur peuvent être utiles, vous avez parfois besoin d'entraîner un modèle personnalisé avec vos propres données visuelles. Dans ce module, vous découvrirez le service Custom Vision et comment l'utiliser pour créer des modèles personnalisés de classification d'images et de détection d'objets.
+  
+  #### Cours
+  - Classification des images
+  - Détection d'objets
+  
+  #### Lab &#58; Classifier les images avec Custom Vision
+  
+  #### Lab &#58; Détecter des objets dans des images avec Custom Vision
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utilisez le service Custom Vision pour mettre en œuvre la classification des images
+  - Utilisez le service Custom Vision pour mettre en œuvre la détection d'objets
+  
+  
+  ### Module 10&#58; Détection, analyse et reconnaissance des visages
+  La détection, l'analyse et la reconnaissance des visages sont des scénarios de vision par ordinateur courants. Dans ce module, vous explorerez l'utilisation des services cognitifs pour identifier les visages humains.
+  
+  #### Cours
+  - Détection des visages avec le service de vision par ordinateur
+  - Utilisation du service Visage
+  
+  #### Lab &#58; Détecter, analyser et reconnaître des visages
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Détecter les visages avec le service Vision par ordinateur
+  - Détection, analyse et reconnaissance des visages avec le service Visage
+  
+  
+  ### Module 11&#58; Lire du texte dans des images et des documents
+  La reconnaissance optique de caractères (OCR) est un autre scénario de vision par ordinateur courant, dans lequel un logiciel extrait du texte d'images ou de documents. Dans ce module, vous explorerez les services cognitifs qui peuvent être utilisés pour détecter et lire du texte dans des images, des documents et des formulaires.
+  #### Cours
+  - Lecture de texte avec le service de vision par ordinateur
+  - Extraction d'informations à partir de formulaires avec le service Reconnaissance de formulaires
+  
+  #### Lab &#58; Lire le texte dans les images
+  
+  #### Lab &#58; Extraire des données des formulaires
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utilisez le service de vision par ordinateur pour lire du texte dans des images et des documents.
+  - Utilisez le service de reconnaissance de formulaires pour extraire des données de formulaires numériques.
+  
+  
+  ### Module 12&#58; Création d'une solution d'extraction de connaissances
+  En fin de compte, de nombreux scénarios AI impliquent la recherche intelligente d'informations en fonction des requêtes des utilisateurs. L'exploration des connaissances alimentée par AI est un moyen de plus en plus important de créer des solutions de recherche intelligente qui utilisent AI pour extraire des informations de grands dépôts de données numériques et permettre aux utilisateurs de trouver et d'analyser ces informations.
+  
+  #### Cours
+  - Mise en œuvre d'une solution de recherche intelligente
+  - Développer des compétences personnalisées pour un pipeline d'enrichissement
+  - Création d'un magasin de connaissances
+  
+  #### Lab &#58; Créer une solution Azure Cognitive Search
+  
+  #### Lab &#58; Créer une compétence personnalisée pour Azure Cognitive Search
+  
+  #### Lab &#58; Créer un magasin de connaissances avec Azure Cognitive Search
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer une solution de recherche intelligente avec Azure Cognitive Search
+  - Implémenter une compétence personnalisée dans un pipeline d'enrichissement Azure Cognitive Search
+  - Utiliser Azure Cognitive Search pour créer un magasin de connaissances.

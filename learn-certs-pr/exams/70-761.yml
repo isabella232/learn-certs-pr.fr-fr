@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-761
 displayName: 70-761
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Cet examen est destiné aux administrateurs de bases de données SQL Server, aux ingénieurs de système et aux développeurs possédant deux années ou plus d'expérience qui cherchent à valider leurs compétences et leurs connaissances dans le domaine de l'écriture de requêtes.
 subTitle: Cet examen est destiné aux administrateurs de bases de données SQL Server, aux ingénieurs de système et aux développeurs possédant deux années ou plus d'expérience qui cherchent à valider leurs compétences et leurs connaissances dans le domaine de l'écriture de requêtes.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:
@@ -24,6 +21,7 @@ skills:
 - Gestion des données avec Transact-SQL (40-45%)
 - Interrogation des données avec les composants avancés Transact-SQL (30-35%)
 - Programmation des bases de données avec Transact-SQL (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

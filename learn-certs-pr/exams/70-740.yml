@@ -6,20 +6,17 @@ metadata:
 uid: exam.70-740
 displayName: 70-740
 summary: |-
-  <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
 
   Les candidats à cet examen sont impliqués dans l'installation, le stockage et les fonctionnalités de calcul disponibles dans Windows Server 2016. Les candidats effectuent des tâches d'installation générales ainsi que la création et la gestion des images pour le déploiement.
 
   Les candidats doivent avoir une expérience avec des solutions de stockage locales et sur serveur, y compris la configuration des disques et volumes, la déduplication de données, la haute disponibilité, la reprise après sinistre, Storage Spaces Direct et le clustering avec basculement. Les candidats doivent également se familiariser avec la gestion de la technologie Hyper-V et des conteneurs, ainsi que le maintien et la surveillance des serveurs dans des environnements physiques et de calcul.
 
-  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 13 mars 2019. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 740.</div>
+  <div><strong><br/>Remarque&#58; Il y a des mises à jour des examens à partir du 13 mars 2019. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen 740.</strong></div>
 subTitle: Les candidats à cet examen sont impliqués dans l'installation, le stockage et les fonctionnalités de calcul disponibles dans Windows Server 2016. Les candidats effectuent des tâches d'installation générales ainsi que la création et la gestion des images pour le déploiement.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
 practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
 locales:
 - en
 - es
@@ -38,6 +35,7 @@ skills:
 - Mise en œuvre de conteneurs Windows (5-10%)
 - Mettre en œuvre une haute disponibilité (30-35%)
 - Maintien et surveillance des environnements de serveur (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -60,4 +58,3 @@ resources:
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: ../certification-exam-policies.md
-

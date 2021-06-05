@@ -24,7 +24,7 @@ skillsGained:
 - skill: Effectuer un traitement de flux en temps réel avec Azure Synapse Analytics
 - skill: Créer une solution de traitement en continu avec Stream Analytics
 - skill: Créer une solution de traitement en continu avec Event Hubs et Azure Databricks
-- skill: Créer des rapports en utilisant l'intégration Power BI avec Azure Synapse Analytics
+- skill: Créer des rapports en utilisant l'intégration Power BI avec Azure Synpase Analytics
 - skill: Exécuter des processus d'apprentissage automatique intégrés dans Azure Synapse Analytics
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -321,12 +321,12 @@ outlineSection: |-
   - Traiter les données en streaming avec Azure Databricks structured streaming
   
   
-  ### Module 16&#58; Créer des rapports en utilisant l'intégration Power BI avec Azure Synapse Analytics
+  ### Module 16&#58; Créer des rapports en utilisant l'intégration Power BI avec Azure Synpase Analytics
   Dans ce module, l'étudiant apprendra à intégrer Power BI à son espace de travail Synapse pour créer des rapports dans Power BI. L'étudiant créera une nouvelle source de données et un rapport Power BI dans Synapse Studio. Il apprendra ensuite à améliorer les performances des requêtes grâce aux vues matérialisées et à la mise en cache des ensembles de résultats. Enfin, l'étudiant explorera le lac de données avec des pools SQL sans serveur et créera des visualisations sur ces données dans Power BI.
   #### Cours
   - Créer des rapports avec Power BI en utilisant son intégration avec Azure Synapse Analytics.
   
-  #### Lab &#58; Créer des rapports avec Power BI en utilisant son intégration avec Azure Synapse Analytics
+  #### Lab &#58; Créer des rapports avec Power BI en utilisant son intégration avec Azure Synpase Analytics
   - Intégrer un espace de travail Azure Synapse et Power BI
   - Optimiser l'intégration avec Power BI
   - Améliorer les performances des requêtes avec les vues matérialisées et la mise en cache des ensembles de résultats.

@@ -2,27 +2,27 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: Les ingénieurs DevOps conçoivent et mettent en œuvre des stratégies pour la collaboration, le code, l'infrastructure, le contrôle des sources, la sécurité, la conformité, l'intégration continue, les tests, la livraison, la surveillance et le retour d'information.
+  description: "Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback."
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  Les candidats à la certification DevOps Engineer Expert doivent avoir des connaissances spécialisées pratiques avec les gens, les processus, et les technologies, afin de livrer une valeur métier continue.
+  I candidati alla certificazione DevOps Engineer Expert devono avere esperienza in materia di lavoro con persone, processi e tecnologie per fornire continuamente valore aziendale.
 
-  Les responsabilités de ce rôle incluent la conception et l’implémentation de stratégies pour la collaboration, le code, l’infrastructure, le code, l’infrastructure, le contrôle des sources, la sécurité, la conformité, l’intégration continue, les essais, la livraison, le monitoring et le retour d’information.
+  Le responsabilità per questo ruolo includono la progettazione e l'implementazione di strategie di collaborazione, codice, infrastruttura, controllo del codice sorgente, sicurezza, conformità, integrazione continua, test, consegna, monitoraggio e feedback.
 
-  Le candidat à cette certification doit être à la fois familier avec l’administration et le développement Azure et doit être expert dans au moins l’un de ces domaines.
-subTitle: Les ingénieurs DevOps conçoivent et mettent en œuvre des stratégies pour la collaboration, le code, l'infrastructure, le contrôle des sources, la sécurité, la conformité, l'intégration continue, les tests, la livraison, la surveillance et le retour d'information.
+  Il candidato a questa certificazione deve avere familiarità sia con l'amministrazione sia con lo sviluppo di Azure ed essere esperto in almeno una di queste aree.
+subTitle: Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback.
 levels:
 - advanced
 skills:
-- Développer une stratégie d’instrumentation.
-- Développer une stratégie d’ingénierie SRE (Site Reliability Engineering).
-- Développer un plan de sécurité et de conformité.
-- Gérer le contrôle des sources.
-- Faciliter la communication et la collaboration.
-- Définir et implémenter l’intégration continue.
-- Définir et implémenter une livraison continue et une stratégie de gestion des publications.
+- Sviluppare una strategia di strumentazione
+- Sviluppare una strategia di Site Reliability Engineering (SRE)
+- Sviluppare un piano di sicurezza e conformità
+- Gestire il controllo delle fonti
+- Facilitare la comunicazione e la collaborazione
+- Definire e implementare l’integrazione continua
+- Definire e implementare una strategia di consegna e gestione del rilascio continua
 roles:
 - devops-engineer
 type: role-based
@@ -50,28 +50,28 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 exams:
 - uid: exam.az-400
 resources:
-- title: Azure certifications poster
-  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Parcours vers la certification
-  description: Explorez les étapes d’obtention d’une certification DevOps Engineer Expert ainsi que les ressources disponibles pour vous aider à vous préparer.
+- title: Viaggio verso la certificazione
+  description: Analizza i passaggi per ottenere la certificazione di DevOps Engineer Expert e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
-- title: Guide de formation et de certification
-  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://aka.ms/TrainingCertDeck
-- title: Affiche de la certification
-  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://aka.ms/traincertposter
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
-- title: Aide à la certification
-  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Tableau de bord des certifications
-  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Partagez vos badges de certification
-  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
   href: ../badges.md
 

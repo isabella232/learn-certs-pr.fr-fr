@@ -7,7 +7,7 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
+  <div><font color='red'><strong>Le guide des examens ci-dessous présente les changements qui seront mis en œuvre le 25 mai 2021.</strong></font><br/><br/></div>
   </div>
 
   L’administrateur des Microsoft Teams configure, déploie et gère les charges de travail Office 365 pour les Microsoft Teams qui mettent l’accent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le guide des examens ci-dessous présente les changements qui seront mis en œuvre le 25 mai 2021.
 - Planifier et configurer un environnement Microsoft Teams (45-50%)
 - Gérer des conversations, des appels et des réunions (30-35%)
 - Gérer des règlements de Teams et d'applications (20-25%)
@@ -52,10 +52,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

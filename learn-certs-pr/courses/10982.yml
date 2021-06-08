@@ -1,0 +1,272 @@
+### YamlMime:Course
+title: Supporting and Troubleshooting Windows 10
+metadata:
+  title: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+  description: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+uid: course.10982
+courseNumber: '10982-E'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les processus impliqués dans la planification et l'utilisation d'une méthodologie de dépannage pour Windows 10.
+- skill: Dépanner les problèmes de démarrage et les services du système d'exploitation sur Windows 10 PC.
+- skill: Effectuer la restauration du système.
+- skill: Résoudre les problèmes liés aux périphériques matériels et aux pilotes de périphériques.
+- skill: Administrer les périphériques Windows 10.
+- skill: Résoudre les problèmes liés à la connectivité du réseau.
+- skill: Configurer les périphériques Windows 10 en utilisant la stratégie de groupe.
+- skill: Configurer et dépanner les paramètres utilisateur.
+- skill: Configurer et dépanner l'accès aux ressources.
+- skill: Mettre en œuvre la connectivité à distance.
+- skill: Déployer et dépanner les applications.
+- skill: Maintenir les appareils  Windows 10.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Il s'agit d'un cours ILT de 5 jours qui est conçu pour fournir aux étudiants les connaissances et les compétences nécessaires pour soutenir et dépanner les Windows 10 PCs et les périphériques dans un environnement de domaine Windows Server. Ces compétences comprennent la compréhension des fonctionnalités de Windows 10, la façon dont elles peuvent être utilisées dans un environnement Active Directory et la façon de les dépanner.
+
+  #### Profil du public
+  L'audience principale de ce cours est le technicien de support de bureau d'entreprise (EDST), qui fournit un support de niveau 2 aux utilisateurs exécutant des ordinateurs personnels (PC) et des périphériques Windows 10 dans des organisations de moyenne à grande entreprise, dans un environnement de domaine Windows. Les EDSTs se concentrent sur un large éventail de problèmes techniques pour les systèmes d'exploitation (OS), les périphériques, les services cloud, les applications, la mise en réseau et le support matériel de Windows. Dans le scénario général, si une entreprise offre le service, le EDST est chargé de le prendre en charge.
+  
+  Les principales responsabilités comprennent la résolution de problèmes techniques relatifs à l'installation et à la migration de Windows 10, l'activation, les performances, les profils, les paramètres; et la synchronisation des appareils. D'autres responsabilités clés comprennent l'accès au réseau local et distant, l'accès aux applications, l'accès aux données et aux imprimantes, l'authentification, la sécurité et la politique des points d'extrémité, la récupération de OS et des données.
+  
+  Le public secondaire de ce cours est constitué de professionnels IT qui administrent et prennent en charge les ordinateurs de bureau, les périphériques et les utilisateurs Windows 10, ainsi que les ressources réseau et de sécurité associées. Les étudiants qui cherchent à obtenir une certification pour les examens suivants bénéficieront également de ce cours&#58;
+  - 70-697&#58; Configuration des appareils Windows
+  - 70-698&#58; Installation et configuration de Windows 10
+prerequisitesSection: |-
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Principes fondamentaux de la mise en réseau, y compris le protocole de contrôle de transmission et le protocole Internet (TCP/IP), User Datagram Protocol (UDP), et le Domain Name System (DNS). 
+  - Les principes Microsoft Active Directory Domain Services (AD DS). 
+  - Compréhension des composants de l'infrastructure à clé publique (PKI). 
+  - Les fondamentaux Windows Server 2016. 
+  - Les éléments essentiels de Microsoft Windows Client, par exemple, l'expérience de Windows 10 ou les connaissances acquises dans les cours 20697-1 et 20697-2.
+outlineSection: |-
+  ### Module 1&#58; Mise en œuvre d'une méthodologie de dépannage
+  Ce module décrit les nouvelles fonctionnalités et les nouveaux dispositifs du système d'exploitation Windows 10. Il décrit également le processus de développement et d'application d'une méthodologie de dépannage Windows 10.
+  #### Cours
+  - Aperçu de Windows 10
+  - Introduction au rôle de EDST
+  - Aperçu des étapes de dépannage
+  - Outils de dépannage
+
+  #### Lab &#58; Utilisation des outils de dépannage
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire le système d'exploitation Windows 10, les périphériques qu'il prend en charge et l'architecture de Windows 10.
+  - Expliquer la méthodologie de dépannage pour Windows 10.
+  - Décrire les outils de dépannage de Windows 10
+  
+  
+  ### Module 2&#58; Dépannage des problèmes de démarrage
+  Ce module décrit comment identifier et dépanner les problèmes de démarrage qui affectent - et les services problématiques qui s'exécutent sur - un système d'exploitation Windows 10. Ce module présente les problèmes potentiels qui peuvent causer des problèmes de démarrage dans Windows 10. Il fournit également une vue d'ensemble du processus de démarrage de Windows, y compris les éléments suivants Windows Recovery Environment (Windows RE) et Boot Configuration Data (BCD).
+  #### Cours
+  - Vue d'ensemble de Windows 10 Startup Recovery Environment
+  - Configuration du registre
+  - Dépannage des paramètres de démarrage
+  - Récupération des disques protégés par BitLocker
+  
+  #### Lab &#58; Dépannage des problèmes de démarrage
+  - Exploration de Windows RE
+  - Résolution d'un problème de démarrage
+  
+  #### Lab &#58; Récupération de lecteurs cryptés par BitLocker
+  - Récupération d'un lecteur crypté par BitLocker
+  - Création d'un nouveau mot de passe BitLocker
+  
+  Après avoir terminé ce module, vous serez en mesure de &#58;
+  - Décrire comment configurer le registre.
+  - Expliquer comment dépanner les paramètres de démarrage.
+  - Récupérer les lecteurs cryptés avec Windows cryptage de lecteur BitLocker
+  
+  
+  ### Module 3&#58; Exécution de la restauration du système
+  Ce module explique comment résoudre les problèmes liés aux services du système d'exploitation et comment récupérer un ordinateur.
+  #### Cours
+  - Dépannage des problèmes de service du système d'exploitation
+  - Récupération d'un ordinateur
+  
+  #### Lab &#58; Exécution de la restauration du système
+  - Préparation de la restauration du système
+  - Récupération d'un ordinateur
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Dépanner les services du système d'exploitation.
+  - Récupérer un ordinateur qui fonctionne sous Windows 10.
+  
+  
+  ### Module 4&#58; Dépannage du matériel et des pilotes de périphériques
+  Ce module explique comment résoudre les problèmes liés aux pilotes de périphériques et aux périphériques matériels.
+  #### Cours
+  - Dépannage des défaillances des pilotes de périphériques
+  - Vue d'ensemble du dépannage du matériel
+  
+  #### Lab &#58; Dépannage des problèmes de matériel et de pilotes de périphériques
+  - Dépannage d'un pilote de périphérique manquant
+  - Résolution des problèmes de matériel
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Dépanner les défaillances des pilotes de périphériques.
+  - Décrire le processus de dépannage du matériel.
+  
+  
+  ### Module 5&#58; Administration de Windows 10
+  Ce module décrit comment utiliser les différents outils d'administration de Windows 10 pour résoudre les problèmes. Il décrit les caractéristiques et les fonctionnalités d'outils tels que le Centre d'administration Windows, Remote Desktop, Quick Assist et Windows PowerShell.
+  #### Cours
+  - Aperçu des outils d'administration
+  - Utilisation du bureau à distance
+  - Introduction à Windows PowerShell
+  - Remoting avec Windows PowerShell
+  - Introduction au provisionnement
+  
+  #### Lab &#58; Dépannage d'ordinateurs distants grâce au bureau à distance
+  - Utilisation du bureau à distance  
+  #### Lab &#58; Dépannage d'un ordinateur distant en utilisant Windows PowerShell
+  - Utilisation à distance de Windows PowerShell
+  
+  Après avoir terminé ce module, vous serez en mesure de &#58;
+  - Utiliser Remote Desktop pour gérer des ordinateurs distants.
+  - Utiliser les cmdlets et les scripts Windows PowerShell.
+  - Utiliser à distance Windows PowerShell pour gérer des ordinateurs distants.
+  - Mettre en œuvre des packages de provisionnement.
+  
+  
+  ### Module 6&#58; Résolution des problèmes de connectivité réseau
+  Ce module décrit comment identifier les paramètres réseau et résoudre les problèmes liés à la connectivité réseau dans les réseaux câblés et sans fil, à la connectivité IPv4 et IPv6, et à la résolution de noms.
+  #### Cours
+  - Détermination des paramètres réseau
+  - Dépannage de la connectivité réseau
+  - Résolution des problèmes liés à la résolution des noms
+  
+  #### Lab &#58; Résolution des problèmes de connectivité réseau
+  - Configuration des paramètres réseau
+  - Résolution d'un problème de réseau (1)
+  - Résolution d'un problème de réseau (2)
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Déterminer les paramètres du réseau dans Windows 10.
+  - Dépanner les problèmes de connectivité réseau.
+  - Dépanner les problèmes de résolution de nom.
+
+  ### Module 7&#58; Dépannage de la politique de groupe
+  Ce module fournit une vue d'ensemble de l'application de la politique de groupe et décrit comment résoudre les problèmes dans la configuration client de l'application GPO.
+  #### Cours
+  - Aperçu de l'application des stratégies de groupe
+  - Résolution des échecs de configuration du client et des problèmes liés à l'application GPO
+  
+  #### Lab &#58; Résolution des problèmes liés à l'application de la politique de groupe
+  - Travailler avec les GPOs
+  - Résoudre une application de stratégie de groupe (1)
+  - Résolution d'une application de stratégie de groupe (2)
+  - Résolution d'une application de stratégie de groupe (3)
+  
+  #### Lab &#58; Résoudre les problèmes avec la politique de groupe
+  - Résolution de l'application de la politique de groupe (4)
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire comment appliquer les GPOs aux ordinateurs.
+  - Résoudre les échecs de configuration côté client et les problèmes d'application GPO.
+  
+  
+  ### Module 8&#58; Configuration et dépannage des paramètres utilisateur
+  Ce module décrit les problèmes courants d'ouverture de session, comment les détecter et comment les résoudre. Le module fournit également une vue d'ensemble des types de comptes utilisateurs pris en charge par Windows 10 et du fonctionnement de l'authentification pour ces comptes.
+  #### Cours
+  - Dépannage des problèmes de connexion
+  - Dépannage de l'application des paramètres de l'utilisateur
+  
+  #### Lab &#58; Dépannage des problèmes de connexion
+  - Résolution d'un problème de connexion
+  
+  #### Lab &#58; Configuration et dépannage de l'application des paramètres utilisateur
+  - Configuration de UE-V
+  - Configuration de la redirection de dossiers
+  - Résolution d'un problème de redirection de dossiers
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Dépanner les problèmes de connexion des utilisateurs.
+  - Dépanner l'application des paramètres de l'utilisateur.
+  
+  ### Module 9&#58; Configuration et dépannage de l'accès aux ressources
+  Ce module décrit comment résoudre les problèmes liés aux autorisations de fichiers et à l'accès aux imprimantes. Il explique également comment configurer et gérer la synchronisation et la récupération des fichiers dans Windows 10.
+  #### Cours
+  - Dépannage des problèmes de permissions de fichiers
+  - Dépannage des problèmes d'accès aux imprimantes
+  - Configuration et dépannage de la synchronisation des fichiers
+  - Récupération de fichiers sous Windows 10
+  
+  #### Lab &#58; Dépannage des problèmes d'accès aux fichiers
+  - Résolution d'un problème d'accès aux fichiers (1)
+  - Résolution d'un problème d'accès aux fichiers (2)
+  - Résolution d'un problème d'accès aux fichiers (3)
+  
+  #### Lab &#58; Dépannage des problèmes d'imprimante
+  - Résolution d'un problème d'imprimante (1)
+  - Résolution d'un problème d'imprimante (2)
+  
+  #### Lab &#58; Configuration et dépannage de la synchronisation des fichiers
+  - Dépannage des dossiers de travail
+  
+  #### Lab &#58; Récupération des données
+  - Préparation de la récupération des fichiers
+  - Résoudre les problèmes en utilisant les versions précédentes (facultatif)
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Résoudre les problèmes liés aux autorisations de fichiers.
+  - Résoudre les problèmes d'accès aux imprimantes.
+  - Configurer et dépanner la synchronisation des fichiers.
+  - Configurer et dépanner la récupération de fichiers.
+  
+  
+  ### Module 10&#58; Dépannage de la connectivité à distance
+  Ce module fournit une vue d'ensemble de l'accès à distance et décrit comment résoudre les problèmes de connectivité VPN.
+  #### Cours
+  - Aperçu de l'accès à distance
+  - Dépannage des problèmes de connectivité VPN
+  
+  #### Lab &#58; Dépannage de la connectivité VPN
+  - Dépannage de la connectivité VPN - problème 1
+  - Dépannage de la connectivité VPN - problème 2
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire les technologies courantes d'accès à distance.
+  - Dépanner les problèmes de connectivité VPN.
+  
+  
+  ### Module 11&#58; Dépannage des applications
+  Ce module explique comment résoudre les problèmes courants liés au fonctionnement des applications de bureau. Il décrit également les applications Windows universelles, Microsoft Store et Microsoft Store for Business, et explique comment résoudre les problèmes liés aux applications Windows universelles.
+  #### Cours
+  - Dépannage des applications de bureau
+  - Gestion des applications Windows universelles
+  
+  #### Lab &#58; Dépannage des applications de bureau
+  - Dépannage des applications de la politique AppLocker
+  - Dépannage des problèmes de compatibilité des applications
+  
+  #### Lab &#58; Provisionnement d'un dispositif kiosque
+  - Créer un package de provisionnement
+  - Appliquer un package de provisionnement
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Dépanner les applications de bureau.
+  - Gérer les applications Windows universelles.
+  
+  
+  ### Module 12&#58; Maintenance de Windows 10
+  Ce module décrit comment résoudre les problèmes de performance dans Windows 10. Il explique également comment appliquer et dépanner les mises à jour de Windows.
+  #### Cours
+  - Surveillance et dépannage des performances de l'ordinateur
+  - Appliquer les mises à jour de Windows
+  
+  #### Lab &#58; Maintenance de Windows 10
+  - Utilisation de Performance Monitor
+  - Configuration des paramètres de mise à jour de Windows
+  
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Contrôler et dépanner les performances de Windows 10.
+  - Mettre à jour les applications et Windows 10.

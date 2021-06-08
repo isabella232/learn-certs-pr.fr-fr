@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).
+  Si vous êtes un consultant fonctionnel responsable de la configuration et de la mise en œuvre des solutions Dynamics 365 pour les clients, vous êtes un bon candidat pour cette certification, qui peut mettre en valeur vos compétences et contribuer à faire progresser votre carrière. Un consultant fonctionnel Dynamics 365 Field Service est responsable de la mise en œuvre de solutions qui gèrent les ressources qui complètent le cycle de vie du service sur le terrain. En tant que consultant fonctionnel, vous savez comment travailler avec des chefs de projet, des développeurs et des architectes de solutions. Vous devez avoir un minimum d'un à trois ans d'expérience en tant que consultant fonctionnel mettant en œuvre Dynamics 365.
+  
+  Si vous avez besoin de plus d'expérience avant de tenter d'obtenir cette certification, voici quelques suggestions&#58;
+  - Travaillez en tant que consultant fonctionnel Dynamics 365 sur quelques projets.
+  - Travaillez sur une implémentation de Dynamics 365 Field Service.
+  - Rejoignez la communauté sur [community.dynamics.com](https://community.dynamics.com/).
+  - Suivez les parcours d'apprentissage disponibles sur [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service).
+  - Effectuez davantage de travaux pratiques.
+  - Inscrivez-vous à un cours de formation avec instructeur
 subTitle: Les Microsoft Dynamics 365 Field Service Functional Consultant sont responsables de la configuration de l’application de service sur site, de la mise en œuvre de solutions qui gèrent le cycle de vie du service sur site et du déploiement de la solution de service sur site connecté (IoT).
 levels:
 - intermediate
@@ -61,7 +69,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X

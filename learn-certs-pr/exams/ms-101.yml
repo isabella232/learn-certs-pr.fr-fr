@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
   
@@ -22,9 +22,9 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.
-- Implémenter les services des périphériques modernes (30-35%)
-- Implémenter la gestion de la sécurité et des menaces de Microsoft 365 (30-35%)
+- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Implémenter les services des périphériques modernes (40-45%)
+- Implémenter la gestion de la sécurité et des menaces de Microsoft 365 (20-25%)
 - Gérer la gouvernance et la conformité de Microsoft 365 (35-40%)
 roles:
 - administrator
@@ -53,10 +53,10 @@ relatedCertifications:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
   
@@ -14,7 +14,7 @@ summary: |-
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
@@ -22,11 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 24 février 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
 - Concevoir et implémenter les services Microsoft 365 (25-30%)
-- Gérer l’identité et les rôles des utilisateurs (35-40%)
-- Gérer l’accès et l’authentification (20-25%)
-- Planifier les charges de travail et les applications Office 365 (10-15%)
+- Gérer l’identité et les rôles des utilisateurs (25-30%)
+- Gérer l’accès et l’authentification (15-20%)
+- Planifier les charges de travail et les applications Office 365 (25-30%)
 roles:
 - administrator
 products:
@@ -49,10 +49,10 @@ relatedCertifications:
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

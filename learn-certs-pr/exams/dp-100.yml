@@ -6,9 +6,7 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div>
-  <div><strong>'Le contenu de cet examen a été mis à jour le 8 décembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 20 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure. Cela implique la planification et la création d’un environnement de travail propice aux charges de travail de la science des données sur Azure, l’exécution d’expériences de données et la formation de modèles prédictifs, la gestion et l’optimisation des modèles, et le déploiement des modèles d’apprentissage automatiques dans la production.
 
@@ -26,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 8 décembre 2020. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 20 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
 - Mettre en place un espace de travail Azure Machine Learning (30-35%)
 - Exécuter des expériences et former les modèles (25-30%)
 - Optimiser et gérer les modèles (20-25%)
@@ -53,10 +51,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

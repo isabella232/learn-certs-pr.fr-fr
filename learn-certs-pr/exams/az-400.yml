@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées pratiques avec les gens, les processus, et les technologies, afin de livrer une valeur métier continue.
 
@@ -18,7 +16,7 @@ summary: |-
 subTitle: 'Cet examen mesure votre aptitude à accomplir les tâches techniques suivantes: développer une stratégie d’instrumentation, développer une stratégie d’ingénierie SRE (Site Reliability Engineering), développer un plan de sécurité et de conformité, gérer le contrôle des sources, faciliter la communication et la collaboration, définir et implémenter l’intégration continue, et définir et implémenter une livraison continue et une stratégie de gestion des publications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
@@ -28,7 +26,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 27 janvier 2021. Veuillez télécharger le descriptif des compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
 - Développer une stratégie d’instrumentation (5 à 10%) 
 - Développer une stratégie d’ingénierie SRE (Site Reliability Engineering) (5 à 10%)
 - Développer un plan de sécurité et de conformité (10 à 15%)
@@ -62,10 +60,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md

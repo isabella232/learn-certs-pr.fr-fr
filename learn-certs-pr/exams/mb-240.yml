@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div><strong>Le contenu de cet examen a été mis à jour le 15 janvier 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 26 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   
   Les candidats à cet examen sont des consultants fonctionnels Microsoft Dynamics 365 Customer Engagement avec une expertise de service de terrain. Les candidats sont chargés de mettre en œuvre des solutions de gestion des ressources qui complètent le cycle de vie de service de terrain.
   
@@ -16,14 +16,14 @@ summary: |-
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: configurer des applications de service sur le terrain; gérer les ordres de travail; planifier et expédier les ordres de travail; gérer la mobilité du service sur le terrain; gérer les stocks et les achats; et mettre en œuvre le service sur le terrain connecté."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 15 janvier 2021. Veuillez télécharger le document de contrôle des compétences ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen a été mis à jour le 26 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.
 - Configurer les applications de service sur le terrain (15-20%)
 - Gérer les ordres de travail (15-20%)
 - Programmer et expédier les ordres de travail (25-30%)
@@ -51,7 +51,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Consultez une présentation des certifications comprenant les certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

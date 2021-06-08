@@ -20,13 +20,14 @@ summary: |-
   - Observez un architecte de solutions ou travaillez en tant que tel sur quelques projets.
   - Soyez volontaire pour concevoir et mettre en œuvre une application de solution de financement et d'exploitation.
   - Assistez à des ateliers d'architecture de solutions avec d'autres architectes de solutions.
-subTitle: Les architectes en solutions pour les applications de Finance and Operations dans Microsoft Dynamics 365 sont des conseillers de confiance qui comprennent les pratiques recommandées dans le secteur et les capacités du logiciel. Ils dirigent les membres de leur équipe afin de mettre en œuvre des solutions Dynamics qui peuvent atteindre les objectifs de mise en œuvre prédéfinis.
+subTitle: En tant que candidat à cette certification, vous êtes un professionnel de Dynamics 365 qui conseille les parties prenantes et traduit les exigences commerciales en solutions sécurisées, évolutives et fiables. Vous concevez des solutions cohérentes pour vos clients car vous savez comment travailler avec les composants architecturaux essentiels des applications financières et opérationnelles de Dynamics 365.
 levels:
 - advanced
 skills:
-- Identifier les exigences des solutions
-- Concevoir les composants des solutions
-- Définir le test des solutions et des stratégies de gestion
+- Concevoir des solutions 
+- Définir des stratégies de solution 
+- Gérer les implémentations 
+- Gérer les tests 
 roles:
 - functional-consultant
 - solution-architect
@@ -37,6 +38,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
 exams:
 - uid: exam.mb-700
@@ -58,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Parcours de formation en vue de la certification
   description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm

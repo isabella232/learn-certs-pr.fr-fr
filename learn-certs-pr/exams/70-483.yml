@@ -7,7 +7,7 @@ uid: exam.70-483
 displayName: 70-483
 summary: |-
   <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
   </div>
 
   Les candidats à cet examen sont des développeurs ayant au moins un an d'expérience en programmation de logique métier essentielle pour une variété de types d'applications, de matériels et de plates-formes logicielles utilisant C#.
@@ -27,7 +27,6 @@ subTitle: Les candidats à cet examen sont des développeurs ayant au moins un a
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=483&examname=Programming%20in%20C%23&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn
@@ -43,6 +42,7 @@ skills:
 - Création et utilisation des types (25-30%)
 - Débogage d'applications et mise en œuvre de la sécurité (25-30%)
 - Mise en œuvre de l'accès aux données (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

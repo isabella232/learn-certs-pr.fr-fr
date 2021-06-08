@@ -7,7 +7,7 @@ uid: exam.70-339
 displayName: 70-339
 summary: |-
   <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
   </div>
 
   L'examen s'adresse aux professionnels de l'informatique expérimentés qui installent, configurent, déploient et gèrent des installations SharePoint 2016 dans un centre de données et dans le cloud. Les candidats possèdent généralement plus de quatre années d'expérience dans la planification et la maintenance de SharePoint et d'autres technologies de base sur lesquelles repose SharePoint, notamment Windows Server 2008 R2 ou une version ultérieure, Internet Information Services (IIS), SQL Server 2008 R2 ou une version ultérieure, Active Directory et les services d'infrastructure réseau.
@@ -19,7 +19,6 @@ subTitle: L'examen s'adresse aux professionnels de l'informatique expérimentés
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es

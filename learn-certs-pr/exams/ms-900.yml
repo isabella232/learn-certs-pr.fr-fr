@@ -7,7 +7,7 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div><strong>Le contenu de cet examen a été mis à jour 8 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 23 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   </div>
 
   Cet examen est conçu pour les candidats qui cherchent à démontrer leurs connaissances de bases des considérations et avantages de l’adoption des services de cloud en général et du modèle de cloud de Logiciel en tant que service (SaaS). Les candidats doivent connaître les options disponibles et les avantages obtenus par l’implémentation des offres des services de cloud de Microsoft 365.
@@ -20,7 +20,7 @@ summary: |-
 subTitle: Prouvez que vous comprenez les concepts du cloud, les services et les concepts clés de Microsoft 365, la sécurité, la conformité, la confidentialité et la confiance dans Microsoft 365 et la tarification et le support de Microsoft 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
@@ -39,7 +39,7 @@ providers:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen a été mis à jour 8 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen a été mis à jour le 23 avril 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.
 - Décrire la Concepts le cloud (10-15%)
 - Décrire la base des services et des concepts de Microsoft 365 (30-35%)
 - Expliquer la sécurité, la conformité, la confidentialité et la confiance dans Microsoft 365 (30-35%)
@@ -66,10 +66,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Aide pour les examens de certification
   description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md

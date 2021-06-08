@@ -6,7 +6,9 @@ metadata:
 uid: exam.70-417
 displayName: 70-417
 summary: |+
-  <div><div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div></div>
+  <div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
+  </div>
 
   Cet examen est destiné aux professionnels de l'informatique qui souhaitent valider les compétences et les connaissances nécessaires pour mettre en œuvre les services d'infrastructure de base Windows Server 2012. Les candidats ont déjà obtenu une certification qualifiante Windows Server 2008, Windows Server 2003, Windows Server 2000 ou Windows XP certification &#58;
   - MCSA&#58; Windows Server 2008
@@ -36,7 +38,6 @@ subTitle: "Cet examen est destiné aux professionnels de l'informatique qui souh
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
 practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
 locales:
 - en
 - zh-cn
@@ -61,6 +62,7 @@ skills:
 - Mise en œuvre de la continuité de l'activité et de la récupération d'urgence
 - Configuration des services de réseau
 - Configuration de solutions d'accès et de protection des informations
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

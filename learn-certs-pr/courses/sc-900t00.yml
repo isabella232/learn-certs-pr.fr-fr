@@ -1,0 +1,91 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les concepts de base de la sécurité, de la conformité et de l'identité.
+- skill: Décrire les concepts et les capacités des solutions de gestion des identités et des accès de Microsoft.
+- skill: Décrire les capacités des solutions de sécurité de Microsoft.
+- skill: Décrire les capacités de gestion de la conformité dans Microsoft.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  Ce cours fournit des connaissances de niveau fondamental sur les concepts de sécurité, de conformité et d'identité et les solutions Microsoft basées sur le cloud qui y sont liées.
+
+  #### Profil du public
+  Le public visé par ce cours cherche à se familiariser avec les principes fondamentaux de la sécurité, de la conformité et de l'identité (SCI) dans les services Microsoft basés sur le cloud et connexes. Le contenu de ce cours est aligné sur le domaine des objectifs de l'examen SC-900. Les candidats doivent être familiers avec Microsoft Azure et Microsoft 365 et comprendre comment les solutions de sécurité, de conformité et d'identité de Microsoft peuvent s'étendre sur ces domaines de solution pour fournir une solution holistique et de bout en bout.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une compréhension générale des concepts de mise en réseau et de cloud computing.
+  - Des connaissances générales en IT ou toute expérience générale de travail dans un environnement IT.
+  - Une compréhension générale de Microsoft Azure et Microsoft 365.
+outlineSection: |-
+  ### Module 1&#58; Décrire les concepts de base de la sécurité, de la conformité et de l'identité.
+  Apprendre les concepts, principes et méthodologies de base qui sont à la base des solutions de sécurité, de conformité et d'identité, y compris la confiance zéro, la responsabilité partagée, nos principes de confidentialité, etc.
+  #### Cours
+  - Décrire les concepts et méthodologies de sécurité.
+  - Décrire les principes de sécurité et de conformité de Microsoft.
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les concepts et méthodologies de sécurité.
+  - Explorer le portail Service Trust.
+  - Savoir où aller pour trouver et examiner la documentation sur la conformité de Azure.
+  
+  
+  ### Module 2&#58; Décrire les concepts et les capacités des solutions de gestion des identités et des accès de Microsoft.
+  Découvrez les services Azure AD et les principaux d'identité, l'authentification sécurisée, les capacités de gestion des accès, ainsi que la protection et la gouvernance des identités.
+  #### Cours
+  - Décrire les concepts d'identité
+  - Décrire les services de base et les types d'identité de Azure AD
+  - Décrire les capacités d'authentification de Azure AD
+  - Décrire les capacités de gestion des accès de Azure AD
+  - Décrire les capacités de protection et de gouvernance des identités de Azure AD
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les concepts d'identité de base.
+  - Décrire les services de base et les types d'identité de Azure AD.
+  - Décrire les capacités d'authentification de Azure AD.
+  - Décrire les capacités de gestion des accès de Azure AD.
+  - Décrire les capacités de protection et de gouvernance des identités de Azure AD.
+  
+  
+  ### Module 3&#58; Décrire les capacités des solutions de sécurité de Microsoft
+  Découvrez les capacités de sécurité de Microsoft. Les sujets abordés comprendront les capacités de réseau et de plate-forme Azure, la gestion de la sécurité de Azure et Sentinel. Vous découvrirez la protection contre les menaces avec Microsoft 365 Defender et la gestion de la sécurité de Microsoft 365, et vous explorerez la protection des terminaux avec Intune.
+  #### Cours
+  - Décrire les capacités de sécurité de base de Azure
+  - Décrire les capacités de gestion de la sécurité de Azure
+  - Décrire les capacités de sécurité de Azure Sentinel
+  - Décrire les capacités de protection contre les menaces de Microsoft 365
+  - Décrire les capacités de gestion de la sécurité de Microsoft 365
+  - Décrire la sécurité des terminaux avec Microsoft Intune
+  - Résumé du module
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les capacités de sécurité de base de Azure.
+  - Décrire les capacités de gestion de la sécurité de Azure.
+  - Décrire les capacités de sécurité de Azure Sentinel.
+  - Décrire les capacités de protection contre les menaces de Microsoft 365.
+  - Décrire les capacités de gestion de la sécurité de Microsoft 365.
+  - Décrire la sécurité des terminaux avec Microsoft Intune.
+  
+  
+  ### Module 4&#58; Décrire les capacités des solutions de conformité de Microsoft
+  Découvrez les solutions de conformité de Microsoft. Les sujets abordés comprendront le centre de conformité, la protection de l'information et la gouvernance dans Microsoft 365, le risque d'initié, l'audit et les solutions d'eDiscovery. Sont également abordées les capacités de gouvernance des ressources Azure.
+  #### Cours
+  - Décrire les capacités de gestion de la conformité de Microsoft
+  - Décrire les capacités de protection de l'information et de gouvernance de Microsoft 365

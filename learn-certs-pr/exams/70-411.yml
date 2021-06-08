@@ -7,7 +7,7 @@ uid: exam.70-411
 displayName: 70-411
 summary: |-
   <div>
-  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Cet examen a été retiré le 31 janvier 2021. Pour les options actuellement disponibles, veuillez vous reporter à la page <a href='/learn/certifications/browse/?resource_type=examination'>Consultez la page des certifications et des examens</a>.<br/><br/></strong></font></div>
   </div>
 
   Cet examen correspond à la deuxième partie d'une série de trois examens de test des compétences et des connaissances nécessaires pour administrer une infrastructure Windows Server 2012 dans un environnement d'entreprise. La réussite à cet examen valide la capacité du candidat à administrer les tâches requises pour mettre à jour une infrastructure Windows Server 2012, telles que la gestion des utilisateurs et des groupes, l'accès au réseau et la sécurité des données. La réussite à cet examen, ainsi qu'aux deux autres, confirme que le candidat possède les compétences et les connaissances nécessaires à la mise en œuvre, la gestion, la maintenance et au déploiement des services et de l'infrastructure dans un environnement Windows Server 2012.
@@ -17,7 +17,6 @@ subTitle: Cet examen correspond à la deuxième partie d'une série de trois exa
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
 practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=411&examname=Administering%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-411
 locales:
 - en
 - zh-cn
@@ -34,6 +33,7 @@ skills:
 - Configuration de l'infrastructure d'un serveur de stratégie réseau
 - Configuration et gestion d'Active Directory
 - Configuration et gestion d'une stratégie de groupe
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

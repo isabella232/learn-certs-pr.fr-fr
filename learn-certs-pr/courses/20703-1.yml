@@ -29,8 +29,6 @@ roles:
 - developer
 products:
 - windows-system-center
-exams:
-- uid: exam.70-703
 summary: |-
   Ce cours de cinq jours décrit comment utiliser Configuration Manager et ses systèmes de site associés pour gérer efficacement les ressources du réseau. Dans ce cours de cinq jours, vous apprendrez les tâches de gestion quotidiennes, notamment comment gérer les applications, la santé des clients, l'inventaire du matériel et des logiciels, le déploiement du système d'exploitation et les mises à jour logicielles en utilisant Configuration Manager. Vous apprendrez également à optimiser System Center Endpoint Protection, à gérer la conformité et à créer des requêtes et des rapports de gestion.
 

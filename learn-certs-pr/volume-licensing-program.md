@@ -34,13 +34,13 @@ En consolidant l’achat, la budgétisation et le suivi des produits de solution
 
   La Microsoft Imagine Academy propose les éléments suivants:
 
-  * 30 bons d'examen de certification gratuits pour le développement professionnel des éducateurs et du personnel (MOS, MTA, Fundamentals et MCE) par accord VL (partagé entre les écoles)
-  * Ensembles de contenus de cours pour les cours de productivité (MOS) et les cours d'informatique de niveau d'entrée (MTA) - MOAC
-  * Guides d'étude des examens pour les MOS 2016 et MOS 2019/O365
-  * 50% de réduction sur le programme MCT (Microsoft Certified Trainer)
-  * Accès au contenu des didacticiels officiels de Microsoft (MOC)
-  * Attestation de fin de cours personnalisable
-  * 40% de réduction sur les livres de presse de Microsoft
+  * 30 bons d'examen de certification gratuits pour le développement professionnel des éducateurs et du personnel (MOS, MTA, Fundamentals et MCE) par accord VL (partagé entre les écoles).
+  * Ensembles de contenus de cours pour les cours de productivité (MOS) et les cours d'informatique de niveau d'entrée (MTA) - MOAC.
+  * Guides d'étude des examens pour les MOS 2016 et MOS 2019/O365.
+  * 50% de réduction sur le programme MCT (Microsoft Certified Trainer).
+  * Accès au contenu des didacticiels officiels de Microsoft (MOC).
+  * Attestation de fin de cours personnalisable.
+  * 40% de réduction sur les livres de presse de Microsoft.
 
   L'accès à la Microsoft Imagine Academy (MSIA) est disponible lors de l'achat ou du renouvellement de licences en volume EES (Enrollment for Education Solutions), School, et OVS-ES (Open Value Subscription - Education Enrollment subscriptions) en tant qu'avantage de compétences du programme, sans frais supplémentaires.
 
@@ -62,10 +62,10 @@ En consolidant l’achat, la budgétisation et le suivi des produits de solution
 
   **Ressources supplémentaires pour la certification académique pour l’octroi de licences en volume**
 
-  * [Programme Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Microsoft Certification for Academic Institutions datasheet](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Feuille de route des certifications Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Microsoft Certification exam packs for Academic Volume Licensing datasheet](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Programme Microsoft Imagine Academy.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Microsoft Certification for Academic Institutions datasheet.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Feuille de route des certifications Microsoft Imagine Academy.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Microsoft Certification exam packs for Academic Volume Licensing datasheet.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Ressources supplémentaires de formation en ligne pour l’octroi de licences en volume
 
@@ -75,18 +75,18 @@ En consolidant l’achat, la budgétisation et le suivi des produits de solution
 
   Microsoft ne vend plus de licences en volume pour la formation en ligne. Les ressources suivantes sont destinées aux clients qui continuent de faire usage de notre contenu de formation en ligne dans le cadre de contrats existants. Elles doivent vous aider à déployer, configurer et administrer votre achat de formation en ligne pour l’octroi de licences en volume.
 
-  * [Guide pour le gestionnaire de services en ligne pour l’octroi de licences en volume destinées à une utilisation en ligne](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [Guide pour l’utilisateur final/l’étudiant pour l’octroi de licences en volume destinées à une utilisation en ligne](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Programme Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Microsoft Certification for Academic Institutions ](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Feuille de route des certifications Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Microsoft Certification exam packs for Academic Volume Licensing](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Guide pour le gestionnaire de services en ligne pour l’octroi de licences en volume destinées à une utilisation en ligne.](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [Guide pour l’utilisateur final/l’étudiant pour l’octroi de licences en volume destinées à une utilisation en ligne.](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Programme Microsoft Imagine Academy.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Microsoft Certification for Academic Institutions.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Feuille de route des certifications Microsoft Imagine Academy.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Microsoft Certification exam packs for Academic Volume Licensing.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Contactez-nous
 
   Pour débuter avec les produits de formation et de certification Microsoft, contactez votre gestionnaire de compte pour l’octroi de licences en volume. Si vous avez des questions concernant la tarification, l'octroi de licences et la remise accélérée, envoyez un e-mail à [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com).
 
-  [Contactez nos spécialistes des ventes pour obtenir des informations concernant l’ajout de solutions de formation et de certification Microsoft](mailto:mslvlhlp@microsoft.com)
+  [Contactez nos spécialistes des ventes pour obtenir des informations concernant l’ajout de solutions de formation et de certification Microsoft](mailto:mslvlhlp@microsoft.com).
 
 ## Foire aux questions
 
@@ -142,14 +142,14 @@ Des solutions de formation et de certification Microsoft sont disponibles pour l
 
 Les solutions de formation et de certification Microsoft proposent une tarification unique pour un package unique. Les packages de solutions de formation et de certification Microsoft peuvent être commandés sous forme de souscription pendant 12 mois ou sont calculés au prorata du nombre de mois restants à l’accord principal. Nul besoin de posséder une licence de souscription d'utilisateur (USL) ou une licence de souscription d’extension (ASL), qui sont requises pour d'autres programmes dans le cadre des services en ligne d’octroi de licences en volume.
 
-**Remarque** Si vous commandez des solutions de formation et de certification Microsoft sous forme de souscription pendant 12 mois, les commandes ultérieures expireront au moment de l’expiration de la commande de souscription pour 12 mois. [Visitez le guide des services en ligne](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Remarque** Si vous commandez des solutions de formation et de certification Microsoft sous forme de souscription pendant 12 mois, les commandes ultérieures expireront au moment de l’expiration de la commande de souscription pour 12 mois.
 
 **Q: Combien de codes dois-je acheter ?**
 
 Plus votre organisation achète de codes, plus la remise est élevée. Nous vous recommandons d'utiliser l' une des ressources suivantes pour déterminer les besoins de formation de votre organisation et mettre au point un plan d'apprentissage en harmonie avec les objectifs commerciaux de votre entreprise.
 
-- [Envoyer un courriel à l’octroi de licences en volume pour les solutions de formation et de certification Microsoft](mailto:mslvlhlp@microsoft.com)
-- [Trouvez votre Microsoft Certified Partner local pour les solutions de formation et de certification Microsoft](https://www.microsoft.com/learning/find-partner.aspx)
+- [Envoyer un courriel à l’octroi de licences en volume pour les solutions de formation et de certification Microsoft.](mailto:mslvlhlp@microsoft.com)
+- [Trouvez votre Microsoft Certified Partner local pour les solutions de formation et de certification Microsoft.](/learn/certifications/partners)
 
 **Q: Combien de bons pour des examens dois-je commander ?**
 
@@ -175,7 +175,7 @@ Quand la commande a été passée par le biais du partenaire intermédiaire et t
 
 **Q: Quelles sont les exigences pour déployer une licence de site MOS ou MTA?**
 
-Votre établissement doit être un centre de test autorisé Certiport enregistré et être conforme aux exigences techniques publiées sur le [site Internet de Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) pour tirer parti des bénéfices du package de site MOS ou MTA et faire passer des examens MOS ou MTA. Si votre établissement n’est pas un centre de test autorisé Certiport, il doit suivre la procédure pour [devenir un centre de test Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
+Votre établissement doit être un centre de test autorisé Certiport enregistré et être conforme aux exigences techniques publiées sur le [site Internet de Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) pour tirer parti des bénéfices du package de site MOS ou MTA et faire passer des examens MOS ou MTA. Si votre établissement n’est pas un centre de test autorisé Certiport, il doit suivre la procédure pour [devenir un centre de test Certiport.](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)
 
 **Q: Après avoir commandé un package de site MOS ou MTA par le biais de l'octroi de licences en volume, comment serai-je averti de l’accès aux bons pour les examens?**
 

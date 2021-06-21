@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft Exam Non-disclosure Agreement | Microsoft Docs'
-description: 'Microsoft Exam Non-disclosure Agreement' 
-documentationcenter: NA 
+description: 'Microsoft Exam Non-disclosure Agreement'
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -63,22 +63,22 @@ Le présent accord est conclu entre vous (« **Vous** » ou « **Votre** »)
 
     En passant cet examen, vous acceptez que Microsoft, ses filiales et le prestataire de services d'examen puissent:
 
-    1. s'échanger Vos informations personnelles et les données de l'examen dans le but de faire passer l'examen, d'améliorer le programme et l'expérience de test, de permettre des analyses statistiques et d'établir si Vous avez réussi l'examen,
-    2. Vous contacter concernant les certificats qui prouvent que Vous avez réussi l'examen ou des informations concernant le Microsoft Certification Program;
-    3. partager vos informations personnelles et les résultats de l'examen avec d'autres programmes de Microsoft, par exemple, le programme Microsoft Partner Network, dans le but de vérifier Votre conformité ou celle de Votre employeur aux exigences du programme,
-    4. partager Vos informations avec des comités de normes et de certifications affiliés à l'établissement d'enseignement, la société ou l'organisation gouvernementale qui Vous a remis un coupon pour l'examen,
-    5. partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes:
+    - s'échanger Vos informations personnelles et les données de l'examen dans le but de faire passer l'examen, d'améliorer le programme et l'expérience de test, de permettre des analyses statistiques et d'établir si Vous avez réussi l'examen,
+    - Vous contacter concernant les certificats qui prouvent que Vous avez réussi l'examen ou des informations concernant le Microsoft Certification Program;
+    - partager vos informations personnelles et les résultats de l'examen avec d'autres programmes de Microsoft, par exemple, le programme Microsoft Partner Network, dans le but de vérifier Votre conformité ou celle de Votre employeur aux exigences du programme,
+    - partager Vos informations avec des comités de normes et de certifications affiliés à l'établissement d'enseignement, la société ou l'organisation gouvernementale qui Vous a remis un coupon pour l'examen,
+    - partager les résultats de l'examen et vos informations personnelles avec l'entité qui a remis le coupon ou a acheté la licence de site si l'examen Vous a été proposé via l'une des méthodes suivantes:
         - une entreprise ou une organisation gouvernementale a acheté des coupons, puis les a remis à ses employés ou sous-traitants.
         - un établissement d'enseignement a acheté des coupons, puis les a remis à ses étudiants ou employés.
         - un établissement d'enseignement ou une organisation gouvernementale a géré un centre d'examens et ne vous a pas demandé de frais distincts pour passer l'examen.
         - Une agence gouvernementale qui octroie des allocations de formation pour lesquelles il faut présenter une candidature sur la base de conditions d'achèvement soumise au processus de vérification identifiée de Microsoft.
-    6. Partager les résultats de votre examen et vos informations personnelles avec une entité qui a financé votre examen si le financement a été rendu possible par le biais d'une agence gouvernementale qui octroie des allocations de formation pour lesquelles il faut présenter une candidature sur la base de conditions d'achèvement soumise au processus de vérification identifié de Microsoft.
+    - Partager les résultats de votre examen et vos informations personnelles avec une entité qui a financé votre examen si le financement a été rendu possible par le biais d'une agence gouvernementale qui octroie des allocations de formation pour lesquelles il faut présenter une candidature sur la base de conditions d'achèvement soumise au processus de vérification identifié de Microsoft.
 
     Pour en savoir plus sur les pratiques de Microsoft en matière de collecte et d'utilisation des données, veuillez vous rendre sur [https://privacy.microsoft.com](https://privacy.microsoft.com/). Pour en savoir plus sur les pratiques du prestataire de services d'examen en matière de collecte et d'utilisation des données, veuillez le contacter.
 
 6. **AVIS DE TRANSFERT DES DONNÉES**
 
-    Vos données personnelles, les informations relatives à l'examen et les résultats de l'examen (ce qui inclut les données à caractère personnelle obtenues dans l'Union européenne, l'Espace économique européen et en Suisse) peuvent être transférés, stockés et traités aux États-Unis et dans tout autre pays dans lequel Microsoft ou ses filiales ou sous-traitants ont des établissements. Vous nommez Microsoft, ses filiales et le prestataire de services d'examen pour qu'ils procèdent au transfert de Vos données, des informations relatives à l'examen et des résultats de l'examen dans lesdits pays et qu'ils stockent et traitent Vos données. Microsoft agit dans le cadre de la sphère de sécurité (Safe Harbor) États-Unis-Europe (EU) et États-Unis-Suisse (U.S.) définie par le Département du commerce des États-Unis concernant la collecte, l'utilisation et la conservation des données provenant de l'Union européenne, de l'Espace économique européen et de la Suisse.
+    Vos données personnelles, informations sur les examens et résultats d'examen (y compris les données personnelles collectées dans l'Espace économique européen, au Royaume-Uni et en Suisse) peuvent être transférées, stockées et traitées aux États-Unis ou dans tout autre pays dans lequel Microsoft, ses filiales ou ses sous-traitants disposent d'installations. Vous autorisez Microsoft et ses sociétés affiliées à effectuer ce transfert de vos données, informations d'examen et résultats d'examen vers ces pays et à stocker et traiter vos données. Voir [the Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681) pour plus d'informations sur la manière dont nous pouvons collecter, utiliser et partager vos données.
 
 7. **PROPRIÉTÉ ET TOUS DROITS RÉSERVÉS**
 

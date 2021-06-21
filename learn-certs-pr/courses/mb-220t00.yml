@@ -25,113 +25,128 @@ roles:
 - functional-consultant
 products:
 - dynamics
-- dynamics-marketing
 exams:
 - uid: exam.mb-220
 summary: |-
   Cette formation passera en revue la configuration de l’application de marketing nécessaire pour entraîner la croissance des activités. Elle se penchera également sur la gestion des prospects, les formulaires et pages de marketing, la segmentation, et les messages de marketing par courrier électronique. Toutes ces pièces sont reliées ensemble par une conception de parcours client interactive qui comprend la configuration des événements et des enquêtes.
 
   #### Profil de l’audience
+
   Ce cours est destiné aux professionnels de l'IT ou du marketing qui veulent apprendre à exploiter Dynamics 365 Marketing pour les entreprises.
 prerequisitesSection: |-
-  Connaissance de la plateforme Dynamics 365 et compréhension des principes fondamentaux du marketing.
+  Connaissance de la plateforme Dynamics 365 et compréhension des principes de base du marketing. Une expérience de Power Platform, en particulier dans les applications pilotées par des modèles, est également recommandée.
 outlineSection: |-
   ### Module 1&#58; Configurer Dynamics 365 Marketing
-  Dans ce module, vous découvrirez les paramètres avancés, le contenu marketing, les templates et les intégrations dans Dynamics 365 for Marketing.
-  #### Enseignements
-  - Configurer les paramètres d'organisation et de gestion
-  - Configurer les paramètres marketing
-  - Configurer les paramètres des événements
+  Dans ce module, vous apprendrez à paramétrer votre instance Marketing et à configurer les paramètres avancés.
+
+  #### Leçons
+
+  * Configurer et gérer Dynamics 365 Marketing
+  * Configurer les paramètres marketing
 
   Après avoir complété ce module, vous serez capable de&#58;
-  - Configurer les paramètres avancés tels que l'organisation, la gestion d'entreprise et le contenu.
-  - Gérer le contenu marketing et les templates.
+  * Configurer votre application Marketing.
+  * Gérer le contenu marketing et les templates.
   
   
   ### Module 2&#58; Gérer les segments et les listes
   Ce module examinera comment créer, gérer et utiliser les segments et les centres d'abonnement.
-  #### Enseignements
-  - Créer et gérer des segments
-  - Créer et gérer des centres et des listes d'abonnement
+
+  #### Leçons
+
+  * Créer et gérer des segments
+  * Créer et gérer des centres et des listes d'abonnement
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Créer et gérer des segments.
-  - Créer et gérer des centres d'abonnement.
+  * Créer et gérer des segments.
+  * Créer et gérer des centres d'abonnement.
   
   
   ### Module 3&#58; Gérer les formulaires de marketing et les pages
   Ce module portera sur la manière de créer des formulaires  marketing et des pages.
-  #### Enseignements
-  - Gérer les formulaires
-  - Gérer les pages marketing
+
+  #### Leçons
+
+  * Gérer les formulaires
+  * Gérer les pages marketing
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Créer des formulaires marketing et les intégrer dans les pages marketing.
-  - Créer une page marketing.
-  - Prévisualisation, validation et mise en ligne d'une page marketing.
-  - Créer des formulaires marketing et des templates de pages.
+  * Créer des formulaires marketing et les intégrer dans les pages marketing.
+  * Créer une page marketing.
+  * Prévisualisation, validation et mise en ligne d'une page marketing.
+  * Créer des formulaires marketing et des templates de pages.
   
   
   ### Module 4&#58; Gérer les prospects, les comptes et les contacts
   Ce module portera sur la manière de gérer les clients en tant que comptes ou contacts, et de les accompagner tout au long du cycle de vie.
-  #### Enseignements
-  - Créer et gérer des prospects
-  - Gérer les comptes et les contacts
+
+  #### Leçons
+
+  * Créer et gérer des prospects
+  * Gérer les comptes et les contacts
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Suivre les clients en tant que comptes ou contacts.
-  - Créer un prospect et le transformer en opportunité.
-  - Gérer les prospects tout au long du cycle de vie.
+  * Suivre les clients en tant que comptes ou contacts.
+  * Créer un prospect et le transformer en opportunité.
+  * Gérer les prospects tout au long du cycle de vie.
   
   
   ### Module 5&#58; Gérer les e-mails marketing et les parcours clients
   Ce module portera sur la manière de créer des e-mails et des parcours clients dans Dynamics 365 Marketing.
-  #### Enseignements
-  - Créer des e-mails marketing
-  - Créer des parcours clients
+
+  #### Leçons
+
+  * Créer des e-mails marketing
+  * Créer des parcours clients
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Créer et concevoir des e-mails.
-  - Prévisualiser, valider et mettre en ligne les e-mails.
-  - Enregistrer un e-mail comme modèle.
-  - Créer un parcours client.
+  * Créer et concevoir des e-mails.
+  * Prévisualiser, valider et mettre en ligne les e-mails.
+  * Enregistrer un e*mail comme modèle.
+  * Créer un parcours client.
   
   
   ### Module 6&#58; Gérer les événements
   Ce module passera en revue le processus de création du parcours client.
-  #### Enseignements
-  - Créer un événement sur site
-  - Créer un évènement webinaire
-  - Promouvoir et gérer les événements
+
+  #### Leçons
+
+  * Créer un événement
+  * Créer un évènement webinaire
+  * Promouvoir et gérer les événements
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Créer un événement webinaire.
-  - Créer un événement sur site.
-  - Promouvoir un événement.
-  - Gérer le site web de l'événement.
-  - Configurer les paramètres des événements.
+  * Créer un événement.
+  * Créer un événement de webinaire en utilisant Teams comme fournisseur de webinaire.
+  * Promouvoir un événement.
+  * Gérer le site web de l'événement.
+  * Configurer les paramètres des événements.
   
   
   ### Module 7&#58; Créer des enquêtes avec Dynamics 365 Customer Voice
   Ce module expliquera comment créer et distribuer des enquêtes aux clients.
-  #### Enseignements
-  - Créer un projet d'enquête
-  - Créer des enquêtes avec Dynamics 365 Customer Voice
-  - Envoyer des enquêtes avec Dynamics 365 Customer Voice 
+
+  #### Leçons
+
+  * Créer un projet d'enquête
+  * Créer des enquêtes avec Dynamics 365 Customer Voice
+  * Envoyer des enquêtes avec Dynamics 365 Customer Voice 
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Gérer les enquêtes à l'aide de projets.
-  - Créer une enquête.
-  - Personnaliser une enquête.
-  - Distribuer une enquête aux clients.
+  * Gérer les enquêtes à l'aide de projets.
+  * Créer une enquête.
+  * Personnaliser une enquête.
+  * Distribuer une enquête aux clients.
   
   
   ### Module 8&#58; Analyser les informations dans Dynamics 365 Marketing
   Dans ce module, vous apprendrez à utiliser la fonctionnalité informations pour visualiser et analyser les données relatives à vos initiatives en matière de marketing.
-  #### Enseignements
-  - Évaluer les initiatives marketing à l'aide d'analyses
+
+  #### Leçons
+  
+  * Évaluer les initiatives marketing à l'aide d'analyses
   
   Après avoir complété ce module, vous serez capable de&#58;
-  - Utiliser les informations pour prendre des décisions concernant les efforts marketing.
-  - Noter les prospects.
-  - Voir les informations liés aux parcours des clients et aux e-mails
+  * Utiliser les informations pour prendre des décisions concernant les efforts marketing.
+  * Noter les prospects.
+  * Voir les informations liés aux parcours des clients et aux e-mails

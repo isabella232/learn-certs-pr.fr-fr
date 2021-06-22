@@ -33,38 +33,38 @@ summary: |
 sections:
   - name: Questions fréquemment posées sur la transition
     questions:
-      - question : |
+      - question: |
           Quand le contenu est-il passé à Microsoft Learn?
-        answer : |
+        answer: |
           En 2019, nous avons déplacé les pages Web de Microsoft Learning (https://microsoft.com/learning) vers Microsoft Learn (https://docs.microsoft.com/learn/).
 
-      - question : |
+      - question: |
           Que restera-t-il sur Microsoft Learning?
-        answer : |
+        answer: |
           Le contenu suivant restera sur Microsoft Learning jusqu’à une date ultérieure en 2021:
           - Certification Dashboard (https://aka.ms/certdashboard).
 
-      - question : |
+      - question: |
           Qu’en est-il de mes signets; continueront-ils de fonctionner?
-        answer : |
+        answer: |
           Les pages qui passent de Microsoft Learning à Microsoft Learn seront redirigées vers les nouvelles pages sur Microsoft Learn. Ces redirections ne resteront pas indéfiniment, vous devez donc mettre à jour vos signets lorsque les pages se déplacent.
 
-      - question : |
+      - question: |
           Pourrai-je toujours voir les informations relatives à ma certification et mes examens enregistrés?
-        answer : |
+        answer: |
           Oui, vous continuerez à disposer d'un accès complet à votre profil de certification dans l'application Certification Dashboard (https://aka.ms/certdashboard), comme vous le faites aujourd'hui. Les examens, badges, certificats et relevés de notes programmés resteront disponibles. En outre, des liens vers le tableau de bord de certification ont été ajoutés à la page de profil Microsoft Learn.
           
-      - question : |
+      - question: |
           Sur le site Microsoft Learn, je vois un profil "Se connecter". Est-ce le même que le profil "Se connecter" sur Microsoft Learning? Pourrai-je me connecter sur le site Microsoft Learn pour voir mes informations de certification et d'examen?
-        answer : |
+        answer: |
           Jusqu'à ce que le tableau de bord des certifications soit déplacé vers Microsoft Learn, vous continuerez à accéder à tout ce qui concerne vos certifications (calendrier des examens, historique, badges, etc.) en vous connectant à votre profil sur le site Web de Microsoft Learning. Certification Dashboard (https://aka.ms/certdashboard) qui sera disponible sur Microsoft Learning et accessible depuis le site Microsoft Learn. Le [profil Microsoft Learn](https://docs.microsoft.com/learn) resteront séparés jusqu'à une date ultérieure. Dans les mois à venir, nous fusionnerons le certification dashboard dans le profil Microsoft Learn pour créer un profil unifié.
           
-      - question : |
+      - question: |
           Si je possède déjà un profil sur Microsoft Learning, dois-je m'inscrire pour obtenir un profil sur Microsoft Learn?
         answer: |
           Oui. Le profil Microsoft Learning (certification) est différent du profil Microsoft Learn. Vous devrez créer un profil sur Microsoft Learn pour accéder à certaines caractéristiques et fonctionnalités de Microsoft Learn qui ne fonctionneront que si vous êtes connecté. Si vous créez un profil, nous vous suggérons de vous inscrire en utilisant la même adresse électronique que celle utilisée pour créer votre profil Microsoft Learning (certification). Lorsque le tableau de bord de la certification Microsoft Learning sera fusionné avec le Microsoft Learn Tech Profile dans les mois à venir, nous fournirons des détails sur la liaison des profils et d'autres changements liés aux profils.
 
-      - question : |
+      - question: |
           Comment puis-je obtenir de l'aide si j'ai un problème ou une question ? Où puis-je trouver de l'aide?
-        answer : |
+        answer: |
           Pour obtenir des instructions détaillées sur la manière d'accéder à l'assistance, visitez: [Support de certification](/learn/certifications/help).

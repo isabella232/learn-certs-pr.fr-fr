@@ -16,15 +16,18 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   L'architecte de solutions est responsable de la réussite de la conception, de la mise en œuvre, du déploiement et de l'adoption d'une solution globale. L'architecte de solutions s'assure que la solution répond aux besoins actuels et futurs du client. Dans ce cours, les étudiants apprendront les décisions qu'un architecte de solution prend au cours d'une mise en œuvre, couvrant la sécurité, les intégrations, l'architecture Power Apps, l'architecture Power Automate, et plus encore. Ce cours est conçu pour vous donner une introduction au rôle d'architecte de solutions.
 
   #### Profil du public
+  
   Consultants seniors (fonctionnels et techniques) qui aspirent à devenir architectes solutions, ou des architectes solutions en poste qui découvrent ce rôle.
 outlineSection: |-
   ### Module 1&#58; Devenir un architecte solutions / Apprendre à connaître son client
 
-  #### Cours
+  #### Leçons
 
   *   Définir un architecte de solutions
 
@@ -38,7 +41,7 @@ outlineSection: |-
 
   ### Module 2&#58; Conceptualisation de la conception à partir des exigences
 
-  #### Cours
+  #### Leçons
 
   *   Comment diriger l'effort de collecte des exigences
 
@@ -52,7 +55,7 @@ outlineSection: |-
 
   ### Module 3&#58; Gouvernance de projet et travail en équipe
 
-  #### Cours
+  #### Leçons
 
   *   Le rôle de l'architecte de solutions dans la gouvernance du projet
 
@@ -64,7 +67,7 @@ outlineSection: |-
 
   ### Module 4&#58; Power Platform Architecture
 
-  #### Cours
+  #### Leçons
 
   *   Les principaux composants de l'architecture de Power Platform
 
@@ -76,7 +79,7 @@ outlineSection: |-
 
   ### Module 5&#58; Modélisation de données
 
-  #### Cours
+  #### Leçons
 
   *   Influences du modèle de données
 
@@ -90,7 +93,7 @@ outlineSection: |-
 
   ### Module 6&#58; Analytique et intelligence artificielle
 
-  #### Cours
+  #### Leçons
 
   *   Planification et évaluation des besoins
 
@@ -104,7 +107,7 @@ outlineSection: |-
   
   ### Module 7&#58; Power Apps Architecture
 
-  #### Cours
+  #### Leçons
 
   *   Discuter des options pour les applications et comment choisir par où commencer.
 
@@ -118,7 +121,7 @@ outlineSection: |-
   
   ### Module 8&#58; Gestion du cycle de vie des applications (ALM)
 
-  #### Cours
+  #### Leçons
 
   *   La vision de Microsoft et le rôle de l'architecte de solutions dans ALM
 
@@ -126,12 +129,12 @@ outlineSection: |-
 
   *   Définir une structure de solution pour votre livrable
 
-  #### Lab &#58; ALM Travaux pratiques
+  #### Laboratoire&#58; ALM Travaux pratiques
   ####
 
   ### Module 9&#58; Power Automate Architecture
 
-  #### Cours
+  #### Leçons
 
   *   Discuter des options d'automatisation et de logique personnalisée
 
@@ -143,7 +146,7 @@ outlineSection: |-
 
   ### Module 10&#58; Security Modeling
 
-  #### Cours
+  #### Leçons
 
   *   Le rôle de l'architecte de solutions dans la modélisation de la sécurité
 
@@ -157,7 +160,7 @@ outlineSection: |-
   
   ### Module 11&#58; Intégration
 
-  #### Cours
+  #### Leçons
 
   *   Le rôle des architectes de solutions dans les intégrations
 
@@ -171,7 +174,7 @@ outlineSection: |-
 
   ### Module 12&#58;  Dynamics 365 Applications Architecture
 
-  #### Cours
+  #### Leçons
 
   *   Le rôle de l'architecte de solutions lors du déploiement des applications Dynamics 365
 
@@ -181,7 +184,7 @@ outlineSection: |-
 
   ### Module 13&#58; Architecture de Power Virtual Agents
 
-  #### Cours
+  #### Leçons
 
   *   Introduction
 
@@ -197,7 +200,7 @@ outlineSection: |-
 
   ### Module 14&#58; Automatisation des processus robotiques
 
-  #### Cours
+  #### Leçons
 
   *   Introduction
 
@@ -211,7 +214,7 @@ outlineSection: |-
 
   ### Module 15&#58; Test et mise en ligne
 
-  #### Cours
+  #### Leçons
 
   *   Rôle de l'architecte de solutions dans les tests et les mises en service
 

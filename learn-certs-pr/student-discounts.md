@@ -1,5 +1,5 @@
 ---
-title: 'Student discounts | Microsoft Docs'
+title: 'Remises pour les étudiants | Microsoft Docs'
 description: 'Remises pour les étudiants'
 documentationcenter: NA 
 author: micsullivan
@@ -12,31 +12,66 @@ ms.prod: non-product-specific
 ---
 # Remises pour les étudiants
 
-## Certification pour les étudiants
+## À propos des réductions pour les étudiants
 
-Le tarif universitaire pour les examens Microsoft Certified Professional est disponible dans la plupart des pays (à l'exception de l'Inde et de la Chine).
+Nous avons le plaisir de proposer des tarifs étudiants pour les examens de Microsoft Certification dans la plupart des pays/régions (sauf en Inde et en Chine). Pour bénéficier de la réduction pour étudiants, vous devez d'abord vous identifier en tant qu'étudiant dans votre profil Microsoft Certification, puis vérifier votre statut universitaire. Une fois cette vérification effectuée, vous pourrez bénéficier de la réduction pour étudiants lors de votre inscription à un examen.
 
-Vous devez confirmer votre statut d'étudiant avant de planifier votre examen, afin d'être éligible au tarif universitaire.
+## <a name="how-to-identify-yourself-as-student-in-profile"></a> Comment vous identifier en tant qu'étudiant dans votre profil de Microsoft Certification?
 
-## Application du statut d'étudiant via le profil de votre compte
+1. Connectez-vous à votre [Microsoft Certification Dashboard](https://aka.ms/certdashboard) avec les informations d'identification de votre compte Microsoft.
+2. Sélectionnez "Modifier votre profil de certification" en haut de la page.
+<br/>
+<br/>
+![Sélectionnez modifier votre profil de certification](images/student-discounts-1.png)
+<br/>
+<br/>
+3. Pour modifier votre profil, sélectionnez l'icône du crayon à côté de "Profil de certification".
+<br/>
+<br/>
+![Sélectionnez l'icône du crayon pour modifier le profil](images/student-discounts-2.png)
+<br/>
+<br/>
+4. Dans le “Job title” de la liste déroulante, sélectionnez “Student”.
+<br/>
+<br/>
+![Sélectionnez l'étudiant dans la liste déroulante des titres de poste](images/student-discounts-3.png)
+<br/>
+<br/>
+5. Recherchez l'avis de tarification académique qui apparaît sous la liste déroulante “Job title”.
+<br/>
+<br/>
+![Sélectionnez l'étudiant dans la liste déroulante des titres de poste](images/student-discounts-4.png)
+<br/>
+<br/>
 
-1. Connectez-vous avec vos informations d'identification de compte Microsoft.
-2. Sélectionnez **Paramètres du profil** dans le menu **Compte** dans la partie supérieure de la page.
-3. Dans le menu **Poste occupé**, sélectionnez, ou vérifiez que vous avez sélectionné, « Étudiant ».
-4. Recherchez l'avis de tarification académique qui apparaît à côté du menu **Poste occupé**. Si votre statut d'étudiant n'a pas encore été validé, cliquez sur « Procéder à la vérification » pour valider votre statut.
+## <a name="how-to-verify-your-academic-status"></a> Comment vérifier votre statut académique
 
-## Application du statut d'étudiant lors de l'inscription à un examen
+1. Suivez les instructions pour vous identifier en tant qu'étudiant dans votre profil de Microsoft Certification.
+2. Recherchez l'avis de tarification académique qui apparaît sous le menu déroulant "Job title". Sélectionnez “Get verified now” pour être redirigé vers le système de vérification académique.
+<br/>
+<br/>
+![Sélectionnez devenir vérifié maintenant](images/student-discounts-5.png)
+<br/>
+<br/>
+3. Vous pouvez vérifier votre statut académique avec l'une des méthodes ci-dessous. Sélectionnez la méthode que vous préférez dans le menu principal. Suivez les instructions à l'écran pour la méthode de vérification de votre choix.
+    - Compte de messagerie électronique émis par l'école.
+    - Identifiants du réseau de l'école.
+    - Carte d'identité internationale d'étudiant (ISIC).
+    - Code de vérification d'un représentant de Microsoft ou de l'administrateur de votre établissement.
+    - Documentation (les documents acceptables sont une carte d'étudiant ID datée, un rapport d'activité à jour, un emploi du temps daté à jour ou une lettre d'acceptation dans l'établissement d'enseignement supérieur).
+<br/>
+<br/>
+![Vérifier le statut académique](images/student-discounts-6.png)
+<br/>
+<br/>
 
-1. Connectez-vous avec vos informations d'identification de compte Microsoft.
-2. Sur la page de l'examen pour lequel vous souhaitez vous inscrire, cliquez sur **Planifier l'examen**.
-3. Sur la page **Confirmer les détails de votre inscription à l'examen**, assurez-vous que le champ **Poste occupé** indique « Étudiant - Vérifié ». Si ce n'est pas le cas, cliquez sur « Procéder à la vérification » pour valider votre statut ou sur **Modifier** pour modifier votre statut.
+## Vérification de votre statut d'étudiant lors de l'inscription à un examen
 
-## Vérification de votre statut académique
+1. Sur la page de détails de la certification ou de l'examen pour lequel vous souhaitez vous inscrire, cliquez sur "Programmer l'examen".
+2. Connectez-vous avec les informations d'identification de votre compte Microsoft associées à votre profil de Microsoft Certification.
+3. Lorsque vous vérifiez que votre profil de certification est à jour, assurez-vous que le champ "Job title" affiche "Student—verified".
+4. Si votre profil de certification n'affiche pas cet état, suivez les instructions de la section [Comment vous identifier en tant qu'étudiant dans votre profil de Microsoft Certification](#how-to-identify-yourself-as-student-in-profile) ou [Comment vérifier votre statut académique](#how-to-verify-your-academic-status).
 
-Sélectionnez la méthode de vérification du statut que vous souhaitez utiliser. Les méthodes incluent:
+## Obtenez de l'aide pour les réductions pour étudiants
 
-1. Compte de messagerie électronique émis par l’établissement
-2. Les informations d'identification au réseau de l'établissement
-3. Une carte étudiante internationale (ISIC)
-4. Un code de vérification d'un représentant Microsoft ou de l'administrateur de votre institution
-5. Documentation
+Visitez: [Support de certification](/learn/certifications/help).

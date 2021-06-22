@@ -12,33 +12,32 @@ ms.prod: non-product-specific
 ---
 # Procédure de contestation de question d’examen
 
-Les examens de certification Microsoft sont conçus pour garantir que les candidats qui réussissent aux épreuves et méritent nos certifications ont démontré qu’ils avaient le(s) niveau(x) de compétence requis pour chaque domaine d’expertise. Toutes les questions des examens de certification Microsoft sont soigneusement passées en revue par un panel d’experts techniques et métiers pour en vérifier la précision, la clarté et la pertinence techniques. Si vous pensez qu’une question figurant dans un examen de certification Microsoft est erronée, vous pouvez demander à ce qu’on l’évalue en suivant le processus de contestation conçu pour aider à identifier et corriger les questions problématiques. Toutefois, même si une question présente quelque problème que ce soit, nous ne pouvons partir du principe que vous y auriez répondu de façon correcte si cela n’avait pas été le cas; par conséquent, la plupart des épreuves ne font pas l’objet d’une réévaluation des notes. Dans ces cas, nous offrons aux apprenants la possibilité de repasser l’examen gratuitement.
+## Contester un élément d'examen
+
+Les examens de Microsoft Certification sont conçus pour garantir que les candidats qui réussissent les examens et obtiennent nos certifications ont démontré le niveau de compétence requis dans le domaine concerné. Chaque question d'examen de Microsoft Certification est soigneusement examinée par un panel d'experts techniques et professionnels qui en vérifient l'exactitude technique, la clarté et la pertinence. Si vous pensez qu'une question d'un examen de Microsoft Certification est inexacte, vous pouvez demander une évaluation de la question via le processus de contestation des éléments d'examen, conçu pour aider à identifier et à corriger les questions problématiques. Cependant, même si une question présente un défaut quelconque, nous ne pouvons pas supposer que vous y auriez répondu correctement si elle n'avait pas eu ce défaut, c'est pourquoi la plupart des contestations n'entraînent pas de modification de votre résultat à l'examen.
 
 ### Critères validant une contestation portant sur les questions d’examen:
 
 - L’examen doit avoir été passé dans les derniers 30 derniers jours calendaires (et non ouvrables).
-- Demandes de réévaluation des notes.
-- Contestations portant sur un point spécifique de l’épreuve.
+- Vous contestez une question spécifique de l'examen.
 
 ### Les contestations portant sur les questions d’examen seront refusées selon les critères suivants:
 
 - Contestations portant sur l’ensemble de l’épreuve.
-- Contestations portant sur le matériel didactique (tests de pratique, guides didactiques, matériel de formation, etc.)
+- Contestations portant sur le matériel didactique (tests de pratique, guides didactiques, matériel de formation, etc.).
 - Contestations portant sur le bien-fondé d’une question.
 - Contestations présentées plus de 30 jours calendaires (et non ouvrables) après avoir passé l’examen.
 - Contestations portant sur des problèmes techniques rencontrés dans un centre d’examen.
-- Contestation non présentée par l’intermédiaire du présent formulaire.
+- Les contestations qui ne sont pas soumises via ce processus.
 - Contestations portant sur les méthodologies de notation (par exemple si le graphique en barres ne représente pas votre véritable note).
 - Contestations portant sur le format de l’examen (standard, tri, adaptatif).
-- Contestations portant sur les examens bêta. Si vous avez des commentaires supplémentaires sur un examen bêta que vous n’avez pas pu fournir pendant la période de commentaires, veuillez envoyer vos commentaires à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Contestations d'examens bêta; si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la phase de commentaires, veuillez les envoyer à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
 
 ### Procédure de contestation de question d’examen
 
 1. Consultez nos critères concernant l’acceptation et le refus d’une contestation portant sur une question d’examen.
-2. Remplissez et soumettez-le [formulaire de contestation d’une question d’examen](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
-3. L’équipe Microsoft Certification vérifiera que votre dossier est bien complet.  
-   a. Si vous ne le remplissez pas entièrement, des informations supplémentaires vous seront demandées.  
-   b. Si vous le remplissez entièrement, l’équipe de certification Microsoft le traitera. Ce traitement prendra environ deux semaines.
-4. Une fois le traitement effectué, vous serez averti du résultat.
+2. Remplissez et soumettez-le [formulaire de contestation d’une question d’examen.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+3. L'équipe de Microsoft Certification vérifiera que votre demande est complète. Si elle est incomplète, il vous sera demandé de fournir des informations supplémentaires. Si elles sont complètes, l'équipe de Microsoft Certification les examinera. Une révision prend environ deux semaines.
+4. Une fois l'examen terminé, vous serez informé du résultat.
 
-Merci de l’intérêt que vous portez aux examens de certification Microsoft, ce qui nous aide à les rendre les plus pertinents et adéquats possibles.
+Nous vous remercions de votre intérêt à contribuer à rendre les examens de Microsoft Certification aussi valides et pertinents que possible.

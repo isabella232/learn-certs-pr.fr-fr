@@ -1,6 +1,6 @@
 ---
 title: À propos des examens en ligne de Pearson VUE | Microsoft Docs
-description: À propos des examens en ligne
+description: À propos des examens en ligne avec Pearson VUE
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -11,119 +11,71 @@ ms.author: micsullivan
 ---
 # À propos des examens en ligne de Pearson VUE
 
-Vous pouvez passer n'importe quel examen de Microsoft Certification basé sur le poste ou sur les principes fondamentaux à Pearson VUE en ligne, et dans le confort de votre maison ou de votre bureau. L'organisation de l'examen en ligne par un surveillant maintient l'intégrité des résultats de l'examen, en surveillant votre passage de l'examen au moyen d'une webcam et d'un microphone. Si vous souhaitez passer un examen surveillé en ligne par Pearson VUE et si vous voulez avoir une meilleure idée de ce à quoi vous attendre avant de vous inscrire, cette page contient des détails importants. Regardez la vidéo ci-dessous pour en savoir plus sur les examens surveillés en ligne. (Cette section ne traite pas des examens délivrés par Certiport).
-<br/>
+## Introduction aux examens surveillés en ligne avec Pearson VUE
+
+Pearson VUE est une société avec laquelle Microsoft est en partenariat pour faire passer les examens. Vous pouvez passer de nombreux examens de Microsoft Certification en utilisant la livraison en ligne OnVUE dans le confort de votre maison ou de votre bureau. L'examen surveillé en ligne maintient l'intégrité des résultats de l'examen, car un surveillant surveille votre expérience d'examen via une webcam et un microphone.
+<br/><br/>
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
-## <a name="take-a-system-test"></a> Faites un test du système
+## Pays/régions participants et langues prises en charge
 
-Exécutez un [test de système](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) sur le même ordinateur et au même emplacement où vous effectuerez le test afin de vérifier si votre ordinateur, votre emplacement, et votre connexion Internet sont compatibles avec le logiciel OnVue de Pearson VUE et avec les directives de l’examen.
+Si les examens en ligne sont disponibles dans votre pays/région, ils le sont dans les mêmes langues que celles disponibles dans les centres d'examen de votre pays/région. Veuillez noter que l'assistance aux greeters, l'assistance aux surveillants et le logiciel de surveillance sont disponibles dans un nombre limité de langues. Vous choisirez cette langue au cours du processus d'inscription à l'examen; elle peut être différente de la langue dans laquelle vous passerez l'examen. La plupart des candidats n'auront la possibilité de passer un examen en ligne qu'avec un support d'accueil, un support de surveillants et un logiciel de surveillance en anglais, quelle que soit la langue de l'examen.
 
-[Exécutez un test de système maintenant](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
+## Avant de vous inscrire à un examen en ligne
 
-Les examens en ligne sont actuellement disponibles dans les plupart des pays. Notez que l'assistance d'accueil et de surveillance ainsi que le logiciel de surveillance sont disponibles dans un nombre limité de langues. Vous sélectionnerez cette langue au cours de la procédure d’inscription à l’examen. Elle peut être différente de la langue dans laquelle vous passerez l’examen. La plupart des candidats ne pourront passer un examen en ligne qu’avec une assistance d'accueil et de surveillance et un logiciel de surveillance en anglais, quelle que soit la langue de l’examen.
+1. Assurez-vous que votre ordinateur respecte ou dépasse la configuration minimale requise (détaillée ci-dessous).
+2. Effectuez le [test système] requis(https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) sur le même ordinateur et au même endroit que celui où vous effectuerez le test.
+3. Passez en revue les exigences du système, les conseils techniques et les exigences de l'environnement de test ci-dessous.
+4. Confirmez que votre ID est conforme à la Pearson VUE [ID Policy](https://home.pearsonvue.com/Policies/1S/English) et que le nom figurant sur votre profil de certification Microsoft correspond EXACTEMENT au nom figurant sur la ID délivrée par le gouvernement que vous présenterez pour vous présenter à l'examen. Pour en savoir plus sur la manière de vérifier le nom figurant sur votre profil de certification, consultez le site suivant: [Gérer votre profil de certification](/learn/certifications/manage-certification-profile).
+5. Mettez à jour votre profil Microsoft Certification avec votre numéro de portable, y compris l'indicatif du pays, au cas où Pearson VUE aurait besoin de vous contacter pendant l'examen. Si vous perdez la connexion pendant l'examen, c'est le seul moyen pour Pearson VUE de vous contacter. Pour obtenir des instructions sur la façon de mettre à jour votre profil, visitez : [Gérer votre profil de certification](/learn/certifications/manage-certification-profile).
+6. Lisez le [Non-Disclosure Agreement (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement). Au début de l'examen, vous devez lire et accepter le NDA et les General Terms of Use for Microsoft Certification Exams. Vous ne disposerez que de 5 minutes pour le lire une fois l'examen commencé. Lisez-le avant l'examen pour vous assurer que vous comprenez parfaitement les exigences et que vous pouvez les accepter sans manquer de temps. Si vous n'acceptez pas le NDA dans le temps imparti, vous ne pourrez pas passer l'examen.
+7. Si vous souhaitez demander des aménagements pour votre examen, veuillez soumettre une demande d'aménagements à Pearson VUE **avant** de programmer votre examen. Pour des informations détaillées sur la façon de soumettre une demande, visitez: [Demande d'aménagements pour Pearson VUE](/learn/certifications/request-accommodations).
 
-### ALERTE! Avant de vous inscrire pour un examen en ligne:
-
-1. l’[examen système](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) requis sur le même ordinateur et à l’endroit où vous passerez l’épreuve.
-2. Confirmez que votre identifiant est compatible avec Pearson VUE [politiques d’identification](https://home.pearsonvue.com/Policies/1S/English) et que le nom de votre profil de certification Microsoft correspond EXACTEMENT au nom écrit sur la pièce d’identité émise par l’État que vous présenterez pour participer à l’examen. Si vous souhaitez modifier le nom de contact de votre profil de certification Microsoft, veuillez contacter [l’assistance à la certification](https://aka.ms/mcpforum) et un modérateur du forum vous aidera.
-3. Ajoutez votre numéro de téléphone portable à votre profil de certification Microsoft, avec le code pays, au cas où Pearson VUE aurait besoin de vous contacter au cours de l’examen. En cas de perte de connexion durant le déroulement de l’examen, c’est la seule façon pour Pearson VUE de vous contacter.
-4. Consultez l’accord de confidentialité ([NDA](/learn/certifications/certification-exam-policies#non-disclosure-agreement)). Au début de l’examen, vous devez lire et confirmer l’accord de confidentialité et les conditions générales d’utilisation des examens de certification Microsoft. Vous n’aurez que cinq minutes pour le lire. Lisez-le avant votre examen pour vous assurer que vous comprenez bien les exigences et que vous pouvez les accepter sans manquer de temps. Si vous ne pouvez pas accepter l’accord de confidentialité durant la période prévue, vous ne pourrez pas participer à l’examen.
-5. Examinez les exigences techniques, de système, d’environnement et de protocole de test suivantes.
-6. Configurer l’accès d’administrateur local à votre ordinateur.
-
-### Microsoft Windows
-<div>
-<table style="border:0px;">
-    <tbody>
-        <tr>
-            <td>
-<ul>
-<li>Cliquez avec le bouton droit sur le Démarrage.</li>
-<li>Sélectionnez Gestion de l’ordinateur > Utilisateurs et groupes locaux > Utilisateurs > Cliquez avec le bouton droit sur Administrateur ></li>
-<li>Sélectionnez Définir mot de passe > Cliquez avec le bouton droit sur Administrateur > Créer nom utilisateur/mot de passe</li>
-<li>Désélectionnez Compte désactivé > Désélectionnez Utilisateur doit modifier le mot de passe au prochain démarrage ></li>
-<li>Sélectionnez OK.</li></ul>
-            </td>
-        </tr>
-        <tr><td></td></tr>
-    </tbody>
-</table>
-</div>
-
-Visitez le [support Microsoft](https://support.microsoft.com/allproducts) si vous avez besoin d’aide pour configurer vos droits d’administrateur local sur votre ordinateur Microsoft et sélectionnez la catégorie de produit de votre périphérique.
-<br/>
-
-### Apple Mac
-<div>
-<table style="border:0px;">
-    <tbody>
-        <tr>
-            <td>
-<ul>
-<li>Démarrez les Préférences système à partir du menu Apple ou du dossier des Applications.</li>
-<li>Sélectionnez Utilisateurs et groupes.</li>
-<li>Sélectionnez l’icône de verrou et saisissez votre mot de passe. Sélectionnez OK.</li>
-<li>Sélectionnez le bouton (+) situé au-dessous de la liste des comptes utilisateurs.</li>
-<li>Sélectionnez Administrateur dans le menu déroulant des types de comptes.</li>
-<li>Saisissez les informations requises : le nom complet du titulaire du nouveau compte, le nom du compte, le mot de passe et l’indice du mot de passe.</li>
-<li>Sélectionnez Utilisateurs.</li></ul>
-            </td>
-        </tr>
-        <tr><td></td></tr>
-    </tbody>
-</table>
-</div>
-
-Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide afin de configurer les droits d’administrateur local sur votre ordinateur Apple.
-
-## Exigences système
-
-### Exigences minimales
+## Configuration minimale requise
 
 <div>
 <table style="border:0px;">
     <tbody>
         <tr>
             <td>
-                <p><strong>Système d’exploitation</strong></p>
+                <p>Système d’exploitation</p>
             </td>
             <td>
-            <p><strong>Windows 10</strong></p>
+            <p>Windows 10</p>
             <p>Windows 8.1 (32 bits et 64 bits)</p>
             <p>Mac OS 10.13 et ultérieurs (à l’exception des versions bêta)</p>
-            <p>Remarque : Les systèmes d’exploitation Windows doivent être approuvés par une validation Windows authentique.</p>
+            <p>Remarque: Les systèmes d’exploitation Windows doivent être approuvés par une validation Windows authentique.</p>
             <p>
             Windows Vista, Windows XP, Windows 7, et tous les systèmes d’exploitation basés sur Linux/Unix sont strictement interdits.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Pare-feu</strong></p></td><td><p>Ne passez pas votre examen dans un environnement comprenant un pare-feu d’entreprise (y compris un VPN) ou prévenez votre administrateur de réseau des exigences de configuration du réseau.</p>
+                <p>Pare-feu</p></td><td><p>Ne passez pas votre examen dans un environnement comprenant un pare-feu d’entreprise (y compris un VPN) ou prévenez votre administrateur de réseau des exigences de configuration du réseau.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Display</strong></p>
+                <p>Display</p>
             </td>
             <td>
-                <p>Résolution minimale: <strong>1024 x 768</strong> en <strong>couleurs 16-bit</strong>.
+                <p>Résolution minimale: 1024 x 768 en couleurs 16-bit.
                 <br/>
                 Remarque: Toutes les tablettes sont strictement interdites, sauf si elles sont dotées d'un clavier physique et qu’elles répondent également aux exigences de système d’exploitation mentionnées précédemment.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Navigateurs Internet</strong></p>
+                <p>Navigateurs Internet</p>
             </td>
             <td>
-                <p>Les dernières versions de Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>, and <strong>Firefox</strong>.</p>
+                <p>Les dernières versions de Microsoft Edge, Safari, Chrome, and Firefox.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Connexion Internet</strong></p>
+                <p>Connexion Internet</p>
             </td>
             <td>
                 <p>Une vitesse de connexion constante avec un débit de 1 Mo/s en téléchargement/chargement est nécessaire.</p>
@@ -133,33 +85,33 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
         </tr>
         <tr>
             <td>
-                <p><strong>Webcam</strong></p>
+                <p>Webcam</p>
             </td>
             <td>
-                <p>La webcam doit avoir une <strong>résolution minimale de 640x480 @ 10 fps</strong>.<br/>
+                <p>La webcam doit avoir une résolution minimale de 640x480 @ 10 fps.<br/>
                                 La webcam peut être interne ou externe et connectée à l’ordinateur.</p>
-                <p>Les utilisateurs Mac devront éventuellement autoriser OnVUE dans les réglages « Préférences système : Sécurité et confidentialité » du microphone et de la caméra.</p>
+                <p>Les utilisateurs Mac devront éventuellement autoriser OnVUE dans les réglages « Préférences système: Sécurité et confidentialité » du microphone et de la caméra.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Son et microphone</strong></p>
+                <p>Son et microphone</p>
             </td>
             <td>
-                <p>Vérifiez que le son et le microphone ne sont pas mis en sourdine dans Windows.</p><p class="">Les utilisateurs Mac devront éventuellement autoriser OnVUE dans les réglages « Préférences système : Sécurité et confidentialité : Confidentialité » pour le micro, la caméra, l’automatisation et la surveillance des entrées.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong>Configuration du navigateur</strong></p>
-            </td>
-            <td>
-                <p><strong>Les cookies Internet doivent être autorisés.<br/>Tout blocage de pop-ups doit être désactivé.</strong></p>
+                <p>Vérifiez que le son et le microphone ne sont pas mis en sourdine dans Windows.</p><p class="">Les utilisateurs Mac devront éventuellement autoriser OnVUE dans les réglages « Préférences système: Sécurité et confidentialité: Confidentialité » pour le micro, la caméra, l’automatisation et la surveillance des entrées.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Ordinateur de travail</strong></p>
+                <p>Configuration du navigateur</p>
+            </td>
+            <td>
+                <p>Les cookies Internet doivent être autorisés.<br/>Tout blocage de pop-ups doit être désactivé.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Ordinateur de travail</p>
             </td>
             <td>
                 <p>Nous vous recommandons de faire un test sur un ordinateur personnel, car les ordinateurs de travail risquent de bloquer le logiciel OnVUE.</p>
@@ -167,7 +119,7 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
         </tr>
         <tr>
             <td>
-                <p><strong>Alimentation</strong></p>
+                <p>Alimentation</p>
             </td>
             <td>
                 <p>Assurez-vous d’être connecté à une source d’alimentation avant de commencer l’examen pour éviter de vider votre batterie pendant l’examen.</p>
@@ -175,7 +127,7 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
         </tr>
         <tr>
             <td>
-                <p><strong>Logiciel supplémentaire</strong></p>
+                <p>Logiciel supplémentaire</p>
             </td>
             <td>
                 <p>Si possible, désactiver tout logiciel antivirus sur toute la durée de l’examen.</p>
@@ -185,192 +137,138 @@ Visitez le [support Apple](https://support.apple.com/) pour obtenir de l’aide 
 </table>
 </div>
 
-### Autres remarques et conseils:
+Pour les administrateurs réseau qui ont besoin d'une configuration réseau avancée, voir le document [OnVue Technical Requirements for the Candidate.](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
 
-- Avant de vous inscrire et d’acheter votre examen, remplissez le [test système](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) requis sur le même ordinateur et à l’endroit où vous passerez l’épreuve.
-- Les examens en ligne peuvent être perturbés par les serveurs proxy, l'inspection/le filtrage des paquets réseau ou les configurations de sécurité réseau strictes.
-- Le compte d'utilisateur Windows connecté au poste de travail de surveillance **doit disposer des autorisations d'administration locale**.
-- Certains logiciels antivirus peuvent entraîner des problèmes de performances. Désactivez l'analyse antivirus pendant que vous passez l'examen.
-- Vous devez également vous assurer que votre logiciel de sécurité ne bloque pas l'exécution de JavaScript, des applications Adobe Air ou des extensions Adobe Flash Player.
-- Passez votre examen sur un ordinateur personnel plutôt que sur un ordinateur de travail parce que ces derniers comportent souvent des logiciels qui empêcheront le logiciel OnVue de démarrer.
-- Utilisez, si possible, un ordinateur bureau au lieu d’un ordinateur portable.
-- Vous devrez peut-être configurer votre sécurité Internet et votre logiciel antivirus en ajoutant une exception pour le fichier exécutable de Pearson Secure Browser.
+## Exécuter un test système
+
+Exécutez un test système sur le même ordinateur et dans le même lieu que celui où vous allez passer le test pour vérifier si votre ordinateur, votre lieu et votre connexion Internet sont compatibles avec le logiciel Pearson VUE OnVUE et les exigences du test.
+
+[Exécuter le test système maintenant](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
+
+## Conseils techniques
+
+### Logiciel et autorisations
+
+- Le compte utilisateur connecté à l'ordinateur que vous utilisez doit disposer de droits d'administration locaux. Pour obtenir de l'aide sur l'activation des droits d'administration, consultez la documentation pour [Windows](https://support.microsoft.com/en-us/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563) et [Mac.](https://support.apple.com/en-lk/guide/mac-help/mtusr001/mac).
+- Testez sur un ordinateur personnel plutôt que sur un ordinateur professionnel, si possible, car les ordinateurs professionnels sont souvent équipés de logiciels qui empêchent le lancement du logiciel OnVUE.
+- Il se peut que vous deviez configurer votre logiciel de sécurité Internet et votre logiciel antivirus afin de faire une exception pour le fichier exécutable OnVUE Secure Browser.
+- Certains logiciels antivirus peuvent causer des problèmes de performance. Pensez à désactiver l'analyse antivirus lorsque vous passez votre examen.
+- Vous devrez peut-être vous assurer que votre logiciel de sécurité ne bloque pas l'exécution de JavaScript, des applications Adobe Air ou des extensions Adobe Flash Player.
+
+### Réseau
+
+- Les examens surveillés en ligne peuvent être perturbés par les serveurs proxy, l'inspection/filtrage des paquets réseau ou les configurations de sécurité réseau strictes.
 - Lorsque vous passez un examen surveillé en ligne, utilisez une connexion Internet câblée, si possible.
-- Ne vous connectez pas à un hotspot mobile, cela est expressément interdit.
-- [Lisez les exigences de résolution des problèmes de niveau administrateur de réseau](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements).
+- Ne vous connectez pas à un hotspot mobile; cela est explicitement interdit.
 
-## Pays participants
+## Exigences relatives à l'environnement de l'examen
 
-Les examens en ligne sont disponibles dans la plupart des pays. Si les examens en ligne sont disponibles dans votre pays, ils seront disponibles dans les langues disponibles dans les centres de test de votre pays. Veuillez noter que l'assistance d'accueil et de surveillance ainsi que le logiciel de surveillance sont disponibles dans un nombre limité de langues. Vous sélectionnerez cette langue au cours de la procédure d’inscription à l’examen. Elle peut être différente de la langue dans laquelle vous passerez l’examen.
+Pour maintenir l'intégrité des examens surveillés en ligne, nous appliquons des politiques, pratiques et procédures spécifiques.
 
-## <a name="testing-session-protocol"></a> Protocole de session
+### Bureau ou domicile
 
-Afin que les examens surveillés soient valides dans un environnement en ligne/webcam, des politiques, pratiques et procédures spécifiques s'appliquent.
+Votre bureau ou votre domicile doit répondre aux exigences suivantes:
 
-### Configuration au bureau ou à la maison
+- Le bureau, la salle de conférence ou l'espace à domicile doit être clos, avoir une porte fermée et être exempt de toute perturbation.
 
-Votre bureau ou votre domicile doit remplir les conditions suivantes:
+- Personne d'autre ne peut se trouver dans la pièce ou y entrer pendant votre session de test.
 
-- Le bureau ou la salle de conférences doivent être clos, la porte doit être fermée et le calme doit régner.
-- Si vous passez l’examen chez vous, le calme doit régner dans la pièce.
-- Personne d’autre ne peut se trouver dans la pièce ni y entrer pendant votre session de test.
+### Communiquer avec l'agent d'accueil et le surveillant
 
-### Communiquer avec l'accueil et le surveillant:
+- **Téléphone.** Pendant la procédure d'enregistrement, l'agent d'accueil vous demandera votre numéro de téléphone pour communiquer avec vous pendant que vous vous enregistrez pour votre examen. Une fois l'enregistrement terminé, il vous sera demandé de placer votre téléphone hors de portée mais suffisamment près pour être entendu.
+- **Chat window.** La plupart des communications avec l'agent d'accueil et le surveillant se font par le biais de la fenêtre de chat.
+- **Microphone.** pendant la procédure d'enregistrement et, si nécessaire, pendant que vous passez votre examen, vous pouvez communiquer avec l'agent d'accueil et le surveillant par le biais d'un microphone.
+- **Langage.** Toutes les communications avec le responsable de l'accueil et le surveillant se font dans un nombre limité de langues qui peuvent être différentes de la langue dans laquelle vous passez l'examen.
 
-- **Téléphone.** Durant la procédure d'inscription, l'agent d'accueil vous demandera votre numéro de téléphone afin de rester en contact avec vous pendant que vous inscrivez à l'examen. Une fois la procédure d'inscription terminée, il vous sera demandé de conserver votre téléphone à portée d'oreille.
-- **Fenêtre de discussion en ligne.** La majorité de la communication s'effectue par le biais de la fenêtre de conversation.
-- **Microphone.** Lors du processus d'enregistrement, et, si nécessaire, lors du passage de l'examen, vous pouvez communiquer avec l'agent d'accueil et le surveillant par l'intermédiaire du micro.
-- **Langue.** Toute communication avec l'agent d'accueil et le surveillant se fait dans un nombre limité de langues. Celles-ci peuvent être différentes de la langue dans laquelle vous passez l’examen.
+### Vérification de l'identité
 
-### Vérification d'identité:
+- Vous devez présenter une ID en cours de validité délivrée par le gouvernement, telle que l'une des suivantes:
+  - Permis de conduire.
+  - ID militaire.
+  - Passeport.
+  - Carte d'identité (carte d'identité nationale/étatique/provinciale).
+  - Carte d'enregistrement d'étranger (carte verte, résident permanent, visa).
+  - Une ID en langue locale délivrée par le gouvernement (pas en caractères romains)-acceptée uniquement si elle est délivrée par le pays dans lequel le candidat passe l'examen.
+- Un téléphone portable est le meilleur moyen de capturer la photo et la ID requises, mais vous pouvez utiliser une webcam si vous ne disposez pas d'un téléphone portable..
+- Le nom figurant sur la ID délivrée par le gouvernement que vous présentez doit **exactement** correspondre au nom figurant sur votre Microsoft Certification et sur les profils Pearson VUE.
+- Si vous êtes en train de mettre à jour ou de renouveler votre carte d'identité, veuillez noter que les formulaires de changement de nom légal, y compris les formulaires de renouvellement de ID, ne seront pas acceptés pour les examens surveillés en ligne.
+- Les mineurs de moins de 18 ans sont autorisés à présenter une carte d'étudiant valide comme ID. Le tuteur du candidat doit également présenter une ID en cours de validité et doit donner son accord verbal lors de l'enregistrement.
 
-- Vous devez présenter une pièce d'identité en cours de validité, émise par l'État, telle que l'une des pièces suivantes:
-  - Permis de conduire
-  - Pièce d’identité militaire
-  - Passeport
-  - Carte d’identité (nationale/d’état/de province)
-  - Carte d’étranger résident (carte verte, résident permanent, visa)
-  - Carte rédigée dans la langue locale (pas en caractères romains) et délivrée par un gouvernement —_uniquement acceptée si délivrée par le pays dans lequel le candidat passe l’épreuve_
-- Une photo de votre pièce d'identité et de vous-même sera prise à l'aide de la webcam.
-- Le nom de la pièce d’identité émise par l’État que vous présentez pour participer à l’examen doit correspondre exactement au nom de votre profil de certification Microsoft. Si vous souhaitez modifier le nom de contact de votre profil de certification Microsoft jour de l’examen veuillez contacter [l’assistance à la certification](https://aka.ms/mcpforum) avant le jour de l’examen et un modérateur du forum vous aidera.
-- Les mineurs de moins de 18 ans peuvent présenter une carte d'étudiant valide comme pièce d'identité. Le tuteur du candidat doit également présenter une pièce d'identité en cours de validité et doit fournir son consentement verbal pendant la phase d'enregistrement.
+### Scan de la zone d'examen
 
-### Contrôle de l'espace de travail:
+- Avant de commencer l'examen, assurez-vous que tous les écrans supplémentaires sont débranchés et tournés loin de vous, et que tous les autres ordinateurs sont éteints et les écrans éteints.
+- La zone de travail doit être dégagée de tout matériel, et les éléments suivants ne doivent pas se trouver à portée de main : livres, blocs-notes, post-it, notes dactylographiées/papiers, ou instruments d'écriture tels que stylos, marqueurs, tableaux blancs ou crayons.
+- Un téléphone portable est le meilleur moyen de prendre des photos de la zone d'examen, mais vous pouvez utiliser une webcam si vous ne disposez pas d'un téléphone portable. Si vous utilisez votre téléphone portable, les photos sont téléchargées et un agent d'accueil les examinera en même temps que votre photo d'identité et votre ID. L'agent d'accueil est à l'affût des risques de sécurité et vous avertira si quelque chose doit être réglé avant de lancer l'examen.
 
-- Avec votre webcam, téléphone ou ordinateur portable, vous devrez balayer lentement la pièce de gauche à droite pour montrer les murs environnants et balayer de haut en bas pour montrer le sol et le plafond. Si vous n'êtes pas en mesure d'effectuer un balayage de la pièce, vous ne pourrez pas continuer ni passer l'examen.
-- Vous devrez ensuite balayer tout votre espace de travail. Le surveillant vérifie les risques liés à la sécurité, notamment, mais pas seulement:
-  - Écrans supplémentaires (doivent être débranchés et non orientés vers vous)
-  - Ordinateurs supplémentaires (doivent être éteints et les écrans doivent être noirs)
-- L'espace de travail doit être vide, les articles suivants ne sont pas autorisés à portée de main: livres, blocs-notes, post-its, notes/feuilles dactylographiées, ou matériels d'écriture (tels que stylos, marqueurs, tableaux blancs ou crayons à papier).
+### Pas d'effets personnels
 
-### Aucune affaire personnelle
+- Pendant l'examen, vous ne pouvez pas accéder aux ordinateurs de poche ou autres appareils électroniques, aux pagers, aux montres, aux portefeuilles, aux sacs à main, aux chapeaux (ou autres couvre-chefs), aux sacs, aux manteaux, aux livres, aux notes ou à tout autre matériel non spécifiquement approuvé.
+- En cas de problème d'assistance, le surveillant peut essayer de vous contacter sur votre téléphone portable au numéro que vous avez fourni lors de l'enregistrement de l'examen. Veuillez vous assurer que le numéro de votre téléphone portable comprend l'indicatif du pays. Il est acceptable de garder le téléphone portable à proximité, mais pas à portée de main.
+- Il se peut que l'on vous demande de retourner toutes vos poches (poches de pantalon et poches de blazer/de pull) afin que l'agent d'accueil puisse voir qu'elles sont vides.
+- Si vous portez des manches longues, il peut vous être demandé de retrousser vos manches pour montrer que vous n'avez pas d'écriture sur les bras.
+- Si vous portez une cravate, on peut vous demander de la soulever pour montrer à l'agent d'accueil que rien n'est caché sous la cravate.
+- Si vous avez des cheveux longs qui couvrent vos oreilles, il peut vous être demandé de tirer vos cheveux en arrière pour montrer à l'agent d'accueil qu'il n'y a rien de fixé à votre oreille (comme une oreillette Bluetooth).
 
-- Pendant l’épreuve, vous ne pourrez avoir accès aux catégories suivantes d’affaires personnelles: ordinateurs portables ou autres appareils électroniques, bipeurs, montres, portefeuilles, porte-monnaie, chapeaux (ou tout autre couvre-chef), sacs, manteaux, livres, notes ou tout autre objet non approuvé de façon spécifique.
-- En cas de problème d'assistance, le surveillant peut essayer de vous contacter sur votre téléphone portable au numéro que vous avez fourni pendant l’inscription à l’examen. Veuillez vous assurer que votre numéro de téléphone portable comprenne le code du pays. Vous pouvez garder votre téléphone portable près de vous, mais pas à votre portée.
-- Il vous sera demandé de retourner toutes vos poches (poches de pantalon et de veste/pull-over), de façon que l'agent d'accueil voie qu’elles sont vides.
-- Si vous portez des manches longues, il vous sera demandé de les remonter afin de prouver que rien n’est écrit sur vos bras.
-- Si vous portez une cravate, il vous sera demandé de la soulever de façon que l'agent d'accueil puisse voir que rien n'est caché dessous.
-- Si vous portez les cheveux longs et qu’ils couvrent vos oreilles, il vous sera demandé de les ramener à l'arrière pour que l'agent d'accueil puisse voir que rien n’est accroché à votre oreille (un écouteur Bluetooth, par exemple).
+### Pas de pause ni de repas
 
-### Pas de pause/repas/boisson
+- Les pauses ne sont pas autorisées pendant l'examen, quelle qu'en soit la raison. Vous comprenez et acceptez que, si vous faites une pause, votre note d'examen sera invalidée et que vous ne serez pas autorisé à reprendre l'examen plus tard.
+- Il est interdit de manger, de fumer et de mâcher du chewing-gum pendant l'examen. Vous pouvez avoir un verre d'eau dans un récipient transparent si vous avez besoin de boire quelque chose pendant l'examen.
 
-- Pendant l’épreuve, les pauses ne sont autorisées sous aucun prétexte. Vous comprenez et acceptez que, si vous prenez une pause, votre score d'examen sera invalidé, et vous ne serez pas autorisé à le reprendre plus tard.
-- Pendant l’épreuve, il est interdit de manger, boire, fumer et mâcher du chewing-gum.
+### Pas d'assistance à l'examen
 
-### Aucune aide pendant l’examen
+- Personne ne peut entrer dans la salle pendant votre session d'examen. Si cela se produit, votre examen sera interrompu.
+- Vous ne pouvez pas recevoir d'aide ou de conseils d'autres personnes pendant que vous passez l'examen, et vous ne pouvez pas permettre à d'autres personnes de voir l'écran de l'ordinateur pendant l'examen.
+- Vous n'êtes pas autorisé à utiliser des livres ou d'autres ressources, du papier brouillon, des tableaux blancs effaçables ou similaires, ou des instruments d'écriture, tels qu'un stylo, un marqueur ou un crayon, pendant l'examen.
+- Le surveillant ne peut pas répondre aux questions relatives au contenu de l'examen. Si vous avez des questions relatives au contenu de l'examen, veuillez contacter Microsoft après avoir terminé l'examen.
 
-- **Personne ne peut entrer dans la pièce pendant la session d’examen. En cas d’intrusion, votre examen sera annulé.**
-- Vous ne pouvez recevoir ni aide ni encadrement d’autres personnes pendant l’examen et vous ne pouvez pas autoriser d’autres personnes à regarder l’écran d’ordinateur pendant l’examen.
-- Vous ne pouvez pas utiliser de livres ou d’autres ressources, papier brouillon, tableau blanc effaçable ni aucun autre outil d’écriture pendant l’examen. Vous n'êtes autorisé à utiliser aucun matériel d'écriture, tel que stylo, marqueur ou crayon à papier durant l'épreuve.
-- Le surveillant ne pourra pas répondre aux questions portant sur le contenu de l’épreuve. Si vous avez des questions relatives au contenu de l'examen, veuillez contacter Microsoft à l'issue de l'examen.
+### Facial Comparison Policy
 
-### Politique de comparaison faciale
+- En vous inscrivant à un examen surveillé en ligne, vous comprenez et acceptez que Pearson VUE puisse utiliser une technologie de comparaison faciale dans le but de vérifier votre identité pendant le processus de test. Elle comparera votre image faciale à celle figurant sur votre identification et aux images faciales capturées pendant le processus de test afin de nous aider à développer, mettre à niveau et améliorer cette application. Si vous n'êtes pas d'accord avec cela, veuillez programmer l'examen dans un centre de test.
 
-- En vous enregistrant à un examen en ligne, vous comprenez et acceptez que Pearson VUE puisse utiliser la technologie de comparaison faciale afin de vérifier votre identité au cours de l’examen. Cette technologie effectuera la comparaison entre votre image faciale à celle de votre papier d’identité et aux images capturées lors du déroulement de l’examen pour nous aider à mieux développer, mettre à niveau et améliorer cette application. **Si vous n’êtes pas d’accord, veuillez contacter le centre d’appels de Pearson VUE pour planifier un examen dans un centre d’examens.**
+### Enregistrement pendant l'examen
 
-### Enregistrement au cours de l’examen
+- Pendant l'examen, le surveillant vous surveillera en permanence par vidéo et audio. L'ensemble de la session sera enregistré. La surveillance comprendra votre visage (mouvements des yeux, mouvements de la tête), votre voix, la pièce physique où vous êtes assis et l'endroit où vous vous trouvez pendant l'examen. Si vous ne souhaitez pas être enregistré (que ce soit par vidéo ou par audio), veuillez en informer immédiatement le surveillant. Vous ne pourrez PAS poursuivre l'examen.
 
-- Lors de cet examen, le surveillant vous surveillera en permanence par vidéo et audio, et votre visage, votre voix, la pièce où vous êtes assis et l'endroit où vous vous trouvez pendant l'examen seront enregistrés. Si vous ne souhaitez pas faire l’objet d’un enregistrement (vidéo ou audio), veuillez en avertir immédiatement le surveillant. Vous ne pourrez PAS passer l’examen.
+## Accord de non-divulgation
 
-### Autres informations importantes
+- Comme pour tout autre examen de Microsoft Certification, vous devez lire et accepter les conditions énoncées dans notre [NDA](/learn/certifications/microsoft-exam-non-disclosure-agreement). Vous ne disposerez que de 5 minutes pour le lire une fois l'examen commencé. Nous vous recommandons donc de le lire avant l'examen pour vous assurer que vous comprenez parfaitement les exigences et que vous pouvez les accepter sans manquer de temps. Si vous n'acceptez pas la NDA dans le temps imparti, vous ne pourrez pas passer l'examen.
+- Vous devez également vous conformer aux exigences de conduite des candidats. Cela inclut, sans s'y limiter, les points suivants:
+  - Vous ne pouvez pas copier ou enregistrer les questions ou réponses de l'examen par quelque moyen que ce soit.
+  - Vous ne pouvez pas partager ou discuter avec d'autres personnes les questions ou les réponses vues à l'examen.
+- Si vous ne suivez pas les [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) ou êtes soupçonné de tricher ou de falsifier un logiciel de Pearson VUE ou de son sous-traitant, ou si une personne autre que vous est détectée dans la salle où vous êtes assis pendant l'examen, le surveillant mettra immédiatement fin à l'examen et signalera l'infraction à Microsoft, avec des preuves audio et/ou vidéo. Votre examen peut être invalidé et Microsoft peut prendre d'autres mesures, telles que le retrait de votre certification et/ou le bannissement du Microsoft Certification Program.
 
-- Conformément à tous les autres examens de certification Microsoft, vous devez lire et accepter les conditions énoncées dans notre [Accord de confidentialité](/learn/certifications/microsoft-exam-non-disclosure-agreement) et respecter les exigences de conduite des candidats. Vous n’aurez que cinq minutes pour le lire. Par conséquent, nous vous recommandons de le lire avant votre examen pour vous assurer que vous comprenez bien les exigences et que vous pouvez les accepter sans manquer de temps. Si vous ne pouvez pas accepter l’accord de confidentialité durant la période prévue, vous ne pourrez pas participer à l’examen.
-- Et respecter les exigences de conduite des candidats. Cela inclut, mais n'est pas limité à ce qui suit:
-  - Vous n’êtes pas autorisé à copier ni à enregistrer des questions ou des réponses de l’examen de quelque manière que ce soit.
-  - Vous n’êtes pas autorisé à partager ou discuter des questions et des réponses vues dans l’examen avec les autres.
-- Si vous ne respectez pas [l’accord contenant les règles du candidat](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) ou si l’on pense que vous avez triché ou altéré le logiciel de Pearson VUE ou de ses sous-traitants ou si une autre personne que vous est détectée dans la pièce où vous êtes assis pendant l’examen, le surveillant mettra immédiatement fin à l’examen et signalera l’infraction à Pearson VUE et à Microsoft et fournira des preuves audio ou vidéo. Votre examen peut être annulé et Microsoft peut prendre d'autres mesures, telles que vous retirer votre certification et vous empêcher de participer ultérieurement au programme de certification Microsoft.
+## S'inscrire à un examen en ligne
 
-## S’inscrire à un examen en ligne
+Pour obtenir des instructions détaillées sur la manière de s'inscrire, visitez le site: [S'inscrire et programmer un examen](/learn/certifications/register-schedule-exam).
 
-- Les examens en ligne fournis par Pearson VUE sont disponibles pour les examens basés sur les rôles et des Fundamentals dans la plupart des pays. Si les examens en ligne sont disponibles dans votre pays, ils seront disponibles dans les langues disponibles dans les centres de test de votre pays. Veuillez noter que l'assistance d'accueil et de surveillance ainsi que le logiciel de surveillance sont disponibles dans un nombre limité de langues. Vous sélectionnerez cette langue au cours de la procédure d’inscription à l’examen. Elle peut être différente de la langue dans laquelle vous passerez l’examen. La plupart des candidats ne pourront passer un examen en ligne qu’avec une assistance d'accueil et de surveillance et un logiciel de surveillance en anglais, quelle que soit la langue de l’examen.
-- Pour vous inscrire, connectez-vous d’abord à votre [tableau de bord de certification](https://aka.ms/certdashboard) Microsoft avec l’adresse électronique associée à votre profil de certification Microsoft. Sélectionnez le bouton **Planifier un examen** puis sélectionnez dans la [liste des examens](/learn/certifications/browse/) l’examen Microsoft que vous souhaitez passer. Si les examens en ligne sont disponibles dans votre pays, vous pourrez sélectionner cette option lors de la phase d'inscription de l'examen. Vous sélectionnerez également la langue de l'agent d'accueil, du surveillant et du logiciel de surveillance.
+## Lancement de l'examen et procédure d'enregistrement
 
-## Lancer l’épreuve et la procédure d’enregistrement du candidat
+Le processus de lancement et d'enregistrement devrait prendre environ 15 minutes.
 
-La procédure de démarrage et d'enregistrement dure environ 15 minutes.
+- Avant de lancer votre examen, passez en revue le OnVUE [FAQs](https://home.pearsonvue.com/microsoft/onvue) pour obtenir des conseils de dépannage.
+- Le jour de l'examen, exécutez le [test du système](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) sur l'équipement et la connexion Internet que vous utiliserez pendant l'examen. La bande passante Internet peut changer à tout moment.
+- Connectez-vous à votre ordinateur en tant qu'administrateur afin de pouvoir déterminer si des processus d'arrière-plan sont en cours et les arrêter.
+- Désactivez les bloqueurs de fenêtres pop-up de votre navigateur.
+- Assurez-vous d'avoir votre téléphone portable en dehors de l'espace d'examen immédiat, mais à portée de voix, au cas où le surveillant de l'examen aurait besoin de vous contacter.
+  - Assurez-vous que votre profil de Microsoft Certification est mis à jour avec votre numéro de téléphone mobile, y compris l'indicatif du pays, au cas où Pearson VUE aurait besoin de vous contacter pendant l'examen.
 
-- Avant de débuter votre examen, passez en revue la [FAQ](https://home.pearsonvue.com/microsoft/onvue) OnVUE pour obtenir des conseils en matière de résolution de problèmes.
-- **Le jour de l’examen, exécutez le [test système](/learn/certifications/online-exams#take-a-system-test) de nouveau** sur le matériel et la connexion Internet que vous utiliserez pour l’examen. La bande passante de l’Internet peut changer en fonction de l’heure.
-- Connectez-vous à votre ordinateur en tant qu’administrateur afin de pouvoir déterminer si des processus de fonds sont en cours d’exécution et les arrêter.
-– Désactivez les bloqueurs de pop-ups du navigateur.
-- Assurez-vous que votre appareil portable soit proche, avec l’écran visible, à l’extérieur de l’espace immédiat de l’examen tout en étant à portée de la main, au cas où le surveillant aurait besoin de vous contacter.
-  - Assurez-vous que votre profil de certification Microsoft soit actualisé avec votre numéro de téléphone avec le code pays, au cas où Pearson VUE aurait besoin de vous contacter au cours de l’examen.
+Pour commencer votre session de test et vous connecter avec un interlocuteur:
 
-Pour commencer l'examen et vous mettre en relation avec un agent d'accueil:
+1. Connectez-vous à votre [Certification Dashboard](https://aka.ms/certdashboard) avec l'email associé à votre profil de Microsoft Certification. (Si vous ne pouvez pas accéder à votre Microsoft Certification Dashboard à cette étape d'abord, essayez à nouveau en utilisant un navigateur Incognito ou en mode privé. Si vous ne pouvez toujours pas accéder à votre Certification Dashboard, ouvrir un dossier avec [support de certification](https://aka.ms/mcpforum), et un modérateur du forum vous aidera).
+2. Nous vous recommandons de vous inscrire 15 minutes à l'avance pour commencer le processus d'enregistrement. VOUS N'AUREZ QUE 15 minutes après l'heure prévue de votre rendez-vous pour commencer le processus d'examen.
+3. Dans la section "Rendez-vous" à droite, trouvez votre rendez-vous d'examen et sélectionnez "Commencer l'examen en ligne". Vous serez redirigé vers Pearson VUE.
+4. Sélectionnez le nom de l'examen sous “Purchased Online Exams”.
+5. Sélectionnez “Begin exam” et procéder à l'auto-enregistrement et attendre qu'un surveillant se connecte avec vous. (Remarque: vous devez sélectionner “Begin exam” pour lancer l'examen ; si vous ne le faites pas, l'examen ne sera pas lancé).
+6. Si vous n'êtes pas connecté à un surveillant 30 minutes après l'heure prévue de votre examen, la connexion a été perdue. Vous pouvez reprogrammer votre examen 24 à 30 heures après le rendez-vous d'examen initial. Il suffit de vous connecter à votre [Certification Dashboard](https://aka.ms/certdashboard) avec l'e-mail associé à votre profil de Microsoft Certification pour reporter le rendez-vous. Nous vous recommandons de vous servir vous-même dans la mesure du possible, mais vous pouvez également vous adresser à [support Pearson VUE](https://home.pearsonvue.com/microsoft/contact) pour obtenir de l'aide afin de reprogrammer un examen. Veuillez faire preuve de patience car les réponses sont plus lentes que d'habitude en raison du COVID-19 (jusqu'à cinq jours).
+7. La vérification de l'identité et le balayage des pièces sont effectués par l'agent d'accueil à la fin de l'enregistrement automatique. Si aucun problème n'est identifié lors de l'examen de ces documents par le réceptionniste, vous serez placé dans la file d'attente des surveillants. Dès qu'un surveillant sera disponible, vous pourrez commencer votre examen. Dans les cas où le surveillant a des questions sur les artefacts fournis, il travaillera avec vous pour les résoudre.
+8. Une fois ce processus terminé, l'examen commencera. Votre surveillant ne vous contactera pas pendant l'examen, sauf en cas de problème.
+9. S'il y a un problème technique pendant l'examen, le surveillant essaiera d'abord de vous contacter par chat. Si cela ne fonctionne pas, le surveillant vous contactera par téléphone.
+10. S'il y a un problème après l'examen, [contactez le support Pearson VUE.](https://home.pearsonvue.com/contact) Veuillez avoir à disposition le numéro du rapport d'incident fourni par votre surveillant.
 
-1. Connectez-vous à votre [tableau de bord de certification](https://aka.ms/certdashboard) avec l’adresse électronique associée à votre profil de certification Microsoft. (Si vous ne pouvez pas accéder à votre tableau de bord de certification Microsoft dans cette première étape, essayez de nouveau en utilisant un navigateur InCognito ou InPrivate. Si vous êtes toujours incapable d’accéder à votre tableau de bord de certification, ouvrez un cas d’enquête dans [l’Assistance à la certification](https://aka.ms/mcpforum) et un modérateur du forum
-vous aidera.)
-2. Nous vous recommandons de vous connecter 15 minutes en avance pour commencer le processus d’enregistrement. VOUS disposerez UNIQUEMENT de 15 minutes après l'heure prévue de votre rendez-vous pour commencer l'examen.
-3. Dans la section **Rendez-vous**; sur la droite, choisissez **Commencer un examen surveillé en ligne précédemment programmé**.
-4. Sélectionnez l’examen sous **Examens achetés en ligne**.
-5. Sélectionnez **Débuter l'examen** et suivez le processus d'auto-vérification et attendez qu'un surveillant vous contacte. (Remarque: Vous devez sélectionner Débuter l’examen afin de commencer l’examen Sinon, l’examen ne commencera pas.)
+## Récupérer le rapport de score
 
-**Remarque** Vous pourriez devoir attendre jusqu’à 30 minutes avant de vous connecter avec l’accueil (nécessaire pour reconfirmer votre identité et les exigences relatives à la pièce) ou avec le surveillant après avoir complété le processus d’enregistrement autonome.
+Visitez: [Comment accéder à votre rapport de score](/learn/certifications/exam-scoring-reports#how-to-access-your-score-report).
 
-Si vous n’êtes pas connecté à un surveillant dans les 30 minutes **suivant l’heure prévue pour votre examen**, la connexion a été perdue. Vous pouvez reporter votre examen dans les 24 à 30 heures suivant le rendez-vous initial de l’examen. Connectez-vous simplement à votre [tableau de bord de certification](https://aka.ms/certdashboard) avec l’adresse électronique associée à votre profil de certification Microsoft pour le reporter. Nous vous recommandons d’utiliser le libre-service autant que possible, toutefois, si vous avez besoin d’aide pour reporter l’examen, vous pouvez contacter Pearson VUE [support](https://home.pearsonvue.com/microsoft/contact). Veuillez patienter parce que les réponses tardent plus que la normale à cause du COVID-19 (jusqu’à cinq jours).
+## Supprimer le logiciel de surveillance
 
-- La vérification d’identité et le balayage de la pièce se font lors de l’accueil après avoir complété l’enregistrement autonome. Si l’accueil n’identifie aucun problème ou préoccupation relatifs aux artefacts, vous serez placé en ligne pour un surveillant. Dès qu’un surveillant sera disponible, vous pourrez débuter votre examen. Dans les cas où le préposé à l'accueil a des questions sur les objets fournis, il travaillera avec vous pour les résoudre.
-- A l'issue de cette phase, l'examen commencera. Votre surveillant ne vous contactera pas pendant l'examen, sauf en cas de problème.
-- Si un problème technique se produit durant l'épreuve, le surveillant essaiera d'abord de vous contacter par l'intermédiaire de la fenêtre de conversation. Si cela ne fonctionne pas, il vous contactera par téléphone.
-- En cas de problème après l’examen, contactez l’assistance [Pearson VUE](https://home.pearsonvue.com/contact). Munissez-vous du numéro de rapport d'incident fourni par votre surveillant.
-
-### Récupérer le relevé de notes et désinstaller le logiciel du surveillant
-
-Vous pouvez accéder à vos relevés de notes à partir de votre [tableau de bord de certification](https://aka.ms/certdashboard).
-
-1. Connectez-vous à [votre tableau de bord de certification](https://aka.ms/certdashboard).
-2. Sélectionnez **Afficher le relevé de notes**. Dans cette fenêtre, vous pouvez enregistrer et imprimer votre relevé de notes.
-3. Vos résultats d'examen (réussi ou échoué) seront transmis à Microsoft pour traitement. (Si votre note n’est pas affichée dans les 48 heures suivant la fin de votre examen, contactez [l’assistance à la certification](https://aka.ms/mcpforum) et un modérateur du forum vous viendra en aide.
-4. À l’issue de votre examen, vous serez tenu de supprimer tous les fichiers exécutables et accessoires, notamement l’icône **Pearson VUE Secure Browser**. Pour faire disparaître cette icône de votre bureau, cliquez droit dessus et choisissez **Delete** puis **Yes**.
-5. [**Désinstaller le fichier exécutable pour Pearson VUE Secure Browser**](https://windows.microsoft.com/en-us/windows7/uninstall-or-change-a-program).
-
-## Foire aux questions
-
-Trouvez des réponses aux questions fréquemment posées sur les examens surveillés en ligne.
-
-### Comment savoir si un examen en ligne me convient ?
-Commencez par vous assurer que votre ordinateur répond à [la configuration système requise](/learn/certifications/online-exams#system-requirements) et complétez le [test de système](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) requis. Révisez [le protocole d’examen](/learn/certifications/online-exams#testing-session-protocol), pour savoir à quoi vous attendre durant l’examen. Si vous avez des doutes ou des réserves sur la conformité de votre système aux exigences, ou sur le protocole d'examen, nous vous recommandons de planifier votre examen dans un centre d'examen.
-
-### Puis-je quand même passer un examen en ligne si mon système ne passe pas ce test ?
-Non. Vous ne devez pas vous inscrire à un examen en ligne si votre système ne réussit pas le [test du système](/learn/certifications/online-exams#system-requirements), ni planifier un examen en ligne si vous n'êtes pas en mesure de prendre une photo claire de votre pièce d'identité.
-
-### Comment s’inscrire à un examen en ligne?
-Pour vous inscrire, connectez-vous d’abord à votre [tableau de bord de certification](https://aka.ms/certdashboard) Microsoft avec l’adresse électronique associée à votre profil de certification Microsoft. Sélectionnez le bouton **Planifier un examen** puis sélectionnez dans la [liste des examens](/learn/certifications/browse/) l’examen Microsoft que vous souhaitez passer. Si les examens en ligne sont disponibles dans votre pays, vous pourrez sélectionner cette option lors de la phase d'inscription de l'examen. Vous sélectionnerez également la langue de l'agent d'accueil, du surveillant et du logiciel de surveillance.
-
-### Il semble qu’il serait plus facile de tricher si je ne me trouve pas dans un centre d’examens. Les examens en ligne sont-ils sécurisés?
-Nous nous engageons à protéger l'intégrité de nos examens, quelle que soit l'option choisie. Lorsque vous passez un examen en ligne, vous devez d'abord installer un navigateur sécurisé appliquant des protections rigoureuses tout au long de la phase d'examen. En outre, un surveillant Pearson VUE vous supervise pendant toute la durée de l'examen, par le biais de la webcam et du micro. Si nous suspectons un acte de tricherie, nous analysons les vidéos des sessions d'examen. Il nous est facile de détecter la tricherie, nous vous déconseillons donc d'essayer—les tricheurs sont destitués de leurs certifications et sont interdits de se présenter à des examens ultérieurs.
-
-### Si je passe plusieurs examens en vue d’une certification, dois-je choisir une seule méthode d'examen?
-Non, vous pouvez mélanger les manières de passer l'examen (en ligne ou en personne dans un centre d’examens).
-
-### Une fois mon examen lancé et que l’on m’a attribué un surveillant, combien de temps ai-je pour finir l’épreuve?
-Vous disposerez de la même durée si vous passez l'examen en ligne que si vous le passez dans un centre d'examens Pearson VUE. Consultez [Aperçu du processus d'examen](/learn/certifications/exam-process-overview) pour vous informer de la durée de l’examen en fonction du type d’examen.
-
-### Les examens en ligne sont-ils plus difficiles que les épreuves se déroulant dans les centres d’examen?
-Non. Les examens sont équivalents en termes de difficulté.
-
-### Puis-je prendre des notes pendant mon examen en ligne?
-Oui, en utilisant la fonctionnalité de tableau blanc qui fait partie de l’expérience d’examen en ligne (vous ne pouvez pas utiliser de tableau blanc extérieur). La fonction tableau blanc permet d'entrer des notes ou de dessiner des formes. Vous pouvez accéder au tableau blanc pendant votre examen en cliquant sur l'icône représentant une gomme en haut de l'écran.
-
-### Les examens en ligne sont-ils disponibles en plusieurs langues?
-Oui. Si les examens en ligne sont disponibles dans votre pays, ils seront disponibles dans les langues disponibles dans les centres de test de votre pays. Veuillez noter que l'assistance d'accueil et de surveillance ainsi que le logiciel de surveillance sont disponibles dans un nombre limité de langues. Vous sélectionnerez cette langue au cours de la procédure d’inscription à l’examen. Elle peut être différente de la langue dans laquelle vous passerez l’examen. La plupart des candidats ne pourront passer un examen en ligne qu’avec une assistance d'accueil et de surveillance et un logiciel de surveillance en anglais, quelle que soit la langue de l’examen.
-
-### Si je rencontre des problèmes techniques avant, pendant ou après l’examen en ligne, qui dois-je contacter?
-Pour les questions relatives à l'inscription, veuillez utiliser les liens vers le service client Pearson VUE, fournis lors de votre inscription. Si vous rencontrez un problème technique lors de votre examen, le surveillant est là pour vous aider à le résoudre. Si nécessaire, le surveillant vous donnera un numéro de rapport d’incident à mentionner ultérieurement auprès de [Pearson VUE Customer Support](https://www.pearsonvue.com/microsoft/contact).
-
-### Quel type d’identification est nécessaire pendant la procédure d’enregistrement?
-Veuillez consulter la [politique d'identification](https://home.pearsonvue.com/Policies/1S/English) actuelle pour obtenir une liste des pièces d'identité acceptables. Le nom sur votre profil de certification Microsoft doit correspondre exactement au nom qui apparaît sur votre document d’identification émis par le gouvernement que vous utiliserez pour passer l’examen. Si vous êtes en train de mettre à jour ou de renouveler votre pièce d'identité, notez que les formulaires juridiques de changement de nom, y compris les formulaires de renouvellement de la carte d'identité, seront refusés pour les examens surveillés en ligne.
-
-### Comment puis-je modifier mon nom légal sur mon profil de certification Microsoft?
-Le nom figurant sur votre profil de certification Microsoft doit correspondre exactement à la pièce d'identité délivrée par le gouvernement que vous fournirez lors du processus d'enregistrement de l'examen. Si vous avez besoin de changer votre nom, veuillez soumettre une demande via le [formulaire légal de mise à jour du nom](https://aka.ms/MSCertificationLegalNamechange).
-
-### J’ai un rendez-vous prévu pour un examen en ligne. Comment puis-je le commencer?
-Nous vous recommandons de vous connecter 15 minutes en avance pour commencer le processus d’enregistrement. VOUS disposerez UNIQUEMENT de 15 minutes après l'heure prévue de votre rendez-vous pour commencer l'examen.
-
-1. Connectez-vous à votre [tableau de bord de certification](https://aka.ms/certdashboard) avec l’adresse électronique associée à votre profil de certification Microsoft.
-2. Dans la section **Rendez-vous**; sur la droite, choisissez **Commencer un examen surveillé en ligne précédemment programmé**.
-3. Sélectionnez l’examen sous **Examens achetés en ligne**.
-4. Sélectionnez **Débuter l'examen** et suivez le processus d'auto-vérification et attendez qu'un surveillant vous contacte. (Remarque: Vous devez sélectionner Débuter l’examen afin de commencer l’examen Sinon, l’examen ne commencera pas.)
-
-### Où puis-je trouver une liste des politiques relatives aux examens?
-Veuillez vous référer aux [politiques et FAQ relatives aux examens](/learn/certifications/certification-exam-policies) applicables à tous les examens de certification Microsoft.
+À la fin de votre examen, vous devez supprimer tous les fichiers exécutables et auxiliaires, y compris le **Pearson VUE Secure Browser**. Pour supprimer le Pearson VUE Secure Browser, suivez l'application standard [processus de désinstallation pour Windows](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) ou [processus de désinstallation pour Mac.](https://support.apple.com/en-us/HT202235).

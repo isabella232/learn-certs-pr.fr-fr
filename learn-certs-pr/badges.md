@@ -1,6 +1,6 @@
 ---
-title: Microsoft Exam and Certification Badges | Microsoft Docs
-description: Examen et badges de certification Microsoft 
+title: Utiliser et partager les badges de certification | Microsoft Docs
+description: Utiliser et partager les badges de certification 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,120 +9,104 @@ ms.workload: NA
 ms.date: 05/28/2020
 ms.author: micsullivan
 ---
-# Examen et badges de certification Microsoft
+# Utiliser et partager les badges de certification
 
-Que le monde entier sache que vous avez réussi un examen ou obtenu une nouvelle certification avec un badge numérique!
+## Utiliser et partager les badges de certification
 
-Grâce à votre badge numérique, vous pouvez afficher vos compétences en toute simplicité à l'aide d'un outil fiable et vérifiable.
+## À propos des badges numériques
 
-Le badge Microsoft vous offre de nombreux avantages:
+Vous gagnerez des badges en passant des examens qui font partie d'une certification à examens multiples et en obtenant des certifications. Le partage de vos réalisations avec le monde entier via un badge numérique est un excellent moyen de faire connaître vos compétences.
 
-Partagez facilement vos certifications et vos examens avec l'ensemble de votre réseau professionnel.
-Découvrez les employeurs intéressés en fonction de vos compétences.
-Découvrez le salaire que vous pouvez espérer dans les emplois requérant vos compétences Microsoft.
-Trouvez de nouvelles offres d'emploi associées à votre certification et postulez en quelques clics.
+Les badges sont des représentations numériques de vos réalisations, composées d'une image et de métadonnées qui vous sont associées de manière unique. Lorsqu'une personne consulte votre badge, elle peut en apprendre davantage sur vos compétences et vérifier l'authenticité du badge, ce qui constitue un moyen facile de confirmer vos compétences.
 
-Pour plus de détails, consultez notre article de blog [Déverrouillez les offres d’emploi actives avec votre certification Microsoft](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
+Lorsque vous partagez votre badge numérique sur des sites populaires, tels que LinkedIn, Facebook et Twitter, ou lorsque vous l'intégrez à votre CV, à votre site Web personnel ou à votre signature électronique, toute personne qui voit votre badge le reconnaît immédiatement comme une validation Microsoft fiable de vos réalisations.
 
-## Qu'est-ce qu'un badge numérique?
+## A propos de la plateforme Credly
 
-Microsoft s'est associé à la plateforme Acclaim de Credly pour attribuer des badges pour vos réalisations de certification.
+Microsoft s'associe à Credly pour vous fournir un moyen de gérer, partager et vérifier vos Microsoft Certifications. La plateforme vous donne également des informations sur le marché du travail qui peuvent vous aider à explorer les opportunités d'emploi correspondant à vos compétences. Grâce à Credly et à son partenaire Gartner TalentNeuron™, vous bénéficiez d'un accès 24 heures sur 24 et 7 jours sur 7 à plus de 25 000 sites d'emploi et de carrière d'entreprises dans le monde.
 
-Ces badges sont des représentations numériques de vos certifications, ils sont constituées d'une image et de métadonnées liées uniquement à vous. Lorsqu'une personne regarde votre badge, elle peut en apprendre davantage sur vos compétences et en vérifier l'authenticité, vous garantissant ainsi l'attribution du mérite de vos compétences.
+Avec la plateforme Credly, vous pouvez :
+- Télécharger l'image et URL de votre badge pour l'intégrer dans un CV, un site Web ou une signature de courriel.
+- Partager facilement vos examens et certifications avec votre réseau professionnel.
+- Découvrez les employeurs intéressés en fonction de vos compétences.
+- Découvrez le salaire que vous pouvez espérer dans les emplois requérant vos compétences Microsoft.
+- Trouvez de nouvelles offres d'emploi associées à votre certification et postulez en quelques clics.
+- Explorer les perspectives du marché du travail et les opportunités d'emploi. Regardez la vidéo: [Credly: Labor market insights](https://vimeo.com/379867308) pour voir à quel point il est facile de découvrir rapidement les opportunités sur votre marché.
 
-De plus, l'apparence de nos badges s’harmonise plus avec les autres informations d'identification que vous pourriez obtenir de Microsoft. Désormais, lorsque vous partagez votre badge numérique sur des sites en ligne populaires, tels que LinkedIn, Facebook et Twitter ou lorsque vous l'intégrez à votre CV, votre site Web personnel ou votre signature électronique, tous ceux qui verront votre badge reconnaîtront immédiatement qu'il a été délivré par Microsoft.
+Pour en savoir plus, consultez notre article de blog [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
-## Comment obtenir son badge?
+## Comment réclamer vos badges?
 
-Récupérer votre badge Microsoft est simple. Une fois que vous avez obtenu une certification ou réussi un examen, vous recevrez une notification par courriel de Microsoft. Pour obtenir votre premier badge:
+Réclamer votre badge Microsoft est simple et vous pouvez le faire à tout moment, même si vous l'avez déjà obtenu par le passé. Après avoir obtenu un badge, vous recevrez un message de notification de Microsoft contenant des informations sur la manière de le réclamer.
 
-1. Cliquez sur le lien qui se trouve dans cet e-mail.
-2. Créez un compte sur la plateforme Acclaim de Credly Les cookies.
-3. Confirmez votre compte en cliquant sur le lien de l'e-mail de confirmation qui a été généré quand vous avez configuré votre compte.
+1. Cliquez sur le lien contenu dans l'e-mail pour réclamer votre badge. Vous serez alors dirigé vers la plateforme Credly.
+2. Créez un compte sur Credly. Utilisez la même adresse e-mail que vous avez utilisée pour configurer votre compte Microsoft.
+3. Confirmez votre compte sur Credly en cliquant sur le lien figurant dans un e-mail de confirmation généré après la configuration de votre compte.
+4. Pour réclamer vos futurs badges, il vous suffit de cliquer sur le lien figurant dans l'e-mail de notification et de vous connecter à votre compte Acclaim.
 
-Récupérer les badges futures est très facile, il suffit de cliquer sur le lien du e-mail de notification et de vous connecter à votre compte Acclaim.
+Si vous ne disposez plus de l'e-mail de notification pour réclamer votre badge, il vous suffit de créer un compte sur la plateforme Credly* en utilisant la même adresse e-mail que celle que Microsoft a enregistrée pour vous. Votre badge vous attendra dans votre compte pour être réclamé.
 
-Voulez-vous encore simplifier cette procédure?
+_*Veuillez noter que ce lien vous mènera à Credly, un tiers dont les pratiques en matière de confidentialité diffèrent de celles de Microsoft. Si vous fournissez des données personnelles à Credly, vos données sont régies par leur déclaration de confidentialité._
 
-Ajustez simplement les paramètres de votre compte pour accepter automatiquement les badges qui vous sont attribués. Vous pouvez regarder le processus étape par étape dans la vidéo [Comment procéder avec Acclaim: Gérer votre badge](https://www.youtube.com/watch?v=rMeSQM0h1_Y). Notez que, même si la vidéo montre les notifications de badge par e-mail envoyées par Acclaim, vos notifications par e-mail seront envoyées par Microsoft.
+## Comment accepter automatiquement les badges de Credly
 
-N’oubliez pas de profiter des fonctionnalités offertes sur la plateforme Acclaim de:
+Dans la plateforme Acclaim de Credly, ajustez les paramètres de votre compte pour accepter automatiquement les badges qui vous sont attribués. Regardez ce processus étape par étape dans la vidéo Acclaim “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” Notez que, bien que la vidéo montre les notifications de badge par courriel provenant de Acclaim, vos notifications par courriel proviendront de Microsoft.
 
-Partagez votre badge sur LinkedIn, Facebook et Twitter.
-Téléchargez l'image et l'URL de votre badge pour les ajouter sur votre CV, sur votre site Web ou dans votre signature d'e-mail.
-Personnalisez votre profil sur la plateforme Acclaim.
-Découvrez les dernières offres d'emploi et informations sur le marché du travail. Regardez la vidéo [Comment procéder avec Acclaim: Découvrir des informations utiles sur le marché du travail](https://www.youtube.com/watch?v=G4qBl17VgBo) to see how easy it is to quickly discover opportunities in your market.
+## Comment partager votre badge
 
-Votre badge numérique représente un témoignage supplémentaire de l'engagement continu de Microsoft en faveur du développement et de la reconnaissance de vos compétences professionnelles. Tirez parti de ce programme pour faire avancer votre carrière.
+Chaque fois que vous apprenez une nouvelle compétence Microsoft ou obtenez une Microsoft Certification dans votre domaine, c'est un accomplissement qui mérite d'être partagé et célébré avec votre réseau.
 
-## Avez-vous des badges non réclamés?
+Après avoir réclamé votre badge de Microsoft Certification, vous pouvez le partager ainsi que votre statut de certification:
 
-Vous pouvez réclamer votre badge à tout moment, même si vous avez réussi un examen ou obtenu une certification par le passé. Tous les badges que vous avez obtenus de Microsoft sur la base de l’historique de vos certifications passées sont disponibles sur la plateforme Acclaim. Connectez-vous simplement à votre compte et récupérez-les!
+1. Rendez-vous sur la plateforme Credly, soit par le biais de votre [Microsoft Certification Dashboard](https://aka.ms/certdashboard), soit par le lien figurant dans l'e-mail de réclamation de badge envoyé par Microsoft.
+2. Connectez-vous à votre compte Credly.
+3. Pour accéder à la page "Share your badge", sélectionnez **Share**.
+4. Pour partager votre badge sur les médias sociaux (tels que LinkedIn) ou pour l'intégrer dans votre CV, votre signature de courriel ou votre site Web personnel, utilisez les fonctions de partage en un clic sur cette page.
 
-Si vous n’avez pas de compte Acclaim, vous pouvez en créer un sur le site de la plateforme [Acclaim](https://www.youracclaim.com/)* en utilisant l’adresse de courrier électronique associée à votre compte Microsoft. Votre badge sera en attente dans votre compte pour que vous puissiez le réclamer.
-
-Veuillez noter que ce lien vous amènera à la plateforme Acclaim de Credly, une tierce partie dont la politique de confidentialité est différente de celle de Microsoft. Si vous fournissez des données personnelles à Acclaim, vos données seront gouvernées par leur politique de confidentialité.
-
-## Dans quelles conditions puis-je obtenir un badge?
+## Examens et certifications éligibles pour un badge?
 
 Nous attribuons des badges pour tous les examens et certifications actifs du programme de certification Microsoft, avec les exceptions suivantes:
 
 - Si la réussite d’un examen entraîne une certification, un badge est émis pour la certification plutôt que pour l’examen.
-- Examen 74-343 Gestion des projets avec Microsoft Project (retiré en juillet 2019)
-- Examens et certifications MOS 2010.
-- Examens Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (tous retirés le 31 décembre 2019)).
-- Anciens examens et certifications. Les badges ne sont pas disponibles pour certains de nos anciens examens et certifications. Si vous ne voyez pas de badge pour un ancien examen ou une ancienne certification sur votre profil Acclaim, cela signifie que nous n’en avons pas émis pour cet examen ou cette certification.
+- Les badges ne sont pas disponibles pour certains de nos anciens examens et certifications. Si vous ne voyez pas de badge pour un ancien examen ou une ancienne certification sur votre profil Acclaim, cela signifie que nous n’en avons pas émis pour cet examen ou cette certification.
 
-Si vous avez remporté un badge pour un examen ou une certification qui a été retiré, vous pouvez encore réclamer votre badge via la plateforme Acclaim de Credly et le partager sur d'autres plateformes ou par e-mail. Consultez la réponse à la question « Avez-vous des badges non réclamés? » dans les questions fréquemment posées pour savoir comment vous y prendre.
+Si vous avez obtenu un badge pour un examen ou une certification qui a été retiré, vous pouvez toujours réclamer votre badge via la plateforme Credly.
 
-## Foire aux questions
+## Questions fréquemment posées sur les badges
 
-**Q. La demande, la gestion et le partage de mon badge Microsoft occasionnent-ils des frais?**
+**La demande, la gestion et le partage de mon badge Microsoft occasionnent-ils des frais?**
 
-**R.** Non, ce service de récupération, de gestion et de partage de Microsoft badge est proposé gratuitement par Microsoft.
+Non. Il s'agit d'un service gratuit fourni par Microsoft.
 
-**Q. De quelle manière ma certification est-elle associée au badge Microsoft?**
+**De quelle manière ma certification est-elle associée au badge Microsoft?**
 
-**R.** La plateforme Acclaim de Credly utilise les standards Open Badges définis par Mozilla pour traduire vos informations d'identification en une image numérique associée à des métadonnées connectées de manière unique. Grâce à cette norme, le badge numérique que vous pouvez partager facilement en ligne peut être vérifié par les employeurs et autres personnes qui s’intéresseraient à vos compétences.
+La plateforme Credly utilise les normes Open Badges définies par Mozilla pour traduire votre identifiant en une image numérique associée à des métadonnées vous concernant de manière unique. Grâce à cette norme, le badge numérique que vous pouvez partager facilement en ligne peut être vérifié par les employeurs et autres personnes qui s’intéresseraient à vos compétences.
 
-**Q. Mon badge semble différent. Qu'est ce qui a changé?**
+**Mon nouveau badge semble différent de ceux que j'ai obtenus précédemment. Qu'est-ce qui a changé ?**
 
-**R.** L'aspect de nos badges a été mis à jour pour se conformer à l’aspect des badges que vous remportez avec Microsoft. Le nouveau design a les mêmes fonctionnalités qu'auparavant et nous vous encourageons à partager votre badge avec vos pairs et sur les réseaux sociaux.
+L'apparence de nos badges a été mise à jour pour s'aligner sur celle des badges que vous pouvez obtenir dans l'ensemble de Microsoft. Le nouveau design présente les mêmes fonctionnalités qu'auparavant.
 
-**Q. Quand et comment puis-je récupérer mon badge?**
+**Que faire si je ne veux pas que mon badge Microsoft soit rendu public?**
 
-**R.** Vous pouvez récupérer votre badge à tout moment. Vous pouvez accéder à votre badge en cliquant via les notifications de badge ou les rappels envoyés par e-mail. Ou, si vous n’avez plus accès à ces e-mails, vous pouvez le faire en accédant à votre compte Acclaim. Si vous n’avez pas de compte, vous pouvez en créer un sur le [Acclaim platform site](https://www.youracclaim.com/)* en utilisant l’adresse de courrier électronique associée à votre compte Microsoft. Votre badge sera disponible sur votre compte. Notez que Microsoft peut, à tout moment, mettre un terme à ce programme d'attribution de badges.
+Vous contrôlez comment et quand votre badge est rendu public. Vous pouvez ajuster les paramètres de confidentialité de votre compte sur la plateforme Credly pour rendre votre profil et vos badges privés. Vous n'êtes pas tenu d'accepter vos badges et pouvez ignorer les courriels de notification si vous ne souhaitez pas participer au programme de badges Microsoft.
 
-Veuillez noter que ce lien vous amènera à la plateforme Acclaim de Credly, une tierce partie dont la politique de confidentialité est différente de celle de Microsoft. Si vous fournissez des données personnelles à Acclaim, vos données seront gouvernées par leur politique de confidentialité.
+**Si j'ai des questions sur mon badge Microsoft, à qui puis-je m'adresser ?**
 
-**Q. J'ai obtenu plusieurs badges Microsoft. Dois-je récupérer manuellement chaque badge auquel j'ai droit?**
+Visitez: [Support de certification](/learn/certifications/help).
 
-**R.** Vous pouvez ajuster les paramètres de votre compte sur la plateforme Acclaim pour accepter automatiquement les badges qui vous ont été délivrés. Regardez cette [vidéo](https://www.youtube.com/watch?v=rMeSQM0h1_Y) pour savoir comment faire.
+Si vous avez des questions sur la plateforme Credly ou sur la manière de réclamer votre badge, contactez [le support Credly’s](https://support.youracclaim.com/)
 
-**Q. Comment faire si je ne souhaite pas rendre mon badge Microsoft public?**
+**Que faire si j'ai obtenu un badge Microsoft par Certiport mais que je n'ai pas encore reçu mon badge ?**
 
-**R.** Vous seul décidez comment et quand vous souhaitez rendre votre badge public. Vous pouvez ajuster les paramètres de confidentialité de votre compte sur la plateforme Acclaim pour rendre votre profil et vos badges privés. Vous n'êtes pas obligé d'accepter vos badges et vous pouvez ignorer les e-mails de notification si vous ne souhaitez pas participer au programme d'attribution de badges de Microsoft.
-
-**Q. Qu'est-ce que la plateforme Acclaim de Credly?**
-
-**R.** La plate-forme Acclaim est une plateforme indépendante de création de badges appartenant à Credly. Acclaim fournit des outils pour gérer, partager et vérifier vos certifications Microsoft. La plateforme offre également des informations utiles sur le marché du travail, notamment sur les offres d'emploi qui correspondent à vos compétences. [En savoir plus sur Acclaim](https://www.youracclaim.com/).
-
-**Q. Qui dois-je contacter si j'ai des questions à propos de mon badge Microsoft?**
-
-**R.** Si vous pensez avoir droit à un badge mais que vous n’avez reçu aucune notification, contactez votre [Assistance à la certification](https://aka.ms/MCPForum). Si vous avez des questions sur la plateforme Acclaim ou sur la façon de récupérer votre badge, contactez le [Service d’assistance de Credly](https://support.youracclaim.com/).
-
-**Q. Et si j’avais obtenu un badge Microsoft via Certiport sans toutefois l’avoir déjà reçu?**
-
-**R.** Veuillez contacter Certiport à l’adresse
-[https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) pour obtenir des informations sur votre badge manquant.
+Veuillez [contacter Certiport](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) pour vous renseigner sur votre badge manquant.
 
 Veuillez noter: Lorsqu’un badge obtenu via Certiport manque, c’est habituellement dû à l’une des raisons suivantes:
 
 1. Votre langue par défaut sur votre compte Certiport n'est pas l'anglais.
 2. Vous avez deux comptes dans Certiport Les cookies système de certification Certiport.
 
-Il peut être utile de les mentionner au service d’assistance de Certiport pour vous aider lors du dépannage.
+Il peut être utile de mentionner au support Certiport si vous pensez que l'un de ces éléments peut être à l'origine du problème afin de faciliter la résolution du problème.
 
 **Q. Qu’arrive-t-il à mon badge si l’examen ou la certification est retiré?**
 
-**R.** Si vous aviez obtenu un badge d’un examen ou d’une certification qui avait été choisi pour faire partie du programme de badge numérique et qui avait été ultérieurement placé sur la [liste retirée](/learn/certifications/retired-certifications#retired-certifications), vous pouvez encore demander le badge via la plateforme Acclaim de Credly et le partager comme d’habitude sur d’autres plateformes ou par courrier électronique.
+Si vous avez obtenu un badge pour un examen ou une certification qui a été choisi pour faire partie du programme de badges numériques mais qui a ensuite été [retiré](/learn/certifications/retired-certifications), vous pouvez toujours accepter le badge via la plateforme Credly.

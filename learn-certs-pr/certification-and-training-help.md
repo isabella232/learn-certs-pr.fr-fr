@@ -1,6 +1,6 @@
 ---
-title: Aide aux didacticiels officiels Microsoft (MOC) | Docs Microsoft
-description: Aide aux didacticiels officiels Microsoft (MOC)
+title: Support de Microsoft Official Courseware (MOC) | Microsoft Docs
+description: Support de Microsoft Official Courseware (MOC)
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Aide aux didacticiels officiels Microsoft (MOC)
+# Support de Microsoft Official Courseware (MOC) 
 
-Avez-vous besoin d’aide avec les didacticiels officiels Microsoft (MOC)? Contactez votre centre d’assistance régional dans la liste des pays ci-dessous. Veuillez noter que ces options d’assistance sont uniquement pour MOC. Pour obtenir de l’aide avec les certifications ou les examens Microsoft, veuillez visiter [l’Assistance à la certification](/learn/certifications/help).
+## À propos du support MOC
+
+Le Microsoft Official Courseware (MOC) est le contenu utilisé dans nos cours. Le support pour les MOC est géré par région dans le monde entier.
 
 ## Coordonnées du programme régional MOC
+
+Veuillez noter que ces options d'assistance ne concernent que le MOC. Pour obtenir de l'aide sur les Microsoft Certifications ou les examens, veuillez consulter le site: [Support de certification](/learn/certifications/help).
 
 | Pays | Tél. + Langue | E-mail |Infos supplémentaires | Coordonnées |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ Avez-vous besoin d’aide avec les didacticiels officiels Microsoft (MOC)? Conta
 | Vietnam | (65) 6622 1237 | [Requêtes sur la place de marché des didacticiels](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9h00 à 18h00 (9:00 A.M. à 06:00 P.M.) du lundi au vendredi Heure de Singapour |
 | Îles Vierges britanniques| Anglais: +1 305 715-1492<br/>Espagnol: +1 305 715-1490<br/>Portugais: +1 305 715-1491 | [Requêtes sur la place de marché des didacticiels](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | Veuillez noter que ces numéros sont aux États-Unis. Tarifs longue distance ou international éventuellement applicables par votre fournisseur de services téléphoniques. | Anglais: 7h00 à 19h00 (du lundi au vendredi) Heure de Colombie<br/>Espagnol: 7h00 à 19h00 (du lundi au vendredi) Heure de Colombie<br/>Portugais: 9h00 à 18h00 (du lundi au vendredi) Heure du Brésil |
 | Îles Vierges américaines| Anglais: +1 305 715-1492<br/>Espagnol: +1 305 715-1490<br/>Portugais: +1 305 715-1491 | [Requêtes sur la place de marché des didacticiels](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | Veuillez noter que ces numéros sont aux États-Unis. Tarifs longue distance ou international éventuellement applicables par votre fournisseur de services téléphoniques. | Anglais: 7h00 à 19h00 (du lundi au vendredi) Heure de Colombie<br/>Espagnol: 7h00 à 19h00 (du lundi au vendredi) Heure de Colombie<br/>Portugais: 9h00 à 18h00 (du lundi au vendredi) Heure du Brésil |
-
-## Assistance à la certification
-
-Pour obtenir de l’aide avec la certification Microsoft, [cliquez ici](/learn/certifications/help).

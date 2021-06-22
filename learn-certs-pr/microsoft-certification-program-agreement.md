@@ -190,7 +190,7 @@ Le présent contrat du Microsoft Certification Program (**« Contrat »**) est
 
             6. Si votre principal lieu d'activité se trouve en République de Corée, les dispositions suivantes s'appliquent : Le Contrat est interprété et régi par les lois de la République de Corée. Vous consentez à la compétence exclusive du Tribunal de district central de Séoul ainsi qu'à ce lieu exclusif pour régler les litiges. Suite à toute action entreprise pour faire valoir un droit ou un recours en vertu du présent Contrat ou pour interpréter une disposition du présent Contrat, la partie gagnante sera en droit d'être remboursée des dépenses raisonnables engagées pour sa défense (honoraires d'avocat et autres).
 
-            7. Si votre principal lieu d'activité se trouve à Taïwan, les dispositions suivantes s'appliquent :  
+            7. Si votre principal lieu d'activité se trouve à Taïwan, les dispositions suivantes s'appliquent:  
             Le Contrat est interprété et régi selon les lois en vigueur à Taïwan. Par la présente, les parties désignent le tribunal de district de Taipei comme le tribunal de première instance ayant compétence pour arbitrer tout litige découlant de ou en relation avec le présent Contrat.
     6. *Honoraires d'avocats*: Si l'une ou l'autre partie emploie des avocats pour faire valoir des droits découlant de ou relatifs à ce Contrat, la partie gagnante aura le droit de recouvrer ses honoraires d'avocats, coûts et autres frais raisonnables, y compris les coûts et les frais encourus dans le cadre d'un appel, d'une faillite ou d'une action similaire
 

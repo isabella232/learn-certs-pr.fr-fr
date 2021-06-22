@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   
   Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 2 juin 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Concevoir et implémenter les services Microsoft 365 (25-30%)
 - Gérer l’identité et les rôles des utilisateurs (25-30%)
 - Gérer l’accès et l’authentification (15-20%)

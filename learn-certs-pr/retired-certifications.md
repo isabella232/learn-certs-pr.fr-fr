@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Certifications | Microsoft Docs
-description: Microsoft Retired Certifications
+title: Retrait de la certification | Microsoft Docs
+description: Retrait de la certification
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,56 +9,68 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Informations concernant le retrait des certifications
+# Retrait de la certification
 
-Afin de garder le programme Microsoft Certified Professional à jour, Microsoft Learning vérifie systématiquement nos certifications en cours et à venir pour s'assurer qu’elles correspondent aux dernières technologies Microsoft et à toutes les technologies que les Microsoft Certified Professionals utilisent quotidiennement.
+## Pourquoi les certifications sont retirées
+
+La technologie et les rôles professionnels associés évoluent plus rapidement chaque année. Pour que notre programme de certification reste pertinent, nous révisons continuellement nos examens et nos certifications afin de nous assurer qu'ils reflètent les dernières compétences et technologies Microsoft et nous retirons ceux qui ne sont plus pertinents. Notre objectif est de donner aux candidats les moyens d'être à la pointe de la technologie, dans des rôles professionnels très recherchés basés sur le cloud, et nous le faisons en fournissant des certifications pour des rôles professionnels critiques qui aident les organisations dans leurs transformations numériques. Pour plus de détails à ce sujet, visitez :  [Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
 
 ## Certifications dont le retrait est prévu
 
-Rechercher les certifications devant être retirées au cours des 12 prochains mois. (Les informations ci-dessous sont sujettes à modification.)  
+Les certifications dont le retrait est prévu dans les 12 prochains mois sont listées ici. (Ces informations sont susceptibles d'être modifiées).
 
 |                       |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSE: Business Applications](/learn/certifications/mcse-business-applications) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Cette sera retirée le 31-Janvier- 2021 |
-| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Cette sera retirée le 31-Janvier- 2021 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Retrait le 30 juin 2021 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Retrait le 30 juin 2021 |
+| [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Windows Operating System Fundamentals](/learn/certifications/mta-windows-operating-system-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Introduction to Programming Using Java](/learn/certifications/mta-introduction-to-programming-using-java) | Retrait le 30 juin 2022 |
+| [MTA: Software Development Fundamentals](/learn/certifications/mta-software-development-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: HTML5 Application Development Fundamentals](/learn/certifications/mta-html5-application-development-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Introduction to Programming Using Python](/learn/certifications/mta-introduction-to-programming-using-python) | Retrait le 30 juin 2022 |
+| [MTA: Networking Fundamentals](/learn/certifications/mta-networking-fundamentals) | Retrait le 30 juin 2022 |
+| [MTA: Introduction to Programming Using HTML and CSS](/learn/certifications/mta-introduction-to-programming-using-html-and-css) | Retrait le 30 juin 2022 |
+| [MTA: Introduction to Programming Using JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | Retrait le 30 juin 2022 |
+| [MTA: Mobility and Device Fundamentals](/learn/certifications/mta-mobility-and-device-fundamentals) | Retrait le 30 juin 2022 |
 
-## Retired certifications
+## Certifications récemment retirées 
 
-Trouver des certifications qui ont été retirées au cours de la dernière année. Lorsqu’une certification a été retirée depuis plus d’un an, elle est supprimée de cette page. Une fois que la certification a été retirée, il ne sera plus possible de la passer mais, si elle a déjà été obtenue, elle restera dans votre relevé de résultats dans la section Active.
+Ces certifications ont été retirées au cours de la dernière année. Lorsqu'une certification a été retirée depuis plus d'un an, elle sera supprimée de cette page. Une fois qu'une certification a été retirée, elle ne sera plus disponible dans les offres de cours ou de certification de Microsoft Learn. Si vous avez obtenu une certification avant qu'elle ne soit retirée, elle restera sur votre relevé de notes.
 
-REMARQUE: Quand une certification a été retirée, Microsoft continue de vérifier les technologies correspondantes pour déterminer si elle sont toujours pertinentes. S’il est déterminé que la technologie correspondante n’est plus pertinente, les certifications qui lui sont associées sont déplacées dans la section « Historique de certification » du relevé de résultats.
+Les certifications resteront dans la section Active de votre relevé de notes pendant deux ans après leur retrait. Après deux ans, elles seront déplacées vers la section Certification History de votre relevé de notes.
 
 | Basé sur les rôles                                     |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 décembre 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)       | 31 Août 2020 |
 
-| Microsoft Certified Solutions Developer                      |
-| ---------------------------------------------------------------------------------- |
-|                                          |
+| Microsoft Certified Solutions Developer                                            |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification)          | 1/31/2021 |
 
 | Microsoft Certified Solutions Associate                      |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 1/31/2021 |
 | MCSA: CRM Dynamics Technical                                                | 31 Décembre , 2019 |
+| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 1/31/2021 |
+| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 1/31/2021 |
+| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 1/31/2021 |
+| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 1/31/2021 |
+| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 1/31/2021 |
+| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 1/31/2021 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 1/31/2021 |
+| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 1/31/2021 |
+| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 1/31/2021 |
 
-| Microsoft Certified Solutions Expert                                               |
-| ---------------------------------------------------------------------------------- |
-|                                                                                    |
+| Microsoft Certified Solutions Expert                                               |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [MCSE: Business Applications](/learn/certifications/mcse-business-applications)    | 1/31/2021 |
+| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure)        | 1/31/2021 |
+| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 1/31/2021 |
+| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification)        | 1/31/2021 |
 
 | Microsoft Technology Associate                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |

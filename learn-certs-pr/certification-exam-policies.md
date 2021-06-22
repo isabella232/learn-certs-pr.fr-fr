@@ -17,6 +17,7 @@ Dans le monde entier, nos partenaires et clients attendent de Microsoft des exam
 - [Politique de sécurité des examens et règlement concernant le rattrapage d’examens](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [Politique relative au report et à l’annulation d’examens](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Contrat du Programme de certification Microsoft](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Accord de confidentialité des examens Microsoft](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Demander un hébergement](/learn/certifications/request-accomodations)
 - [Procédure de contestation de question d’examen](/learn/certifications/exam-item-challenge-process)

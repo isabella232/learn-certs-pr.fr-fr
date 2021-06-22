@@ -14,9 +14,22 @@ summary: |-
 subTitle: "Cet examen mesure votre capacité à décrire les éléments suivants: concepts de sécurité, de conformité et d'identité; capacités des solutions de gestion des identités et des accès de Microsoft; capacités des solutions de sécurité de Microsoft; et capacités des solutions de conformité de Microsoft."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- nl
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
 levels:
 - beginner
 skills:
@@ -52,6 +65,8 @@ paths:
 - uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+courses:
+- uid: course.sc-900t00
 relatedCertifications:
 - related:
     uid: certification.security-compliance-and-identity-fundamentals

@@ -1,6 +1,6 @@
 ---
-title: 'Politique de sécurité de l'examen | Microsoft Docs'
-description: 'Politique de sécurité de l'examen' 
+title: "Politique de sécurité de l'examen | Microsoft Docs"
+description: Politique de sécurité de l'examen
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article

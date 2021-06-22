@@ -1,6 +1,6 @@
 ---
-title: 'Trouver un partenaire d'apprentissage | Microsoft Docs'
-description: 'Microsoft Learning Partners - Trouver un partenaire d'apprentissage'
+title: "Trouver un partenaire d'apprentissage | Microsoft Docs"
+description: "Microsoft Learning Partners - Trouver un partenaire d'apprentissage"
 documentationcenter: NA
 author: micsullivan
 ms.topic: article

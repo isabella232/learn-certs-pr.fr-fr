@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Retrait du cours | Microsoft Docs
+description: Retrait du cours
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Formations retirées
+# Retrait du cours
 
-Les didacticiels qui ont été retirés ou seront bientôt retirés sont répertoriés dans les tableaux suivants. Les cours ne sont plus vendus après les dates de retrait.
+## A propos de la retraite des cours
 
-Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre ce lien: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft surveille en permanence les tendances du secteur et révise les exigences de certification afin de suivre l'évolution de la technologie. Pour vous aider à rester à la pointe de la technologie et vous offrir les opportunités de formation les plus pertinentes, nous introduisons régulièrement de nouveaux cours et révisons ou abandonnons les anciens cours.
 
-## Formations retirées: Formations dispensées par un instructeur
+Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plus être acheté et les personnes qui l'ont précédemment acheté n'auront plus accès au contenu du cours.
+
+## Cours retirés: Formation dirigée par un instructeur
+
+* Retraits des contenus de cours le 31 mai 2021
+
+    | numéro de formation | Version | titre | langue | date de retrait |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+
+* Retrait des contenus de cours le 30 avril 2021
+
+    | numéro de formation | Version | titre | langue | date de retrait |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
 
 * Retrait des didacticiels le 31 mars 2021
 
-    | Course number | Version | Title | Language | Retirement date |
+    | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 | 
 
 * Retrait des didacticiels le 31 Décembre 2020
 
@@ -989,7 +1024,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 * Retrait du matériel pédagogique le vendredi 24 juin 2016
 
-  [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Téléchargez la liste complète des cours de e-learning à la retraite.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Retrait des didacticiels le mercredi 15 juin 2016
 
@@ -1025,7 +1060,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 * Retrait des didacticiels le jeudi 31 décembre 2015
 
-  [Téléchargez la liste complète des instructor-led courses à la retraite](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Téléchargez la liste complète des instructor-led courses à la retraite.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Retrait du matériel pédagogique le lundi 31 août 2015
 
@@ -1046,7 +1081,7 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 * Retrait des didacticiels le mardi 30 juin 2015
 
-  [Téléchargez la liste complète des cours de instructor-led earning à la retraite](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Téléchargez la liste complète des cours de instructor-led earning à la retraite.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Retrait des didacticiels le samedi 31 janvier 2015
 
@@ -1139,8 +1174,8 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 * Retrait du matériel pédagogique le vendredi 29 décembre 2017
 
-  * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Téléchargez la liste complète des cours de SA e-learning à la retraite.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Retrait des didacticiels le mardi 15 août 2017
 
@@ -1150,62 +1185,58 @@ Si vous êtes à la recherche de cours sur demande MOC retirés, veuillez suivre
 
 * Retrait du matériel pédagogique le vendredi 30 juin 2017
 
-  * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Téléchargez la liste complète des cours de SA e-learning à la retraite.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Retrait des didacticiels le mardi 30 juin 2015
 
-  * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Téléchargez la liste complète des cours de e-learning à la retraite.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Retrait des didacticiels le mercredi 12 mars 2014
 
-  * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Téléchargez la liste complète des cours de e-learning à la retraite.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Questions fréquemment posées (FAQ) concernant le retrait des cours et des MOC On-Demand
- 
-**Q : Pourquoi les cours sont-ils retirés ?**
-  
-Microsoft suit en permanence les tendances du secteur et révise les exigences de certification pour rester en phase avec la technologie. Afin de garantir que nous vous offrons les possibilités de formation les plus pertinentes, nous offrons régulièrement de nouveaux cours et révisons ou supprimons les anciens cours. 
+## Cours retirés : MOC On-Demand
 
-**Q : Quels critères sont-ils utilisés pour déterminer si un cours doit être retiré ?**
+Tous les cours Microsoft Official Course (MOC) On-Demand ont été retirés à compter du 30 juin 2020. Pour une liste complète des cours retirés, visitez le site : [MOC On-Demand Courses spnt retirés](/learn/certifications/retired-on-demand-online-courses).
+
+## Questions fréquemment posées sur les cours et le retrait MOC On-Demand
+
+**Quels critères sont-ils utilisés pour déterminer si un cours doit être retiré ?**
  
-Un cours est généralement retiré dans l'un des cas suivants :
+Un cours est généralement retiré dans l'un des cas suivants:
 
 - Le cours a été remplacé. Si un nouveau cours est publié. Il remplace un ou plusieurs cours précédents et couvre la matière d'une manière substantiellement nouvelle.
-- Si la technologie abordée dans un cours n’est plus gérée par Microsoft, alors le cours sera généralement retiré.
+- Si la technologie couverte par un cours n'est plus prise en charge par Microsoft, le cours est généralement retiré.
 - Des prises de décisions internes liées au succès d’un cours ou à son coût opérationnel peuvent mener à son retrait.
-- La certification est retirée. Si le cours a été conçu pour une certification qui n'est plus offerte, le didacticiel peut être retiré.
+- La certification est retirée. Si le cours a été conçu pour une certification qui n'est plus proposée, le cours peut être retiré.
 - Les cours proposés par des auteurs non-affiliés à Microsoft via le programme de création communautaire peuvent être retirés pour n’importe quelle raison, à la demande de l'auteur.
 - Des problèmes de qualité peuvent entraîner le retrait d'un cours. Si un cours présente des problèmes de qualité, celui-ci peut être retiré jusqu'à ce que la qualité soit améliorée.
   
-**Q : Comment puis-je savoir si un cours est retiré ?**
+**Comment puis-je savoir si un cours est retiré ?**
   
 Microsoft publie une liste trimestrielle des cours qui sont retirés et de ceux dont le retrait est prévu dans les trois à six prochains mois. Les annonces de retrait sont communiquées par le biais de communications avec les partenaires de formation, les formateurs, les fournisseurs et d'autres publics intéressés. Les descriptions de cours sur le catalogue de formation Microsoft et le catalogue de la bibliothèque de didacticiels sont mises à jour avec l'annonce de la date de retrait.
 
-**Q : Comment puis-je acheter des cours après la date de retrait ?**
+**Comment puis-je acheter des cours après la date de retrait ?**
 
 Les cours ne sont plus vendus après les dates de retrait. La date de retrait est publiée sur la page web du catalogue pour chaque cours et par le biais de canaux de communication réguliers pour chaque public. À la date effective de retrait, le didacticiel est marqué comme n'étant plus à vendre. Pour éviter toute confusion, le cours reste inscrit comme non à vendre pendant un certain temps après le retrait effectif, jusqu'à ce qu'il soit archivé et entièrement retiré du catalogue.
 
-**Q : Puis-je acheter la version numérique d'un cours avant qu’il ne soit retiré, et le télécharger ou l’utiliser après sa date de retrait ?**
+**Puis-je acheter la version numérique d'un cours avant qu’il ne soit retiré, et le télécharger ou l’utiliser après sa date de retrait ?**
 
 Une fois le cours retiré, il n’est plus possible de le télécharger. Si vous avez téléchargé ou reçu le didacticiel avant la date de retrait, vous pouvez l'utiliser conformément aux conditions de la licence.
 
-**Q : Qu’en est-il des cours retirés que l’on avait assigné, avant leur retrait, à mon Plan d'apprentissage et/ou ajouté à la section « Mes Cours » ?**
+**Qu’en est-il des cours retirés que l’on avait assigné, avant leur retrait, à mon Plan d'apprentissage et/ou ajouté à la section « Mes Cours » ?**
 
-Vous verrez toujours ces cours dans la section « Mes Cours » après leur retrait, mais vous obtiendrez un message d’erreur si vous tentez de l’ouvrir.
+Vous continuerez à voir ces cours dans la section "Mes cours" après leur retrait, mais si vous essayez de lancer un cours retiré, vous obtiendrez un message d'erreur.
 
-**Q : Si je n'ai pas complété un cours avant son retrait, serais-je autorisé à le terminer après qu’il ait été retiré ?**
+**Si je n'ai pas terminé un cours avant son retrait, serai-je autorisé à le terminer après qu'il ait été retiré ?**
 
 No. Après le retrait d’un cours, vous ne pouvez plus y avoir accès.
   
-**Q : Comment les rapports d'activité des cours afficheront les cours non terminés au moment de leur retrait ?**
+**Comment les rapports d'activité des cours afficheront les cours non terminés au moment de leur retrait ?**
 
 Les rapports d'activité des cours reflètent votre progression dans un cours au moment de son retrait. Par exemple, si un cours est achevé à 60 % par un utilisateur au moment de son retrait, les rapports d'activité du cours indiqueront une progression de 60 %. Le pourcentage d'achèvement d'un cours ne peut pas être modifié après qu'un cours a été retiré.
 
-**Q : Sera-t-il toujours possible de trouver les cours retirés sur le site d'apprentissage en ligne ?**
+**Sera-t-il toujours possible de trouver les cours retirés sur le site d'apprentissage en ligne ?**
 
 No. Les cours retirés n'apparaissent plus dans les résultats de recherche ou dans le catalogue de formation.
-
-**Q : Lorsqu’un cours est retiré, les MOC On-Demand (MOD) correspondantes sont-elles également retirées ?**
-
-Oui. Étant donné que le MOD correspond au didacticiel, lorsqu'un cours est retiré, il est retiré à la même date.

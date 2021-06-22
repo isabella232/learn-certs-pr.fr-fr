@@ -1,6 +1,6 @@
 ---
-title: Microsoft Certification help | Microsoft Docs
-description: Microsoft Certification help
+title: Support pour la certification | Microsoft Docs
+description: Support pour la certification
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,22 @@ ms.date: 08/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft Certification help
+# Support pour la certification
 
-Avez-vous besoin d’aide avec les produits de Certification Microsoft? Veuillez consulter nos options de d'assistance ci-dessous.
+## A propos du soutien pour la certification
 
-## Comment contacter l’assistance
+Nous sommes là pour vous aider. Nous offrons un soutien par le biais de notre site Web complet et détaillé et de nos forums modérés.
 
-| Service d'assistance| Coordonnées |
+## Contacter le support
+
+| Domaine de l'assistance | Comment nous contacter |
 | ------------- | --- |
-| **Examens de Certification Microsoft et Certifications Microsoft** | La réponse pourrait déjà se trouver dans notre [FAQ du programme de certification Microsoft](/learn/certifications/microsoft-certification-program-faqs). <br/><br/> **Mettre à jour votre dénomination sociale:** <br/>Soumettre une demande via [formulaire de mise à jour de la dénomination sociale](https://aka.ms/MSCertificationLegalNamechange).<br/><br/> **Toutes les autres questions d'assistance:** <br/>Obtenez de l’aide à travers nos forums modérés [forums d'assistance à la certification](https://aka.ms/MCPForum).<br/><br/> Pour joindre un agent d'assistance client, cliquez sur Poser une question en haut de la page et remplissez le formulaire.  Un agent d’assistance vous répondra dans un délai d’un jour ouvrable. |
-| **Programme Microsoft Certified Trainer (MCT)** | Une réponse à votre question existe peut-être déjà dans notre [aperçu du programme MCT](/learn/certifications/mct-certification)<br/><br/> **Forums d'aide MCT:** <br/> Obtenez de l’aide à travers nos forums modérés [forums d'assistance MCT](https://aka.ms/MCTForum).<br/><br/> Pour joindre un agent d'assistance client, cliquez sur Poser une question en haut de la page et remplissez le formulaire.  Un agent d’assistance vous répondra dans un délai d’un jour ouvrable. |
+| Examens de Microsoft Certification et  Microsoft Certifications | Il se peut que la réponse à votre question se trouve déjà sur l'une de ces pages:<br/> - [Aperçu du processus de certification](/learn/certifications/certification-process-overview)<br/>- [Accédez à votre tableau de bord de certification](/learn/certifications/access-certification-dashboard) <br/>- [Gérer votre profil de certification](/learn/certifications/manage-certification-profile)<br/><br/> Mettez à jour votre nom légal:<br/> Soumettez une demande via le [formulaire de mise à jour du nom légal](https://support.microsoft.com/en-us/supportrequestform/de16815f-2fa5-576e-4946-70cae21a4eeb)<br/><br/> Toutes les autres questions relatives à l'assistance:<br/> Obtenez de l'aide par le biais de nos [forums d'assistance certification](https://aka.ms/MCPForum) modérés en suivant les étapes ci-dessous. |
+| Programme Microsoft Certified Trainer (MCT) | Ynotre question a peut-être déjà trouvé sa réponse sur notre page consacrée à la [Microsoft Certified Trainer](/learn/certifications/mct-certification) program.<br/><br/> Toutes les autres questions relatives à l'assistance:<br/> Contactez-nous via notre [forum d'assistance modéré](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) pour Microsoft Certified Trainers. |
+
+## Comment poster une demande d'assistance dans les forums
+
+1. Dans le menu de navigation principal en haut de la page, cliquez sur "Poser une question". Vous devrez vous connecter avec votre compte Microsoft.
+2. Vous créerez un nom d'affichage, puis le modèle pour poser une question vous sera proposé.
+3. Soyez précis dans l'objet de votre question. **Évitez d'inclure des informations personnelles, car votre message sera visible par le public.** 
+4. Un modérateur du forum vous répondra dans les 24 heures ouvrables.

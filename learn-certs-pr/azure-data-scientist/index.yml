@@ -7,15 +7,19 @@ uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
+  Les candidats à la certification Azure Data Scientist Associate doivent avoir une expertise en la matière en appliquant la science des données et l'apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d'apprentissage automatique sur Azure.
+  
+  Les responsabilités de ce rôle comprennent la planification et la création d'un environnement de travail approprié pour les charges de travail de science des données sur Azure. Vous exécutez des expériences de données et entraînez des modèles prédictifs. En outre, vous gérez, optimisez et déployez des modèles d'apprentissage automatique en production.
+  
+  Un candidat à cette certification doit avoir des connaissances et de l'expérience en science des données et en utilisant Azure Machine Learning et Azure Databricks.
 subTitle: Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure.
 levels:
 - intermediate
 skills:
-- Mettre en place un espace de travail Azure Machine Learning
+- Gérer les ressources Azure pour l'apprentissage automatique
 - Exécuter des expériences et former les modèles
-- Optimiser et gérer les modèles
-- Déployer et consommer les modèles
+- Déployer et rendre opérationnelles les solutions d'apprentissage automatique
+- Mettre en œuvre un apprentissage automatique responsable
 roles:
 - data-scientist
 type: role-based
@@ -26,10 +30,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100

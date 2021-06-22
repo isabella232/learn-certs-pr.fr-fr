@@ -11,73 +11,58 @@ ms.author: micsullivan
 ---
 # Offres
 
-## Exam Replay
+## Forfaits spéciaux
 
-Validez vos compétences, obtenez un avantage professionnel et renforcez votre confiance en vous. Les bons de présentation aux examens Exam Replay expirent douze (12) mois après la date d'achat et ne peuvent pas être cumulés avec d'autres offres. Vous devez planifier et passer les examens (et les sessions de rattrapage) au cours des douze mois suivant l'achat. Consultez les [questions fréquemment posées](#frequently-asked-questions) pour plus d'informations. Si vous rencontrez des difficultés lors de l'achat ou de l'utilisation d'une offre de retransmission de l'examen, envoyez un courriel à l'[équipe de Support](mailto:mindhub@pearson.com).
+En partenariat avec Pearson VUE, nous proposons des forfaits spéciaux pour les examens et les tests pratiques. Nous comprenons que passer des examens peut être difficile et stressant et le fait de savoir que vous pouvez vous entraîner avant de passer l'examen et avoir un nouveau test peut vous donner confiance. Actuellement, ces offres sont les suivantes:
 
-### Choisissez entre deux offres différentes de retransmission de l'examen:
+- Exam Replay.
+- Exam Replay avec Practice Test.
 
-<div>
-    <table border="0">
-        <tr>
-            <td>
-                <img src="images/exam-replay-thumbnail.png">
-            </td>
-            <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/> inclut: Un (1) bon pour un examen de certification Microsoft Certified Professional + une (1) reprise, si nécessaire.</p>
-                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>Achetez maintenant</strong></a></p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="images/exam-replay-with-practice-test-thumbnail.png">
-            </td>
-            <td>
-               <p><strong>Microsoft Exam Replay with Practice Test</strong><br/>Includes: Un (1) bon pour un examen de certification Microsoft Certified Professional + une (1) session de rattrapage, si nécessaire et un (1) Microsoft Official Practice Test.</p>
-               <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>Achetez maintenant</strong></a></p>
-            </td>
-        </tr>
-    </table>
-</div>
+## À propos des offres
 
-## <a name="frequently-asked-questions"></a>Foire aux questions
+### Exam Replay
 
-**Q. Qu'est-ce qu'un Exam Replay?**
+Exam Replay vous donne une deuxième chance de réussir votre examen de certification. Si vous ne réussissez pas du premier coup, ne vous inquiétez pas, il vous suffit de peaufiner vos compétences et de repasser l'examen si nécessaire.
 
-**R.** Un Exam Replay est un bon de présentation à l’examen qui comprend une session de rattrapage pour le même examen. **Exam Replay with Practice Test** est un bon d'examen qui comprend une sessions de rattrapage pour le même examen ainsi qu’un bon distinct pour un Microsoft Official Practice Test.
+Exam Replay comprend:
 
-**Q. Combien de bons pour un Exam Replay puis-je acheter en même temps?**
+- Un bon d'examen de Microsoft Certified Professional Certification.
+- Une deuxième session de ce même examen.
 
-**R.** Vous pouvez acheter autant de bons pour un Exam Replay que vous le souhaitez.
+  [Acheter Exam Replay maintenant](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
 
-**Q. À combien de sessions de rattrapage puis-je me présenter avec un Exam Replay?**
+### Exam Replay avec Practice Test
 
-**R.** Un Exam Replay vous donne le droit de vous présenter à une session de rattrapage pour le même examen, en cas d'échec à l'examen initial.
+Ajoutez un Microsoft Official Practice Test à votre bon d'examen avec un repassage d'examen, pour mieux vous préparer à réussir votre examen de certification Microsoft. Un test pratique vous aidera à vous préparer et une reprise d'examen augmentera vos chances de réussite.
 
-**Q. Quels examens répondent aux critères d'un Exam Replay?**
+Exam Replay avec Practice Test comprend:
 
-**R.** Un Exam Replay est valide pour tous les examens de certification Microsoft à l’exception des examens Microsoft Technology Associate (MTA), Microsoft Office Specialist (MOS), des examens de transition, des examens Fundamentals et des examens bêta. L’offre s'applique également à tous les tests d'entraînement disponibles pour les examens valides. [Afficher les tests d'entraînement disponibles](https://us.mindhub.com/microsoft-practice-tests).
+- Un Microsoft Official Practice Test.
+- Un coupon d'examen de certification Microsoft Certified Professional.
+- Une reprise de ce même examen.
 
-**Q. Combien de temps les bons pour un Exam Replay sont-ils valides?**
+  [Achetez Exam Replay with practice test maintenant.](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink).
 
-**R.** L’examen de certification (y compris les sessions de rattrapage) doivent être programmés et passés au cours des 12 mois suivant l’achat.
+Vous pouvez acheter autant de packs Exam Replay que vous le souhaitez. Exam Replay est valable pour tous les examens de certification Microsoft, **à l'exception de**:
+- Microsoft Technology Associate (MTA).
+- Microsoft Office Specialist (MOS).
+- Examens de transition.
+- Examens Fundamentals.
+- Examens Beta.
 
-**Q. Puis-je passer un examen en ligne avec le bon de présentation dans un Exam Replay ?**
+Avant d'acheter Exam Replay with Practice Test, [assurez-vous qu'un test pratique est disponible pour votre examen](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests).
 
-**R.** Oui, vous pouvez passer les examens en ligne avec un bon de présentation à un examen compris dans un Exam Replay. [Découvrez les examens en ligne](/learn/certifications/online-exams) de la certification Microsoft.
+## Autres remarques importantes concernant cette offre
 
-**Q. Puis-je planifier mon examen initial et la session de rattrapage en même temps?**
+- L'examen de certification et le test de rattrapage doivent être programmés et passés dans les 12 mois suivant l'achat.
+- Vous ne pouvez pas programmer votre reprise avant d'avoir passé et échoué à l'examen initial.
+- Cette offre vous permet de passer les examens en ligne.
+- Les Microsoft Official Practice Tests peuvent être activés sur [MeasureUp.com](https://www.measureup.com/) dans l'année qui suit l'achat et sont valables pendant 30 jours après l'activation. [Pour plus de détails sur l'activation des tests pratiques, cliquez ici.](https://home.pearsonvue.com/microsoft/practicetests).
+- Votre bon de test pratique peut être utilisé pour tout test pratique disponible inclus dans la promotion. Il ne doit pas nécessairement s'agir du même test que celui de l'examen officiel ou repassage.
+- L'offre Exam Replay et Exam Replay avec Practice Test ne s'applique pas aux examens ou aux tests pratiques que vous avez pu acheter séparément.
 
-**R.** Non, vous ne pouvez pas vous inscrire à une session de rattrapage tant que vous n'avez pas passé et échoué à l'examen initial. Pour plus d'informations, consultez la. [politique de rattrapage d'examen de certification Microsoft](/learn/certifications/certification-exam-policies#exam-retake-policy).
+## Si vous avez besoin d'aide pour acheter ou échanger ces offres
+Veuillez [envoyer un courriel à l'équipe Pearson VUE](https://mindhub@pearson.com/).
 
-**Q. Comment puis-je activer le test d'entraînement et combien de temps est-il valide?**
-
-**R.** Microsoft Official Practice Tests peuvent être activés sur [MeasureUp.com](https://www.measureup.com/) dans l’année suivant l’achat et restent valides pendant 30 jours après l’activation. Un test d'essai n’est pas exclusif au bon d'examen sélectionné avec l’offre Exam Replay et Exam Replay with Practice Test offer et peut être utilisé pour tout test d'essai disponible inclus dans la promotion. Consultez [Comment activer un test d'entraînement](https://home.pearsonvue.com/microsoft/practicetests).
-
-**Q. Si j'ai déjà payé pour un examen ou un test d'entraînement et que j'ai récemment acheté un Exam Replay ou un Exam Replay avec est d’essai puis-je obtenir un remboursement du montant payé pour l'examen ou le test d'essai d'origine?**
-
-**R.** Non. L’offre de d'Exam Replay ou Exam Replay avec test d'essai ne s'applique pas aux examens et tests d'essai achetés séparément.
-
-**Q. À qui dois-je m’adresser si je rencontre des difficultés lors de l'achat ou l’utilisation d’une promotion de d'Exam Replay ou Exam Replay avec test d'essai?**
-
-**R.** Si vous rencontrez des difficultés lors de l'achat ou de l' échange d' un Exam Replay ou d'un Exam Replay avec test d'essai, envoyez un [courriel à l'équipe de Pearson VUE](mailto:mindhub@pearson.com).
+## Offres spéciales pour les étudiants
+Visitez: [Remises pour les étudiants](/learn/certifications/student-discounts).

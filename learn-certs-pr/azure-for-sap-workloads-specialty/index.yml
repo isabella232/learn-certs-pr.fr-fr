@@ -2,28 +2,27 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: Les architectes ou ingénieurs des charges de travail SAP pour Microsoft Azure possèdent une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Azure.
+  description: Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Les candidats à la certification de spécialisation Azure for SAP Workloads sont des architectes ou ingénieurs possédant une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Microsoft Azure.
-
-  Les responsabilités de cette fonction englobent la formulation de recommandations sur les services et l’ajustement des ressources de manière appropriée pour obtenir une résilience, une performance, une mise à l’échelle, un provisionnement, un dimensionnement, et un contrôle optimaux.
-
-  Les architectes ou ingénieurs travaillant sur les charges de travail SAP sur Azure collaborent avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
-
-  Le candidat à cette certification doit posséder une large expérience et des connaissances des applications SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs de systèmes d’exploitation pour les applications et les bases de données SAP, le portail Azure, les modèles ARM, les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures de stockage, la conception haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données, et la mise en réseau.
-
-  Pour cette fonction, il est fortement recommandé d’avoir une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP HANA et Linux.
-subTitle: Les architectes ou ingénieurs des charges de travail SAP pour Microsoft Azure possèdent une large expérience et des connaissances du paysage du système SAP et des normes de l’industrie spécifiques à l’opération à long terme d’une solution SAP sur Azure.
+  Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
+  
+  Les responsabilités d'un architecte ou d'un ingénieur pour Azure pour les charges de travail SAP comprennent la formulation de recommandations sur les services et l'ajustement des ressources, le cas échéant, pour une résilience, des performances, une échelle, un approvisionnement, une taille et une surveillance optimales.
+  
+  Les architectes ou les ingénieurs de Azure pour les charges de travail SAP s'associent aux administrateurs du cloud, aux administrateurs de bases de données du cloud et aux clients pour mettre en œuvre des solutions.
+  
+  Un candidat à cet examen doit avoir une expérience et des connaissances approfondies des applications SAP: SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs OS pour les applications et bases de données SAP, le portail Azure, Azure Marketplace, les modèles Azure Resource Manager (modèles ARM), la virtualisation, l'infrastructure du cloud, les structures de stockage, la conception de la haute disponibilité, la conception de la reprise après sinistre, les concepts de protection des données et la mise en réseau.
+  
+  Pour cet examen, nous vous recommandons vivement de posséder une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP.
+subTitle: Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
 levels:
 - advanced
 skills:
 - Migrer les charges de travail SAP vers Azure
-- Concevoir une solution Azure pour prendre en charge les charges de travail SAP
-- Construire et déployer Azure pour les charges de travail SAP
-- Valider l’infrastructure Azure pour les charges de travail SAP
-- Rendre l’architecture Azure SAP opérationnelle
+- Conception et mise en œuvre d'une infrastructure pour prendre en compte les charges de travail SAP
+- Conception et mise en œuvre de High Availability et Disaster Recovery (HA/DR)
+- Maintenir les charges de travail SAP sur Azure
 roles:
 - administrator
 - solution-architect

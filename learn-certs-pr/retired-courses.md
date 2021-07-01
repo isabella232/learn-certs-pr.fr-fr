@@ -19,44 +19,57 @@ Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plu
 
 ## Cours retirés: Formation dirigée par un instructeur
 
+* Retraits des cours le 30 juin 2021
+
+    | numéro de formation | Version | titre | langue | date de retrait |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | Anglais | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Anglais | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Anglais | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Anglais | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Anglais | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Japonais | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Coréen | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | Chinois simplifiée | 6/30/2021 |
+
 * Retraits des contenus de cours le 31 mai 2021
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
-    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
-    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | Anglais | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | Anglais | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | Anglais | 5/31/2021 |
 
 * Retrait des contenus de cours le 30 avril 2021
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- | 
-    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | Anglais | 04/30/2021 |
 
 * Retrait des didacticiels le 31 mars 2021
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
-    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
-    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
-    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
-    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
-    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
-    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
-	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
-    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
-    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
-    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
-    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
-    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
-    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
-    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
-    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
-	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
-    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
-    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
-    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 | 
+    | 20778 | C | Analyzing Data with Power BI | Anglais | 03/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japonais | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japonais | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japonais | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japonais | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japonais) | Japonais | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japonais) | Japonais | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | Anglais | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | Anglais | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | Anglais | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | Anglais | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | Anglais | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | Anglais | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | Anglais | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | Anglais | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | Anglais | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | Anglais | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | Anglais | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | Anglais | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | Anglais | 3/31/2021 | 
 
 * Retrait des didacticiels le 31 Décembre 2020
 
@@ -81,74 +94,74 @@ Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plu
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | AZ-300T01 | A | Deploying and Configuring Infrastructure | Anglais | 09/30/2020 |
-    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Chinese Simplified | 10/30/2020 |
-    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Korean | 10/30/2020 |
-    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Japanese | 10/30/2020 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Chinois simplifiée | 10/30/2020 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Coréen | 10/30/2020 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Japonais | 10/30/2020 |
     | AZ-300T02 | A | Implementing Workloads and Security | Anglais | 09/30/2020 |
-    | AZ-300T02ZH | A | Implementing Workloads and Security | Chinese Simplified | 10/30/2020 |
-    | AZ-300T02KO | A | Implementing Workloads and Security | Korean | 10/30/2020 |
-    | AZ-300T02JA | A | Implementing Workloads and Security | Japanese | 10/30/2020 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Chinois simplifiée | 10/30/2020 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Coréen | 10/30/2020 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Japonais | 10/30/2020 |
     | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | Anglais | 09/30/2020 |
-    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Chinese Simplified | 10/30/2020 |
-    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Korean | 10/30/2020 |
-    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Japanese | 10/30/2020 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Chinois simplifiée | 10/30/2020 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Coréen | 10/30/2020 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Japonais | 10/30/2020 |
     | AZ-300T04 | A | Creating and Deploying Apps | Anglais | 09/30/2020 |
-    | AZ-300T04ZH | A | Creating and Deploying Apps | Chinese Simplified | 10/30/2020 |
-    | AZ-300T04KO | A | Creating and Deploying Apps | Korean | 10/30/2020 |
-    | AZ-300T04JA | A | Creating and Deploying Apps | Japanese | 10/30/2020 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Chinois simplifiée | 10/30/2020 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Coréen | 10/30/2020 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Japonais | 10/30/2020 |
     | AZ-300T06 | A | Developing for the Cloud | Anglais | 09/30/2020 |
-    | AZ-300T06ZH | A | Developing for the Cloud | Chinese Simplified | 10/30/2020 |
-    | AZ-300T06KO | A | Developing for the Cloud | Korean | 10/30/2020 |
-    | AZ-300T06JA | A | Developing for the Cloud | Japanese | 10/30/2020 |
+    | AZ-300T06ZH | A | Developing for the Cloud | Chinois simplifiée | 10/30/2020 |
+    | AZ-300T06KO | A | Developing for the Cloud | Coréen | 10/30/2020 |
+    | AZ-300T06JA | A | Developing for the Cloud | Japonais | 10/30/2020 |
     | AZ-301T01 | A | Designing for Identity and Security | Anglais | 09/30/2020 |
-    | AZ-301T01ZH | A | Designing for Identity and Security | Chinese Simplified | 10/30/2020 |
-    | AZ-301T01KO | A | Designing for Identity and Security | Korean | 10/30/2020 |
-    | AZ-301T01JA | A | Designing for Identity and Security | Japanese | 10/30/2020 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | Chinois simplifiée | 10/30/2020 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Coréen | 10/30/2020 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Japonais | 10/30/2020 |
     | AZ-301T02 | A | Designing a Data Platform Solution | Anglais | 09/30/2020 |
-    | AZ-301T02ZH | A | Designing a Data Platform Solution | Chinese Simplified | 10/30/2020 |
-    | AZ-301T02KO | A | Designing a Data Platform Solution | Korean | 10/30/2020 |
-    | AZ-301T02JA | A | Designing a Data Platform Solution | Japanese | 10/30/2020 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Chinois simplifiée | 10/30/2020 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Coréen | 10/30/2020 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Japonais | 10/30/2020 |
     | AZ-301T03 | A | Design for Deployment, Migration, and Integration | Anglais | 09/30/2020 |
-    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chinese Simplified | 10/30/2020 |
-    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Korean | 10/30/2020 |
-    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japanese | 10/30/2020 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chinois simplifiée | 10/30/2020 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Coréen | 10/30/2020 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japonais | 10/30/2020 |
     | AZ-301T04 | A | Designing an Infrastructure Strategy | Anglais | 09/30/2020 |
-    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Chinese Simplified | 10/30/2020 |
-    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Korean | 10/30/2020 |
-    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japanese | 10/30/2020 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Chinois simplifiée | 10/30/2020 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Coréen | 10/30/2020 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japonais | 10/30/2020 |
 
 * Retrait des didacticiels le 31 Août 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | AZ-103T00 | A | Microsoft Azure Administrator | Anglais | 08/31/2020 |
-    | AZ-103T00ZH | A | Microsoft Azure Administrator | Chinese Simplified | 08/31/2020 |
-    | AZ-103T00KO | A | Microsoft Azure Administrator | Korean | 08/31/2020 |
-    | AZ-103T00JA | A | Microsoft Azure Administrator | Japanese | 08/31/2020 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Chinois simplifiée | 08/31/2020 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Coréen | 08/31/2020 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Japonais | 08/31/2020 |
     | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | Anglais | 08/31/2020 |
-    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinese Simplified | 08/31/2020 |
-    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Korean | 08/31/2020 |
-    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Japanese | 08/31/2020 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Coréen | 08/31/2020 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Japonais | 08/31/2020 |
     | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | Anglais | 08/31/2020 |
-    | AZ-203T02ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinese Simplified | 08/31/2020 |
-    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Korean | 08/31/2020 |
-    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Japanese | 08/31/2020 |
+    | AZ-203T02ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Coréen | 08/31/2020 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Japonais | 08/31/2020 |
     | AZ-203T03 | A | Develop for Azure storage | Anglais | 08/31/2020 |
-    | AZ-203T03ZH | A | Develop for Azure storage | Chinese Simplified | 08/31/2020 |
-    | AZ-203T03KO | A | Develop for Azure storage | Korean | 08/31/2020 |
-    | AZ-203T03JA | A | Develop for Azure storage | Japanese | 08/31/2020 |
+    | AZ-203T03ZH | A | Develop for Azure storage | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T03KO | A | Develop for Azure storage | Coréen | 08/31/2020 |
+    | AZ-203T03JA | A | Develop for Azure storage | Japonais | 08/31/2020 |
     | AZ-203T04 | A | Implement Azure security | Anglais | 08/31/2020 |
-    | AZ-203T04ZH | A | Implement Azure security | Chinese Simplified | 08/31/2020 |
-    | AZ-203T04KO | A | Implement Azure security | Korean | 08/31/2020 |
-    | AZ-203T04JA | A | Implement Azure security | Japanese | 08/31/2020 |
+    | AZ-203T04ZH | A | Implement Azure security | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T04KO | A | Implement Azure security | Coréen | 08/31/2020 |
+    | AZ-203T04JA | A | Implement Azure security | Japonais | 08/31/2020 |
     | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | Anglais | 08/31/2020 |
-    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Chinese Simplified | 08/31/2020 |
-    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Korean | 08/31/2020 |
-    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Japanese | 08/31/2020 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Coréen | 08/31/2020 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Japonais | 08/31/2020 |
     | AZ-203T06 | A | Connect to and consume Azure and third-party services | Anglais | 08/31/2020 |
-    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Chinese Simplified | 08/31/2020 |
-    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Korean | 08/31/2020 |
-    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Japanese | 08/31/2020 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Chinois simplifiée | 08/31/2020 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Coréen | 08/31/2020 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Japonais | 08/31/2020 |
     | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | Anglais | 08/31/2020 |
     | MS-200T02 | A | Managing Client Access and Mail Flow | Anglais | 08/31/2020 |
     | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | Anglais | 08/31/2020 |
@@ -271,7 +284,7 @@ Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plu
     | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | japonais | 30/06/2020 |
     | 23336 | B | Core Solutions of Microsoft® Lync® Server 2013 | anglais | 06/30/2020 |
     | 23337 | B | Enterprise Voice and Online Services with Microsoft® Lync® Server 2013 | japonais | 06/30/2020 |
-    | 23341 | B | Core Solutions of Microsoft® Exchange Server 2013 | Japanese | 06/30/2020 |
+    | 23341 | B | Core Solutions of Microsoft® Exchange Server 2013 | Japonais | 06/30/2020 |
     | 23342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | japonais | 30/06/2020 |
     | 23346 | C | Managing Office 365 Identities and Services | japonais | 06/30/2020 |
     | 23347 | A | Enabling and Managing Office 365 | japonais | 06/30/2020 |
@@ -1046,14 +1059,14 @@ Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plu
     | 31 | Office 2013 and Office 365 Demonstration Sessions | anglais | 18/4/2016
     | 23 | Windows 8 Demonstration Sessions | anglais | 18/4/2016
     | 22 | Office 2010 Running Start: Demonstration Sessions | Dutch | 4/18/2016
-    | 21 | Office 2010 Running Start: Demonstration Sessions | Korean | 4/18/2016
+    | 21 | Office 2010 Running Start: Demonstration Sessions | Coréen | 4/18/2016
     | 20 | Office 2010 Running Start: Demonstration Sessions | Russian | 4/18/2016
     | 19 | Office 2010 Running Start: Demonstration Sessions | Chinese (Traditional) | 4/18/2016
     | 18 | Office 2010 Running Start: Demonstration Sessions | Chinese (Simplified) | 4/18/2016
     | 17 | Office 2010 Running Start: Demonstration Sessions | Brazilian Portuguese | 4/18/2016
     | 16 | Office 2010 Running Start: Demonstration Sessions | Chinese (Simplified), Italian | 4/18/2016
     | 15 | Office 2010 Running Start: Demonstration Sessions | Spanish | 4/18/2016
-    | 14 | Office 2010 Running Start: Demonstration Sessions | Japanese | 4/18/2016
+    | 14 | Office 2010 Running Start: Demonstration Sessions | Japonais | 4/18/2016
     | 13 | Office 2010 Running Start: Demonstration Sessions | French | 4/18/2016
     | 12 | Office 2010 Running Start: Demonstration Sessions | German | 4/18/2016
     | 11 | Office 2010 Running Start: Demonstration Sessions | Anglais | 4/18/2016

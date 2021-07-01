@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et l’implémentation de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité. Les candidats doivent avoir des compétences de niveau intermédiaire pour administrer Azure. Les candidats doivent comprendre le développement Azure et les processus de DevOps.
 
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Implémenter et surveiller une infrastructure Azure (50-55%)
 - Implémenter des solutions de gestion et de sécurité (25-30%)
 - Implémenter des solutions pour les applications (10-15%)

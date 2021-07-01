@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   Un architecte solutions a une connaissance fonctionnelle et technique de Power Platform, des applications d'engagement client de Dynamics 365, des solutions Microsoft cloud liées et de technologies tierces. A solution architect applies knowledge and experience throughout an engagement. L'architecte solutions effectue un travail proactif et préventif pour augmenter la valeur de l'investissement du client et promouvoir la santé de l'organisation. Ce rôle requiert la capacité à identifier les opportunités de résoudre les problèmes de l'entreprise.
   
   Les architectes solutions ont une expérience dans toutes les disciplines fonctionnelles et techniques de Power Platform. Les architectes de solutions devraient être en mesure de faciliter les décisions de conception en matière de développement, de configuration, d'intégration, d'infrastructure, de sécurité, de disponibilité, de stockage et de gestion des changements. Ce rôle permet d'équilibrer les besoins commerciaux d'un projet tout en répondant aux exigences fonctionnelles et non fonctionnelles.
-  
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: réaliser des analyses de vision et des analyses d'exigences, concevoir une solution et la mettre en œuvre."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://aka.ms/TrainingCertDeck

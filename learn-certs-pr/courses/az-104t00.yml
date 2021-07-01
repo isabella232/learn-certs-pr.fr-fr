@@ -46,191 +46,191 @@ prerequisitesSection: |-
   - [Azure Fundamentals partie 6&#58; Décrivez la gestion des coûts et les accords de niveau de service de Azure](/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
   - [AZ-104&#58; Conditions préalables pour les administrateurs Azure - Apprendre | Microsoft Docs](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
-  ###Module 1&#58; Identité
+  ### Module 1&#58; Identité
   Dans ce module, vous découvrirez comment sécuriser les identités avec Azure Active Directory et mettre en œuvre des utilisateurs et des groupes.
   #### Leçons
-  - Azure Active Directory
-  - Utilisateurs et Groupes
+  * Azure Active Directory
+  * Utilisateurs et Groupes
 
   #### Laboratoire&#58; Gérer les Identités d'Azure Active Directory.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Sécuriser et gérer les identités avec Azure Active Directory.
-  - Mettre en œuvre et gérer les utilisateurs et les groupes.
+  * Sécuriser et gérer les identités avec Azure Active Directory.
+  * Mettre en œuvre et gérer les utilisateurs et les groupes.
 
 
   ### Module 2&#58; Gouvernance et Conformité.
   Dans ce module, vous découvrirez comment gérer vos abonnements et vos comptes, mettre en œuvre les politiques d’Azure et utiliser le Contrôle d’Accès en Fonction du Rôle.
   #### Leçons
-  - Abonnements et Comptes
-  - Azure Policy
-  - Contrôle d'Accès en Fonction du Rôle (RBAC)
+  * Abonnements et Comptes
+  * Azure Policy
+  * Contrôle d'Accès en Fonction du Rôle (RBAC)
 
   #### Laboratoire&#58; Gérer les Abonnements et RBAC.
 
   #### Laboratoire&#58; Gérer la Gouvernance par le biais d'Azure Policy.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Mettre en œuvre et gérer des abonnements et des comptes Azure.
-  - Mettre en œuvre Azure Policy, ce qui inclut les politiques personnalisées.
-  - Utiliser RBAC pour attribuer des autorisations.
+  * Mettre en œuvre et gérer des abonnements et des comptes Azure.
+  * Mettre en œuvre Azure Policy, ce qui inclut les politiques personnalisées.
+  * Utiliser RBAC pour attribuer des autorisations.
 
 
   ### Module 3&#58; Administration d'Azure.
   Dans ce module, vous découvrirez les outils qu’un Azure Administrator utilise pour gérer son infrastructure. Cela inclut Azure Portal, Cloud Shell, Azure PowerShell, CLL et les Modèles du Gestionnaire de Ressources. Ce module comprend&#58;
   #### Leçons
-  - Azure Resource Manager
-  - Azure Portal and Cloud Shell
-  - Azure PowerShell and CLI
-  - ARM Templates
+  *   Azure Resource Manager
 
-  #### Laboratoire&#58; Gérer les ressources Azure à l’aide d'Azure Portal.
+  *   Azure Administrator Tools
 
-  #### Laboratoire&#58; Gérer les ressources Azure à l’aide des ARM Templates.
+  *   Modèles ARM 
 
-  #### Laboratoire&#58; Gérer les ressources d’Azure à l’aide d’Azure PowerShell (facultatif)
+  #### Laboratoire : Gérer les ressources Azure en utilisant des modèles ARM
 
-  #### Laboratoire&#58; Gérer les ressources d’Azure à l’aide d’Azure CLI (facultatif)
+  #### Laboratoire : Gérer les ressources Azure en utilisant Azure PowerShell (facultatif)
+
+  #### Laboratoire : Gérer les ressources Azure en utilisant Azure CLI (facultatif)
+  #### Laboratoire : Gérer les ressources Azure en utilisant le Azure Portal
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Tirer parti d'Azure Resource Manager pour organiser les ressources.
-  - Utiliser Azure Portal et Cloud Shell.
-  - Utiliser Azure PowerShell et CLI.
-  - Utiliser les ARM Templates pour déployer les ressources.
+  * Tirer parti d'Azure Resource Manager pour organiser les ressources.
+  * Utiliser Azure Portal et Cloud Shell.
+  * Utiliser Azure PowerShell et CLI.
+  * Utiliser les ARM Templates pour déployer les ressources.
 
 
   ### Module 4&#58; Mise en Réseau Virtuelle.
   Dans ce module, vous découvrirez les concepts de la mise en réseau virtuelle de base comme les réseaux virtuels et les sous-réseaux, l’adresse IP, les groupes de sécurité du réseau, Azure Firewall et Azure DNS.
   #### Leçons
-  - Réseaux Virtuels.
-  - Adressage IP.
-  - Groupes de Sécurité du Réseau.
-  - Azure Firewall.
-  - Azure DNS.
+  * Réseaux Virtuels.
+  * Groupes de Sécurité du Réseau.
+  * Azure Firewall.
+  * Azure DNS.
 
   #### Laboratoire&#58; Mise en œuvre d'un réseau virtuel.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Mettre en œuvre des réseaux et des sous-réseaux virtuels.
-  - Configurer des adresses IP publiques et privées.
-  - Configurer des groupes de sécurité du réseau.
-  - Configurer l'Azure Firewall.
-  - Configurer les zones DNS privées et publiques.
+  * Mettre en œuvre des réseaux et des sous-réseaux virtuels.
+  * Configurer des groupes de sécurité du réseau.
+  * Configurer l'Azure Firewall.
+  * Configurer les zones DNS privées et publiques.
 
 
   ### Module 5&#58; Connectivité intersites.
   Dans ce module, vous découvrirez les fonctionnalités de la connectivité intersites, ce qui inclut VNet Peering, les passerelles de réseaux virtuels et les connexions de site à site.
   #### Leçons
-  - VNet Peering.
-  - Connexions de passerelles VPN.
-  - ExpressRoute et WAN virtuel.
+  * VNet Peering.
+  * Connexions de passerelles VPN.
+  * ExpressRoute et WAN virtuel.
 
   #### Laboratoire&#58; Mise en œuvre de la connectivité intersites.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Connecter VNet Peering.
-  - Configurer les passerelles VPN.
-  - Choisir la solution de connectivité intersites adéquate.
+  * Connecter VNet Peering.
+  * Configurer les passerelles VPN.
+  * Choisir la solution de connectivité intersites adéquate.
 
 
   ### Module 6&#58; Gestion du Trafic du Réseau.
   Dans ce module, vous découvrirez les stratégies de trafic réseau, y compris l’acheminement et les points d’extrémité des services, Azure Load Balancer, et Azure Application Gateway.
   #### Leçons
-  - Routage du réseau et des points de terminaison.
-  - Azure Load Balancer.
-  - Azure Application Gateway.
+  * Routage du réseau et des points de terminaison.
+  * Azure Load Balancer.
+  * Azure Application Gateway.
 
   #### Laboratoire&#58; Mise en œuvre de la Gestion du Trafic.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Configurer le routage du réseau, ce qui inclut les routes personnalisées et les points de terminaison des services.
-  - Configurer un Azure Load Balancer.
-  - Configurer une Azure Application Gateway.
+  * Configurer le routage du réseau, ce qui inclut les routes personnalisées et les points de terminaison des services.
+  * Configurer un Azure Load Balancer.
+  * Configurer une Azure Application Gateway.
 
 
   ### Module 7&#58; Stockage Azure
   Dans ce module, vous découvrirez les fonctionnalités de stockage de base, ce qui inclut les comptes de stockage, le stockage des blobs, les fichiers Azure et File Sync, la sécurité du stockage et les outils de stockage.
   #### Leçons
-  - Comptes de Stockage.
-  - Stockage des Blobs.
-  - Sécurité du Stockage.
-  - Fichiers Azure et File Sync.
-  - Gestion du Stockage.
+  * Comptes de Stockage.
+  * Stockage des Blobs.
+  * Sécurité du Stockage.
+  * Fichiers Azure et File Sync.
+  * Gestion du Stockage.
 
   #### Laboratoire&#58; Gérer le Stockage Azure.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Créer des comptes de stockage Azure.
-  - Configurer des conteneurs de blobs.
-  - Sécuriser le stockage Azure.
-  - Configurer les fichiers Azure et File Sync.
-  - Gérer le stockage avec des outils tels que Storage Explorer.
+  * Créer des comptes de stockage Azure.
+  * Configurer des conteneurs de blobs.
+  * Sécuriser le stockage Azure.
+  * Configurer les fichiers Azure et File Sync.
+  * Gérer le stockage avec des outils tels que Storage Explorer.
 
 
   ### Module 8&#58; Machines Virtuelles Azure.
   Dans ce module, vous découvrirez les machines virtuelles Azure, ce qui inclut la planification, la création, la disponibilité et les extensions.
   #### Leçons
-  - Planification des Machines Virtuelles.
-  - Création des Machines Virtuelles.
-  - Disponibilité des Machines Virtuelles.
-  - Extensions des Machines Virtuelles.
+  * Planification des Machines Virtuelles.
+  * Création des Machines Virtuelles.
+  * Disponibilité des Machines Virtuelles.
+  * Extensions des Machines Virtuelles.
 
   #### Laboratoire&#58; Gérer les Machines Virtuelles.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Planifier l’la mise en œuvre des machines virtuelles.
-  - Créer des machines virtuelles.
-  - Configurer la disponibilité des machines virtuelles, ce qui inclut les ensembles de mise à l’échelle.
-  - Utiliser les extensions des machines virtuelles.
+  * Planifier l’la mise en œuvre des machines virtuelles.
+  * Créer des machines virtuelles.
+  * Configurer la disponibilité des machines virtuelles, ce qui inclut les ensembles de mise à l’échelle.
+  * Utiliser les extensions des machines virtuelles.
 
 
   ### Module 9&#58; Informatique Sans Serveur.
   Dans ce module, vous apprendrez à gérer les fonctions des services d’informatique sans serveur comme Azure App Service, Azure Container Instances, et Kubernetes.
   #### Leçons
-  - Azure App Service Plans
-  - Azure App Service
-  - Container Services
-  - Azure Kubernetes Service
+  * Azure App Service Plans
+  * Azure App Service
+  * Container Services
+  * Azure Kubernetes Service
 
   #### Laboratoire&#58; Mise en œuvre des applications Web.
 
-  #### Laboratoire&#58; Mise en œuvre d'Azure Container Instances.
+  #### Laboratoire : Mise en œuvre du Azure Kubernetes Service
 
-  #### Laboratoire&#58; Mise en œuvre d'Azure Kubernetes Service.
+  ####
+
+  #### Laboratoire : Mise en œuvre des Azure Container Instances
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Créer un plan de service pour une application.
-  - Créer une application Web.
-  - Mettre en œuvre Azure Container Instances.
-  - Mettre en œuvre le service Kubernetes d’Azure.
+  * Créer un plan de service pour une application.
+  * Créer une application Web.
+  * Mettre en œuvre Azure Container Instances.
+  * Mettre en œuvre le service Kubernetes d’Azure.
 
 
   ### Module 10&#58; Protection des données.
   Dans ce module, vous découvrirez la sauvegarde des fichiers et des dossiers et la sauvegarde des machines virtuelles.
   #### Leçons
-  - Sauvegarde des Fichiers et Dossiers.
-  - Sauvegarde des Machines Virtuelles.
+  * Sauvegarde des Fichiers et Dossiers.
+  * Sauvegarde des Machines Virtuelles.
 
   #### Laboratoire&#58; Mettre en œuvre de la Protection des Données.
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Sauvegarder et récupérer des fichiers et des dossiers.
-  - Sauvegarder et récupérer des machines virtuelles.
+  * Sauvegarder et récupérer des fichiers et des dossiers.
+  * Sauvegarder et récupérer des machines virtuelles.
 
 
   ### Module 11&#58; Surveillance
   Dans ce module, vous découvrirez la surveillance de votre infrastructure Azure, ce qui inclut Azure Monitor, les alertes et l’analyse du journal.
   #### Leçons
-  - Azure Monitor
-  - Azure Alerts
-  - Log Analytics
-  - Network Watcher
+  * Azure Monitor
+  * Azure Alerts
+  * Log Analytics
+  * Network Watcher
 
   #### Laboratoire&#58; Mise en œuvre de la Surveillance
 
   Après avoir terminé ce module, les étudiants seront capables de&#58; 
-  - Utiliser Azure Monitor.
-  - Créer des alertes Azure.
-  - Effectuer des requêtes à l'aide de Log Analytics.
-  - Utiliser Network Watcher.
+  * Utiliser Azure Monitor.
+  * Créer des alertes Azure.
+  * Effectuer des requêtes à l'aide de Log Analytics.
+  * Utiliser Network Watcher.
 

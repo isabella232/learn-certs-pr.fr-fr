@@ -59,9 +59,15 @@ resources:
 - title: Affiche de la certification
   description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées pour Dynamics 365 et Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEuc3
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://aka.ms/TrainingCertDeck
+- title: Parcours de formation en vue de la certification
+  description: Ressources de formation recommandées pour vous aider à vous préparer aux examens requis et obtenir votre certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
   href: ../deals.md

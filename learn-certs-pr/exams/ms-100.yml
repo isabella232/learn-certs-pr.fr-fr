@@ -8,9 +8,9 @@ displayName: MS-100
 summary: |-
   <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
   
-  Les candidats à cet examen sont des administrateurs de Microsoft 365 Enterprise qui participent à l’évaluation, la planification, la migration, le déploiement et la gestion des services de Microsoft 365. Ils effectuent des tâches de gestion de locataire de Microsoft 365 pour une entreprise, y compris ses identités, sécurité, conformité, et technologies de soutien.
-  
-  Les candidats ont une connaissance pratique des charges de travail de Microsoft 365 et doivent avoir travaillé en tant qu’administrateur pour au moins une charge de travail de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows en tant que service). Les candidats possèdent aussi une connaissance pratique de la mise en réseau, de l’administration des serveurs et des bases de l’informatique telles que DNS, Active Directory et PowerShell.
+  Les candidats à cet examen sont des Microsoft 365 Enterprise Administrators qui participent à l'évaluation, la planification, la migration, le déploiement et la gestion des services Microsoft 365. Ils effectuent des tâches de gestion des locataires Microsoft 365 pour une entreprise, y compris ses identités, sa sécurité, sa conformité, Power Platform et les technologies de support.
+
+  Les candidats ont une connaissance pratique des charges de travail Microsoft 365 et doivent avoir été administrateur d'au moins une charge de travail Microsoft 365 (Exchange, SharePoint, Teams) et de Windows as a Service. Les candidats ont également une connaissance pratique de la mise en réseau, de l'administration de serveurs et des principes fondamentaux IT tels que DNS, Active Directory et PowerShell.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: concevoir et mettre en œuvre les services Microsoft 365, gérer l’identité et les rôles des utilisateurs, gérer l’accès et l’authentification et planifier les charges de travail et les applications d’Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE

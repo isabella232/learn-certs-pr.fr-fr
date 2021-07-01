@@ -6,7 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   Les analystes des données permettent aux entreprises de maximiser la valeur de leurs ressources en données à l’aide de Power BI. En leur qualité d’experts du domaine, les analystes de données sont responsables de la conception et de la création de modèles de données évolutifs, du nettoyage et de la transformation des données, et de la favorisation des compétences analytiques avancées qui fournissent une valeur commerciale considérable par des visualisations de données faciles à saisir. Les analystes de données collaborent également avec les principales parties prenantes à travers les marchés verticaux pour fournir des données pertinentes sur les prescriptions commerciales recensées.
   <br/>
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Préparer les données (20-25%)
 - Modéliser les données (25-30%)
 - Visualiser les données (20-25%)

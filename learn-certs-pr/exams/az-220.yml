@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   Le développeur Azure IoT met en œuvre la configuration et effectue les tâches de codage nécessaires pour créer et maintenir les parties cloud et edge d'une solution IoT. Outre la configuration et la maintenance des appareils à l'aide de services cloud, le développeur IoT configure également les appareils physiques.  Le développeur IoT est responsable de la maintenance et du dépannage de la configuration des appareils tout au long de leur cycle de vie. 
 
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Mise en place de l'infrastructure de la solution IoT (10-15%)
 - Approvisionnement et gestion des appareils (15-20%)
 - Mise en œuvre de IoT Edge (15-20%)

@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate (Existant)'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate (Existant)'
+  description: 'Les développeurs Azure conçoivent, construisent, testent et maintiennent les applications et services de cloud.'
+uid: certification.azure-developer-legacy
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Cette version de la certification n’est plus disponible. Si vous disposez de cette version de la certification, la version la plus récente vous sera attribuée automatiquement.
+  
+  Les deux versions de la certification seront inscrites parmi vos certifications, mais vous ne devrez renouveler que la version la plus récente. Lorsque la version précédente arrivera à expiration, elle sera déplacée à la partie historique de certifications de votre relevé.
+  
+  Les candidats à la certification Azure Developer Associate doivent avoir une expertise en matière de conception, de construction, de test et de maintenance d'applications et de services cloud sur Microsoft Azure.
+  
+  Les responsabilités de ce rôle incluent la participation à toutes les phases du développement du cloud, depuis les exigences, la définition et la conception jusqu'au développement, au déploiement et à la maintenance, en passant par le réglage et la surveillance des performances.
+  
+  Les développeurs Azure travaillent en partenariat avec des architectes de solutions de cloud, des cloud DBAs, des administrateurs de cloud et des clients pour mettre en œuvre des solutions.
+  
+  Un candidat à cette certification doit avoir 1 à 2 ans d'expérience en développement professionnel et une expérience de Microsoft Azure. En outre, le candidat à ce poste doit pouvoir programmer dans un langage pris en charge par Azure et maîtriser les Azure SDKs, Azure PowerShell, Azure CLI, les options de stockage de données, les connexions de données, les APIs, l'authentification et l'autorisation des applications, le déploiement de calcul et de conteneurs, le débogage, l'optimisation des performances et la surveillance.
+subTitle: Les développeurs Azure conçoivent, construisent, testent et maintiennent les applications et services de cloud.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Aucun
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.secure-your-cloud-data
+exams:
+- uid: exam.az-203
+- uid: exam.az-200
+- uid: exam.az-201
+resources:
+- title: Affiche des certifications Azure
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Developer Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://aka.ms/TrainingCertDeck
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Partagez vos badges de certification
+  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+  href: badges.md
+

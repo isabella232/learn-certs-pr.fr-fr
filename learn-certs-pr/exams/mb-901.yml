@@ -31,6 +31,8 @@ locales:
 - fr
 - ko
 - ja
+levels:
+- beginner
 skills:
 - Identifier les composants de la plateforme Microsoft pour Dynamics 365 (30-35%)
 - Décrire l’intelligence artificielle (IA) et la réalité mélangée (RM) dans Dynamics 365 (10-15%)

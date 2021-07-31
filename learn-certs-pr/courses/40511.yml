@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: À la fin de cet atelier, vous serez en mesure de créer des modèles pour automatiser l'infrastructure cloud et réduire les processus manuels sujets aux erreurs. En outre,vous créerez un modèle Azure Resource Manager (ARM) pour provisionner les ressources Azure, configurer la livraison continue avec Visual Studio Team Services (VSTS), configurer Application Insights dans une application, et créer un projet Visual Studio Team Services et un dépôt Git.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cette session de conception de tableau blanc, vous apprendrez à concevoir une solution avec une combinaison de modèles Azure Resource Manager et Azure DevOps pour permettre la livraison continue avec plusieurs services Azure PaaS.
+
+  À la fin de cet atelier, vous serez mieux à même de créer des modèles pour automatiser l'infrastructure du cloud et réduire les processus manuels sources d'erreurs. En outre, vous créerez un modèle Azure Resource Manager (ARM) pour provisionner les ressources Azure, configurer la livraison continue avec Azure DevOps, configurer Application Insights dans une application et créer un projet Azure DevOps et un dépôt Git.
+
+  #### Profil du public
+  Cet atelier s'adresse aux architectes du cloud et aux professionnels IT qui possèdent une expertise architecturale en matière de conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les sections "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies non Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+
+prerequisitesSection: |-
+  Le contenu de l'atelier suppose une expertise architecturale de niveau 300 en matière de conception d'infrastructures et de solutions. Nous suggérons aux étudiants de suivre ce prérequis avant de participer à cet atelier.
+  - Cours Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc - Livraison continue dans Azure DevOps
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de preuve de concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Livraison continue dans Azure DevOps
+  #### Leçons
+  - Créer un modèle Azure Resource Manager (ARM) qui peut provisionner l'application Web et la base de données SQL.
+  - Créer un projet Azure DevOps et un dépôt Git.
+  - Créer un pipeline de construction Azure DevOps
+  - Créer un pipeline de mise en production pour Azure DevOps
+  - Déclencher un développement et une mise en production
+  - Créer une branche de fonctionnalité et soumettre une demande de retrait"
+
+
+  ### Module 2&#58; Hands-on Lab - Continuous delivery in Azure DevOps
+  #### Lessons
+  - Create an Azure Resource Manager (ARM) template that can provision the web application, SQL database
+  - Create Azure DevOps project and Git Repository
+  - Create Azure DevOps build pipeline
+  - Create Azure DevOps release pipeline
+  - Trigger a build and release
+  - Create a feature branch and submit a pull request

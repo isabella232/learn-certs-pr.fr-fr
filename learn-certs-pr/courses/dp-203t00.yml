@@ -3,7 +3,6 @@ title: Data Engineering on Microsoft Azure
 metadata:
   title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
   description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
-  iltScheduling: true
 uid: course.dp-203t00
 courseNumber: 'DP-203T00-A'
 hoursToComplete: 96
@@ -34,12 +33,7 @@ levels:
 roles:
 - data-engineer
 products:
-- azure-data-factory
-- azure-synapse-analytics
-- azure-stream-analytics
-- azure-event-hubs
-- azure-data-lake
-- azure-databricks
+- azure
 exams:
 - uid: exam.dp-203
 summary: |-
@@ -64,7 +58,7 @@ outlineSection: |-
   - Décrire l'architecture Delta Lake
   - Travailler avec des flux de données en utilisant Azure Stream Analytics
 
-  #### Lab &#58; Explorez les options de calcul et de stockage pour les charges de travail d'ingénierie des données.
+  #### Laboratoire &#58; Explorez les options de calcul et de stockage pour les charges de travail d'ingénierie des données.
   - Combinez le traitement en continu et le traitement par lots avec un seul pipeline.
   - Organisez le lac de données en niveaux de transformation de fichiers.
   - Indexez le stockage du lac de données pour accélérer les requêtes et les charges de travail.
@@ -84,7 +78,7 @@ outlineSection: |-
   - Transformation sans code à l'échelle avec Azure Data Factory
   - Remplir des dimensions à évolution lente dans les pipelines Azure Synapse Analytics.
   
-  #### Lab &#58; Conception et mise en œuvre de la couche de service
+  #### Laboratoire &#58; Conception et mise en œuvre de la couche de service
   - Concevez un schéma en étoile pour les charges de travail analytiques.
   - Remplissage de dimensions à évolution lente avec Azure Data Factory et mappage des flux de données
   
@@ -99,7 +93,7 @@ outlineSection: |-
   - Concevoir un entrepôt de données moderne à l'aide de Azure Synapse Analytics
   - Sécuriser un entrepôt de données dans Azure Synapse Analytics
   
-  #### Lab &#58; Considérations relatives à l'ingénierie des données
+  #### Laboratoire &#58; Considérations relatives à l'ingénierie des données
   - Gestion des fichiers dans un lac de données Azure
   - Sécurisation des fichiers stockés dans un lac de données Azure.
   
@@ -116,7 +110,7 @@ outlineSection: |-
   - Création d'objets de métadonnées dans les pools SQL sans serveur Azure Synapse
   - Sécuriser les données et gérer les utilisateurs dans les pools SQL sans serveur Azure Synapse.
   
-  #### Lab &#58; Exécuter des requêtes interactives à l'aide de pools SQL sans serveur
+  #### Laboratoire &#58; Exécuter des requêtes interactives à l'aide de pools SQL sans serveur
   - Interroger des données Parquet avec des pools SQL sans serveur
   - Créer des tables externes pour les fichiers Parquet et CSV
   - Créer des vues avec des pools SQL sans serveur
@@ -138,7 +132,7 @@ outlineSection: |-
   - Transformer les données avec DataFrames dans les pools Apache Spark dans Azure Synapse Analytics.
   - Intégrer des pools SQL et Apache Spark dans Azure Synapse Analytics
   
-  #### Lab &#58; Explorer, transformer et charger des données dans l'entrepôt de données à l'aide de Apache Spark
+  #### Laboratoire &#58; Explorer, transformer et charger des données dans l'entrepôt de données à l'aide de Apache Spark
   - Exploration des données dans Synapse Studio
   - Ingérer des données avec les notebooks Spark dans Azure Synapse Analytics.
   - Transformer des données avec des DataFrames dans des pools Spark dans Azure Synapse Analytics.
@@ -159,7 +153,7 @@ outlineSection: |-
   - Travailler avec des DataFrames dans Azure Databricks
   - Travailler avec les méthodes avancées des DataFrames dans Azure Databricks.
   
-  #### Lab &#58; Exploration et transformation des données dans Azure Databricks
+  #### Laboratoire &#58; Exploration et transformation des données dans Azure Databricks
   - Utilisez les DataFrames dans Azure Databricks pour explorer et filtrer les données.
   - Mettre en cache un DataFrame pour accélérer les requêtes ultérieures
   - Suppression des données dupliquées
@@ -180,7 +174,7 @@ outlineSection: |-
   - Utilisation des meilleures pratiques de chargement de données dans Azure Synapse Analytics
   - Ingestion de données à l'échelle du pétaoctet avec Azure Data Factory
   
-  #### Lab &#58; Ingestion et chargement de données dans l'entrepôt de données
+  #### Laboratoire &#58; Ingestion et chargement de données dans l'entrepôt de données
   - Effectuer une ingestion à l'échelle du pétaoctet avec Azure Synapse Pipelines
   - Importez des données avec PolyBase et COPY à l'aide de T-SQL.
   - Utilisez les meilleures pratiques de chargement de données dans Azure Synapse Analytics.
@@ -196,7 +190,7 @@ outlineSection: |-
   - Intégration de données avec Azure Data Factory ou Azure Synapse Pipelines
   - Transformation sans code à l'échelle avec Azure Data Factory ou Azure Synapse Pipelines.
   
-  #### Lab &#58; Transformation de données avec Azure Data Factory ou Azure Synapse Pipelines
+  #### Laboratoire &#58; Transformation de données avec Azure Data Factory ou Azure Synapse Pipelines
   - Exécution de transformations sans code à l'échelle avec Azure Synapse Pipelines
   - Créez un pipeline de données pour importer des fichiers CSV mal formatés.
   - Créer des flux de données de mappage
@@ -210,7 +204,7 @@ outlineSection: |-
   #### Cours
   - Orchestrer le mouvement et la transformation des données dans Azure Data Factory
   
-  #### Lab &#58; Orchestrer le mouvement et la transformation des données dans Azure Synapse Pipelines
+  #### Laboratoire &#58; Orchestrer le mouvement et la transformation des données dans Azure Synapse Pipelines
   - Intégrer les données des Notebooks avec Azure Data Factory ou Azure Synapse Pipelines
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
@@ -223,7 +217,7 @@ outlineSection: |-
   - Optimiser les performances des requêtes d'entrepôt de données dans Azure Synapse Analytics
   - Comprendre les fonctions de développement d'entrepôts de données de Azure Synapse Analytics.
   
-  #### Lab &#58; Optimiser les performances des requêtes avec les pools SQL dédiés dans Azure Synapse
+  #### Laboratoire &#58; Optimiser les performances des requêtes avec les pools SQL dédiés dans Azure Synapse
   - Comprendre les fonctionnalités de développement de Azure Synapse Analytics.
   - Optimiser les performances des requêtes d'entrepôt de données dans Azure Synapse Analytics
   - Améliorer les performances des requêtes
@@ -238,7 +232,7 @@ outlineSection: |-
   #### Cours
   - Analyser et optimiser le stockage des entrepôts de données dans Azure Synapse Analytics
   
-  #### Lab &#58; Analyser et optimiser le stockage des entrepôts de données
+  #### Laboratoire &#58; Analyser et optimiser le stockage des entrepôts de données
   - Vérifiez si les données et l'utilisation de l'espace sont asymétriques
   - Comprendre les détails du stockage des colonnes
   - Étudier l'impact des vues matérialisées
@@ -256,7 +250,7 @@ outlineSection: |-
   - Interroger Azure Cosmos DB avec des pools Apache Spark
   - Interroger Azure Cosmos DB avec des pools SQL sans serveur
   
-  #### Lab &#58; Prise en charge du Hybrid Transactional Analytical Processing (HTAP) avec Azure Synapse Link
+  #### Laboratoire &#58; Prise en charge du Hybrid Transactional Analytical Processing (HTAP) avec Azure Synapse Link
   - Configuration de Azure Synapse Link avec Azure Cosmos DB
   - Interroger Azure Cosmos DB avec Apache Spark pour Synapse Analytics
   - Interroger Azure Cosmos DB avec un pool SQL sans serveur pour Azure Synapse Analytics
@@ -275,7 +269,7 @@ outlineSection: |-
   - Configurer et gérer les secrets dans Azure Key Vault.
   - Mettre en œuvre des contrôles de conformité pour les données sensibles
   
-  #### Lab &#58; Sécurité de bout en bout avec Azure Synapse Analytics
+  #### Laboratoire &#58; Sécurité de bout en bout avec Azure Synapse Analytics
   - Sécuriser l'infrastructure de support de Azure Synapse Analytics
   - Sécurisation de l'espace de travail et des services gérés de Azure Synapse Analytics
   - Sécuriser les données de l'espace de travail Azure Synapse Analytics
@@ -293,7 +287,7 @@ outlineSection: |-
   - Travailler avec des flux de données en utilisant Azure Stream Analytics
   - Ingérer des flux de données avec Azure Stream Analytics
   
-  #### Lab &#58; Traitement de flux en temps réel avec Stream Analytics
+  #### Laboratoire &#58; Traitement de flux en temps réel avec Stream Analytics
   - Utilisez Stream Analytics pour traiter des données en temps réel provenant d'Event Hubs.
   - Utilisez les fonctions de fenêtrage de Stream Analytics pour créer des agrégats et les transmettre à Synapse Analytics.
   - Faites évoluer le job Azure Stream Analytics pour augmenter le débit grâce au partitionnement.
@@ -310,7 +304,7 @@ outlineSection: |-
   #### Cours
   - Traiter les données en continu avec Azure Databricks structured streaming.
   
-  #### Lab &#58; Créer une solution de traitement de flux avec Event Hubs et Azure Databricks
+  #### Laboratoire &#58; Créer une solution de traitement de flux avec Event Hubs et Azure Databricks
   - Explorez les principales caractéristiques et utilisations du streaming structuré.
   - Stream de données à partir d'un fichier et écriture dans un système de fichiers distribué.
   - Utiliser des fenêtres glissantes pour agréger des morceaux de données plutôt que toutes les données.
@@ -326,7 +320,7 @@ outlineSection: |-
   #### Cours
   - Créer des rapports avec Power BI en utilisant son intégration avec Azure Synapse Analytics.
   
-  #### Lab &#58; Créer des rapports avec Power BI en utilisant son intégration avec Azure Synapse Analytics
+  #### Laboratoire &#58; Créer des rapports avec Power BI en utilisant son intégration avec Azure Synapse Analytics
   - Intégrer un espace de travail Azure Synapse et Power BI
   - Optimiser l'intégration avec Power BI
   - Améliorer les performances des requêtes avec les vues matérialisées et la mise en cache des ensembles de résultats.
@@ -341,7 +335,7 @@ outlineSection: |-
   #### Cours
   - Utiliser le processus d'apprentissage automatique intégré dans Azure Synapse Analytics.
   
-  #### Lab &#58; Exécuter les processus d'apprentissage automatique intégré dans Azure Synapse Analytics
+  #### Laboratoire &#58; Exécuter les processus d'apprentissage automatique intégré dans Azure Synapse Analytics
   - Créez un service lié à Azure Machine Learning
   - Déclencher une expérience d'apprentissage automatique à l'aide de données provenant d'une table Spark
   - Enrichir les données à l'aide de modèles formés

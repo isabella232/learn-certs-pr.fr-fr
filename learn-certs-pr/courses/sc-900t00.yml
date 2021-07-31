@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -35,29 +34,39 @@ prerequisitesSection: |-
   - Des connaissances générales en IT ou toute expérience générale de travail dans un environnement IT.
   - Une compréhension générale de Microsoft Azure et Microsoft 365.
 outlineSection: |-
-  ### Module 1&#58; Décrire les concepts de base de la sécurité, de la conformité et de l'identité.
-  Apprendre les concepts, principes et méthodologies de base qui sont à la base des solutions de sécurité, de conformité et d'identité, y compris la confiance zéro, la responsabilité partagée, nos principes de confidentialité, etc.
-  #### Cours
-  - Décrire les concepts et méthodologies de sécurité.
-  - Décrire les principes de sécurité et de conformité de Microsoft.
-  
-  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Décrire les concepts et méthodologies de sécurité.
-  - Explorer le portail Service Trust.
-  - Savoir où aller pour trouver et examiner la documentation sur la conformité de Azure.
+  ### Module 1&#58; 
+  Découvrez les principaux concepts et méthodologies qui sont à la base des solutions de sécurité, de conformité et d'identité, notamment Zero-Trust, la responsabilité partagée, le rôle des fournisseurs d'identité, etc.
+
+  #### Leçons
+
+  * Décrire les concepts et méthodologies de sécurité et de conformité.
+
+  * Décrire les concepts d'identité
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Décrire les concepts et méthodologies de sécurité et de conformité.
+
+  * Décrire les concepts d'identité
   
   
   ### Module 2&#58; Décrire les concepts et les capacités des solutions de gestion des identités et des accès de Microsoft.
   Découvrez les services Azure AD et les principaux d'identité, l'authentification sécurisée, les capacités de gestion des accès, ainsi que la protection et la gouvernance des identités.
   #### Cours
-  - Décrire les concepts d'identité
   - Décrire les services de base et les types d'identité de Azure AD
   - Décrire les capacités d'authentification de Azure AD
   - Décrire les capacités de gestion des accès de Azure AD
   - Décrire les capacités de protection et de gouvernance des identités de Azure AD
+
+  #### Laboratoire : exploration de Azure Active Directory
+
+  #### Laboratoire : Explorer l'authentification Azure AD avec la réinitialisation du mot de passe en libre-service
+
+  #### Laboratoire : Explorer la gestion des accès dans Azure AD avec l'accès conditionnel
+
+  #### Laboratoire : Explorer la gouvernance des identités dans Azure AD avec la gestion des identités privilégiées
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Décrire les concepts d'identité de base.
   - Décrire les services de base et les types d'identité de Azure AD.
   - Décrire les capacités d'authentification de Azure AD.
   - Décrire les capacités de gestion des accès de Azure AD.

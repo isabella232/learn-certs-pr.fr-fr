@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Compréhension des concepts d'Active Directory, notamment les domaines, les forêts et les contrôleurs de domaine.
   
   Si vous êtes novice en matière de Azure et de cloud computing, envisagez l'une des ressources suivantes&#58;
-  - Cours en ligne gratuit&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Prérequis pour Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - Cours en ligne gratuit&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Prérequis pour Azure administrators ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Module 1&#58; Vue d'ensemble de Azure Stack Hub
   Dans ce module, vous apprendrez comment Azure Stack Hub est une extension Azure qui permet d'exécuter des applications dans un environnement sur site et de fournir des services Azure dans votre centre de données.
@@ -78,13 +71,13 @@ outlineSection: |-
   - Gérer l'utilisation et la facturation
   - Questions de révision du module
   
-  #### Lab &#58; Gérer les offres et les plans dans Azure Stack Hub
+  #### Laboratoire &#58; Gérer les offres et les plans dans Azure Stack Hub
   
-  #### Lab &#58; Ajouter des éléments de place de marché personnalisés en utilisant Azure Gallery Packager
+  #### Laboratoire &#58; Ajouter des éléments de place de marché personnalisés en utilisant Azure Gallery Packager
   
-  #### Lab &#58; Valider les modèles Azure Resource Manager (ARM) avec Azure Stack Hub
+  #### Laboratoire &#58; Valider les modèles Azure Resource Manager (ARM) avec Azure Stack Hub
 
-  #### Lab &#58; Laboratoire optionnel &#58; Mise en œuvre SQL Server Fournisseur de ressources dans Azure Stack Hub
+  #### Laboratoire &#58; Laboratoire optionnel &#58; Mise en œuvre SQL Server Fournisseur de ressources dans Azure Stack Hub
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Créer un élément personnalisé de Azure Stack Hub Marketplace 
@@ -116,8 +109,8 @@ outlineSection: |-
   - Gestion des accès
   - Questions de révision du module
 
-  #### Lab &#58; Gestion déléguée des offres dans Azure Stack Hub
-  #### Lab &#58; Gérer les principes de service dans Azure Stack Hub
+  #### Laboratoire &#58; Gestion déléguée des offres dans Azure Stack Hub
+  #### Laboratoire &#58; Gérer les principes de service dans Azure Stack Hub
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Enregistrer le répertoire du locataire invité avec Azure Stack Hub
@@ -137,17 +130,17 @@ outlineSection: |-
   - Gérer Azure Stack Hub en utilisant des points de terminaison privilégiés
   - Questions de révision du module
   
-  #### Lab &#58; Connecter à Azure Stack Hub via PowerShell
+  #### Laboratoire &#58; Connecter à Azure Stack Hub via PowerShell
   
-  #### Lab &#58; Accéder au point de terminaison privilégié dans Azure Stack Hub
+  #### Laboratoire &#58; Accéder au point de terminaison privilégié dans Azure Stack Hub
 
-  #### Lab &#58; Gérer la collecte de journaux dans Azure Stack Hub
+  #### Laboratoire &#58; Gérer la collecte de journaux dans Azure Stack Hub
 
-  #### Lab &#58; Configurer et gérer les comptes de stockage Azure Stack Hub
+  #### Laboratoire &#58; Configurer et gérer les comptes de stockage Azure Stack Hub
 
-  #### Lab &#58; Gérer les adresses IP publiques dans Azure Stack Hub
+  #### Laboratoire &#58; Gérer les adresses IP publiques dans Azure Stack Hub
 
-  #### Lab &#58; Configurer la sauvegarde de l'infrastructure Azure Stack Hub
+  #### Laboratoire &#58; Configurer la sauvegarde de l'infrastructure Azure Stack Hub
 
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
@@ -156,5 +149,5 @@ outlineSection: |-
   - Configurer les cibles de stockage pour les sauvegardes de l'infrastructure
   - Mettre à jour Azure Stack Hub
   - Déverrouiller une session de support
-  - Se connecter à un endpoin privilégié
+  - Se connecter à un point d'accès privilégié
   - Effectuer des diagnostics système en utilisant Test-AzureStack

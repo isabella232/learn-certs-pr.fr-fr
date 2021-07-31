@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cloud-native applications'
+metadata:
+  title: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+  description: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+uid: course.40501
+courseNumber: '40501-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: À la fin de cet atelier, vous serez mieux à même d'améliorer la fiabilité et d'augmenter la cadence de mise en production de vos applications basées sur des conteneurs grâce à des pratiques DevOps éprouvées.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous réaliserez une preuve de concept (POC) qui transformera une application PaaS existante en une application basée sur des conteneurs. Ce POC fournira une solution d'hébergement d'applications web multi-tenant en s'appuyant sur Azure Kubernetes Service (AKS), des conteneurs Docker sur des nœuds Linux, et une migration de MongoDB vers CosmosDB.
+
+  #### Profil du public
+  Cet atelier est destiné aux architectes du cloud et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les zones "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+prerequisitesSection: |-
+  Le contenu de l'atelier suppose une expertise architecturale de niveau 300 en matière de conception d'infrastructures et de solutions. Nous suggérons aux étudiants de suivre ce prérequis avant de participer à cet atelier.
+  - Cours Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session de conception sur tableau blanc - Applications cloud-natives
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Appel à l'action&#58; Concevoir une solution de preuve de concept
+  - Appel à l'action&#58; Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Applications Cloud-natives
+  #### Leçons
+  - Créer et exécuter une application Docker
+  - Déployez la solution sur le Azure Kubernetes Service
+  - Mettez l'application à l'échelle et testez HA
+  - Configurer l'équilibrage de charge et la découverte de services ( édition Infrastructure)i
+  - Utilisation des services et routage du trafic applicatif (édition développeur)

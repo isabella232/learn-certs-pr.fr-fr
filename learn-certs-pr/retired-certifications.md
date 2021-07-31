@@ -21,9 +21,6 @@ Les certifications dont le retrait est prévu dans les 12 prochains mois sont li
 
 |                       |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Retrait le 30 juin 2021 |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Retrait le 30 juin 2021 |
-| [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Retrait le 30 juin 2022 |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Retrait le 30 juin 2022 |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Retrait le 30 juin 2022 |
 | [MTA: Windows Operating System Fundamentals](/learn/certifications/mta-windows-operating-system-fundamentals) | Retrait le 30 juin 2022 |
@@ -44,6 +41,8 @@ Les certifications resteront dans la section Active de votre relevé de notes pe
 
 | Basé sur les rôles                                     |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30 juin 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) |  30 juin 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 décembre 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)       | 31 Août 2020 |
 

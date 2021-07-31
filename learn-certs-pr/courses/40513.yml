@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+metadata:
+  title: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+  description: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+uid: course.40513
+courseNumber: '40513-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: À la fin de cet atelier, vous serez mieux à même de concevoir et d'utiliser des ensembles de disponibilité, des disques gérés, des groupes de disponibilité SQL Server toujours actifs, ainsi que des principes de conception lors du provisionnement du stockage aux VMs. En outre, vous apprendrez à utiliser efficacement Azure Backup pour fournir une restauration ponctuelle.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous examinerez comment un déploiement IaaS existant peut être repensé et mis à jour pour tenir compte de la résilience et de la haute disponibilité en général. Tout au long de la session de conception sur tableau blanc et du laboratoire pratique, vous examinerez les différentes options de configuration et les services permettant de construire des architectures résilientes.
+
+  #### Profil du public
+  Cet atelier est destiné aux architectes du cloud et aux professionnels IT qui possèdent une expertise architecturale en matière de conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les sections "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+prerequisitesSection: |-
+  Le contenu de l'atelier suppose une expertise architecturale de niveau 300 en matière de conception d'infrastructures et de solutions. Nous suggérons aux étudiants de suivre ce prérequis avant de participer à cet atelier.
+  - Cours Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session tableau blanc - Construire une architecture IaaS résiliente
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Appel à l'action&#58; Concevoir une solution de preuve de concept
+  - Appel à l'action&#58; Présenter la solution
+
+  ### Module 2&#58; - Laboratoire pratique - Création d'une architecture IaaS résiliente
+  #### Leçons
+  - Préparer la connectivité entre les régions
+  - Construire les DCs pour la résilience
+  - Construire le niveau Web et SQL pour la résilience
+  - Configurer SQL Server Managed Backup
+  - Valider la résilience

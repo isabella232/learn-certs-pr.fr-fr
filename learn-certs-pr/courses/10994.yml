@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Data Analysis Fundamentals using Excel
+metadata:
+  title: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+  description: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+uid: course.10994
+courseNumber: '10994-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Créer un rapport Excel
+- skill: Créer un tableau Excel
+- skill: Créer une Pivot table et un Pivot chart
+- skill: Créer un tableau de bord et analyser des données
+- skill: Créer des hiérarchies
+- skill: Créer un modèle de données Excel et se connecter à des données externes
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  étudiants la possibilité d'ajouter des capacités d'analyse aux feuilles de calcul Excel et de leur fournir une base pour apprendre des analyses de données plus avancées avec Excel ou Power BI.
+
+  #### Profil du public
+  Ce cours s'adresse à toute personne qui souhaite faire évoluer les technologies d'analyse de données dans Excel au-delà des formules et ajouter des capacités plus avancées telles que les tableaux de bord, les hiérarchies et les relations.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une connaissance de base du système d'exploitation Microsoft Windows et de ses fonctionnalités essentielles.
+  - Une connaissance pratique avancée des feuilles de calcul Excel, y compris des formules.
+outlineSection: |-
+  ### Module 1&#58; Création de rapports en Excel
+  Ce module explique comment créer un rapport dans Excel.
+  #### Leçons
+  - Filtrage et formatage des données
+  - Graphiques
+
+  #### Lab &#58; Créer un rapport Excel
+  - Filtrer les données Excel
+  - Mise en forme des données Excel
+  - Créer des graphiques Excel
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Filtrer et formater des données.
+  - Créer des graphiques.
+
+  ### Module 2&#58; Tableaux Excel
+  Ce module explique comment créer des tableaux de données dans Excel.
+  #### Leçons
+  - Tableaux de données Excel
+  - Résumer des données
+
+  #### Lab &#58; Créer un tableau Excel
+  - Créer un tableau Excel
+  - Résumer des données Excel
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Expliquer ce que sont les tableaux de données Excel.
+  - Trier, filtrer et valider des données.
+  - Résumer des données.
+  - Formater des données résumées.
+
+  ### Module 3&#58; Pivot Tables et Pivot Charts
+  Ce module décrit les pivot tables et pivot charts et comment les utiliser.
+  #### Leçons
+  - Pivot Tables
+  - Pivot Charts
+  - Editing Pivot Tables and Pivot Charts
+
+  #### Lab &#58; Importation de données à partir d'un fichier CSV
+  - Création d'une Pivot Table
+  - Création d'un Pivot Chart
+  - Édition de Pivot Tables et de Pivot Charts
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les Pivot tables et comment les créer.
+  - Décrire les différents éléments de Pivot chart.
+  - Éditer Pivot tables et Pivot charts.
+
+  ### Module 4&#58; Tableaux de bord
+  Ce module décrit les tableaux de bord Excel, comment les créer et le rôle des Excel Pivot Tables dans l'analyse des données.
+  #### Leçons
+  - Création d'un tableau de bord
+  - Analyse des données dans Excel Pivot Tables
+
+  #### Lab &#58; Créer un tableau de bord
+  - Agencement des tableaux et graphiques
+  - Découpage des données
+  - Analyse de données
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire un tableau de bord.
+  - Filtrer les données à l'aide d'un slicer.
+  - Ajouter des colonnes calculées à un tableau de bord.
+  - Trouver des anomalies.
+
+  ### Module 5&#58; Hiérarchies
+  Ce module décrit les hiérarchies et les données temporelles.
+  #### Leçons
+  - Hiérarchies
+  - Données temporelles
+
+  #### Lab &#58; Création de hiérarchies
+  - Créer une hiérarchie
+  - Configurer les données temporelles
+  - Créer un graphique horaire animé
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les hiérarchies.
+  - Créer des niveaux dans une hiérarchie.
+  - Expliquer pourquoi les données temporelles sont différentes et comment travailler avec elles.
+
+  ### Module 6&#58; Le modèle de données Excel
+  Ce module explore le modèle de données Excel et examine les moyens de l'étendre.
+  #### Leçons
+  - Utilisation d'un modèle de données Excel
+  - Données externes
+
+  #### Lab &#58; Explorer un modèle de données Excel
+  - Ajouter plusieurs tableaux
+  - Créer des relations
+  - Ajouter des données externes
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Expliquer un modèle de données Excel et comment l'utiliser.
+  - Importer des données externes et les utiliser.
+  - Établir des liens avec des données externes.

@@ -1,0 +1,161 @@
+### YamlMime:Course
+title: Updating Your Skills to SQL Server 2017
+metadata:
+  title: 'Course 10998-A: Updating Your Skills to SQL Server 2017'
+  description: 'Course 10998-A: Updating Your Skills to SQL Server 2017'
+uid: course.10998
+courseNumber: '10998-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les capacités et les composants clés de SQL Server 2017
+- skill: Décrire les fonctionnalités nouvelles et améliorées en matière de performances, de disponibilité et d'évolutivité de SQL Server.
+- skill: Décrire les fonctionnalités nouvelles et améliorées de l'accès aux données de SQL Server
+- skill: Décrire les fonctionnalités nouvelles et améliorées en matière de reporting et de BI de SQL Server
+- skill: Décrire les fonctionnalités nouvelles et améliorées de SQL Server OLAP
+- skill: Décrire les fonctionnalités nouvelles et améliorées de l'analyse de données
+- skill: Décrire les fonctionnalités nouvelles et améliorées des déploiements SQL Server Cloud
+- skill: Décrire les fonctionnalités de SQL Server sous Linux
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  Ce cours de deux jours dirigé par un instructeur s'adresse aux professionnels des bases de données qui souhaitent mettre à jour leurs compétences pour couvrir SQL Server 2017.
+
+  #### Profil du public
+  Le public principal de ce cours est constitué de professionnels des bases de données ayant une expérience de SQL Server 2016 et souhaitant mettre à jour leurs compétences pour SQL Server 2017.
+
+  Le public secondaire est constitué des SQL Server 2016 MCSA existants qui souhaitent se préparer à l'examen de mise à niveau pour la certification SQL Server 2017.
+prerequisitesSection: |-
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Expérience de la création et de la gestion de bases de données, d'entrepôts de données et de solutions de business intelligence (BI) avec SQL Server 2016.
+  - Familiarité avec le système d'exploitation Windows Server 2016 et la mise en réseau.
+  - Familiarité avec Microsoft Office 2016.
+outlineSection: |-
+  ### Module 1&#58; Introduction à SQL Server 2017
+  Objectif du module&#58; Décrire les capacités et les composants clés de SQL Server 2017
+  #### Leçons
+  - Vue d'ensemble de SQL Server 2017
+  - Fonctionnalité à travers les versions
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les limites de l'échelle d'édition
+  - Expliquer la cohérence des fonctionnalités entre les versions
+
+
+  ### Module 2&#58; Nouveautés en matière de performances, d'évolutivité et de disponibilité de SQL Server.
+  Ce module présente les améliorations de performance fournies par Adaptive Query Processing et Automatic Tuning, ainsi que les améliorations d'évolutivité et de disponibilité fournies par les nouvelles architectures de groupes de disponibilité, y compris Read-Scale Availability Groups et Availability Groups with SQL Server on Linux.
+  #### Leçons
+  - Traitement adaptatif des requêtes
+  - Ajustement automatique
+  - Évolutivité de la disponibilité
+
+
+  #### Lab &#58; Performance et disponibilité - traitement adaptatif des requêtes
+  - Exécution entrelacée
+  - Retour d'information sur l'octroi de mémoire en mode batch
+  - Jointures adaptatives en mode batch
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire le traitement adaptatif des requêtes
+  - Décrire la correction automatique de plan
+  - Décrire les architectures de groupes de disponibilité
+  - Décrire les groupes de disponibilité toujours actifs pour Linux
+  - Décrire l'équilibrage de charge des répliques secondaires lisibles
+  - Décrire l'entreposage de données à l'échelle du pétaoctet.
+
+
+  ### Module 3&#58; Nouveautés dans l'accès aux données de SQL Server
+  SQL Server 2017 introduit SQL Graph qui vous permet de définir les relations entre vos éléments de données dans une table plutôt que de les calculer lors d'une requête, ce qui réduit le coût de la requête et simplifie votre structure de données.
+  #### Leçons
+  - SQL Graph
+
+
+  #### Lab &#58; SQL Graph
+  - Créer une base de données graphique
+  - Interroger une base de données graphique
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire SQL Graph
+
+
+  ### Module 4&#58; Nouveautés dans le reporting de SQL Server et BI
+  Ce module décrit les nouveautés dans le reporting de SQL Server et de BI.
+  #### Leçons
+  - Rapport du serveur de Power BI
+  - Mise à jour des services de reporting
+
+
+  #### Lab &#58; Rapports et BI
+  - Déployer le serveur de rapports Power BI
+  - Ajouter des commentaires à un rapport
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Expliquer ce qu'est le serveur de rapports Power BI
+  - Utiliser le serveur de rapports Power BI
+  - Créer un rapport Power BI pour le serveur de rapports Power BI
+
+
+  ### Module 5&#58; Fonctionnalités nouvelles et améliorées de SQL Server Analysis Services
+  Ce module présente les fonctionnalités nouvelles et améliorées de SQL Server Analysis Services, en mettant l'accent sur le modèle de données tabulaires.
+  #### Leçons
+  - Mises à jour du modèle tabulaire
+
+
+  #### Lab &#58; Hiérarchies déchiquetées
+  - Afficher les rapports existants
+  - Masquer les membres vides
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les nouvelles fonctionnalités des modèles de données tabulaires
+
+
+  ### Module 6&#58; Fonctionnalités nouvelles et améliorées de l'analyse de données
+  Ce module présente les fonctionnalités d'analyse de données nouvelles et améliorées.
+  #### Leçons
+  - Fonctionnalités nouvelles et améliorées de l'analyse de données
+
+
+  #### Lab &#58; Analyse de données avec Python
+  - Activer l'exécution de scripts externes
+  - Exécuter des scripts Python
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire les fonctionnalités d'analyse de données nouvelles et améliorées.
+
+
+  ### Module 7&#58; Quoi de neuf dans SQL Server dans le Cloud
+  Les entreprises veulent tirer le meilleur parti d'une combinaison de services cloud et de leurs investissements existants en matériel et logiciels sur site. Ce module permet de comparer les caractéristiques de Microsoft Azure SQL Database et Microsoft SQL Server 2017, ainsi que de nouvelles fonctionnalités qui facilitent la migration des bases de données des instances SQL Server sur site vers les serveurs de l'entreprise Azure SQL Database.
+  #### Leçons
+  - Caractéristiques des bases de données Azure SQL
+  - Instances gérées
+
+
+  #### Lab &#58; Instances gérées
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Expliquer les différentes fonctionnalités disponibles dans les bases de données Azure SQL et SQL Server 2017
+  - Décrire les instances gérées Azure
+
+
+  ### Module 8&#58; SQL Server sous Linux
+  Ce module couvre les fonctionnalités de SQL Server sous Linux, ainsi que le processus de déploiement de SQL Server sous Linux et l'utilisation de Docker.
+  #### Leçons
+  - SQL Server sous Linux
+  - Déploiement de SQL Server sous Linux
+
+
+  #### Lab &#58; SQL Server dans des conteneurs Docker
+  - Déployer une image SQL Server Docker
+  - Exécuter une instance de SQL Server dans un conteneur Docker
+  - Se connecter à une SQL Server Instance exécutée dans un conteneur Docker
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les fonctionnalités de SQL Server sous Linux
+  - Décrire le déploiement de SQL Server sous Linux
+  - Déployer le serveur SQL dans un conteneur Docker.

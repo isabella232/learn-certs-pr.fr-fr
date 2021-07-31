@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 2 juin 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 2 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   
   Les candidats à cet examen doivent avoir une expertise dans la mise en œuvre des contrôles de sécurité et la protection contre les menaces, la gestion des identités et des accès, et la protection des données, des applications et des réseaux.
 
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 2 juin 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 2 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Gérer l’identité et l’accès (30-35%)
 - Mettre en œuvre une Protection de Plateforme (15-20%)
 - Gérer les Opérations de Sécurité (25-30%)

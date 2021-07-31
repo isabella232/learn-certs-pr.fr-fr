@@ -16,9 +16,6 @@ roles:
 - developer
 products:
 - azure
-exams:
-- uid: exam.az-203
-- uid: exam.az-204
 summary: |-
   Une formation de trois jours conçue pour enseigner aux développeurs d’AWS (Amazon Web Services) la mise au point de solutions de bout en bout dans Microsoft Azure. Dans cette formation, vous travaillerez à développer des solutions Azure App Service Web App et Azure Functions, à utiliser le stockage blob ou Cosmos DB dans les solutions, à mettre en œuvre des solutions sécurisées dans le cloud qui comprennent l’authentification et l’autorisation des utilisateurs, à mettre en œuvre la gestion des API, à développer des solutions fondées sur les événements et les messages, et à surveiller, dépanner et optimiser vos solutions Azure. Vous apprendrez comment les développent utilisent les services d’Azure, en vous concentrant davantage sur les fonctionnalités et tâches différentes de l’AWS, et ce que cela signifie pour vous pendant que vous développez des applications qui seront hébergées à l’aide des services Azure.
 

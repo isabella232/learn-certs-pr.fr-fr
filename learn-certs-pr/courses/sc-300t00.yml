@@ -18,14 +18,9 @@ locales:
 levels:
 - intermediate
 roles:
-- administrator
-- identity-access-admin
 - security-engineer
 products:
 - azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
 exams:
 - uid: exam.sc-300
 summary: |-
@@ -34,20 +29,20 @@ summary: |-
   #### Profil du public
   Ce cours s'adresse aux administrateurs des identités et des accès qui prévoient de passer l'examen de certification associé, ou qui effectuent des tâches d'administration des identités et des accès dans leur travail quotidien. Ce cours serait également utile à un administrateur ou à un ingénieur qui souhaite se spécialiser dans la fourniture de solutions d'identité et de systèmes de gestion des accès pour les solutions basées sur Azure, jouant ainsi un rôle essentiel dans la protection d'une organisation.
 prerequisitesSection: |-
-  Les étudiants qui réussissent auront une connaissance et une compréhension préalables de&#58;
+  Avant de suivre ce cours, les étudiants doivent avoir une bonne compréhension de :
   - Les meilleures pratiques de sécurité et les exigences de sécurité de l'industrie telles que la défense en profondeur, l'accès le moins privilégié, la responsabilité partagée et le modèle de confiance zéro.
   - Être familier avec les concepts d'identité tels que l'authentification, l'autorisation et l'annuaire actif.
   - Avoir une certaine expérience du déploiement des charges de travail Azure. Ce cours ne couvre pas les bases de l'administration de Azure, mais le contenu du cours s'appuie sur ces connaissances en ajoutant des informations spécifiques à la sécurité.
-  - Une certaine expérience des systèmes d'exploitation Windows et Linux et des langages de script est utile mais pas obligatoire. Les laboratoires du cours peuvent utiliser PowerShell et le CLI.
+  - Une certaine expérience des systèmes d'exploitation Windows et Linux et des langages de script est utile mais pas obligatoire. Les Laboratoireoratoires du cours peuvent utiliser PowerShell et le CLI.
   
-  <div><strong>Cours prérequis (ou connaissances et expérience pratique équivalentes)&#58;</strong></div>
+  Cours prérequis (ou connaissances et expérience pratique équivalentes)&#58;
   
   Ces formations en ligne gratuite vous permettront d'acquérir l'expérience nécessaire pour réussir ce cours.
-  - [SC-900 partie 1&#58; Décrire les concepts de sécurité, de conformité et d'identité - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
-  - [SC-900 partie 2&#58; Décrire les capacités des solutions de gestion des identités et des accès de Microsoft - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
-  - [SC-900 partie 3&#58; Décrire les capacités des solutions de sécurité de Microsoft - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
-  - [SC-900 partie 4&#58; Décrire les capacités des solutions de conformité de Microsoft - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
-  - [AZ-104&#58; Gérer les identités et la gouvernance dans Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [SC-900 partie 1&#58; Décrire les concepts de sécurité, de conformité et d'identité - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+  - [SC-900 partie 2&#58; Décrire les capacités des solutions de gestion des identités et des accès de Microsoft - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+  - [SC-900 partie 3&#58; Décrire les capacités des solutions de sécurité de Microsoft - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [SC-900 partie 4&#58; Décrire les capacités des solutions de conformité de Microsoft - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+  - [AZ-104&#58; Gérer les identités et la gouvernance dans Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/)
 outlineSection: |-
   ### Module 1&#58; Mettre en œuvre une solution de gestion des identités
   Apprenez à créer et à gérer votre mise en œuvre initiale Azure Active Directory (Azure AD) et à configurer les utilisateurs, les groupes et les identités externes que vous utiliserez pour faire fonctionner votre solution.
@@ -57,28 +52,28 @@ outlineSection: |-
   - Mise en œuvre et gestion des identités externes
   - Mise en œuvre et gestion des identités hybrides
 
-  #### Lab &#58; Gérer les rôles des utilisateurs
+  #### Laboratoire &#58; Gérer les rôles des utilisateurs
   
-  #### Lab &#58; Définir les propriétés du locataire
+  #### Laboratoire &#58; Définir les propriétés du locataire
   
-  #### Lab &#58; Attribuer des licences aux utilisateurs
+  #### Laboratoire &#58; Attribuer des licences aux utilisateurs
   
-  #### Lab &#58; Restaurer ou supprimer des utilisateurs supprimés
+  #### Laboratoire &#58; Restaurer ou supprimer des utilisateurs supprimés
   
-  #### Lab &#58; Ajouter des groupes dans Azure AD
+  #### Laboratoire &#58; Ajouter des groupes dans Azure AD
   
-  #### Lab &#58; Modifier les attributions de licences de groupe
+  #### Laboratoire &#58; Modifier les attributions de licences de groupe
   
-  #### Lab &#58; Modifier les attributions de licences d'utilisateur
+  #### Laboratoire &#58; Modifier les attributions de licences d'utilisateur
   
-  #### Lab &#58; Configurer la collaboration externe
+  #### Laboratoire &#58; Configurer la colLaboratoireoration externe
   
-  #### Lab &#58; Ajouter des utilisateurs invités à l'annuaire
+  #### Laboratoire &#58; Ajouter des utilisateurs invités à l'annuaire
   
-  #### Lab &#58; Explorer les groupes dynamiques
+  #### Laboratoire &#58; Explorer les groupes dynamiques
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Déployer un Azure AD initial avec des paramètres personnalisés
+  -  Déployer un Azure AD initial avec des paramètres personnalisés
   - Gérer les identités internes et externes
   - Mettre en œuvre une solution d'identité hybride
   
@@ -93,19 +88,19 @@ outlineSection: |-
   
   #### Laboratoire &#58; Activer Azure AD MFA
   
-  #### Lab &#58; Configurer et déployer la réinitialisation du mot de passe en libre-service (SSPR)
+  #### Laboratoire &#58; Configurer et déployer la réinitialisation du mot de passe en libre-service (SSPR)
   
-  #### Lab &#58; Travailler avec les valeurs par défaut de sécurité
+  #### Laboratoire &#58; Travailler avec les valeurs par défaut de sécurité
   
-  #### Labo &#58; Mettre en œuvre des politiques d'accès conditionnel, des rôles et des affectations
+  #### Laboratoire &#58; Mettre en œuvre des politiques d'accès conditionnel, des rôles et des affectations
   
-  #### Lab &#58; Configurer les contrôles de session d'authentification
+  #### Laboratoire &#58; Configurer les contrôles de session d'authentification
   
-  #### Lab &#58; Gérer les valeurs de verrouillage intelligent de Azure AD
+  #### Laboratoire &#58; Gérer les valeurs de verrouillage intelligent de Azure AD
   
-  #### Lab &#58; Activer la politique de risque d'ouverture de session
+  #### Laboratoire &#58; Activer la politique de risque d'ouverture de session
   
-  #### Lab &#58; Configurer la politique d'enregistrement d'authentification MFA de Azure AD
+  #### Laboratoire &#58; Configurer la politique d'enregistrement d'authentification MFA de Azure AD
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Configurer et gérer l'authentification des utilisateurs, y compris le MFA.
@@ -120,15 +115,15 @@ outlineSection: |-
   - Mettre en œuvre et contrôler l'intégration des applications d'entreprise pour le SSO
   - Mettre en œuvre l'enregistrement des applications
   
-  #### Lab &#58; Implémenter la gestion des accès pour les applications
+  #### Laboratoire &#58; Implémenter la gestion des accès pour les applications
   
-  #### Lab &#58; Créer un rôle personnalisé pour gérer l'enregistrement des applications
+  #### Laboratoire &#58; Créer un rôle personnalisé pour gérer l'enregistrement des applications
   
-  #### Lab &#58; Enregistrer une application
+  #### Laboratoire &#58; Enregistrer une application
   
-  #### Lab &#58; Accorder le consentement de l'administrateur du locataire à une application
+  #### Laboratoire &#58; Accorder le consentement de l'administrateur du locataire à une application
   
-  #### Lab &#58; Ajouter des rôles d'application aux applications et recevoir des jetons
+  #### Laboratoire &#58; Ajouter des rôles d'application aux applications et recevoir des jetons
   
   Après avoir terminé ce module, les étudiants seront en mesure de &#58;
   - Enregistrer une nouvelle application dans votre Azure AD
@@ -143,21 +138,21 @@ outlineSection: |-
   - Planifier et mettre en œuvre les accès privilégiés
   - Surveiller et maintenir Azure AD
   
-  #### Lab &#58; Créer et gérer un catalogue de ressources avec le droit Azure AD
+  #### Laboratoire &#58; Créer et gérer un catalogue de ressources avec le droit Azure AD
   
-  #### Lab &#58; Ajouter un rapport d'acceptation des conditions d'utilisation
+  #### Laboratoire &#58; Ajouter un rapport d'acceptation des conditions d'utilisation
   
-  #### Lab &#58; Gérer le cycle de vie des utilisateurs externes avec la gouvernance d'identité Azure AD
+  #### Laboratoire &#58; Gérer le cycle de vie des utilisateurs externes avec la gouvernance d'identité Azure AD
   
-  #### Lab &#58; Créer des examens d'accès pour les groupes et les applications
+  #### Laboratoire &#58; Créer des examens d'accès pour les groupes et les applications
   
-  #### Lab &#58; Configurer PIM pour les rôles Azure AD
+  #### Laboratoire &#58; Configurer PIM pour les rôles Azure AD
   
-  #### Lab &#58; Attribuer un rôle Azure AD dans PIM
+  #### Laboratoire &#58; Attribuer un rôle Azure AD dans PIM
   
-  #### Labo &#58; Attribuer des rôles de ressources Azure dans PIM
+  #### Laboratoireo &#58; Attribuer des rôles de ressources Azure dans PIM
   
-  #### Lab &#58; Connecter les données de Azure AD à Azure Sentinel  
+  #### Laboratoire &#58; Connecter les données de Azure AD à Azure Sentinel  
   Après avoir terminé ce module, les étudiants seront en mesure de &#58;
   - Gérer et maintenir Azure AD de la création à la solution
   - Utilisez les examens d'accès pour gérer votre Azure AD

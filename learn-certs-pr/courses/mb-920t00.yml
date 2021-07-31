@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+title: 'Microsoft Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
-  description: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  title: 'Course MB-920T00--A: Microsoft Certified: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: 'Course MB-920T00--A: Microsoft Certified: Microsoft Dynamics 365 Fundamentals (ERP)'
 uid: course.mb-920t00
 courseNumber: 'MB-920T00'
 hoursToComplete: 48
@@ -13,7 +13,7 @@ skillsGained:
 - skill: Décrire les capacités et les fonctionnalités de Dynamics 365 Commerce
 - skill: Décrire les capacités et les fonctionnalités de Dynamics 365 Human Resources
 - skill: Décrire les capacités et les fonctionnalités de Dynamics 365 Project Operations (ERP)
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -49,35 +49,35 @@ outlineSection: |-
 
   *  Lab Capstone 
 
-  #### Lab &#58; Naviguer dans les applications financières et opérationnelles
+  #### Laboratoire &#58; Naviguer dans les applications financières et opérationnelles
 
   ####
 
-  #### Lab &#58; Explorer les espaces de travail et le filtrage
+  #### Laboratoire &#58; Explorer les espaces de travail et le filtrage
 
   ####
 
-  #### Lab &#58; Créer un produit
+  #### Laboratoire &#58; Créer un produit
 
   ####
 
-  #### Lab &#58; Créer un bon de commande
+  #### Laboratoire &#58; Créer un bon de commande
 
   ####
 
-  #### Lab &#58; Créer un entrepôt
+  #### Laboratoire &#58; Créer un entrepôt
 
   ####
 
-  #### Lab &#58; Créer un ordre de fabrication
+  #### Laboratoire &#58; Créer un ordre de fabrication
 
   ####
 
-  #### Lab &#58; Créer un ordre de travail planifié
+  #### Laboratoire &#58; Créer un ordre de travail planifié
 
   ####
 
-  #### Lab &#58; Lab Dynamics 365 Supply Chain Management Capstone
+  #### Laboratoire &#58; Lab Dynamics 365 Supply Chain Management Capstone
 
   ####
 
@@ -115,15 +115,15 @@ outlineSection: |-
 
   *   Lab Capstone 
 
-  #### Lab &#58; Lab Capstone 
+  #### Laboratoire &#58; Lab Capstone 
 
   ####
 
-  #### Lab &#58; Créer un journal de paiement des fournisseurs
+  #### Laboratoire &#58; Créer un journal de paiement des fournisseurs
 
   ####
 
-  #### Lab &#58; Créer une dimension financière
+  #### Laboratoire &#58; Créer une dimension financière
 
   ####
 
@@ -153,15 +153,15 @@ outlineSection: |-
 
   *   Lab Capstone
 
-  #### Lab &#58; Créer un produit à prix réduit
+  #### Laboratoire &#58; Créer un produit à prix réduit
 
   ####
 
-  #### Lab &#58; Créer un assortiment de produits
+  #### Laboratoire &#58; Créer un assortiment de produits
 
   ####
 
-  #### Lab &#58; Lab Capstone
+  #### Laboratoire &#58; Lab Capstone
 
   ####
 
@@ -185,7 +185,7 @@ outlineSection: |-
 
   *   Lab Capstone 
 
-  #### Lab&#58; Lab Capstone
+  #### Laboratoire &#58; Lab Capstone
 
   ####
 

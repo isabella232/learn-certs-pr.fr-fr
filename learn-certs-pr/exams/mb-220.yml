@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 26 avril 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  <div><strong>Le contenu de cet examen sera mis à jour le 9 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer..</strong><br/><br/></div>
   
   Les candidats à cet examen sont les consultants fonctionnels Dynamics 365 Marketing. Les candidats sont chargés de mettre en œuvre des solutions qui attirent et convertissent les prospects, renforcent la notoriété de la marque, normalisent les messages omnicanaux et fournissent des informations marketing.
   
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 26 avril 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 9 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Configurer les paramètres des applications (20-25%)
 - Gérer les segments et les listes (10-15%)
 - Créer et gérer des formulaires et des pages de marketing (10-15%)

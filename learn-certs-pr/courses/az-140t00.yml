@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configuring and operating Windows Virtual Desktop on Microsoft Azure
+title: Configuring and Operating Microsoft Azure Virtual Desktop
 metadata:
-  title: 'Course AZ-140T00-A: Configuring and operating Windows Virtual Desktop on Microsoft Azure'
-  description: 'Course AZ-140T00-A: Configuring and operating Windows Virtual Desktop on Microsoft Azure'
+  title: 'Course AZ-140T00-A: Configuring and Operating Microsoft Azure Virtual Desktop'
+  description: 'Course AZ-140T00-A: Configuring and Operating Microsoft Azure Virtual Desktop'
 uid: course.az-140t00
 courseNumber: 'AZ-140T00-A'
 hoursToComplete: 96
@@ -65,9 +65,9 @@ outlineSection: |-
   - Concevoir l'architecture WVD
   - Conception des identités et des profils des utilisateurs
 
-  #### Lab&#58; Préparer le déploiement de Azure Windows Virtual Desktop (Azure AD DS) 
+  #### Laboratoire&#58; Préparer le déploiement de Azure Windows Virtual Desktop (Azure AD DS) 
 
-  #### Lab&#58; Préparer le déploiement de Azure Windows Virtual Desktop (AD DS) 
+  #### Laboratoire&#58; Préparer le déploiement de Azure Windows Virtual Desktop (AD DS) 
 
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Comprendre les composants du Windows Virtual Desktop
@@ -83,15 +83,15 @@ outlineSection: |-
   - Créer et configurer des pools d'hôtes et des hôtes de session
   - Créer et gérer l'image de l'hôte de session
 
-  #### Lab&#58; Créer et configurer des pools d'hôtes et des hôtes de session (Azure AD DS) 
+  #### Laboratoire&#58; Créer et configurer des pools d'hôtes et des hôtes de session (Azure AD DS) 
 
-  #### Lab&#58; Déployer des pools d'hôtes et des hôtes de session en utilisant le portail Azure (AD DS) 
+  #### Laboratoire&#58; Déployer des pools d'hôtes et des hôtes de session en utilisant le portail Azure (AD DS) 
 
-  #### Lab&#58; Mettre en œuvre et gérer le stockage pour WVD (Azure AD DS) 
+  #### Laboratoire&#58; Mettre en œuvre et gérer le stockage pour WVD (Azure AD DS) 
 
-  #### Lab&#58; Déployer des pools d'hôtes et des hôtes en utilisant des modèles Azure Resource Manager 
+  #### Laboratoire&#58; Déployer des pools d'hôtes et des hôtes en utilisant des modèles Azure Resource Manager 
 
-  #### Lab&#58; Déployer et gérer des pools d'hôtes et des hôtes à l'aide des outils suivants PowerShell 
+  #### Laboratoire&#58; Déployer et gérer des pools d'hôtes et des hôtes à l'aide des outils suivants PowerShell 
 
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Mettre en œuvre la connectivité du réseau virtuel Azure
@@ -109,7 +109,7 @@ outlineSection: |-
   - Gérer l'accès
   - Gérer la sécurité
 
-  #### Lab&#58; Configurer les politiques d'accès conditionnel pour les connexions à WVD (AD DS)
+  #### Laboratoire&#58; Configurer les politiques d'accès conditionnel pour les connexions à WVD (AD DS)
   
   Après avoir terminé ce module, les étudiants seront en mesure de &#58;
   - Gérer les rôles locaux, les groupes et l'attribution des droits sur les hôtes de session WVD.
@@ -125,11 +125,11 @@ outlineSection: |-
   - Configurer les paramètres de l'expérience utilisateur
   - Installer et configurer des applications sur un hôte de session
 
-  #### Lab&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
+  #### Laboratoire&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
 
-  #### Lab&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
+  #### Laboratoire&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
 
-  #### Lab&#58; Conditionnement de l'application Windows Virtual Desktop (AD DS)
+  #### Laboratoire&#58; Conditionnement de l'application Windows Virtual Desktop (AD DS)
 
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Configuration des conteneurs de profil
@@ -147,7 +147,7 @@ outlineSection: |-
   - Automatiser les tâches de gestion de WVD
   - Surveiller et gérer les performances et la santé
 
-  #### Lab&#58; Implémentation de l'autoscaling dans les pools d'hôtes (AD DS) 
+  #### Laboratoire&#58; Implémentation de l'autoscaling dans les pools d'hôtes (AD DS) 
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Planifier et mettre en œuvre un plan de reprise après sinistre pour WVD

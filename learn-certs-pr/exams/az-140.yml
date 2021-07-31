@@ -1,32 +1,33 @@
 ### YamlMime:Examination
-title: 'Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+title: 'Configuring and Operating Microsoft Azure Virtual Desktop'
 metadata:
-  title: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
-  description: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+  title: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
+  description: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
-  Les candidats à cet examen sont des administrateurs Azure ayant une expertise en matière de planification, de fourniture et de gestion des expériences de bureau virtuel et des applications à distance, pour tout appareil, sur Azure.
+  Les candidats à cet examen sont des administrateurs ayant une expertise en matière de planification, de fourniture et de gestion des expériences de bureau virtuel et des applications à distance, pour tout appareil, sur Azure.
   
-  Les candidats à cet examen doivent avoir une expérience des technologies Azure, notamment la virtualisation, la mise en réseau, l'identité, le stockage, les sauvegardes, la résilience et la reprise après sinistre. Ils doivent comprendre les technologies d'infrastructure de bureau virtuel sur site dans le cadre de la migration vers Windows Virtual Desktop. Ces professionnels utilisent le portail Azure et les modèles Azure Resource Manager (ARM) pour accomplir bon nombre de leurs tâches. Ils peuvent utiliser PowerShell et Azure Command-Line Interface (CLI) pour une automatisation plus efficace.
+  Les responsabilités de ce rôle incluent le déploiement d'expériences de bureau virtuel et d'applications sur Azure. Les professionnels de cette fonction fournissent des applications sur Azure Virtual Desktop et les optimisent pour qu'elles fonctionnent dans des environnements virtuels multi-session. Pour offrir ces expériences, ils travaillent en étroite collaboration avec les administrateurs et les architectes de Azure, ainsi qu'avec les administrateurs de Microsoft 365.
+
+  Les candidats à cet examen doivent avoir une expérience des technologies Azure, notamment la virtualisation, la mise en réseau, l'identité, le stockage, les sauvegardes, la résilience et la reprise après sinistre. Ils doivent comprendre les technologies d'infrastructure de bureau virtuel sur site dans le cadre de la migration vers Azure Virtual Desktop. Ces professionnels utilisent le portail Azure et les modèles Azure Resource Manager pour accomplir de nombreuses tâches. Ils peuvent utiliser PowerShell et Azure Command-Line Interface (CLI) pour une automatisation plus efficace.
   
   Les candidats à cet examen doivent avoir des compétences expertes en administration Azure.
-  
-  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/beta-exams">En savoir plus sur la valeur et l'importance des examens bêta</a>.</strong></font></div>
-subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier une architecture Windows Virtual Desktop; mettre en œuvre une infrastructure Windows Virtual Desktop; gérer l'accès et la sécurité; gérer les environnements et les applications des utilisateurs; surveiller et maintenir une infrastructure Windows Virtual Desktop."
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier une Azure Virtual Desktop Architecture; mettre en œuvre une Azure Virtual Desktop Infrastructure; gérer l'accès et la sécurité; gérer les environnements et les applications des utilisateurs; surveiller et maintenir une Azure Virtual Desktop infrastructure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Planifier une architecture Windows Virtual Desktop (10-15%)
-- Implémenter une infrastructure Windows Virtual Desktop (25-30%)
-- Gestion des accès et de la sécurité (10-15%)
-- Gestion des environnements et des applications des utilisateurs (20-25%)
-- Surveiller et maintenir une infrastructure Windows Virtual Desktop (20-25%)
+- "NOTE : Les puces qui apparaissent sous chacune des compétences mesurées ont pour but d'illustrer la manière dont nous évaluons cette compétence. Cette liste n'est PAS définitive ou exhaustive."
+- Planifier une Azure Virtual Desktop Infrastructure (10-15%)
+- Mettre en œuvre une Azure Virtual Desktop Infrastructure (25-30%)
+- Gérer l'accès et la sécurité (10-15%)
+- Gérer les environnements et les applications des utilisateurs (20-25 %)
+- Surveillance et maintenance d'une Azure Virtual Desktop Infrastructure (20-25 %)
 roles:
 - administrator
 products:
@@ -56,7 +57,7 @@ courses:
 - uid: course.az-140t00
 relatedCertifications:
 - related:
-    uid: certification.windows-virtual-desktop-specialty
+    uid: certification.azure-virtual-desktop-specialty
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

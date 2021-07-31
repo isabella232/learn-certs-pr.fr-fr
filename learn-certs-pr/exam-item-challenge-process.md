@@ -36,7 +36,7 @@ Les examens de Microsoft Certification sont conçus pour garantir que les candid
 ### Procédure de contestation de question d’examen
 
 1. Consultez nos critères concernant l’acceptation et le refus d’une contestation portant sur une question d’examen.
-2. Remplissez et soumettez-le [formulaire de contestation d’une question d’examen.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. Remplissez et soumettez-le [formulaire de contestation d’une question d’examen.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. L'équipe de Microsoft Certification vérifiera que votre demande est complète. Si elle est incomplète, il vous sera demandé de fournir des informations supplémentaires. Si elles sont complètes, l'équipe de Microsoft Certification les examinera. Une révision prend environ deux semaines.
 4. Une fois l'examen terminé, vous serez informé du résultat.
 

@@ -32,14 +32,8 @@ levels:
 - intermediate
 roles:
 - administrator
-- ip-admin
-- risk-practitioner
-- security-engineer
 products:
-- office-teams
-- office-sp
 - m365
-- m365-ems-cloud-app-security
 exams:
 - uid: exam.sc-400
 summary: |-
@@ -48,7 +42,7 @@ summary: |-
   #### Profil du public
   L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes. Il travaille avec le personnel des technologies de l'information (IT), les propriétaires d'applications d'entreprise, les ressources humaines et les parties prenantes juridiques pour mettre en œuvre la technologie qui soutient les politiques et les contrôles nécessaires pour répondre de manière satisfaisante aux exigences réglementaires de l'organisation. Ils travaillent également avec les responsables de la conformité et de la sécurité, tels que le chef de la conformité et le responsable de la sécurité, afin d'évaluer toute l'étendue des risques associés à l'entreprise et de s'associer pour élaborer ces politiques. Cette personne définit les exigences applicables et teste les processus et opérations IT par rapport à ces politiques et contrôles. Elle est chargée de créer des politiques et des règles pour la classification du contenu, la prévention des pertes de données, la gouvernance et la protection.
 prerequisitesSection: |-
-  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  Avant de suivre ce cours, les étudiants doivent avoir une bonne compréhension de :
   - Une connaissance de base des technologies de sécurité et de conformité de Microsoft.
   - Une connaissance de base des concepts de protection de l'information.
   - Compréhension des concepts du cloud computing.
@@ -65,7 +59,7 @@ outlineSection: |-
   - Configurer les étiquettes de sensibilité
   - Appliquer et gérer les étiquettes de sensibilité
 
-  #### Lab &#58; Mettre en œuvre la protection de l'information
+  #### Laboratoire &#58; Mettre en œuvre la protection de l'information
   - Attribuer des autorisations pour la conformité
   - Gérer le cryptage des messages de Office 365
   - Gérer les types d'informations sensibles
@@ -89,7 +83,7 @@ outlineSection: |-
   - Configurer les politiques DLP pour Microsoft Cloud App Security and Power Platform
   - Gérer les politiques et les rapports DLP dans Microsoft 365
   
-  #### Lab &#58; Mettre en œuvre la prévention des pertes de données
+  #### Laboratoire &#58; Mettre en œuvre la prévention des pertes de données
   - Gérer les politiques DLP
   - Gérer la DLP de Endpoint
   - Tester les politiques DLP
@@ -112,7 +106,7 @@ outlineSection: |-
   - Gérer la rétention des données dans les charges de travail Microsoft 365
   - Gérer les enregistrements dans Microsoft 36
   
-  #### Lab &#58; Mettre en œuvre la gouvernance de l'information
+  #### Laboratoire &#58; Mettre en œuvre la gouvernance de l'information
   - Configurer les étiquettes de rétention
   - Mise en œuvre des étiquettes de rétention
   - Configuration de la rétention basée sur les services

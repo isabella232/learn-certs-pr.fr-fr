@@ -7,8 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/pl-600">PL-600</a>, EST DEVENU DISPONIBLE DEPUIS MARS 2021. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021.</strong></font><br/><br/></div>
-  <div><strong>Le contenu de cet examen a été mis à jour 30 juillet 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>CET EXAMEN A ÉTÉ RETIRÉ LE 30 JUIN 2021. Une nouvelle version de cet examen, PL-600, est disponible. Pour plus d'information, visitez la <a href="/learn/certifications/exams/pl-600">PL-600</a> page des détails de l'examen.</strong></font><br/><br/></div>
   </div>
   
   Les architectes de solutions de Microsoft Dynamics 365 + Power Platform dirigent des mises en œuvre réussies et se concentrent sur la manière dont les solutions répondent aux besoins professionnels et techniques plus larges des organisations.
@@ -19,13 +18,11 @@ summary: |-
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes, procéder à une analyse des exigences et de la conception de la solution, créer une solution et mettre une solution en œuvre.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- Le contenu de cet examen a été mis à jour 30 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Procéder à une analyse des exigences et de la conception de la solution (30-35%)
 - Créer une solution (45-50%)
 - Mettre une solution en œuvre (20-25%)

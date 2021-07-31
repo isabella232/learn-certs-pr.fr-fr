@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Designing and Implementing Microsoft Azure Networking Solutions
+metadata:
+  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+uid: course.az-700t00
+courseNumber: 'AZ-700T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- network-engineer
+products:
+- azure
+summary: |-
+  Ce cours enseigne aux ingénieurs réseau comment concevoir, mettre en œuvre et maintenir les solutions de mise en réseau Azure. Ce cours couvre le processus de conception, de mise en œuvre et de gestion de l'infrastructure réseau de base de Azure, les connexions de réseau hybride, l'équilibrage de charge du trafic, le routage du réseau, l'accès privé aux services Azure, la sécurité du réseau et la surveillance. Apprenez à concevoir et à mettre en œuvre une infrastructure réseau sécurisée et fiable dans Azure et à établir une connectivité hybride, un routage, un accès privé aux services Azure et une surveillance dans Azure.
+
+  #### Profil du public
+
+  Ce cours s'adresse aux ingénieurs réseau qui souhaitent se spécialiser dans les solutions réseau Azure. Un ingénieur réseau Azure conçoit et met en œuvre l'infrastructure réseau de base de Azure, les connexions réseau hybrides, le trafic d'équilibrage de charge, le routage réseau, l'accès privé aux services Azure, la sécurité réseau et la surveillance. L'ingénieur réseau Azure gérera les solutions de mise en réseau pour une performance, une résilience, une échelle et une sécurité optimales.
+prerequisitesSection: |-
+  Les ingénieurs réseau Azure qui réussissent commencent ce rôle avec une expérience dans les réseaux d'entreprise, l'infrastructure sur site ou dans le cloud et la sécurité des réseaux.
+
+  * Compréhension des&nbsp; technologies de virtualisation sur site, notamment : VMs, réseau virtuel, et disques durs virtuels.
+
+  * Compréhension des configurations de réseau, y compris TCP/IP, Domain Name System (DNS), réseaux privés virtuels (VPNs), pare-feu et technologies de cryptage.
+
+  * Compréhension des réseaux définis par logiciel.
+
+  * Comprendre les méthodes de connectivité des réseaux hybrides, tels que les VPN.
+
+  * Comprendre la résilience et la reprise après sinistre, y compris la haute disponibilité et les opérations de restauration.
+
+  **Cours préalables (ou connaissances et expérience pratique équivalentes):**
+
+
+  Cette formation en ligne gratuite vous permettra d'acquérir l'expérience nécessaire pour réussir ce cours.
+
+  *   [Azure Fundamentals partie 1: Décrire les concepts de base de Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
+  *   [Azure Fundamentals partie 2: Décrire le cœur  des Azure services - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+  *   [Azure Fundamentals partie 3: Décrire les solutions de base et les outils de gestion sur Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+  *   [Azure Fundamentals partie 4: Décrire les caractéristiques générales de sécurité et de sécurité du réseau - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+  *   [AZ-104: Configurer et gérer les réseaux virtuels pour les administrateurs Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
+outlineSection: |-
+  ### Module 1: Réseaux virtuels Azure
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre les ressources fondamentales de la mise en réseau Azure, telles que les réseaux virtuels, les IPs publiques et privées, le DNS, le peering de réseau virtuel, le routage et le Azure Virtual NAT.
+
+  #### Leçons
+
+  * Réseaux virtuels Azure
+
+  * services IP publics
+
+  * DNS public et privé
+
+  * connectivité inter-VNET
+
+  * Routage de réseau virtuel
+
+  * Réseau virtuel Azure NAT
+
+  #### Laboratoire : Concevoir et mettre en œuvre un réseau virtuel dans Azure
+
+  ####
+
+  #### Laboratoire : Configurez les paramètres DNS dans Azure
+
+  ####
+
+  #### Laboratoire : Connecter des réseaux virtuels grâce au peering
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Mettre en œuvre des réseaux virtuels
+
+  * Configurer des services IP publics
+
+  * Configurer des zones DNS privées et publiques
+
+  * Concevoir et mettre en œuvre la connectivité inter-VNET.
+
+  * Mettre en œuvre le routage des réseaux virtuels
+
+  * Conception et mise en œuvre d'un réseau virtuel Azure NAT
+
+
+  ### Module 2 : Conception et mise en œuvre d'un réseau hybride
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre des solutions de réseau hybride telles que les connexions VPN site à site, les connexions VPN point à site, le Azure Virtual WAN et les concentrateurs Virtual WAN.
+
+  #### Leçons
+
+  * Connexion VPN site à site
+
+  * Connexions VP point-à-site
+
+  * Azure Virtual WAN
+
+
+  #### Laboratoire : Créer et configurer une passerelle locale
+
+  ####
+    * Créer et configurer une passerelle de réseau virtuel
+    * Créer un Virtual WAN en utilisant Azure Portal
+
+  Concevoir et mettre en œuvre une connexion VPN de site à site
+
+  * Concevoir et mettre en œuvre une connexion VPN point à site
+
+  * Concevoir et mettre en œuvre l'authentification
+
+  * Concevoir et mettre en œuvre des ressources Azure Virtual WAN
+
+  ### Module 3 : Conception et mise en œuvre de Azure ExpressRoute
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre les éléments suivants Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath et les options ExpressRoute Peering.
+
+  #### Leçons
+
+  *   ExpressRoute
+
+  *   ExpressRoute Direct
+
+  *   ExpressRoute FastPath
+
+  *   ExpressRoute Peering
+
+
+  #### Laboratoire : Créer et configurer ExpressRoute
+
+  ####
+
+  Concevoir et mettre en œuvre Expressroute
+
+  *   Concevoir et mettre en œuvre Expressroute Direct
+
+  *   Concevoir et mettre en œuvre Expressroute FastPath
+
+
+  ### Module 4: équilibrage de la charge du trafic non-HTTP(S) en Azure
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre des solutions d'équilibrage de charge pour le trafic non-HTTP(S) dans Azure avec Azure Load balancer et Traffic Manager.
+
+  #### Leçons
+
+  *   Diffusion de contenu et équilibrage de charge
+
+  *   Azure Load balancer
+
+  *   Azure Traffic Manager
+
+  *   Moniteur Azure 
+
+  *   Observateur de réseau
+
+
+  #### Laboratoire : Créer et configurer un équilibreur de charge public pour équilibrer la charge des VMs en utilisant le portail Azure.
+
+  ####
+
+  #### Laboratoire : Créer un profil Traffic Manager à l'aide du portail Azure
+
+  ####
+
+  #### Laboratoire : Créer, afficher et gérer des alertes métriques dans moniteur Azure 
+
+  ####
+
+  Concevoir et mettre en œuvre Azure Load Balancers
+
+  *   Concevoir et mettre en œuvre Azure Traffic Manager
+
+  *   Surveiller les réseaux avec le Moniteur Azure
+
+  *   Utiliser l’observateur de réseau
+
+
+  ### Module 5: Équilibrage de la charge du trafic HTTP(S) dans Azure
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre des solutions d'équilibrage de charge pour le trafic HTTP(S) dans Azure avec Azure Application gateway et Azure Front Door.
+
+  #### Leçons
+
+  *   Azure Application Gateway
+
+  *   Azure Front Door
+
+
+  #### Laboratoire : Créer une porte d'entrée pour une application Web hautement disponible en utilisant le portail Azure
+
+  ####
+
+  #### Laboratoire : Créer et configurer une Application Gateway
+
+  ####
+
+  Conception et mise en œuvre de Azure Application Gateway
+
+  *   Implémenter Azure Front Door
+
+  ### Module 6: Concevoir et mettre en œuvre la sécurité du réseau
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre des solutions de sécurité réseau telles que Azure DDoS, Azure Firewalls, des groupes de sécurité réseau et une application web de pare-feu.
+
+  #### Leçons
+
+  *   Azure DDoS Protection
+
+  *   Azure Firewall
+
+  *   Groupes de sécurité des réseaux
+
+  *   Application web de pare-feu Azure Front Door
+
+  #### Laboratoire : Create a Virtual Network with DDoS protection plan
+
+  ####
+
+  #### Laboratoire : Déployer et configurer Azure Firewall
+
+  ####
+
+  #### Laboratoire : Créer une politique d'application web de pare-feu sur Azure Front Door
+
+  ####
+
+  Configurer et surveiller un plan de protection Azure DDoS
+
+  * Mettre en œuvre et gérer Azure Firewall
+
+  * Mettre en œuvre des groupes de sécurité réseau
+
+  * Mettre en œuvre un pare-feu d'application web (WAF) sur Azure Front Door
+
+
+  ### Module 7 : Conception et mise en œuvre d'un accès privé aux Azure Services
+
+  Dans ce module, vous apprendrez à concevoir et à mettre en œuvre un accès privé aux Azure Services avec Azure Private Link et des points de terminaison de service de réseau virtuel..
+
+  #### Leçons
+
+  * Définir Azure Private Link et les points d'extrémité privés
+
+  * Concevoir et configurer les points d'extrémité privés
+
+  * Intégrer Azure Private Link avec le DNS et les clients sur site.
+
+  * Créer, configurer et fournir un accès aux points d'extrémité de service
+
+  * Configurer l'intégration VNET pour App Service
+
+
+  #### Laboratoire : restreindre l'accès réseau aux ressources PaaS avec des terminaux de service réseau virtuels
+
+  ####
+
+  #### Laboratoire : créer un point de terminaison privé Azure
+
+  ####
+
+  Définir la différence entre Private Link Service et les points d'extrémité privés.
+
+  * Concevoir et configurer les points d'extrémité privés
+
+  * Explication des points d'extrémité de service de réseau virtuel
+
+  * Concevoir et configurer l'accès aux terminaux de service
+
+  * Intégrer Private Link avec DNS
+
+  * Intégrer votre App Service avec les réseaux virtuels Azure
+

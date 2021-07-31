@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Décrire les composants de la Power Platform Power Platform
+- skill: Décrire les composants de Microsoft Power Platform
 - skill: Décrire Microsoft Dataverse, Connecteurs et AI builder
 - skill: Décrire des scénarios inter-cloud à travers Microsoft 365, Dynamics 365, Microsoft Azure et des services tiers.
-- skill: Identifier les avantages et les capacités de Power Platform.
-- skill: Identifier la fonctionnalité de base et la valeur métier des composants de Power Platform.
+- skill: Identifier les avantages et les capacités de Microsoft Power Platform.
+- skill: Identifier les fonctionnalités de base et la valeur commerciale des composants de Microsoft Power Platform.
 - skill: Implémenter des solutions simples avec Power Apps, Power Automate, Power BI et Power Virtual Agents.
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,38 +20,43 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  Découvrez la valeur commerciale et les capacités des produits de Power Platform. Créez des Power Apps simples, connectez des données avec Dataverse, construisez un tableau de bord Power BI, automatisez des processus avec Power Automate et créez un chatbot avec Power Virtual Agents.
+  Découvrez la valeur commerciale et les capacités des produits de Microsoft Power Platform. Créez des Power Apps simples, connectez des données avec Dataverse, construisez un tableau de bord Power BI, automatisez des processus avec Power Automate et créez un chatbot avec Power Virtual Agents.
 
   #### Profil de l’audience
   Les candidats à cet examen sont des utilisateurs qui aspirent à améliorer la productivité en automatisant des processus métier, en analysant les données pour produire des perspectives commerciales, et en agissant de manière plus efficace par la création d’expériences d’applications simples.
 prerequisitesSection: |-
   Ce cours n’a pas de prérequis.
 outlineSection: |-
-  ### Module 1&#58; Introduction à Power Platform
-  Découvrez les composants de Power Platform, les manières de connecter les données, et comment les organisations peuvent tirer parti de cette technologie pour créer des solutions métier.
+  ### Module 1 : Introduction à Microsoft Power Platform
+  Découvrez les composants de Microsoft Power Platform, les moyens de connecter les données et la manière dont les entreprises peuvent tirer parti de cette technologie pour créer des solutions commerciales.
+
   #### Leçons
-  - Présentation de Power Platform
-  - Résumé du module
 
-  À la fin de ce module, les étudiants seront capables de&#58;
-  - Déterminer quand utiliser l’application des composants de Power Platform pour créer des solutions métier.
-  - Apprendre la valeur de l’utilisation de Power Platform pour créer des solutions commerciales.
-  - Découvrir les composants et les fonctionnalités de Power Platform.
+  * Présentation de Microsoft Power Platform
 
+  * Résumé du module
 
-  ### Module 2&#58; Introduction à Microsoft Dataverse
-  Dataverse vous permet de vous plonger dans des solutions de données puissantes et évolutives dans le cloud. Découvrez ce qui fait la particularité de Dataverse et comment il peut fonctionner avec Power Platform pour créer des solutions commerciales uniques et efficaces.
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Identifier quand utiliser chaque application composant Microsoft Power Platform pour créer des solutions d'entreprise.
+
+  * Apprendre la valeur de l'utilisation de Microsoft Power Platform pour créer des solutions d'affaires.
+
+  * Apprendre les composants et les fonctionnalités de Microsoft Power Platform.
+
+  ### Module 2 : Introduction à Microsoft Dataverse
+  Dataverse vous permet de vous plonger dans des solutions de données puissantes et évolutives dans le cloud. Découvrez les caractéristiques de Dataverse et comment il peut fonctionner avec Microsoft Power Platform pour créer des solutions commerciales uniques et efficaces.
   #### Cours
   - Aperçu de Microsoft Dataverse 
   - Résumé du module
   
-  #### Lab &#58; Modélisation de données
+  #### Laboratoire &#58; Modélisation de données
   - Créer une solution
   - Ajouter des tables existantes et créer de nouvelles tables
   - Créer des relations
@@ -62,12 +67,11 @@ outlineSection: |-
   - D'expliquer les cas d'utilisation et les limites des règles métier et des flux de processus
   - D’expliquer ce que sont les environnements, les tables, les colonnes et les relations dans Dataverse.
 
-
   ### Module 3&#58; Démarrer avec Power Apps
   Découvrez la valeur et les capacités de Power Apps et les manières par lesquelles d’autres organisations tirent parti de cette technologie pour construire de simples applications pour leurs entreprises.
   #### Leçons
   - Introduction à Power Apps
-  - Comment créer une application canevas
+  - Comment créer une application canevass
   - Comment créer une application basée sur un modèle
   - Introduction aux portails de Power Apps
 

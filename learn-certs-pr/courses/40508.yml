@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: À la fin de cet atelier, vous serez mieux à même de déployer et de configurer les Azure Web Apps et les services associés. En outre, vous apprendrez à configurer les Web Apps pour l'authentification avec Azure AD, à instrumenter et à tester la charge de l'application avec App Insights, et à automatiser les services back-end à l'aide de Azure Functions et Logic Apps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous travaillerez en groupe pour mettre en œuvre une solution de bout en bout pour le commerce électronique qui repose sur Azure App Services, Azure Active Directory et Visual Studio Team Services. Vous vous assurerez que la solution est conforme à la norme PCI et que des mesures de sécurité appropriées sont mises en place pour les scénarios d'accès sur site et d'accès public.
+
+  #### Profil du public
+  Cet atelier est destiné aux architectes du cloud et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les zones "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception sur tableau blanc - Les applications modernes du cloud 
+  #### Leçons
+  - Examen de l'étude de cas du client
+  - Concevoir une solution de preuve de concept
+  - Présenter la solution
+
+  ### Module 2&#58; Laboratoire pratique - Applications modernes de cloud computing
+  #### Leçons
+  - Déploiement de la preuve de concept
+  - Identité et sécurité
+  - Activer Azure B2C pour le site du client
+  - Activation de la Telemetry avec Application Insights
+  - Automatiser les processus backend avec Azure Functions et Logic Apps

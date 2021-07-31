@@ -6,6 +6,7 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
+  <div><font color="red"><strong>Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Il doit maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>
 
   Le créateur d’application développe et applique les processus métier, structure la collection numérique des informations, améliorer l’efficacité des tâches répétitives et automatise les processus métier.
@@ -13,7 +14,7 @@ summary: |-
   Le créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend la manière de les appliquer.
 
   Le créateur d’applications est autonome et axé sur la solution. Il ne doit pas nécessairement avoir une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: concevoir des solutions, créer des solutions, analyser des données, et implémenter et gérer des solutions.'
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : Concevoir des solutions, Créer des solutions, Analyser des données, Mettre en œuvre et gérer des solutions.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,10 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
+- Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le référentiel des compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Concevoir des solutions (10-15%)
-- Créer des solutions (55-60%)
-- Analyser et visualiser des données (5-10%)
-- Mettre en œuvre et de gérer des solutions (15-20%)
+- Créer des solutions (50-55%)
+- Analyser les données (5-10%)
+- Mettre en œuvre et gérer des solutions (15-20%)
 roles:
 - business-analyst
 - business-owner

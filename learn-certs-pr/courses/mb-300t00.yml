@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Finance and Operations Core'
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: 'Course MB-300T00: Microsoft Finance and Operations Core'
-  description: 'Course MB-300T00: Microsoft Finance and Operations Core'
+  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
 uid: course.mb-300t00
 courseNumber: 'MB-300T00'
 hoursToComplete: 48
@@ -86,15 +86,15 @@ outlineSection: |-
   - Décrire les cas d'utilisation des applications et services de Power Platform
   - Synthèse du module
   
-  #### Lab &#58; Travailler avec un espace de travail opérationnel
+  #### Laboratoire &#58; Travailler avec un espace de travail opérationnel
   
-  #### Lab &#58; Préparer, activer et utiliser la gestion des documents commerciaux
+  #### Laboratoire &#58; Préparer, activer et utiliser la gestion des documents commerciaux
   
-  #### Lab &#58; Effectuer des recherches et travailler avec des filtres
+  #### Laboratoire &#58; Effectuer des recherches et travailler avec des filtres
   
-  #### Lab &#58; Créer des requêtes de recherche et les sauvegarder pour une utilisation ultérieure
+  #### Laboratoire &#58; Créer des requêtes de recherche et les sauvegarder pour une utilisation ultérieure
   
-  #### Lab &#58; Travailler avec des modèles de dossiers
+  #### Laboratoire &#58; Travailler avec des modèles de dossiers
   
   Vous avez appris comment&#58;
   - Utiliser des fonctionnalités et des outils de mise en œuvre communs.
@@ -138,25 +138,25 @@ outlineSection: |-
   - Configurer les fonctions d'administration de l'organisation
   - Configurer les fonctions d'administration du système
   - Synthèse du module
-  #### Lab &#58; Créer des utilisateurs et attribuer des rôles de sécurité
+  #### Laboratoire &#58; Créer des utilisateurs et attribuer des rôles de sécurité
   
-  #### Lab &#58; Mettre en place la séparation des tâches
+  #### Laboratoire &#58; Mettre en place la séparation des tâches
   
-  #### Lab &#58; Exécution d'un rapport de sécurité et analyse des résultats
+  #### Laboratoire &#58; Exécution d'un rapport de sécurité et analyse des résultats
   
-  #### Lab &#58; Créer un workflow de demande d'achat
+  #### Laboratoire &#58; Créer un workflow de demande d'achat
   
-  #### Lab &#58; Configurer une nouvelle entité juridique
+  #### Laboratoire &#58; Configurer une nouvelle entité juridique
   
-  #### Lab &#58; Créer une unité opérationnelle
+  #### Laboratoire &#58; Créer une unité opérationnelle
   
-  #### Lab &#58; Mettre en place des séquences de nombres
+  #### Laboratoire &#58; Mettre en place des séquences de nombres
   
-  #### Lab &#58; Créer une hiérarchie d'organisation et assigner un objectif
+  #### Laboratoire &#58; Créer une hiérarchie d'organisation et assigner un objectif
   
-  #### Lab &#58; Utiliser le concepteur de classeurs Excel
+  #### Laboratoire &#58; Utiliser le concepteur de classeurs Excel
   
-  #### Lab &#58; Créer un travail par lots
+  #### Laboratoire &#58; Créer un travail par lots
   
   Vous avez appris comment&#58;
   - Distinguez les rôles, les devoirs, les privilèges et les autorisations.
@@ -210,11 +210,11 @@ outlineSection: |-
   - Préparer les données pour la migration et migrer les données
   - Synthèse du module
   
-  #### Lab &#58; Travailler avec des modèles dans l'espace de travail de gestion des données
+  #### Laboratoire &#58; Travailler avec des modèles dans l'espace de travail de gestion des données
   
-  #### Lab &#58; Exportation et importation de données
+  #### Laboratoire &#58; Exportation et importation de données
   
-  #### Lab &#58; Copier des données de configuration entre entités juridiques
+  #### Laboratoire &#58; Copier des données de configuration entre entités juridiques
   
   Dans ce module, vous avez appris comment&#58;
   - Gérer les données dans les applications Dynamics 365 Finance and Operations.

@@ -183,9 +183,9 @@ Votre bureau ou votre lieu de résidence doivent satisfaire aux exigences suivan
 - Vous devrez présenter l’une des pièces d’ ID, officielles et en cours de validité suivantes:
   - Permis de conduire.
   - Passeport.
-  Carte d’identité (nationale/fédérale/provinciale).
+  - Carte d’identité (nationale/fédérale/provinciale).
   - Titre de séjour (carte verte, résident permanent, visa).
-  - Les pièces d’ ID en langue locale officielle (c’est-à-dire en alphabet non latin) ne seront acceptées que si elles ont été délivrées par le pays dans lequel le candidat passe l’examen.
+  - ID délivrée par le gouvernement - Si la ID n'est pas en caractères romains, le nom (prénom/nom) doit être inscrit en caractères romains sur la ID. 
 - Lors de votre inscription, l’on prendra une photo webcam de vous et de la photo figurant sur votre pièce d’ ID.
 - Le nom figurant sur votre pièce officielle d’ ID que vous présenterez pour assister à l’examen devra **exactement** correspondre à celui figurant sur votre Microsoft Certification et vos profils PSI.
 - Si votre pièce d’identité est en cours de mise à jour ou de renouvellement, veuillez noter que les formulaires de changement de nom officiel, et notamment les formulaires de renouvellement d’ ID ne sauraient être acceptés pour les examens en ligne.

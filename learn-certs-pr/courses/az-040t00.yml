@@ -12,10 +12,10 @@ skillsGained:
 - skill: Identifier et exécuter des cmdlets pour l'administration locale du système.
 - skill: Travailler avec le pipeline Windows PowerShell.
 - skill: Utiliser PSProviders et PSDrives pour travailler avec d'autres formes de stockage.
-- Skill: Interroger des informations système en utilisant WMI et CIM.
-- Skill: Travailler avec des variables, des tableaux et des tables de hachage.
-- Skill: Écrire des scripts de base dans Windows PowerShell.
-- Skill: Administrer des ordinateurs distants avec Windows PowerShell.
+- skill: Interroger des informations système en utilisant WMI et CIM.
+- skill: Travailler avec des variables, des tableaux et des tables de hachage.
+- skill: Écrire des scripts de base dans Windows PowerShell.
+- skill: Administrer des ordinateurs distants avec Windows PowerShell.
 - skill: Gérer les ressources Azure avec PowerShell.
 - skill: Gérer les services Microsoft 365 avec PowerShell.
 - skill: Utiliser les tâches d'arrière-plan et les tâches planifiées.

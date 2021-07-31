@@ -6,14 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><strong>Le contenu de cet examen a été mis à jour le 2 octobre 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
+  <div><font color="red"><strong>Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 possédant une expertise dans les ventes. Les candidats sont responsables de la mise en œuvre de solutions prenant en charge un cycle de vie des ventes afin de fonctionner efficacement afin de respecter les objectifs de revenus, les stratégies commerciales et les objectifs de l’entreprise.
   
   Les candidats sont responsables de la configuration et de l’extension des fonctionnalités essentielles des prospects, des contacts, des comptes, des opportunités et des entités d’appui afin de les adapter aux processus de vente en place au sein de la société. Ils identifient les opportunités d’utilisation de Power Apps pour mettre au point des expériences unifiées pour tous les appareils, de Power Automate pour l’intégration d’applications, de flux de processus métier et d’autres outils d’automatisation pour concevoir une application qui prenne en charge et accélère «la gestion des flux de trésorerie».
   
   Les candidats doivent avoir de solides connaissances en commerce et, de préférence, une expérience personnelle dans le monde de la vente dans un ou plusieurs postes de vente.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la configuration, gérer les principales entités de vente et configurer des outils et services supplémentaires.'
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : Effectuer la configuration, Gérer les tables de vente de base, Configurer les outils et services supplémentaires.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 2 octobre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Effectuer la configuration (25-30%)
 - Gérer les principales entités de vente (50-55%)
 - Réaliser la découverte, la planification et l’analyse (15-20%)

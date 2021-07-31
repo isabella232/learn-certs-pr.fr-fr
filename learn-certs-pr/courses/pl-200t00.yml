@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Travailler avec une organisation pour recueillir les besoins et mettre en œuvre les solutions Power Platform
+- skill: Travailler avec une organisation pour recueillir les exigences et mettre en œuvre des solutions Microsoft Power Platform
 - skill: Créer des modèles, des canevas et des portails d'applications
 - skill: Créer flux Power Automate
 - skill: Concevoir un chatbot simple en utilisant Power Virtual Agents
@@ -19,35 +19,42 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform permet aux organisations d'automatiser leurs processus commerciaux, de développer leurs propres expériences d'applications riches et de se connecter mieux et plus rapidement avec leurs clients. Dans ce cours, les étudiants apprendront à effectuer des découvertes, à saisir les exigences, à engager des experts et des parties prenantes, à traduire les exigences et à configurer les solutions et les applications Power Platform. Ils compléteront leur apprentissage par des travaux pratiques en laboratoire pour créer des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, des automatisations de processus personnalisés et des visualisations personnalisées. Power Platform est composé de quatre produits clés&#58; Power Apps, Power Automate, Power BI et Power Virtual Agents. Dans ce cours, nous couvrirons ces quatre applications en profondeur, en mettant l'accent sur Microsoft Dataverse (anciennement Common Data Service), AI Builder, connecteurs, et portails.
+  Microsoft Power Platform permet aux organisations d'automatiser les processus métier, de développer leurs propres expériences d'apps riches et de se connecter avec les clients mieux et plus rapidement. Dans ce cours, les étudiants apprendront à effectuer une découverte, à capturer les exigences, à impliquer les experts en la matière et les parties prenantes, à traduire les exigences et à configurer les solutions et les applications Microsoft Power Platform. Ils compléteront leurs connaissances par des exercices pratiques pour créer des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, des automatisations de processus personnalisées et des visualisations personnalisées. Microsoft Power Platform se compose de quatre produits clés : Power Apps, Power Automate, Power BI et Power Virtual Agents. Dans ce cours, nous couvrirons ces quatre applications en profondeur, avec un accent supplémentaire sur Microsoft Dataverse, AI Builder, les connecteurs et les portails.
 
-  #### Profil de l’audience
-  Un consultant fonctionnel sur Power Platform est responsable de la découverte, de la saisie des besoins, de l'engagement d'experts et de parties prenantes, de la traduction des besoins et de la configuration des solutions et des applications Power Platform. Le consultant fonctionnel met en œuvre les composants d'une solution qui comprend des améliorations d'applications, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, l'automatisation de processus personnalisés et des visualisations personnalisées.
+  #### Profil du public
+
+  Un Microsoft Power Platform Functional Consultant est chargé de créer et de configurer des applications, des automatismes et des solutions. Il fait office de liaison entre les utilisateurs et l'équipe de mise en œuvre. Le consultant fonctionnel encourage l'utilisation des solutions au sein d'une organisation. Le consultant fonctionnel peut effectuer des recherches, faire appel à des experts en la matière et à des parties prenantes, saisir les exigences et faire correspondre les exigences aux fonctionnalités. Il met en œuvre les composantes d'une solution, notamment les améliorations apportées aux applications, les expériences personnalisées des utilisateurs, les intégrations de systèmes, les conversions de données, l'automatisation des processus personnalisés et les visualisations simples.
 prerequisitesSection: |-
-  - Expérience en tant que professionnel ou étudiant en informatique
-  - Connaissance pratique de Power Platform et de ses composantes clés
-  - Une connaissance de Microsoft Dataverse (ou de la modélisation générale des données) et des concepts de sécurité
+  * Expérience en tant que professionnel IT ou étudiant 
+  * Connaissance pratique de Microsoft Power Platform et de ses composants clés
+  * Connaissance de&nbsp;Microsoft&nbsp;Dataverse (ou modélisation générale des données)&nbsp;et des concepts de sécurité
 outlineSection: |-
-  ### Module 1&#58; Introduction à Power Platform
-  Ce module fournira à l'apprenant des informations générales sur Power Platform et ses 4 composants clés&#58; Power Apps, Power Automate, Power BI et Power Virtual Agents.
+  ### Module 1&#58;  Introduction à Microsoft Power Platform
+
+  Ce module fournira à l'apprenant des informations de base sur Microsoft Power Platform et ses 4 composants clés : Power Apps, Power Automate, Power BI, et Power Virtual Agents.
   #### Leçons
-  - Aperçu de Power Platform 
-  
-  #### Laboratoire &#58; Valider l'environnement du laboratoire
-  
-  À l'issue de ce module, les étudiants seront en mesure de&#58;
-  - Identifier les éléments clés de Power Platform
-  - Décrire le rôle d'un consultant fonctionnel
-  
-  
-  ### Module 2&#58; Le rôle du consultant fonctionnel
-  Dans ce module, les étudiants en apprendront davantage sur le rôle de consultant fonctionnel et les compétences requises pour mettre en œuvre avec succès une solution Power Platform pour une organisation.
+
+  * Présentation de Microsoft Power Platform
+
+  #### Laboratoire : Validation de l'environnement de laboratoire
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Identifier les composants clés de Microsoft Power Platform
+
+  * Décrire le rôle d'un consultant fonctionnel
+
+  ### Module 2&#58;  Le rôle du consultant fonctionnel
+
+  Dans ce module, les étudiants en apprendront davantage sur le rôle du consultant fonctionnel et les compétences requises pour mettre en œuvre avec succès une solution Microsoft Power Platform pour une organisation.
   - Aperçu des compétences des consultants
   - Créer et valider la documentation
   - Engager les parties prenantes
@@ -83,7 +90,7 @@ outlineSection: |-
   À l'issue de ce module, les étudiants seront en mesure de&#58;
   - Comprendre les tableaux, les colonnes, les lignes et les relations
   - Configurer un modèle de données dans Dataverse
-  - Travailler dans un environnement au sein du centre d'administration de la Power Platform
+  - Travailler dans un environnement au sein du centre d'administration de Microsoft Power Platform
   
   ### Module 4&#58; Créer des Power Apps
   Dans ce module, les étudiants apprendront la valeur commerciale des trois types de Power Apps. Ils apprendront ensuite à les configurer et à les concevoir, en tenant compte de l'expérience de l'utilisateur pour chaque type d'application.

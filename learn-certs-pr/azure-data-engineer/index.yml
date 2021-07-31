@@ -7,8 +7,8 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>L'EXAMEN DP-203</a> REMPLACE LES EXAMENS DP-200 ET DP-201. DP-200 et DP-201 sera retiré au 30 juin 2021.</strong></font><br/><br/></div>
-  
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>L'EXAMEN DP-203</a> REPLACE LES EXAMENS DP-200 ET DP-201. DP-200 et DP-201 seront retirés le 31 août 2021.</strong></font><br/><br/></div>
+
   Un candidat à la certification Azure Data Engineer Associate doit posséder une expertise en matière d'intégration, de transformation et de consolidation des données provenant de divers systèmes de données structurés et non structurés dans des structures adaptées à l'élaboration de solutions analytiques.
   
   Les responsabilités de ce rôle consistent à aider les parties prenantes à comprendre les données par l'exploration, à construire et à maintenir des pipelines de traitement de données sécurisés et conformes en utilisant différents outils et techniques. Ce professionnel utilise divers services et langages de données Azure pour stocker et produire des ensembles de données nettoyés et améliorés pour l'analyse.
@@ -19,7 +19,7 @@ summary: |-
   
   <div><br/><strong>Vous obtiendrez cette certification si vous suivez l'une des options suivantes&#58;</strong><br/>
   <ul>
-  <li>Réussir <a href="/learn/certifications/exams/dp-200">DP-200</a> et<a href="/learn/certifications/exams/dp-201">DP-201</a> (retiré le 30 juin 2021) <strong>or</strong></li>
+  <li>Passer <a href="/learn/certifications/exams/dp-200">DP-200</a> et <a href="/learn/certifications/exams/dp-201">DP-201</a> (qui sera retiré le 31 août 2021) <strong>or</strong></li>
   <li>Réussir <a href="/learn/certifications/exams/dp-203">DP-203</a> (version bêta publiée le 23 février 2021)</li></ul></div>
 subTitle: Les ingénieurs de données de Azure intègrent, transforment et consolident les données provenant de divers systèmes de données structurées et non structurées dans des structures qui conviennent à l'élaboration de solutions analytiques.
 levels:

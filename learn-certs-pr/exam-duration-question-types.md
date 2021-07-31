@@ -20,11 +20,10 @@ La durée de l'examen varie en fonction du type d'examen que vous passez.
 
 |         | Durée de l'examen*           | Durée de présence*  |
 | ------------- |:-------------:| -----:|
-| examens Fundamentals      | 60 minutes | 80 minutes |
-| Associate and expert role-based exams sans labs** | 130 minutes | 150 minutes |
-| Associate and expert role-based exams qui contiennent des labs | 150 minutes | 170 minutes |
+| examens Fundamentals      | 45 minutes | 65 minutes |
+| Associate and expert role-based exams sans labs** | 100 minutes | 120 minutes |
+| Examens basés sur le rôle d'associé et d'expert pouvant contenir des laboratoires** | 130 minutes | 150 minutes |
 | Microsoft Technology Associate (MTA) examens délivrés par les canaux académiques | 45 minutes | 50 minutes |
-| MTA examens délivrés par des canaux commerciaux | 45 minutes | 80 minutes |
 | Examens Microsoft Office Specialist (MOS) | 50 minutes | 60 minutes |
 
 *La durée de l'examen correspond au temps dont vous disposez pour passer l'examen. Le temps de présence est le temps que vous devez consacrer à l'examen. Il comprend le temps nécessaire pour passer en revue les instructions, lire et accepter la NDA, répondre aux questions de l'examen et fournir des commentaires après l'avoir terminé (si vous choisissez de le faire).

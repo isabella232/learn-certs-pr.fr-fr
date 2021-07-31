@@ -1,0 +1,450 @@
+### YamlMime:Course
+title: 'Automating Administration with PowerShell '
+metadata:
+  title: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+  description: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+uid: course.az-040t00
+courseNumber: 'AZ-040T00'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les fonctionnalités de Windows PowerShell et l'utiliser pour exécuter et trouver des commandes de base.
+- skill: Identifier et exécuter des cmdlets pour l'administration locale du système.
+- skill: Travailler avec le pipeline Windows PowerShell.
+- skill: Utiliser PSProviders et PSDrives pour travailler avec d'autres formes de stockage.
+- skill: Interroger des informations système en utilisant WMI et CIM.
+- skill: Travailler avec des variables, des tableaux et des tables de hachage.
+- skill: Écrire des scripts de base dans Windows PowerShell.
+- skill: Administrer des ordinateurs distants avec Windows PowerShell.
+- skill: Gérer les ressources Azure avec PowerShell.
+- skill: Gérer les services Microsoft 365 avec PowerShell.
+- skill: Utiliser les tâches d'arrière-plan et les tâches planifiées.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  Ce cours fournit aux étudiants les connaissances et les compétences fondamentales pour utiliser Windows PowerShell afin d'administrer et d'automatiser l'administration des serveurs Windows. Ce cours fournit aux étudiants les compétences nécessaires pour identifier et construire la commande dont ils ont besoin pour effectuer une tâche spécifique. En outre, les étudiants apprennent à construire des scripts pour accomplir des tâches avancées telles que l'automatisation de tâches répétitives et la génération de rapports. Ce cours fournit les compétences préalables à la prise en charge d'une large gamme de produits Microsoft, notamment Windows Server, Windows Client, Microsoft Exchange Server, Microsoft SharePoint Server, Microsoft SQL Server et Microsoft System Center. Conformément à cet objectif, ce cours ne se concentre pas sur un seul de ces produits, bien que Windows Server, qui est la plate-forme commune à tous ces produits, serve d'exemple pour les techniques enseignées dans ce cours.
+
+  #### Profil du public
+
+  Ce cours est destiné aux professionnels IT qui ont déjà une expérience de l'administration générale de Windows Server et des clients Windows, et qui souhaitent en savoir plus sur l'utilisation de Windows PowerShell pour l'administration. Aucune expérience préalable avec une version de Windows PowerShell ou un langage de script n'est supposée. Ce cours convient également aux professionnels IT déjà expérimentés dans l'administration de serveurs, notamment Exchange Server, SharePoint Server, SQL Server et centre système.
+
+outlineSection: |-
+ ### Module 1: Démarrer avec Windows PowerShell
+
+  Ce module vous présente Windows PowerShell et vous donne un aperçu des fonctionnalités du produit. Le module explique comment ouvrir et configurer Windows PowerShell. Il explique également comment exécuter des commandes et utiliser le système d'aide intégré de Windows PowerShell.
+
+  #### Leçons
+
+  * Présentation de Windows PowerShell
+
+  * Comprendre la syntaxe des commandes Windows PowerShell
+
+  * Trouver des commandes et obtenir de l'aide dans Windows PowerShell
+
+
+  #### Laboratoire : Configuration de l'application console Windows PowerShell
+
+  ####
+
+  #### Laboratoire : Configuration de l'application Windows PowerShell ISE
+
+  ####
+
+  #### Laboratoire : Trouver et exécuter des commandes Windows PowerShell
+
+  ####
+
+  #### Laboratoire : Utilisation des fichiers d'aide et d'information
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  *   Ouvrir et configurer Windows PowerShell.
+
+  * Découvrir, apprendre et exécuter les commandes Windows PowerShell.
+
+  * Trouver des commandes Windows PowerShell pour effectuer des tâches spécifiques.
+
+
+  ### Module 2: Windows PowerShell pour l'administration des systèmes locaux
+
+  Ce module vous présente les différents types de cmdlets couramment utilisés pour l'administration du système. Bien que vous puissiez rechercher des cmdlets chaque fois que vous devez accomplir une tâche, il est plus efficace d'avoir au moins une compréhension de base de ces cmdlets. Ce module explique également comment installer et commencer à utiliser Windows PowerShell dans Windows 10.
+
+  #### Leçons
+
+  *  Administration Active Directory Domain Services cmdlets
+
+  *   Configuration du réseau cmdlets
+
+  *   Administration du serveur cmdlets
+
+  *   Windows PowerShell dans Windows 10
+
+
+  #### Laboratoire : Création d'un site web
+
+  ####
+
+  #### Laboratoire : Configuration des paramètres réseau sur Windows Server
+
+  ####
+
+  #### Laboratoire : Création et gestion d'objets Active Directory
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Identifier et utiliser les cmdlets pour l'administration de AD DS.
+
+  * Identifier et utiliser les cmdlets pour la configuration du réseau.
+
+  * Identifier et utiliser les cmdlets pour les tâches d'administration du serveur.
+
+  * Installer et utiliser Windows PowerShell dans Windows 10.
+
+  ### Module 3: Travailler avec le pipeline Windows PowerShell
+
+  Ce module présente la fonction pipeline de Windows PowerShell. La fonction pipeline est incluse dans plusieurs shells de ligne de commande tels que l'invite de commande dans le système d'exploitation Windows. Cependant, la fonction pipeline de Windows PowerShell offre des fonctionnalités plus complexes, plus flexibles et plus performantes que les autres shells. Ce module vous permet d'acquérir les compétences et les connaissances qui vous aideront à utiliser Windows PowerShell de manière plus efficace et efficiente.
+
+  #### Leçons
+
+  * Comprendre le pipeline
+
+  * Sélectionner, trier et mesurer des objets
+
+  * Filtrer les objets hors du pipeline
+
+  * Énumérer les objets dans le pipeline
+
+  * Envoyer et passer les données du pipeline en tant que sortie
+
+
+  #### Laboratoire : Sélectionner, trier et afficher des données
+
+  ####
+
+  #### Laboratoire : Filtrer des objets
+
+  ####
+
+  #### Laboratoire : Enumération d'objets
+
+  ####
+
+  #### Laboratoire : Conversion d'objets
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Décrire l'objectif du pipeline Windows PowerShell.
+
+  * Sélectionner, trier et mesurer des objets dans le pipeline.
+
+  * Filtrer les objets hors du pipeline.
+
+  * Énumérer des objets dans le pipeline.
+
+  *   Envoyer une sortie constituée de données de pipeline.
+
+
+  ### Module 4: Utilisation de PSProviders et PSDrives
+
+  Ce module présente les adaptateurs PSProviders et PSDrives. Un PSProvider est essentiellement un adaptateur Windows PowerShell qui fait ressembler une forme de stockage à un lecteur de disque. Un PSDrive est une connexion réelle à une forme de stockage. Vous pouvez utiliser ces deux adaptateurs pour travailler avec différentes formes de stockage en utilisant les mêmes commandes et techniques que celles utilisées pour gérer le système de fichiers..
+
+  #### Leçons
+
+  * Utilisation de PSProviders
+
+  * Utilisation de PSDrives
+
+  #### Laboratoire : Créer un nouveau groupe Active Directory
+
+  ####
+
+  #### Laboratoire : Création d'une clé de registre pour vos futurs scripts
+
+  ####
+
+  #### Laboratoire : Création de fichiers et de dossiers sur un ordinateur distant
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Utiliser les PSProviders.
+
+  * Utiliser les PSDrives.
+
+  ### Module 5: Interroger les informations de gestion en utilisant CIM et WMI
+
+  Ce module vous présente deux technologies parallèles : Windows Management Instrumentation (WMI) et Common Information Model (CIM). Ces deux technologies fournissent un accès local et distant à un référentiel d'informations de gestion, y compris l'accès à des informations robustes disponibles à partir du système d'exploitation, du matériel informatique et des logiciels installés.
+
+  #### Leçons
+
+  * Comprendre CIM et WMI
+
+  * Interroger des données à l'aide de CIM et WMI
+
+  * Effectuer des modifications à l'aide de CIM et WMI
+
+
+  #### Laboratoire : Interroger des informations à l'aide de WMI
+
+  ####
+
+  #### Laboratoire : Interroger des informations à l'aide de CIM
+
+  ####
+
+  #### Laboratoire : Appel de méthodes
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Faire la différence entre le modèle d'information commun et Windows Management Instrumentation.
+
+  * Interroger les informations de gestion en utilisant CIM et WMI.
+
+  * Appeler des méthodes en utilisant CIM et WMI.
+
+  ### Module 6 : Travailler avec des variables, des tableaux et des tables de hachage.
+
+  Ce module vous fournit les compétences et les connaissances nécessaires pour utiliser des variables, des tableaux et des tables de hachage dans Windows PowerShell.
+
+  #### Leçons
+
+  * Utiliser des variables
+
+  * Manipuler des variables
+
+  *   Manipuler des tableaux et des tables de hachage
+
+
+  #### Laboratoire : Utilisation des tables de hachage
+
+  ####
+
+  #### Laboratoire : Utilisation des tableaux
+
+  ####
+
+  #### Laboratoire : Travailler avec des types de variables
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Affecter une valeur aux variables.
+
+  * Décrire comment manipuler des variables.
+
+  * Décrire comment manipuler les tableaux et les tables de hachage.
+
+  ### Module 7: Scripts Windows PowerShell
+
+  Ce module explique comment regrouper une commande Windows PowerShell dans un script. Les scripts vous permettent d'effectuer des tâches répétitives et des tâches plus complexes qui ne peuvent être accomplies par une seule commande.
+
+  #### Leçons
+
+  * Introduction à la création de scripts avec Windows PowerShell
+
+  * Constructions de scripts
+
+  * Importation de données à partir de fichiers
+
+  * Accepter les entrées utilisateur
+
+  * Dépannage et gestion des erreurs
+
+  * Fonctions et modules
+
+  #### Laboratoire : Signature d'un script
+
+  ####
+
+  #### Laboratoire : Traitement d'un tableau avec une boucle ForEach
+
+  ####
+
+  #### Laboratoire : Traitement des éléments à l'aide d'instructions If
+
+  ####
+
+  #### Laboratoire : Création d'utilisateurs à partir d'un fichier CSV
+
+  ####
+
+  #### Laboratoire : Interroger les informations sur les disques d'ordinateurs distants
+
+  ####
+
+  #### Laboratoire : Mise à jour du script pour utiliser d'autres informations d'identification
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Exécuter un script Windows PowerShell.
+
+  * Utiliser les constructions de script de Windows PowerShell.
+
+  * Importer des données depuis un fichier.
+
+  * Obtenir une entrée utilisateur.
+
+  * Dépanner des scripts et comprendre les actions d'erreur.
+
+  * Créer des fonctions et des modules.
+
+  ### Module 8 : Administration d'ordinateurs distants avec Windows PowerShell
+
+  Ce module vous présente la technologie de remoting de Windows PowerShell qui vous permet de vous connecter à un ou plusieurs ordinateurs distants et de leur demander d'exécuter des commandes en votre nom.
+
+  #### Leçons
+
+  * Utiliser le remoting Windows PowerShell de base
+
+  * Utilisation des techniques avancées de remoting Windows PowerShell
+
+  * Utiliser PSSessions
+
+
+  #### Laboratoire : Gestion de plusieurs ordinateurs
+
+  ####
+
+  #### Laboratoire : Utilisation du remoting implicite
+
+  ####
+
+  #### Laboratoire : Exécution d'une réinstallation de type "un vers plusieurs" (one-to-many remoting)
+
+  ####
+
+  #### Laboratoire : Exécution d'un transfert de données de un à un
+
+  ####
+
+  #### Laboratoire : Activation de la fonction de transfert à distance sur l'ordinateur local
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  * Décrire l'architecture et la sécurité du remoting.
+
+  * Utiliser des techniques avancées de remoting.
+
+  * Créer et gérer des sessions de remoting persistantes.
+
+  ### Module 9: Gestion des ressources Azure avec PowerShell
+
+  Ce module fournit des informations sur Azure PowerShell. Il présente également Azure Cloud Shell. Il explique comment gérer les Azure VMs avec PowerShell. Le module décrit également comment gérer le stockage et les abonnements Azure avec Azure PowerShell.
+
+  #### Leçons
+
+  *   Azure PowerShell
+
+  *   Présenter Azure Cloud Shell
+
+  *   Gérer Azure VMs avec PowerShell
+
+  *   Gérer le stockage et les abonnements
+
+
+  #### Laboratoire : Installation du module Azure PowerShell
+
+  ####
+
+  #### Laboratoire : Installation de Cloud Shell
+
+  ####
+
+  #### Laboratoire : Gestion des ressources Azure avec Azure PowerShell
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Utiliser Azure Cloud Shell.
+
+  * Gérer les Azure VMs avec PowerShell.
+
+  * Gérer le stockage et les abonnements.
+
+
+  ### Module 10 : Gestion des services Microsoft 365 avec PowerShell
+
+  Ce module explique comment utiliser PowerShell pour gérer les comptes d'utilisateurs, les licences et les groupes Microsoft 365, Exchange Online, SharePoint Online et Microsoft Teams.
+
+  #### Leçons
+
+  * Gérer les comptes utilisateurs, les licences et les groupes de Microsoft 365 avec PowerShell.
+
+  * Gestion de Exchange Online avec PowerShell
+
+  * Gestion de SharePoint Online avec PowerShell
+
+  * Gérer Microsoft Teams avec PowerShell
+
+
+  #### Laboratoire : Gestion des ressources de Exchange Online avec Windows PowerShell
+  ####
+  #### Laboratoire : Gestion de SharePoint Online avec Windows PowerShell
+  ####
+
+  #### Laboratoire : Gestion des objets utilisateurs et groupes de Microsoft 365 avec Windows PowerShell
+
+  ####
+
+  #### Laboratoire : Connexion à Microsoft 365 avec Windows PowerShell
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Gérer les comptes utilisateurs, les licences et les groupes de Microsoft 365 avec PowerShell.
+
+  * Gérer Exchange Online avec PowerShell.
+
+  * Gérer SharePoint Online avec PowerShell.
+
+  * Gérer Microsoft Teams avec PowerShell.
+
+  ### Module 11 : Utilisation des travaux en arrière-plan et des travaux planifiés
+
+  Ce module explique comment utiliser les travaux en arrière-plan et les travaux planifiés. Il explique également comment créer des travaux planifiés et récupérer les résultats des travaux.
+
+  #### Leçons
+
+  * Utiliser les travaux en arrière-plan
+
+  * Utiliser les travaux planifiés
+
+
+  #### Laboratoire : Démarrer et gérer des travaux
+
+  ####
+
+  #### Laboratoire : Création d'un travail planifié
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de :
+
+  * Créer et utiliser des travaux d'arrière-plan.
+
+  * Créer et utiliser des tâches planifiées.

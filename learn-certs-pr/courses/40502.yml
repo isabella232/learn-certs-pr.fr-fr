@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: À la fin de cet atelier, vous serez mieux à même de construire un modèle d'apprentissage automatique complet dans Azure Databricks pour prédire si un prochain vol connaîtra des retards. En outre, vous apprendrez à stocker le modèle formé dans Azure Machine Learning Model Management, puis à le déployer dans des conteneurs Docker pour des prédictions évolutives à la demande, à utiliser Azure Data Factory (ADF) pour le déplacement des données et l'opérationnalisation du scoring ML, à résumer les données avec Azure Databricks et Spark SQL, et à visualiser les prédictions par lots sur une carte à l'aide de Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous allez déployer une application web utilisant le Machine Learning (ML) pour prédire les retards de voyage à partir des données de retard de vol et des conditions météorologiques. Planifiez une opération d'importation de données en masse, suivie d'une préparation, telle que le nettoyage et la manipulation des données pour les tests, et l'entraînement de votre modèle d'apprentissage automatique.
+
+  #### Profil du public
+  Cet atelier est destiné aux architectes du cloud et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les zones "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception sur tableau blanc - Big data et visualisation
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de preuve de concept
+  - Présenter la solution
+
+  ### Module 2&#58; Laboratoire pratique - Big data et visualisation
+  #### Leçons
+  - Création d'un modèle d'apprentissage automatique
+  - Configurer Azure Data Factory
+  - Déployez votre modèle d'apprentissage automatique avec Azure ML.
+  - Développer un pipeline de production de données pour le déplacement des données
+  - Opérationnaliser le scoring ML avec Azure Databricks et Data Factory
+  - Résumez les données à l'aide de Azure Databricks.
+  - Visualisation dans Power BI Desktop
+  - Déployer une application web intelligente 

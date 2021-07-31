@@ -7,7 +7,7 @@ uid: exam.mb-330
 displayName: MB-330
 summary: |-
   <div>
-  <div><strong>Le contenu de cet examen a été mis à jour le 16 octobre 2020. Veuillez télécharger le document de mesure des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   </div>
 
   Les candidats à cet examen analysent les besoins des entreprises et traduisent ces besoins en processus et solutions d'entreprise pleinement réalisés qui mettent en œuvre les meilleures pratiques de l'industrie. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Mettre en œuvre la gestion des informations sur le produit (25 à 30%)
 - Mettre en œuvre la gestion de l’inventaire (20 à 25%)
 - Mettre en œuvre et gérer les processus de la chaîne logistique (25 à 30%)

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing 
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00-A:Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -19,15 +19,14 @@ levels:
 roles:
 - developer
 products:
-- dynamics
-- dynamics-finance-operations
+- dynamics-365
 exams:
 - uid: exam.mb-320
 summary: |-
   Ce cours comporte six modules et est conçu pour une expérience d'apprentissage de 4 jours. Il peut être enseigné en personne et/ou virtuellement. Votre/vos instructeur(s) vous fournira(ont) le programme de ce cours. Le module 1 vous initiera à la configuration nécessaire pour Dynamics 365 Supply Chain Management, Manufacturing. Le module 2 permettra d'approfondir la gestion des différents types de processus de fabrication. Le module 3 sera votre adresse pour la mise en œuvre du plan directeur de production. Le module 4 abordera la mise en œuvre de plusieurs caractéristiques de fabrication. Le module 5 portera sur la sous-traitance pour la fabrication des produits.
 
   #### Profil de l’audience
-  Un Dynamics 365 for Finance and Operations Functional Consultant est responsable de la découverte, de la saisie des exigences, de l'engagement d'experts en la matière et des parties prenantes, de la traduction des exigences et de la configuration de la solution et des applications. Le consultant fonctionnel met en œuvre une solution en utilisant des capacités prêtes à l'emploi, une extensibilité sans code, des intégrations d'applications et de services.
+  Un Dynamics 365 Finance and Operations Functional Consultant est chargé d'effectuer une exploration, de capturer les exigences, d'impliquer les experts en la matière et les parties prenantes, de traduire les exigences et de configurer la solution et les applications. Le consultant fonctionnel met en œuvre une solution en utilisant des capacités prêtes à l'emploi, une extensibilité sans code et des intégrations d'applications et de services.
 prerequisitesSection: |-
   - Compréhension de base de la terminologie de la gestion de la chaîne d'approvisionnement et de la fabrication
   - Compréhension de base des applications Dynamics 365 finance and operation
@@ -55,7 +54,7 @@ outlineSection: |-
   - Gérer les commandes par lots
   - Gérer les commandes kanban
 
-  #### Lab &#58; Étude de cas 1A - Fabrication discrète
+  #### Laboratoire &#58; Étude de cas 1A - Fabrication discrète
   - Exercice n° 1&#58; Mise à jour des paramètres de contrôle de la production
   - Exercice n° 2&#58; Créer de nouveaux pools de production
   - Exercice n° 3&#58; Créer et gérer des ressources
@@ -71,7 +70,7 @@ outlineSection: |-
   - Exercice n° 14&#58; Configurer la consommation automatique de parcours sur les travaux de préparation (Bonus)
   - Exercice n° 15&#58; Utiliser l'exécution de la fabrication (Bonus)
   
-  #### Lab &#58; Étude de cas 1B&#58 fabrication par procédé
+  #### Laboratoire &#58; Étude de cas 1B&#58; fabrication par procédé
   - Exercice n° 1&#58; Créer une liste de fournisseurs approuvés et paramétrer la méthode à Avertissement seulement (Bonus)
   - Exercice n° 2&#58; Créer des articles avec différents types de production
   - Exercice n° 3&#58; Créer et activer une formule en utilisant différents types de produits
@@ -98,11 +97,11 @@ outlineSection: |-
   - Exercice n° 24&#58; enregistrer un attribut de puissance à la réception (Bonus)
   - Exercice n° 25&#58; déclaration et équilibrage des ordres de lot (Bonus)
   
-  #### Lab &#58; Étude de cas 1C Lean manufacturing
+  #### Laboratoire &#58; Étude de cas 1C Lean manufacturing
   - Exercice n° 1&#58; Créer des flux de valeur
-  - Exercice n° 2&#58 créer un nouveau modèle de flux de production
+  - Exercice n° 2&#58; créer un nouveau modèle de flux de production
   - Exercice n° 3&#58; Créer une activité de processus
-  - Exercice n° 4&#58 Créer une nouvelle activité de transfert
+  - Exercice n° 4&#58; Créer une nouvelle activité de transfert
   - Exercice n° 5&#58; ajouter un successeur à l'activité de flux de production et effectuer la validation et l'activation
   - Exercice n° 6&#58; Créer des règles de Kanban et planifier le travail de Kanban
   - Exercice n° 7&#58; Processus Kanban planifié pour les emplois de processus et de transfert
@@ -119,7 +118,7 @@ outlineSection: |-
   - Configurer et gérer le plan directeur
   - Planifier, programmer et effectuer la planification des capacités de production
 
-  #### Lab &#58; Étude de cas n° 2&#58 plan directeur
+  #### Laboratoire &#58; Étude de cas n° 2&#58; plan directeur
   - Exercice n° 1&#58; Fermer un ordre planifié et changer le type d'ordre
   - Exercice n° 2&#58; Créer un groupe de planification interentreprises et attribuer une clé de répartition des postes
   - Exercice n° 3&#58; planifier un planning de production à partir d'un planning général (Bonus)
@@ -147,7 +146,7 @@ outlineSection: |-
   - Configurer la sous-traitance
   - Recourir à la sous-traitance
   
-  #### Lab &#58; Étude de cas n° 3&#58 la sous-traitance
+  #### Laboratoire &#58; Étude de cas n° 3&#58; la sous-traitance
   - Exercice #1&#58; Mettre en place des dispositifs de sous-traitance
   
   À l’issue de ce module, les étudiants seront capables de&#58;

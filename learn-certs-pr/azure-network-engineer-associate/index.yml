@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Network Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Network Engineer Associate'
+  description: Cette certification sera disponible en juillet 2021. Les candidats à la certification Azure Network Engineer Associate doivent avoir une expertise en la matière en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.
+uid: certification.azure-network-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Les candidats à la certification Azure Network Engineer Associate doivent avoir une expertise en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.
+  
+  Les responsabilités de ce rôle comprennent la recommandation, la planification et la mise en œuvre de solutions de mise en réseau Azure. Les professionnels de ce poste gèrent les solutions en termes de performances, de résilience, d'échelle et de sécurité. Ils déploient les solutions de mise en réseau en utilisant le portail Azure et d'autres méthodes, notamment PowerShell, Azure Command-Line Interface (CLI) et les modèles Azure Resource Manager (modèles ARM).
+  
+  Le  Azure Network Engineer travaille avec des architectes de solutions, des administrateurs de cloud, des ingénieurs en sécurité, des développeurs d'applications et des ingénieurs DevOps pour fournir des solutions Azure.
+  
+  Les candidats à cette certification doivent avoir des compétences expertes en administration Azure, en plus d'une expérience et d'une connaissance approfondies de la mise en réseau, des connexions hybrides et de la sécurité réseau.
+  
+  <div><font color='red'><br/><strong>Cette certification sera disponible à la mi-juillet 2021.</strong></font></div>.
+subTitle: Cette certification sera disponible en juillet 2021. Les candidats à la certification Azure Network Engineer Associate doivent avoir une expertise en la matière en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.
+levels:
+- intermediate
+skills:
+- Concevoir, mettre en œuvre et gérer un réseau hybride 
+- Concevoir et mettre en œuvre une infrastructure réseau de base 
+- Concevoir et mettre en œuvre le routage 
+- Sécuriser et surveiller les réseaux 
+- Concevoir et mettre en œuvre un accès privé aux services Azure 
+roles:
+- network-engineer
+type: role-based
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
+exams:
+- uid: exam.az-700
+resources:
+- title: Azure certifications poster
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://aka.ms/TrainingCertDeck
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Partagez vos badges de certification
+  description: Fêtez votre succès avec votre réseau. Demandez votre badge Microsoft Certification et ajoutez-le à, LinkedIn, votre CV et plus encore.
+  href: ../badges.md

@@ -12,9 +12,9 @@ ms.prod: non-product-specific
 ---
 # Renouvelez votre certification Microsoft
 
-Les Microsoft Certifications confirment les compétences et les connaissances nécessaires pour exercer efficacement certaines fonctions dans une entreprise numérique moderne. Les certifications contribuent à favoriser les opportunités de carrière et à démontrer votre capacité à soutenir la transformation numérique de votre organisation. Et, compte tenu de la vitesse à laquelle la technologie évolue dans un monde de nuage, il est essentiel de maintenir vos compétences à jour et votre certification active.
+Les Microsoft Certifications valident que vous disposez des compétences et des connaissances pertinentes nécessaires pour remplir avec succès les rôles professionnels dans une entreprise numérique moderne. Les certifications peuvent ouvrir des opportunités de carrière et démontrer votre capacité à soutenir la transformation numérique de votre organisation. Étant donné la vitesse à laquelle les technologies du cloud évoluent, il est important de maintenir vos compétences à jour et votre certification active.
 
-Le 15 décembre, Microsoft [a introduit une nouvelle approche](https://aka.ms/CertRenewalBlog) pour aider les apprenants à rester à jour. Les détenteurs d’une certification active qui expire dans un délai de six mois peuvent renouveler leur certification annuellement – gratuitement – en passant une évaluation de renouvellement sur Microsoft Learn.
+Le 15 décembre 2020, Microsoft [a introduit une nouvelle approche](https://aka.ms/CertRenewalBlog) pour aider les apprenants à rester à jour. Ceux qui ont une certification active expirant dans les six mois peuvent renouveler leur certification chaque année - sans frais - en passant une évaluation de renouvellement sur Microsoft Learn.
 
 ## Horaire de renouvellement de la certification
 
@@ -56,6 +56,7 @@ La première série d'évaluations de renouvellement qui sera mise à dispositio
 
 - Si vous détenez une certification Microsoft valide, basée sur les rôles ou de spécialisation, qui expire dans un délai d’environ six mois, vous pouvez la renouveler.
 - Pour renouveler votre certification, passer l’évaluation connexe sur Microsoft Learn _avant_ l’échéance de votre certification.
+-  La réussite de l'évaluation de renouvellement sur Microsoft Learn est le seul moyen de renouveler une certification. Vous ne pouvez pas renouveler votre certification en passant un examen, même s'il s'agit d'une version nouvelle ou mise à jour de l'examen que vous avez initialement passé pour obtenir la certification. Par exemple, si vous avez passé l'examen AZ-103 pour obtenir votre certification Microsoft Azure Administrator, vous ne pouvez pas passer le nouvel examen AZ-104 pour renouveler votre certification. Vous devez passer l'évaluation de renouvellement sur Microsoft Learn pour renouveler votre certification. Il n'y aura aucune exception à cette politique.
 
 ## Comment renouveler une certification
 
@@ -64,10 +65,6 @@ La première série d'évaluations de renouvellement qui sera mise à dispositio
 - Dès que vous serez éligible au renouvellement, vous recevrez une notification par e-mail vous orientant vers l’évaluation disponible sur Microsoft Learn.
 - Lorsque vous réussissez l’évaluation en ligne, la date de validité de votre certification sera prolongée d’un an à compter de la date de validité actuelle.
 - Pour vous aider à vous préparer à l’évaluation, affinez vos compétences avec une collection de modules d’apprentissage gratuits à étudier à votre propre rythme. Explorez les modules disponibles connexes sur la page de renouvellement de la certification.
-
-## Modifications à la politique d’échéance des certifications
-
-Le 15 décembre 2020, nous avons [annoncé un changement dans la politique d'expiration des certifications](https://aka.ms/CertRenewalBlog). À partir du mercredi 30 juin 2021 à 12 h GMT (29 juin 2021 à 17 h PT), toute [basée sur un rôle](/learn/certifications/browse/?type=role-based) ou [certification de spécialité](/learn/certifications/browse/?type=specialty) obtenue sera valide pendant un an à compter de la date à laquelle vous l'avez obtenue.
 
 ## Foire aux questions
 
@@ -95,11 +92,11 @@ Pour en savoir plus, consultez la Foire aux questions relatives au renouvellemen
 
 5. **Ma certification a expiré. Que se passe-t-il maintenant ?**
 
-    Si votre certification expire, vous devez l’obtenir à nouveau en passant le ou les examens requis.
+    Si votre certification expire, vous devez obtenir à nouveau la certification en passant le ou les examens requis. Pour plus d'informations, consultez : [Politique d'expiration de la certification](/learn/certifications/certification-expiration-policy).
 
 6. **Puis-je renouveler ma certification en passant un examen bêta ou en repassant un examen avant l’échéance de ma certification ?**
 
-    Non, pour renouveler votre certification, vous devez passer l’évaluation de renouvellement avant qu’elle n’expire.
+    Non. Pour renouveler votre certification, vous devez passer l'évaluation de renouvellement avant l'expiration de votre certification. Il n'y aura aucune exception à cette politique.
 
 7. **Toutes les certifications Microsoft peuvent-elles être renouvelées ?**
 

@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, EST DISPONIBLE. Vous pourrez passer cet examen jusqu'à son retrait le 30 juin 2021. Remarque: les examens sont retirés à 23 h 59, Heure Centrale Standard.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNE NOUVELLE VERSION DE CET EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, EST DISPONIBLE. Vous pourrez passer cet examen jusqu'à ce qu'il soit retiré le 31 août 2021. Remarque : les examens sont retirés à 23 h 59, heure standard centrale.</strong></font><br/><br/></div>
   <div><strong>Le contenu de cet examen a été mis à jour le 24 novembre 2020. Veuillez télécharger le document de descriptif des compétences ci-dessous pour voir ce qui a changé.</strong><br/><br/></div>
   </div>
   
@@ -33,7 +33,7 @@ skills:
 - Mettre en œuvre des solutions de stockage de données (40-45%)
 - Gérer et développer le traitement des données (25-30%)
 - Surveiller et optimiser des solutions de données (30-35%)
-retirementDate: 06/30/2021
+retirementDate: 08/31/2021
 roles:
 - data-engineer
 products:

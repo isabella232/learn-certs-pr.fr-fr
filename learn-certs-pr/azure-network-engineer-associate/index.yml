@@ -3,7 +3,7 @@ title: 'Microsoft Certified: Azure Network Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Network Engineer Associate'
   description: Cette certification sera disponible en juillet 2021. Les candidats à la certification Azure Network Engineer Associate doivent avoir une expertise en la matière en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.
-  uid: certification.azure-network-engineer-associate
+uid: certification.azure-network-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Les candidats à la certification Azure Network Engineer Associate doivent avoir une expertise en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.

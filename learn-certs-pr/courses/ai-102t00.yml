@@ -30,10 +30,6 @@ roles:
 - ai-engineer
 products:
 - azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning-studio
-- azure-search
 exams:
 - uid: exam.ai-100
 summary: |-
@@ -167,13 +163,16 @@ outlineSection: |-
   - Analyse des images
   - Analyse des vidéos
   
-  #### Lab &#58; Analyser les images avec la vision par ordinateur
-  
-  #### Lab &#58; Analysez la vidéo avec Video Indexer
+
+  #### Labo : Analyser la vidéo
+
+  ####
+
+  #### Labo : Analyser des images avec la vision par ordinateur
   
   Après avoir terminé ce module, les étudiants seront en mesure de&#58;
   - Utilisez le service Computer Vision pour analyser les images
-  - Utilisez Video Indexer pour analyser les vidéos
+  - Utilisez l'analyse vidéo pour analyser les vidéos
   
   
   ### Module 9&#58; Développer des solutions de vision personnalisées

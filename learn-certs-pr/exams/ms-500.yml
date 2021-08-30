@@ -6,9 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div>
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   Les candidats à cet examen implémentent, gèrent et surveillent les solutions de sécurité et de conformité pour Microsoft 365 et les environnements hybrides. Le Microsoft 365 Security Administrator sécurise de manière proactive les environnements de Microsoft 365 Entreprise, répond aux menaces, mène des enquêtes et applique la gouvernance des données. Le Microsoft 365 Security Administrator collabore avec le Microsoft 365 Enterprise Administrator, avec les parties prenantes de l’entreprise, et d’autres administrateurs de charges de travail pour planifier et mettre en œuvre les stratégies de sécurité et s’assurer que les solutions sont conformes aux politiques et réglementations de l’organisation.
   <br/>
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Implémenter et gérer les identités et les accès (30-35%)
 - Implémenter et gérer la protection contre les menaces (20-25%)
 - Implémenter et gérer la protection des informations (15-20%)

@@ -12,7 +12,6 @@ skillsGained:
 - skill: Microsoft 365 Security Services
 - skill: Microsoft 365 Threat Intelligence
 - skill: Gouvernance des données dans Microsoft 365
-- skill: Archivage et retenue dans Office 365
 - skill: Gouvernance des données dans Microsoft 365 Intelligence
 - skill: Recherche et examen
 - skill: Gestion des dispositifs
@@ -27,431 +26,661 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-101
 summary: |-
-  Cette formation couvre trois éléments centraux de Microsoft 365 Enterprise Administration - la gestion de la sécurité de Microsoft 365, la gestion de la conformité de Microsoft 365 et la gestion des dispositifs Microsoft 365.
-  Dans la gestion de la sécurité de Microsoft 365, vous examinerez tous les types courants de vecteurs de menaces et de violation des données auxquels les organisations font face à l’heure actuelle. Vous découvrirez également comment les solutions de sécurité de Microsoft 365 répondent à ces menaces de sécurité. Vous découvrirez le Microsoft Secure Score, ainsi qu'à la Azure Active Directory Identity Protection. Vous découvrirez ensuite comment gérer les services de sécurité de Microsoft 365, ce qui inclut Exchange Online Protection, Advanced Threat Protection, Safe Attachments et Safe Links. Enfin, vous découvrirez les différents rapports qui surveillent la santé de votre sécurité. Vous passerez ensuite des services de sécurité à des services de renseignements sur les menaces, précisément, en utilisant le tableau de bord de sécurité et Advanced Threat Analytics pour garder une longueur d'avance sur les violations de sécurité potentielles.
-
-  Grâce aux composants de sécurité Microsoft 365 maintenant fermement en place, vous examinerez les composants clés de la gestion de la conformité de Microsoft 365. Cela commence par un aperçu de tous les aspects clés de la gouvernance des données, ce qui inclut l’archivage et la rétention des données, la gestion des droits d'information, Secure Multipurpose Internet Mail Extension (S/MIME), le cryptage des messages dans Office 365 et la prévention contre la perte de données (DLP). Vous étudierez ensuite plus en profondeurs l’archivage et la rétention, en faisant particulièrement attention à la gestion des registres en place dans SharePoint, à l’archivage et la rétention dans Exchange et les politiques de rétention dans le centre de sécurité et de conformité.
-
-  Maintenant que vous comprenez les aspects clés de la gouvernance des données, vous étudierez comment les mettre en œuvre, ce qui inclut la construction de murs éthiques dans Exchange Online, la création de politiques DLP à partir de modèles intégrés, la création de politiques DLP personnalisées, la création de politiques DLP pour protéger des documents et la création de conseils en matière de politique. Vous vous concentrerez également sur la gestion de la gouvernance des données dans Microsoft 365, ce qui inclut la gestion de la rétention dans les e-mails, le dépannage des politiques de rétention et des conseils en matière de politique qui ne fonctionnent pas ainsi que le dépannage des données sensibles. Vous découvriez également comment mettre en œuvre la Azure Information Protection et la Windows Information Protection. Vous conclurez cette section en apprenant comment gérer la recherche et l’examen, ce qui inclut la recherche de contenu dans le centre de sécurité et de conformité, l’audit des investigations des journaux et la gestion de l’eDiscovery avancée.
-
-  La formation conclut avec un examen approfondi de la gestion des dispositifs dans Microsoft 365. Vous commencerez par planifier différents aspects de la gestion des dispositifs, ce qui inclut la préparation de vos dispositifs Windows 10 pour la cogestion. Vous apprendrez ensuite comment passer de Configuration Manager à Intune et vous découvrirez le Microsoft Store pour la gestion des applications mobiles et pour entreprises. À ce point, vous passerez de la planification à la mise en œuvre de la gestion des dispositifs, c’est-à-dire, à votre stratégie de mise en œuvre Windows 10. Cela inclut l’apprentissage de la mise en œuvre de Windows Autopilot, de Windows Analytics et la Mobile Device Management (MDM). Lors de l’étude de la MDM, vous découvrirez comment la déployer, comment inscrire des dispositifs à la MDM et comment gérer la conformité des dispositifs.
+  Ce cours couvre trois éléments centraux de l'administration de l'entreprise Microsoft 365 : la gestion de la sécurité Microsoft 365, la gestion de la conformité Microsoft 365 et la gestion des appareils Microsoft 365. Dans le cadre de la gestion de la sécurité de Microsoft 365, vous examinerez tous les types courants de vecteurs de menaces et de violations de données auxquels les organisations sont confrontées aujourd'hui, et vous apprendrez comment les solutions de sécurité de Microsoft 365’s répondent à ces menaces de sécurité. Vous serez initié au Microsoft Secure Score, ainsi qu'à Azure Active Directory Identity Protection. Vous apprendrez ensuite à gérer les services de sécurité de Microsoft 365, notamment Exchange Online Protection, la Threat Protection avancée, les pièces jointes sécurisées et les liens sécurisés. Enfin, vous découvrirez les différents rapports qui permettent de surveiller l'état de votre sécurité. Vous passerez ensuite des services de sécurité aux renseignements sur les menaces ; plus précisément, vous utiliserez le tableau de bord de la sécurité et les Threat Analytics avancées pour devancer les violations potentielles de la sécurité. Les composants de sécurité de Microsoft 365 étant désormais bien en place, vous allez examiner les éléments clés de la gestion de la conformité de Microsoft 365. Cela commence par un aperçu de tous les aspects clés de la gouvernance des données, y compris l'archivage et la conservation des données, Information Rights Management, Secure Multipurpose Internet Mail Extension (S/MIME), Office 365 message encryption, et la prévention des pertes de données (DLP). Vous approfondirez ensuite l'archivage et la conservation, en accordant une attention particulière à la gestion des documents sur place dans SharePoint, à l'archivage et à la conservation dans Exchange, et aux politiques de conservation dans le Centre de sécurité et de conformité. Maintenant que vous comprenez les aspects clés de la gouvernance des données, vous allez examiner comment les mettre en œuvre, notamment la construction de murs éthiques dans Exchange Online, la création de politiques DLP à partir de modèles intégrés, la création de politiques DLP personnalisées, la création de politiques DLP pour protéger les documents et la création de conseils de politique. Vous vous concentrerez ensuite sur la gestion de la gouvernance des données dans Microsoft 365, notamment la gestion de la rétention dans la messagerie, le dépannage des politiques de rétention et des conseils de politique qui échouent, ainsi que le dépannage des données sensibles. Vous apprendrez ensuite à mettre en œuvre Azure Information Protection et Windows Information Protection. Vous terminerez cette section en apprenant à gérer la recherche et l'investigation, y compris la recherche de contenu dans le Centre de sécurité et de conformité, l'audit des investigations des journaux et la gestion des fonctions avancées eDiscovery. Le cours se termine par un examen approfondi de la gestion des appareils Microsoft 365. Vous commencerez par planifier les différents aspects de la gestion des appareils, notamment en préparant vos appareils Windows 10 à la cogestion. Vous apprendrez comment passer de Configuration Manager à Intune, et vous découvrirez le Microsoft Store for Business et la gestion des applications mobiles. À ce stade, vous allez passer de la planification à la mise en œuvre de la gestion des périphériques, et plus précisément de votre stratégie de déploiement de Windows 10. Il s'agit notamment d'apprendre à mettre en œuvre Windows Autopilot, Windows Analytics, et la gestion des dispositifs mobiles (MDM). Lors de l'examen de MDM, vous apprendrez comment le déployer, comment inscrire des dispositifs à MDM et comment gérer la conformité des dispositifs.
 
   #### Profil de l’audience
   Cette formation est conçue pour les personnes qui aspirent au rôle d'administrateur de Microsoft 365 Enterprise et qui ont terminé l’un des chemins de certification d'administrateur basé sur les rôles Microsoft 365.
 prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir:
   - Avoir terminé une formation d'administrateur basé sur les rôles telle que la messagerie, Teamwork, la sécurité et la conformité ou la collaboration.
   - Une compréhension parfaite du DNS et une expérience fonctionnelle de base avec les services de Microsoft 365.
   - Une compréhension parfaite des pratiques informatiques générales.
 outlineSection: |-
-  ### Module 1&#58; Introduction à Microsoft 365 Security Metrics
-  Dans ce module, vous examinerez tous les types courants des vecteurs de menaces et des fuites de données rencontrées actuellement par les entreprises, et vous apprendrez comment les solutions de sécurité de Microsoft 365 abordent les questions relatives aux menaces à la sécurité, notamment l’approche Zero Trust. Vous découvrirez Microsoft Secure Score, la gestion de l’identité privilégiée, ainsi que la protection de l’identité d’Azure Active Directory.
+  ### Module 1: Explorer les mesures de sécurité dans Microsoft 365
+
+  Dans ce parcours d'apprentissage, vous examinerez tous les types courants de vecteurs de menaces et de violations de données auxquels les organisations sont confrontées aujourd'hui, et vous apprendrez comment les solutions de sécurité de Microsoft 365 répondent à ces menaces de sécurité, notamment l'approche de confiance zéro. Vous serez initié au Microsoft Secure Score, à la gestion des identités privilégiées, ainsi qu'à Azure Identity Protection et Microsoft Defender pour Office 365.
+
   #### Leçons
-  - Vecteurs de menaces et violations des données
-  - Modèle Zero Trust.
-  - Solutions de sécurité dans Microsoft 365
-  - Introduction à Microsoft Secure Score.
-  - Gestion de l’identité privilégiée.
-  - Introduction à la protection de l’identité dans Azure Active Directory
+
+  *   Examiner les vecteurs de menace et les violations de données
+
+  *   Explorer le modèle de sécurité zéro confiance
+
+  *   Explorer les solutions de sécurité en Microsoft 365
+
+  *   Examiner Microsoft Secure Score
+
+  *   Examiner Privileged Identity Management
+
+  *   Examiner Azure Identity Protection
 
 
-  #### Laboratoire &#58; Mise en place du locataire et PIM
-  - Initialiser votre locataire Microsoft 365.
-  - Flux de travail des ressources PIM.
+  #### Lab : Installation du locataire et Privileged Identity Management
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Décrire plusieurs techniques utilisées par les pirates informatiques pour compromettre les comptes utilisateurs par le biais de la messagerie électronique.
-  - Décrire des techniques utilisées par les pirates informatiques pour prendre le contrôle des ressources.
-  - Décrire des techniques utilisées par les pirates informatiques pour compromettre les données.
-  - Décrire l’approche à la sécurité Zero Trust dans Microsoft 365.
-  - Décrire les composants de la sécurité Zero Trust.
-  - Décrire les cinq étapes de mise en œuvre d’un modèle Zeo Trust dans votre organisation.
-  - Expliquer la mise en réseau Zero Trust.
-  - d'énumérer le type de menaces qui peuvent être évitées en utilisant la protection d’Exchange Online et Office 365 ATP
-  - Décrire les avantages de Microsoft 365 Threat Intelligence pour votre organisation.
-  - Surveiller votre organisation par le biais de l’audit et des alertes.
-  - Décrire la façon par laquelle ASM améliore la visibilité et le contrôle de votre locataire dans trois domaines de base.
-  - de décrire les avantages de la notation sécurisée et le genre de services qu’il est possible d'analyser
-  - Décrire la manière de recueillir les données à l’aide de l’API Secure Score.
-  - Savoir où identifier les actions qui augmenteront votre sécurité en mitigeant les risques.
-  - Expliquer comment déterminer les menaces que chaque action atténuera et son impact sur son utilisation.
-  - Expliquer la gestion de l’identité privilégiée. (PIM) dans l’administration Azure.
-  - Configurer PIM pour l’utiliser dans votre organisation.
-  - Auditer les rôles PIM.
-  - Expliquer le gestionnaire d’identités Microsoft.
-  - Expliquer la gestion de l’accès privilégié dans Microsoft 365.
-  - Décrire la protection des identités Azure et le genre d’identités que peuvent être protégées.
-  - Comprendre comment activer la protection de l’identité Azure.
-  - Savoir identifier les vulnérabilités et les événements à risque.
-  - Planifier votre investigation pour protéger les identités basées dans le cloud.
-  - Planifier la protection de votre environnement Azure Active Directory des violations de sécurité.
+  ####
+  *   Initialiser votre locataire Microsoft 365
+  *   Flux de travail des ressources PIM 
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  *   Décrire plusieurs techniques utilisées par les pirates pour compromettre les comptes d'utilisateurs par le biais du courrier électronique.
+
+  * Décrire les techniques utilisées par les pirates pour prendre le contrôle des ressources.
+
+  * Décrire les techniques utilisées par les pirates pour compromettre les données.
+
+  * Décrire l'approche zéro confiance de la sécurité dans Microsoft 365.
+
+  * Décrire les composants de la sécurité zéro confiance.
+
+  * Décrivez les cinq étapes de la mise en œuvre d'un modèle de zéro confiance dans votre organisation.
+
+  * Expliquer la mise en réseau de la zéro confiance
+
+  *   Citez les types de menaces qui peuvent être évitées en utilisant EOP et Microsoft Defender pour Office 365
+
+  *   Décrire comment Microsoft 365 Threat Intelligence peut être bénéfique pour votre organisation
+
+  *   Surveiller votre organisation grâce à l'audit et aux alertes
+
+  *   Décrire comment ASM améliore la visibilité et le contrôle de votre locataire à travers trois domaines principaux
+
+  *   Décrire les avantages de Secure Score et le type de services qui peuvent être analysés.
+
+  * Décrire comment collecter des données à l'aide de la API de score sécurisé.
+
+  * Savoir où identifier les actions qui augmenteront votre sécurité en atténuant les risques.
+
+  * Expliquez comment déterminer les menaces que chaque action atténuera et l'impact qu'elle aura sur l'utilisation.
+
+  * Expliquer la Privileged Identity Management (PIM) dans l'administration Azure.
+
+  * Configurer PIM pour une utilisation dans votre organisation.
+
+  * Audit des rôles PIM
+
+  * Explication de Microsoft Identity Manager
+
+  * Explication de la gestion des accès privilégiés dans Microsoft 365
+
+  * Décrire la Azure Identity Protection et les types d'identités qui peuvent être protégées.
+
+  * Comprendre comment activer la Azure Identity Protection.
+
+  * Savoir comment identifier les vulnérabilités et les événements à risque.
+
+  * Planifiez votre enquête sur la protection des identités basées sur le cloud 
+
+  * Planifier comment protéger votre environnement Azure Active Directory contre les failles de sécurité.
 
 
-  ### Module 2&#58; Gérer votre Microsoft 365 Security Services
-  Ce module examine la gestion des services de sécurité de Microsoft 365, notamment la protection Exchange Online, la protection avancée contre les menaces, les pièces jointes fiables, et les liens fiables. vous découvrirez les différents rapports qui surveillent la santé de votre sécurité.
+  ### Module 2: Gérer vos services de sécurité Microsoft 365
+
+  Ce parcours d'apprentissage examine comment gérer les services de sécurité de Microsoft 365, notamment Exchange Online Protection, Microsoft Defender pour Office 365, les pièces jointes sécurisées et les liens sécurisés.  Vous découvrirez également les différents rapports qui aident une organisation à surveiller la santé de sa sécurité.
+
   #### Leçons
-  - Introduction à la protection en ligne Exchange
-  - Introduction à Advanced Threat Protection
-  - Gestion des pièces jointes sécurisées
-  - Gestion des liens sécurisés
-  - Surveillance et rapports
+
+  *   Examiner Exchange Online Protection
+
+  *   Examiner Microsoft Defender pour Office 365
+
+  *   Gérer les pièces jointes sécurisées
+
+  *   Gérer les liens sécurisés
+
+  *   Explorer le reporting dans les services de sécurité de Microsoft 365
 
 
-  #### Laboratoire &#58; Gérer Microsoft 365 Security Services
-  - Mettre en œuvre une stratégie des pièces jointes fiables.
-  - Mettre en œuvre une stratégie des liens fiables.
+  #### Lab : Gérer les services de sécurité de Microsoft 365
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - de décrire un pipeline de maliciel comme le message électronique qui est analysé par la protection d’Exchange Online,
-  - Énumérer plusieurs mécanismes utilisés pour les filtres anti-programmes malveillants et anti-spam.
-  - Décrire des solutions supplémentaires pour protéger contre le phishing et la fraude.
-  - Décrire les avantages de la fonctionnalité Spoof Intelligence.
-  - de décrire comment les pièces jointes sécurisées sont utilisées pour bloquer les maliciels zero-day dans les pièces jointes aux messages électroniques et documents
-  - Décrire comment les liens fiables protègent les utilisateurs des URL malveillants incorporés dans les messages électroniques et les documents.
-  - Créer et modifier une stratégie des pièces jointes fiables dans le centre de sécurité et de conformité.
-  - Créer une stratégie des pièces jointes fiables à l’aide de Windows PowerShell.
-  - Configurer une stratégie des pièces jointes fiables pour prendre certaines actions.
-  - Comprendre comment utiliser une règle de transport pour désactiver la fonctionnalité des pièces jointes fiables.
-  - Décrire l’expérience de l’utilisateur final lorsqu’une pièce jointe à un courriel est analysée et jugée malveillante.
-  - Créer et modifier une stratégie de liens fiables dans le centre de sécurité et de conformité.
-  - Créer une stratégie des liens fiables à l’aide de Windows PowerShell.
-  - Comprendre comment utiliser une règle de transport pour désactiver la fonctionnalité des liens fiables.
-  - Décrire l’expérience de l’utilisateur final lorsque les liens fiables identifient un lien vers un site Web ou un fichier malveillant.
-  - Décrire comment les rapports fournissent de la visibilité sur la manière par laquelle EOP et ATP protègent votre organisation.
-  - Comprendre où accéder aux rapports générés par EOP et ATP.
-  - Comprendre comment accéder aux informations détaillées des rapports générés par EOP et ATP.
+  ####
+  * Mise en place d'une politique de sécurité des pièces jointes
+  * Mettre en place une politique de sécurité des liens
 
+  Après avoir terminé ce module, les étudiants seront en mesure de:
 
-  ### Module 3&#58; Microsoft 365 Threat Intelligence
-  Dans ce module, Vous passerez ensuite des services de sécurité à des services de renseignements sur les menaces, précisément, en utilisant le tableau de bord de sécurité et Advanced Threat Analytics pour garder une longueur d'avance sur les violations de sécurité potentielles.
+  * Décrire le pipeline anti-malware lorsque le courrier électronique est analysé par Exchange Online Protection.
+
+  * Lister plusieurs mécanismes utilisés pour filtrer le spam et les logiciels malveillants.
+
+  * Décrire des solutions supplémentaires pour se protéger contre le phishing et l'usurpation d'identité.
+
+  * Décrire les avantages de la fonction Spoof Intelligence.
+
+  * Décrire comment Safe Attachments est utilisé pour bloquer les logiciels malveillants de type "zero-day" dans les pièces jointes et les documents électroniques.
+
+  * Décrire comment Safe Links protège les utilisateurs des URLs malveillantes intégrées dans les e-mails et les documents.
+
+  * Créer et modifier une politique de sécurité des pièces jointes dans le Security &amp ; Compliance Center.
+
+  * Créer une politique de sécurité des pièces jointes en utilisant Windows PowerShell.
+
+  * Configurer une politique de sécurité des pièces jointes pour qu'elle prenne certaines mesures.
+
+  * Comprendre comment une règle de transport peut être utilisée pour désactiver la fonctionnalité Safe Attachments.
+
+  * Décrire l'expérience de l'utilisateur final lorsqu'une pièce jointe est analysée et jugée malveillante.
+
+  * Créer et modifier une politique de liens sécurisés dans le Security &amp ; Compliance Center.
+
+  * Créer une politique de liens sécurisés en utilisant Windows PowerShell.
+
+  * Comprendre comment une règle de transport peut être utilisée pour désactiver la fonctionnalité Safe Links.
+
+  * Décrire l'expérience de l'utilisateur final lorsque Safe Links identifie un lien vers un site Internet ou un fichier malveillant.
+
+  * Décrire comment les rapports de sécurité de Microsoft 365 montrent comment votre organisation est protégée.
+
+  * Comprendre où accéder aux rapports générés par EOP et Microsoft Defender pour Office 365.
+
+  * Comprendre comment accéder aux informations détaillées des rapports générés
+
+  ### Module 3: Mettre en œuvre le renseignement sur les menaces dans Microsoft 365
+
+  Dans ce parcours de formation, vous passerez ensuite des services de sécurité aux renseignements sur les menaces ; plus précisément, vous utiliserez le tableau de bord de la sécurité, Microsoft Defender for Identity et Microsoft Cloud Application Security pour devancer les violations potentielles de la sécurité.
+
   #### Leçons
-  - Aperçu de Microsoft 365 Threat Intelligence
-  - Utilisation du tableau de bord de sécurité
-  - Configuration d’Advanced Threat Analytics
-  - Mise en œuvre de la sécurité de votre application de cloud
+
+  *   Explorez les renseignements sur les menaces dans Microsoft 365
+
+  *   Explorer le tableau de bord de la sécurité
+
+  *   Mettre en œuvre Microsoft Defender pour identité '(en anglais)
+
+  *   Mise en œuvre de Microsoft Cloud Application Security
 
 
-  #### Laboratoire &#58; Mettre en œuvre Threat Intelligence
-  - Mener une attaque Spear Phishing à l’aide du simulateur d’attaque.
-  - Mener des attaques de mot de passe l’aide du simulateur d’attaque.
-  - Se préparer aux stratégies d’alerte.
-  - Mettre en œuvre une alerte de permission de boîte aux lettres.
-  - Mettre en œuvre une alerte de permission SharePoint.
-  - Tester l’alerte eDiscovery par défaut.
+  #### Lab : Mettre en œuvre le renseignement sur les menaces
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre comment Threat Intelligence est alimentée par le graphique de sécurité intelligent Microsoft.
-  - Décrire comment le tableau de bord des menaces peut bénéficier aux officiers de sécurité de niveau C.
-  - Comprendre comment utiliser Threat Explorer pour enquêter sur les menaces et aider à protéger votre locataire.
-  - Décrire comment le tableau de bord de sécurité affiche les gros risques, les tendances globales et la qualité de la protection.
-  - de décrire Advanced Threat Analytics (ATA) et les exigences nécessaires pour le déployer,
-  - de configurer Advanced Threat Analytics.
-  - Gérer les services ATA.
-  - de décrire la sécurité des applications dans le cloud,
-  - d'expliquer comment déployer la sécurité des applications dans le cloud,
-  - de contrôler vos applications dans le cloud grâce à des politiques
-  - Dépanner la sécurité des applications sur le cloud.
+  ####
+  * Effectuer une attaque de phishing par harponnage à l'aide du simulateur d'attaque.
+  * Réaliser des attaques par mot de passe à l'aide du simulateur d'attaque.
+  * Préparer les politiques d'alerte
+  * Mettre en œuvre une alerte de permission de boîte aux lettres
+  * Mettre en œuvre une alerte de permission SharePoint
+  * Test de l'alerte eDiscovery par défaut
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  *   Comprendre comment les renseignements sur les menaces sont alimentés par le Microsoft Intelligent Security Graph
+
+  * Décrire comment le tableau de bord des menaces peut bénéficier aux responsables de la sécurité de niveau C
+
+  * Comprendre comment Threat Explorer peut être utilisé pour enquêter sur les menaces et aider à protéger votre locataire
+
+  * Décrire comment le tableau de bord de la sécurité affiche les principaux risques, les tendances mondiales et la qualité de la protectio
+
+  *   Décrire ce qu'est Microsoft Defender pour l'Identité et quelles sont les conditions requises pour le déployer
+
+  * Configurer Microsoft Defender pour l'Identité
+
+  * Gérer les services Microsoft Defender pour l'Identité
+
+  * Décrire Cloud App Security
+
+  *  Expliquer comment déployer Cloud App Security
+
+  *   Contrôler vos Cloud Apps avec des politiques
+
+  *   Dépannage  de Cloud App Security
 
 
-  ### Module 4&#58; Introduction à la gouvernance des données dans Microsoft 365
-  Ce module examine les composants essentiels de la gestion de la conformité Microsoft 365. Cela commence par un aperçu de tous les aspects clés de la gouvernance des données, ce qui inclut l’archivage et la rétention des données, la gestion des droits d'information, Secure Multipurpose Internet Mail Extension (S/MIME), le cryptage des messages dans Office 365 et la prévention contre la perte de données (DLP).
+  ### Module 4: Introduction à la gouvernance des données dans Microsoft 365
+
+  Ce parcours d'apprentissage examine les composants clés de la gestion de la conformité de Microsoft 365. Il commence par une vue d'ensemble de tous les aspects clés de la gouvernance des données, y compris l'archivage et la conservation des données, la gestion des droits de l'information, la gestion de la sécurité et la gestion de la confidentialité, Office 365 message encryption, Gestion des dossiers en place dans SharePoint, et prévention des pertes de données (DLP).
+
   #### Leçons
-  - Introduction à l’archivage dans Microsoft 365
-  - Introduction à la conservation dans Microsoft 365
-  - Introduction à la gestion des droits à l'information
-  - Introduction à la Multipurpose Internet Mail Extension sécurisée
-  - Introduction au cryptage des messages dans Office 365
-  - Introduction à la prévention de la perte des données
+
+  *   Explorer l'archivage dans Microsoft 365
+
+  *   Explorer la rétention dans Microsoft 365
+
+  *   Explorer la gestion des droits de l'information
+
+  *    Explorer Office 365 Message Encryption
+
+  *   Explorer la gestion des documents sur place dans SharePoint
+
+  *   Explorer la prévention des pertes de données dans Microsoft 365
 
 
-  #### Laboratoire &#58; Mettre en œuvre le cryptage des messages et IRM
-  - Configurer le cryptage des messages Microsoft 365.
-  - Valider la gestion des droits à l’information.
+  #### Lab : Mettre en œuvre la gouvernance des données  
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre la gouvernance des données dans Microsoft 365.
-  - de décrire la différence entre l’archivage sur place et la gestion des enregistrements,
-  - d'expliquer comment les données sont archivées dans Exchange
-  - Reconnaître les avantages de la gestion des enregistrements sur place dans SharePoint.
-  - Expliquer la différence entre la gestion des enregistrements de messagerie (MRM) dans Exchange et la rétention dans SCC.
-  - Comprendre le fonctionnement de MRM dans Exchange.
-  - Énumérer les types des balises de rétention applicables aux boîtes aux lettres.
-  - Connaître les différentes options de cryptage Microsoft 365.
-  - Comprendre l’utilisation d’IRM dans Exchange.
-  - Configurer la protection IRM pour les messages d’Exchange.
-  - Expliquer l’utilisation d’IRM dans SharePoint.
-  - Appliquer la protection IRM aux documents SharePoint.
-  - Connaître la différence entre la protection IRM et la classification AIP.
-  - Décrire l’utilisation de S/MIME.
-  - Expliquer ce que sont les signatures numériques.
-  - Appliquer une signature numérique à un message.
-  - Comprendre le fonctionnement du cryptage des messages.
-  - Effectuer le cryptage sur un message.
-  - Réaliser le décryptage d’un message.
-  - Comprendre la coopération de la signature et le cryptage simultanés.
-  - Expliquer ce que sont les messages triple enveloppe.
-  - Décrire quand vous pouvez utiliser le cryptage des messages d’Office 365.
-  - Expliquer le fonctionnement du cryptage des messages d’Office 365.
-  - de décrire la prévention de la perte des données (DLP),
-  - Comprendre quelles sont les informations sensibles et les motifs de recherche utilisés par DLP.
-  - Savoir ce qu’est une stratégie DLP et ce qu’elle contient.
-  - Reconnaître comment les actions et les conditions travaillent ensemble pour le DLP.
-  - Exprimer comment les actions contiennent des fonctions pour envoyer des courriels selon la correspondance.
-  - Afficher des conseils en matière de stratégie aux utilisateurs en cas d’application d’une règle DLP.
-  - d'utiliser les modèles de politiques pour mettre en œuvre des politiques DLP pour les informations couramment utilisées,
-  - Expliquer le finger d’un document.
-  - Comprendre l’utilisation de DLP pour protéger les documents dans Windows Server FCI.
+  ####
+  *   Configurer Microsoft 365 Message Encryption
+  *   Valider la gestion des droits de l'information
+  * Initialiser la conformité
+  * Configurer les étiquettes et les politiques de conservation
 
+  Après avoir terminé ce module, les étudiants seront en mesure de:
 
-  ### Module 5&#58; Archivage et retenue dans Microsoft 365
-  Ce module s’approfondit dans l’archivage et la rétention, et prête une attention particulière à la gestion des enregistrements sur place dans SharePoint, à l’archivage et la rétention dans Exchange, et aux stratégies de rétention dans le centre de sécurité et de conformité.
+  * Comprendre la gouvernance des données dans Microsoft 365
+
+  * Décrire la différence entre l'archivage sur place et la gestion des documents
+
+  * Expliquer comment les données sont archivées dans Exchange
+
+  *   Reconnaître les avantages de la gestion des documents sur place dans les domaines suivants sur SharePoint
+
+  *   Comprendre le fonctionnement de la gestion des dossiers de messagerie dans  Exchange
+
+  *   Liste des types d'étiquettes de rétention qui peuvent être appliquées aux boîtes aux lettres
+
+  *   Connaître les différentes options de Microsoft 365 Encryption
+
+  *   Comprendre comment la gestion des droits de l'information (IRM) peut être utilisée dans Exchange
+
+  *   Configurer la protection IRM pour les courriers Exchange
+
+  *   Expliquer comment IRM peut être utilisé dans SharePoint
+
+  *   Appliquer la protection IRM aux documents SharePoint
+
+  *   Indiquer les différences entre la protection IRM et la classification AIP
+
+  *   Comprendre le fonctionnement du cryptage des messages
+
+  * Effectuer le cryptage d'un message
+
+  * Effectuer le décryptage d'un message
+
+  * Comprendre la coopération entre la signature et le cryptage simultanés.
+
+  * Expliquer ce que sont les messages à triple enveloppe.
+
+  * Décrire quand vous pouvez utiliser Office 365 Message Encryption
+
+  *   Expliquer comment fonctionne Office 365 Message Encryption
+
+  *   Décrire la prévention de la perte de données (DLP)
+
+  *   Comprendre ce que sont les informations sensibles et les modèles de recherche utilisés par la DLP
+
+  * Savoir ce qu'est une politique DLP et ce qu'elle contient.
+
+  * Reconnaître comment les actions et les conditions fonctionnent ensemble pour la DLP.
+
+  * Expliquer comment les actions contiennent des fonctions permettant d'envoyer des courriels sur des correspondances.
+
+  * Afficher des conseils de politique aux utilisateurs si une règle DLP s'applique.
+
+  * Utiliser des modèles de politique pour mettre en œuvre des politiques DLP pour les informations couramment utilisées.
+
+  * Expliquer le doigt du document
+
+  * Comprendre comment utiliser la DLP pour protéger les documents dans les bases de données. Windows Server FCI
+
+  ### Module 5 : Mettre en œuvre la gouvernance des données dans Microsoft 365
+
+  Ce parcours d'apprentissage examine comment mettre en œuvre les principaux aspects de la gouvernance des données, notamment la création de barrières d'information dans Microsoft 365 et de murs éthiques dans Exchange Online, la création de politiques DLP à partir de modèles intégrés, la création de politiques DLP personnalisées, la création de politiques DLP pour protéger les documents et la création de conseils sur les politiques.
+
   #### Leçons
-  - Gestion des enregistrements sur place dans SharePoint
-  - Archivage et conservation dans Exchange
-  - Politiques de conservation dans les SSC
+
+  *   Évaluer votre état de conformité
+
+  * Mettre en œuvre des solutions de conformité
+
+  * Créer des barrières d'information dans Microsoft 365
+
+  * Créer une politique DLP à partir d'un modèle intégré
+
+  * Créer une politique DLP personnalisée
+
+  * Créer une politique DLP pour protéger les documents
+
+  * Mettre en œuvre des conseils pour les politiques DLP
 
 
-  #### Laboratoire&#58; Mettre en œuvre l’archivage et la rétention
-  - Initialiser la conformité.
-  - Configurer les balises et les politiques de conservation
+  #### Lab : Mettre en œuvre des politiques DLP
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Comprendre le processus de la gestion des enregistrements.
-  - Créer un plan de fichiers pour votre organisation.
-  - Décrire deux méthodes pour convertir les documents actifs à des enregistrements.
-  - Décrire les avantages de la gestion des enregistrements sur place.
-  - Configurer la gestion des enregistrements sur place dans votre organisation.
-  - Activer et désactiver l’archivage sur place.
-  - de créer des balises de conservation utiles.
-  - Créer des stratégies de rétention pour les balises de rétention de groupes.
-  - Affecter des stratégies de rétentions aux boîtes aux lettres.
-  - Attribuer des permissions et des scripts pour exporter et importer les balises de rétention.
-  - Exporter toutes les stratégies et balises de rétention depuis une organisation.
-  - Importer toutes les stratégies et balises de rétention vers une organisation.
-  - Expliquer le fonctionnement d’une stratégie de rétention.
-  - Créer une stratégie de rétention.
-  - Gérer les paramètres d’une stratégie de rétention.
+  ####
+  *   Gérer les politiques DLP
+  *   Tester les politiques MRM et DLP
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Décrire le centre de conformité Microsoft 365 et comment y accéder.
+
+  * Décrire l'objectif et la fonction du score de conformité.
+
+  * Expliquer les composants de la façon dont le score de conformité d'une organisation est déterminé.
+
+  * Expliquer comment les évaluations sont utilisées pour formuler les scores de conformité.
+
+  * Expliquer comment Microsoft 365 aide à répondre au règlement sur la protection des données mondiales.
+
+  * Décrire la fonctionnalité de gestion des risques d'initiés dans Microsoft 365.
+
+  * Configurer les politiques de gestion des risques d'initiés
+
+  * Configurer les politiques de gestion des risques d'initiés
+
+  *   Expliquez les capacités de conformité de la communication dans Microsoft 365
+
+  *   Décrire ce qu'est un mur éthique dans Exchange et comment il fonctionne
+
+  *   Expliquer comment créer des barrières d'information dans Microsoft 365
+
+  * Identifier les meilleures pratiques pour construire et travailler avec des murs éthiques
+
+  * Comprendre les différents modèles intégrés pour les politiques DLP
+
+  * Déterminer comment choisir les bons emplacements pour une politique DLP
+
+  * Configurer les règles correctes pour protéger le contenu
+
+  * Activer et réviser correctement la politique DLP
+
+  * Décrire comment modifier les règles existantes des politiques DLP
+
+  * Expliquez comment ajouter et modifier des conditions et des actions personnalisées à une règle DLP
+
+  * Décrire comment modifier les notifications de l'utilisateur et les conseils de la politique
+
+  * Configurer l'option de contournement de l'utilisateur pour une règle DLP
+
+  * Expliquer comment les rapports d'incident sont envoyés par une violation de règle DLP
+
+  * Décrire comment travailler avec les propriétés gérées pour les politiques DLP
+
+  *   Expliquer comment SharePoint Online crée des propriétés explorées à partir de documents
+
+  * Expliquez comment créer une propriété gérée à partir d'une propriété explorée dans SharePoint Online
+
+  * Expliquez comment créer une politique DLP avec des règles qui s'appliquent aux propriétés gérées via PowerShell
+
+  * Décrire l'expérience utilisateur lorsqu'un utilisateur crée un e-mail ou un site contenant des informations sensibles
+
+  * Expliquez le comportement des applications Office lorsqu'un utilisateur saisit des informations sensibles
 
 
-  ### Module 6&#58; Mettre en œuvre la gouvernance des données dans Microsoft 365 Intelligence
-  Ce module examine comment mettre en œuvre les principaux aspects de la gouvernance des données, notamment la construction de murs éthiques dans Exchange Online, la création de politiques DLP à partir de modèles intégrés, la création de politiques DLP personnalisées, la création de politiques DLP pour protéger les documents et la création de conseils stratégiques.
+  ### Module 6 : Gérer la gouvernance des données dans Microsoft 365
+
+  Ce parcours d'apprentissage se concentre sur la gestion de la gouvernance des données dans Microsoft 365, notamment la gestion de la rétention dans la messagerie, le dépannage des politiques de rétention et des astuces de politique qui échouent, ainsi que le dépannage des données sensibles. Vous apprendrez ensuite à mettre en œuvre les étiquettes de sensibilité et la Windows Information Protection.
+
   #### Leçons
-  - Évaluer votre préparation en matière de conformité.
-  - Mettre en œuvre des solutions de centres de conformité.
-  - Construire des murs éthiques dans Exchange Online
-  - Créer une politique simple DLP à partir d'un modèle intégré
-  - Créer une politique DLP personnalisée
-  - Créer une politique DLP pour protéger les documents
-  - Travailler avec les conseils en matière de politique
+
+  *   Gérer la rétention dans les emails
+
+  * Dépannage de la gouvernance des données
+
+  * Explorer les étiquettes de sensibilité
+
+  * Mise en œuvre des étiquettes de sensibilité
+
+  * Mettre en œuvre la gouvernance des données
 
 
-  #### Laboratoire &#58; Mettre en œuvre des politiques DLP
-  - Gérer les politiques DLP.
-  - Tester la MRM et les politiques de DLP
+  #### Lab : Mettre en œuvre la gouvernance des données
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Décrire le centre de conformité Microsoft 365 et la manière d’y accéder.
-  - Décrire l’objection et la fonction d’une notation de conformité.
-  - Expliquer les composants de la détermination de la notation de conformité d’une organisation.
-  - Expliquer l’utilisation des évaluations dans l’élaboration des notations de conformité.
-  - Expliquer comment Microsoft 365 aide à répondre à la réglementation mondiale sur la protection des données.
-  - Décrire la fonctionnalité de gestion du risque interne dans Microsoft 365.
-  - Configurer des stratégies de gestion du risque interne.
-  - Configurer des stratégies de gestion du risque interne.
-  - Expliquer les capacités de la conformité en matière de communications dans Microsoft 365.
-  - de décrire une muraille déontologique dans Exchange et son fonctionnement
-  - Expliquer comment créer un mur éthique dans Exchange.
-  - Identifier les meilleures pratiques de développement et de fonctionnement des murs éthiques dans Exchange.
-  - Comprendre les différents modèles intégrés des stratégies DLP.
-  - Déterminer la façon de sélectionner les emplacements adéquats pour une stratégie DLP.
-  - Configurer les règles adéquates pour protéger le contenu.
-  - Activer et examiner la stratégie DLP de manière correcte.
-  - de décrire comment modifier les règles existantes des politiques DLP,
-  - Expliquer la manière d’ajouter et de modifier les conditions et actions personnalisées d’une stratégie DLP.
-  - Décrire la manière de modifier les notifications utilisateur et les conseils en matière de stratégie.
-  - de configurer l’option de dérogation des utilisateurs aux politiques DLP
-  - Expliquer comment les rapports d’incidents sont envoyés par une violation de la règle DLP.
-  - Décrire la manière de travailler avec les propriétés gérées pour les stratégies DLP.
-  - d'expliquer comment SharePoint Online crée des propriétés analysées à partir des documents
-  - Décrire la manière de créer une propriété gérée depuis une propriété analysée dans SharePoint Online.
-  - Expliquer la manière de créer une stratégie DLP comportant des règles applicables aux propriétés gérées depuis PowerShell.
-  - Décrire l’expérience utilisateur lorsqu’un utilisateur crée un courriel ou un site contenant des informations sensibles.
-  - Expliquer le comportement dans les applications d’Office lorsqu’un utilisateur saisit des informations sensibles.
+  ####
+  * Mettre en œuvre les étiquettes de sensibilité
+  * Implémenter la Windows Information Protection
 
+  Après avoir terminé ce module, les étudiants seront en mesure de :
 
-  ### Module 7&#58; Gérer la gouvernance des données dans Microsoft 365
-  Ce module se concentre sur la gestion de la gouvernance des données dans Microsoft 365, notamment la gestion de la rétention dans la messagerie électronique, le dépannage des stratégies de rétention et les conseils en matière de stratégies qui échouent, ainsi que le dépannage des données sensibles. Vous découvriez également comment mettre en œuvre la Azure Information Protection et la Windows Information Protection.
+  * Déterminer quand et comment utiliser les étiquettes de rétention dans les boîtes aux lettres
+
+  * Attribuer une politique de rétention à un dossier de courrier électronique
+
+  * Ajouter des politiques de rétention optionnelles aux messages et aux dossiers de courrier électronique
+
+  * Supprimer une politique de rétention d'un message électronique
+
+  * Expliquer comment est calculé l'âge de rétention des éléments
+
+  * Réparer les politiques de rétention qui ne fonctionnent pas comme prévu
+
+  * Comprendre comment résoudre systématiquement les problèmes lorsqu'une politique de rétention semble échouer
+
+  * Effectuer des tests de politique en mode test avec des conseils sur les politiques
+
+  * Décrire comment surveiller les politiques DLP grâce au suivi des messages
+
+  * Gérer la protection des données à l'aide d'étiquettes de sensibilité
+
+  * Décrire les exigences pour créer une étiquette de sensibilité
+
+  * Développez un cadre de classification des données pour vos étiquettes de sensibilité.
+
+  * Créer, publier et supprimer les étiquettes de sensibilité
+
+  * Décrire le WIP et à quoi il sert
+
+  *   Planifier un déploiement de politiques WIP
+
+  * Mettre en œuvre des politiques WIP avec Intune et SCCM
+
+  * Implémentation des politiques WIP dans les applications de bureau Windows
+
+  ### Module 7 : Gérer la recherche de contenu et les enquêtes dans Microsoft 365
+
+  Ce parcours pédagogique conclut cette section sur la gouvernance des données en examinant comment gérer la recherche et l'investigation, y compris la recherche de contenu dans le Security and Compliance Center, l'audit des investigations des journaux et la gestion de eDiscovery avancé.
+
   #### Leçons
-  - Gérer la conservation dans le courrier électronique
-  - Dépanner la gouvernance des données
-  - Mettre en œuvre la protection des informations Azure
-  - Mettre en œuvre les caractéristiques avancées de AIP
-  - Mettre en œuvre la protection des informations Windows
+
+  *   Rechercher du contenu dans Microsoft 365 Compliance center
+
+  *   Mener des enquêtes sur les journaux d'audit
+
+  *   Gestion de eDiscovery avancé
 
 
-  #### Laboratoire &#58; Mettre en œuvre AIP et WIP
-  - Mettre en œuvre la protection des informations Azure
-  - Mettre en œuvre la protection des informations Windows
+  #### Lab : Gérer les recherches et les enquêtes
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Déterminer quand et comment utiliser les balises de rétention dans les boîtes aux lettres.
-  - Attribuer une stratégie de rétention à un dossier de messagerie électronique.
-  - Ajouter des stratégies de rétention facultatives aux messages et dossiers de la messagerie électronique.
-  - Supprimer une stratégie de rétention d’un message électronique.
-  - Expliquer comment se fait le calcul de l’âge de rétention des éléments.
-  - Réparer les stratégies de rétention qui ne s’exécutent pas comme prévu.
-  - Comprendre comment résoudre systématiquement les problèmes lorsqu'une stratégie de rétention semble échouer.
-  - Effectuer des tests sur la stratégie en mode test avec des conseils en matière de stratégie.
-  - Décrire la manière de surveiller les stratégies DLP par le biais du suivi des messages.
-  - Décrire les étapes de planification requises pour l’utilisation d’AIP dans votre entreprise.
-  - Configurer et personnaliser les étiquettes.
-  - Créer des stratégies pour publier les étiquettes.
-  - Planifier un déploiement du client de la protection des informations d’Azure.
-  - de configurer les paramètres de service AIP avancés pour les modèles des services de gestion des droits (RMS),
-  - Mettre en œuvre l’étiquetage automatique et recommandé.
-  - Activer la fonctionnalité du super utilisateur pour les tâches administratives.
-  - Créer la clé de cryptage de votre locataire.
-  - Déployer le lecteur AIP pour un étiquetage sur site.
-  - Planifier le déploiement du connecteur RMS pour connecter les serveurs sur site.
-  - Décrire WIP et l’objectif de son utilisation.
-  - Planifier un déploiement des stratégies WIP.
-  - Mettre en œuvre des politiques WIP avec Intune et SCCM.
-  - Mettre en œuvre des politiques WIP dans les applications bureau de Windows.
+  ####
+  *   Effectuer une recherche de données
+  *   Examinez vos données Microsoft 365
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Décrire comment utiliser la recherche de contenu
+
+  * Concevoir votre recherche de contenu
+
+  * Configurer le filtrage des autorisations de recherche
+
+  * Expliquer comment rechercher des données de tiers.
+
+  * Décrire quand utiliser des scripts pour des recherches avancées.
+
+  * Décrire ce qu'est le journal d'audit et les autorisations requises pour effectuer une recherche dans un audit Microsoft 365.
+
+  * Configurer les politiques d'audit
+
+  * Entrer des critères de recherche dans le journal d'audit
+
+  * Afficher, trier et filtrer les résultats de la recherche
+
+  * Exporter les résultats de la recherche dans un fichier CSV
+
+  * Recherche dans le journal d'audit unifié à l'aide de Windows PowerShell
+
+  *   Décrire eDiscovery avancé
+
+  *   Configurer les permissions pour les utilisateurs dans eDiscovery avancé
+
+  *   Créer des cas dans eDiscovery avancé
+
+  *   Rechercher et préparer les données pour eDiscovery avancé
 
 
-  ### Module 8&#58; Gérer la recherche et les investigations
-  Ce module conclut cette section sur la gouvernance des données en examinant comment gérer la recherche et l'investigation, y compris la recherche de contenu dans le Centre de sécurité et de conformité, l'audit des enquêtes sur les journaux et la gestion d’Advanced eDiscovery.
+  ### Module 8 : Préparer la gestion des appareils dans Microsoft 365
+
+  Ce parcours d'apprentissage propose un examen approfondi de la gestion des périphériques Microsoft 365. Vous commencerez par planifier les différents aspects de la gestion des appareils, notamment en préparant vos appareils Windows 10 à la cogestion. Vous apprendrez comment passer du gestionnaire de configuration à Microsoft Intune, et vous découvrirez le Microsoft Store for Business et la gestion des applications mobiles.
+
   #### Leçons
-  - Rechercher du contenu dans le centre de sécurité et de conformité
-  - Faire l'audit des enquêtes du journal
-  - Gérer l’eDiscovery avancé
+
+  *   Découvrez la cogestion des périphériques Windows 10
+
+  * Préparer vos appareils Windows 10 pour la cogestion
+
+  * Transition du gestionnaire de configuration vers Intune
+
+  * Examiner le Microsoft Store for Business
+
+  * Planifier la gestion des applications
 
 
-  #### Laboratoire &#58; Gérer la recherche et l’examen
-  - Mettre en œuvre une demande de sujet de données.
-  - Enquêter sur votre données Microsoft 365
+  #### Lab : Mettre en œuvre Microsoft Store for Business
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - de décrire comment utiliser la recherche de contenu
-  - Concevoir votre recherche de contenu.
-  - Configurer un filtrage des permissions de recherche
-  - Expliquer comment rechercher des données de tiers
-  - Décrire quand utiliser des scripts pour les recherches avancées.
-  - Décrire ce qu'est le journal d'audit et les autorisations nécessaires pour effectuer des recherches dans l'audit d'Office 365.
-  - de configurer les politiques d'audit
-  - de saisir des critères pour rechercher le journal d'audit
-  - Afficher, trier et filtrer les résultats des recherches.
-  - Exporter les résultats des recherches vers un fichier CSV.
-  - Rechercher un journal d’audit unifié à l’aide de Windows PowerShell.
-  - Décrire Advanced eDiscovery.
-  - Configurer les permissions des utilisateurs dans Advanced eDiscovery.
-  - Créer des cas dans Advanced eDiscovery.
-  - Rechercher et préparer des données pour Advanced eDiscovery.
+  ####
+  *   Configurer Microsoft Store for Business
+  *   Gérer Microsoft Store for Business
 
+  Après avoir terminé ce module, les étudiants seront en mesure de :
 
-  ### Module 9&#58; Planification de la gestion des périphériques
-  Ce module fournit un examen approfondi de la gestion des périphériques de Microsoft 365. Vous commencerez par planifier différents aspects de la gestion des dispositifs, ce qui inclut la préparation de vos dispositifs Windows 10 pour la cogestion. Vous apprendrez ensuite comment passer de Configuration Manager à Microsoft Intune et vous découvrirez le Microsoft Store pour la gestion des applications mobiles et pour entreprises.
+  * Décrire les avantages de la co-gestion
+
+  * Planifier la stratégie de co-gestion de votre organisation.
+
+  * Décrire les principales caractéristiques du gestionnaire de configuration
+
+  * Décrire comment Azure Active Directory permet la cogestion.
+
+  * Identifier les conditions préalables à l'utilisation de la cogestion.
+
+  * Configurer le gestionnaire de configuration pour la cogestion
+
+  * Inscrire les appareils Windows 10 à Intune
+
+  *   Modifiez vos paramètres de cogestion
+
+  * Transfert des charges de travail vers Intune
+
+  * Surveiller votre solution de cogestion
+
+  * Vérifier la conformité des appareils cogérés
+
+  * Décrire les caractéristiques et les avantages de Microsoft Store for Business.
+
+  * Configurer le Microsoft Store for Business
+
+  * Gérer les paramètres de Microsoft Store for Business
+
+  ### Module 9 : Planifier votre stratégie de déploiement de Windows 10
+
+  Ce parcours d'apprentissage se concentre sur la planification de votre stratégie de déploiement de Windows 10, y compris la mise en œuvre de Windows Autopilot et des analyses de bureau, et la planification de votre service d'activation d'abonnement à Windows 10..
+
   #### Leçons
-  - Introduction à la cogestion
-  - Préparer les périphériques de votre Windows 10 pour la cogestion
-  - Transition du gestionnaire de configuration à Intune
-  - Introduction au Microsoft Store pour les entreprises
-  - Planifier la gestion des applications mobiles
+
+  *   Examiner les scénarios de déploiement de Windows 10
+
+  * Explorer les modèles de déploiement de Windows Autopilot
+
+  * Planifiez votre stratégie d'activation de l'abonnement Windows 10
+
+  * Résoudre les erreurs de mise à niveau de Windows 10
+
+  * Analyser les données de diagnostic de Windows 10 à l'aide de l'analyse de bureau
 
 
-  #### Laboratoire &#58; Mettre en œuvre le Microsoft Store pour les entreprises
-  - de configurer Microsoft Store for Business
-  - Gérer le Microsoft Store pour les entreprises
+  Après avoir terminé ce module, les étudiants seront en mesure de :
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Décrire les avantages de la cogestion.
-  - Planifier la stratégie de cogestion de votre organisation.
-  - Décrire les principales fonctionnalités clés du gestionnaire de configuration.
-  - Décrire comment Azure Active Directory favorise la cogestion.
-  - Identifier les prérequis pour l’utilisation de la cogestion.
-  - Configurer le gestionnaire de configuration pour la cogestion.
-  - Inscrire les périphériques Windows 10 à Intune.
-  - Modifier vos paramètres de cogestion.
-  - Transférer vos charges de travail à Intune.
-  - Surveiller votre solution de cogestion.
-  - Vérifiez la conformité des périphériques cogérés.
-  - Décrire les caractéristiques et les avantages du Microsoft Store pour entreprises.
-  - de configurer Microsoft Store for Business
-  - Gérer les paramètres de Microsoft Store pour entreprises.
+  *   Planification de Windows as a Service
+
+  * Planifier un déploiement moderne
+
+  * Planifier un déploiement dynamique
+
+  * Planifier un déploiement traditionnel
+
+  * Décrire les exigences de Windows Autopilot
+
+  *   Configurer Autopilot
+
+  * Décrire les déploiements Autopilot, les déploiements pré-provisionnés et les déploiements pilotés par l'utilisateur.
+
+  * Déployer le cryptage BitLocker pour les appareils autopilotés.
+
+  * Comprendre Windows 10 Enterprise E3 dans CSP
+
+  * Configurer VDA pour l'activation de l'abonnement
+
+  * Déployer les licences Windows 10 Enterprise
+
+  * Décrire les corrections courantes des erreurs de mise à niveau de Windows 10.
+
+  * Utiliser SetupDiag
+
+  * Dépannage des erreurs de mise à niveau
+
+  * Décrire les rapports d'erreurs de Windows
+
+  *   Comprendre les codes d'erreur de mise à niveau et la procédure de résolution
+
+  * Décrire l'analyse du bureau
+
+  * Décrire la santé des appareils
+
+  * Décrire la conformité des mises à jour
+
+  * Déterminer l'état de préparation à la mise à niveau
 
 
-  ### Module 10&#58; Planifier la stratégie de déploiement de votre Windows 10
-  Ce module se concentre sur la planification de votre stratégie de déploiement Windows 10, notamment la manière de mettre en œuvre Windows Autopilot et Windows Analytics, et planifier votre service d’activation de l’inscription à Windows 10.
+  ### Module 10 : Mettre en œuvre la gestion des dispositifs mobiles dans Microsoft 365
+
+  Ce parcours d'apprentissage porte sur la gestion des dispositifs mobiles (MDM). Vous apprendrez comment le déployer, comment inscrire les appareils à MDM et comment gérer la conformité des appareils.
+
   #### Leçons
-  - Scénarios de déploiement de Windows 10
-  - Mise en œuvre et gestion de Windows Autopilot
-  - Planifier la stratégie d'activation de l’abonnement de votre Windows 10
-  - Résoudre les erreurs de mise à niveau de Windows 10
-  - Introduction à Windows Analytics
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - Planifier Windows en tant que service
-  - Planifier un déploiement moderne.
-  - Planifier un déploiement dynamique.
-  - Planifier un déploiement traditionnel.
-  - Décrire les exigences de Windows Autopilot.
-  - Configurer Autopilot.
-  - Créer et attribuer un profil Autopilot.
-  - Déployer et valider Autopilot.
-  - Décrire les déploiements autonomes d’Autopilot, les déploiements White Glove, et les déploiements du disque de l’utilisateur.
-  - Déployer le cryptage BitLocker pour les périphériques autopilotés.
-  - Comprendre Windows 10 Entreprise E3 dans CSP.
-  - Configurer VDA pour l’activation de l’abonnement.
-  - Déployer des licences de Windows 10 Entreprise.
-  - Décrire les résolutions communes aux erreurs de mise à niveau de Windows 10.
-  - Utiliser SetupDiag.
-  - Dépanner les erreurs de mise à niveau.
-  - Décrire le signalement des erreurs dans Windows.
-  - Comprendre les codes d’erreur des mises à niveau et la procédure de résolution.
-  - Décrire Windows Analytics.
-  - Décrire l’intégrité du périphérique.
-  - Décrire la conformité des mises à jour.
-  - Déterminer la préparation des mises à niveau.
+  *   Explorer la gestion des dispositifs mobiles
+
+  * Déployer la gestion des dispositifs mobiles
+
+  * Inscription des appareils à la gestion des appareils mobiles
+
+  * Gérer la conformité des appareils
 
 
-  ### Module 11&#58; Mettre en œuvre la gestion des périphériques mobiles
-  Ce module est axé sur la gestion des périphériques mobiles (MDM). Vous apprendrez le déploiement, l’inscription des périphériques dans MDM, et la gestion de la conformité des périphériques.
-  #### Leçons
-  - Planifier la gestion des périphériques mobiles
-  - Déployer la gestion des périphériques mobiles
-  - Enregistrer des périphériques dans la gestion des périphériques mobiles
-  - Gérer la conformité des périphériques
+  #### Lab : Gérer les appareils avec Intune
 
+  ####
+  *   Activer la gestion des périphériques
+  * Configurer Azure AD pour Intune
+  * Créer des politiques Intune
+  * Inscrire un appareil Windows 10
+  * Gérer et surveiller un appareil dans Intune
 
-  #### Laboratoire &#58; Gérer les dispositifs avec Intune
-  - Permettre la gestion des dispositifs
-  - Configurer Azure AD pour Intune
-  - Créer des politiques Intune
-  - Inscrire un dispositif Windows 10
-  - Gérer et surveiller un dispositif dans Intune
+  Après avoir terminé ce module, les étudiants seront en mesure de :
 
-  Après avoir terminé ce module, les étudiants seront capables de&#58;
-  - e gérer les périphériques avec la gestion des périphériques mobiles,
-  - Comparer MDM pour Office 365 et Intune.
-  - Comprendre la définition des stratégies pour les périphériques mobiles.
-  - Contrôler l’accès à la messagerie électronique et aux documents.
-  - Activer les services de gestion des périphériques modernes.
-  - Déployer la gestion des périphériques mobiles
-  - de configurer des domaines pour la gestion des périphériques mobiles
-  - Configurer un certificat APNs pour les appareils iOS.
-  - de gérer les politiques de sécurité des périphériques,
-  - Définir une stratégie d’inscription d’un périphérique d’entreprise.
-  - d'enregistrer des périphériques dans la gestion des périphériques mobiles,
-  - Comprendre le programme d’inscription des appareils d’Apple.
-  - Comprendre les règles d’inscription.
-  - de configurer le rôle de directeur d’enregistrement des périphériques.
-  - Décrire les considérations de l’authentification multifacteur.
-  - De planifier la conformité des périphériques.
-  - De configurer les utilisateurs et les groupes conditionnels
-  - Créer des politiques d'accès conditionnel
-  - Surveiller les périphériques inscrits.
+  * Gérer les périphériques avec MDM.
 
+  * Comparer MDM pour Microsoft 365 et Intune.
+
+  * Comprendre les paramètres de stratégie pour les appareils mobiles
+
+  * Contrôler l'accès aux e-mails et aux documents
+
+  * Activer les services de gestion des appareils mobiles
+
+  * Déployer la gestion des appareils mobiles
+
+  * Configurer les domaines pour MDMd
+
+  * Configurer un certificat APNs pour les appareils iOS
+
+  * Gérer les politiques de sécurité des appareils
+
+  * Définir une politique d'inscription des dispositifs d'entreprise
+
+  * Inscrire les appareils à MDM
+
+  * Comprendre le programme d'inscription des appareils Apple.
+
+  * Comprendre les règles d'inscription
+
+  * Configurer un rôle de gestionnaire d'inscription des dispositifs 
+
+  * Décrire les considérations d'authentification multifactorielle.
+
+  * Planifier la conformité des appareils
+
+  * Configurer les utilisateurs et les groupes conditionnels
+
+  * Créer des politiques d'accès conditionnel
+
+  * Surveiller les dispositifs inscrits

@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
-  <div><font color="red"><strong>Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color="red"><strong>Le contenu de cet examen a été mis à jour le 23 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
 
   L'administrateur de la protection des informations planifie et met en œuvre des contrôles qui répondent aux besoins de conformité de l'organisation. Cette personne est chargée de traduire les exigences et les contrôles de conformité en une mise en œuvre technique. Il aide les responsables des contrôles organisationnels à devenir et à rester conformes.
   
@@ -19,10 +19,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr8
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 23 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer
+- Le contenu de cet examen a été mis à jour le 23 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Mise en œuvre de la protection de l'information (35-40%)
 - Mise en œuvre de la prévention des pertes de données (30-35%)
 - Mise en œuvre de la gouvernance de l'information (25-30%)

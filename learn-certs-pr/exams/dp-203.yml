@@ -6,9 +6,13 @@ metadata:
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
-  Les ingénieurs de données de Azure intègrent, transforment et consolident les données provenant de divers systèmes de données structurées et non structurées dans des structures qui conviennent à l'élaboration de solutions analytiques.
+  Les candidats à cet examen doivent avoir une expertise en matière d'intégration, de transformation et de consolidation des données provenant de divers systèmes de données structurés et non structurés dans une structure adaptée à l'élaboration de solutions analytiques.
   
-  Les candidats à l'examen DP-203&#58; Data Engineering on Microsoft Azure doivent posséder une solide connaissance des langues de traitement des données, tel que SQL, Python, ou Scala, et ils doivent comprendre les modèles de traitement parallèle et d'architecture des données.
+  Les Azure Data Engineers aident les parties prenantes à comprendre les données par l'exploration, et ils construisent et maintiennent des pipelines de traitement de données sécurisés et conformes en utilisant différents outils et techniques. Ces professionnels utilisent divers Azure data services et langages pour stocker et produire des ensembles de données nettoyés et améliorés pour l'analyse.
+  
+  Les Azure Data Engineers contribuent également à garantir que les pipelines de données et les magasins de données sont très performants, efficaces, organisés et fiables, compte tenu d'un ensemble d'exigences et de contraintes commerciales. Ils traitent rapidement les problèmes imprévus et minimisent les pertes de données. Ils conçoivent, mettent en œuvre, surveillent et optimisent également les plateformes de données pour répondre aux besoins des pipelines de données.
+  
+  Un candidat à cet examen doit avoir une solide connaissance des langages de traitement de données tels que SQL, Python ou Scala, et il doit comprendre le traitement parallèle et les modèles d'architecture de données.
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir et mettre en œuvre le stockage des données; concevoir et développer le traitement des données; concevoir et mettre en œuvre la sécurité des données; et surveiller et optimiser le stockage et le traitement des données."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT

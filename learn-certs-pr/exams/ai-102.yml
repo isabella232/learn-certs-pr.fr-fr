@@ -6,15 +6,15 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 29 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 29 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
   
   Les candidats à l'examen AI-102: Designing and Implementing a Microsoft Azure AI Solution construisent, gèrent et déploient des solutions AI qui exploitent Azure Cognitive Services, Azure Cognitive Search et Microsoft Bot Framework.
   
   Leurs responsabilités incluent la participation à toutes les phases de développement des solutions de AI, de la définition des besoins et de la conception au développement, au déploiement, à la maintenance, au réglage des performances et à la surveillance.
   
   Ils travaillent avec des architectes de solutions pour traduire leur vision et avec des scientifiques de données, des ingénieurs de données, des spécialistes de IoT et des développeurs de AI pour construire des solutions de AI complètes de bout en bout.
-  
-  Les candidats à cet examen doivent maîtriser C#, Python ou JavaScript et être capables d'utiliser des APIs et des SDK basés sur REST pour construire des solutions de vision par ordinateur, de traitement du langage naturel, d'exploration des connaissances et de AI conversationnelle sur Azure.
+
+  Les candidats à cet examen doivent maîtriser C# ou Python et être capables d'utiliser des APIs et des SDKs basés sur REST pour construire des solutions de vision par ordinateur, de traitement du langage naturel, d'exploration des connaissances et de AI conversationnelle sur Azure.
   
   Ils doivent également comprendre les composants qui composent le portefeuille Azure AI et les options de stockage de données disponibles. En outre, les candidats doivent comprendre et être en mesure d'appliquer des principes de AI responsables.
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: planifier et gérer une solution Azure Cognitive Services; mettre en œuvre des solutions de vision par ordinateur; mettre en œuvre des solutions de traitement du langage naturel; mettre en œuvre des solutions d'exploration des connaissances; et mettre en œuvre des solutions de AI conversationnelle"
@@ -23,10 +23,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbY
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 29 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 29 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Planifier et gérer une solution Azure Cognitive Services (15-20%)
 - Mettre en œuvre des solutions de vision par ordinateur (20-25%)
 - Mettre en œuvre des solutions de traitement du langage naturel (20-25%)
@@ -56,12 +59,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer

@@ -11,7 +11,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Si vous détenez cette certification et qu’elle va expirer dans un délai de six mois, vous êtes éligibles au renouvellement. Démontrez que vous êtes à jour avec les dernières mises à jour d’Azure AI en passant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement avec la collection assemblée de modules d'apprentissage.
 skills:
-- Évaluer du texte avec Azure Cognitive Language Services
 - Traiter et Traduire le Discours avec Azure Cognitive Speech Services
 - Traiter et classer des images avec Azure Cognitive Vision Services
 - Traiter le langage naturel avec Azure Cognitive Language Services

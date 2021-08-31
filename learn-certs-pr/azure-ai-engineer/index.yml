@@ -13,7 +13,9 @@ summary: |-
   
   Les ingénieurs Azure AI travaillent avec des architectes de solutions pour traduire leur vision et avec des scientifiques de la donnée, des ingénieurs de la donnée, des spécialistes IoT et des développeurs AI pour construire des solutions AI complètes de bout en bout.
   
-  Les candidats à cette certification doivent maîtriser les langages C#, Python ou JavaScript et être capables d'utiliser les API et les SDK basés sur REST pour créer des solutions de vision par ordinateur, de traitement du langage naturel, d'exploration des connaissances et de AI conversationnelle sur Azure. Ils doivent également comprendre les composants qui composent le portefeuille Azure AI et les options de stockage de données disponibles. En outre, les candidats doivent comprendre et être en mesure d'appliquer les principes AI responsable.
+  Les candidats à cette certification doivent maîtriser C# ou Python et être capables d'utiliser les APIs et SDKs basés sur REST pour construire des solutions de vision par ordinateur, de traitement du langage naturel, d'exploration des connaissances et d'IA conversationnelle sur Azure.
+  
+  Ils doivent également comprendre les composants qui composent le portefeuille Azure AI et les options de stockage de données disponibles. En outre, les candidats doivent comprendre et être en mesure d'appliquer le principe de la AI responsable.
 subTitle : Les ingénieurs de Azure AI onstruisent, gèrent et déploient des solutions AI qui exploitent Azure Cognitive Services, Azure Cognitive Search, et cadre Microsoft Bot.
 levels:
 - intermediate
@@ -48,12 +50,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-102

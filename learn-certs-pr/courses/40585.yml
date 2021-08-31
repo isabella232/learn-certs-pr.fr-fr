@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: AI-led business process automation'
+metadata:
+  title: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+  description: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+uid: course.40585
+courseNumber: '40585-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Architecturer une solution d'automatisation des processus d'affaires qui tire parti de Azure Cognitive Services
+- skill: Implémenter une solution d'automatisation des processus métier qui tire parti de Azure Cognitive Services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous apprendrez à automatiser un processus métier de bout en bout en utilisant une variété de Azure Cognitive Services. À la fin de cet atelier, vous serez mieux à même d'architecturer et de mettre en œuvre une solution d'automatisation des processus métier qui s'appuie sur Azure Cognitive Services.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les Azure services, comme décrit dans les sections "Résumé" et "Compétences acquises". Les participants à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc - Automatisation des processus d'entreprise par AI
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de preuve de concept
+  - Présenter la solution
+ 
+
+  ### Module 2&#58; Laboratoire pratique - automatisation des processus d'affaires par AI
+  #### Leçons
+  - Extraire le texte et la structure des documents à l'aide de Forms Recognizer
+  - Extraire des données analytiques sur la santé à partir des enregistrements audio des visites
+  - Utilisation de Azure Cognitive Search pour indexer et servir les données
+  - Création de rapports PowerBI personnalisés sur les données relatives à la santé

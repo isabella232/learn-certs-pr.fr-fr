@@ -7,11 +7,16 @@ uid: exam.az-700
 displayName: AZ-700
 summary: |-
   Les candidats à cet examen doivent avoir une expertise en matière de planification, de mise en œuvre et de maintenance des solutions de mise en réseau Azure, notamment la mise en réseau hybride, la connectivité, le routage, la sécurité et l'accès privé aux services Azure.
+
   Les candidats à cet examen doivent également posséder des compétences expertes en administration Azure, en plus d'une expérience et de connaissances approfondies en matière de mise en réseau, de connexions hybrides et de sécurité réseau.
-  <div><font color='red'><br/><strong>Cet examen sera disponible à la mi-juillet 2021.</strong></font></div>.
-subTitle: 'Cet examen sera disponible en juillet 2021. Cet examen mesure votre capacité à concevoir, mettre en œuvre, gérer, sécuriser et surveiller les tâches techniques suivantes: Mise en réseau hybride; Infrastructure de mise en réseau de base; Routage; Réseaux; et Accès privé aux services Azure.'
+
+  <div><br/><font color='red'><strong>Les examens bêta ne sont pas notés immédiatement car nous recueillons des données sur la qualité des questions et de l'examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">En savoir plus sur la valeur et l'importance des examens bêta.</a></strong></font></div>
+subTitle: 'Cet examen mesure votre capacité à concevoir, mettre en œuvre, gérer, sécuriser et surveiller les tâches techniques suivantes: Mise en réseau hybride; Infrastructure de mise en réseau de base; Routage; Réseaux; et Accès privé aux services Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
 levels:
@@ -44,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate

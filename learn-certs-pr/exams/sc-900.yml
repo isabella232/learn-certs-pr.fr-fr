@@ -6,9 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
-  <div>
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+
   Cette certification s'adresse à ceux qui cherchent à se familiariser avec les principes fondamentaux de la sécurité, de la conformité et de l'identité (SCI) dans les services Microsoft basés sur le cloud et connexes.
   
   Il s'agit d'un large public qui peut inclure des parties prenantes de l'entreprise, des professionnels IT nouveaux ou existants, ou des étudiants qui s'intéressent aux solutions de sécurité, de conformité et d'identité de Microsoft.
@@ -28,19 +27,22 @@ locales:
 - ja
 - zh-cn
 - ko
-- nl
 - fr
 - es
 - pt-br
 - ru
 - ar-sa
+- id-id
+- de
+- zh-tw
+- it
 levels:
 - beginner
 skills:
-- Le contenu de cet examen sera mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
-- Décrire les concepts de sécurité, de conformité et d'identité (5-10%)
-- Décrire les capacités des solutions de gestion des identités et des accès de Microsoft (25-30%)
-- Décrire les fonctionnalités des solutions de sécurité de Microsoft (30-35%)
+- Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Décrire les concepts de sécurité, de conformité et d'identité (10-15%)
+- Décrire les capacités des solutions de gestion des identités et des accès de Microsoft (30-35%)
+- Décrire les fonctionnalités des solutions de sécurité de Microsoft (35-40%)
 - Décrire les fonctionnalités des solutions de conformité de Microsoft (25-30%)
 roles:
 - business-user

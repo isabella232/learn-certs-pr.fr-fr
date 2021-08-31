@@ -20,6 +20,7 @@ ms.prod: non-product-specific
 - Un candidat ne peut se présenter à un examen donné plus de cinq fois au cours d'une période de 12 mois. Cette période de 12 mois commence à partir de la première tentative. Le candidat peut se représenter à l'examen 12 mois après la date de sa première tentative.
 - Pour passer un examen donné plus de cinq fois par an ou pour que le délai entre les tentatives soit supprimé, un candidat doit avoir commis l'une des erreurs énumérées ci-dessous et demander une exception à Microsoft.
 - Vous ne pouvez pas repasser un examen que vous avez réussi, sauf si votre certification a expiré.
+- Vous devez payer pour repasser l'examen.
 
 ## Soumettre une demande d'exception de reprise d'examen
 

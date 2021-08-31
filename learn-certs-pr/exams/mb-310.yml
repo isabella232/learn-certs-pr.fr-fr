@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-310
 displayName: MB-310
 summary: |-
-  <div>
-  <div><strong>Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le document ci-dessous décrivant les compétences évaluées pour voir ce qui sera modifié.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 27 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Les candidats à cet examen sont des consultants fonctionnels qui analysent les besoins des entreprises et traduisent ces besoins en processus et solutions d'entreprise pleinement réalisés qui mettent en œuvre les meilleures pratiques de l'industrie. Les candidats sont une ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
   <br/>
@@ -23,7 +21,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour vendredi 16 octobre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 27 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Mettre en place et configurer la gestion financière (50-55%)
 - Mettre en œuvre et gérer les comptes créditeurs et les dépenses (10-15%)
 - Mettre en œuvre les comptes débiteurs, le crédit, le recouvrement et la reconnaissance des revenus (20-25%)

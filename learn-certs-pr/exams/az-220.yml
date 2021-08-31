@@ -6,13 +6,11 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
-
-  Le développeur Azure IoT met en œuvre la configuration et effectue les tâches de codage nécessaires pour créer et maintenir les parties cloud et edge d'une solution IoT. Outre la configuration et la maintenance des appareils à l'aide de services cloud, le développeur IoT configure également les appareils physiques.  Le développeur IoT est responsable de la maintenance et du dépannage de la configuration des appareils tout au long de leur cycle de vie. 
-
-  Le développeur IoT met en œuvre les spécifications de conception des solutions IoT, notamment la topologie des appareils, la connectivité, les diagnostics et la surveillance, ainsi que la sécurité. Le développeur IoT développe et déploie des modules et configure la mise en réseau des dispositifs pour la partie IoT Edge de la solution. Le IoT Developer met en œuvre des conceptions de solutions pour gérer les pipelines de données, y compris la surveillance et la transformation des données en ce qui concerne IoT. Le développeur IoT travaille avec l'architecte Azure IoT, les ingénieurs de données et d'autres parties prenantes pour assurer une intégration commerciale réussie.
-
-  Les développeurs IoT doivent avoir une compréhension générale des types d'appareils et des services Azure, y compris les options de stockage des données, l'analyse des données, le traitement des données, AI et d'autres options de plateforme en tant que service. Les développeurs IoT doivent être capables de programmer dans au moins un langage pris en charge par Azure IoT SDK.
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  
+  Les candidats à cet examen doivent avoir une expertise dans la mise en œuvre des tâches de configuration et de codage nécessaires pour créer et maintenir les parties cloud et edge d'une solution IoT.
+  
+  Les candidats à cet examen doivent avoir une compréhension générale des types d'appareils et des Azure services, notamment les options de stockage des données, l'analyse des données, le traitement des données, AI et d'autres options de plateforme en tant que service (PaaS). Ils doivent être capables de programmer dans au moins un langage pris en charge par le kit de développement logiciel Azure IoT (SDK).
 subTitle: "Cet examen mesure votre capacité à mettre en place l'infrastructure de la solution IoT, à approvisionner et gérer les appareils, à mettre en œuvre IoT Edge, à traiter et gérer les données, à surveiller, dépanner et optimiser les solutions IoT et à mettre en œuvre la sécurité."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -26,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Mise en place de l'infrastructure de la solution IoT (10-15%)
 - Approvisionnement et gestion des appareils (15-20%)
 - Mise en œuvre de IoT Edge (15-20%)

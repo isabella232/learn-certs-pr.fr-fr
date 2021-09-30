@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div><div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le document des compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 1er octobre 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Les candidats à cet examen effectuent la découverte, capturent les besoins, entrent en contact avec les experts et les parties prenantes, traduisent les besoins et configurent des solutions et applications Power Platform. Ils créent des améliorations de l’application, des expériences utilisateur personnalisées, des intégrations de systèmes, des conversions de données, une automatisation personnalisée des processus et des visualisations personnalisées.
 
@@ -27,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 23 mars 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 1er octobre 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Configurer Microsoft Dataverse (25-30%)
 - Créer des applications à l’aide de Power Apps (20-25%)
 - Créer et gérer Power Automate (15-20%)

@@ -28,7 +28,7 @@ levels:
 roles:
 - administrator
 products:
-- m365
+- azure
 exams:
 - uid: exam.ms-203
 summary: |-
@@ -95,11 +95,11 @@ outlineSection: |-
 
 
   ### Module 3&#58; Gestion de l’hygiène des messages
-  Dans ce module, vous découvrirez les fonctions et les fonctionnalités de Microsoft Echange Online Protection (EOP). Vous apprendrez également à planifier l’acheminement de la messagerie pour ce service, qui fournit des politiques anti-programme malveillant et anti-spam qui protègent votre organisation contre les spam et les programmes malveillants et protège votre organisation des violations des politiques de messagerie. Vous passerez alors en revue la protection contre les programmes malveillants et antispam fournir par Exchange Server et Online Protection, et vous apprendrez à configurer les filtres, les politiques et les paramètres SPAM et anti-programme malveillant pour assurer la protection de vos utilisateurs. Vous terminerez le module en examinant la protection avancée contre les menaces (ATP) et comment elle étend la protection fournie par EOP en filtrant les attaques ciblées qui peuvent passer à travers la ligne de défense de l’EOP, y compris les menaces avancées telles que les attaques zero-days dans les pièces jointes des courriers électroniques et les documents Office et la protection time-of-clic contre les URL malveillants. Vous découvrirez comment Microsoft 365 ATP protège les utilisateurs des menaces avancées par des fonctions telles que les pièces jointes et les liens fiables, et comment il produit des rapports qui fournissent aux administrateurs des informations sur les attaques qui ciblent leurs locataires par email.
+  Dans ce module, vous découvrirez les caractéristiques et la fonctionnalité de Microsoft Exchange Online Protection (EOP). Vous apprendrez également comment planifier le routage de la messagerie pour ce service, qui fournit des politiques anti-malware et anti-spam qui protègent votre organisation contre les spams et les malwares et la protège contre les violations des politiques de messagerie. Vous passerez ensuite en revue la protection anti-malware et anti-spam que fournissent Exchange Server et Online Protection, et vous apprendrez à configurer les filtres, politiques et paramètres anti-spam et anti-malware pour assurer la protection de vos utilisateurs. Vous conclurez le module en examinant Defender for Office 365 et la façon dont il étend la protection fournie par EOP en filtrant les attaques ciblées qui pourraient passer à travers la ligne de défense de EOP, y compris les menaces avancées telles que les attaques de type jour zéro dans les pièces jointes des courriels et les documents Office et la protection du temps de clic contre les URLs malveillantes. Vous apprendrez comment Defender for Office 365 protège les utilisateurs contre les menaces avancées grâce à des fonctionnalités telles que les pièces jointes et les liens sécurisés, et comment il génère des rapports qui fournissent aux administrateurs un aperçu des attaques ciblant leurs locataires par le biais de la messagerie.
   #### Leçons
   - Planifier l’hygiène du message
   - Gérer les politiques anti-programme malveillant et anti-spam
-  - Gérer la protection avancée contre les menaces
+  - Gérer la protection contre les menaces avancées avec Defender for Office 365
 
 
   #### Laboratoire&#58; Gestion de l’hygiène de la messagerie
@@ -114,10 +114,11 @@ outlineSection: |-
   - Utiliser les fonctions supplémentaires pour filtrer le spam sortant et la mise en quarantaine.
   - Mettre en œuvre les fonctions de protection contre l’hameçonnage et l’usurpation d’identité.
   - Créer des règles de transport pour les exigences personnalisées.
-  - Décrire les fonctions de la protection avancée contre les menaces.
+  - Décrire les fonctionnalités de Microsoft Defender for Office 365
   - Décrire la protection assurée par les politiques de pièces jointes fiables et de liens fiables.
   - Comprendre les caractéristiques du renseignement fictif.
   - Savoir comment fonctionnent les politiques antiphishing de l’ATP.
+  - Comprendre comment utiliser l'analyseur de configuration
 
 
   ### Module 4&#58; Gestion de la conformité
@@ -161,7 +162,7 @@ outlineSection: |-
   - Configurer les politiques et les limitations des charges de travail.
   - Configurer les configurations des quotas.
   - Configurer l’intégration de Exchange Server et Skype Entreprise.
-  - Déployer les compléments d’Office 365.
+  - Déployer les applications intégrées de Office 365
   - Fournir un aperçu des fonctions de partage fédéré de la délégation dans Exchange.
   - Décrire les composants du partage fédéré.
   - Expliquer les considérations de conception et de mise en œuvre des approbations et des certificats de fédération.
@@ -229,7 +230,7 @@ outlineSection: |-
   - Décrire les différents objets des destinataires dans Exchange.
   - Décrire les boîtes aux lettres des ressources.
   - Décrire les boîtes aux lettres partagées.
-  - Décrire les boîtes aux lettres liées et les boîtes aux lettres de sites.
+  - Décrire les boîtes aux lettres liées
   - Décrire les groupes.
   - Créer et gérer les paramètres des boîtes aux lettres.
   - Créer et gérer les ressources et les boîtes aux lettres partagées.
@@ -291,7 +292,7 @@ outlineSection: |-
 
 
   ### Module 11&#58; Réalisation de la migration des boîtes aux lettres
-  Ce module examine les options disponibles pour la migration du courrier électronique vers Exchange Online, notamment la réalisation d’une migration ou l’utilisation de FastTrack pour déplacer les boîtes aux lettres des serveurs de messagerie existants vers Exchange Online. Ce module résume la migration et les options de coexistence et recommande à quel moment il convient d’utiliser quelle option. Le module examine ensuite les exigences d’exécution d’une migration IMAP, les options de migration disponibles, et les étapes effectuées durant une migration. Il étudie ensuite la planification et la réalisation d’une migration à basculement et intermédiaire. Il compare les approches des deux migrations, et vous découvrirez les exigences, activités de planification et processus de migration de chaque option. Le module se termine par un examen d’importantes tâches de migration supplémentaires, telles que la migration d’un fichier PST et les considérations de migration d’un dossier public. 
+  Ce module examine les options disponibles pour la migration de la messagerie vers Exchange Online, telles que l'exécution d'une migration ou l'utilisation de FastTrack pour déplacer les boîtes aux lettres de vos serveurs de messagerie existants vers Exchange Online. Ce module résume les options de migration et de coexistence et recommande quand utiliser telle ou telle option. Le module examine ensuite les conditions requises pour exécuter une migration IMAP, les options de migration disponibles et les étapes à suivre lors d'une migration. Le module examine ensuite comment planifier et effectuer une migration par coupure et par étapes. Il compare chacune de ces deux approches de migration, et vous découvrirez les exigences, les activités de planification et le processus de migration pour chaque option. Le module se termine par l'examen d'importantes tâches de migration supplémentaires, telles que les migrations entre locataires, la migration d'un fichier PST et les considérations relatives à la migration d'un dossier public.
   #### Leçons
   - Planifier les migrations des boîtes aux lettres
   - Effectuer les migrations des boîtes aux lettres
@@ -307,6 +308,7 @@ outlineSection: |-
   - Effectuer une migration et déplacer les boîtes aux lettres en utilisant une migration à basculement ou une migration intermédiaire.
   - Importer des fichiers PST vers des boîtes aux lettres d’Exchange Online.
   - Migrer les fichiers publics vers Exchange Online.
+  - Effectuer une migration inter-locataires
 
 
   ### Module 12&#58; Déploiement et résolution des problèmes d’un environnement hybride

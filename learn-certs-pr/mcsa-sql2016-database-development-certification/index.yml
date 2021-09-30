@@ -13,7 +13,13 @@ subTitle: Cette certification atteste de vos compétences en tant que profession
 levels:
 - advanced
 skills:
-- aucun
+- Gestion des données avec Transact-SQL 
+- Interrogation des données avec les composants avancés Transact-SQL 
+- Programmation des bases de données avec Transact-SQL 
+- Conception et mise en œuvre des objets de base de données
+- Mise en œuvre des objets programmables 
+- Gestion de la simultanéité des bases de données 
+- Optimisation des objets de base de données et de l'infrastructure SQL 
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762

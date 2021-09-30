@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Enterprise Security Fundamentals'
+metadata:
+  title: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+  description: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+uid: course.40551
+courseNumber: '40551-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire le paysage actuel de la cybersécurité
+- skill: Décrire la philosophie de la compromission assumée
+- skill: Identifier les facteurs qui contribuent au coût d'une brèche
+- skill: Distinguer les responsabilités des équipes rouges et des équipes bleues
+- skill: Identifier les objectifs typiques des cyber-attaquants
+- skill: Décrire une chaîne de mise à mort exécutée par les équipes de lecture
+- skill: Décrire le rôle, les objectifs et les activités de la chaîne d'élimination de l'équipe bleue dans les exercices de l'équipe rouge
+- skill: Décrire les moyens limitant la façon dont un attaquant peut compromettre des comptes non privilégiés.
+- skill: Décrire les méthodes utilisées pour restreindre les mouvements latéraux.
+- skill: Décrire comment la surveillance télémétrique est utilisée pour détecter les attaques.
+- skill: Expliquer le concept de la triade Confidentialité, Intégrité, et Disponibilité (CIA).
+- skill: Décrire les principales activités qui devraient être incluses dans les préparatifs de l'organisation.
+- skill: Identifier les grands principes d'élaboration et de maintien des politiques.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Cet atelier d'une journée sur la sécurité, dirigé par un instructeur, donne un aperçu des pratiques de sécurité permettant d'améliorer la posture de sécurité d'une organisation. L'atelier examine le concept d'équipe rouge - équipe bleue de professionnels de la sécurité, où un groupe de professionnels de la sécurité - l'équipe rouge - attaque une ou plusieurs parties de l'infrastructure de sécurité d'une entreprise, et un groupe opposé - l'équipe bleue - se défend contre l'attaque. Les deux équipes travaillent à renforcer les défenses de l'entreprise. Comme l'objectif des deux équipes est d'aider l'entreprise à atteindre un niveau de sécurité plus élevé, l'industrie de la sécurité appelle cette fonction, l'équipe violette.
+
+  Cet atelier fait partie d'une plus grande série d'ateliers proposés par Microsoft sur la pratique de la sécurité. Bien qu'il ne soit pas nécessaire d'avoir suivi l'un des autres cours de la série Security Workshop avant de suivre cet atelier, il est fortement recommandé de commencer par cet atelier de la série, Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+
+  #### Profil du public
+  Cet atelier d'une journée est destiné aux professionnels IT qui ont besoin d'une compréhension plus approfondie de la sécurité de Windows et qui souhaitent augmenter leur niveau de connaissances. Ce cours permet également d'acquérir des connaissances de base en matière de cybersécurité avant de suivre les autres cours de sécurité de cette série.
+prerequisitesSection: |-
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - L'écosystème actuel de la cyber-sécurité
+  - L'analyse des hacks sur les ordinateurs et les réseaux
+  - Gestion de base des risques
+outlineSection: |-
+  ### Module 1&#58; Comprendre le paysage de la cybersécurité
+  Dans ce module, vous découvrirez le paysage actuel de la cybersécurité et apprendrez comment, en adoptant la philosophie de la compromission assumée, vous pouvez restreindre la capacité d'un attaquant à se déplacer latéralement entre les systèmes d'information et à limiter sa capacité à élever ses privilèges au sein de ces systèmes.
+  Le paysage actuel de la cybersécurité est vaste et probablement impossible à appréhender dans sa totalité par une seule personne. Il existe toutefois plusieurs aspects de ce paysage auxquels les personnes intéressées par les principes fondamentaux de la sécurité des entreprises devraient prêter attention.
+  
+  #### Leçons
+  - Le paysage actuel de la cybersécurité
+  - Philosophie de l'hypothèse de compromis
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire le paysage actuel de la cybersécurité.
+  - Décrire la philosophie de l'hypothèse de compromission.
+  - Identifier les facteurs qui contribuent au coût d'une violation.
+
+
+  ### Module 2&#58; Équipe rouge&#58; pénétration, mouvement latéral, escalade et exfiltration.
+  Les exercices de l'équipe rouge contre l'équipe bleue impliquent la simulation d'une attaque contre le système d'information d'une organisation. L'équipe rouge simule et, dans certains cas, effectue la preuve des étapes du concept prises dans l'attaque contre les systèmes IT de l'organisation. L'équipe bleue simule la réponse à cette attaque.
+  Cette approche contradictoire permet non seulement d'identifier les vulnérabilités de sécurité dans la façon dont les systèmes IT de l'organisation sont configurés, mais permet également aux membres du personnel des systèmes d'information de l'organisation d'apprendre à détecter et à répondre aux attaques.
+  Dans ce module, vous apprendrez la pratique de l'approche équipe rouge contre équipe bleue pour détecter et répondre aux menaces de sécurité.
+  
+  #### Leçons
+  - Exercices de l'équipe rouge contre l'équipe bleue
+  - L'objectif des attaquants
+  - Chaîne d'élimination de l'équipe rouge
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Distinguer les responsabilités des équipes rouges et des équipes bleues.
+  - Identifier les objectifs typiques des cyber-attaquants.
+  - Décrire une chaîne d'élimination exécutée par les équipes rouges.
+
+
+  ### Module 3&#58; Détection, enquête, réponse et atténuation de l'équipe bleue
+  Dans ce module, vous apprendrez les rôles et les objectifs de l'équipe bleue dans les exercices d'attaque. Vous apprendrez la structure d'une attaque contre un objectif (Kill Chain) et les moyens limitant la façon dont un attaquant peut compromettre des comptes non privilégiés. Vous apprendrez également les méthodes utilisées pour limiter les mouvements latéraux qui empêchent les attaquants d'utiliser un système compromis pour attaquer d'autres systèmes et comment la surveillance télémétrique est utilisée pour détecter les attaques.
+  
+  #### Leçons
+  - L'équipe bleue
+  - Chaîne d'élimination de l'équipe bleue
+  - Limiter l'escalade des privilèges
+  - Restreindre les mouvements latéraux
+  - Détection des attaques
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Décrire le rôle, les objectifs et les activités de la chaîne de mise à mort de l'équipe bleue dans les exercices de l'équipe rouge.
+  - Décrire la structure d'une attaque contre un objectif (Kill Chain).
+  - Décrire les moyens limitant la façon dont un attaquant peut compromettre des comptes non privilégiés.
+  - Décrire les méthodes utilisées pour limiter les mouvements latéraux.
+  - Décrire comment la surveillance télémétrique est utilisée pour détecter les attaques.
+
+
+  ### Module 4&#58; Préparations organisationnelles
+  Il existe plusieurs préparatifs permanents qu'une organisation peut entreprendre pour améliorer son approche globale de la sécurité de l'information.  Dans ce module, nous allons examiner de plus près certaines d'entre elles. Vous découvrirez un modèle conceptuel pour réfléchir à la sécurité de l'information et comment aborder la sécurité de l'information et se préparer correctement, notamment en veillant à ce que votre organisation ait une approche délibérée de la sécurité de l'information.
+  
+  #### Leçons
+  - Triade de la CIA
+  - Préparation de l'organisation
+  - Développer et maintenir des politiques
+
+
+  #### Lab &#58; Conception d'une stratégie d'équipe bleue
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Expliquer le concept de la triade Confidentialité, Intégrité et Disponibilité (CIA).
+  - Décrire les principales activités qui doivent être incluses dans les préparatifs de l'organisation.
+  - Identifier les grands principes de développement et de maintien des politiques.
+  
+  Après avoir terminé ce laboratoire, les étudiants seront en mesure de&#58;
+  - Concevoir une approche de haut niveau pour atténuer les menaces
+  - Recommander des outils et une méthodologie facilitant la recherche des origines des cyberattaques.
+  - Fournir les étapes de haut niveau d'un effort de récupération
+  - Recommander des méthodes de prévention des cyberattaques
+  - Décrire les défis réglementaires qui résultent de l'exploitation de logiciels malveillants

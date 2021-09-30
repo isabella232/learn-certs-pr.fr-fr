@@ -44,6 +44,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 roles:
@@ -69,15 +72,15 @@ prerequisitesSection: |-
   
   Si vous êtes nouveau avec Azure et le cloud computing, envisagez l'une des ressources suivantes&#58;
   - Gratuit en ligne &#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
-  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
+  - Cours dirigé par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
   
   Si vous êtes nouveau avec Azure Administration, envisagez de prendre&#58;
   - Gratuit en ligne &#58; Conditions préalables pour Azure Administrators (https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
-  - Cours dirigés par un instructeur &#58; AZ-104&#58; Microsoft Azure Administrator (https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00) et AZ-010&#58; Azure Administration for AWS SysOps (https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00)
+  - Cours dirigés par un instructeur &#58; AZ-104&#58; Microsoft Azure Administrator (https://docs.microsoft.com/learn/certifications/courses/az-104t00) et AZ-010&#58; Azure Administration for AWS SysOps (https://docs.microsoft.com/learn/certifications/courses/az-010t00)
   
   Si vous êtes nouveau avec Azure Developer,  envisagez de prendre&#58;
   - Gratuit en ligne &#58; Créer des applications sans serveur (https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
-  - Cours dirigés par un instructeur &#58; AZ-204&#58; Developing Solutions for Microsoft Azure (https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00) and AZ-020&#58; Microsoft Azure Solutions for AWS Developers (https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00)
+  - Cours dirigés par un instructeur &#58; AZ-204&#58; Developing Solutions for Microsoft Azure (https://docs.microsoft.com/learn/certifications/courses/az-204t00) and AZ-020&#58; Microsoft Azure Solutions for AWS Developers (https://docs.microsoft.com/learn/certifications/courses/az-020t00)
 outlineSection: |-
   ### Module 1&#58; Planification pour DevOps.
   #### Enseignements

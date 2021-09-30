@@ -13,7 +13,24 @@ subTitle: Prouvez votre maîtrise du premier ensemble de compétences Windows Se
 levels:
 - intermediate
 skills:
-- aucun
+- Installation et configuration de serveurs
+- Configuration de rôles et de fonctionnalités de serveur
+- Configuration d'Hyper-V
+- Déploiement et configuration des services de réseaux de base
+- Installation et administration d'Active Directory
+- Création et gestion d'une stratégie de groupe
+- Déploiement, gestion et maintenance des serveurs
+- Configuration des services de fichier et d’impression
+- Configuration des services et de l'accès réseau
+- Configuration de l'infrastructure d'un serveur de stratégie réseau
+- Configuration et gestion d'Active Directory
+- Configuration et gestion d'une stratégie de groupe
+- Configuration et gestion de la haute disponibilité
+- Configuration de solutions de fichiers et de stockage
+- Mise en œuvre de la continuité de l'activité et de la récupération d'urgence
+- Configuration des services de réseau
+- Configuration de l’infrastructure d'Active Directory
+- Configuration de solutions d'accès et de protection des informations
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

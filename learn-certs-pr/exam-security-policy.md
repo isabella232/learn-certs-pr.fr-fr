@@ -22,7 +22,7 @@ Le Microsoft Certification Program exige des candidats qu'ils acceptent les term
 
 ## Sécurité du centre de test
 
-Le personnel des centres d'examen reçoit des politiques de sécurité qu'il doit appliquer afin d'obtenir et de conserver le statut de centre d'examen. Des inspections permanentes permettent de s'assurer que chaque centre de test maintient la sécurité décrite par Microsoft et le fournisseur d'examens. En outre, les surveillants des centres de test sont autorisés à prendre immédiatement les mesures appropriées à l'encontre des candidats qui enfreignent les règles de test. Si vous avez des inquiétudes concernant la sécurité de votre examen, veuillez envoyer un courriel à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Le personnel des centres de test connaît les politiques de sécurité qu'il doit appliquer afin d'obtenir et de conserver le statut de centre de test. Des inspections permanentes permettent de s'assurer que chaque centre de test maintient la sécurité décrite par Microsoft et le fournisseur d'examens. En outre, les surveillants des centres de test sont autorisés à prendre immédiatement les mesures appropriées à l'encontre des candidats qui enfreignent les règles de test. Si vous avez des inquiétudes concernant la sécurité de votre examen, remplissez ce [formulaire](https://aka.ms/wwlcertsecurity).
 
 Pour garantir la sécurité des examens de Microsoft Certification, les administrateurs des centres d'examen s'assurent que les ID fournies sont appropriées et vérifient qu'il s'agit bien de la personne qui s'est présentée à l'examen; ils parcourent périodiquement la zone d'examen; ils maintiennent des cloisons entre les postes d'examen; ils retirent les feuilles de brouillon, les appareils électroniques et tout autre matériel non autorisé, et ils empêchent la suppression du contenu de l'examen sous quelque forme que ce soit. En outre, les administrateurs du centre de test et les surveillants ne peuvent fournir aucun type d'aide concernant une question d'examen. Ils peuvent aider à résoudre des problèmes techniques mais ne peuvent pas aider à comprendre ou à répondre à une question d'examen.
 
@@ -30,7 +30,7 @@ Microsoft peut suspendre les tests dans tout centre d'examen où des problèmes 
 
 ### Procédure d'appel du centre d'examen
 
-Les propriétaires de centres d'examen peuvent faire appel de la fermeture d'un site en soumettant un appel à l'adresse suivante [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Les propriétaires de centres de test peuvent faire appel de la fermeture d'un site en remplissant ce [formulaire](https://aka.ms/wwlcertsecurity).
 
 ## Examens hors du pays
 
@@ -81,7 +81,7 @@ Les exemples d'inconduite, d'abus et de fraude comprennent, sans s'y limiter, le
 
 ## Procédure d'appel des candidats
 
-Les candidats peuvent faire appel de leur interdiction en soumettant un appel à l'adresse suivante [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Les candidats peuvent faire appel de leur interdiction en remplissant ce [formulaire](https://aka.ms/wwlcertsecurity).
 
 Un candidat peut faire appel d'une interdiction pour falsification d'un relevé de notes en envoyant le relevé original (pas de scans ou de copies électroniques) à l'adresse suivante:
 
@@ -97,6 +97,6 @@ Une activité frauduleuse est tout ce qui permet à un candidat non qualifié de
 
 Le test par procuration consiste à faire passer un examen à un autre candidat. Certaines entreprises proposent des tests par procuration, garantissant que vous réussirez l'examen sans avoir à le passer. Il s'agit d'une activité frauduleuse. 
 
-Un "casse tête" est une source, telle qu'un site web, qui contient du contenu d'un examen de certification obtenu frauduleusement dans l'intention de le partager ou de le vendre à des candidats à l'examen. Le contenu inclus dans les "casses têtes" est exactement le même ou substantiellement similaire aux éléments figurant à l'examen. Étant donné que le contenu de l'examen a été obtenu de manière frauduleuse, l'utilisation de ce type de matériel pour préparer ou passer un examen constitue une tricherie. Les fournisseurs de casses têtes violent les droits de propriété intellectuelle de Microsoft et les accords de non-divulgation. Si vous pensez avoir découvert un site de "casse tête" avec du contenu Microsoft, veuillez nous en informer en envoyant un e-mail à [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Un casse-tête est une source, telle qu'un site Internet, qui contient du contenu d'un examen de certification obtenu frauduleusement dans l'intention de le partager ou de le vendre à des candidats à l'examen. Le contenu inclus dans les casse-têtes Étant donné que le contenu de l'examen a été obtenu de manière frauduleuse, l'utilisation de ce type de matériel pour préparer ou passer un examen constitue une tricherie. Les fournisseurs de casse-têtes violent les droits de propriété intellectuelle de Microsoft et les accords de non-divulgation. Si vous pensez avoir découvert un site de casse-tête avec du contenu Microsoft, veuillez remplir ce [formulaire](https://aka.ms/wwlcertsecurity).
 
 Les rapports de résultats falsifiés sont des rapports que Microsoft considère comme inauthentiques ou qui trompent ou fraudent les autres de quelque manière que ce soit. Si Microsoft détermine qu'un candidat a falsifié un rapport de score, le candidat ne pourra plus se présenter à aucun examen Microsoft et ses certifications pourront être révoquées.

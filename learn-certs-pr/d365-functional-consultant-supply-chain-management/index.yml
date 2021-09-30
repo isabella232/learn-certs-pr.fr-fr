@@ -7,15 +7,19 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les candidats à cet examen analysent les besoins de l'entreprise et traduisent ces besoins en processus et solutions d'entreprise entièrement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
+  Les candidats à cette certification analysent les besoins de l'entreprise et traduisent ces besoins en processus et solutions d'entreprise entièrement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
   
-  Les candidats à cet examen ont une compréhension fondamentale des principes comptables et des opérations financières des entreprises, des concepts de service à la clientèle, de service sur le terrain, de fabrication, de vente au détail et de gestion de la chaîne d'approvisionnement. Ils se spécialisent généralement dans un ou plusieurs ensembles de fonctionnalités des applications Finance et opérations, notamment la finance, la fabrication et la gestion de la chaîne d'approvisionnement.
+  Les candidats à cette certification ont une compréhension fondamentale des principes comptables et des opérations financières des entreprises, des concepts de service à la clientèle, de service sur le terrain, de fabrication, de vente au détail et de gestion de la chaîne d'approvisionnement. Ils se spécialisent généralement dans un ou plusieurs ensembles de fonctionnalités des applications finance et opérations, notamment la finance, la fabrication et la gestion de la chaîne d'approvisionnement.
   
   Les candidats doivent avoir une certaine connaissance des pratiques de gestion de la chaîne d'approvisionnement, notamment l'approvisionnement, le commerce, la logistique, la gestion des entrepôts et la gestion des transports.
 subTitle: 'Les Dynamics 365 Supply Chain Management Functional Consultants sont responsables de rationaliser la comptabilité des coûts, la gestion de l’inventaire, la planification principale, et la gestion de l’entrepôt pour leurs clients.'
 levels:
 - intermediate
 skills:
+- Décrire les applications financières et opérationnelles, et étendre les applications en utilisant les technologies de Microsoft Power Platform.  
+- Configurer les fonctions administratives et les flux de travail  
+- Gérer les données financières et opérationnelles  
+- Valider et soutenir les solutions  
 - Mettre en œuvre la gestion des informations sur le produit
 - Implémentation de la gestion des stocks  
 - Implémenter et gérer les processus de la chaîne d'approvisionnement

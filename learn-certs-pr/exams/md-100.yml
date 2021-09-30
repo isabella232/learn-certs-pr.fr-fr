@@ -6,15 +6,13 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  <div><strong>Le contenu de cet examen sera mis à jour le 5 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong><br/><br/></div>
-
-  Si vous avez réussi l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ». Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
-
-  En tant qu'administrateurs, les candidats collaborent typiquement avec Microsoft 365 Enterprise Administrator pour concevoir et mettre en œuvre une stratégie de périphériques à la hauteur des attentes d'une organisation moderne.
-
-  Les candidats doivent être habitués aux charges de travail Microsoft 365 et doivent maîtriser et avoir de l’expérience dans le déploiement, la configuration et la maintenance des périphériques et technologies Windows 10 et non-Windows.
-
-  Vous pouvez avoir droit à des crédits universitaires ACE si vous réussissez cet examen de certification. Voir [crédits universitaires ACE pour les examens de certification](/learn/certifications/ace-credit-for-certification-exams) pour en savoir plus.
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 5 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  
+  Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent les périphériques et les applications clients dans un environnement d'entreprise. Les candidats gèrent les identités, les accès, les politiques, les mises à jour et les applications.
+  
+  En tant qu'administrateur, les candidats collaborent généralement avec M365 Enterprise Administrator pour concevoir et mettre en œuvre une stratégie de périphériques répondant aux besoins commerciaux d'une organisation moderne.
+  
+  Les candidats doivent être familiarisés avec M365 workloads et doivent être compétents et expérimentés dans le déploiement, la configuration et la maintenance de Windows 10 et de dispositifs et technologies non Windows.
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: déployer Windows; gérer les périphériques et les données; configurer le stockage et la connectivité; et maintenir Windows. Si vous avez passé Exam 70-698 avant son expiration le 31 mars 2019, il vous suffit de passer le MD-101 pour obtenir la Modern Desktop certification.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 5 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen a été mis à jour le 5 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
 - Déployer Windows (15-20%)
 - Gérer les périphériques et les données (25-30%)
 - Configurer le stockage et la connectivité (15-20%)

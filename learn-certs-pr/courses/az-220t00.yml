@@ -23,6 +23,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:
@@ -46,7 +49,7 @@ prerequisitesSection: |-
 
   Si vous découvrez Azure et le cloud computing, envisagez l’une des ressources suivantes&#58;
   - Formation Azure Fundamentals gratuite en ligne (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - Formation dispensée par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
+  - Formation dispensée par un instructeur&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01) 
 outlineSection: |-
   ### Module 1&#58; Introduction à l’Internet des Objets et aux services IoT Azure
   Dans ce module, les étudiants commenceront par examiner les considérations professionnelles de diverses implémentations IoT et examineront comment l’architecture de référence IoT Azure prend en charge les solutions IoT. Ce module présente également aux étudiants une présentation des services Azure couramment utilisés dans une solution IoT et fournit une introduction au portail Azure.

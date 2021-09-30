@@ -12,7 +12,6 @@ summary: |-
   Si vous êtes titulaire de cette certification et qu’elle arrive à échéance dans les six prochains mois, vous pouvez la renouveler. Prouvez que vous êtes resté à jour en ce qui concerne les dernières mises à jour de Azure Machine Learning en réussissant l’évaluation de renouvellement. Vous pouvez également vous préparer au renouvellement grâce à l’excellente collection de modules d’apprentissage.
 skills:
 - Introduction à Azure Machine Learning SDK
-- Former un modèle d’apprentissage machine avec Azure Machine Learning
 - Travailler avec des données dans Azure Machine Learning
 - Travailler avec des calculs dans Azure Machine Learning
 - Orchestrer l’apprentissage machine avec des pipelines

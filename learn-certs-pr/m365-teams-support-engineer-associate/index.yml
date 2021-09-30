@@ -6,10 +6,10 @@ metadata:
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les candidats à cet examen sont des ingénieurs support qui prennent en charge les environnements Microsoft Teams, dépannent les déploiements, règlent les performances, collectent et analysent les données de télémétrie et de journal, et gèrent les environnements Teams.
+  Les candidats à cette certification sont des ingénieurs de support qui prennent en charge les environnements Microsoft Teams, dépannent les déploiements, règlent les performances, collectent et analysent les données de télémétrie et de journal, et gèrent les environnements Teams.
   
   Les candidats doivent avoir une exposition significative aux communications unifiées et une expérience pratique de Microsoft Teams. En outre, les candidats doivent avoir une connaissance du réseau des fondamentaux de Azure, de la téléphonie, de PowerShell, des technologies de stockage de données, des APIs, de la sécurité des apps, de l'authentification et de l'autorisation, de la sécurité et des informations de conformité, du débogage, de l'ajustement des performances et de la surveillance.
-subTitle: Les candidats à cet examen sont des ingénieurs de support qui prennent en charge les environnements Microsoft Teams, dépannent les déploiements, règlent les performances, collectent et analysent les données de télémétrie et de journal, et gèrent les environnements Teams.
+subTitle: Les candidats à cette certification sont des ingénieurs de support qui prennent en charge les environnements Microsoft Teams, dépannent les déploiements, règlent les performances, collectent et analysent les données de télémétrie et de journal, et gèrent les environnements Teams.
 levels:
 - intermediate
 skills:

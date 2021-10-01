@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 29 juillet 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Si vous avez réussi l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) avant son retired le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ».
 
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 29 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Déployer et mettre à niveau des systèmes d'exploitation (25-30%)
 - Gérer des politiques et des profils (20-25%)
 - Gérer et protéger des périphériques (30-35%)

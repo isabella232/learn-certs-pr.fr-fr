@@ -6,21 +6,33 @@ metadata:
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
+
   L'administrateur des identités et des accès Microsoft conçoit, met en œuvre et exploite les systèmes de gestion des identités et des accès d'une entreprise en utilisant Azure Active Directory (Azure AD). Il gère des tâches telles que la fourniture d'un accès sécurisé par authentification et autorisation aux applications d'entreprise. L'administrateur fournit des expériences transparentes et des capacités de gestion en libre-service pour tous les utilisateurs. L'accès adaptatif et la gouvernance sont des éléments essentiels de ce rôle. Ce rôle est également responsable du dépannage, de la surveillance et de la création de rapports pour l'environnement d'identité et d'accès.
   
   L'administrateur des identités et des accès peut être une personne seule ou un membre d'une équipe plus importante. Il collabore avec de nombreux autres rôles dans l'organisation pour mener des projets d'identité stratégiques visant à moderniser les solutions d'identité, à mettre en œuvre des solutions d'identité hybrides et à mettre en œuvre la gouvernance des identités.
 subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: mettre en œuvre une solution de gestion des identités; mettre en œuvre une solution d'authentification et de gestion des accès; mettre en œuvre la gestion des accès pour les applications; et planifier et mettre en œuvre une stratégie de gouvernance des identités."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+practiceTestUrl: https://www.mindhub.com/p/MU-SC-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
 locales:
 - en
 - ja
 - zh-cn
 - ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- de
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
+- Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Mettre en œuvre une solution de gestion des identités (25-30%)
 - Mettre en œuvre une solution d'authentification et de gestion des accès (25-30%)
 - Mettre en œuvre la gestion des accès aux applications (10-15%)

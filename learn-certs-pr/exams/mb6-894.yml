@@ -3,7 +3,7 @@ title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Financ
 metadata:
   title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
   description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
-uid: exam.mb-6-894
+uid: exam.mb6-894
 displayName: MB6-894
 summary: |-
   <div>
@@ -16,7 +16,7 @@ summary: |-
 
   Les candidats à cet examen de développement devraient avoir des connaissances modérées des concepts et des processus de programmation, ainsi qu’une compréhension des modifications et améliorations des finances et du commerce, et de nouveaux projets de développement qui s’appliquent aux différents scénarios de processus métiers.
 
-  <div style='font-weight&#58; bold;'><br/>Le contenu de cet examen sera mis à jour le 4 février 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen MB6-894.</div>
+  <div><strong><br/>Le contenu de cet examen sera mis à jour le 4 février 2020. Pour en apprendre plus sur ces modifications et leur effet sur les compétences mesurées, veuillez télécharger et consulter le document des modifications de l’examen MB6-894.</strong></div>
 subTitle: Les candidats à cet examen sont des consultants techniques, des programmeurs ou du personnel informatique qui mettent en œuvre les tâches techniques et de développement de base nécessaires pour personnaliser Microsoft Dynamics 365 Finance et Microsoft Dynamics 365 Commerce.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7

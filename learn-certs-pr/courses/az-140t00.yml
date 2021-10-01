@@ -7,16 +7,16 @@ uid: course.az-140t00
 courseNumber: 'AZ-140T00-A'
 hoursToComplete: 96
 skillsGained:
-- skill: Choisir un modèle de licence approprié pour  Windows Virtual Desktop 
-- skill: Mettre en place une mise en réseau pour Windows Virtual Desktop 
-- skill: Gérer les hôtes de session Windows Virtual Desktop à l'aide de Azure Bastion 
-- skill: Configurer le stockage des composants FSLogix  
-- skill: Créer et gérer des images d'hôtes de session 
-- skill: Implémenter les rôles Azure et le contrôle d'accès basé sur les rôles (RBAC) pour Windows Virtual Desktop 
-- skill: Configurer les paramètres d'expérience des utilisateurs du Windows Virtual Desktop 
-- skill: Installer et configurer des applications sur un hôte de session 
+- skill: Choisir un modèle de licence approprié pour Azure Virtual Desktop
+- skill: Mettre en place un réseau pour Azure Virtual Desktop
+- skill: Gérer les hôtes de session Azure Virtual Desktop en utilisant Azure Bastion
+- skill: Configurer le stockage des composants FSLogix
+- skill: Créer et gérer des images d'hôtes de session
+- skill: Mettre en œuvre les rôles Azure et le contrôle d'accès basé sur les rôles (RBAC) pour Azure Virtual Desktop
+- skill: Configurer les paramètres de l'expérience de Azure Virtual Desktop pour les utilisateurs
+- skill: Installer et configurer des applications sur un hôte de session
 - skill: Mettre en œuvre la continuité des activités et la reprise après sinistre
-- skill: Contrôler et gérer les performances du Windows Virtual Desktop 
+- skill: Surveiller et gérer les performances du Azure Virtual Desktop
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -27,132 +27,188 @@ roles:
 - administrator
 products:
 - azure
-- azure-active-directory
-- azure-active-directory-domain
-- azure-virtual-machines
-- azure-virtual-machines-windows
-- azure-netapp-files
-- azure-files
-- azure-bastion
-- azure-portal
-- windows-server
-- azure-clis
-- azure-resource-manager
-- azure-rbac
-- azure-policy
-- azure-security-center
-- m365-security-center
-- mem
-- office-onedrive
-- office-teams
-- azure-monitor
-- azure-advisor
-- azure-virtual-desktop
 exams:
 - uid: exam.az-140
 summary: |-
-  Ce cours enseigne aux administrateurs Azure comment planifier, fournir et gérer les expériences de bureau virtuel et les applications distantes, pour tout appareil, sur Azure. Les étudiants apprendront à travers un mélange de démonstrations et d'expériences pratiques en laboratoire à déployer des expériences et des applications de bureau virtuel sur Windows Virtual Desktop et à les optimiser pour qu'elles fonctionnent dans des environnements virtuels multi-sessions.
-  
+  Ce cours enseigne aux administrateurs Azure comment planifier, fournir et gérer des expériences de bureau virtuel et des applications distantes, pour tout appareil, sur Azure. Les étudiants apprendront à travers un mélange de démonstrations et d'expériences pratiques en laboratoire à déployer des expériences de bureau virtuel et des apps sur Azure Virtual Desktop et à les optimiser pour qu'elles fonctionnent dans des environnements virtuels multi-sessions.
+
   #### Profil du public
-  Les étudiants du cours AZ-140&#58; Configuring and Operating Windows Virtual Desktop on Microsoft Azure s'intéressent à la fourniture d'applications sur le Windows Virtual Desktop et à leur optimisation pour qu'elles fonctionnent dans des environnements virtuels multisession. En tant qu'administrateur de Windows Virtual Desktop, vous travaillerez en étroite collaboration avec les administrateurs et les architectes Azure, ainsi qu'avec les administrateurs Microsoft 365.
-  Les responsabilités de l'administrateur de Windows Virtual Desktop comprennent la planification, le déploiement, le conditionnement, la mise à jour et la maintenance de l'infrastructure de Azure Windows Virtual Desktop. Ils créent également des images d'hôtes de session, mettent en œuvre et gèrent FSLogix, surveillent les performances du Windows Virtual Desktop et automatisent les tâches de gestion du Windows Virtual Desktop.
+
+  Les étudiants de la formation AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop s'intéressent à la fourniture d'applications sur Azure Virtual Desktop et à l'optimisation de leur exécution dans des environnements virtuels multisession. En tant qu'administrateur de Azure Virtual Desktop, vous travaillerez en étroite collaboration avec les administrateurs et les architectes Azure, ainsi qu'avec les Microsoft 365 Administrators. Les responsabilités de l'administrateur Azure Virtual Desktop comprennent la planification, le déploiement, le conditionnement, la mise à jour et la maintenance de l'infrastructure Azure Virtual Desktop. Ils créent également des images d'hôtes de session, mettent en œuvre et gèrent FSLogix, surveillent les performances de Azure Virtual Desktop et automatisent les tâches de gestion de Azure Virtual Desktop.
 outlineSection: |-
-  ### Module 1&#58; Planification d'une architecture de Windows Virtual Desktop 
-  Dans ce module, vous apprendrez à évaluer les environnements de bureaux physiques et virtuels existants, à planifier et à configurer la résolution de noms pour Active Directory (AD) et Azure Active Directory Domain Services (Azure AD DS), et à planifier le déploiement de clients Windows Virtual Desktop.
+  ### Module 1: Planifier la mise en œuvre d'un Azure Virtual Desktop
+
+  Dans ce module, vous apprendrez à évaluer les environnements de bureaux physiques et virtuels existants, à planifier et à configurer la résolution de noms pour Active Directory (AD) et Azure Active Directory Domain Services (Azure AD DS), et à planifier les déploiements de clients Azure Virtual Desktop. format uniquement. Pas de puces ni de listes.
+
+  #### Leçons
+
+  *   Architecture Azure Virtual Desktop 
+
+  *   Concevoir l'architecture de Azure Virtual Desktop 
+
+  *   Concevoir des identités et des profils d'utilisateurs
+
+
+  #### Lab : Préparer le déploiement de Azure Virtual Desktop (Azure AD DS)
+
+  ####
+
+  #### Lab : Préparer le déploiement de Azure Virtual Desktop (AD DS)
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  *   Comprendre les composants de Azure Virtual Desktop
+
+  *   Comprendre les postes de travail personnels et mutualisés
+
+  *   Recommander un système d'exploitation pour une mise en œuvre de Azure Virtual Desktop
+
+  *   Planifier une architecture de pools d'hôtes
+
+  ### Module 2: mise en œuvre d'une infrastructure de Azure Virtual Desktop
+
+  Dans ce module, vous apprendrez à gérer la connectivité à Internet et aux réseaux sur site, à créer un pool d'hôtes à l'aide du portail Azure, à déployer des pools d'hôtes à l'aide des modèles Azure Resource Manager, à appliquer les mises à jour du système d'exploitation et des applications à un hôte de Azure Virtual Desktop en cours d'exécution et à créer une image maître.
+
+  #### Leçons
+
+  * Implémentation et gestion du réseau pour Azure Virtual Desktop.
+
+  * Implémentation et gestion du stockage pour Azure Virtual Desktop.
+
+  * Création et configuration de pools d'hôtes et d'hôtes de session
+
+  * Créer et gérer une image d'hôte de session
+
+
+  #### Lab : Déployer des pools d'hôtes et des hôtes de session en utilisant le Azure portal (AD DS)
+
+  ####
+
+  #### Laboratoire : Mise en œuvre et gestion du stockage pour Azure Virtual Desktop (Azure AD DS)
+
+  ####
+
+  #### Lab : Déployer des pools d'hôtes et des hôtes de session à l'aide des modèles Azure Resource Manager
+
+  ####
+
+  #### Lab : Déployer et gérer des pools d'hôtes et des hôtes à l'aide de PowerShell
+
+  ####
+
+  #### Lab : Créer et configurer des pools d'hôtes et des hôtes de session (Azure AD DS)
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Mettre en œuvre la connectivité du Azure virtual network
+
+  * Gérer la connectivité à l'internet et aux réseaux sur site
+
+  * Comprendre la connectivité du réseau du Azure Virtual Desktop
+
+  * Configurer un hôte de session de Azure Virtual Desktop en utilisant Azure Bastion.
+
+  * Configuration du stockage pour les composants FSLogix
+
+  * Configurer les disques et les partages de fichiers
+
+  * Modifier une image d'hôte de session
+
+  * Créer et utiliser une galerie d'images partagées (SIG)
   
-  #### Cours 
-  - Architecture du Windows Virtual Desktop
-  - Concevoir l'architecture WVD
-  - Conception des identités et des profils des utilisateurs
+  ### Module 3: Gestion de l'accès et de la sécurité
 
-  #### Laboratoire&#58; Préparer le déploiement de Azure Windows Virtual Desktop (Azure AD DS) 
+  Dans ce module, vous apprendrez à planifier et à mettre en œuvre les rôles Azure et le RBAC pour Azure Virtual Desktop, à mettre en œuvre les politiques d'accès conditionnel pour les connexions, à planifier et à mettre en œuvre MFA et à gérer la sécurité à l'aide de Azure Security Center.
 
-  #### Laboratoire&#58; Préparer le déploiement de Azure Windows Virtual Desktop (AD DS) 
+  #### Leçons
 
-  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Comprendre les composants du Windows Virtual Desktop
-  - Comprendre les postes de travail personnels et mutualisés
-  - Recommander un système d'exploitation pour une mise en œuvre de WVD
-  - Planifier une architecture de pools d'hôtes
+  * Gérer l'accès
+
+  * Gérer la sécurité
+
+
+  #### Labo : Configurer les politiques d'accès conditionnel pour les connexions au Azure Virtual Desktop (AD DS)
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Gérer les rôles locaux, les groupes et l'attribution des droits sur les hôtes d'une session Azure Virtual Desktop.
+
+  * Configurer les restrictions d'utilisateur en utilisant les politiques de groupe AD et les politiques Azure AD.
+
+  * Comprendre les composants de la politique d'accès conditionnel
+
+  * Préparer l'accès conditionnel basé sur Azure Active Directory (Azure AD) pour Azure Virtual Desktop.
+
+  * Mise en œuvre de l'accès conditionnel basé sur Azure AD pour Azure Virtual Desktop
   
-  ### Module 2&#58; Mise en œuvre d'une infrastructure WVD
-  Dans ce module, vous apprendrez à gérer la connectivité à Internet et aux réseaux sur site, à créer un pool d'hôtes à l'aide du portail Azure, à déployer des pools d'hôtes et des hôtes à l'aide de modèles Azure Resource Manager, à appliquer des mises à jour de système d'exploitation et d'application à un hôte WVD en cours d'exécution et à créer une image maître.
-  #### Cours 
-  - Mettre en œuvre et gérer les réseaux pour WVD
-  - Implémenter et gérer le stockage pour WVD
-  - Créer et configurer des pools d'hôtes et des hôtes de session
-  - Créer et gérer l'image de l'hôte de session
+  ### Module 4: Gérer les environnements utilisateurs et les applications
 
-  #### Laboratoire&#58; Créer et configurer des pools d'hôtes et des hôtes de session (Azure AD DS) 
+  Dans ce module, vous apprendrez à planifier FSLogix, à l'installer FSLogix, à configurer Cloud Cache, à déployer une application en tant que RemoteApp, et à mettre en œuvre et gérer OneDrive for Business pour un environnement multi-session.
 
-  #### Laboratoire&#58; Déployer des pools d'hôtes et des hôtes de session en utilisant le portail Azure (AD DS) 
+  #### Leçons
 
-  #### Laboratoire&#58; Mettre en œuvre et gérer le stockage pour WVD (Azure AD DS) 
+  *   Mettre en œuvre et gérer FSLogix
 
-  #### Laboratoire&#58; Déployer des pools d'hôtes et des hôtes en utilisant des modèles Azure Resource Manager 
+  * Configurer les paramètres de l'expérience utilisateur
 
-  #### Laboratoire&#58; Déployer et gérer des pools d'hôtes et des hôtes à l'aide des outils suivants PowerShell 
+  * Installer et configurer les applications sur un hôte de session
 
-  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Mettre en œuvre la connectivité du réseau virtuel Azure
-  - Gérer la connectivité à l'Internet et aux réseaux sur site
-  - Comprendre la connectivité réseau de Windows Virtual Desktop
-  - Configurer les hôtes de session WVD à l'aide de Azure Bastion 
-  - Configurer le stockage pour les composants FSLogix
-  - Configurer les disques et les partages de fichiers
-  - Modifier une image d'hôte de session
-  - Créer et utiliser une Shared Image Gallery (SIG)
+
+  #### Lab : Mettre en œuvre et gérer les profils de Azure Virtual Desktop (Azure AD DS)
+
+  ####
+
+  #### Lab : Package des applications Windows Azure Desktop (AD DS)
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  *   Configurer les conteneurs de profil
+
+  * Configurer Azure Files pour stocker les conteneurs de profil pour Azure Virtual Desktop dans un environnement AAD DS
+
+  *   Mettre en œuvre des profils basés sur FSLogix pour Azure Virtual Desktop dans un environnement Azure AD DS
+
+  *   Mettre en œuvre des profils basés sur FSLogix pour Azure Virtual Desktop
+
+  *  Préparer et créer des paquets d'applications MSIX
+
+  *   Mettre en œuvre un conteneur d'attachement d'application MSIX pour Azure Virtual Desktop dans un environnement AD DS
   
-  ### Module 3&#58; Gérer l'accès et la sécurité
-  Dans ce module, vous apprendrez à planifier et à mettre en œuvre des rôles Azure et RBAC pour WVD, à mettre en œuvre des politiques d'accès conditionnel pour les connexions, à planifier et à mettre en œuvre MFA, et à gérer la sécurité à l'aide du Centre de sécurité Azure.
-  #### Cours 
-  - Gérer l'accès
-  - Gérer la sécurité
+  ### Module 5 : Surveillance et maintenance d'une infrastructure Azure Virtual Desktop
 
-  #### Laboratoire&#58; Configurer les politiques d'accès conditionnel pour les connexions à WVD (AD DS)
-  
-  Après avoir terminé ce module, les étudiants seront en mesure de &#58;
-  - Gérer les rôles locaux, les groupes et l'attribution des droits sur les hôtes de session WVD.
-  - Configurer les restrictions d'utilisateur en utilisant les politiques de groupe AD et les politiques Azure AD.
-  - Comprendre les composants de la politique d'accès conditionnel
-  - Se préparer à l'accès conditionnel basé sur Azure Active Directory (Azure AD) pour Windows Virtual Desktop.
-  - Mettre en œuvre l'accès conditionnel basé sur Azure AD pour Windows Virtual Desktop
-  
-  ### Module 4&#58; Gérer les environnements et les applications des utilisateurs
-  Dans ce module, vous apprendrez à planifier FSLogix, à l'installer, à configurer Cloud Cache, à déployer une application en tant que RemoteApp, et à mettre en œuvre et gérer OneDrive for Business pour un environnement multi-session.
-  #### Cours 
-  - Mettre en œuvre et gérer FSLogix
-  - Configurer les paramètres de l'expérience utilisateur
-  - Installer et configurer des applications sur un hôte de session
+  Dans ce module, vous apprendrez à planifier et à mettre en œuvre un plan de reprise après sinistre pour Azure Virtual Desktop, à configurer l'automatisation pour Azure Virtual Desktop, à mettre en œuvre l'auto-scaling dans les pools d'hôtes et à optimiser la capacité et les performances des hôtes de session.
 
-  #### Laboratoire&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
+  #### Leçons
 
-  #### Laboratoire&#58; Gestion du profil Windows Virtual Desktop (Azure AD DS)
+  * Planifier et mettre en œuvre la continuité des activités et la reprise après sinistre
 
-  #### Laboratoire&#58; Conditionnement de l'application Windows Virtual Desktop (AD DS)
+  * Automatisation des tâches de gestion de Azure Virtual Desktop
 
-  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Configuration des conteneurs de profil
-  - Configurer Azure Files pour stocker les conteneurs de profil pour WVD dans un environnement AAD DS
-  - Mettre en œuvre des profils basés sur FSLogix pour Windows Virtual Desktop dans un environnement Azure AD DS
-  - Mise en œuvre de profils basés sur FSLogix pour Windows Virtual Desktop
-  - Préparer et créer des paquets d'applications MSIX
-  - Mise en œuvre du conteneur d'attachement d'applications MSIX pour Windows Virtual Desktop dans un environnement AD DS
-  
+  * Surveillance et gestion des performances et de la santé
 
-  ### Module 5&#58; Surveiller et maintenir une infrastructure WVD
-  Dans ce module, vous apprendrez à planifier et à mettre en œuvre un plan de reprise après sinistre pour WVD, à configurer l'automatisation pour WVD, à mettre en œuvre l'autoscaling dans les pools d'hôtes et à optimiser la capacité et les performances des hôtes de session. 
-  #### Cours 
-  - Planifier et mettre en œuvre la continuité des activités et la reprise après sinistre
-  - Automatiser les tâches de gestion de WVD
-  - Surveiller et gérer les performances et la santé
 
-  #### Laboratoire&#58; Implémentation de l'autoscaling dans les pools d'hôtes (AD DS) 
-  
-  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
-  - Planifier et mettre en œuvre un plan de reprise après sinistre pour WVD
-  - Configurer l'automatisation pour WVD
-  - Surveiller WVD en utilisant Azure Monitor
-  - Personnaliser les classeurs Azure pour la surveillance de WVD.
-  - Configurer la mise à l'échelle automatique des hôtes de session Windows Virtual Desktop.
-  - Vérifier la mise à l'échelle automatique de l'hôte de session Windows Virtual Desktop
+  #### Laboratoire : Mise en œuvre de la mise à l'échelle automatique dans les pools d'hôtes (AD DS)
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de :
+
+  * Planifier et mettre en œuvre un plan de reprise après sinistre pour Azure Virtual Desktop.
+
+  * Configurer l'automatisation pour Azure Virtual Desktop
+
+  * Surveiller Azure Virtual Desktop à l'aide de Azure Monitor.
+
+  * Personnaliser les Azure Workbooks pour la surveillance de Azure Virtual Desktop.
+
+  * Configurer la mise à l'échelle automatique des hôtes de session Azure Virtual Desktop.
+
+  * Vérification de la mise à l'échelle automatique de l'hôte de session Azure Virtual Desktop

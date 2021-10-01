@@ -25,14 +25,15 @@ subTitle: "Les Dynamics 365 Finance Functional Consultants sont responsables d�
 levels:
 - intermediate
 skills:
-- Utiliser les outils communs de fonctionnalité et de mise en œuvre
-- Configurer la sécurité, les processus et les options
-- Gérer les données relatives aux finances et aux opérations
-- Valider et soutenir la solution
-- Configurer la gestion financière
-- Implémenter et gérer les comptes créditeurs et les dépenses
-- Implémenter les comptes débiteurs, le crédit, les recouvrements et la constatation des recettes
-- Gérer la budgétisation et les immobilisations
+- Décrire les applications financières et opérationnelles, et étendre les applications en utilisant les technologies de Microsoft Power Platform.  
+- Configurer les fonctions administratives et les flux de travail  
+- Gérer les données financières et opérationnelles  
+- Valider et soutenir les solutions 
+- Mettre en place et configurer la gestion financière 
+- Mettre en œuvre les comptes débiteurs, le crédit, les recouvrements et la reconnaissance des revenus 
+- Mettre en place et gérer les comptes fournisseurs et les dépenses 
+- Gérer la budgétisation 
+- Gérer les immobilisations
 roles:
 - functional-consultant
 type: role-based

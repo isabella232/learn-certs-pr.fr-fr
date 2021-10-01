@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Les candidats à cet examen sont des administrateurs de Microsoft Teams qui gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
+  description: Les administrateurs de Microsoft Teams gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Les candidats à cet examen sont des administrateurs de Microsoft Teams qui gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
+  Les candidats à cette certification sont des administrateurs Microsoft Teams qui gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
   
-  Les candidats à cet examen doivent être capables de planifier, déployer, configurer et sécuriser le chat Teams, les applications, les canaux, les réunions, les conférences audio/vidéo, les événements en direct, les appels et les périphériques certifiés Microsoft Teams.
-subTitle: Les candidats à cet examen sont des administrateurs de Microsoft Teams qui gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
+  Les candidats à cette certification doivent être capables de planifier, déployer, configurer et sécuriser le chat Teams, les applications, les canaux, les réunions, les conférences audio/vidéo, les événements en direct, les appels et les appareils certifiés Microsoft Teams.
+subTitle: Les administrateurs de Microsoft Teams gèrent Microsoft Teams pour faciliter une collaboration et une communication efficaces et efficientes dans un environnement Microsoft 365.
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

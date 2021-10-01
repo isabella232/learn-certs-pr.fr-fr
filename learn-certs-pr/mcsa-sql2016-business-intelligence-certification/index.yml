@@ -13,7 +13,13 @@ subTitle: Cette certification valide vos compétences dans les processus d'extra
 levels:
 - intermediate
 skills:
-- aucun
+- Conception, mise en œuvre et entretien d'un entrepôt de données
+- Extraction, transformation, et chargement des données
+- Génération de solutions de qualité des données
+- Conception d'un modèle sémantique BI multidimensionnelle
+- Conception d'un modèle sémantique BI tabulaire
+- Développement de requêtes avec des expressions multidimensionnelles (MDX) et des expressions d'analyse des données (DAX) 
+- Configuration et maintenance des services d'analyse de SQL Server (SSAS)
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

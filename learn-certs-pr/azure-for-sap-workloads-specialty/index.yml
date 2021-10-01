@@ -2,20 +2,21 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
+  description: Les architectes ou les ingénieurs de Azure for SAP Workloads travaillent en partenariat avec les administrateurs du cloud, les administrateurs de bases de données du cloud et les clients pour mettre en œuvre des solutions.
 uid: certification.azure-for-sap-workloads-specialty
+certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
+  Les candidats à cette certification doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et à l'exploitation à long terme d'une solution SAP sur Microsoft Azure.
   
   Les responsabilités d'un architecte ou d'un ingénieur pour Azure pour les charges de travail SAP comprennent la formulation de recommandations sur les services et l'ajustement des ressources, le cas échéant, pour une résilience, des performances, une échelle, un approvisionnement, une taille et une surveillance optimales.
   
   Les architectes ou les ingénieurs de Azure pour les charges de travail SAP s'associent aux administrateurs du cloud, aux administrateurs de bases de données du cloud et aux clients pour mettre en œuvre des solutions.
   
-  Un candidat à cet examen doit avoir une expérience et des connaissances approfondies des applications SAP: SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs OS pour les applications et bases de données SAP, le portail Azure, Azure Marketplace, les modèles Azure Resource Manager (modèles ARM), la virtualisation, l'infrastructure du cloud, les structures de stockage, la conception de la haute disponibilité, la conception de la reprise après sinistre, les concepts de protection des données et la mise en réseau.
+  Un candidat à cette certification doit avoir une expérience et des connaissances approfondies des applications SAP : SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, les serveurs OS pour les applications et bases de données SAP, le portail Azure, Azure Marketplace, les modèles Azure Resource Manager (modèles ARM), la virtualisation, l'infrastructure du cloud, les structures de stockage, la conception de haute disponibilité, la conception de reprise après sinistre, les concepts de protection des données et la mise en réseau.
   
-  Pour cet examen, nous vous recommandons vivement de posséder une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP.
-subTitle: Les candidats à cet examen doivent être des architectes ou des ingénieurs ayant une expérience et une connaissance approfondies du paysage système SAP et des normes industrielles spécifiques à la migration ou à l'intégration initiale et au fonctionnement à long terme d'une solution SAP sur Microsoft Azure.
+  Pour l'examen AZ-120, nous vous recommandons fortement de posséder une certification Azure Administrator Associate ou Azure Solutions Architect Expert, en plus des certifications SAP.
+subTitle: Les architectes ou ingénieurs pour Azure pour SAP Workloads s'associent aux administrateurs de cloud, aux administrateurs de bases de données de cloud et aux clients pour mettre en œuvre des solutions.
 levels:
 - advanced
 skills:

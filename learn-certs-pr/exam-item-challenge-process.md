@@ -31,7 +31,7 @@ Les examens de Microsoft Certification sont conçus pour garantir que les candid
 - Les contestations qui ne sont pas soumises via ce processus.
 - Contestations portant sur les méthodologies de notation (par exemple si le graphique en barres ne représente pas votre véritable note).
 - Contestations portant sur le format de l’examen (standard, tri, adaptatif).
-- Contestations d'examens bêta; si vous avez des commentaires supplémentaires sur un examen bêta que vous n'avez pas pu fournir pendant la phase de commentaires, veuillez les envoyer à [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Les contestations des examens bêta. (Étant donné que les examens bêta ont pour but d'identifier les problèmes grâce à la psychométrie et à l'analyse des commentaires des candidats, les questions sont souvent modifiées. Si une question est modifiée de manière substantielle, vous ne serez pas noté sur celle-ci).
 
 ### Procédure de contestation de question d’examen
 

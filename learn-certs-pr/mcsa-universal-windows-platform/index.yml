@@ -13,7 +13,17 @@ subTitle: Cette certification démontre votre maîtrise en matière de mise en �
 levels:
 - intermediate
 skills:
-- aucun
+- Gestion du flux de programme
+- Création et utilisation des types
+- Débogage d'applications et mise en œuvre de la sécurité 
+- Mise en œuvre de l'accès aux données 
+- Développement d'une mise en page XAML pour une interface utilisateur adaptative 
+- Mise en place des événements de navigation sur la page et de cycle de vie 
+- Mise en œuvre de l'accès aux données et de la liaison de données 
+- Mise en œuvre de la détection de fonction pour un codage adaptatif
+- Gestion des entrées utilisateur et des interactions utilisateur personnalisées 
+- Gestion de l'authentification et gestion des identités
+- Mise en œuvre des notifications, des tâches en arrière-plan et des composants réutilisables 
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

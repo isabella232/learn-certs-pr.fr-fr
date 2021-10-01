@@ -13,7 +13,13 @@ subTitle: Cette certification démontre vos compétences en matière d'installat
 levels:
 - intermediate
 skills:
-- aucun
+- Configuration de l'audit et de l'accès aux données 
+- Gestion des sauvegardes et des restaurations de bases de données
+- Gestion et contrôle des instances SQL Server
+- Gestion de la haute disponibilité et de la récupération d'urgence 
+- Mise en œuvre de SQL dans Azure 
+- Gestion des bases de données et des instances 
+- Gestion du stockage
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

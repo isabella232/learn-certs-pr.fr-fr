@@ -11,7 +11,7 @@ summary: |-
   Le candidat imagine et crée des solutions pour simplifier et automatiser les tâches et les processus pour lui-même et son équipe. Il comprend les données avec lesquelles il travaille, les problèmes qu'il doit résoudre, ainsi que les processus et les expériences d'application nécessaires. Le candidat peut ne pas avoir de formation IT formelle, mais il est à l'aise avec l'utilisation de la technologie pour résoudre des problèmes commerciaux.
   
   Le candidat est autonome et axé sur les solutions. Il peut se connecter et utiliser les fonctionnalités d'apps, notamment Microsoft Teams, les apps et services Microsoft 365 et les solutions tierces. Le candidat a le désir de comprendre les capacités et les limites des outils disponibles et comprend comment les appliquer. Le candidat est un défenseur des solutions Power Platform.
-subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : concevoir des solutions d'affaires ; créer des solutions ; analyser et visualiser des données."
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: concevoir des solutions d'affaires; créer des solutions; analyser et visualiser des données."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -83,6 +83,7 @@ paths:
 - uid: learn-bizapps.bring-ai
 - uid: learn-bizapps.ui-controls-canvas-app-powerapps
 - uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.work-power-platform-teams
 relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker

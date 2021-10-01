@@ -1,0 +1,350 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Collections and Site Owner Administration
+metadata:
+  title: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+  description: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+uid: course.55234
+courseNumber: '55234-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir et mettre en œuvre une structure de portail d'entreprise en utilisant les objets SharePoint 2016, notamment les sites, les bibliothèques, les listes et les pages.
+- skill: Expliquer le rôle de la sécurité et des permissions dans SharePoint 2016.
+- skill: Mettre en œuvre des lignes directrices pour la cohérence dans la construction d'un portail d'entreprise pour aider à l'administration quotidienne du contenu dans SharePoint 2016
+- skill: Améliorer la conception et le contenu d'un portail d'entreprise à l'aide de pages et de Web parts SharePoint 2016
+- skill: Expliquer l'importance de la gouvernance pour la planification et la gestion de la croissance future de l'entreprise mise en œuvre de SharePoint 2016
+- skill: Identifier les options permettant d'intégrer des données provenant d'autres systèmes tels que Microsoft Office, ainsi que de préserver les données existantes
+- skill: Expliquer le rôle des réseaux sociaux dans SharePoint 2016 et leur impact sur la collaboration.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Ce cours de cinq jours dirigé par un instructeur est destiné aux utilisateurs expérimentés et aux professionnels IT qui sont chargés de travailler dans l'environnement SharePoint 2016 et de procéder à l'administration de la collection de sites et des sites. Ce cours fournira une formation plus approfondie et ciblée sur les compétences importantes et populaires nécessaires pour effectuer l'administration de la collection de sites et des sites SharePoint avec SharePoint 2016 déployé sur site, dans Office 365 (SharePoint Online) ou un déploiement hybride (sur site connecté à Office 365).
+  
+  Ce cours est conçu pour compléter les compétences acquises dans d'autres cours Microsoft, qui se concentrent sur l'administration et le déploiement global du serveur SharePoint 2016 ainsi que sur la gestion globale de Office 365&#58;
+  - MOC 20339-1, Planning and Administering SharePoint 2016 
+  - MOC 20339-2, Advanced Technologies of SharePoint 2016 
+  - MOC 20347, Enabling and Managing Office 365
+
+  #### Profil du public
+  Ce cours est destiné aux personnes qui assurent l'administration des collections de sites et des sites et qui sont des utilisateurs expérimentés ou des professionnels de l'informatique chargés de prendre en charge ou de travailler dans l'environnement SharePoint 2016 sur site et/ou dans Office 365.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Système d'exploitation client Windows - soit Windows XP, Windows 7, Windows 8, ou Windows 10
+  - Microsoft Office 2007, Office 2010, Office 2013 ou Office 2016
+  - Microsoft Internet Explorer 7 ou une version ultérieure, ou un navigateur Web similaire.
+  - Il est recommandé aux étudiants d'être familiers avec les versions précédentes de SharePoint, mais ce n'est pas un prérequis obligatoire.
+outlineSection: |-
+  ### Module 1&#58; Premiers pas avec SharePoint 2016
+  Ce module explique aux administrateurs de collections de sites et de sites comment discuter de la terminologie de base et comment naviguer dans SharePoint 2016. Une fois que les administrateurs peuvent expliquer la terminologie de base et la façon de naviguer dans SharePoint, ils ont une base solide pour le reste du cours.
+  
+  #### Leçons
+  - Exploration de la collection de sites SharePoint 2016 et des Site Administrator Roles
+  - Définition de la terminologie SharePoint
+  - Naviguer dans un site SharePoint
+  - Interagir avec le ruban
+  - Création et modification du contenu de base
+  - Qu'est-ce que les métadonnées ?
+  - Versions de SharePoint
+  - Standard
+  - Entreprise
+  - O365
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Discuter de la terminologie de base
+  - Naviguer dans SharePoint 2016
+
+
+  ### Module 2&#58; Création d'une collection de sites avec des applications
+  Ce module explique aux administrateurs de collections de sites comment créer des sites, des bibliothèques de documents et des listes, ainsi que gérer la navigation. La première étape importante, après la planification du portail de l'entreprise, est l'exécution et la construction de la structure du site. La structure du site comprend les composants permettant de stocker et de présenter des informations, à savoir les sites, les listes et les bibliothèques, ainsi que les applications, qui sont nouvelles dans SharePoint 2016. La structure du site fournit le cadre de l'ensemble du portail.
+  
+  #### Leçons
+  - La structure de SharePoint
+  - Création d'un site
+  - Que contient un modèle de site?
+  - Définition des applications SharePoint
+  - Personnalisation des listes et des bibliothèques
+  - Créer/gérer des listes et des bibliothèques via SharePoint Designer
+  - Explication des vues sur les listes et les bibliothèques
+  - Créer des vues dans les listes et les bibliothèques
+  - Modifier la navigation
+  - Activation et désactivation des fonctionnalités d'un site
+  - Réorganiser un site à l'aide de la fonction Contenu et structure du site
+
+
+  #### Lab &#58; Création d'un portail d'entreprise structuré
+  - Créer des sites dans le cadre d'une structure de site formelle
+  - Créer de nouvelles applications pour les documents et les listes
+  - Activer les paramètres de versionnement et d'approbation du contenu sur les bibliothèques ou les listes
+  - Personnaliser les vues sur les bibliothèques ou les listes
+  - Configurer la navigation pour masquer les listes et les bibliothèques
+
+
+  #### Lab &#58; Création d'une liste à l'aide de SharePoint Designer (facultatif)
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer des sites
+  - Documenter des bibliothèques et des listes
+  - Gérer la navigation
+
+
+  ### Module 3&#58; Créer une cohérence entre les sites
+  Ce module explique aux administrateurs de collections de sites comment gérer plus efficacement leurs collections de sites, ainsi que maintenir la cohérence à travers le site. La mise en place d'une collection de sites SharePoint implique souvent la répétition d'un certain nombre de tâches. Les administrateurs de collections de sites peuvent réduire l'effort de duplication en créant des objets réutilisables dans un emplacement central en utilisant les outils fournis.
+  
+  #### Leçons
+  - Définition des colonnes du site
+  - Définition des types de contenu
+  - Mise en œuvre d'une taxonomie
+  - Utilisation de modèles pour promouvoir la cohérence
+
+
+  #### Lab &#58; Création de colonnes de site et de types de contenu
+  - Concevoir et mettre en œuvre des types de contenu
+  - Créer de nouvelles colonnes de site
+  - Créer un modèle de bibliothèque ou de liste (facultatif)
+
+
+  #### Lab &#58; Implémentation d'une taxonomie
+  - Concevoir et créer une taxonomie
+  - Ajouter des colonnes de métadonnées gérées
+
+
+  #### Lab &#58; Configuration de l'organisateur de contenu
+  - Personnalisation des valeurs de colonne par défaut pour chaque dossier
+  - Approvisionner et configurer l'Organisateur de contenu pour le routage automatique des documents.
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Gérer plus efficacement leurs collections de sites
+  - Maintenir la cohérence de l'ensemble du site
+
+
+  ### Module 4&#58; Permissions SharePoint
+  Ce module explique comment les permissions fonctionnent dans une collection de sites, et comment les outils de SharePoint 2016 sont utilisés pour les gérer et les maintenir. Il est essentiel que les administrateurs de collections de sites et les administrateurs de sites SharePoint 2016 soient en mesure de créer et de gérer les autorisations dans SharePoint 2016.
+  
+  #### Leçons
+  - Explication des autorisations et de la sécurité dans SharePoint
+  - Création de groupes SharePoint
+  - Gestion des autorisations dans SharePoint
+  - Partage et sécurité traditionnelle
+  - Partage selon différents niveaux de permission
+
+
+  #### Lab &#58; Gestion des autorisations dans SharePoint
+  - Afficher les permissions des objets SharePoint
+  - Ajouter des utilisateurs et des groupes aux objets SharePoint
+  - Créer un nouveau groupe de gestionnaires SharePoint avec des permissions personnalisées
+  - Cesser d'hériter des permissions entre les objets SharePoint
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Savoir comment les permissions fonctionnent dans une collection de sites
+  - Savoir comment les outils de SharePoint 2016 sont utilisés pour la gestion et la maintenance de ces outils
+
+  ### Module 5&#58; Travailler avec des pages et des Web Parts
+  Ce module explique comment concevoir un portail d'entreprise à l'aide de Web Parts et de thèmes prêts à l'emploi dans SharePoint 2016.
+  
+  #### Leçons
+  - Modification de l'apparence du portail
+  - Modifier une page
+  - wiki
+  - web part
+  - Travailler avec des Web Parts et des composants d'applications
+  - Composants d'applications
+  - Web Part de recherche de contenu
+  - Documents pertinents
+  - Requête de contenu
+  - Table des matières
+  - Images
+  - Connexions de Web Partx
+  - Web parts avec filtre
+  - Web parts avec ciblage du public
+
+
+  #### Lab &#58; Ajouter et configurer des Web Parts
+  - Créer des types de contenu personnalisés pour la publication
+  - Créer un modèle de liste
+  - Créer une propriété gérée
+  - Utiliser le Web Part de recherche de contenu
+
+
+  #### Lab &#58; Connexion des Web Parts
+  - Placer des web parts sur une page
+  - Connecter des web parts sur une page pour transmettre des valeurs entre eux
+
+
+  #### Lab &#58; Application de thèmes au portail de votre entreprise
+  - Personnaliser et appliquer un thème à votre portail
+  - Ajouter un logo à votre portail
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - concevoir un portail d'entreprise à l'aide de web part et de thèmes prêts à l'emploi
+
+
+  ### Module 6&#58; Gestion des documents et des dossiers
+  Ce module explique comment tirer parti des outils de gestion des documents inclus dans SharePoint 2016. Qu'il s'agisse d'une petite ou d'une grande entreprise, ce module explore comment toute entreprise peut tirer parti de SharePoint pour le versionnage, la conformité, le routage et eDiscovery.
+  
+  #### Leçons
+  - Approbation du contenu de base
+  - Versionnage
+  - Entrée/sortie
+  - Détentions
+  - Politique de conservation
+  - ID du document
+  - Organisateur de contenu
+  - Modèle de site du centre de politique de conformité
+  - EDiscovery
+  - Centre d'enregistrement
+
+
+  #### Lab &#58; Utilisation des fonctions avancées de gestion des documents
+
+  #### Lab &#58; Tirer parti de la gestion des documents pour préserver les données
+  - Configurer un centre de gestion des documents pour héberger les documents nécessitant une mise en suspens.
+  - Configurer les enregistrements sur place dans les bibliothèques
+  - Configurer et exploiter un centre eDiscovery
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Tirer parti des outils de gestion de documents inclus dans SharePoint 2016
+
+
+  ### Module 7&#58; Flux de travail
+  Ce module explique comment automatiser les processus métier au sein d'une organisation. La possibilité d'initier, de suivre et de résoudre une activité dans SharePoint 2016 est possible grâce à l'utilisation d'un flux de travail. Qu'elle utilise les fonctions de flux de travail préconfigurées et prêtes à l'emploi ou qu'elle crée un flux de travail personnalisé à l'aide de SharePoint Designer, une organisation peut bénéficier de la migration des processus existants par courriel, sur papier ou informels vers SharePoint.
+  
+  #### Leçons
+  - Alerts
+  - Workflow prêt à l'emploi
+  - Activation des fonctionnalités du flux de travail
+  - Flux de travail d'approbation
+  - Créer un flux de travail dans SharePoint Designer
+
+
+  #### Lab &#58; Création d'un flux d'approbation à partir de SharePoint
+
+  #### Lab &#58; Création d'un flux de travail personnalisé dans SharePoint Designer (facultatif)
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Automatiser les processus métier au sein d'une organisation
+  - Lancer, suivre et résoudre des activités dans SharePoint 2016 à l'aide d'un flux de travail.
+
+
+  ### Module 8&#58; Intégration de Office
+  Ce module explique comment connecter SharePoint 2016 à Microsoft Office 2016. Il existe de nombreuses façons de le faire, notamment en connectant une bibliothèque de documents SharePoint 2016 à Microsoft Outlook, en reliant une base de données Access ou une feuille de calcul Excel à une liste dans SharePoint 2016, ou en utilisant Microsoft InfoPath pour créer des listes SharePoint 2016. L'intégration poussée de Microsoft Office 2016 est l'un des principaux avantages de l'utilisation de SharePoint 2016..
+  
+  #### Leçons
+  - Outlook
+  - Calendrier
+  - Contacts
+  - Excel
+  - Word
+  - PowerPoint
+  - OneDrive for Business
+  - OneNote
+  - Access
+
+
+  #### Lab &#58; Importation et exportation de données Excel avec SharePoint
+
+  #### Labo &#58; Relier Outlook et SharePoint
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Connecter SharePoint 2016 à Microsoft Office 2016
+
+
+  ### Module 9&#58; Création de sites de publication
+  Ce module explique comment utiliser les fonctionnalités de publication de SharePoint 2016 pour créer des pages de contenu riche, ainsi que les fonctionnalités qui limitent les types de mises en page, d'images et de modèles disponibles pour les utilisateurs. Alors que certaines organisations ont besoin des capacités de stockage de documents et de tableaux de bord que SharePoint peut offrir, d'autres peuvent avoir besoin d'un moyen centralisé de distribuer du contenu informatif aux utilisateurs, qui n'interagissent pas autrement avec SharePoint de manière plus robuste.
+  
+  #### Leçons
+  - Pourquoi utiliser un site d'édition?
+  - Pages d'édition
+  - Permettre la Web Content Management
+  - Gérer la structure du Web Content
+  - Naviguer sur un site à l'aide de métadonnées gérées
+
+
+  #### Lab &#58; Création d'un site de publication riche
+  - Créer un site de gestion de contenu Web pour la publication d'actualités
+  - Configurer et utiliser des rendus d'images pour une gestion plus rapide des images
+
+
+  #### Lab &#58; Configuration d'un processus d'approbation de publication
+  - Ajoutez un processus d'approbation à votre site de publication
+
+
+  #### Lab &#58; Mise en œuvre d'un site de navigation géré
+  - Configurer et utiliser la navigation par métadonnées gérées
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser les fonctions de publication de SharePoint 2016 pour créer des pages de contenu riche.
+  - Utiliser les fonctions de publication qui limitent les types de mises en page, d'images et de modèles disponibles pour les utilisateurs
+
+
+  ### Module 10&#58; Combler le fossé social
+  Ce module explique comment mieux réaliser la gestion des talents internes, également connue sous le nom de gestion des connaissances. Une avancée importante de SharePoint 2016 est l'expansion des fonctionnalités d'informatique sociale. Par exemple, une organisation peut avoir besoin de trouver une personne possédant les compétences et les connaissances spécifiques pour l'aider à accomplir une tâche ou un projet. SharePoint 2016 offre une plateforme viable pour aider les organisations à gérer les talents ou les connaissances.
+  
+  #### Leçons
+  - Mes sites
+  - Configuration des fonctionnalités sociales dans SharePoint
+  - Messages, balises et mentions
+  - Création d'un site communautaire
+
+
+  #### Lab &#58; Concevoir une expérience sociale dans SharePoint 2016
+  - Activer les évaluations de contenu
+  - Configurer les flux RSS
+  - Gérer les profils d'utilisateurs
+
+
+  #### Lab &#58; Créer un site communautaire
+  - Créer et configurer un site communautaire
+  - Créer et gérer des discussions
+  - Reconnaître les utilisateurs qui contribuent à la communauté
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Mieux gérer les talents internes
+
+
+  ### Module 11&#58; Trouver des informations à l'aide de la recherche
+  Ce module explique comment trouver des informations rapidement et facilement. Les utilisateurs peuvent utiliser la fonction de recherche dans SharePoint 2016 pour effectuer des recherches dans diverses sources de contenu, notamment des documents, des personnes et des applications de ligne d'affaires, avec peu ou pas de configuration supplémentaire. En déployant peu d'efforts, les organisations peuvent créer une expérience de recherche robuste, en phase avec leurs besoins métier.
+  
+  #### Leçons
+  - Exploration des fonctionnalités de recherche dans SharePoint
+  - Configuration des paramètres de recherche
+  - Analyse de la recherche
+  - Visibilité de la recherche
+
+
+  #### Lab &#58; Configuration d'un centre de recherche avancée
+  
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Trouver des informations rapidement et facilement
+
+
+  ### Module 12&#58; Planification d'un portail d'entreprise à l'aide de SharePoint
+  Ce module explique comment développer un plan et un comité de gouvernance formels pour maintenir la qualité et la cohérence dans SharePoint. Pour ce faire, il présente le concept de gouvernance et met en évidence les meilleures pratiques.
+  La gouvernance définit les politiques, les procédures et les lignes directrices sur la façon dont SharePoint sera géré; elle décrit les rôles, les responsabilités et les actions nécessaires pour administrer et soutenir l'environnement SharePoint.
+  
+  #### Leçons
+  - Définir la gouvernance de SharePoint
+  - Travailler avec l'architecture d'information
+  - Mise en œuvre des hiérarchies de sites
+  - Discuter de l'exécution de la gouvernance
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Développer un plan et un comité de gouvernance formels pour maintenir la qualité et la cohérence de SharePoint.
+
+
+  ### Module 13&#58; Paramètres de l'administrateur de Site Collection
+  Ce module explique comment utiliser d'autres outils et paramètres dans SharePoint 2016. Les administrateurs de collections de sites ou les administrateurs de sites les configurent dans le cadre de leurs activités quotidiennes.
+  
+  #### Leçons
+  - Exploration des paramètres pour les administrateurs de collections de sites
+  - Exploration des paramètres pour les administrateurs de site
+  - Politiques de fermeture de site
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser d'autres outils et paramètres dans SharePoint 2016

@@ -31,7 +31,7 @@ courses:
 exams:
 - uid: exam.70-764
 - uid: exam.70-765
-- uid: exam.mb-6-894
+- uid: exam.mb6-894
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.

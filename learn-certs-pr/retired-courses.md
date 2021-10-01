@@ -19,6 +19,21 @@ Une fois qu'un cours est retiré, il n'est plus disponible. Le cours ne peut plu
 
 ## Cours retirés: Formation dirigée par un instructeur
 
+* Retrait des didacticiels le 29 octobre 2021
+
+    | Numéro de cours | Version | Titre | Langue | Date de retrait |
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | Anglais | 29/10/2021 |
+
+* Retrait des didacticiels le 30 septembre 2021
+
+    | Numéro de cours | Version | Titre | Langue | Date de retrait |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Anglais | 30/09/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Anglais | 30/09/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Anglais | 30/09/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Anglais | 30/09/2021 |
+
 * Retrait des didacticiels le 31 août 2021
 
     | Numéro de cours | Version | Titre | Langue | Date de mise hors service |

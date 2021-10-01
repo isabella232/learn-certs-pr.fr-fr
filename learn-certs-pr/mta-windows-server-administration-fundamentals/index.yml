@@ -13,12 +13,18 @@ subTitle: "Les certifications MTA sont un excellent point de départ si vous sou
 levels:
 - beginner
 skills:
-- Aucune
+- Compréhension de l'installation des serveurs 
+- Compréhension des rôles serveur 
+- Compréhension d'Active Directory 
+- Compréhension du stockage 
+- Compréhension de la gestion des performances du serveur
+- Compréhension de la maintenance du serveur 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIw9X
 exams:
 - uid: exam.98-365
 resources:

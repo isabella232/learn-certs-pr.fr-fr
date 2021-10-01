@@ -8,9 +8,9 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.s
 summary: |-
   Les candidats à la certification Azure Virtual Desktop Specialty sont des administrateurs Microsoft Azure ayant une expertise en matière de planification, de fourniture et de gestion d'expériences de bureau virtuel et d'applications à distance, pour tout appareil, sur Azure.
   
-  Les responsabilités de ce rôle incluent le déploiement d'expériences et d'applications de bureau virtuel sur Azure. Les professionnels de ce poste fournissent des applications sur Windows Virtual Desktop et les optimisent pour qu'elles fonctionnent dans des environnements virtuels multi-session. Pour offrir ces expériences, ils travaillent en étroite collaboration avec les administrateurs et les architectes de Azure, ainsi qu'avec les administrateurs de Microsoft 365.
+  Les responsabilités de ce rôle incluent le déploiement d'expériences et d'applications de bureau virtuel sur Azure. Les professionnels de ce rôle livrent des applications sur Azure Virtual Desktop et les optimisent pour qu'elles fonctionnent dans des environnements virtuels multi-sessions. Pour offrir ces expériences, ils travaillent en étroite collaboration avec les administrateurs et les architectes Azure, ainsi qu'avec les administrateurs de Microsoft 365.
   
-  Les candidats à cette certification doivent avoir une expérience des technologies Azure, notamment la virtualisation, la mise en réseau, l'identité, le stockage, les sauvegardes, la résilience et la reprise après sinistre. Ils doivent comprendre les technologies d'infrastructure de bureau virtuel sur site dans le cadre de la migration vers Windows Virtual Desktop. Ces professionnels utilisent le portail Azure et les modèles Azure Resource Manager (ARM) pour accomplir bon nombre de leurs tâches. Ils peuvent utiliser PowerShell et Azure Command-Line Interface (CLI) pour une automatisation plus efficace.
+  Les candidats à cette certification doivent avoir une expérience des technologies Azure, notamment la virtualisation, la mise en réseau, l'identité, le stockage, les sauvegardes, la résilience et la reprise après sinistre. Ils doivent comprendre les technologies d'infrastructure de bureau virtuel sur site dans le cadre de la migration vers Azure Virtual Desktop. Ces professionnels utilisent le portail Azure et les modèles Azure Resource Manager (ARM) pour accomplir bon nombre de leurs tâches. Ils peuvent utiliser PowerShell et Azure Command-Line Interface (CLI) pour une automatisation plus efficace.
   
   Les candidats à cette certification doivent avoir des compétences expertes en administration Azure.
 subTitle: Les candidats à la certification Azure Virtual Desktop Specialty sont des administrateurs Microsoft Azure possédant une expertise en matière de planification, de fourniture et de gestion d'expériences de bureau virtuel et d'applications à distance, pour tout appareil, sur Azure.
@@ -47,7 +47,7 @@ products:
 - office-teams
 - azure-monitor
 - azure-advisor
-- windows-virtual-desktop
+- azure-virtual-desktop
 paths:
 - uid: learn-m365.windows-virtual-desktop
 courses:

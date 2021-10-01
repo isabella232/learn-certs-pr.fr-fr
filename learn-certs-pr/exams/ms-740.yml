@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-740
 displayName: MS-740
 summary: |-
-  Les candidats à cet examen sont des ingénieurs de support chargés de prendre en charge les environnements Microsoft Teams, de dépanner les déploiements, de régler les performances, de collecter et d'analyser les données de télémétrie et de journal, et de gérer les environnements Teams.
+  Les candidats à cet examen sont des ingénieurs de support qui prennent en charge les environnements Microsoft Teams, dépannent les déploiements, règlent les performances, collectent et analysent les données de télémétrie et de journal, et gèrent les environnements Teams.
   
   Les candidats doivent avoir une exposition significative aux communications unifiées et une expérience pratique de Microsoft Teams. En outre, les candidats doivent avoir une connaissance du réseau des fondamentaux de Azure, de la téléphonie, de PowerShell, des technologies de stockage de données, des APIs, de la sécurité des apps, de l'authentification et de l'autorisation, de la sécurité et des informations de conformité, du débogage, du réglage des performances et de la surveillance.
   
@@ -21,11 +21,11 @@ levels:
 - intermediate
 skills:
 - Dépannage des problèmes vocaux de Microsoft Teams (15-20%)
-- Résolution des problèmes liés aux réunions et aux événements en direct de Microsoft Teams (20-25 %)
-- Dépannage des problèmes de fédération (10-15 %)
+- Résolution des problèmes liés aux réunions et aux événements en direct de Microsoft Teams (20-25%)
+- Dépannage des problèmes de fédération (10-15%)
 - Résolution des problèmes de signature dans Microsoft Teams (15-20%)
-- Résolution des problèmes liés aux équipes et aux canaux (10-15 %)
-- Résolution des problèmes liés aux fichiers (15-20 %)
+- Résolution des problèmes liés aux équipes et aux canaux (10-15%)
+- Résolution des problèmes liés aux fichiers (15-20%)
 roles:
 - administrator
 products:

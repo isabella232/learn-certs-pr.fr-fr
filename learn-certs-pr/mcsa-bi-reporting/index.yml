@@ -13,7 +13,12 @@ subTitle: Cette certification démontre votre expertise dans l'analyse de donné
 levels:
 - intermediate
 skills:
-- aucun
+- Consommer et transformer des données à l'aide de Power BI Bureau
+- Modéliser et visualiser les données 
+- Configurer des tableaux de bords, rapports et applications dans le service Power BI 
+- Consommer et transformer des données à l'aide de Microsoft Excel 
+- Données du modèle 
+- Visualiser les données 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +27,7 @@ products:
 courses:
 - uid: course.20778
 - uid: course.20779
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIwaM
 exams:
 - uid: exam.70-778
 - uid: exam.70-779

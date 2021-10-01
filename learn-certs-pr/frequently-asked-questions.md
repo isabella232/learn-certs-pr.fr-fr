@@ -49,10 +49,8 @@ Si vous avez des commentaires sur un cours de formation Microsoft dispensé par 
 **Comment puis-je fournir des commentaires à propos d'une question d'examen ou du déroulement d'un examen?**
 
 - Si vous avez des doutes sur l'exactitude technique d'un élément particulier, veuillez consulter le site suivant: [Processus de contestation des questions d'examen](/learn/certifications/exam-item-challenge-process).
-
 - Pour signaler un problème concernant un centre d'examen ou des difficultés techniques rencontrées lors de votre examen, veuillez contacter le service clientèle du fournisseur d'examens concerné.
-
-- Pour signaler un problème de sécurité, veuillez contacter [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+- Pour signaler un problème de sécurité, veuillez remplir ce [formulaire](https://aka.ms/wwlcertsecurity).
 - Pour nous faire part d'autres types de commentaires, veuillez contacter [support de certification](https://aka.ms/mcpforum).
 
 ## Détails des examens

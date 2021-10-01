@@ -13,12 +13,16 @@ subTitle: "Les certifications MTA sont un excellent point de départ si vous sou
 levels:
 - beginner
 skills:
-- Aucune
+- Gestion du cycle de vie des applications
+- Construction de l’interface utilisateur (IU) à l’aide de HTML5
+- Formatage de l’interface utilisateur à l'aide de Cascading Style Sheets (CSS)
+- Code à l’aide de JavaScript
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolX
 exams:
 - uid: exam.98-375
 resources:

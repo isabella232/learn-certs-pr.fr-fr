@@ -4,6 +4,7 @@ metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
   description: Les Microsoft 365 Developers conçoivent, construisent, testent et conservent des applications et des solutions optimisées pour répondre aux besoins de productivité et de collaboration des organisations qui utilisent la plateforme Microsoft 365.
 uid: certification.m365-developer-associate
+certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Les Microsoft 365 Developers conçoivent, construisent, testent et conservent des applications et des solutions optimisées pour répondre aux besoins de productivité et de collaboration des organisations qui utilisent la plateforme Microsoft 365.

@@ -13,7 +13,22 @@ subTitle: Prouvez votre maîtrise du premier ensemble de compétences Windows Se
 levels:
 - intermediate
 skills:
-- aucun
+- Installation de serveurs Windows dans des environnements hôtes et de calcul
+- Mettre en œuvre des solutions de stockage 
+- Mise en œuvre d'Hyper-V 
+- Mise en œuvre de conteneurs Windows 
+- Mettre en œuvre une haute disponibilité 
+- Maintien et surveillance des environnements de serveur
+- Mise en œuvre du système de nom de domaine (DNS)
+- Mise en œuvre de DHCP et de IPAM
+- Mise en œuvre de la connectivité réseau et les solutions d'accès à distance
+- Mise en œuvre de solutions réseau centrales et distribuées
+- Mise en œuvre d’une infrastructure réseau avancée
+- Installation et configuration des services de domaine Active Directory (AD DS)
+- Gestion et maintien d’AD DS
+- Création et gestion d'une stratégie de groupe
+- Mise en œuvre des services de certificat Active Directory (AD CS)
+- Mise en œuvre des solutions de fédération des identités et d’accès
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

@@ -13,9 +13,9 @@ summary: |-
 skills:
 - Gérer Windows 10 grâce à la cogestion à l’aide de System Center Configuration Manager
 - Simplifier la gestion des dispositifs avec Microsoft Endpoint Manager
-- Simplifier l’approvisionnement de l’accès et de l’identité avec Azure Active Directory
 - Livrer le courrier dans les boîtes de réception à l’extérieur de Microsoft 365 grâce à des connecteurs
-- Se défendre contre les menaces avec Microsoft Threat Protection
+- Protéger votre environnement avec Microsoft Defender for Identity
+- Protéger contre les menaces avec Microsoft Defender for Endpoint
 - Migrer les fichiers et les paramètres des utilisateurs dans Microsoft 365
 - Fournir les applications Microsoft 365 et les applications professionnelles
 - Protéger vos données avec les étiquettes de sensibilité

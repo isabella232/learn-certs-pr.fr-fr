@@ -6,15 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 09 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
-
-  Les candidats à cet examen analysent les besoins des entreprises et traduisent ces besoins en processus et solutions d'entreprise pleinement réalisés qui mettent en œuvre les meilleures pratiques de l'industrie. Les candidats servent de ressource clé dans la mise en œuvre et la configuration des applications pour répondre aux exigences de l'entreprise.
+  <div>
+  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 9 août 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  </div>
+  
+  Les consultants (fonctionnels et techniques) recueillent et analysent les besoins de l'entreprise et traduisent ces besoins en processus et solutions d'entreprise entièrement réalisés qui mettent en œuvre les pratiques recommandées par l'industrie. Ils constituent une ressource clé pour la mise en œuvre et la configuration des applications afin de répondre aux besoins de l'entreprise.
   <br/>
 
-  Les candidats comprennent les caractéristiques et les capacités communes des applications Finance et Opérations et savent comment les configurer et les utiliser. Ils doivent également savoir comment les applications Finance et Opérations s'intègrent à des systèmes et outils externes, notamment Power Platform. Le candidat gère activement le cycle de vie des applications en utilisant Lifecycle Services (LCS) et d'autres outils et plateformes Microsoft.
+  Les consultants doivent être capables de mettre en œuvre les composants et les fonctionnalités de base des applications Dynamics 365 Finance and Operations. Ils doivent également savoir comment les applications Dynamics 365 Finance and Operations s'intègrent aux systèmes et outils externes, notamment Power Platform. Le consultant utilise Lifecycle Services (LCS), Azure DevOps et d'autres outils et plateformes Microsoft pour faciliter le processus de gestion du cycle de vie des applications (ALM).
 
-  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de fonctionnalités des applications Finance et Opérations, notamment la finance, la fabrication et la gestion de la chaîne d'approvisionnement.
-subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: utiliser des fonctionnalités et des outils de mise en œuvre communs; configurer la sécurité, les processus et les options; gérer les données financières et opérationnelles; et valider et soutenir la solution."
+  Les consultants poursuivent leur formation continue en lisant les notes de mise à jour des produits, en examinant les feuilles de route des produits, en participant à des conférences ou en continuant à apprendre en utilisant Microsoft Learn, Microsoft Docs, les formations dispensées par des instructeurs, les blogs et les communautés d'utilisateurs. Ils doivent également poursuivre les certifications et les évaluations liées à leur rôle afin de s'assurer que leurs connaissances sont reconnues.
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: décrire les applications de finance et d'opérations, et étendre les applications en utilisant les technologies de Microsoft Power Platform; configurer les fonctionnalités et les flux de travail administratifs; gérer les données de Finance and Operation; et valider et soutenir la solution."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
--  contenu de cet examen sera mis à jour le 09 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
-- Utiliser des fonctionnalités communes et des outils d'implémentation (15-20%)
-- Configurer la sécurité, les processus et les options (30-35%)
-- Gérer les données relatives aux finances et aux opérations (25-30%)
-- Valider et soutenir la solution (15-20%)
+- Le contenu de cet examen a été mis à jour le 9 août 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Décrire les applications financières et opérationnelles, et étendre les applications en utilisant les technologies Microsoft Power Platform (20-25%).
+- Configurer les fonctions administratives et les flux de travail (30-35%)
+- Gérer les données financières et opérationnelles (25-30%)
+- Valider et soutenir les solutions (20-25%)
 roles:
 - functional-consultant
 products:

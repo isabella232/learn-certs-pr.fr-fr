@@ -14,7 +14,7 @@ summary: |-
   Les candidats à cet examen ont une compréhension fondamentale des principes comptables et des opérations financières des entreprises, des concepts de service à la clientèle, de service sur le terrain, de fabrication, de vente au détail et de gestion de la chaîne d'approvisionnement. Ils se spécialisent généralement dans un ou plusieurs ensembles de fonctions des applications Finance et opérations, notamment les finances, la fabrication et la gestion de la chaîne d'approvisionnement.
 
   Les candidats doivent avoir des connaissances des pratiques de gestion de la chaîne logistique, y compris de l'approvisionnement, du commerce, de la logistique, de la gestion des entrepôts et la gestion du transport.
-subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes : mettre en œuvre la gestion de l'information sur les produits ; mettre en œuvre la gestion des stocks ; mettre en œuvre et gérer les processus de la chaîne d'approvisionnement ; mettre en œuvre la gestion des entrepôts et du transport ; et mettre en œuvre l'optimisation de la planification."
+subTitle: "Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: mise en œuvre de la gestion de l'information sur les produits; mise en œuvre de la gestion des stocks; mise en œuvre et gestion des processus de la chaîne logistique; mise en œuvre de la gestion des entrepôts et du transport; et mise en œuvre de l'optimisation de la planification."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,11 +26,11 @@ levels:
 - intermediate
 skills:
 - Le contenu de cet examen a été mis à jour le 26 juillet 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
-- Mettre en œuvre la gestion des informations sur le produit (25-30 %)
-- Implémentation de la gestion des stocks  (15-20 %)
-- Implémenter et gérer les processus de la chaîne d'approvisionnement (15-20 %)
-- Implémenter la gestion des entrepôts et du transport (20-25 %)
-- Implémentation de l'optimisation de la planification (15-20 %)
+- Mettre en œuvre la gestion des informations sur le produit (25-30%)
+- Mettre en œuvre la gestion des stocks (15-20%)
+- Implémenter et gérer les processus de la chaîne d'approvisionnement (15-20%)
+- Implémenter la gestion des entrepôts et du transport (20-25%)
+- Implémentation de l'optimisation de la planification (15-20%)
 roles:
 - functional-consultant
 products:

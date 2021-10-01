@@ -13,12 +13,17 @@ subTitle: "Les certifications MTA sont un excellent point de départ si vous sou
 levels:
 - beginner
 skills:
-- Aucune
+- Comprendre les principes fondamentaux HTML
+- Comprendre les principes fondamentaux CSS 
+- Structurer les documents en utilisant HTML 
+- Présenter un multimédia en utilisant HTML 
+- Pages style Web utilisant CSS
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolW
 exams:
 - uid: exam.98-383
 resources:

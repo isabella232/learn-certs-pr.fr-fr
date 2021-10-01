@@ -1,0 +1,403 @@
+### YamlMime:Course
+title: 'Dynamics 365 Commerce Functional Consultant '
+metadata:
+  title: 'Course MB-340T00--A: Dynamics 365 Commerce Functional Consultant '
+  description: 'Course MB-340T00--A: Dynamics 365 Commerce Functional Consultant '
+uid: course.mb-340t00
+courseNumber: 'MB-340T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurer Dynamics 365 Commerce Headquarters
+- skill: Configurer produits, prix, remises, fidélité et affiliations
+- skill: Gérer les points de vente (POS) dans Dynamics 365 Commerce
+- skill: Configurer et gérer les centres d'appels Dynamics 365 Commerce 
+- skill: Gérer e-commerce
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-340
+summary: |-
+  Les consultants fonctionnels Dynamics 365 Commerce configurent et utilisent les fonctionnalités de l'application dans Microsoft Dynamics 365 Commerce, et assurent le support de l'application. Le consultant fonctionnel a généralement une bonne compréhension des opérations commerciales du commerce unifié, et une expérience de la configuration, du déploiement, de la maintenance et de l'utilisation de Microsoft Dynamics 365 Commerce. Ce cours de quatre jours couvre les éléments essentiels de ce rôle.
+
+  #### Profil du public
+
+  Le public visé par ce cours est soit un consultant Dynamics 365 qui souhaite apprendre le commerce, soit un analyste du commerce de détail ayant une expérience de base de Dynamics 365 et qui souhaite appliquer ses compétences à la famille de produits Dynamics.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir:
+
+  * Les compétences de base de Microsoft Dynamics 365 (ou la certification MB-300)
+
+  * Une compréhension générale des principes du commerce
+outlineSection: |-
+  ### Module 1: Démarrer avec Dynamics 365 Commerce
+
+  Dynamics 365 Commerce offre une solution omnicanale complète qui unifie le système d'exploitation, les expériences en magasin et le commerce électronique afin de personnaliser l'engagement des clients, d'augmenter la productivité des employés, d'optimiser les opérations et d'obtenir de meilleurs résultats commerciaux.
+
+  #### Leçons
+
+  * Introduction à la plateforme de commerce unifié
+
+  * Architecture de Dynamics 365 Commerce
+
+  * Déploiement de Dynamics 365 Commerce
+
+  * Matériel et périphériques
+
+
+  #### Lab : Discussion de groupe sur le matériel
+
+  ####
+
+  #### Lab : Discussion de groupe sur les topologies de magasin
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  * Décrire la plateforme Dynamics 365 Commerce et son évolution à partir de Dynamics 365 Retail.
+
+  * Expliquer les différents canaux de commerce et leurs objectifs.
+
+  * Comprendre l'architecture de la plateforme de commerce et le processus de déploiement.
+
+
+  ### Module 2: Configurer Commerce Headquarters
+
+  Avant de pouvoir créer et utiliser les canaux Dynamics 365 Commerce, plusieurs conditions préalables doivent être remplies. La configuration de ces conditions préalables permet de réussir les transactions dans les canaux de commerce.
+
+  #### Leçons
+
+  * Configurer les prérequis et les paramètres de Commerce
+
+  * Configurer et maintenir le traitement des paiements
+
+  * Configurer Commerce Data Exchange (CDX)
+
+  * Configurer les modes de livraison et les frais
+
+  * Configurer et travailler avec les relevés
+
+
+  #### Lab : Discussion de groupe sur la sélection du bon connecteur de paiement
+
+  ####
+
+  #### Lab : Configuration des prérequis pour le canal de la boutique en ligne
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de:
+
+  * Configurer Dynamics 365 Commerce
+
+  * Comprendre les prérequis de la configuration générale de Dynamics 365 Commerce
+  
+  ### Module 3: Produits et merchandising
+
+  Dynamics 365 Commerce est une solution de merchandising de bout en bout que vous pouvez utiliser pour gérer les cycles de vie des produits, de la création à la maintenance, la distribution et la publication via les canaux de commerce. Vous pouvez compléter les processus de manière cohérente en utilisant des workflows intégrés.
+
+  #### Leçons
+
+  * Gestion des informations sur les produits
+
+  * Merchandising dans Dynamics 365 Commerce
+
+  * Recommandations de produits et découverte de produits
+
+
+  #### Lab : Configurer un produit de vente au détail
+
+  ####
+
+  #### Lab : Discussion de groupe sur la découvrabilité des produits
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  * Avoir découvert comment configurer des produits
+
+  * Créer des catalogues et gérer les images des produits
+
+  * Savoir comment travailler avec les attributs et les assortiments.
+
+  * Comprendre le merchandising de bout en bout dans Dynamics 365 Commerce.
+
+
+  ### Module 4: Prix de détail
+
+  Dynamics 365 Commerce comprend un moteur de tarification omnicanal. Vous pouvez configurer le système pour que tous les canaux de commerce utilisent les mêmes options. Vous pouvez également créer des prix, des coupons de réduction et des promotions spécifiques à chaque canal.
+
+  #### Leçons
+
+  * Gérer la tarification
+
+  * Gérer les remises et les promotions
+
+
+  #### Lab : Remises au détail
+
+  ####
+
+  #### Lab : Créer et simuler des prix de vente
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de:
+
+  * Connaître le moteur de tarification de détail et ses spécificités.
+
+  * Configurer des groupes de prix
+
+  * Travailler avec les types de remises de détail
+
+  * Comprendre les rapports de prix
+
+  * Comprendre le prix de vente et les ajustements de prix
+  
+  ### Module 5: Fidélisation et expérience client
+
+  L'objectif de tout commerce de détail est d'accroître les ventes tout en augmentant la satisfaction des clients à l'égard de la marque du détaillant. Une bonne gestion de la clientèle et des politiques de fidélisation permettent aux associés de vente de devenir des conseillers de confiance et d'établir des relations à long terme avec leurs clients. Dynamics 365 Commerce aide les entreprises à obtenir une vue unifiée des clients et à gérer des incitations intéressantes pour les clients, y compris des affiliations et des programmes de fidélité.
+
+  #### Leçons
+
+  *   Gestion des clients
+
+  *   Fidélisation et affiliations
+
+
+  #### Lab : Configurer un nouveau programme de fidélisation
+
+  ####
+
+  #### Lab : Discussion de groupe sur l'importance du relationnel client dans la vente au détail
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de:
+
+  * Connaître l'objectif de la vente assistée
+
+  * Travailler avec la fonctionnalité d'affiliation
+
+  * Expliquer la fonctionnalité de fidélisation
+
+  * Comprendre la solution de clientélisme dans Dynamics 365 Commerce
+
+
+  ### Module 6: Point de vente
+
+  Dynamics 365 Commerce permet la configuration et la gestion centralisées de plusieurs canaux de commerce. Les exigences pour les opérations sur site sont uniques par rapport aux autres canaux de commerce. Les transactions peuvent être effectuées dans le point de vente (POS) de Dynamics 365 Commerce pour enregistrer les ventes et les retours de plusieurs façons.
+
+  #### Leçons
+
+  * Introduction au POS
+
+  * Configuration des canaux
+
+  * Configuration de la gestion des caisses et des équipes
+
+  * Configuration du travailleur
+
+  * Configuration du point de vente
+
+  * Gestion des clients au point de vente(POS)
+
+  * Traitement des transactions
+
+  * Traitement des paiements
+
+  * Traitement de l'inventaire
+
+  * Traitement de fin de journée
+
+  * Rapports
+
+  * Configurer et travailler avec la gestion des tâches
+
+  * Tester le point de vente (POS)
+
+  * Maintenance des caisses et des appareils
+
+  * Localisation
+
+
+  #### Lab : Créer un ordre d'enlèvement du client et enlever la commande
+
+  ####
+
+  #### Lab : Configurer une nouvelle caisse de POS et un dispositif
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  * Savoir concevoir la réception et la mise en page des écrans.
+
+  * Savoir configurer la carte d'un travailleur et lui attribuer des opérations et des permissions.
+
+  * Savoir comment créer un magasin de détail.
+
+  * Activer moderne POS (MPOS) et Cloud POS (CPOS).
+
+  * Créer une transaction de type cash and carry pour un client de passage.
+
+  * Avoir créé une commande client.
+
+  * Comprendre comment annuler et retourner des transactions.
+
+  * Suspendre et rappeler une transaction.
+
+  * Savoir comment travailler avec des articles sérialisés.
+
+  * Savoir comment travailler avec les opérations d'inventaire entrantes et sortantes dans un POS.
+
+  * Savoir créer et gérer le comptage des stocks.
+
+  * Savoir comment configurer les profils et créer des registres et des dispositifs.
+
+  ### Module 7: Configurer et travailler avec les centres d'appels dans Dynamics 365 Commerce
+
+  Dynamics 365 Commerce est une solution omnicanale qui fournit un canal de centre d'appels avec des capacités pour la capture des commandes, le traitement des paiements et le service client.
+
+  #### Leçons
+
+  * Configurer le canal
+
+  * Configurer les catalogues de produits
+
+  * Configurer les mises en attente des commandes
+
+  * Créer des commandes de centre d'appels
+
+  * Configurer la vente dirigée du centre d'appels
+
+  * Configurer les retours et les remboursements
+
+  * Configurer les commandes de continuité et la facturation à tempérament
+
+
+  #### Lab : Créer des transactions dans un centre d'appels
+
+  ####
+
+  #### Lab : Créer une commande dans un centre d'appels
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront capables de:
+
+  * Affecter à un canal : utilisateurs, modes de paiement, groupes de prix et modes de livraison.
+
+  * Savoir comment travailler avec les fonctionnalités du centre d'appel
+
+  * Créer des articles de vente incitative et de vente croisée
+
+  * Comprendre comment créer, annuler et retourner une commande de centre d'appels.
+
+  * Décrire comment mettre une commande en attente et la libérer de l'attente.
+
+  * Créer un canal de centre d'appels
+
+
+  ### Module 8: Travailler avec le commerce électronique dans Dynamics 365 Commerce
+
+  Dynamics 365 Commerce ajoute un ensemble d'outils de commerce électronique natif aux capacités existantes de Dynamics 365. Cet ensemble d'outils est conçu pour rationaliser les activités commerciales des organisations avec une solution de bout en bout sur les canaux traditionnels et émergents. Les capacités comprennent des outils de création et de développement intégrés, des vitrines numériques attrayantes et intelligentes, ainsi qu'une plateforme marketing et commerciale connectée.
+
+  #### Leçons
+
+  * Décrire les capacités de base du commerce électronique
+
+  * Configurer un canal de commerce électronique dans Dynamics 365 HQ
+
+  * Configurer un site de commerce électronique
+
+  * Configurer et gérer le contenu d'un site de commerce électronique
+
+  * Décrire et démontrer la gestion des actifs numériques
+
+  * Configurer un site B2B (d'entreprise à entreprise)
+
+  * Configurer la fonctionnalité des évaluations et des critiques
+
+  * Démonstration du traitement des commandes de commerce électronique
+
+
+  #### Labo : Créer et gérer un site de commerce électronique
+
+  ####
+
+  #### Lab : Configurer un canal de magasin en ligne
+
+  ####
+
+  Après avoir terminé ce module, les étudiants
+
+  * Comprendront comment utiliser l'outil de création de site pour créer et gérer un site de commerce électronique.
+
+  * Avoir appris à utiliser la bibliothèque de modules et les différents éléments du site
+
+  * Avoir appris à créer et à gérer une boutique en ligne
+  
+  ### Module 9: Gérer l'exécution des commandes et l'inventaire dans Dynamics 365 Commerce
+
+  Dynamics 365 Commerce fournit des fonctionnalités pour gérer l'inventaire des magasins, y compris les capacités de réapprovisionnement de l'inventaire des magasins, les opérations d'inventaire des magasins entrants et sortants, et l'exécution des commandes.
+
+  #### Leçons
+
+  * Configurer et travailler avec le réapprovisionnement des stocks
+
+  * Configurer et travailler avec l'exécution des commandes
+
+
+  #### Labo : Configurer une règle pour DOM &amp; la voir en action
+
+  ####
+
+  #### Lab : Scénarios, règles et exemples pour DOM
+
+  ####
+
+  Après avoir terminé ce module, les étudiants seront en mesure de:
+
+  * Décrire la fonctionnalité de gestion des commandes distribuées
+
+  * Configurer la gestion des commandes distribuées
+
+  * Comprendre la fonctionnalité d'exécution des commandes qui permet une exécution omnicanale des commandes.
+
+
+  ### Module 10: Travailler avec Dynamics 365 Fraud Protection
+
+  Dynamics 365 Fraud Protection est une solution basée sur le cloud qui est conçue pour le commerce électronique, les magasins de brique et de mortier, et les commerçants omnicanaux pour aider à protéger leurs revenus et leur réputation en fournissant des outils et des capacités pour diminuer la fraude et les abus, réduire les dépenses opérationnelles et augmenter les taux d'acceptation, tout en protégeant les comptes des utilisateurs contre l'exposition à la fraude.
+
+  #### Leçons
+
+  * Vue d'ensemble de Dynamics Fraud Protection
+
+  * Décrire les services de Dynamics Fraud Protection
+
+  * Configurer et travailler avec Dynamics Fraud Protection avec Dynamics 365 Commerce
+
+
+  #### Labo : Discussion de groupe : Une étude de cas de protection contre la fraude
+
+  ####
+
+  #### Lab : Discussion de groupe : Discuter des options pour identifier et prévenir la fraude
+
+  ####
+
+  Après avoir terminé ce module, les étudiants :
+
+  * Auront découvert les principales fonctionnalités de Dynamics 365 Fraud Protection
+
+  * Comprendront les bases du fonctionnement de Dynamics 365 Fraud Protection

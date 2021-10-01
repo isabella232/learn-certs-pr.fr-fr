@@ -6,9 +6,13 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div><font color='red'><strong>Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le document sur les compétences évaluées ci-dessous pour voir ce qui a changé.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le document sur les compétences mesurées ci-dessous pour voir ce qui va changer.</strong></font><br/><br/></div>
 
   Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre, la gestion et la surveillance de l’environnement Microsoft Azure d’une organisation.
+
+  Les responsabilités de ce rôle comprennent la mise en œuvre, la gestion et la surveillance de l'identité, de la gouvernance, du stockage, de l'informatique et des réseaux virtuels dans un environnement de cloud, ainsi que l'approvisionnement, la taille, la surveillance et l'ajustement des ressources, le cas échéant.
+  
+  L'administrateur Azure fait souvent partie d'une équipe plus importante chargée de mettre en œuvre l'infrastructure en cloud d'une organisation.
 
   Le candidat à cet examen doit avoir une expérience pratique de six mois ou plus dans l’administration d’Azure, ainsi que de solides connaissances des services fondamentaux d’Azure, des charges de travail d’Azure, de la sécurité et de la gouvernance. En outre, ce rôle doit maîtriser l’utilisation de PowerShell, Azure CLI, le portail Azure, et les modèles Azure Resource Manager.
 
@@ -29,10 +33,11 @@ locales:
 - ja
 - fr
 - es
+- de
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen a été mis à jour le 25 mai 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui a changé.
+- Le contenu de cet examen sera mis à jour le 24 septembre 2021. Veuillez télécharger le référentiel de compétences de l'examen ci-dessous pour voir ce qui va changer.
 - Gérer les identités et la gouvernance d’Azure (15-20%)
 - Mettre en œuvre et gérer le stockage (15-20%)
 - Déployer et gérer des ressources informatiques d’Azure (20-25%)

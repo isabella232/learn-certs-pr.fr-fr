@@ -14,10 +14,7 @@ ms.prod: non-product-specific
 
 ## Détails de la politique de reprogrammation et d'annulation.
 
-- <div><font color='red'>Si vous ne vous présentez pas à votre rendez-vous d'examen ou si vous ne le reportez pas ou ne l'annulez pas au moins 24 heures avant le rendez-vous prévu, vous perdez la totalité des frais d'examen.</font></div>
-- Les frais sont gratuits si vous reprogrammez ou annulez un rendez-vous d'examen au moins six jours ouvrables avant votre rendez-vous.
-- Si vous annulez ou reprogrammez votre examen dans les cinq jours ouvrables précédant votre heure d'examen enregistrée, des frais seront appliqués.
-- Si vous ne vous présentez pas à votre rendez-vous d’examen, sans reporter ou annuler votre rendez-vous au moins 24 heures avant la date fixée, vous renoncez à tous les frais d’examen. Les jours ouvrables sont du lundi au vendredi, sans compter les jours fériés mondiaux.
+Vous devez annuler et reprogrammer vos rendez-vous d’examen au moins 24 h avant le rendez-vous. Les candidats qui annulent ou reprogramment moins de 24 heures avant le rendez-vous perdront les frais déjà payés. En outre, si les candidats ont utilisé un voucher d’entreprise, cette dernière peut se voir facturer les frais de reprogrammation ou d’annulation si cela se produit moins de 24 heures avant le rendez-vous.
 
 ## Comment reprogrammer ou annuler votre examen?
 
